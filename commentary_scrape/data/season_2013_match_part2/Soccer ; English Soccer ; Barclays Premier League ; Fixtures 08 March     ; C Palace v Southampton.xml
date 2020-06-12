@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="C Palace" competition="English Premier League" game_date="2014-03-08 15:00" game_id_2="27159113" game_id_4="113030712" home_team_name="Southampton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-03-08 16:34:49" minute="94" period="2" second="15" team="Southampton" time="98" type="end" type_id="30"/>
+	<message comment="Jerome Thomas wins a corner (To the right)" last_modified="2014-03-08 16:30:51" minute="90" period="2" second="17" team="Southampton" time="94" type="corner" type_id="6"/>
+	<message comment="Steven Davis is substituted off" last_modified="2014-03-08 16:28:49" minute="88" period="2" second="15" team="C Palace" time="92" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" last_modified="2014-03-08 16:28:49" minute="88" period="2" second="15" team="C Palace" time="92" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is caught offside" last_modified="2014-03-08 16:28:34" minute="88" period="2" team="Southampton" time="92" type="offside" type_id="10000"/>
+	<message comment="Nathaniel Clyne recieves a yellow card" last_modified="2014-03-08 16:28:29" minute="87" period="2" second="55" team="C Palace" time="91" type="card received" type_id="17"/>
+	<message comment="Cameron Jerome is caught offside" last_modified="2014-03-08 16:26:34" minute="86" period="2" team="Southampton" time="90" type="offside" type_id="10000"/>
+	<message comment="José Fonte misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-03-08 16:25:53" minute="85" period="2" second="19" team="C Palace" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the right)" last_modified="2014-03-08 16:25:25" minute="84" period="2" second="51" team="C Palace" time="88" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie is substituted off" last_modified="2014-03-08 16:22:42" minute="82" period="2" second="8" team="Southampton" time="86" type="substitution off" type_id="18"/>
+	<message comment="Jerome Thomas is substituted on" last_modified="2014-03-08 16:22:42" minute="82" period="2" second="8" team="Southampton" time="86" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-03-08 16:19:38" minute="79" period="2" second="4" team="C Palace" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Joel Ward blocks a shot" last_modified="2014-03-08 16:19:38" minute="79" period="2" second="4" team="Southampton" time="83" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert is substituted off" last_modified="2014-03-08 16:15:34" minute="75" period="2" second="0" team="C Palace" time="79" type="substitution off" type_id="18"/>
+	<message comment="Sam Gallagher is substituted on" last_modified="2014-03-08 16:15:34" minute="75" period="2" second="0" team="C Palace" time="79" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is caught offside" last_modified="2014-03-08 16:14:34" minute="74" period="2" team="Southampton" time="78" type="offside" type_id="10000"/>
+	<message comment="Julian Speroni makes a save" last_modified="2014-03-08 16:13:29" minute="72" period="2" second="55" team="Southampton" time="76" type="save made" type_id="10"/>
+	<message comment="Luke Shaw has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-03-08 16:13:29" minute="72" period="2" second="55" team="C Palace" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Murray has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2014-03-08 16:11:14" minute="70" period="2" second="40" team="Southampton" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Shaw blocks a shot" last_modified="2014-03-08 16:11:14" minute="70" period="2" second="40" team="C Palace" time="74" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome wins a corner (To the left)" last_modified="2014-03-08 16:06:54" minute="66" period="2" second="20" team="Southampton" time="70" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon is substituted off" last_modified="2014-03-08 16:06:11" minute="65" period="2" second="37" team="Southampton" time="69" type="substitution off" type_id="18"/>
+	<message comment="Tom Ince is substituted on" last_modified="2014-03-08 16:06:11" minute="65" period="2" second="37" team="Southampton" time="69" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is substituted on" last_modified="2014-03-08 16:06:06" minute="65" period="2" second="32" team="Southampton" time="69" type="substitution on" type_id="19"/>
+	<message comment="Kagisho Dikgacoi is substituted off" last_modified="2014-03-08 16:06:06" minute="65" period="2" second="32" team="Southampton" time="69" type="substitution off" type_id="18"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" last_modified="2014-03-08 16:05:36" minute="65" period="2" second="2" team="C Palace" time="69" type="card received" type_id="17"/>
+	<message comment="Rickie Lambert misses attempt (Out of box, Right footed, Free kick)" last_modified="2014-03-08 15:58:05" minute="57" period="2" second="31" team="C Palace" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Mile Jedinak recieves a yellow card" last_modified="2014-03-08 15:57:22" minute="56" period="2" second="48" team="Southampton" time="60" type="card received" type_id="17"/>
+	<message comment="Steven Davis recieves a yellow card" last_modified="2014-03-08 15:54:59" minute="54" period="2" second="25" team="C Palace" time="58" type="card received" type_id="17"/>
+	<message comment="Mile Jedinak misses attempt (High, Out of box, Right footed, Free kick)" last_modified="2014-03-08 15:49:17" minute="48" period="2" second="43" team="Southampton" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Dejan Lovren recieves a yellow card" last_modified="2014-03-08 15:48:19" minute="47" period="2" second="45" team="C Palace" time="51" type="card received" type_id="17"/>
+	<message comment="Dean Moxey wins a corner (To the left)" last_modified="2014-03-08 15:46:56" minute="46" period="2" second="22" team="Southampton" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2014-03-08 15:45:34" minute="45" period="2" second="0" team="Southampton" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-03-08 15:48:56" minute="48" period="1" second="22" team="Southampton" time="48" type="end" type_id="30"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried safe)" last_modified="2014-03-08 15:48:51" minute="48" period="1" second="17" team="Southampton" time="48" type="save made" type_id="10"/>
+	<message comment="Luke Shaw has attempt saved (Low to the left, 18-yard box, Left footed, From corner)" last_modified="2014-03-08 15:48:51" minute="48" period="1" second="17" team="C Palace" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana wins a corner (To the left)" last_modified="2014-03-08 15:48:30" minute="47" period="1" second="56" team="C Palace" time="47" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie has attempt saved (Low to the centre, Out of box, Right footed, From corner)" last_modified="2014-03-08 15:48:01" minute="47" period="1" second="27" team="Southampton" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Parried safe)" last_modified="2014-03-08 15:48:01" minute="47" period="1" second="27" team="C Palace" time="47" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" last_modified="2014-03-08 15:46:58" minute="46" period="1" second="24" team="Southampton" time="46" type="corner" type_id="6"/>
+	<message comment="José Fonte recieves a yellow card" last_modified="2014-03-08 15:45:59" minute="45" period="1" second="25" team="C Palace" time="45" type="card received" type_id="17"/>
+	<message comment="Rickie Lambert hits the woodwork (To the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:45:36" minute="45" period="1" second="2" team="C Palace" time="45" type="woodwork hit" type_id="14"/>
+	<message comment="Damien Delaney blocks a shot" last_modified="2014-03-08 15:44:48" minute="44" period="1" second="14" team="Southampton" time="44" type="save made" type_id="10"/>
+	<message comment="Steven Davis has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:44:48" minute="44" period="1" second="14" team="C Palace" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie misses attempt (High to the left, 18-yard box, Head, Open play)" last_modified="2014-03-08 15:38:31" minute="37" period="1" second="57" team="Southampton" time="37" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jay Rodriguez scores  (Low to the centre, Out of box, Big Chance, Right footed, Open play)" last_modified="2014-03-08 15:36:59" minute="36" period="1" second="25" team="C Palace" time="36" type="goal scored" type_id="16"/>
+	<message comment="Yannick Bolasie wins a corner (To the left)" last_modified="2014-03-08 15:36:08" minute="35" period="1" second="34" team="Southampton" time="35" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon wins a corner (To the left)" last_modified="2014-03-08 15:35:00" minute="34" period="1" second="26" team="Southampton" time="34" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" last_modified="2014-03-08 15:34:21" minute="33" period="1" second="47" team="Southampton" time="33" type="corner" type_id="6"/>
+	<message comment="Jack Cork is substituted off" last_modified="2014-03-08 15:33:59" minute="33" period="1" second="25" team="C Palace" time="33" type="substitution off" type_id="18"/>
+	<message comment="Victor Wanyama is substituted on" last_modified="2014-03-08 15:33:59" minute="33" period="1" second="25" team="C Palace" time="33" type="substitution on" type_id="19"/>
+	<message comment="Damien Delaney blocks a shot" last_modified="2014-03-08 15:28:17" minute="27" period="1" second="43" team="Southampton" time="27" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:28:17" minute="27" period="1" second="43" team="C Palace" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Murray has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:27:57" minute="27" period="1" second="23" team="Southampton" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" last_modified="2014-03-08 15:27:57" minute="27" period="1" second="23" team="C Palace" time="27" type="save made" type_id="10"/>
+	<message comment="Yannick Bolasie is caught offside" last_modified="2014-03-08 15:22:34" minute="22" period="1" team="Southampton" time="22" type="offside" type_id="10000"/>
+	<message comment="Glenn Murray wins a corner (To the left)" last_modified="2014-03-08 15:20:10" minute="19" period="1" second="36" team="Southampton" time="19" type="corner" type_id="6"/>
+	<message comment="Glenn Murray is caught offside" last_modified="2014-03-08 15:17:34" minute="17" period="1" team="Southampton" time="17" type="offside" type_id="10000"/>
+	<message comment="Luke Shaw wins a corner (To the left)" last_modified="2014-03-08 15:16:19" minute="15" period="1" second="45" team="C Palace" time="15" type="corner" type_id="6"/>
+	<message comment="Joe Ledley is caught offside" last_modified="2014-03-08 15:10:34" minute="10" period="1" team="Southampton" time="10" type="offside" type_id="10000"/>
+	<message comment="Glenn Murray is caught offside" last_modified="2014-03-08 15:09:34" minute="9" period="1" team="Southampton" time="9" type="offside" type_id="10000"/>
+	<message comment="Joel Ward blocks a shot" last_modified="2014-03-08 15:08:53" minute="8" period="1" second="19" team="Southampton" time="8" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:08:53" minute="8" period="1" second="19" team="C Palace" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin is caught offside" last_modified="2014-03-08 15:08:34" minute="8" period="1" team="C Palace" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2014-03-08 15:00:34" minute="0" period="14" second="0" team="Southampton" time="8" type="end" type_id="30"/>
+	<message comment="Glenn Murray misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-03-08 15:02:49" minute="2" period="1" second="15" team="Southampton" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-03-08 15:01:31" minute="0" period="1" second="57" team="C Palace" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2014-03-08 15:00:34" minute="0" period="1" second="0" team="Southampton" time="0" type="start" type_id="32"/>
+</Commentary>

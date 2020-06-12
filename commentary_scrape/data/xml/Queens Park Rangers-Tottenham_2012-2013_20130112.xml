@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Queens Park Rangers" competition="English Premier League" game_date="2013-01-12" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="12" time="96" type="end" type_id="30"/>
+	<message comment="Clint Hill blocks a shot" minute="90" period="2" second="31" time="94" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="31" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="90" period="2" second="22" time="94" type="save made" type_id="10"/>
+	<message comment="Scott Parker has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="22" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Mackie is caught offside" minute="88" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Stéphane Mbia is caught offside" minute="84" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (To the right, Out of box, Left footed, Free kick)" minute="83" period="2" second="20" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="81" period="2" second="18" time="85" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="81" period="2" second="18" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon is substituted off" minute="79" period="2" second="21" time="83" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="79" period="2" second="21" time="83" type="substitution on" type_id="19"/>
+	<message comment="Stéphane Mbia recieves a yellow card" minute="69" period="2" second="2" time="73" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor is substituted off" minute="68" period="2" second="25" time="72" type="substitution off" type_id="18"/>
+	<message comment="Clint Dempsey is substituted on" minute="68" period="2" second="25" time="72" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor has attempt saved (High to the left, 6-yard box, Head, From corner)" minute="67" period="2" second="40" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Julio César makes a save (Standing)" minute="67" period="2" second="40" time="71" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the left)" minute="67" period="2" second="14" time="71" type="corner" type_id="6"/>
+	<message comment="Kyle Naughton wins a corner (To the left)" minute="61" period="2" second="32" time="65" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="60" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Michael Dawson misses attempt (18-yard box, Head, From corner)" minute="59" period="2" second="13" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="58" period="2" second="56" time="62" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" minute="58" period="2" second="34" time="62" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="52" period="2" second="40" time="56" type="corner" type_id="6"/>
+	<message comment="Julio César makes a save (Diving, Feet, Parried safe)" minute="52" period="2" second="34" time="56" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="52" period="2" second="34" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker misses attempt (Out of box, Right footed, Free kick)" minute="51" period="2" second="36" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker misses attempt (Out of box, Right footed, Open play)" minute="47" period="2" second="10" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Julio César makes a save (Standing, Parried into danger)" minute="46" period="2" second="25" time="50" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (High to the right, Out of box, Left footed, Free kick)" minute="46" period="2" second="25" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="3" time="48" type="end" type_id="30"/>
+	<message comment="Shaun Wright-Phillips misses attempt (Out of box, Right footed, Open play)" minute="45" period="1" second="3" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Right footed, Open play)" minute="41" period="1" second="43" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé recieves a yellow card" minute="38" period="1" second="20" time="38" type="card received" type_id="17"/>
+	<message comment="Michael Dawson misses attempt (To the right, Out of box, Right footed, Open play)" minute="34" period="1" second="6" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker misses attempt (To the left, Out of box, Right footed, Open play)" minute="27" period="1" second="15" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Sandro is substituted off" minute="24" period="1" second="23" time="24" type="substitution off" type_id="18"/>
+	<message comment="Scott Parker is substituted on" minute="24" period="1" second="23" time="24" type="substitution on" type_id="19"/>
+	<message comment="Julio César makes a save (Standing)" minute="19" period="1" second="15" time="19" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="19" period="1" second="15" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (From shot off target, Collected)" minute="15" period="1" second="42" time="15" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt misses attempt (To the left, Out of box, Right footed, Open play)" minute="15" period="1" second="40" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Wright-Phillips misses attempt (High to the right, Out of box, Right footed, From corner)" minute="12" period="1" second="23" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="11" period="1" second="55" time="11" type="corner" type_id="6"/>
+	<message comment="Shaun Wright-Phillips wins a corner (To the left)" minute="11" period="1" second="9" time="11" type="corner" type_id="6"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (18-yard box, Right footed, Open play)" minute="11" period="1" second="6" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="11" period="1" second="6" time="11" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Julio César makes a save (Collected, Standing)" minute="5" period="1" second="32" time="5" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the right, 18-yard box, Right footed, From corner)" minute="5" period="1" second="32" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" minute="5" period="1" second="1" time="5" type="corner" type_id="6"/>
+	<message comment="Julio César makes a save (Parried safe, Diving)" minute="5" period="1" second="0" time="5" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="5" period="1" second="0" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Julio César makes a save (Diving)" minute="4" period="1" second="56" time="4" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="4" period="1" second="56" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Julio César makes a save (Diving, From shot off target)" minute="2" period="1" second="53" time="2" type="save made" type_id="10"/>
+	<message comment="Sandro misses attempt (Out of box, Right footed, Open play)" minute="2" period="1" second="53" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

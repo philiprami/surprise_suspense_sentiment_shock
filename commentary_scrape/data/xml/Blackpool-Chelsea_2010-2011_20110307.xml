@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Blackpool" competition="English Premier League" game_date="2011-03-07" home_team_name="Chelsea" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="5" time="97" type="end" type_id="30"/>
+	<message comment="Salomon Kalou misses attempt (High, 18-yard box, Big Chance, Right footed, Fast break)" minute="92" period="2" second="40" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Mark Halstead makes a save (Parried into danger, Diving)" minute="91" period="2" second="0" time="95" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="91" period="2" second="0" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Ian Evatt misses attempt (18-yard box, Right footed, Set piece)" minute="89" period="2" second="45" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Alex Baptiste misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="88" period="2" second="34" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Brett Ormerod wins a corner (To the left)" minute="88" period="2" second="13" time="92" type="corner" type_id="6"/>
+	<message comment="Brett Ormerod has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="12" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="88" period="2" second="12" time="92" type="save made" type_id="10"/>
+	<message comment="GOAL! Jason Puncheon scores , Assisted by James Beattie (Low to the right, 18-yard box, Left footed, Open play)" minute="85" period="2" second="16" time="89" type="goal scored" type_id="16"/>
+	<message comment="Salomon Kalou misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="84" period="2" second="29" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="84" period="2" second="8" time="88" type="corner" type_id="6"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="83" period="2" second="13" time="87" type="corner" type_id="6"/>
+	<message comment="Mark Halstead makes a save (Diving, Parried safe)" minute="83" period="2" second="10" time="87" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="83" period="2" second="10" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Matt Phillips misses attempt (18-yard box, Left footed, Fast break)" minute="81" period="2" second="10" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard wins a corner (To the right)" minute="79" period="2" second="58" time="83" type="corner" type_id="6"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="79" period="2" second="23" time="83" type="corner" type_id="6"/>
+	<message comment="Mark Halstead makes a save (Standing)" minute="75" period="2" second="26" time="79" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="26" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires is substituted off" minute="74" period="2" second="8" time="78" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="74" period="2" second="8" time="78" type="substitution on" type_id="19"/>
+	<message comment="John Terry misses attempt (High to the right, 18-yard box, Head, From corner)" minute="73" period="2" second="39" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Ramires wins a corner (To the right)" minute="73" period="2" second="9" time="77" type="corner" type_id="6"/>
+	<message comment="Andy Reid is substituted off" minute="72" period="2" second="13" time="76" type="substitution off" type_id="18"/>
+	<message comment="Brett Ormerod is substituted on" minute="72" period="2" second="13" time="76" type="substitution on" type_id="19"/>
+	<message comment="David Carney is substituted off" minute="72" period="2" second="3" time="76" type="substitution off" type_id="18"/>
+	<message comment="Matt Phillips is substituted on" minute="72" period="2" second="3" time="76" type="substitution on" type_id="19"/>
+	<message comment="Yuri Zhirkov is substituted off" minute="71" period="2" second="47" time="75" type="substitution off" type_id="18"/>
+	<message comment="Florent Malouda is substituted on" minute="71" period="2" second="47" time="75" type="substitution on" type_id="19"/>
+	<message comment="Yuri Zhirkov has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="46" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Neal Eardley blocks a shot" minute="70" period="2" second="46" time="74" type="save made" type_id="10"/>
+	<message comment="Mark Halstead makes a save" minute="69" period="2" second="4" time="73" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="69" period="2" second="4" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Yuri Zhirkov wins a corner (To the left)" minute="67" period="2" second="50" time="71" type="corner" type_id="6"/>
+	<message comment="Richard Kingson is substituted off" minute="66" period="2" second="0" time="70" type="substitution off" type_id="18"/>
+	<message comment="Mark Halstead is substituted on" minute="66" period="2" second="0" time="70" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Frank Lampard scores , Assisted by Salomon Kalou (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="65" period="2" second="15" time="69" type="goal scored" type_id="16"/>
+	<message comment="James Beattie misses attempt (To the left, 18-yard box, Head, Open play)" minute="63" period="2" second="22" time="67" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Frank Lampard scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="62" period="2" second="1" time="66" type="goal scored" type_id="16"/>
+	<message comment="Frank Lampard wins a corner (To the right)" minute="59" period="2" second="45" time="63" type="corner" type_id="6"/>
+	<message comment="Neal Eardley blocks a shot" minute="59" period="2" second="42" time="63" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="42" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Puncheon has shot blocked (Out of box, Left footed, Set piece)" minute="58" period="2" second="17" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Keith Southern blocks a shot" minute="57" period="2" second="41" time="61" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" minute="57" period="2" second="41" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="56" period="2" second="1" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Ramires wins a corner (To the right)" minute="55" period="2" second="41" time="59" type="corner" type_id="6"/>
+	<message comment="Didier Drogba is substituted off" minute="54" period="2" second="30" time="58" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="54" period="2" second="30" time="58" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres is caught offside" minute="52" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="David Vaughan misses attempt (High, Out of box, Right footed, Open play)" minute="47" period="2" second="10" time="51" type="attempt missed" type_id="13"/>
+	<message comment="James Beattie has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="46" period="2" second="27" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="46" period="2" second="27" time="50" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="1" time="48" type="end" type_id="30"/>
+	<message comment="Ramires wins a corner (To the left)" minute="46" period="1" second="42" time="46" type="corner" type_id="6"/>
+	<message comment="Richard Kingson makes a save (Parried safe, Diving)" minute="46" period="1" second="40" time="46" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="46" period="1" second="40" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Reid misses attempt (High to the left, Out of box, Left footed, Open play)" minute="43" period="1" second="16" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="41" period="1" second="19" time="41" type="corner" type_id="6"/>
+	<message comment="Didier Drogba is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="Neal Eardley misses attempt (High to the right, Out of box, Right footed, From corner)" minute="36" period="1" second="38" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Ian Evatt wins a corner (To the left)" minute="36" period="1" second="16" time="36" type="corner" type_id="6"/>
+	<message comment="David Carney wins a corner (To the left)" minute="34" period="1" second="59" time="34" type="corner" type_id="6"/>
+	<message comment="David Carney has shot blocked (18-yard box, Left footed, Open play)" minute="34" period="1" second="56" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard blocks a shot" minute="34" period="1" second="56" time="34" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Parried into danger, Diving)" minute="32" period="1" second="45" time="32" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="32" period="1" second="45" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="David Carney misses attempt (High, Out of box, Left footed, Open play)" minute="26" period="1" second="39" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Alex Baptiste blocks a shot" minute="23" period="1" second="8" time="23" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (Out of box, Right footed, From corner)" minute="23" period="1" second="8" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="José Bosingwa wins a corner (To the left)" minute="22" period="1" second="34" time="22" type="corner" type_id="6"/>
+	<message comment="Richard Kingson makes a save (Diving, Parried safe)" minute="22" period="1" second="31" time="22" type="save made" type_id="10"/>
+	<message comment="José Bosingwa has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="22" period="1" second="31" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="David Carney blocks a shot" minute="22" period="1" second="22" time="22" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="22" period="1" second="22" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="GOAL! John Terry scores , Assisted by Frank Lampard (Low to the centre, 18-yard box, Big Chance, Head, From corner)" minute="19" period="1" second="42" time="19" type="goal scored" type_id="16"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="19" period="1" second="21" time="19" type="corner" type_id="6"/>
+	<message comment="David Luiz misses attempt (High to the right, Out of box, Right footed, From corner)" minute="11" period="1" second="5" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Ian Evatt blocks a shot" minute="10" period="1" second="58" time="10" type="save made" type_id="10"/>
+	<message comment="Yuri Zhirkov has shot blocked (18-yard box, Left footed, From corner)" minute="10" period="1" second="58" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="10" period="1" second="28" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="David Carney has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="3" period="1" second="26" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="3" period="1" second="26" time="3" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

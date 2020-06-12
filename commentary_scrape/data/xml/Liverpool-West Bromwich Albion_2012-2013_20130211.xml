@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2013-02-11" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="24" time="97" type="end" type_id="30"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="93" period="2" second="49" time="95" type="card received" type_id="17"/>
+	<message comment="Philippe Coutinho has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="46" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="92" period="2" second="46" time="94" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="92" period="2" second="46" time="94" type="corner" type_id="6"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by James Morrison (Low to the centre, 18-yard box, Right footed, Fast break)" minute="90" period="2" second="1" time="92" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku misses attempt (Out of box, Left footed, Fast break)" minute="87" period="2" second="23" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson blocks a shot" minute="87" period="2" second="11" time="89" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="87" period="2" second="11" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Shane Long is substituted off" minute="86" period="2" second="8" time="88" type="substitution off" type_id="18"/>
+	<message comment="Marc-Antoine Fortuné is substituted on" minute="86" period="2" second="8" time="88" type="substitution on" type_id="19"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="84" period="2" second="50" time="86" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="82" period="2" second="51" time="84" type="corner" type_id="6"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="82" period="2" second="32" time="84" type="corner" type_id="6"/>
+	<message comment="GOAL! Gareth McAuley scores , Assisted by Chris Brunt (High to the centre, 6-yard box, Big Chance, Head, From corner)" minute="80" period="2" second="18" time="82" type="goal scored" type_id="16"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="79" period="2" second="45" time="81" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="79" period="2" second="41" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="79" period="2" second="41" time="81" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho is substituted on" minute="77" period="2" second="57" time="79" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing is substituted off" minute="77" period="2" second="57" time="79" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is caught offside" minute="77" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Fabio Borini wins a corner (To the right)" minute="76" period="2" second="41" time="78" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger, Penalty)" minute="76" period="2" second="36" time="78" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="76" period="2" second="36" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard misses attempt (Out of box, Right footed, Open play)" minute="74" period="2" second="29" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans is substituted off" minute="74" period="2" second="1" time="76" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="74" period="2" second="1" time="76" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing misses attempt (High, Out of box, Left footed, Free kick)" minute="73" period="2" second="24" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt recieves a yellow card" minute="72" period="2" second="33" time="74" type="card received" type_id="17"/>
+	<message comment="James Morrison recieves a yellow card" minute="71" period="2" second="38" time="73" type="card received" type_id="17"/>
+	<message comment="Fabio Borini misses attempt (6-yard box, Right footed, Open play)" minute="70" period="2" second="49" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="70" period="2" second="47" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried into danger)" minute="70" period="2" second="47" time="72" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Left footed, Open play)" minute="69" period="2" second="32" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="69" period="2" second="32" time="71" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell recieves a yellow card" minute="68" period="2" second="56" time="70" type="card received" type_id="17"/>
+	<message comment="Jonas Olsson wins a corner (To the left)" minute="68" period="2" second="4" time="70" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="67" period="2" second="43" time="69" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="67" period="2" second="43" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="66" period="2" second="36" time="68" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="60" period="2" second="29" time="62" type="corner" type_id="6"/>
+	<message comment="Chris Brunt blocks a shot" minute="60" period="2" second="27" time="62" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Left footed, Set piece)" minute="60" period="2" second="27" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="60" period="2" second="24" time="62" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Free kick)" minute="60" period="2" second="24" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson is substituted off" minute="59" period="2" second="46" time="61" type="substitution off" type_id="18"/>
+	<message comment="Raheem Sterling is substituted on" minute="59" period="2" second="46" time="61" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="59" period="2" second="27" time="61" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" minute="59" period="2" second="27" time="61" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez misses attempt (To the left, Out of box, Right footed, Open play)" minute="58" period="2" second="6" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (6-yard box, Big Chance, Right footed, From corner)" minute="53" period="2" second="21" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="52" period="2" second="59" time="54" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Feet, Parried into danger, Diving)" minute="51" period="2" second="42" time="53" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has attempt saved (Low to the centre, 6-yard box, Right footed, Open play)" minute="51" period="2" second="42" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Stewart Downing has shot blocked (Out of box, Left footed, Open play)" minute="48" period="2" second="54" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="48" period="2" second="54" time="50" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Right footed, Open play)" minute="47" period="2" second="29" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique blocks a shot" minute="47" period="2" second="29" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="9" time="46" type="end" type_id="30"/>
+	<message comment="Glen Johnson misses attempt (To the left, Out of box, Right footed, Open play)" minute="46" period="1" second="7" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid recieves a yellow card" minute="42" period="1" second="6" time="42" type="card received" type_id="17"/>
+	<message comment="Jonjo Shelvey wins a corner (To the right)" minute="40" period="1" second="41" time="40" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (High to the left, Out of box, Right footed, Open play)" minute="37" period="1" second="16" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans wins a corner (To the left)" minute="33" period="1" second="48" time="33" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="31" period="1" second="41" time="31" type="corner" type_id="6"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="29" period="1" second="47" time="29" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans blocks a shot" minute="28" period="1" second="12" time="28" type="save made" type_id="10"/>
+	<message comment="Daniel Agger has shot blocked (Out of box, Left footed, Set piece)" minute="28" period="1" second="12" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing, Parried into danger)" minute="25" period="1" second="12" time="25" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="25" period="1" second="12" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger wins a corner (To the right)" minute="23" period="1" second="21" time="23" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save" minute="23" period="1" second="19" time="23" type="save made" type_id="10"/>
+	<message comment="Daniel Agger has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="23" period="1" second="19" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="22" period="1" second="53" time="22" type="corner" type_id="6"/>
+	<message comment="Shane Long wins a corner (To the left)" minute="21" period="1" second="9" time="21" type="corner" type_id="6"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="19" period="1" second="0" time="19" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="18" period="1" second="58" time="18" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, Open play)" minute="18" period="1" second="58" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" minute="18" period="1" second="50" time="18" type="save made" type_id="10"/>
+	<message comment="Lucas Leiva has shot blocked (Out of box, Right footed, Open play)" minute="18" period="1" second="50" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Steven Gerrard misses attempt (To the left, Out of box, Right footed, Open play)" minute="11" period="1" second="5" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="8" period="1" second="43" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger)" minute="8" period="1" second="43" time="8" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="4" period="1" second="23" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

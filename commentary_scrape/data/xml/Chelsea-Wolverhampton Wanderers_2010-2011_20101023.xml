@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2010-10-23" home_team_name="Wolverhampton Wanderers" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="95" type="end" type_id="30"/>
+	<message comment="Sylvan Ebanks-Blake is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Christophe Berra recieves a yellow card" minute="88" period="2" second="44" time="90" type="card received" type_id="17"/>
+	<message comment="Steven Fletcher is substituted on" minute="86" period="2" second="32" time="88" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis is substituted off" minute="86" period="2" second="32" time="88" type="substitution off" type_id="18"/>
+	<message comment="Kevin Doyle is substituted off" minute="86" period="2" second="23" time="88" type="substitution off" type_id="18"/>
+	<message comment="Sylvan Ebanks-Blake is substituted on" minute="86" period="2" second="23" time="88" type="substitution on" type_id="19"/>
+	<message comment="Marcus Hahnemann makes a save (Standing, Collected)" minute="83" period="2" second="22" time="85" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="83" period="2" second="22" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Yuri Zhirkov is substituted off" minute="81" period="2" second="37" time="83" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="81" period="2" second="37" time="83" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Salomon Kalou scores , Assisted by Michael Essien (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="80" period="2" second="32" time="82" type="goal scored" type_id="16"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="79" period="2" second="47" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="79" period="2" second="47" time="81" type="save made" type_id="10"/>
+	<message comment="Kevin Foley wins a corner (To the right)" minute="79" period="2" second="8" time="81" type="corner" type_id="6"/>
+	<message comment="José Bosingwa is substituted off" minute="78" period="2" second="4" time="80" type="substitution off" type_id="18"/>
+	<message comment="Paulo Ferreira is substituted on" minute="78" period="2" second="4" time="80" type="substitution on" type_id="19"/>
+	<message comment="David Jones blocks a shot" minute="76" period="2" second="54" time="78" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou has shot blocked (18-yard box, Right footed, Open play)" minute="76" period="2" second="54" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="75" period="2" second="23" time="77" type="corner" type_id="6"/>
+	<message comment="Michael Essien misses attempt (High to the left, Out of box, Left footed, Open play)" minute="74" period="2" second="7" time="76" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel recieves a yellow card" minute="72" period="2" second="43" time="74" type="card received" type_id="17"/>
+	<message comment="Florent Malouda is substituted off" minute="71" period="2" second="59" time="73" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="71" period="2" second="59" time="73" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="71" period="2" second="24" time="73" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="70" period="2" second="7" time="72" type="save made" type_id="10"/>
+	<message comment="Kevin Doyle has attempt saved (Low to the right, 6-yard box, Head, From corner)" minute="70" period="2" second="7" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Foley wins a corner (To the right)" minute="69" period="2" second="44" time="71" type="corner" type_id="6"/>
+	<message comment="Christophe Berra misses attempt (To the right, 18-yard box, Head, Set piece)" minute="65" period="2" second="38" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="62" period="2" second="20" time="64" type="save made" type_id="10"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="62" period="2" second="20" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Nicolas Anelka misses attempt (High to the right, Out of box, Right footed, Open play)" minute="61" period="2" second="20" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Collected)" minute="61" period="2" second="0" time="63" type="save made" type_id="10"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="61" period="2" second="0" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Richard Stearman misses attempt (High, 18-yard box, Head, From corner)" minute="59" period="2" second="20" time="61" type="attempt missed" type_id="13"/>
+	<message comment="David Jones wins a corner (To the left)" minute="58" period="2" second="54" time="60" type="corner" type_id="6"/>
+	<message comment="Florent Malouda has shot blocked (18-yard box, Left footed, Fast break)" minute="58" period="2" second="2" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba misses attempt (High to the right, 18-yard box, Right footed, Fast break)" minute="56" period="2" second="36" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="55" period="2" second="18" time="57" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (To the left, 18-yard box, Head, Throw-in)" minute="53" period="2" second="27" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Doyle wins a corner (To the left)" minute="51" period="2" second="57" time="53" type="corner" type_id="6"/>
+	<message comment="Kevin Doyle has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="51" period="2" second="55" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="51" period="2" second="55" time="53" type="save made" type_id="10"/>
+	<message comment="Stephen Hunt has shot blocked (18-yard box, Head, From corner)" minute="46" period="2" second="39" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien blocks a shot (Last line)" minute="46" period="2" second="39" time="48" type="save made" type_id="10"/>
+	<message comment="Stephen Hunt wins a corner (To the left)" minute="45" period="2" second="58" time="47" type="corner" type_id="6"/>
+	<message comment="Jelle Van Damme is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Stephen Hunt is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Richard Stearman blocks a shot" minute="45" period="1" second="36" time="45" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="36" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="42" period="1" second="52" time="42" type="corner" type_id="6"/>
+	<message comment="José Bosingwa has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="42" period="1" second="51" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Marcus Hahnemann makes a save (Feet, Parried safe)" minute="42" period="1" second="51" time="42" type="save made" type_id="10"/>
+	<message comment="Kevin Doyle misses attempt (High to the left, 18-yard box, Head, Open play)" minute="41" period="1" second="15" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien has shot blocked (Out of box, Right footed, Open play)" minute="40" period="1" second="9" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Christophe Berra blocks a shot" minute="40" period="1" second="9" time="40" type="save made" type_id="10"/>
+	<message comment="José Bosingwa misses attempt (Out of box, Left footed, Open play)" minute="38" period="1" second="16" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="35" period="1" second="3" time="35" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic wins a corner (To the left)" minute="33" period="1" second="46" time="33" type="corner" type_id="6"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Left footed, Set piece)" minute="33" period="1" second="42" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Doyle blocks a shot" minute="33" period="1" second="42" time="33" type="save made" type_id="10"/>
+	<message comment="Richard Stearman recieves a yellow card" minute="32" period="1" second="45" time="32" type="card received" type_id="17"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="31" period="1" second="58" time="31" type="save made" type_id="10"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="31" period="1" second="58" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected)" minute="30" period="1" second="55" time="30" type="save made" type_id="10"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="30" period="1" second="55" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba misses attempt (High to the right, Out of box, Right footed, Open play)" minute="30" period="1" second="16" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (18-yard box, Right footed, Fast break)" minute="25" period="1" second="59" time="25" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Florent Malouda scores , Assisted by Yuri Zhirkov (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="22" period="1" second="42" time="22" type="goal scored" type_id="16"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="22" period="1" second="20" time="22" type="save made" type_id="10"/>
+	<message comment="Jelle Van Damme has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="22" period="1" second="20" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="19" period="1" second="50" time="19" type="corner" type_id="6"/>
+	<message comment="David Edwards has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="19" period="1" second="30" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="19" period="1" second="30" time="19" type="save made" type_id="10"/>
+	<message comment="John Terry is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Didier Drogba is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Didier Drogba misses attempt (To the right, Out of box, Left footed, Open play)" minute="12" period="1" second="53" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien misses attempt (To the right, 18-yard box, Head, From corner)" minute="12" period="1" second="36" time="12" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the left)" minute="12" period="1" second="13" time="12" type="corner" type_id="6"/>
+	<message comment="Marcus Hahnemann makes a save (Diving, Feet)" minute="12" period="1" second="11" time="12" type="save made" type_id="10"/>
+	<message comment="José Bosingwa has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="12" period="1" second="11" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="5" period="1" second="22" time="5" type="save made" type_id="10"/>
+	<message comment="Christophe Berra has shot blocked (18-yard box, Head, From corner)" minute="5" period="1" second="22" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Jelle Van Damme wins a corner (To the left)" minute="4" period="1" second="53" time="4" type="corner" type_id="6"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" minute="2" period="1" second="53" time="2" type="corner" type_id="6"/>
+	<message comment="Stephen Ward wins a corner (To the left)" minute="2" period="1" second="21" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

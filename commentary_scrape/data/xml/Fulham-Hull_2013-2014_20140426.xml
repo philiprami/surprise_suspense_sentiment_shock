@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2014-04-26" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="1" time="97" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega misses attempt (High to the right, 18-yard box, Head, Open play)" minute="89" period="2" second="23" time="92" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Shane Long scores , Assisted by Sone Aluko (Low to the right, 18-yard box, Big Chance, Head, Open play)" minute="86" period="2" second="27" time="89" type="goal scored" type_id="16"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="85" period="2" second="15" time="88" type="save made" type_id="10"/>
+	<message comment="Ahmed El Mohamady has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="85" period="2" second="15" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent wins a corner (To the right)" minute="83" period="2" second="5" time="86" type="corner" type_id="6"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="81" period="2" second="44" time="84" type="corner" type_id="6"/>
+	<message comment="David Meyler is substituted off" minute="81" period="2" second="25" time="84" type="substitution off" type_id="18"/>
+	<message comment="Yannick Sagbo is substituted on" minute="81" period="2" second="25" time="84" type="substitution on" type_id="19"/>
+	<message comment="Liam Rosenior is substituted off" minute="81" period="2" second="23" time="84" type="substitution off" type_id="18"/>
+	<message comment="George Boyd is substituted on" minute="81" period="2" second="23" time="84" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent misses attempt (18-yard box, Left footed, Open play)" minute="80" period="2" second="40" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" minute="80" period="2" second="36" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Parried safe, Diving, Other body part)" minute="80" period="2" second="36" time="83" type="save made" type_id="10"/>
+	<message comment="Sone Aluko hits the woodwork (High, Out of box, Left footed, Open play)" minute="77" period="2" second="26" time="80" type="woodwork hit" type_id="14"/>
+	<message comment="John Heitinga blocks a shot" minute="77" period="2" second="22" time="80" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Left footed, Open play)" minute="77" period="2" second="22" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Nikica Jelavic scores  (High to the left, 18-yard box, Big Chance, Head, Open play)" minute="74" period="2" second="49" time="77" type="goal scored" type_id="16"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="74" period="2" second="48" time="77" type="save made" type_id="10"/>
+	<message comment="Alex Bruce is substituted off" minute="66" period="2" second="21" time="69" type="substitution off" type_id="18"/>
+	<message comment="Sone Aluko is substituted on" minute="66" period="2" second="21" time="69" type="substitution on" type_id="19"/>
+	<message comment="Mahamadou Diarra recieves a yellow card" minute="64" period="2" second="44" time="67" type="card received" type_id="17"/>
+	<message comment="John Heitinga misses attempt (To the left, 18-yard box, Head, From corner)" minute="63" period="2" second="38" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="63" period="2" second="1" time="66" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone wins a corner (To the right)" minute="61" period="2" second="46" time="64" type="corner" type_id="6"/>
+	<message comment="Shane Long is caught offside" minute="58" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="GOAL! Fernando Amorebieta scores , Assisted by Kieran Richardson (Low to the right, 18-yard box, Head, From corner)" minute="57" period="2" second="6" time="60" type="goal scored" type_id="16"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="55" period="2" second="55" time="58" type="corner" type_id="6"/>
+	<message comment="GOAL! Ashkan Dejagah scores , Assisted by Hugo Rodallega (High to the left, 18-yard box, Left footed, Open play)" minute="54" period="2" second="38" time="57" type="goal scored" type_id="16"/>
+	<message comment="Steve Sidwell is substituted off" minute="52" period="2" second="48" time="55" type="substitution off" type_id="18"/>
+	<message comment="Darren Bent is substituted on" minute="52" period="2" second="48" time="55" type="substitution on" type_id="19"/>
+	<message comment="Mahamadou Diarra misses attempt (To the right, Out of box, Right footed, From corner)" minute="50" period="2" second="14" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="49" period="2" second="54" time="52" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="45" period="2" second="46" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" minute="45" period="2" second="21" time="48" type="corner" type_id="6"/>
+	<message comment="John Arne Riise is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Kieran Richardson is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Lewis Holtby is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Ashkan Dejagah is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Jake Livermore recieves a yellow card" minute="44" period="1" second="3" time="44" type="card received" type_id="17"/>
+	<message comment="Fernando Amorebieta wins a corner (To the left)" minute="33" period="1" second="57" time="33" type="corner" type_id="6"/>
+	<message comment="Fernando Amorebieta misses attempt (To the right, Out of box, Left footed, Open play)" minute="32" period="1" second="50" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Liam Rosenior wins a corner (To the left)" minute="26" period="1" second="53" time="26" type="corner" type_id="6"/>
+	<message comment="Liam Rosenior has shot blocked (18-yard box, Right footed, Open play)" minute="26" period="1" second="51" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="26" period="1" second="51" time="26" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic recieves a yellow card" minute="20" period="1" second="5" time="20" type="card received" type_id="17"/>
+	<message comment="Ahmed El Mohamady recieves a yellow card" minute="15" period="1" second="11" time="15" type="card received" type_id="17"/>
+	<message comment="David Stockdale makes a save (Standing)" minute="14" period="1" second="19" time="14" type="save made" type_id="10"/>
+	<message comment="Shane Long has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="14" period="1" second="19" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="John Arne Riise misses attempt (To the right, Out of box, Left footed, Open play)" minute="4" period="1" second="28" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether blocks a shot" minute="2" period="1" second="29" time="2" type="save made" type_id="10"/>
+	<message comment="David Meyler has shot blocked (18-yard box, Right footed, Set piece)" minute="2" period="1" second="29" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

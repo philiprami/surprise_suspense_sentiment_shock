@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2012-11-25" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="34" time="96" type="end" type_id="30"/>
+	<message comment="Luke Shaw is substituted off" minute="91" period="2" second="40" time="93" type="substitution off" type_id="18"/>
+	<message comment="Jos Hooiveld is substituted on" minute="91" period="2" second="40" time="93" type="substitution on" type_id="19"/>
+	<message comment="Steven Taylor is substituted off" minute="91" period="2" second="30" time="93" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="91" period="2" second="30" time="93" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé misses attempt (Out of box, Left footed, Throw-in)" minute="89" period="2" second="39" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Right footed, Open play)" minute="87" period="2" second="19" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="85" period="2" second="34" time="87" type="card received" type_id="17"/>
+	<message comment="Tim Krul makes a save (Feet, Diving, Parried safe)" minute="85" period="2" second="2" time="87" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="85" period="2" second="2" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte hits the woodwork (High, 18-yard box, Head, From corner)" minute="80" period="2" second="17" time="82" type="woodwork hit" type_id="14"/>
+	<message comment="Steven Davis wins a corner (To the right)" minute="79" period="2" second="48" time="81" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Standing)" minute="79" period="2" second="41" time="81" type="save made" type_id="10"/>
+	<message comment="Steven Davis has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="41" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez is substituted off" minute="77" period="2" second="25" time="79" type="substitution off" type_id="18"/>
+	<message comment="Steven Davis is substituted on" minute="77" period="2" second="25" time="79" type="substitution on" type_id="19"/>
+	<message comment="Rickie Lambert is substituted off" minute="75" period="2" second="50" time="77" type="substitution off" type_id="18"/>
+	<message comment="Jay Rodriguez is substituted on" minute="75" period="2" second="50" time="77" type="substitution on" type_id="19"/>
+	<message comment="Davide Santon has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="72" period="2" second="25" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Parried safe, Standing)" minute="72" period="2" second="25" time="74" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Open play)" minute="72" period="2" second="18" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Nathaniel Clyne blocks a shot" minute="72" period="2" second="18" time="74" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon hits the woodwork (To the left, 18-yard box, Left footed, Open play)" minute="69" period="2" second="50" time="71" type="woodwork hit" type_id="14"/>
+	<message comment="Gastón Ramírez recieves a yellow card" minute="69" period="2" second="5" time="71" type="card received" type_id="17"/>
+	<message comment="Cheick Tioté misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="67" period="2" second="6" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="67" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Vurnon Anita is substituted off" minute="65" period="2" second="53" time="67" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="65" period="2" second="53" time="67" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the right)" minute="63" period="2" second="41" time="65" type="corner" type_id="6"/>
+	<message comment="GOAL! Gastón Ramírez scores  (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="59" period="2" second="15" time="61" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Parried into danger)" minute="56" period="2" second="8" time="58" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="56" period="2" second="8" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="54" period="2" second="1" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Parried into danger, Diving)" minute="54" period="2" second="1" time="56" type="save made" type_id="10"/>
+	<message comment="Paulo Gazzaniga makes a save (Standing)" minute="52" period="2" second="50" time="54" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="52" period="2" second="50" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita wins a corner (To the right)" minute="52" period="2" second="18" time="54" type="corner" type_id="6"/>
+	<message comment="Shane Ferguson is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="Gastón Ramírez misses attempt (High to the right, 18-yard box, Head, Open play)" minute="44" period="1" second="32" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (High, Out of box, Right footed, Free kick)" minute="43" period="1" second="8" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="42" period="1" second="27" time="42" type="card received" type_id="17"/>
+	<message comment="Morgan Schneiderlin wins a corner (To the left)" minute="37" period="1" second="4" time="37" type="corner" type_id="6"/>
+	<message comment="Steven Taylor blocks a shot" minute="37" period="1" second="0" time="37" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has shot blocked (18-yard box, Right footed, Open play)" minute="37" period="1" second="0" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Gastón Ramírez (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="34" period="1" second="0" time="34" type="goal scored" type_id="16"/>
+	<message comment="Nathaniel Clyne misses attempt (To the left, Out of box, Right footed, Open play)" minute="33" period="1" second="55" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert hits the woodwork (High, Out of box, Right footed, Free kick)" minute="32" period="1" second="43" time="32" type="woodwork hit" type_id="14"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe, Feet)" minute="31" period="1" second="23" time="31" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="31" period="1" second="23" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Gastón Ramírez misses attempt (To the right, 18-yard box, Head, From corner)" minute="27" period="1" second="56" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="27" period="1" second="24" time="27" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="24" period="1" second="10" time="24" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="24" period="1" second="10" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte recieves a yellow card" minute="21" period="1" second="55" time="21" type="card received" type_id="17"/>
+	<message comment="Danny Simpson wins a corner (To the left)" minute="20" period="1" second="39" time="20" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Tim Krul makes a save (Collected)" minute="11" period="1" second="45" time="11" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="11" period="1" second="45" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez has shot blocked (Out of box, Right footed, Open play)" minute="9" period="1" second="1" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="9" period="1" second="1" time="9" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Nathaniel Clyne misses attempt (To the left, Out of box, Right footed, Open play)" minute="6" period="1" second="27" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Demba Ba misses attempt (To the right, 18-yard box, Head, Open play)" minute="4" period="1" second="56" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="0" period="1" second="31" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

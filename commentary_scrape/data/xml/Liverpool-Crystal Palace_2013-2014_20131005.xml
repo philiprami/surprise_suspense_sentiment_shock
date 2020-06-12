@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2013-10-05" home_team_name="Crystal Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="14" time="96" type="end" type_id="30"/>
+	<message comment="Iago Aspas recieves a yellow card" minute="93" period="2" second="55" time="95" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge is substituted off" minute="87" period="2" second="38" time="89" type="substitution off" type_id="18"/>
+	<message comment="Iago Aspas is substituted on" minute="87" period="2" second="38" time="89" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge hits the woodwork (To the right, 18-yard box, Right footed, Open play)" minute="84" period="2" second="54" time="86" type="woodwork hit" type_id="14"/>
+	<message comment="Luis Suárez is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" minute="83" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="82" period="2" second="24" time="84" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="81" period="2" second="56" time="83" type="corner" type_id="6"/>
+	<message comment="GOAL! Dwight Gayle scores , Assisted by José Campaña (Low to the right, 6-yard box, Head, Set piece)" minute="76" period="2" second="0" time="78" type="goal scored" type_id="16"/>
+	<message comment="Raheem Sterling recieves a yellow card" minute="75" period="2" second="25" time="77" type="card received" type_id="17"/>
+	<message comment="Luis Suárez is caught offside" minute="68" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Marouane Chamakh is substituted off" minute="67" period="2" second="35" time="69" type="substitution off" type_id="18"/>
+	<message comment="Yannick Bolasie is substituted on" minute="67" period="2" second="35" time="69" type="substitution on" type_id="19"/>
+	<message comment="Dwight Gayle misses attempt (Out of box, Right footed, Open play)" minute="66" period="2" second="56" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Mamadou Sakho is substituted off" minute="66" period="2" second="34" time="68" type="substitution off" type_id="18"/>
+	<message comment="Daniel Agger is substituted on" minute="66" period="2" second="34" time="68" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses is substituted off" minute="65" period="2" second="54" time="67" type="substitution off" type_id="18"/>
+	<message comment="Luis Alberto is substituted on" minute="65" period="2" second="54" time="67" type="substitution on" type_id="19"/>
+	<message comment="Jason Puncheon has shot blocked (Out of box, Left footed, Open play)" minute="64" period="2" second="29" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson blocks a shot" minute="64" period="2" second="29" time="66" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="59" period="2" second="20" time="61" type="corner" type_id="6"/>
+	<message comment="Dwight Gayle wins a corner (To the left)" minute="53" period="2" second="48" time="55" type="corner" type_id="6"/>
+	<message comment="Victor Moses wins a corner (To the left)" minute="52" period="2" second="16" time="54" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Mamadou Sakho misses attempt (To the right, 18-yard box, Head, From corner)" minute="45" period="2" second="48" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="45" period="2" second="25" time="47" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="José Campaña is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Jimmy Kébé is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Dwight Gayle is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="14" time="46" type="end" type_id="30"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="45" period="1" second="49" time="45" type="corner" type_id="6"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried safe)" minute="45" period="1" second="43" time="45" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="45" period="1" second="43" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Delaney blocks a shot" minute="45" period="1" second="40" time="45" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="40" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Julian Speroni makes a save (Collected)" minute="44" period="1" second="52" time="44" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="44" period="1" second="52" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Mile Jedinak misses attempt (To the left, Out of box, Right footed, Open play)" minute="42" period="1" second="51" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Stuart O'Keefe has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="48" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="42" period="1" second="48" time="42" type="save made" type_id="10"/>
+	<message comment="Julian Speroni makes a save (Parried into danger)" minute="38" period="1" second="35" time="38" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="38" period="1" second="35" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses hits the woodwork (High, 6-yard box, Big Chance, Left footed, Open play)" minute="38" period="1" second="14" time="38" type="woodwork hit" type_id="14"/>
+	<message comment="GOAL! Steven Gerrard scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="37" period="1" second="6" time="37" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="33" period="1" second="41" time="33" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="30" period="1" second="6" time="30" type="corner" type_id="6"/>
+	<message comment="Jimmy Kébé wins a corner (To the right)" minute="29" period="1" second="20" time="29" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon misses attempt (High, 18-yard box, Big Chance, Left footed, Open play)" minute="25" period="1" second="11" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Jimmy Kébé has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="25" period="1" second="9" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="25" period="1" second="9" time="25" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome misses attempt (To the left, Out of box, Key pass, Right footed, Open play)" minute="25" period="1" second="8" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Jimmy Kébé has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="24" period="1" second="57" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="24" period="1" second="57" time="24" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="18" period="1" second="29" time="18" type="corner" type_id="6"/>
+	<message comment="Jimmy Kébé is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="GOAL! Daniel Sturridge scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="16" period="1" second="13" time="16" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="14" period="1" second="29" time="14" type="corner" type_id="6"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried safe)" minute="14" period="1" second="27" time="14" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="14" period="1" second="27" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Luis Suárez scores , Assisted by José Enrique (Low to the left, 18-yard box, Right footed, Open play)" minute="13" period="1" second="0" time="13" type="goal scored" type_id="16"/>
+	<message comment="Dean Moxey wins a corner (To the left)" minute="11" period="1" second="36" time="11" type="corner" type_id="6"/>
+	<message comment="Stuart O'Keefe recieves a yellow card" minute="9" period="1" second="30" time="9" type="card received" type_id="17"/>
+	<message comment="Mile Jedinak has shot blocked (Out of box, Right footed, Free kick)" minute="9" period="1" second="12" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson blocks a shot" minute="9" period="1" second="12" time="9" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome misses attempt (To the right, 6-yard box, Head, Open play)" minute="7" period="1" second="17" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard misses attempt (High to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="35" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Damien Delaney blocks a shot" minute="5" period="1" second="50" time="5" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Open play)" minute="5" period="1" second="50" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="5" period="1" second="13" time="5" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

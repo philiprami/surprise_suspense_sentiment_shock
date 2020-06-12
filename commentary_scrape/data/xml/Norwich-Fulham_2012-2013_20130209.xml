@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2013-02-09" home_team_name="Fulham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="99" type="end" type_id="30"/>
+	<message comment="Urby Emanuelson wins a corner (To the left)" minute="92" period="2" second="43" time="97" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="92" period="2" second="37" time="97" type="save made" type_id="10"/>
+	<message comment="Urby Emanuelson has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="37" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Ashkan Dejagah is substituted on" minute="90" period="2" second="41" time="95" type="substitution on" type_id="19"/>
+	<message comment="Bryan Ruiz is substituted off" minute="90" period="2" second="40" time="95" type="substitution off" type_id="18"/>
+	<message comment="Brede Hangeland blocks a shot" minute="89" period="2" second="32" time="94" type="save made" type_id="10"/>
+	<message comment="Simeon Jackson has shot blocked (18-yard box, Right footed, From corner)" minute="89" period="2" second="32" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson wins a corner (To the right)" minute="88" period="2" second="49" time="93" type="corner" type_id="6"/>
+	<message comment="Kei Kamara misses attempt (High to the left, 18-yard box, Head, Set piece)" minute="86" period="2" second="56" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Stanislav Manolev recieves a yellow card" minute="86" period="2" second="24" time="91" type="card received" type_id="17"/>
+	<message comment="Kei Kamara is substituted on" minute="85" period="2" second="49" time="90" type="substitution on" type_id="19"/>
+	<message comment="Luciano Becchio is substituted off" minute="85" period="2" second="49" time="90" type="substitution off" type_id="18"/>
+	<message comment="Bradley Johnson misses attempt (Out of box, Left footed, Open play)" minute="85" period="2" second="19" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="84" period="2" second="57" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected, Standing)" minute="84" period="2" second="57" time="89" type="save made" type_id="10"/>
+	<message comment="Simeon Jackson is caught offside" minute="82" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Simeon Jackson has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="80" period="2" second="28" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="80" period="2" second="28" time="85" type="save made" type_id="10"/>
+	<message comment="Simeon Jackson is caught offside" minute="79" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Elliott Bennett is substituted off" minute="75" period="2" second="49" time="80" type="substitution off" type_id="18"/>
+	<message comment="Simeon Jackson is substituted on" minute="75" period="2" second="49" time="80" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega is substituted off" minute="75" period="2" second="36" time="80" type="substitution off" type_id="18"/>
+	<message comment="Mladen Petric is substituted on" minute="75" period="2" second="36" time="80" type="substitution on" type_id="19"/>
+	<message comment="Robert Snodgrass has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="70" period="2" second="22" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="70" period="2" second="22" time="75" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz misses attempt (High to the left, Out of box, Left footed, Open play)" minute="66" period="2" second="30" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Frimpong is substituted off" minute="64" period="2" second="4" time="69" type="substitution off" type_id="18"/>
+	<message comment="Urby Emanuelson is substituted on" minute="64" period="2" second="4" time="69" type="substitution on" type_id="19"/>
+	<message comment="Elliott Bennett has shot blocked (Out of box, Right footed, From corner)" minute="61" period="2" second="48" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="61" period="2" second="48" time="66" type="save made" type_id="10"/>
+	<message comment="Luciano Becchio wins a corner (To the right)" minute="61" period="2" second="25" time="66" type="corner" type_id="6"/>
+	<message comment="Russell Martin wins a corner (To the right)" minute="60" period="2" second="45" time="65" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass recieves a yellow card" minute="57" period="2" second="35" time="62" type="card received" type_id="17"/>
+	<message comment="Robert Snodgrass has shot blocked (Out of box, Left footed, Free kick)" minute="57" period="2" second="14" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="57" period="2" second="14" time="62" type="save made" type_id="10"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="53" period="2" second="39" time="58" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (Out of box, Left footed, Open play)" minute="53" period="2" second="39" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Bunn makes a save (Parried safe, Diving)" minute="47" period="2" second="58" time="52" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="47" period="2" second="58" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Javier Garrido blocks a shot" minute="45" period="2" second="21" time="50" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="2" second="21" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="2" time="49" type="end" type_id="30"/>
+	<message comment="Luciano Becchio misses attempt (To the right, 18-yard box, Head, Open play)" minute="47" period="1" second="48" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Elliott Bennett misses attempt (High to the right, Out of box, Right footed, Open play)" minute="45" period="1" second="4" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Frimpong misses attempt (Out of box, Right footed, From corner)" minute="43" period="1" second="18" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov wins a corner (To the left)" minute="42" period="1" second="27" time="42" type="corner" type_id="6"/>
+	<message comment="Luciano Becchio misses attempt (High to the right, 18-yard box, Head, Open play)" minute="39" period="1" second="40" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Elliott Bennett recieves a yellow card" minute="36" period="1" second="22" time="36" type="card received" type_id="17"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Set piece)" minute="36" period="1" second="14" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="36" period="1" second="14" time="36" type="save made" type_id="10"/>
+	<message comment="Emmanuel Frimpong recieves a yellow card" minute="35" period="1" second="22" time="35" type="card received" type_id="17"/>
+	<message comment="Dimitar Berbatov wins a corner (To the right)" minute="34" period="1" second="10" time="34" type="corner" type_id="6"/>
+	<message comment="Russell Martin misses attempt (High, 18-yard box, Head, Open play)" minute="24" period="1" second="23" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the left)" minute="18" period="1" second="15" time="18" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Michael Turner blocks a shot" minute="8" period="1" second="15" time="8" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (18-yard box, Right footed, Open play)" minute="8" period="1" second="15" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Elliott Bennett misses attempt (High to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="10" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Mark Schwarzer makes a save (Collected, Diving)" minute="5" period="1" second="7" time="5" type="save made" type_id="10"/>
+	<message comment="Luciano Becchio has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="5" period="1" second="7" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

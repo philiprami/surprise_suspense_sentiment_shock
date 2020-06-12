@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2012-09-17" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="31" time="98" type="end" type_id="30"/>
+	<message comment="Yohan Cabaye is substituted off" minute="93" period="2" second="6" time="97" type="substitution off" type_id="18"/>
+	<message comment="Gael Bigirimana is substituted on" minute="93" period="2" second="6" time="97" type="substitution on" type_id="19"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" minute="90" period="2" second="52" time="94" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Shola Ameobi (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="89" period="2" second="19" time="93" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Victor Anichebe scores , Assisted by Steven Pienaar (Low to the centre, 18-yard box, Left footed, Open play)" minute="87" period="2" second="30" time="91" type="goal scored" type_id="16"/>
+	<message comment="Shola Ameobi recieves a yellow card" minute="85" period="2" second="38" time="89" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="85" period="2" second="11" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Diving, Feet)" minute="85" period="2" second="11" time="89" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini recieves a yellow card" minute="84" period="2" second="21" time="88" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas is substituted off" minute="82" period="2" second="20" time="86" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" minute="82" period="2" second="20" time="86" type="substitution on" type_id="19"/>
+	<message comment="James Perch blocks a shot" minute="81" period="2" second="38" time="85" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (Out of box, Right footed, Open play)" minute="81" period="2" second="38" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="12" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="81" period="2" second="12" time="85" type="save made" type_id="10"/>
+	<message comment="Demba Ba misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="80" period="2" second="12" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="79" period="2" second="15" time="83" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="79" period="2" second="15" time="83" type="substitution on" type_id="19"/>
+	<message comment="Steven Pienaar recieves a yellow card" minute="78" period="2" second="4" time="82" type="card received" type_id="17"/>
+	<message comment="Steve Harper makes a save (Diving)" minute="77" period="2" second="43" time="81" type="save made" type_id="10"/>
+	<message comment="Victor Anichebe has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Set piece)" minute="77" period="2" second="43" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman misses attempt (Out of box, Left footed, Open play)" minute="74" period="2" second="33" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="73" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="69" period="2" second="0" time="73" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye has shot blocked (18-yard box, Right footed, Open play)" minute="68" period="2" second="58" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Neville blocks a shot" minute="68" period="2" second="58" time="72" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the left)" minute="66" period="2" second="58" time="70" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="61" period="2" second="57" time="65" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé misses attempt (High, 18-yard box, Right footed, Open play)" minute="61" period="2" second="1" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini is caught offside" minute="59" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="56" period="2" second="55" time="60" type="corner" type_id="6"/>
+	<message comment="Leon Osman misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="55" period="2" second="41" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini wins a corner (To the left)" minute="55" period="2" second="8" time="59" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" minute="55" period="2" second="7" time="59" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (18-yard box, Left footed, Open play)" minute="55" period="2" second="7" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (To the right, 18-yard box, Head, Open play)" minute="50" period="2" second="1" time="54" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Yohan Cabaye (Low to the right, Out of box, Left footed, Open play)" minute="48" period="2" second="35" time="52" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="45" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Sylvain Marveaux is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="2" time="48" type="end" type_id="30"/>
+	<message comment="Nikica Jelavic is substituted off" minute="43" period="1" second="41" time="43" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" minute="43" period="1" second="41" time="43" type="substitution on" type_id="19"/>
+	<message comment="Steven Pienaar misses attempt (18-yard box, Right footed, Open play)" minute="42" period="1" second="23" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Steve Harper makes a save (Diving)" minute="40" period="1" second="31" time="40" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="40" period="1" second="31" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="Marouane Fellaini is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="James Perch recieves a yellow card" minute="36" period="1" second="20" time="36" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" minute="35" period="1" second="53" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="35" period="1" second="53" time="35" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="30" period="1" second="40" time="30" type="woodwork hit" type_id="14"/>
+	<message comment="Vurnon Anita recieves a yellow card" minute="29" period="1" second="34" time="29" type="card received" type_id="17"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Big Chance, Right footed, Set piece)" minute="26" period="1" second="14" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Steve Harper makes a save (Collected)" minute="22" period="1" second="27" time="22" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="22" period="1" second="27" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic wins a corner (To the right)" minute="21" period="1" second="37" time="21" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (Out of box, Right footed, Open play)" minute="19" period="1" second="44" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor blocks a shot" minute="18" period="1" second="34" time="18" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (18-yard box, Right footed, Open play)" minute="18" period="1" second="34" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas has shot blocked (Out of box, Key pass, Right footed, Open play)" minute="18" period="1" second="32" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Leighton Baines scores , Assisted by Steven Pienaar (Low to the centre, 18-yard box, Left footed, Open play)" minute="14" period="1" second="28" time="14" type="goal scored" type_id="16"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="12" period="1" second="47" time="12" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (Out of box, Right footed, Open play)" minute="12" period="1" second="47" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson blocks a shot" minute="12" period="1" second="8" time="12" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Right footed, Open play)" minute="12" period="1" second="8" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="10" period="1" second="30" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Phil Neville recieves a yellow card" minute="5" period="1" second="51" time="5" type="card received" type_id="17"/>
+	<message comment="Steve Harper makes a save (Diving, Parried into danger)" minute="1" period="1" second="41" time="1" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="1" period="1" second="41" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

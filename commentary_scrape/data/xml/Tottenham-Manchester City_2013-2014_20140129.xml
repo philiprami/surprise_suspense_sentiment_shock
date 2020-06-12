@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2014-01-29" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="1" time="97" type="end" type_id="30"/>
+	<message comment="Etienne Capoue has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="89" period="2" second="32" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Collected)" minute="89" period="2" second="32" time="93" type="save made" type_id="10"/>
+	<message comment="GOAL! Vincent Kompany scores  (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="88" period="2" second="26" time="92" type="goal scored" type_id="16"/>
+	<message comment="Nabil Bentaleb blocks a shot" minute="88" period="2" second="25" time="92" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, From corner)" minute="88" period="2" second="25" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="87" period="2" second="56" time="91" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the right)" minute="86" period="2" second="48" time="90" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe)" minute="86" period="2" second="45" time="90" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="86" period="2" second="45" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Eriksen is substituted off" minute="82" period="2" second="51" time="86" type="substitution off" type_id="18"/>
+	<message comment="Lewis Holtby is substituted on" minute="82" period="2" second="51" time="86" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="81" period="2" second="56" time="85" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is substituted off" minute="79" period="2" second="50" time="83" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="79" period="2" second="50" time="83" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Stevan Jovetic scores , Assisted by Fernandinho (Low to the right, 18-yard box, Right footed, Open play)" minute="77" period="2" second="21" time="81" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="75" period="2" second="18" time="79" type="card received" type_id="17"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="71" period="2" second="4" time="75" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="71" period="2" second="4" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="68" period="2" second="42" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Stevan Jovetic is caught offside" minute="65" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="64" period="2" second="19" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko is caught offside" minute="64" period="2" time="68" type="offside" type_id="10000"/>
+	<message comment="Kyle Naughton recieves a yellow card" minute="63" period="2" second="50" time="67" type="card received" type_id="17"/>
+	<message comment="Yaya Touré is substituted off" minute="63" period="2" second="15" time="67" type="substitution off" type_id="18"/>
+	<message comment="Matija Nastasic is substituted on" minute="63" period="2" second="15" time="67" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="61" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="GOAL! Etienne Capoue scores  (High to the centre, 18-yard box, Big Chance, Left footed, From corner)" minute="58" period="2" second="31" time="62" type="goal scored" type_id="16"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="57" period="2" second="58" time="61" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="54" period="2" second="2" time="58" type="substitution off" type_id="18"/>
+	<message comment="Kyle Naughton is substituted on" minute="54" period="2" second="2" time="58" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Edin Dzeko scores  (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="52" period="2" second="56" time="56" type="goal scored" type_id="16"/>
+	<message comment="Hugo Lloris makes a save (Diving)" minute="52" period="2" second="53" time="56" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="52" period="2" second="53" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Yaya Touré scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="50" period="2" second="2" time="54" type="goal scored" type_id="16"/>
+	<message comment="Danny Rose recieves a red card" minute="49" period="2" second="4" time="53" type="card received" type_id="17"/>
+	<message comment="Mousa Dembélé is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Etienne Capoue is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="4" time="48" type="end" type_id="30"/>
+	<message comment="Martín Demichelis misses attempt (To the right, 18-yard box, Head, Set piece)" minute="45" period="1" second="52" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is substituted off" minute="44" period="1" second="10" time="44" type="substitution off" type_id="18"/>
+	<message comment="Stevan Jovetic is substituted on" minute="44" period="1" second="10" time="44" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé misses attempt (To the right, Out of box, Left footed, Set piece)" minute="40" period="1" second="16" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero recieves a yellow card" minute="39" period="1" second="25" time="39" type="card received" type_id="17"/>
+	<message comment="Martín Demichelis recieves a yellow card" minute="39" period="1" second="20" time="39" type="card received" type_id="17"/>
+	<message comment="Michael Dawson is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré recieves a yellow card" minute="32" period="1" second="30" time="32" type="card received" type_id="17"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="30" period="1" second="33" time="30" type="corner" type_id="6"/>
+	<message comment="Vincent Kompany misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="29" period="1" second="43" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="29" period="1" second="18" time="29" type="corner" type_id="6"/>
+	<message comment="Nabil Bentaleb blocks a shot" minute="28" period="1" second="33" time="28" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, From corner)" minute="28" period="1" second="33" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" minute="28" period="1" second="8" time="28" type="corner" type_id="6"/>
+	<message comment="Danny Rose blocks a shot" minute="28" period="1" second="6" time="28" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="28" period="1" second="6" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta misses attempt (High, 18-yard box, Left footed, Open play)" minute="23" period="1" second="59" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Left footed, From corner)" minute="22" period="1" second="4" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Danny Rose blocks a shot (Last line)" minute="21" period="1" second="59" time="21" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Head, From corner)" minute="21" period="1" second="59" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Jesús Navas wins a corner (To the left)" minute="21" period="1" second="27" time="21" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried into danger)" minute="19" period="1" second="47" time="19" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="19" period="1" second="47" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Eriksen wins a corner (To the left)" minute="18" period="1" second="41" time="18" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, Open play)" minute="18" period="1" second="39" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="18" period="1" second="39" time="18" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="15" period="1" second="43" time="15" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by David Silva (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="14" period="1" second="13" time="14" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Right footed, Open play)" minute="10" period="1" second="28" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Head, Open play)" minute="4" period="1" second="11" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="3" period="1" second="58" time="3" type="woodwork hit" type_id="14"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

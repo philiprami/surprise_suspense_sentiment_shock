@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2011-05-15" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="37" time="96" type="end" type_id="30"/>
+	<message comment="Didier Drogba misses attempt (High to the right, Out of box, Right footed, Open play)" minute="93" period="2" second="3" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor recieves a yellow card" minute="92" period="2" second="40" time="95" type="card received" type_id="17"/>
+	<message comment="GOAL! Steven Taylor scores , Assisted by Nile Ranger (High to the right, 6-yard box, Big Chance, Head, From corner)" minute="91" period="2" second="58" time="94" type="goal scored" type_id="16"/>
+	<message comment="Ryan Taylor wins a corner (To the left)" minute="91" period="2" second="34" time="94" type="corner" type_id="6"/>
+	<message comment="John Terry blocks a shot" minute="91" period="2" second="33" time="94" type="save made" type_id="10"/>
+	<message comment="Ryan Taylor has shot blocked (18-yard box, Head, Open play)" minute="91" period="2" second="33" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="86" period="2" second="17" time="89" type="corner" type_id="6"/>
+	<message comment="GOAL! Alex scores , Assisted by Frank Lampard (Low to the right, 6-yard box, Head, Set piece)" minute="82" period="2" second="36" time="85" type="goal scored" type_id="16"/>
+	<message comment="Peter Løvenkrands is substituted off" minute="82" period="2" second="19" time="85" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="82" period="2" second="19" time="85" type="substitution on" type_id="19"/>
+	<message comment="José Enrique recieves a yellow card" minute="81" period="2" second="47" time="84" type="card received" type_id="17"/>
+	<message comment="Peter Løvenkrands has shot blocked (18-yard box, Left footed, Open play)" minute="80" period="2" second="31" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="80" period="2" second="31" time="83" type="save made" type_id="10"/>
+	<message comment="Peter Løvenkrands is caught offside" minute="76" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez is substituted off" minute="75" period="2" second="44" time="78" type="substitution off" type_id="18"/>
+	<message comment="Nile Ranger is substituted on" minute="75" period="2" second="44" time="78" type="substitution on" type_id="19"/>
+	<message comment="John Terry misses attempt (High, 6-yard box, Head, Open play)" minute="75" period="2" second="0" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson recieves a yellow card" minute="72" period="2" second="15" time="75" type="card received" type_id="17"/>
+	<message comment="Shane Ferguson is substituted off" minute="68" period="2" second="55" time="71" type="substitution off" type_id="18"/>
+	<message comment="Kazenga LuaLua is substituted on" minute="68" period="2" second="55" time="71" type="substitution on" type_id="19"/>
+	<message comment="Joey Barton misses attempt (High to the left, Out of box, Right footed, Free kick)" minute="64" period="2" second="33" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien is substituted on" minute="63" period="2" second="58" time="66" type="substitution on" type_id="19"/>
+	<message comment="Josh McEachran is substituted off" minute="63" period="2" second="58" time="66" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted off" minute="63" period="2" second="48" time="66" type="substitution off" type_id="18"/>
+	<message comment="Didier Drogba is substituted on" minute="63" period="2" second="48" time="66" type="substitution on" type_id="19"/>
+	<message comment="Yossi Benayoun is substituted off" minute="63" period="2" second="39" time="66" type="substitution off" type_id="18"/>
+	<message comment="Florent Malouda is substituted on" minute="63" period="2" second="39" time="66" type="substitution on" type_id="19"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Free kick)" minute="62" period="2" second="30" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres blocks a shot" minute="62" period="2" second="30" time="65" type="save made" type_id="10"/>
+	<message comment="Ryan Taylor has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="60" period="2" second="27" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="60" period="2" second="27" time="63" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="59" period="2" second="39" time="62" type="card received" type_id="17"/>
+	<message comment="Jonás Gutiérrez has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="58" period="2" second="30" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="58" period="2" second="30" time="61" type="save made" type_id="10"/>
+	<message comment="Josh McEachran blocks a shot" minute="58" period="2" second="20" time="61" type="save made" type_id="10"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Left footed, Open play)" minute="58" period="2" second="20" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="57" period="2" second="6" time="60" type="card received" type_id="17"/>
+	<message comment="Petr Cech makes a save (From shot off target)" minute="56" period="2" second="9" time="59" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez misses attempt (To the left, 18-yard box, Head, Open play)" minute="56" period="2" second="9" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="55" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Ramires misses attempt (Out of box, Right footed, Open play)" minute="53" period="2" second="58" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="53" period="2" second="31" time="56" type="corner" type_id="6"/>
+	<message comment="Joey Barton blocks a shot" minute="53" period="2" second="29" time="56" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, From corner)" minute="53" period="2" second="29" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="53" period="2" second="1" time="56" type="corner" type_id="6"/>
+	<message comment="Danny Simpson blocks a shot" minute="52" period="2" second="59" time="55" type="save made" type_id="10"/>
+	<message comment="Ashley Cole has shot blocked (18-yard box, Head, Open play)" minute="52" period="2" second="59" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Open play)" minute="48" period="2" second="46" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Alex blocks a shot" minute="48" period="2" second="46" time="51" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="48" period="2" second="4" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor blocks a shot" minute="48" period="2" second="0" time="51" type="save made" type_id="10"/>
+	<message comment="Josh McEachran has shot blocked (Out of box, Left footed, Open play)" minute="48" period="2" second="0" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Yossi Benayoun misses attempt (To the right, Out of box, Right footed, Open play)" minute="46" period="2" second="32" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="5" time="47" type="end" type_id="30"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Free kick)" minute="46" period="1" second="59" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard blocks a shot" minute="46" period="1" second="59" time="46" type="save made" type_id="10"/>
+	<message comment="Ramires recieves a yellow card" minute="46" period="1" second="0" time="46" type="card received" type_id="17"/>
+	<message comment="Danny Simpson is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Ryan Taylor blocks a shot" minute="43" period="1" second="23" time="43" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has shot blocked (6-yard box, Left footed, From corner)" minute="43" period="1" second="23" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="43" period="1" second="5" time="43" type="corner" type_id="6"/>
+	<message comment="Steven Taylor blocks a shot" minute="43" period="1" second="2" time="43" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (Out of box, Left footed, Open play)" minute="43" period="1" second="2" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor blocks a shot" minute="37" period="1" second="18" time="37" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="18" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="35" period="1" second="14" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Shane Ferguson wins a corner (To the left)" minute="31" period="1" second="33" time="31" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="29" period="1" second="26" time="29" type="corner" type_id="6"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="27" period="1" second="20" time="27" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Danny Simpson misses attempt (High to the left, Out of box, Right footed, Open play)" minute="26" period="1" second="15" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="23" period="1" second="46" time="23" type="corner" type_id="6"/>
+	<message comment="Alex misses attempt (To the left, 18-yard box, Left footed, Set piece)" minute="19" period="1" second="24" time="19" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique misses attempt (To the right, Out of box, Left footed, From corner)" minute="16" period="1" second="0" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Taylor wins a corner (To the right)" minute="15" period="1" second="32" time="15" type="corner" type_id="6"/>
+	<message comment="GOAL! Jonás Gutiérrez scores , Assisted by Ryan Taylor (Low to the left, 18-yard box, Other body part, Set piece)" minute="9" period="1" second="50" time="9" type="goal scored" type_id="16"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Key pass, Right footed, Free kick)" minute="9" period="1" second="48" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry recieves a yellow card" minute="8" period="1" second="39" time="8" type="card received" type_id="17"/>
+	<message comment="Fernando Torres misses attempt (High to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="41" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Nicolas Anelka misses attempt (High to the right, Out of box, Right footed, Open play)" minute="4" period="1" second="39" time="4" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by Fernando Torres (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="1" period="1" second="56" time="1" type="goal scored" type_id="16"/>
+	<message comment="Branislav Ivanovic wins a corner (To the left)" minute="1" period="1" second="34" time="1" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

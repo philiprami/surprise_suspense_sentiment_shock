@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2013-09-14" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="34" time="95" type="end" type_id="30"/>
+	<message comment="Leon Osman misses attempt (High to the right, Out of box, Right footed, Open play)" minute="92" period="2" second="28" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas is substituted off" minute="91" period="2" second="33" time="93" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="91" period="2" second="33" time="93" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres misses attempt (18-yard box, Left footed, Open play)" minute="89" period="2" second="23" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines hits the woodwork (High, Out of box, Left footed, Free kick)" minute="88" period="2" second="49" time="90" type="woodwork hit" type_id="14"/>
+	<message comment="Steven Naismith is substituted off" minute="88" period="2" second="31" time="90" type="substitution off" type_id="18"/>
+	<message comment="John Stones is substituted on" minute="88" period="2" second="31" time="90" type="substitution on" type_id="19"/>
+	<message comment="John Obi Mikel recieves a yellow card" minute="85" period="2" second="55" time="87" type="card received" type_id="17"/>
+	<message comment="Ross Barkley is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="David Luiz recieves a yellow card" minute="81" period="2" second="51" time="83" type="card received" type_id="17"/>
+	<message comment="Ramires wins a corner (To the right)" minute="81" period="2" second="29" time="83" type="corner" type_id="6"/>
+	<message comment="David Luiz misses attempt (High to the right, Out of box, Right footed, Open play)" minute="80" period="2" second="31" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard recieves a yellow card" minute="78" period="2" second="55" time="80" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="77" period="2" second="59" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="77" period="2" second="59" time="79" type="save made" type_id="10"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Standing)" minute="77" period="2" second="19" time="79" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the right, 6-yard box, Right footed, Open play)" minute="77" period="2" second="19" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" minute="75" period="2" second="23" time="77" type="save made" type_id="10"/>
+	<message comment="John Terry has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="75" period="2" second="23" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Samuel Eto'o wins a corner (To the left)" minute="74" period="2" second="55" time="76" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="71" period="2" second="32" time="73" type="corner" type_id="6"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="71" period="2" second="7" time="73" type="corner" type_id="6"/>
+	<message comment="Séamus Coleman wins a corner (To the right)" minute="70" period="2" second="38" time="72" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="70" period="2" second="20" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="70" period="2" second="20" time="72" type="save made" type_id="10"/>
+	<message comment="Ashley Cole is substituted off" minute="68" period="2" second="18" time="70" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" minute="68" period="2" second="18" time="70" type="substitution on" type_id="19"/>
+	<message comment="Ramires misses attempt (18-yard box, Right footed, Open play)" minute="67" period="2" second="48" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic is substituted off" minute="65" period="2" second="48" time="67" type="substitution off" type_id="18"/>
+	<message comment="James McCarthy is substituted on" minute="65" period="2" second="48" time="67" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="64" period="2" second="14" time="66" type="card received" type_id="17"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="63" period="2" second="42" time="65" type="corner" type_id="6"/>
+	<message comment="Leon Osman blocks a shot" minute="63" period="2" second="7" time="65" type="save made" type_id="10"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, Open play)" minute="63" period="2" second="7" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is substituted off" minute="57" period="2" second="0" time="59" type="substitution off" type_id="18"/>
+	<message comment="Frank Lampard is substituted on" minute="57" period="2" second="0" time="59" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata is substituted off" minute="56" period="2" second="39" time="58" type="substitution off" type_id="18"/>
+	<message comment="Oscar is substituted on" minute="56" period="2" second="39" time="58" type="substitution on" type_id="19"/>
+	<message comment="Nikica Jelavic misses attempt (To the left, 18-yard box, Head, Open play)" minute="55" period="2" second="7" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Tim Howard makes a save (Parried safe, Standing)" minute="54" period="2" second="45" time="56" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the right, 18-yard box, Other body part, Open play)" minute="54" period="2" second="45" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires misses attempt (18-yard box, Left footed, Open play)" minute="51" period="2" second="3" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="47" period="2" second="43" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Other body part)" minute="47" period="2" second="40" time="49" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="47" period="2" second="40" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle misses attempt (18-yard box, Right footed, Open play)" minute="45" period="2" second="42" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="32" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Steven Naismith scores , Assisted by Nikica Jelavic (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="45" period="1" second="29" time="45" type="goal scored" type_id="16"/>
+	<message comment="Séamus Coleman has attempt saved (Low to the right, 6-yard box, Head, Open play)" minute="45" period="1" second="4" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="45" period="1" second="4" time="45" type="save made" type_id="10"/>
+	<message comment="Juan Mata misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="43" period="1" second="46" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic misses attempt (High, 18-yard box, Head, Set piece)" minute="40" period="1" second="6" time="40" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle misses attempt (High to the right, 18-yard box, Right footed, Fast break)" minute="37" period="1" second="10" time="37" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle misses attempt (To the right, Out of box, Right footed, Open play)" minute="36" period="1" second="36" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="36" period="1" second="7" time="36" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic misses attempt (To the right, 18-yard box, Head, From corner)" minute="35" period="1" second="18" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Ramires wins a corner (To the left)" minute="34" period="1" second="52" time="34" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="34" period="1" second="49" time="34" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="34" period="1" second="49" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Naismith misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="32" period="1" second="49" time="32" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel misses attempt (High to the right, Out of box, Right footed, Open play)" minute="31" period="1" second="44" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o wins a corner (To the left)" minute="28" period="1" second="20" time="28" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="28" period="1" second="17" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot (Last line)" minute="28" period="1" second="17" time="28" type="save made" type_id="10"/>
+	<message comment="Sylvain Distin misses attempt (To the left, 18-yard box, Head, From corner)" minute="23" period="1" second="54" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Steven Naismith wins a corner (To the right)" minute="23" period="1" second="28" time="23" type="corner" type_id="6"/>
+	<message comment="Steven Naismith has shot blocked (18-yard box, Right footed, Open play)" minute="17" period="1" second="52" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="17" period="1" second="52" time="17" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o misses attempt (High to the right, Out of box, Right footed, Open play)" minute="17" period="1" second="4" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Steven Naismith wins a corner (To the right)" minute="14" period="1" second="5" time="14" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas is caught offside" minute="11" period="1" time="11" type="offside" type_id="10000"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="7" period="1" second="57" time="7" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="7" period="1" second="57" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Samuel Eto'o misses attempt (To the right, 18-yard box, Big Chance, Head, Open play)" minute="4" period="1" second="23" time="4" type="attempt missed" type_id="13"/>
+	<message comment="David Luiz misses attempt (High to the right, 6-yard box, Right footed, From corner)" minute="3" period="1" second="44" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" minute="3" period="1" second="22" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

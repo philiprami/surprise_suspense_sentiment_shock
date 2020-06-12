@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2012-09-15" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="96" type="end" type_id="30"/>
+	<message comment="Alex Smith wins a corner (To the left)" minute="91" period="2" second="54" time="94" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="91" period="2" second="52" time="94" type="save made" type_id="10"/>
+	<message comment="Alex Smith has shot blocked (Out of box, Left footed, Open play)" minute="91" period="2" second="52" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Diving)" minute="91" period="2" second="12" time="94" type="save made" type_id="10"/>
+	<message comment="Pajtim Kasami has attempt saved (High to the centre, 18-yard box, Left footed, Fast break)" minute="91" period="2" second="12" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger, From shot off target, Diving)" minute="90" period="2" second="55" time="93" type="save made" type_id="10"/>
+	<message comment="Gareth McAuley misses attempt (18-yard box, Head, From corner)" minute="90" period="2" second="53" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff is substituted off" minute="90" period="2" second="40" time="93" type="substitution off" type_id="18"/>
+	<message comment="Alex Smith is substituted on" minute="90" period="2" second="40" time="93" type="substitution on" type_id="19"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the left)" minute="89" period="2" second="59" time="92" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="56" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="89" period="2" second="56" time="92" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="89" period="2" second="23" time="92" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="89" period="2" second="23" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Steve Sidwell scores  (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="88" period="2" second="7" time="91" type="goal scored" type_id="16"/>
+	<message comment="Hugo Rodallega hits the woodwork (High, 6-yard box, Big Chance, Head, Open play)" minute="88" period="2" second="5" time="91" type="woodwork hit" type_id="14"/>
+	<message comment="Pajtim Kasami misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="86" period="2" second="41" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Standing)" minute="86" period="2" second="35" time="89" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="86" period="2" second="35" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="83" period="2" second="48" time="86" type="substitution off" type_id="18"/>
+	<message comment="Pajtim Kasami is substituted on" minute="83" period="2" second="48" time="86" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="80" period="2" second="35" time="83" type="save made" type_id="10"/>
+	<message comment="Dimitar Berbatov has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="80" period="2" second="35" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="78" period="2" second="5" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega misses attempt (High to the left, Out of box, Left footed, Open play)" minute="76" period="2" second="44" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Claudio Yacob is substituted off" minute="75" period="2" second="33" time="78" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="75" period="2" second="33" time="78" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega wins a corner (To the right)" minute="72" period="2" second="46" time="75" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="72" period="2" second="44" time="75" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="72" period="2" second="44" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes misses attempt (To the left, 18-yard box, Head, From corner)" minute="71" period="2" second="20" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="70" period="2" second="51" time="73" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="70" period="2" second="46" time="73" type="save made" type_id="10"/>
+	<message comment="Damien Duff has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="70" period="2" second="46" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger)" minute="70" period="2" second="3" time="73" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="70" period="2" second="3" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="68" period="2" second="38" time="71" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="67" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Collected)" minute="66" period="2" second="19" time="69" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 18-yard box, Left footed, Fast break)" minute="66" period="2" second="19" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="65" period="2" second="31" time="68" type="corner" type_id="6"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="61" period="2" second="48" time="64" type="corner" type_id="6"/>
+	<message comment="Chris Brunt has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="61" period="2" second="46" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save" minute="61" period="2" second="46" time="64" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku is caught offside" minute="59" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Dimitar Berbatov misses attempt (High, Out of box, Right footed, Open play)" minute="55" period="2" second="4" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley blocks a shot" minute="53" period="2" second="30" time="56" type="save made" type_id="10"/>
+	<message comment="John Arne Riise has shot blocked (Out of box, Left footed, Open play)" minute="53" period="2" second="30" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega is caught offside" minute="51" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Claudio Yacob blocks a shot" minute="47" period="2" second="30" time="50" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Open play)" minute="47" period="2" second="30" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Chris Brunt is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Shane Long is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="17" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Dimitar Berbatov scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="45" period="1" second="42" time="45" type="goal scored" type_id="16"/>
+	<message comment="Marc-Antoine Fortuné has shot blocked (18-yard box, Right footed, Open play)" minute="42" period="1" second="42" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="42" period="1" second="42" time="42" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu misses attempt (Out of box, Right footed, Open play)" minute="41" period="1" second="30" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov misses attempt (18-yard box, Head, Open play)" minute="39" period="1" second="46" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie recieves a red card" minute="37" period="1" second="29" time="37" type="card received" type_id="17"/>
+	<message comment="Gareth McAuley has shot blocked (6-yard box, Right footed, Set piece)" minute="36" period="1" second="23" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="36" period="1" second="23" time="36" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson blocks a shot" minute="34" period="1" second="14" time="34" type="save made" type_id="10"/>
+	<message comment="Dimitar Berbatov has shot blocked (Out of box, Right footed, Fast break)" minute="34" period="1" second="14" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Dimitar Berbatov scores , Assisted by Alexander Kacaniklic (High to the right, 18-yard box, Right footed, Open play)" minute="31" period="1" second="33" time="31" type="goal scored" type_id="16"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Dimitar Berbatov misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="20" period="1" second="30" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether wins a corner (To the left)" minute="19" period="1" second="57" time="19" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson has attempt saved (Low to the left, 6-yard box, Right footed, From corner)" minute="10" period="1" second="7" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="10" period="1" second="7" time="10" type="save made" type_id="10"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="9" period="1" second="32" time="9" type="corner" type_id="6"/>
+	<message comment="James Morrison has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="9" period="1" second="30" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe)" minute="9" period="1" second="30" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="5" period="1" second="59" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected, Diving)" minute="5" period="1" second="59" time="5" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="2" period="1" second="29" time="2" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (18-yard box, Left footed, Open play)" minute="2" period="1" second="29" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

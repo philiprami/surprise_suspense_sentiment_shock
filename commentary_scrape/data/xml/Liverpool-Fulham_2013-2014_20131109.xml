@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2013-11-09" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="96" type="end" type_id="30"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Right footed, Open play)" minute="91" period="2" second="48" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the left, Out of box, Right footed, Open play)" minute="91" period="2" second="1" time="94" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique is caught offside" minute="87" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Philippe Senderos blocks a shot" minute="84" period="2" second="10" time="87" type="save made" type_id="10"/>
+	<message comment="Joe Allen has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="10" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="82" period="2" second="47" time="85" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov is substituted off" minute="82" period="2" second="15" time="85" type="substitution off" type_id="18"/>
+	<message comment="Giorgos Karagounis is substituted on" minute="82" period="2" second="15" time="85" type="substitution on" type_id="19"/>
+	<message comment="Steve Sidwell is caught offside" minute="76" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge is substituted off" minute="75" period="2" second="33" time="78" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="75" period="2" second="33" time="78" type="substitution on" type_id="19"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="73" period="2" second="55" time="76" type="save made" type_id="10"/>
+	<message comment="Martin Skrtel has attempt saved (Low to the centre, 18-yard box, Right footed, From corner)" minute="73" period="2" second="55" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="73" period="2" second="41" time="76" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson wins a corner (To the right)" minute="73" period="2" second="21" time="76" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected, Diving)" minute="70" period="2" second="42" time="73" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="70" period="2" second="42" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge is caught offside" minute="70" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez misses attempt (High to the right, Out of box, Right footed, Open play)" minute="68" period="2" second="10" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard is substituted off" minute="66" period="2" second="16" time="69" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="66" period="2" second="16" time="69" type="substitution on" type_id="19"/>
+	<message comment="Pajtim Kasami misses attempt (To the left, Out of box, Left footed, Open play)" minute="65" period="2" second="19" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov misses attempt (18-yard box, Head, Open play)" minute="65" period="2" second="0" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="61" period="2" second="20" time="64" type="corner" type_id="6"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="61" period="2" second="17" time="64" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Right footed, Open play)" minute="61" period="2" second="17" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Elsad Zverotic is substituted off" minute="60" period="2" second="32" time="63" type="substitution off" type_id="18"/>
+	<message comment="Aaron Hughes is substituted on" minute="60" period="2" second="32" time="63" type="substitution on" type_id="19"/>
+	<message comment="Aly Cissokho is substituted off" minute="60" period="2" second="30" time="63" type="substitution off" type_id="18"/>
+	<message comment="José Enrique is substituted on" minute="60" period="2" second="30" time="63" type="substitution on" type_id="19"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="58" period="2" second="6" time="61" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Right footed, Open play)" minute="56" period="2" second="7" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is caught offside" minute="55" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="GOAL! Luis Suárez scores , Assisted by Steven Gerrard (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="53" period="2" second="14" time="56" type="goal scored" type_id="16"/>
+	<message comment="Philippe Coutinho misses attempt (Out of box, Right footed, Open play)" minute="51" period="2" second="31" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge misses attempt (High to the right, 6-yard box, Right footed, Fast break)" minute="47" period="2" second="26" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Right footed, Open play)" minute="46" period="2" second="31" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge has attempt saved (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="46" period="2" second="30" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="46" period="2" second="30" time="49" type="save made" type_id="10"/>
+	<message comment="Scott Parker blocks a shot" minute="46" period="2" second="27" time="49" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Open play)" minute="46" period="2" second="27" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe)" minute="46" period="2" second="22" time="49" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="46" period="2" second="22" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Bryan Ruiz is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Philippe Coutinho misses attempt (To the right, Out of box, Right footed, From corner)" minute="44" period="1" second="33" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="43" period="1" second="45" time="43" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson misses attempt (High, Out of box, Right footed, Open play)" minute="38" period="1" second="13" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Pajtim Kasami is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="GOAL! Luis Suárez scores , Assisted by Jordan Henderson (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="35" period="1" second="33" time="35" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge misses attempt (High to the left, Out of box, Left footed, Open play)" minute="33" period="1" second="22" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving)" minute="30" period="1" second="14" time="30" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="30" period="1" second="14" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="29" period="1" second="30" time="29" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried safe)" minute="29" period="1" second="25" time="29" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="29" period="1" second="25" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker blocks a shot" minute="29" period="1" second="13" time="29" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has shot blocked (18-yard box, Left footed, From corner)" minute="29" period="1" second="13" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="28" period="1" second="52" time="28" type="corner" type_id="6"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (High to the right, 18-yard box, Big Chance, Head, From corner)" minute="25" period="1" second="30" time="25" type="goal scored" type_id="16"/>
+	<message comment="Jordan Henderson wins a corner (To the right)" minute="25" period="1" second="16" time="25" type="corner" type_id="6"/>
+	<message comment="Scott Parker blocks a shot" minute="24" period="1" second="58" time="24" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has shot blocked (18-yard box, Right footed, Open play)" minute="24" period="1" second="58" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami blocks a shot" minute="24" period="1" second="49" time="24" type="save made" type_id="10"/>
+	<message comment="Glen Johnson has shot blocked (Out of box, Left footed, Open play)" minute="24" period="1" second="49" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="24" period="1" second="44" time="24" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="24" period="1" second="44" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker recieves a yellow card" minute="24" period="1" second="10" time="24" type="card received" type_id="17"/>
+	<message comment="Fernando Amorebieta scores an OWN GOAL!  (Low to the right, 6-yard box, Other body part, Set piece)" minute="22" period="1" second="32" time="22" type="goal scored" type_id="16"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="22" period="1" second="31" time="22" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Head, Set piece)" minute="22" period="1" second="31" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Dimitar Berbatov has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="21" period="1" second="22" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save" minute="21" period="1" second="22" time="21" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="19" period="1" second="53" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Pajtim Kasami wins a corner (To the left)" minute="14" period="1" second="56" time="14" type="corner" type_id="6"/>
+	<message comment="Pajtim Kasami has shot blocked (18-yard box, Left footed, Open play)" minute="14" period="1" second="53" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson blocks a shot" minute="14" period="1" second="53" time="14" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="11" period="1" second="37" time="11" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="10" period="1" second="39" time="10" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="10" period="1" second="39" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="34" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos blocks a shot" minute="10" period="1" second="34" time="10" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Philippe Coutinho misses attempt (To the right, Out of box, Right footed, Open play)" minute="4" period="1" second="1" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Agger misses attempt (High, 18-yard box, Left footed, From corner)" minute="0" period="1" second="54" time="0" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="0" period="1" second="29" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

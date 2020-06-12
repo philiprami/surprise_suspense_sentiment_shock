@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-09-28 17:30" game_id_2="27069225" game_id_4="111072657" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-28 19:04:55" minute="94" period="2" second="40" team="Arsenal" time="98" type="end" type_id="30"/>
+	<message comment="Mikel Arteta recieves a yellow card" last_modified="2013-09-28 19:02:46" minute="92" period="2" second="31" team="Swansea" time="96" type="card received" type_id="17"/>
+	<message comment="Jack Wilshere is substituted off" last_modified="2013-09-28 19:02:00" minute="91" period="2" second="45" team="Swansea" time="95" type="substitution off" type_id="18"/>
+	<message comment="Carl Jenkinson is substituted on" last_modified="2013-09-28 19:02:00" minute="91" period="2" second="45" team="Swansea" time="95" type="substitution on" type_id="19"/>
+	<message comment="Mesut Özil is substituted off" last_modified="2013-09-28 18:57:47" minute="87" period="2" second="32" team="Swansea" time="91" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" last_modified="2013-09-28 18:57:47" minute="87" period="2" second="32" team="Swansea" time="91" type="substitution on" type_id="19"/>
+	<message comment="Chico Flores misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 18:56:47" minute="86" period="2" second="32" team="Arsenal" time="90" type="attempt missed" type_id="13"/>
+	<message comment="José Cañas recieves a yellow card" last_modified="2013-09-28 18:53:48" minute="83" period="2" second="33" team="Arsenal" time="87" type="card received" type_id="17"/>
+	<message comment="Chico Flores recieves a yellow card" last_modified="2013-09-28 18:53:17" minute="83" period="2" second="2" team="Arsenal" time="87" type="card received" type_id="17"/>
+	<message comment="GOAL! Ben Davies scores , Assisted by Wilfried Bony (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-28 18:51:14" minute="80" period="2" second="59" team="Arsenal" time="84" type="goal scored" type_id="16"/>
+	<message comment="Jonathan de Guzmán recieves a yellow card" last_modified="2013-09-28 18:49:41" minute="79" period="2" second="26" team="Arsenal" time="83" type="card received" type_id="17"/>
+	<message comment="Per Mertesacker misses attempt (To the right, 18-yard box, Head, Set piece)" last_modified="2013-09-28 18:48:37" minute="78" period="2" second="22" team="Swansea" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Serge Gnabry is substituted off" last_modified="2013-09-28 18:47:22" minute="77" period="2" second="7" team="Swansea" time="81" type="substitution off" type_id="18"/>
+	<message comment="Mikel Arteta is substituted on" last_modified="2013-09-28 18:47:22" minute="77" period="2" second="7" team="Swansea" time="81" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Bony wins a corner (To the right)" last_modified="2013-09-28 18:45:38" minute="75" period="2" second="23" team="Arsenal" time="79" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" last_modified="2013-09-28 18:45:37" minute="75" period="2" second="22" team="Swansea" time="79" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-28 18:45:37" minute="75" period="2" second="22" team="Arsenal" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2013-09-28 18:44:15" minute="74" period="2" team="Swansea" time="78" type="offside" type_id="10000"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" last_modified="2013-09-28 18:38:32" minute="68" period="2" second="17" team="Arsenal" time="72" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" last_modified="2013-09-28 18:38:30" minute="68" period="2" second="15" team="Swansea" time="72" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-09-28 18:38:30" minute="68" period="2" second="15" team="Arsenal" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 18:36:53" minute="66" period="2" second="38" team="Arsenal" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2013-09-28 18:35:39" minute="65" period="2" second="24" team="Swansea" time="69" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 18:35:39" minute="65" period="2" second="24" team="Arsenal" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Mesut Özil is caught offside" last_modified="2013-09-28 18:34:15" minute="64" period="2" team="Swansea" time="68" type="offside" type_id="10000"/>
+	<message comment="Wayne Routledge is substituted off" last_modified="2013-09-28 18:34:10" minute="63" period="2" second="55" team="Arsenal" time="67" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" last_modified="2013-09-28 18:34:10" minute="63" period="2" second="55" team="Arsenal" time="67" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Aaron Ramsey scores , Assisted by Olivier Giroud (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-09-28 18:31:48" minute="61" period="2" second="33" team="Swansea" time="65" type="goal scored" type_id="16"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2013-09-28 18:31:24" minute="61" period="2" second="9" team="Swansea" time="65" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-09-28 18:31:24" minute="61" period="2" second="9" team="Arsenal" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey is substituted off" last_modified="2013-09-28 18:30:20" minute="60" period="2" second="5" team="Arsenal" time="64" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony is substituted on" last_modified="2013-09-28 18:30:20" minute="60" period="2" second="5" team="Arsenal" time="64" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Flamini recieves a yellow card" last_modified="2013-09-28 18:29:51" minute="59" period="2" second="36" team="Swansea" time="63" type="card received" type_id="17"/>
+	<message comment="Mesut Özil wins a corner (To the left)" last_modified="2013-09-28 18:28:55" minute="58" period="2" second="40" team="Swansea" time="62" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" last_modified="2013-09-28 18:28:52" minute="58" period="2" second="37" team="Arsenal" time="62" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-28 18:28:52" minute="58" period="2" second="37" team="Swansea" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Serge Gnabry scores , Assisted by Aaron Ramsey (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-09-28 18:27:21" minute="57" period="2" second="6" team="Swansea" time="61" type="goal scored" type_id="16"/>
+	<message comment="José Cañas blocks a shot" last_modified="2013-09-28 18:25:52" minute="55" period="2" second="37" team="Arsenal" time="59" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-28 18:25:52" minute="55" period="2" second="37" team="Swansea" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Serge Gnabry has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-09-28 18:20:49" minute="50" period="2" second="34" team="Swansea" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" last_modified="2013-09-28 18:20:49" minute="50" period="2" second="34" team="Arsenal" time="54" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2013-09-28 18:18:15" minute="48" period="2" team="Arsenal" time="52" type="offside" type_id="10000"/>
+	<message comment="Serge Gnabry wins a corner (To the left)" last_modified="2013-09-28 18:16:18" minute="46" period="2" second="3" team="Swansea" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-09-28 18:15:15" minute="45" period="2" second="0" team="Arsenal" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-28 18:18:40" minute="48" period="1" second="25" team="Arsenal" time="48" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-09-28 18:17:59" minute="47" period="1" second="44" team="Swansea" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-09-28 18:14:18" minute="44" period="1" second="3" team="Arsenal" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere is caught offside" last_modified="2013-09-28 18:09:15" minute="39" period="1" team="Swansea" time="39" type="offside" type_id="10000"/>
+	<message comment="Chico Flores blocks a shot" last_modified="2013-09-28 18:09:05" minute="38" period="1" second="50" team="Arsenal" time="38" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 18:09:05" minute="38" period="1" second="50" team="Swansea" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2013-09-28 18:07:15" minute="37" period="1" team="Swansea" time="37" type="offside" type_id="10000"/>
+	<message comment="Dwight Tiendalli is caught offside" last_modified="2013-09-28 17:54:15" minute="24" period="1" team="Arsenal" time="24" type="offside" type_id="10000"/>
+	<message comment="Michu is caught offside" last_modified="2013-09-28 17:47:15" minute="17" period="1" team="Arsenal" time="17" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-28 17:45:01" minute="14" period="1" second="46" team="Swansea" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Per Mertesacker misses attempt (18-yard box, Head, Open play)" last_modified="2013-09-28 17:40:20" minute="10" period="1" second="5" team="Swansea" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere wins a corner (To the left)" last_modified="2013-09-28 17:39:41" minute="9" period="1" second="26" team="Swansea" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-09-28 17:30:15" minute="0" period="14" second="0" team="Arsenal" time="8" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" last_modified="2013-09-28 17:37:54" minute="7" period="1" second="39" team="Arsenal" time="7" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-09-28 17:35:14" minute="4" period="1" second="59" team="Arsenal" time="4" type="attempt missed" type_id="13"/>
+	<message comment="José Cañas misses attempt (High to the right, Out of box, Right footed, From corner)" last_modified="2013-09-28 17:31:38" minute="1" period="1" second="23" team="Arsenal" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Chico Flores wins a corner (To the right)" last_modified="2013-09-28 17:31:14" minute="0" period="1" second="59" team="Arsenal" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-09-28 17:30:15" minute="0" period="1" second="0" team="Arsenal" time="0" type="start" type_id="32"/>
+</Commentary>

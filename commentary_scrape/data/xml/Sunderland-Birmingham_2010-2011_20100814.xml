@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2010-08-14" home_team_name="Birmingham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="99" type="end" type_id="30"/>
+	<message comment="Danny Welbeck is caught offside" minute="93" period="2" time="98" type="offside" type_id="10000"/>
+	<message comment="Nikola Zigic misses attempt (18-yard box, Left footed, Open play)" minute="92" period="2" second="34" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady is substituted off" minute="91" period="2" second="50" time="96" type="substitution off" type_id="18"/>
+	<message comment="Martyn Waghorn is substituted on" minute="91" period="2" second="50" time="96" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner recieves a yellow card" minute="89" period="2" second="40" time="94" type="card received" type_id="17"/>
+	<message comment="GOAL! Liam Ridgewell scores , Assisted by Sebastian Larsson (Low to the right, 6-yard box, Head, Set piece)" minute="87" period="2" second="31" time="92" type="goal scored" type_id="16"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="86" period="2" second="25" time="91" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has shot blocked (Out of box, Right footed, Open play)" minute="86" period="2" second="25" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson misses attempt (To the left, Out of box, Right footed, Open play)" minute="84" period="2" second="0" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Danny Welbeck is substituted on" minute="82" period="2" second="43" time="87" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent is substituted off" minute="82" period="2" second="43" time="87" type="substitution off" type_id="18"/>
+	<message comment="Simon Mignolet makes a save" minute="79" period="2" second="5" time="84" type="save made" type_id="10"/>
+	<message comment="Lee Bowyer has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="79" period="2" second="5" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Bowyer wins a corner (To the left)" minute="77" period="2" second="46" time="82" type="corner" type_id="6"/>
+	<message comment="GOAL! Scott Dann scores , Assisted by Sebastian Larsson (Low to the right, 6-yard box, Big Chance, Head, From corner)" minute="76" period="2" second="54" time="81" type="goal scored" type_id="16"/>
+	<message comment="Lee Bowyer wins a corner (To the left)" minute="76" period="2" second="26" time="81" type="corner" type_id="6"/>
+	<message comment="Cristian Riveros wins a corner (To the left)" minute="75" period="2" second="14" time="80" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady misses attempt (High to the right, Out of box, Right footed, Open play)" minute="73" period="2" second="55" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="71" period="2" second="8" time="76" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="71" period="2" second="8" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson recieves a yellow card" minute="70" period="2" second="5" time="75" type="card received" type_id="17"/>
+	<message comment="Scott Dann misses attempt (To the right, 6-yard box, Big Chance, Right footed, Open play)" minute="67" period="2" second="14" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Lee Bowyer wins a corner (To the left)" minute="66" period="2" second="31" time="71" type="corner" type_id="6"/>
+	<message comment="Darren Bent recieves a yellow card" minute="65" period="2" second="25" time="70" type="card received" type_id="17"/>
+	<message comment="Stephen Carr is substituted off" minute="64" period="2" second="26" time="69" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" minute="64" period="2" second="26" time="69" type="substitution on" type_id="19"/>
+	<message comment="Nikola Zigic has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="63" period="2" second="40" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Collected)" minute="63" period="2" second="40" time="68" type="save made" type_id="10"/>
+	<message comment="Steed Malbranque is substituted off" minute="63" period="2" second="6" time="68" type="substitution off" type_id="18"/>
+	<message comment="Cristian Riveros is substituted on" minute="63" period="2" second="6" time="68" type="substitution on" type_id="19"/>
+	<message comment="Nikola Zigic wins a corner (To the left)" minute="61" period="2" second="23" time="66" type="corner" type_id="6"/>
+	<message comment="Nikola Zigic has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="61" period="2" second="13" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="61" period="2" second="13" time="66" type="save made" type_id="10"/>
+	<message comment="Barry Ferguson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="58" period="2" second="5" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Garry O'Connor is substituted off" minute="57" period="2" second="17" time="62" type="substitution off" type_id="18"/>
+	<message comment="Nikola Zigic is substituted on" minute="57" period="2" second="17" time="62" type="substitution on" type_id="19"/>
+	<message comment="Stephen Carr scores an OWN GOAL!  (High to the right, 18-yard box, Head, Open play)" minute="55" period="2" second="7" time="60" type="goal scored" type_id="16"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" minute="54" period="2" second="22" time="59" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" minute="54" period="2" second="20" time="59" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="20" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent is caught offside" minute="51" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Garry O'Connor wins a corner (To the right)" minute="48" period="2" second="23" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="Keith Fahey is substituted off" minute="45" period="2" second="0" time="50" type="substitution off" type_id="18"/>
+	<message comment="James McFadden is substituted on" minute="45" period="2" second="0" time="50" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="49" period="1" second="8" time="49" type="end" type_id="30"/>
+	<message comment="Lee Cattermole recieves a red card after receiving second yellow card" minute="42" period="1" second="56" time="42" type="card received" type_id="17"/>
+	<message comment="Roger Johnson misses attempt (High to the left, 18-yard box, Head, Set piece)" minute="38" period="1" second="3" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady misses attempt (To the right, 18-yard box, Head, From corner)" minute="34" period="1" second="23" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="34" period="1" second="0" time="34" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Standing)" minute="33" period="1" second="57" time="33" type="save made" type_id="10"/>
+	<message comment="Kieran Richardson recieves a yellow card" minute="29" period="1" second="43" time="29" type="card received" type_id="17"/>
+	<message comment="Darren Bent misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="28" period="1" second="20" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Lee Cattermole recieves a yellow card" minute="27" period="1" second="33" time="27" type="card received" type_id="17"/>
+	<message comment="Garry O'Connor misses attempt (To the left, Out of box, Right footed, Open play)" minute="25" period="1" second="50" time="25" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Darren Bent scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="23" period="1" second="49" time="23" type="goal scored" type_id="16"/>
+	<message comment="Stephen Carr recieves a yellow card" minute="23" period="1" second="10" time="23" type="card received" type_id="17"/>
+	<message comment="Cameron Jerome misses attempt (Out of box, Right footed, Open play)" minute="19" period="1" second="39" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steed Malbranque misses attempt (18-yard box, Right footed, Open play)" minute="12" period="1" second="44" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent misses attempt (To the right, 18-yard box, Head, Open play)" minute="11" period="1" second="22" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Carr wins a corner (To the right)" minute="10" period="1" second="19" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Keith Fahey is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="3" period="1" second="5" time="3" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="3" period="1" second="5" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

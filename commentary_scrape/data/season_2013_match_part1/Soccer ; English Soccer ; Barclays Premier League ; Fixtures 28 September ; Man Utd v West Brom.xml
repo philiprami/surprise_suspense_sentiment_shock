@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Man Utd" competition="English Premier League" game_date="2013-09-28 15:00" game_id_2="27069223" game_id_4="111072395" home_team_name="West Brom" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-28 16:34:48" minute="94" period="2" second="4" team="West Brom" time="98" type="end" type_id="30"/>
+	<message comment="Saido Berahino wins a corner (To the left)" last_modified="2013-09-28 16:34:04" minute="93" period="2" second="20" team="Man Utd" time="97" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano is caught offside" last_modified="2013-09-28 16:33:44" minute="93" period="2" team="Man Utd" time="97" type="offside" type_id="10000"/>
+	<message comment="Adnan Januzaj misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-09-28 16:32:41" minute="91" period="2" second="57" team="West Brom" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Boaz Myhill makes a save (Diving, Parried into danger)" last_modified="2013-09-28 16:32:25" minute="91" period="2" second="41" team="Man Utd" time="95" type="save made" type_id="10"/>
+	<message comment="Michael Carrick has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 16:32:25" minute="91" period="2" second="41" team="West Brom" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon is substituted off" last_modified="2013-09-28 16:30:34" minute="89" period="2" second="50" team="Man Utd" time="93" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" last_modified="2013-09-28 16:30:34" minute="89" period="2" second="50" team="Man Utd" time="93" type="substitution on" type_id="19"/>
+	<message comment="Saido Berahino misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-09-28 16:29:11" minute="88" period="2" second="27" team="Man Utd" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Victor Anichebe is substituted off" last_modified="2013-09-28 16:28:25" minute="87" period="2" second="41" team="Man Utd" time="91" type="substitution off" type_id="18"/>
+	<message comment="Diego Lugano is substituted on" last_modified="2013-09-28 16:28:25" minute="87" period="2" second="41" team="Man Utd" time="91" type="substitution on" type_id="19"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2013-09-28 16:28:00" minute="87" period="2" second="16" team="Man Utd" time="91" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano recieves a yellow card" last_modified="2013-09-28 16:26:33" minute="85" period="2" second="49" team="Man Utd" time="89" type="card received" type_id="17"/>
+	<message comment="Marouane Fellaini is caught offside" last_modified="2013-09-28 16:24:44" minute="84" period="2" team="West Brom" time="88" type="offside" type_id="10000"/>
+	<message comment="Marouane Fellaini is caught offside" last_modified="2013-09-28 16:21:44" minute="81" period="2" team="West Brom" time="85" type="offside" type_id="10000"/>
+	<message comment="Stéphane Sessegnon misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-09-28 16:20:00" minute="79" period="2" second="16" team="Man Utd" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Boaz Myhill makes a save (Standing, Collected)" last_modified="2013-09-28 16:18:35" minute="77" period="2" second="51" team="Man Utd" time="81" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-09-28 16:18:35" minute="77" period="2" second="51" team="West Brom" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Büttner recieves a yellow card" last_modified="2013-09-28 16:13:41" minute="72" period="2" second="57" team="West Brom" time="76" type="card received" type_id="17"/>
+	<message comment="Robin van Persie wins a corner (To the right)" last_modified="2013-09-28 16:12:59" minute="72" period="2" second="15" team="West Brom" time="76" type="corner" type_id="6"/>
+	<message comment="Anderson is substituted off" last_modified="2013-09-28 16:07:47" minute="67" period="2" second="3" team="West Brom" time="71" type="substitution off" type_id="18"/>
+	<message comment="Marouane Fellaini is substituted on" last_modified="2013-09-28 16:07:47" minute="67" period="2" second="3" team="West Brom" time="71" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Saido Berahino scores , Assisted by Morgan Amalfitano (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-09-28 16:06:53" minute="66" period="2" second="9" team="Man Utd" time="70" type="goal scored" type_id="16"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" last_modified="2013-09-28 16:05:54" minute="65" period="2" second="10" team="Man Utd" time="69" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano has attempt saved (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-09-28 16:05:50" minute="65" period="2" second="6" team="Man Utd" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Diving)" last_modified="2013-09-28 16:05:50" minute="65" period="2" second="6" team="West Brom" time="69" type="save made" type_id="10"/>
+	<message comment="Phil Jones recieves a yellow card" last_modified="2013-09-28 16:05:08" minute="64" period="2" second="24" team="West Brom" time="68" type="card received" type_id="17"/>
+	<message comment="Stéphane Sessegnon misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-09-28 16:02:30" minute="61" period="2" second="46" team="Man Utd" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson hits the woodwork (High, 18-yard box, Head, From corner)" last_modified="2013-09-28 16:00:52" minute="60" period="2" second="8" team="Man Utd" time="64" type="woodwork hit" type_id="14"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" last_modified="2013-09-28 16:00:15" minute="59" period="2" second="31" team="Man Utd" time="63" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-28 15:59:31" minute="58" period="2" second="47" team="Man Utd" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Chicharito is substituted off" last_modified="2013-09-28 15:58:19" minute="57" period="2" second="35" team="West Brom" time="61" type="substitution off" type_id="18"/>
+	<message comment="Robin van Persie is substituted on" last_modified="2013-09-28 15:58:19" minute="57" period="2" second="35" team="West Brom" time="61" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Wayne Rooney scores  (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-09-28 15:57:31" minute="56" period="2" second="47" team="West Brom" time="60" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Morgan Amalfitano scores , Assisted by Youssouf Mulumbu (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-28 15:53:54" minute="53" period="2" second="10" team="Man Utd" time="57" type="goal scored" type_id="16"/>
+	<message comment="Anderson misses attempt (High, Out of box, Left footed, Open play)" last_modified="2013-09-28 15:50:08" minute="49" period="2" second="24" team="West Brom" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Büttner wins a corner (To the left)" last_modified="2013-09-28 15:49:23" minute="48" period="2" second="39" team="West Brom" time="52" type="corner" type_id="6"/>
+	<message comment="Saido Berahino wins a corner (To the left)" last_modified="2013-09-28 15:47:14" minute="46" period="2" second="30" team="Man Utd" time="50" type="corner" type_id="6"/>
+	<message comment="Saido Berahino has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2013-09-28 15:47:12" minute="46" period="2" second="28" team="Man Utd" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried safe, Diving)" last_modified="2013-09-28 15:47:12" minute="46" period="2" second="28" team="West Brom" time="50" type="save made" type_id="10"/>
+	<message comment="Billy Jones blocks a shot" last_modified="2013-09-28 15:46:43" minute="45" period="2" second="59" team="Man Utd" time="49" type="save made" type_id="10"/>
+	<message comment="Chicharito has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-28 15:46:43" minute="45" period="2" second="59" team="West Brom" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Shinji Kagawa is substituted off" last_modified="2013-09-28 15:45:44" minute="45" period="2" second="0" team="West Brom" time="49" type="substitution off" type_id="18"/>
+	<message comment="Adnan Januzaj is substituted on" last_modified="2013-09-28 15:45:44" minute="45" period="2" second="0" team="West Brom" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-09-28 15:45:44" minute="45" period="2" second="0" team="West Brom" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-28 15:48:47" minute="48" period="1" second="3" team="West Brom" time="48" type="end" type_id="30"/>
+	<message comment="Stéphane Sessegnon misses attempt (High, 6-yard box, Big Chance, Left footed, From corner)" last_modified="2013-09-28 15:45:11" minute="44" period="1" second="27" team="Man Utd" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2013-09-28 15:44:46" minute="44" period="1" second="2" team="Man Utd" time="44" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson blocks a shot" last_modified="2013-09-28 15:43:50" minute="43" period="1" second="6" team="Man Utd" time="43" type="save made" type_id="10"/>
+	<message comment="Alexander Büttner has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-28 15:43:50" minute="43" period="1" second="6" team="West Brom" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Collected, Diving)" last_modified="2013-09-28 15:38:14" minute="37" period="1" second="30" team="Man Utd" time="37" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-09-28 15:38:14" minute="37" period="1" second="30" team="West Brom" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-28 15:36:54" minute="36" period="1" second="10" team="Man Utd" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Nani has shot blocked (18-yard box, Head, Open play)" last_modified="2013-09-28 15:36:36" minute="35" period="1" second="52" team="West Brom" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" last_modified="2013-09-28 15:36:36" minute="35" period="1" second="52" team="Man Utd" time="35" type="save made" type_id="10"/>
+	<message comment="Anderson is caught offside" last_modified="2013-09-28 15:33:44" minute="33" period="1" team="West Brom" time="33" type="offside" type_id="10000"/>
+	<message comment="Wayne Rooney misses attempt (High, 18-yard box, Head, Open play)" last_modified="2013-09-28 15:32:33" minute="31" period="1" second="49" team="West Brom" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Boaz Myhill makes a save (Collected)" last_modified="2013-09-28 15:31:27" minute="30" period="1" second="43" team="Man Utd" time="30" type="save made" type_id="10"/>
+	<message comment="Anderson has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-09-28 15:31:27" minute="30" period="1" second="43" team="West Brom" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Nani wins a corner (To the right)" last_modified="2013-09-28 15:30:47" minute="30" period="1" second="3" team="West Brom" time="30" type="corner" type_id="6"/>
+	<message comment="Saido Berahino misses attempt (18-yard box, Big Chance, Head, Open play)" last_modified="2013-09-28 15:29:25" minute="28" period="1" second="41" team="Man Utd" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Saido Berahino wins a corner (To the left)" last_modified="2013-09-28 15:28:47" minute="28" period="1" second="3" team="Man Utd" time="28" type="corner" type_id="6"/>
+	<message comment="Phil Jones wins a corner (To the right)" last_modified="2013-09-28 15:26:11" minute="25" period="1" second="27" team="West Brom" time="25" type="corner" type_id="6"/>
+	<message comment="Boaz Myhill makes a save" last_modified="2013-09-28 15:24:28" minute="23" period="1" second="44" team="Man Utd" time="23" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" last_modified="2013-09-28 15:24:28" minute="23" period="1" second="44" team="West Brom" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Chicharito is caught offside" last_modified="2013-09-28 15:16:44" minute="16" period="1" team="West Brom" time="16" type="offside" type_id="10000"/>
+	<message comment="Michael Carrick recieves a yellow card" last_modified="2013-09-28 15:15:34" minute="14" period="1" second="50" team="West Brom" time="14" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob blocks a shot" last_modified="2013-09-28 15:15:15" minute="14" period="1" second="31" team="Man Utd" time="14" type="save made" type_id="10"/>
+	<message comment="Nani has shot blocked (18-yard box, Left footed, Fast break)" last_modified="2013-09-28 15:15:15" minute="14" period="1" second="31" team="West Brom" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Sinclair is substituted off" last_modified="2013-09-28 15:12:53" minute="12" period="1" second="9" team="Man Utd" time="12" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" last_modified="2013-09-28 15:12:53" minute="12" period="1" second="9" team="Man Utd" time="12" type="substitution on" type_id="19"/>
+	<message comment="Youssouf Mulumbu recieves a yellow card" last_modified="2013-09-28 15:10:57" minute="10" period="1" second="13" team="Man Utd" time="10" type="card received" type_id="17"/>
+	<message comment="Michael Carrick wins a corner (To the right)" last_modified="2013-09-28 15:09:30" minute="8" period="1" second="46" team="West Brom" time="8" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-09-28 15:00:44" minute="0" period="14" second="0" team="West Brom" time="8" type="end" type_id="30"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" last_modified="2013-09-28 15:07:31" minute="6" period="1" second="47" team="Man Utd" time="6" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" last_modified="2013-09-28 15:02:35" minute="1" period="1" second="51" team="Man Utd" time="1" type="save made" type_id="10"/>
+	<message comment="Nani has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 15:02:35" minute="1" period="1" second="51" team="West Brom" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-09-28 15:00:44" minute="0" period="1" second="0" team="West Brom" time="0" type="start" type_id="32"/>
+</Commentary>

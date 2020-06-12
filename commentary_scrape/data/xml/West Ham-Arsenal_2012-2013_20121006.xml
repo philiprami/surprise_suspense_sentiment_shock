@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2012-10-06" home_team_name="Arsenal" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="22" time="98" type="end" type_id="30"/>
+	<message comment="Winston Reid blocks a shot" minute="92" period="2" second="43" time="95" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="43" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe, Feet)" minute="90" period="2" second="36" time="93" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="90" period="2" second="36" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Carl Jenkinson wins a corner (To the right)" minute="89" period="2" second="59" time="92" type="corner" type_id="6"/>
+	<message comment="James Tomkins has shot blocked (6-yard box, Right footed, Set piece)" minute="89" period="2" second="41" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="89" period="2" second="41" time="92" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor has attempt saved (Low to the right, Out of box, Left footed, From corner)" minute="89" period="2" second="1" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried safe)" minute="89" period="2" second="1" time="92" type="save made" type_id="10"/>
+	<message comment="George McCartney wins a corner (To the left)" minute="88" period="2" second="28" time="91" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor recieves a yellow card" minute="85" period="2" second="24" time="88" type="card received" type_id="17"/>
+	<message comment="Lukas Podolski is substituted off" minute="84" period="2" second="17" time="87" type="substitution off" type_id="18"/>
+	<message comment="Laurent Koscielny is substituted on" minute="84" period="2" second="17" time="87" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="83" period="2" second="55" time="86" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Santi Cazorla scores , Assisted by Theo Walcott (High to the right, Out of box, Left footed, Open play)" minute="82" period="2" second="4" time="85" type="goal scored" type_id="16"/>
+	<message comment="Mohamed Diamé is substituted off" minute="81" period="2" second="26" time="84" type="substitution off" type_id="18"/>
+	<message comment="Carlton Cole is substituted on" minute="81" period="2" second="26" time="84" type="substitution on" type_id="19"/>
+	<message comment="Jussi Jääskeläinen makes a save (Standing)" minute="80" period="2" second="43" time="83" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="80" period="2" second="43" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker wins a corner (To the right)" minute="80" period="2" second="3" time="83" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" minute="80" period="2" second="0" time="83" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker has shot blocked (18-yard box, Right footed, From corner)" minute="80" period="2" second="0" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the left)" minute="79" period="2" second="20" time="82" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan misses attempt (18-yard box, Left footed, Open play)" minute="78" period="2" second="28" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott recieves a yellow card" minute="76" period="2" second="57" time="79" type="card received" type_id="17"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Olivier Giroud (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="76" period="2" second="7" time="79" type="goal scored" type_id="16"/>
+	<message comment="Lukas Podolski wins a corner (To the right)" minute="75" period="2" second="4" time="78" type="corner" type_id="6"/>
+	<message comment="James Tomkins blocks a shot" minute="75" period="2" second="1" time="78" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has shot blocked (18-yard box, Left footed, Open play)" minute="75" period="2" second="1" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="André Santos wins a corner (To the left)" minute="74" period="2" second="18" time="77" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="72" period="2" second="47" time="75" type="corner" type_id="6"/>
+	<message comment="Guy Demel is substituted off" minute="72" period="2" second="35" time="75" type="substitution off" type_id="18"/>
+	<message comment="James Tomkins is substituted on" minute="72" period="2" second="35" time="75" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski wins a corner (To the left)" minute="72" period="2" second="12" time="75" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe)" minute="72" period="2" second="10" time="75" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="72" period="2" second="10" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="James Collins blocks a shot" minute="68" period="2" second="56" time="71" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (18-yard box, Right footed, Open play)" minute="68" period="2" second="56" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla misses attempt (To the right, Out of box, Right footed, Open play)" minute="66" period="2" second="50" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (18-yard box, Head, Open play)" minute="66" period="2" second="3" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (6-yard box, Left footed, Fast break)" minute="64" period="2" second="51" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Fast break)" minute="64" period="2" second="47" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ricardo Vaz Tê is substituted off" minute="62" period="2" second="8" time="65" type="substitution off" type_id="18"/>
+	<message comment="Matthew Taylor is substituted on" minute="62" period="2" second="8" time="65" type="substitution on" type_id="19"/>
+	<message comment="Gervinho is substituted off" minute="60" period="2" second="27" time="63" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="60" period="2" second="27" time="63" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis misses attempt (High, 18-yard box, Right footed, Open play)" minute="58" period="2" second="41" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Mikel Arteta wins a corner (To the left)" minute="56" period="2" second="44" time="59" type="corner" type_id="6"/>
+	<message comment="Kieran Gibbs is substituted off" minute="55" period="2" second="52" time="58" type="substitution off" type_id="18"/>
+	<message comment="André Santos is substituted on" minute="55" period="2" second="52" time="58" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan is caught offside" minute="53" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Head, From corner)" minute="52" period="2" second="34" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Ricardo Vaz Tê wins a corner (To the left)" minute="51" period="2" second="59" time="54" type="corner" type_id="6"/>
+	<message comment="George McCartney wins a corner (To the left)" minute="46" period="2" second="0" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="28" time="47" type="end" type_id="30"/>
+	<message comment="Kevin Nolan misses attempt (To the right, 6-yard box, Right footed, Set piece)" minute="46" period="1" second="21" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Gervinho recieves a yellow card" minute="45" period="1" second="53" time="45" type="card received" type_id="17"/>
+	<message comment="Andy Carroll blocks a shot" minute="44" period="1" second="56" time="44" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Left footed, From corner)" minute="44" period="1" second="56" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="44" period="1" second="23" time="44" type="corner" type_id="6"/>
+	<message comment="Gervinho wins a corner (To the right)" minute="42" period="1" second="1" time="42" type="corner" type_id="6"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Lukas Podolski (High to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="40" period="1" second="21" time="40" type="goal scored" type_id="16"/>
+	<message comment="Winston Reid recieves a yellow card" minute="35" period="1" second="54" time="35" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Head, Open play)" minute="35" period="1" second="2" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="34" period="1" second="9" time="34" type="corner" type_id="6"/>
+	<message comment="Andy Carroll has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="31" period="1" second="1" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Standing)" minute="31" period="1" second="1" time="31" type="save made" type_id="10"/>
+	<message comment="Guy Demel wins a corner (To the right)" minute="30" period="1" second="30" time="30" type="corner" type_id="6"/>
+	<message comment="Gervinho is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey misses attempt (To the right, Out of box, Right footed, Open play)" minute="24" period="1" second="26" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé recieves a yellow card" minute="21" period="1" second="13" time="21" type="card received" type_id="17"/>
+	<message comment="GOAL! Mohamed Diamé scores , Assisted by George McCartney (High to the right, 18-yard box, Right footed, Open play)" minute="20" period="1" second="16" time="20" type="goal scored" type_id="16"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="18" period="1" second="8" time="18" type="corner" type_id="6"/>
+	<message comment="Andy Carroll blocks a shot" minute="18" period="1" second="6" time="18" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, From corner)" minute="18" period="1" second="6" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="17" period="1" second="41" time="17" type="corner" type_id="6"/>
+	<message comment="Carl Jenkinson wins a corner (To the right)" minute="17" period="1" second="5" time="17" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="5" period="1" second="41" time="5" type="corner" type_id="6"/>
+	<message comment="Winston Reid blocks a shot" minute="5" period="1" second="39" time="5" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" minute="5" period="1" second="39" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="1" period="1" second="17" time="1" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save (Standing, Parried safe)" minute="1" period="1" second="15" time="1" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="1" period="1" second="15" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Lukas Podolski misses attempt (To the right, Out of box, Left footed, Open play)" minute="0" period="1" second="26" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

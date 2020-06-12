@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2013-09-01" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="21" time="95" type="end" type_id="30"/>
+	<message comment="Markus Rosenberg misses attempt (High, Out of box, Right footed, Open play)" minute="92" period="2" second="56" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Michu is caught offside" minute="92" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="GOAL! Pablo Hernández scores , Assisted by Michu (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="82" period="2" second="30" time="84" type="goal scored" type_id="16"/>
+	<message comment="Pablo Hernández hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="81" period="2" second="3" time="83" type="woodwork hit" type_id="14"/>
+	<message comment="Markus Rosenberg is caught offside" minute="79" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the left)" minute="78" period="2" second="58" time="80" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="78" period="2" second="56" time="80" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (18-yard box, Right footed, Open play)" minute="78" period="2" second="56" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the left)" minute="76" period="2" second="56" time="78" type="corner" type_id="6"/>
+	<message comment="Alejandro Pozuelo recieves a yellow card" minute="75" period="2" second="34" time="77" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob is substituted off" minute="74" period="2" second="37" time="76" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="74" period="2" second="37" time="76" type="substitution on" type_id="19"/>
+	<message comment="Scott Sinclair is substituted off" minute="74" period="2" second="33" time="76" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" minute="74" period="2" second="33" time="76" type="substitution on" type_id="19"/>
+	<message comment="Alejandro Pozuelo misses attempt (High to the right, Out of box, Right footed, Open play)" minute="74" period="2" second="1" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley misses attempt (18-yard box, Head, Set piece)" minute="71" period="2" second="16" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge is substituted off" minute="70" period="2" second="59" time="72" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="70" period="2" second="59" time="72" type="substitution on" type_id="19"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="69" period="2" second="19" time="71" type="card received" type_id="17"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="68" period="2" second="33" time="70" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="33" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob misses attempt (18-yard box, Head, Set piece)" minute="68" period="2" second="8" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony is substituted off" minute="66" period="2" second="14" time="68" type="substitution off" type_id="18"/>
+	<message comment="Jonathan de Guzmán is substituted on" minute="66" period="2" second="14" time="68" type="substitution on" type_id="19"/>
+	<message comment="Claudio Yacob blocks a shot" minute="65" period="2" second="22" time="67" type="save made" type_id="10"/>
+	<message comment="Chico Flores has shot blocked (18-yard box, Right footed, Set piece)" minute="65" period="2" second="22" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Jonas Olsson recieves a yellow card" minute="64" period="2" second="56" time="66" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob blocks a shot" minute="62" period="2" second="16" time="64" type="save made" type_id="10"/>
+	<message comment="José Cañas has shot blocked (Out of box, Left footed, From corner)" minute="62" period="2" second="16" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams is caught offside" minute="62" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the left)" minute="61" period="2" second="50" time="63" type="corner" type_id="6"/>
+	<message comment="Michu wins a corner (To the left)" minute="61" period="2" second="15" time="63" type="corner" type_id="6"/>
+	<message comment="Michu recieves a yellow card" minute="60" period="2" second="51" time="62" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka is caught offside" minute="56" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, Open play)" minute="55" period="2" second="23" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="55" period="2" second="23" time="57" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans recieves a yellow card" minute="53" period="2" second="6" time="55" type="card received" type_id="17"/>
+	<message comment="James Morrison is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Boaz Myhill makes a save (Standing)" minute="41" period="1" second="34" time="41" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="41" period="1" second="34" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="37" period="1" second="56" time="37" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob misses attempt (To the left, Out of box, Right footed, Open play)" minute="34" period="1" second="6" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (18-yard box, Right footed, Open play)" minute="30" period="1" second="31" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley recieves a yellow card" minute="28" period="1" second="44" time="28" type="card received" type_id="17"/>
+	<message comment="GOAL! Ben Davies scores , Assisted by Pablo Hernández (High to the left, 18-yard box, Left footed, Open play)" minute="21" period="1" second="23" time="21" type="goal scored" type_id="16"/>
+	<message comment="Ashley Williams wins a corner (To the left)" minute="18" period="1" second="19" time="18" type="corner" type_id="6"/>
+	<message comment="James Morrison is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="17" period="1" second="52" time="17" type="corner" type_id="6"/>
+	<message comment="Claudio Yacob has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="16" period="1" second="25" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="16" period="1" second="25" time="16" type="save made" type_id="10"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Big Chance, Head, Set piece)" minute="16" period="1" second="13" time="16" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="13" period="1" second="40" time="13" type="corner" type_id="6"/>
+	<message comment="James Morrison has shot blocked (18-yard box, Right footed, Open play)" minute="13" period="1" second="38" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="13" period="1" second="38" time="13" type="save made" type_id="10"/>
+	<message comment="Billy Jones has shot blocked (18-yard box, Right footed, Open play)" minute="11" period="1" second="10" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" minute="11" period="1" second="10" time="11" type="save made" type_id="10"/>
+	<message comment="Boaz Myhill makes a save (Standing)" minute="7" period="1" second="1" time="7" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="7" period="1" second="1" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Michu misses attempt (High, Out of box, Left footed, Open play)" minute="6" period="1" second="0" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="2" period="1" second="38" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

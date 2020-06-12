@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2013-12-28" home_team_name="Sunderland" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="4" time="97" type="end" type_id="30"/>
+	<message comment="GOAL! Jack Colback scores , Assisted by Valentin Roberge (High to the left, 18-yard box, Left footed, Open play)" minute="94" period="2" second="48" time="95" type="goal scored" type_id="16"/>
+	<message comment="Emanuele Giaccherini misses attempt (To the right, Out of box, Right footed, Open play)" minute="93" period="2" second="46" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Phil Bardsley has shot blocked (18-yard box, Right footed, Open play)" minute="93" period="2" second="42" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Valentin Roberge wins a corner (To the right)" minute="90" period="2" second="50" time="91" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" minute="90" period="2" second="49" time="91" type="save made" type_id="10"/>
+	<message comment="Valentin Roberge has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="90" period="2" second="49" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Standing)" minute="88" period="2" second="55" time="89" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="88" period="2" second="55" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback misses attempt (Out of box, Left footed, Open play)" minute="87" period="2" second="36" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner misses attempt (High to the right, Out of box, Right footed, Open play)" minute="86" period="2" second="22" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker blocks a shot" minute="84" period="2" second="7" time="85" type="save made" type_id="10"/>
+	<message comment="Jack Colback has shot blocked (Out of box, Left footed, Set piece)" minute="84" period="2" second="7" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Steven Fletcher scores , Assisted by Emanuele Giaccherini (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="82" period="2" second="10" time="83" type="goal scored" type_id="16"/>
+	<message comment="Steven Caulker misses attempt (High, Out of box, Left footed, Open play)" minute="81" period="2" second="39" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell is substituted off" minute="81" period="2" second="12" time="82" type="substitution off" type_id="18"/>
+	<message comment="Andreas Cornelius is substituted on" minute="81" period="2" second="12" time="82" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="41" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Kim Bo-Kyung is substituted off" minute="78" period="2" second="28" time="79" type="substitution off" type_id="18"/>
+	<message comment="Aron Gunnarsson is substituted on" minute="78" period="2" second="28" time="79" type="substitution on" type_id="19"/>
+	<message comment="Sebastian Larsson is substituted off" minute="73" period="2" second="22" time="74" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" minute="73" period="2" second="22" time="74" type="substitution on" type_id="19"/>
+	<message comment="Lee Cattermole is substituted off" minute="73" period="2" second="18" time="74" type="substitution off" type_id="18"/>
+	<message comment="Jack Colback is substituted on" minute="73" period="2" second="18" time="74" type="substitution on" type_id="19"/>
+	<message comment="Ben Turner misses attempt (6-yard box, Head, From corner)" minute="72" period="2" second="50" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" minute="72" period="2" second="12" time="73" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell has shot blocked (Out of box, Right footed, Open play)" minute="72" period="2" second="7" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley blocks a shot" minute="72" period="2" second="7" time="73" type="save made" type_id="10"/>
+	<message comment="Craig Noone is substituted off" minute="71" period="2" second="7" time="72" type="substitution off" type_id="18"/>
+	<message comment="Don Cowie is substituted on" minute="71" period="2" second="7" time="72" type="substitution on" type_id="19"/>
+	<message comment="Jozy Altidore has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="68" period="2" second="52" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving)" minute="68" period="2" second="52" time="69" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell recieves a yellow card" minute="67" period="2" second="6" time="68" type="card received" type_id="17"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" minute="65" period="2" second="25" time="66" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini has shot blocked (18-yard box, Right footed, Open play)" minute="65" period="2" second="22" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner blocks a shot" minute="65" period="2" second="22" time="66" type="save made" type_id="10"/>
+	<message comment="David Marshall makes a save (Standing)" minute="64" period="2" second="5" time="65" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng has attempt saved (High to the centre, Out of box, Right footed, From corner)" minute="64" period="2" second="5" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Andrea Dossena wins a corner (To the left)" minute="63" period="2" second="35" time="64" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole misses attempt (18-yard box, Right footed, From corner)" minute="62" period="2" second="21" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher wins a corner (To the right)" minute="61" period="2" second="50" time="62" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher has shot blocked (6-yard box, Head, Set piece)" minute="61" period="2" second="48" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner blocks a shot" minute="61" period="2" second="48" time="62" type="save made" type_id="10"/>
+	<message comment="Vito Mannone makes a save (Collected)" minute="60" period="2" second="20" time="61" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="60" period="2" second="20" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley recieves a yellow card" minute="59" period="2" second="35" time="60" type="card received" type_id="17"/>
+	<message comment="Steven Fletcher wins a corner (To the left)" minute="58" period="2" second="45" time="59" type="corner" type_id="6"/>
+	<message comment="Kim Bo-Kyung recieves a yellow card" minute="57" period="2" second="50" time="58" type="card received" type_id="17"/>
+	<message comment="GOAL! Fraizer Campbell scores , Assisted by Jordon Mutch (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="57" period="2" second="16" time="58" type="goal scored" type_id="16"/>
+	<message comment="Peter Whittingham wins a corner (To the right)" minute="49" period="2" second="25" time="50" type="corner" type_id="6"/>
+	<message comment="Jordon Mutch misses attempt (To the right, 18-yard box, Big Chance, Head, Open play)" minute="48" period="2" second="18" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini is caught offside" minute="45" period="2" time="46" type="offside" type_id="10000"/>
+	<message comment="Fabio Borini is substituted off" minute="45" period="2" second="0" time="46" type="substitution off" type_id="18"/>
+	<message comment="Steven Fletcher is substituted on" minute="45" period="2" second="0" time="46" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" minute="45" period="1" second="59" time="45" type="end" type_id="30"/>
+	<message comment="Declan John wins a corner (To the left)" minute="45" period="1" second="58" time="45" type="corner" type_id="6"/>
+	<message comment="Fabio Borini wins a corner (To the left)" minute="41" period="1" second="29" time="41" type="corner" type_id="6"/>
+	<message comment="Fabio Borini has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="41" period="1" second="26" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" minute="41" period="1" second="26" time="41" type="save made" type_id="10"/>
+	<message comment="Craig Noone misses attempt (High to the left, Out of box, Left footed, Open play)" minute="40" period="1" second="21" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="34" period="1" second="42" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried into danger)" minute="34" period="1" second="42" time="34" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has shot blocked (18-yard box, Right footed, Open play)" minute="31" period="1" second="59" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="31" period="1" second="59" time="31" type="save made" type_id="10"/>
+	<message comment="Jozy Altidore misses attempt (6-yard box, Big Chance, Right footed, Open play)" minute="30" period="1" second="53" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Ki Sung-Yueng has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="30" period="1" second="52" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried into danger)" minute="30" period="1" second="52" time="30" type="save made" type_id="10"/>
+	<message comment="Modibo Diakité blocks a shot" minute="30" period="1" second="23" time="30" type="save made" type_id="10"/>
+	<message comment="Declan John has shot blocked (Out of box, Left footed, Open play)" minute="30" period="1" second="23" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save" minute="29" period="1" second="42" time="29" type="save made" type_id="10"/>
+	<message comment="Craig Noone has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="29" period="1" second="42" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell misses attempt (18-yard box, Head, Open play)" minute="27" period="1" second="38" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Peter Whittingham wins a corner (To the right)" minute="24" period="1" second="31" time="24" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Parried safe, Diving)" minute="24" period="1" second="28" time="24" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="24" period="1" second="28" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Collected, Standing)" minute="21" period="1" second="15" time="21" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="21" period="1" second="15" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Noone wins a corner (To the right)" minute="20" period="1" second="32" time="20" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="21" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Cattermole recieves a yellow card" minute="18" period="1" second="8" time="18" type="card received" type_id="17"/>
+	<message comment="Jozy Altidore is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Craig Noone wins a corner (To the left)" minute="15" period="1" second="9" time="15" type="corner" type_id="6"/>
+	<message comment="Kim Bo-Kyung wins a corner (To the right)" minute="12" period="1" second="26" time="12" type="corner" type_id="6"/>
+	<message comment="Kim Bo-Kyung has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="12" period="1" second="25" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe)" minute="12" period="1" second="25" time="12" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="GOAL! Jordon Mutch scores , Assisted by Fraizer Campbell (Low to the right, Out of box, Right footed, Open play)" minute="5" period="1" second="26" time="5" type="goal scored" type_id="16"/>
+	<message comment="Jordon Mutch misses attempt (18-yard box, Head, Open play)" minute="3" period="1" second="19" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker misses attempt (18-yard box, Head, Set piece)" minute="2" period="1" second="14" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Jordon Mutch recieves a yellow card" minute="0" period="1" second="53" time="0" type="card received" type_id="17"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

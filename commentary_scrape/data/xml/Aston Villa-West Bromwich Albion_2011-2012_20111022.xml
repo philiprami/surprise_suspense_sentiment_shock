@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2011-10-22" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="97" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie is caught offside" minute="89" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Somen Tchoyi wins a corner (To the left)" minute="88" period="2" second="37" time="92" type="corner" type_id="6"/>
+	<message comment="Somen Tchoyi is caught offside" minute="85" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Marc Albrighton misses attempt (Out of box, Right footed, Set piece)" minute="82" period="2" second="38" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu is substituted off" minute="77" period="2" second="38" time="81" type="substitution off" type_id="18"/>
+	<message comment="James Morrison is substituted on" minute="77" period="2" second="38" time="81" type="substitution on" type_id="19"/>
+	<message comment="Barry Bannan is substituted off" minute="77" period="2" second="22" time="81" type="substitution off" type_id="18"/>
+	<message comment="Marc Albrighton is substituted on" minute="77" period="2" second="22" time="81" type="substitution on" type_id="19"/>
+	<message comment="Somen Tchoyi is caught offside" minute="77" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="James Collins misses attempt (To the right, 18-yard box, Head, From corner)" minute="70" period="2" second="20" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Agbonlahor wins a corner (To the left)" minute="70" period="2" second="2" time="74" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu recieves a yellow card" minute="65" period="2" second="58" time="69" type="card received" type_id="17"/>
+	<message comment="Shay Given recieves a yellow card" minute="64" period="2" second="53" time="68" type="card received" type_id="17"/>
+	<message comment="Steven Reid wins a corner (To the right)" minute="64" period="2" second="40" time="68" type="corner" type_id="6"/>
+	<message comment="Emile Heskey blocks a shot" minute="64" period="2" second="38" time="68" type="save made" type_id="10"/>
+	<message comment="Steven Reid has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="38" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="63" period="2" second="27" time="67" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" minute="63" period="2" second="25" time="67" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, From corner)" minute="63" period="2" second="25" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Somen Tchoyi wins a corner (To the left)" minute="62" period="2" second="57" time="66" type="corner" type_id="6"/>
+	<message comment="Charles N'Zogbia is substituted off" minute="60" period="2" second="3" time="64" type="substitution off" type_id="18"/>
+	<message comment="Emile Heskey is substituted on" minute="60" period="2" second="3" time="64" type="substitution on" type_id="19"/>
+	<message comment="Paul Scharner recieves a yellow card" minute="57" period="2" second="10" time="61" type="card received" type_id="17"/>
+	<message comment="GOAL! Paul Scharner scores , Assisted by Chris Brunt (High to the centre, 18-yard box, Left footed, From corner)" minute="56" period="2" second="39" time="60" type="goal scored" type_id="16"/>
+	<message comment="Somen Tchoyi wins a corner (To the left)" minute="56" period="2" second="12" time="60" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson misses attempt (6-yard box, Big Chance, Head, From corner)" minute="55" period="2" second="12" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid wins a corner (To the right)" minute="54" period="2" second="47" time="58" type="corner" type_id="6"/>
+	<message comment="Shay Given makes a save (Diving, Parried into danger)" minute="54" period="2" second="26" time="58" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="54" period="2" second="26" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Agbonlahor has shot blocked (18-yard box, Right footed, Fast break)" minute="51" period="2" second="48" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="51" period="2" second="48" time="55" type="save made" type_id="10"/>
+	<message comment="Chris Brunt misses attempt (High, Out of box, Left footed, Free kick)" minute="46" period="2" second="23" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="13" time="48" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="GOAL! Jonas Olsson scores , Assisted by Chris Brunt (High to the right, 6-yard box, Big Chance, Head, From corner)" minute="44" period="1" second="31" time="44" type="goal scored" type_id="16"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="44" period="1" second="7" time="44" type="corner" type_id="6"/>
+	<message comment="Stiliyan Petrov blocks a shot" minute="44" period="1" second="3" time="44" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="44" period="1" second="3" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Shay Given makes a save (Parried safe, Diving)" minute="41" period="1" second="16" time="41" type="save made" type_id="10"/>
+	<message comment="Somen Tchoyi has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="41" period="1" second="16" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Stiliyan Petrov blocks a shot" minute="41" period="1" second="12" time="41" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="12" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Hutton is substituted off" minute="40" period="1" second="31" time="40" type="substitution off" type_id="18"/>
+	<message comment="Carlos Cuellar is substituted on" minute="40" period="1" second="31" time="40" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Agbonlahor wins a corner (To the left)" minute="37" period="1" second="53" time="37" type="corner" type_id="6"/>
+	<message comment="Chris Brunt misses attempt (18-yard box, Penalty, Big Chance, Left footed)" minute="35" period="1" second="38" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Chris Herd recieves a red card" minute="34" period="1" second="20" time="34" type="card received" type_id="17"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="29" period="1" second="30" time="29" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas misses attempt (High, Out of box, Right footed, Open play)" minute="25" period="1" second="0" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Alan Hutton blocks a shot" minute="23" period="1" second="17" time="23" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, Throw-in)" minute="23" period="1" second="17" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="GOAL! Darren Bent scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="22" period="1" second="6" time="22" type="goal scored" type_id="16"/>
+	<message comment="Billy Jones recieves a yellow card" minute="20" period="1" second="9" time="20" type="card received" type_id="17"/>
+	<message comment="Shane Long is substituted off" minute="19" period="1" second="13" time="19" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="19" period="1" second="13" time="19" type="substitution on" type_id="19"/>
+	<message comment="Alan Hutton recieves a yellow card" minute="15" period="1" second="13" time="15" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Barry Bannan misses attempt (Out of box, Left footed, Open play)" minute="6" period="1" second="36" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid blocks a shot" minute="6" period="1" second="27" time="6" type="save made" type_id="10"/>
+	<message comment="Gabriel Agbonlahor has shot blocked (Out of box, Left footed, Open play)" minute="6" period="1" second="27" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="4" period="1" second="18" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan misses attempt (To the right, Out of box, Key pass, Left footed, Open play)" minute="4" period="1" second="16" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="1" period="1" second="18" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2012-09-01" home_team_name="Norwich" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="32" time="97" type="end" type_id="30"/>
+	<message comment="Bradley Johnson misses attempt (High to the left, Out of box, Left footed, Open play)" minute="93" period="2" second="27" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Brad Friedel makes a save (Parried into danger, Diving)" minute="93" period="2" second="24" time="95" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="93" period="2" second="24" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone recieves a red card" minute="88" period="2" second="11" time="90" type="card received" type_id="17"/>
+	<message comment="Gareth Bale recieves a yellow card" minute="87" period="2" second="2" time="89" type="card received" type_id="17"/>
+	<message comment="Tom Huddlestone misses attempt (To the right, Out of box, Right footed, Open play)" minute="85" period="2" second="55" time="87" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Robert Snodgrass scores , Assisted by Grant Holt (Low to the right, 18-yard box, Left footed, Open play)" minute="84" period="2" second="23" time="86" type="goal scored" type_id="16"/>
+	<message comment="Jermain Defoe is substituted off" minute="81" period="2" second="12" time="83" type="substitution off" type_id="18"/>
+	<message comment="Tom Huddlestone is substituted on" minute="81" period="2" second="12" time="83" type="substitution on" type_id="19"/>
+	<message comment="William Gallas is caught offside" minute="80" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" minute="79" period="2" second="7" time="81" type="corner" type_id="6"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="78" period="2" second="5" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Standing, Collected)" minute="78" period="2" second="5" time="80" type="save made" type_id="10"/>
+	<message comment="Russell Martin blocks a shot" minute="73" period="2" second="7" time="75" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Right footed, Open play)" minute="73" period="2" second="7" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Simeon Jackson is substituted off" minute="72" period="2" second="32" time="74" type="substitution off" type_id="18"/>
+	<message comment="Steve Morison is substituted on" minute="72" period="2" second="32" time="74" type="substitution on" type_id="19"/>
+	<message comment="Simeon Jackson misses attempt (To the left, 18-yard box, Head, Open play)" minute="72" period="2" second="4" time="74" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Mousa Dembélé scores , Assisted by Jermain Defoe (Low to the right, 18-yard box, Left footed, Open play)" minute="67" period="2" second="59" time="69" type="goal scored" type_id="16"/>
+	<message comment="Anthony Pilkington has attempt saved (Low to the centre, 18-yard box, Right footed, From corner)" minute="61" period="2" second="55" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Diving, Parried into danger)" minute="61" period="2" second="55" time="63" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington wins a corner (To the right)" minute="61" period="2" second="3" time="63" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="59" period="2" second="41" time="61" type="corner" type_id="6"/>
+	<message comment="Jonny Howson blocks a shot" minute="59" period="2" second="38" time="61" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Free kick)" minute="59" period="2" second="38" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé misses attempt (To the right, Out of box, Left footed, Open play)" minute="58" period="2" second="4" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="56" period="2" second="5" time="58" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="56" period="2" second="5" time="58" type="substitution on" type_id="19"/>
+	<message comment="Jermain Defoe is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (Out of box, Left footed, Open play)" minute="54" period="2" second="23" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Grant Holt misses attempt (18-yard box, Head, Open play)" minute="50" period="2" second="29" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass wins a corner (To the right)" minute="49" period="2" second="35" time="51" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass misses attempt (To the right, Out of box, Left footed, Free kick)" minute="48" period="2" second="56" time="50" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save" minute="45" period="2" second="54" time="47" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="45" period="2" second="54" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Mousa Dembélé is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Simeon Jackson blocks a shot" minute="42" period="1" second="54" time="42" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="42" period="1" second="54" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Snodgrass has attempt saved (High to the centre, 18-yard box, Big Chance, Head, Open play)" minute="41" period="1" second="52" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Parried into danger, Diving)" minute="41" period="1" second="52" time="41" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe misses attempt (High, Out of box, Right footed, Open play)" minute="37" period="1" second="45" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Sandro misses attempt (High to the right, Out of box, Right footed, Open play)" minute="36" period="1" second="52" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="33" period="1" second="56" time="33" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass has shot blocked (18-yard box, Left footed, Open play)" minute="30" period="1" second="49" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro blocks a shot" minute="30" period="1" second="49" time="30" type="save made" type_id="10"/>
+	<message comment="John Ruddy makes a save" minute="30" period="1" second="21" time="30" type="save made" type_id="10"/>
+	<message comment="Sandro has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="30" period="1" second="21" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Parried safe)" minute="29" period="1" second="53" time="29" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="29" period="1" second="53" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson misses attempt (Out of box, Left footed, Open play)" minute="25" period="1" second="0" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe misses attempt (Out of box, Left footed, Open play)" minute="17" period="1" second="15" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Simeon Jackson misses attempt (To the left, Out of box, Right footed, Fast break)" minute="16" period="1" second="37" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="15" period="1" second="17" time="15" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Russell Martin hits the woodwork (High, 18-yard box, Head, Set piece)" minute="8" period="1" second="17" time="8" type="woodwork hit" type_id="14"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Aaron Lennon is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson misses attempt (High to the left, Out of box, Right footed, Fast break)" minute="2" period="1" second="30" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

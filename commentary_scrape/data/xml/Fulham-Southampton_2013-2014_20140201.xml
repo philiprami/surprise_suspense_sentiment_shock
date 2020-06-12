@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2014-02-01" home_team_name="Southampton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="96" type="end" type_id="30"/>
+	<message comment="Steven Davis misses attempt (To the right, Out of box, Right footed, Open play)" minute="91" period="2" second="56" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Sam Gallagher is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is substituted off" minute="86" period="2" second="48" time="89" type="substitution off" type_id="18"/>
+	<message comment="Sam Gallagher is substituted on" minute="86" period="2" second="48" time="89" type="substitution on" type_id="19"/>
+	<message comment="Pajtim Kasami misses attempt (To the left, Out of box, Left footed, Open play)" minute="83" period="2" second="14" time="86" type="attempt missed" type_id="13"/>
+	<message comment="William Kvist is substituted off" minute="82" period="2" second="29" time="85" type="substitution off" type_id="18"/>
+	<message comment="Muamer Tankovic is substituted on" minute="82" period="2" second="29" time="85" type="substitution on" type_id="19"/>
+	<message comment="Kieran Richardson is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="GOAL! Jay Rodriguez scores , Assisted by Rickie Lambert (High to the right, 18-yard box, Right footed, Open play)" minute="74" period="2" second="43" time="77" type="goal scored" type_id="16"/>
+	<message comment="Scott Parker is substituted off" minute="73" period="2" second="12" time="76" type="substitution off" type_id="18"/>
+	<message comment="Pajtim Kasami is substituted on" minute="73" period="2" second="12" time="76" type="substitution on" type_id="19"/>
+	<message comment="Clint Dempsey is caught offside" minute="70" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="GOAL! Rickie Lambert scores , Assisted by Nathaniel Clyne (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="69" period="2" second="12" time="72" type="goal scored" type_id="16"/>
+	<message comment="William Kvist blocks a shot" minute="65" period="2" second="34" time="68" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has shot blocked (18-yard box, Head, From corner)" minute="65" period="2" second="34" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis wins a corner (To the right)" minute="65" period="2" second="8" time="68" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" minute="65" period="2" second="6" time="68" type="save made" type_id="10"/>
+	<message comment="Steven Davis has shot blocked (18-yard box, Right footed, Open play)" minute="65" period="2" second="6" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff is substituted off" minute="64" period="2" second="8" time="67" type="substitution off" type_id="18"/>
+	<message comment="Clint Dempsey is substituted on" minute="64" period="2" second="8" time="67" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Rickie Lambert (Low to the right, 18-yard box, Left footed, Open play)" minute="63" period="2" second="2" time="66" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson blocks a shot" minute="61" period="2" second="42" time="64" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Right footed, Open play)" minute="61" period="2" second="42" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker blocks a shot" minute="58" period="2" second="41" time="61" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="41" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving)" minute="57" period="2" second="57" time="60" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="57" period="2" second="57" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers is substituted off" minute="57" period="2" second="35" time="60" type="substitution off" type_id="18"/>
+	<message comment="Nathaniel Clyne is substituted on" minute="57" period="2" second="35" time="60" type="substitution on" type_id="19"/>
+	<message comment="Steve Sidwell wins a corner (To the left)" minute="56" period="2" second="34" time="59" type="corner" type_id="6"/>
+	<message comment="Damien Duff wins a corner (To the left)" minute="51" period="2" second="32" time="54" type="corner" type_id="6"/>
+	<message comment="Morgan Schneiderlin misses attempt (High, 18-yard box, Right footed, Open play)" minute="50" period="2" second="25" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (Out of box, Right footed, Open play)" minute="48" period="2" second="31" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Victor Wanyama is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Jack Cork is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="Jay Rodriguez is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez misses attempt (High to the left, 18-yard box, Head, Open play)" minute="42" period="1" second="42" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Right footed, Fast break)" minute="38" period="1" second="19" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" minute="35" period="1" second="11" time="35" type="card received" type_id="17"/>
+	<message comment="Darren Bent has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="34" period="1" second="46" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving, Parried into danger, Other body part)" minute="34" period="1" second="46" time="34" type="save made" type_id="10"/>
+	<message comment="Darren Bent has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="34" period="1" second="28" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving, Parried into danger)" minute="34" period="1" second="28" time="34" type="save made" type_id="10"/>
+	<message comment="Adam Lallana wins a corner (To the right)" minute="32" period="1" second="9" time="32" type="corner" type_id="6"/>
+	<message comment="Maya Yoshida misses attempt (High to the left, 18-yard box, Head, Open play)" minute="30" period="1" second="23" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Schneiderlin wins a corner (To the left)" minute="29" period="1" second="44" time="29" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried safe)" minute="29" period="1" second="43" time="29" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="29" period="1" second="43" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Shaw wins a corner (To the right)" minute="29" period="1" second="14" time="29" type="corner" type_id="6"/>
+	<message comment="Victor Wanyama recieves a yellow card" minute="25" period="1" second="24" time="25" type="card received" type_id="17"/>
+	<message comment="Brede Hangeland has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="23" period="1" second="30" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving, Parried into danger)" minute="23" period="1" second="30" time="23" type="save made" type_id="10"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="22" period="1" second="56" time="22" type="corner" type_id="6"/>
+	<message comment="Calum Chambers misses attempt (To the left, Out of box, Right footed, Open play)" minute="19" period="1" second="16" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell misses attempt (To the left, Out of box, Right footed, Open play)" minute="17" period="1" second="41" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Right footed, Open play)" minute="16" period="1" second="32" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez recieves a yellow card" minute="15" period="1" second="26" time="15" type="card received" type_id="17"/>
+	<message comment="Morgan Schneiderlin misses attempt (High to the left, Out of box, Left footed, From corner)" minute="12" period="1" second="57" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Calum Chambers wins a corner (To the right)" minute="12" period="1" second="34" time="12" type="corner" type_id="6"/>
+	<message comment="Dan Burn misses attempt (18-yard box, Head, From corner)" minute="7" period="1" second="41" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="6" period="1" second="49" time="6" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Scott Parker has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="5" period="1" second="56" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Standing)" minute="5" period="1" second="56" time="5" type="save made" type_id="10"/>
+	<message comment="Darren Bent is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

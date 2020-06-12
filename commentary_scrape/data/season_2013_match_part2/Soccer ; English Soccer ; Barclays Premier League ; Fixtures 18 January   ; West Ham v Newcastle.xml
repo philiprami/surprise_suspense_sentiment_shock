@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2014-01-18 15:00" game_id_2="27129002" game_id_4="112425496" home_team_name="Newcastle" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-18 16:35:40" minute="95" period="2" second="33" team="Newcastle" time="98" type="end" type_id="30"/>
+	<message comment="GOAL! Yohan Cabaye scores  (High to the left, Out of box, Right footed, Free kick)" last_modified="2014-01-18 16:34:16" minute="94" period="2" second="9" team="West Ham" time="97" type="goal scored" type_id="16"/>
+	<message comment="Joe Cole is caught offside" last_modified="2014-01-18 16:31:07" minute="91" period="2" team="Newcastle" time="94" type="offside" type_id="10000"/>
+	<message comment="James Collins misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 16:29:59" minute="89" period="2" second="52" team="Newcastle" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing wins a corner (To the left)" last_modified="2014-01-18 16:29:27" minute="89" period="2" second="20" team="Newcastle" time="92" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa misses attempt (Out of box, Left footed, Open play)" last_modified="2014-01-18 16:22:47" minute="82" period="2" second="40" team="West Ham" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing wins a corner (To the right)" last_modified="2014-01-18 16:19:42" minute="79" period="2" second="35" team="Newcastle" time="82" type="corner" type_id="6"/>
+	<message comment="Loïc Rémy is substituted off" last_modified="2014-01-18 16:17:57" minute="77" period="2" second="50" team="West Ham" time="80" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" last_modified="2014-01-18 16:17:57" minute="77" period="2" second="50" team="West Ham" time="80" type="substitution on" type_id="19"/>
+	<message comment="Moussa Sissoko misses attempt (High to the left, Out of box, Right footed, Open play)" last_modified="2014-01-18 16:17:17" minute="77" period="2" second="10" team="West Ham" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-18 16:15:26" minute="75" period="2" second="19" team="Newcastle" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon is substituted off" last_modified="2014-01-18 16:13:37" minute="73" period="2" second="30" team="West Ham" time="76" type="substitution off" type_id="18"/>
+	<message comment="Paul Dummett is substituted on" last_modified="2014-01-18 16:13:37" minute="73" period="2" second="30" team="West Ham" time="76" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis is substituted off" last_modified="2014-01-18 16:12:32" minute="72" period="2" second="25" team="Newcastle" time="75" type="substitution off" type_id="18"/>
+	<message comment="Joe Cole is substituted on" last_modified="2014-01-18 16:12:32" minute="72" period="2" second="25" team="Newcastle" time="75" type="substitution on" type_id="19"/>
+	<message comment="Adrián makes a save (Standing, Collected)" last_modified="2014-01-18 16:07:13" minute="67" period="2" second="6" team="Newcastle" time="70" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-01-18 16:07:13" minute="67" period="2" second="6" team="West Ham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Adrián makes a save (Standing)" last_modified="2014-01-18 16:06:35" minute="66" period="2" second="28" team="Newcastle" time="69" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2014-01-18 16:06:35" minute="66" period="2" second="28" team="West Ham" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2014-01-18 16:02:54" minute="62" period="2" second="47" team="West Ham" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy misses attempt (To the left, Out of box, Key pass, Right footed, Open play)" last_modified="2014-01-18 16:02:53" minute="62" period="2" second="46" team="West Ham" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé is substituted off" last_modified="2014-01-18 16:01:59" minute="61" period="2" second="52" team="Newcastle" time="64" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" last_modified="2014-01-18 16:01:59" minute="61" period="2" second="52" team="Newcastle" time="64" type="substitution on" type_id="19"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2014-01-18 16:01:07" minute="61" period="2" team="West Ham" time="64" type="offside" type_id="10000"/>
+	<message comment="Vurnon Anita is substituted off" last_modified="2014-01-18 16:00:02" minute="59" period="2" second="55" team="West Ham" time="62" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" last_modified="2014-01-18 16:00:02" minute="59" period="2" second="55" team="West Ham" time="62" type="substitution on" type_id="19"/>
+	<message comment="Carlton Cole is caught offside" last_modified="2014-01-18 15:59:07" minute="59" period="2" team="Newcastle" time="62" type="offside" type_id="10000"/>
+	<message comment="Matthew Jarvis is caught offside" last_modified="2014-01-18 15:57:07" minute="57" period="2" team="Newcastle" time="60" type="offside" type_id="10000"/>
+	<message comment="Carlton Cole misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-01-18 15:55:39" minute="55" period="2" second="32" team="Newcastle" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-18 15:55:09" minute="55" period="2" second="2" team="Newcastle" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" last_modified="2014-01-18 15:55:09" minute="55" period="2" second="2" team="West Ham" time="58" type="save made" type_id="10"/>
+	<message comment="James Collins misses attempt (18-yard box, Head, Set piece)" last_modified="2014-01-18 15:52:30" minute="52" period="2" second="23" team="Newcastle" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Adrián makes a save (Parried safe, Diving)" last_modified="2014-01-18 15:47:08" minute="47" period="2" second="1" team="Newcastle" time="50" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-18 15:47:08" minute="47" period="2" second="1" team="West Ham" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2014-01-18 15:47:07" minute="47" period="2" team="West Ham" time="50" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:45:24" minute="45" period="2" second="17" team="West Ham" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Jack Collison is substituted off" last_modified="2014-01-18 15:45:07" minute="45" period="2" second="0" team="Newcastle" time="48" type="substitution off" type_id="18"/>
+	<message comment="Ravel Morrison is substituted on" last_modified="2014-01-18 15:45:07" minute="45" period="2" second="0" team="Newcastle" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-01-18 15:45:07" minute="45" period="2" second="0" team="Newcastle" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-18 15:47:19" minute="47" period="1" second="12" team="Newcastle" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Carlton Cole scores  (Low to the centre, 6-yard box, Right footed, Open play)" last_modified="2014-01-18 15:46:35" minute="46" period="1" second="28" team="Newcastle" time="46" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Diving, Parried into danger)" last_modified="2014-01-18 15:46:33" minute="46" period="1" second="26" team="West Ham" time="46" type="save made" type_id="10"/>
+	<message comment="Carlton Cole has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-18 15:46:33" minute="46" period="1" second="26" team="Newcastle" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2014-01-18 15:45:07" minute="45" period="1" team="West Ham" time="45" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté wins a corner (To the left)" last_modified="2014-01-18 15:40:38" minute="40" period="1" second="31" team="West Ham" time="40" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" last_modified="2014-01-18 15:40:34" minute="40" period="1" second="27" team="Newcastle" time="40" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:40:34" minute="40" period="1" second="27" team="West Ham" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing wins a corner (To the right)" last_modified="2014-01-18 15:39:34" minute="39" period="1" second="27" team="Newcastle" time="39" type="corner" type_id="6"/>
+	<message comment="Adrián makes a save (Diving, Parried safe, From shot off target)" last_modified="2014-01-18 15:35:37" minute="35" period="1" second="30" team="Newcastle" time="35" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:35:37" minute="35" period="1" second="30" team="West Ham" time="35" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Loïc Rémy scores , Assisted by Moussa Sissoko (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-18 15:32:15" minute="32" period="1" second="8" team="West Ham" time="32" type="goal scored" type_id="16"/>
+	<message comment="Stewart Downing has attempt saved (High to the centre, 18-yard box, Left footed, Set piece)" last_modified="2014-01-18 15:29:28" minute="29" period="1" second="21" team="Newcastle" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing)" last_modified="2014-01-18 15:29:28" minute="29" period="1" second="21" team="West Ham" time="29" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:24:21" minute="24" period="1" second="14" team="West Ham" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing is caught offside" last_modified="2014-01-18 15:23:07" minute="23" period="1" team="Newcastle" time="23" type="offside" type_id="10000"/>
+	<message comment="Adrián makes a save (Parried into danger)" last_modified="2014-01-18 15:23:00" minute="22" period="1" second="53" team="Newcastle" time="22" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-18 15:23:00" minute="22" period="1" second="53" team="West Ham" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Collison has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2014-01-18 15:22:37" minute="22" period="1" second="30" team="Newcastle" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté blocks a shot" last_modified="2014-01-18 15:22:37" minute="22" period="1" second="30" team="West Ham" time="22" type="save made" type_id="10"/>
+	<message comment="Jack Collison misses attempt (To the right, 18-yard box, Left footed, Throw-in)" last_modified="2014-01-18 15:20:43" minute="20" period="1" second="36" team="Newcastle" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" last_modified="2014-01-18 15:18:35" minute="18" period="1" second="28" team="West Ham" time="18" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" last_modified="2014-01-18 15:17:48" minute="17" period="1" second="41" team="West Ham" time="17" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" last_modified="2014-01-18 15:17:46" minute="17" period="1" second="39" team="Newcastle" time="17" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-18 15:17:46" minute="17" period="1" second="39" team="West Ham" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Yohan Cabaye scores , Assisted by Yoan Gouffran (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-01-18 15:15:27" minute="15" period="1" second="20" team="West Ham" time="15" type="goal scored" type_id="16"/>
+	<message comment="Matthew Taylor misses attempt (18-yard box, Head, Open play)" last_modified="2014-01-18 15:14:49" minute="14" period="1" second="42" team="Newcastle" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Adrián makes a save (Standing)" last_modified="2014-01-18 15:12:34" minute="12" period="1" second="27" team="Newcastle" time="12" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has attempt saved (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-18 15:12:34" minute="12" period="1" second="27" team="West Ham" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:09:43" minute="9" period="1" second="36" team="West Ham" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-01-18 15:00:07" minute="0" period="14" second="0" team="Newcastle" time="8" type="end" type_id="30"/>
+	<message comment="Loïc Rémy misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-01-18 15:07:58" minute="7" period="1" second="51" team="West Ham" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Mark Noble wins a corner (To the left)" last_modified="2014-01-18 15:00:22" minute="0" period="1" second="15" team="Newcastle" time="0" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" last_modified="2014-01-18 15:00:21" minute="0" period="1" second="14" team="West Ham" time="0" type="save made" type_id="10"/>
+	<message comment="Mark Noble has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-18 15:00:21" minute="0" period="1" second="14" team="Newcastle" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2014-01-18 15:00:07" minute="0" period="1" second="0" team="Newcastle" time="0" type="start" type_id="32"/>
+</Commentary>

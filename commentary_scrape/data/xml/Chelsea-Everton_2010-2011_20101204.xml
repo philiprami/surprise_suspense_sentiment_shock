@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2010-12-04" home_team_name="Everton" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="25" time="99" type="end" type_id="30"/>
+	<message comment="Diniyar Bilyaletdinov has shot blocked (Out of box, Left footed, Open play)" minute="95" period="2" second="32" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Ferreira blocks a shot" minute="95" period="2" second="32" time="97" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell has shot blocked (Out of box, Right footed, Open play)" minute="95" period="2" second="29" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires blocks a shot" minute="95" period="2" second="29" time="97" type="save made" type_id="10"/>
+	<message comment="Jermaine Beckford misses attempt (High to the left, Out of box, Left footed, Open play)" minute="94" period="2" second="26" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini misses attempt (Out of box, Right footed, Open play)" minute="93" period="2" second="32" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini has shot blocked (Out of box, Right footed, Open play)" minute="93" period="2" second="11" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires blocks a shot" minute="93" period="2" second="11" time="95" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka recieves a yellow card" minute="91" period="2" second="51" time="93" type="card received" type_id="17"/>
+	<message comment="Marouane Fellaini misses attempt (High to the right, Out of box, Right footed, Open play)" minute="89" period="2" second="9" time="91" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel is substituted off" minute="87" period="2" second="19" time="89" type="substitution off" type_id="18"/>
+	<message comment="Daniel Sturridge is substituted on" minute="87" period="2" second="19" time="89" type="substitution on" type_id="19"/>
+	<message comment="Steven Pienaar is substituted off" minute="86" period="2" second="59" time="88" type="substitution off" type_id="18"/>
+	<message comment="Diniyar Bilyaletdinov is substituted on" minute="86" period="2" second="59" time="88" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jermaine Beckford scores , Assisted by Tim Cahill (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="85" period="2" second="42" time="87" type="goal scored" type_id="16"/>
+	<message comment="Paulo Ferreira wins a corner (To the left)" minute="84" period="2" second="28" time="86" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou wins a corner (To the right)" minute="83" period="2" second="49" time="85" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe)" minute="81" period="2" second="52" time="83" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="81" period="2" second="52" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Beckford has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="79" period="2" second="5" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="79" period="2" second="5" time="81" type="save made" type_id="10"/>
+	<message comment="Jermaine Beckford wins a corner (To the left)" minute="78" period="2" second="23" time="80" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka is substituted off" minute="77" period="2" second="24" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted on" minute="77" period="2" second="24" time="79" type="substitution on" type_id="19"/>
+	<message comment="Séamus Coleman recieves a yellow card" minute="75" period="2" second="42" time="77" type="card received" type_id="17"/>
+	<message comment="John Terry recieves a yellow card" minute="75" period="2" second="40" time="77" type="card received" type_id="17"/>
+	<message comment="Salomon Kalou is caught offside" minute="68" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="José Bosingwa is substituted off" minute="64" period="2" second="15" time="66" type="substitution off" type_id="18"/>
+	<message comment="Paulo Ferreira is substituted on" minute="64" period="2" second="15" time="66" type="substitution on" type_id="19"/>
+	<message comment="Séamus Coleman wins a corner (To the right)" minute="62" period="2" second="58" time="64" type="corner" type_id="6"/>
+	<message comment="Jack Rodwell has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="42" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="61" period="2" second="42" time="63" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="61" period="2" second="13" time="63" type="save made" type_id="10"/>
+	<message comment="Séamus Coleman has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="61" period="2" second="13" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Rodwell hits the woodwork (To the right, 18-yard box, Head, Open play)" minute="60" period="2" second="25" time="62" type="woodwork hit" type_id="14"/>
+	<message comment="Tim Howard makes a save (Collected)" minute="59" period="2" second="39" time="61" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="59" period="2" second="39" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Beckford misses attempt (High to the right, Out of box, Right footed, Open play)" minute="59" period="2" second="0" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Louis Saha is substituted off" minute="57" period="2" second="46" time="59" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Beckford is substituted on" minute="57" period="2" second="46" time="59" type="substitution on" type_id="19"/>
+	<message comment="Jack Rodwell misses attempt (To the right, Out of box, Left footed, Open play)" minute="51" period="2" second="28" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman has shot blocked (Out of box, Right footed, Open play)" minute="50" period="2" second="53" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Cahill is caught offside" minute="47" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="11" time="46" type="end" type_id="30"/>
+	<message comment="Phil Jagielka blocks a shot" minute="42" period="1" second="48" time="42" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Open play)" minute="42" period="1" second="48" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Didier Drogba scores  (Low to the left, 18-yard box, Penalty, Right footed)" minute="41" period="1" second="6" time="41" type="goal scored" type_id="16"/>
+	<message comment="Tim Howard recieves a yellow card" minute="40" period="1" second="34" time="40" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="Salomon Kalou misses attempt (To the left, 18-yard box, Head, From corner)" minute="37" period="1" second="7" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="36" period="1" second="45" time="36" type="corner" type_id="6"/>
+	<message comment="Séamus Coleman misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="35" period="1" second="52" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Jack Rodwell misses attempt (High, Out of box, Right footed, Open play)" minute="33" period="1" second="24" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Jack Rodwell blocks a shot" minute="33" period="1" second="0" time="33" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Open play)" minute="33" period="1" second="0" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="José Bosingwa misses attempt (High to the left, Out of box, Left footed, Open play)" minute="29" period="1" second="47" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Phil Neville recieves a yellow card" minute="28" period="1" second="34" time="28" type="card received" type_id="17"/>
+	<message comment="John Terry hits the woodwork (High, 18-yard box, Right footed, From corner)" minute="26" period="1" second="13" time="26" type="woodwork hit" type_id="14"/>
+	<message comment="Tim Cahill blocks a shot" minute="26" period="1" second="11" time="26" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (18-yard box, Left footed, From corner)" minute="26" period="1" second="11" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel wins a corner (To the left)" minute="25" period="1" second="38" time="25" type="corner" type_id="6"/>
+	<message comment="Phil Jagielka blocks a shot" minute="25" period="1" second="35" time="25" type="save made" type_id="10"/>
+	<message comment="John Obi Mikel has shot blocked (Out of box, Right footed, From corner)" minute="25" period="1" second="35" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="25" period="1" second="34" time="25" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (18-yard box, Left footed, From corner)" minute="25" period="1" second="34" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="25" period="1" second="14" time="25" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="21" period="1" second="37" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (Out of box, Right footed, Open play)" minute="19" period="1" second="41" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Michael Essien wins a corner (To the right)" minute="16" period="1" second="28" time="16" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="12" period="1" second="44" time="12" type="corner" type_id="6"/>
+	<message comment="Phil Jagielka blocks a shot" minute="12" period="1" second="42" time="12" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (18-yard box, Left footed, Open play)" minute="12" period="1" second="42" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Leighton Baines misses attempt (High to the right, 18-yard box, Left footed, Open play)" minute="1" period="1" second="32" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Louis Saha has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="0" period="1" second="19" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="0" period="1" second="19" time="0" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

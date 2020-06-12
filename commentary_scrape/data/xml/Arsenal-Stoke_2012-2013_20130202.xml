@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-02-02" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="13" time="99" type="end" type_id="30"/>
+	<message comment="Theo Walcott is substituted off" minute="90" period="2" second="53" time="94" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="90" period="2" second="53" time="94" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross recieves a yellow card" minute="88" period="2" second="0" time="92" type="card received" type_id="17"/>
+	<message comment="Geoff Cameron is substituted off" minute="83" period="2" second="33" time="87" type="substitution off" type_id="18"/>
+	<message comment="Michael Owen is substituted on" minute="83" period="2" second="33" time="87" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters is substituted off" minute="83" period="2" second="30" time="87" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="83" period="2" second="30" time="87" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch is substituted off" minute="83" period="2" second="3" time="87" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="83" period="2" second="3" time="87" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shotton blocks a shot" minute="82" period="2" second="29" time="86" type="save made" type_id="10"/>
+	<message comment="Nacho Monreal has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="29" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shotton blocks a shot" minute="81" period="2" second="7" time="85" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, From corner)" minute="81" period="2" second="7" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny wins a corner (To the right)" minute="80" period="2" second="36" time="84" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="79" period="2" second="49" time="83" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Diving)" minute="79" period="2" second="47" time="83" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (High to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="47" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="79" period="2" second="45" time="83" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" minute="79" period="2" second="45" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Lukas Podolski scores  (Low to the right, Out of box, Left footed, Free kick)" minute="77" period="2" second="12" time="81" type="goal scored" type_id="16"/>
+	<message comment="Andy Wilkinson recieves a yellow card" minute="76" period="2" second="5" time="80" type="card received" type_id="17"/>
+	<message comment="Peter Crouch is caught offside" minute="74" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Nacho Monreal misses attempt (To the right, Out of box, Right footed, Open play)" minute="73" period="2" second="23" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Head, Open play)" minute="71" period="2" second="37" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan recieves a yellow card" minute="69" period="2" second="39" time="73" type="card received" type_id="17"/>
+	<message comment="Per Mertesacker blocks a shot" minute="69" period="2" second="15" time="73" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi has shot blocked (18-yard box, Head, Set piece)" minute="69" period="2" second="15" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Abou Diaby is substituted off" minute="67" period="2" second="48" time="71" type="substitution off" type_id="18"/>
+	<message comment="Santi Cazorla is substituted on" minute="67" period="2" second="48" time="71" type="substitution on" type_id="19"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="67" period="2" second="37" time="71" type="substitution off" type_id="18"/>
+	<message comment="Lukas Podolski is substituted on" minute="67" period="2" second="37" time="71" type="substitution on" type_id="19"/>
+	<message comment="Theo Walcott misses attempt (High, 18-yard box, Head, Open play)" minute="66" period="2" second="48" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross misses attempt (To the left, Out of box, Left footed, Throw-in)" minute="63" period="2" second="47" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron is caught offside" minute="61" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Left footed, Open play)" minute="55" period="2" second="17" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Nacho Monreal wins a corner (To the left)" minute="49" period="2" second="0" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="20" time="48" type="end" type_id="30"/>
+	<message comment="Theo Walcott has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="5" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron blocks a shot" minute="42" period="1" second="5" time="42" type="save made" type_id="10"/>
+	<message comment="Ryan Shotton blocks a shot" minute="42" period="1" second="2" time="42" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" minute="42" period="1" second="2" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott has shot blocked (Out of box, Key pass, Left footed, Open play)" minute="42" period="1" second="0" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="40" period="1" second="34" time="40" type="corner" type_id="6"/>
+	<message comment="Ryan Shotton blocks a shot" minute="40" period="1" second="31" time="40" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (18-yard box, Right footed, From corner)" minute="40" period="1" second="31" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Abou Diaby misses attempt (To the left, 18-yard box, Head, From corner)" minute="40" period="1" second="30" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="40" period="1" second="1" time="40" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Diving)" minute="39" period="1" second="59" time="39" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="39" period="1" second="59" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" minute="34" period="1" second="30" time="34" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, From corner)" minute="34" period="1" second="30" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="33" period="1" second="54" time="33" type="corner" type_id="6"/>
+	<message comment="Ryan Shotton blocks a shot" minute="31" period="1" second="56" time="31" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" minute="31" period="1" second="56" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="31" period="1" second="6" time="31" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger, Feet)" minute="31" period="1" second="4" time="31" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="31" period="1" second="4" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="30" period="1" second="37" time="30" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross misses attempt (High, Out of box, Right footed, Open play)" minute="29" period="1" second="6" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Andy Wilkinson blocks a shot" minute="25" period="1" second="37" time="25" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has shot blocked (18-yard box, Right footed, Open play)" minute="25" period="1" second="37" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="22" period="1" second="38" time="22" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan misses attempt (High to the left, Out of box, Right footed, Open play)" minute="21" period="1" second="50" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Robert Huth blocks a shot" minute="20" period="1" second="16" time="20" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" minute="20" period="1" second="16" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross misses attempt (High to the right, 6-yard box, Head, From corner)" minute="17" period="1" second="8" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch wins a corner (To the right)" minute="16" period="1" second="37" time="16" type="corner" type_id="6"/>
+	<message comment="Peter Crouch has shot blocked (Out of box, Right footed, Open play)" minute="16" period="1" second="32" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="16" period="1" second="32" time="16" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud misses attempt (High to the right, 6-yard box, Head, Open play)" minute="14" period="1" second="38" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="13" period="1" second="49" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" minute="13" period="1" second="49" time="13" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Jack Wilshere wins a corner (To the right)" minute="6" period="1" second="42" time="6" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="6" period="1" second="15" time="6" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere misses attempt (High to the left, Out of box, Left footed, Open play)" minute="4" period="1" second="58" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (To the left, Out of box, Right footed, Open play)" minute="1" period="1" second="57" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

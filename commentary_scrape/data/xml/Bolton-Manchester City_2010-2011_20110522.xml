@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Bolton" competition="English Premier League" game_date="2011-05-22" home_team_name="Manchester City" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="1" time="95" type="end" type_id="30"/>
+	<message comment="James Milner wins a corner (To the right)" minute="91" period="2" second="36" time="94" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko is caught offside" minute="90" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta is substituted off" minute="87" period="2" second="26" time="90" type="substitution off" type_id="18"/>
+	<message comment="Reece Wabara is substituted on" minute="87" period="2" second="26" time="90" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge recieves a red card" minute="85" period="2" second="14" time="88" type="card received" type_id="17"/>
+	<message comment="Jussi Jääskeläinen makes a save" minute="84" period="2" second="3" time="87" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="84" period="2" second="3" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the right)" minute="82" period="2" second="21" time="85" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge misses attempt (Out of box, Left footed, Open play)" minute="80" period="2" second="2" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Tamir Cohen wins a corner (To the right)" minute="78" period="2" second="19" time="81" type="corner" type_id="6"/>
+	<message comment="David Silva is substituted off" minute="78" period="2" second="6" time="81" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="78" period="2" second="6" time="81" type="substitution on" type_id="19"/>
+	<message comment="Chung-Yong Lee is substituted off" minute="75" period="2" second="54" time="78" type="substitution off" type_id="18"/>
+	<message comment="Rodrigo Moreno is substituted on" minute="75" period="2" second="54" time="78" type="substitution on" type_id="19"/>
+	<message comment="Ivan Klasnic is substituted on" minute="75" period="2" second="37" time="78" type="substitution on" type_id="19"/>
+	<message comment="Matthew Taylor is substituted off" minute="75" period="2" second="37" time="78" type="substitution off" type_id="18"/>
+	<message comment="Pablo Zabaleta misses attempt (High, Out of box, Right footed, Open play)" minute="71" period="2" second="54" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander is substituted off" minute="71" period="2" second="9" time="74" type="substitution off" type_id="18"/>
+	<message comment="Tamir Cohen is substituted on" minute="71" period="2" second="9" time="74" type="substitution on" type_id="19"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Parried into danger)" minute="67" period="2" second="42" time="70" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="67" period="2" second="42" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Edin Dzeko scores  (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="61" period="2" second="33" time="64" type="goal scored" type_id="16"/>
+	<message comment="Adam Johnson is substituted off" minute="60" period="2" second="12" time="63" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="60" period="2" second="12" time="63" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="59" period="2" second="49" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Ricardo Gardner has shot blocked (Out of box, Left footed, Open play)" minute="56" period="2" second="34" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="56" period="2" second="34" time="59" type="save made" type_id="10"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Collected)" minute="54" period="2" second="28" time="57" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="54" period="2" second="28" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge misses attempt (Out of box, Right footed, Open play)" minute="49" period="2" second="39" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Right footed, Throw-in)" minute="46" period="2" second="9" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="46" period="2" second="9" time="49" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor wins a corner (To the left)" minute="45" period="2" second="17" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="7" time="47" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge misses attempt (High, Out of box, Right footed, Throw-in)" minute="45" period="1" second="19" time="45" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Joleon Lescott scores , Assisted by Adam Johnson (High to the left, 18-yard box, Head, From corner)" minute="42" period="1" second="29" time="42" type="goal scored" type_id="16"/>
+	<message comment="Adam Johnson wins a corner (To the left)" minute="42" period="1" second="10" time="42" type="corner" type_id="6"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="41" period="1" second="12" time="41" type="corner" type_id="6"/>
+	<message comment="Johan Elmander misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="39" period="1" second="49" time="39" type="attempt missed" type_id="13"/>
+	<message comment="David Silva misses attempt (High, 18-yard box, Big Chance, Right footed, Fast break)" minute="38" period="1" second="31" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Parried into danger)" minute="38" period="1" second="29" time="38" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="38" period="1" second="29" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried into danger, Diving)" minute="38" period="1" second="24" time="38" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="38" period="1" second="24" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Taylor wins a corner (To the right)" minute="37" period="1" second="48" time="37" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor has shot blocked (Out of box, Left footed, Open play)" minute="37" period="1" second="46" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Dedryck Boyata blocks a shot" minute="37" period="1" second="46" time="37" type="save made" type_id="10"/>
+	<message comment="Adam Johnson misses attempt (High, 18-yard box, Left footed, Open play)" minute="37" period="1" second="4" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="33" period="1" second="59" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Collected)" minute="33" period="1" second="59" time="33" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (To the right, 18-yard box, Head, Open play)" minute="32" period="1" second="31" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry hits the woodwork (High, 6-yard box, Big Chance, Head, Open play)" minute="32" period="1" second="30" time="32" type="woodwork hit" type_id="14"/>
+	<message comment="Kevin Davies wins a corner (To the left)" minute="29" period="1" second="28" time="29" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving, From shot off target)" minute="29" period="1" second="27" time="29" type="save made" type_id="10"/>
+	<message comment="Kevin Davies misses attempt (18-yard box, Head, Set piece)" minute="29" period="1" second="25" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez recieves a yellow card" minute="21" period="1" second="4" time="21" type="card received" type_id="17"/>
+	<message comment="Zat Knight has shot blocked (18-yard box, Head, From corner)" minute="19" period="1" second="47" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="19" period="1" second="47" time="19" type="save made" type_id="10"/>
+	<message comment="Johan Elmander wins a corner (To the right)" minute="19" period="1" second="19" time="19" type="corner" type_id="6"/>
+	<message comment="Johan Elmander has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="19" period="1" second="16" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="19" period="1" second="16" time="19" type="save made" type_id="10"/>
+	<message comment="Johan Elmander misses attempt (To the left, Out of box, Right footed, Open play)" minute="19" period="1" second="8" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies recieves a yellow card" minute="13" period="1" second="0" time="13" type="card received" type_id="17"/>
+	<message comment="Gareth Barry misses attempt (High to the left, Out of box, Left footed, Set piece)" minute="12" period="1" second="6" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies misses attempt (18-yard box, Head, From corner)" minute="10" period="1" second="40" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies wins a corner (To the left)" minute="10" period="1" second="14" time="10" type="corner" type_id="6"/>
+	<message comment="Gary Cahill misses attempt (To the left, 18-yard box, Head, Set piece)" minute="9" period="1" second="1" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill blocks a shot" minute="7" period="1" second="58" time="7" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Set piece)" minute="7" period="1" second="58" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Vincent Kompany misses attempt (High, 18-yard box, Head, From corner)" minute="4" period="1" second="18" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="3" period="1" second="56" time="3" type="corner" type_id="6"/>
+	<message comment="Zat Knight blocks a shot" minute="3" period="1" second="52" time="3" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="3" period="1" second="52" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré blocks a shot" minute="1" period="1" second="55" time="1" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor has shot blocked (Out of box, Left footed, Free kick)" minute="1" period="1" second="55" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

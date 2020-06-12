@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2011-12-03" home_team_name="Chelsea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="1" time="97" type="end" type_id="30"/>
+	<message comment="John Terry recieves a yellow card" minute="93" period="2" second="56" time="96" type="card received" type_id="17"/>
+	<message comment="Ryan Taylor recieves a yellow card" minute="93" period="2" second="15" time="96" type="card received" type_id="17"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Ramires (Low to the left, 18-yard box, Left footed, Open play)" minute="91" period="2" second="50" time="94" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="53" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Simpson blocks a shot" minute="90" period="2" second="53" time="93" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou is caught offside" minute="90" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="GOAL! Salomon Kalou scores , Assisted by Fernando Torres (Low to the left, 18-yard box, Right footed, Open play)" minute="88" period="2" second="20" time="91" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="16" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot" minute="88" period="2" second="16" time="91" type="save made" type_id="10"/>
+	<message comment="Danny Simpson recieves a yellow card" minute="85" period="2" second="51" time="88" type="card received" type_id="17"/>
+	<message comment="Danny Guthrie misses attempt (High, Out of box, Right footed, Open play)" minute="85" period="2" second="41" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="85" period="2" second="12" time="88" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="85" period="2" second="12" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge recieves a yellow card" minute="84" period="2" second="3" time="87" type="card received" type_id="17"/>
+	<message comment="Demba Ba misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="83" period="2" second="25" time="86" type="attempt missed" type_id="13"/>
+	<message comment="James Perch blocks a shot" minute="82" period="2" second="32" time="85" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="32" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving, Feet)" minute="82" period="2" second="8" time="85" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="82" period="2" second="8" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba is caught offside" minute="81" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Sammy Ameobi wins a corner (To the left)" minute="80" period="2" second="39" time="83" type="corner" type_id="6"/>
+	<message comment="Sammy Ameobi has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="80" period="2" second="0" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="80" period="2" second="0" time="83" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi hits the woodwork (High, Out of box, Right footed, Open play)" minute="79" period="2" second="55" time="82" type="woodwork hit" type_id="14"/>
+	<message comment="Didier Drogba is substituted off" minute="78" period="2" second="46" time="81" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" minute="78" period="2" second="46" time="81" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata is substituted off" minute="74" period="2" second="4" time="77" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="74" period="2" second="4" time="77" type="substitution on" type_id="19"/>
+	<message comment="Sammy Ameobi has shot blocked (18-yard box, Left footed, Open play)" minute="73" period="2" second="8" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot (Last line)" minute="73" period="2" second="8" time="76" type="save made" type_id="10"/>
+	<message comment="Juan Mata misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="71" period="2" second="43" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Peter Løvenkrands is substituted off" minute="70" period="2" second="44" time="73" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="70" period="2" second="44" time="73" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="70" period="2" second="21" time="73" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Left footed, Open play)" minute="65" period="2" second="39" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="65" period="2" second="39" time="68" type="save made" type_id="10"/>
+	<message comment="Frank Lampard is substituted off" minute="60" period="2" second="7" time="63" type="substitution off" type_id="18"/>
+	<message comment="Raul Meireles is substituted on" minute="60" period="2" second="7" time="63" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi misses attempt (Out of box, Right footed, Open play)" minute="57" period="2" second="46" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba misses attempt (To the right, Out of box, Left footed, Open play)" minute="55" period="2" second="32" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="55" period="2" second="0" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Ramires wins a corner (To the left)" minute="54" period="2" second="29" time="57" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving, Other body part)" minute="54" period="2" second="23" time="57" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="54" period="2" second="23" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor wins a corner (To the left)" minute="53" period="2" second="48" time="56" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (18-yard box, Right footed, Open play)" minute="51" period="2" second="57" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard blocks a shot" minute="50" period="2" second="40" time="53" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has shot blocked (18-yard box, Left footed, Open play)" minute="50" period="2" second="40" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Guthrie misses attempt (To the right, Out of box, Left footed, Open play)" minute="50" period="2" second="14" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Danny Guthrie wins a corner (To the left)" minute="46" period="1" second="12" time="46" type="corner" type_id="6"/>
+	<message comment="Steven Taylor blocks a shot" minute="45" period="1" second="26" time="45" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (18-yard box, Left footed, Open play)" minute="45" period="1" second="26" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Open play)" minute="41" period="1" second="28" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="41" period="1" second="28" time="41" type="save made" type_id="10"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="40" period="1" second="28" time="40" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Left footed, Fast break)" minute="40" period="1" second="28" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="39" period="1" second="42" time="39" type="corner" type_id="6"/>
+	<message comment="Demba Ba is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="GOAL! Didier Drogba scores , Assisted by Juan Mata (High to the left, 18-yard box, Head, Throw-in)" minute="37" period="1" second="45" time="37" type="goal scored" type_id="16"/>
+	<message comment="Ryan Taylor blocks a shot" minute="36" period="1" second="56" time="36" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (Out of box, Left footed, Open play)" minute="36" period="1" second="56" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor misses attempt (High, Out of box, Right footed, From corner)" minute="34" period="1" second="27" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Peter Løvenkrands wins a corner (To the left)" minute="34" period="1" second="1" time="34" type="corner" type_id="6"/>
+	<message comment="Demba Ba hits the woodwork (To the left, 18-yard box, Head, Open play)" minute="33" period="1" second="58" time="33" type="woodwork hit" type_id="14"/>
+	<message comment="Oriol Romeu misses attempt (To the left, Out of box, Right footed, Set piece)" minute="32" period="1" second="4" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="29" period="1" second="36" time="29" type="corner" type_id="6"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="29" period="1" second="7" time="29" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini is substituted off" minute="27" period="1" second="24" time="27" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="27" period="1" second="24" time="27" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="23" period="1" second="59" time="23" type="corner" type_id="6"/>
+	<message comment="Demba Ba has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="23" period="1" second="57" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="23" period="1" second="57" time="23" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Right footed, Open play)" minute="22" period="1" second="49" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="21" period="1" second="21" time="21" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="21" period="1" second="21" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge misses attempt (Out of box, Left footed, Open play)" minute="19" period="1" second="38" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Peter Løvenkrands has shot blocked (Out of box, Left footed, Open play)" minute="17" period="1" second="44" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="17" period="1" second="44" time="17" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="15" period="1" second="27" time="15" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge hits the woodwork (To the right, 18-yard box, Right footed, Open play)" minute="15" period="1" second="24" time="15" type="woodwork hit" type_id="14"/>
+	<message comment="Frank Lampard has attempt saved (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="13" period="1" second="35" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving, Penalty)" minute="13" period="1" second="35" time="13" type="save made" type_id="10"/>
+	<message comment="Didier Drogba is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="John Terry blocks a shot" minute="7" period="1" second="42" time="7" type="save made" type_id="10"/>
+	<message comment="Danny Guthrie has shot blocked (18-yard box, Left footed, Fast break)" minute="7" period="1" second="42" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Free kick)" minute="6" period="1" second="5" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="6" period="1" second="5" time="6" type="save made" type_id="10"/>
+	<message comment="David Luiz recieves a yellow card" minute="3" period="1" second="48" time="3" type="card received" type_id="17"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

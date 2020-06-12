@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2012-09-29" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="38" time="96" type="end" type_id="30"/>
+	<message comment="Demba Ba misses attempt (High to the right, Out of box, Right footed, Open play)" minute="90" period="2" second="58" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Jobi McAnuff hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="90" period="2" second="36" time="92" type="woodwork hit" type_id="14"/>
+	<message comment="Mikele Leigertwood misses attempt (High, 6-yard box, Head, From corner)" minute="87" period="2" second="59" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Jason Roberts wins a corner (To the right)" minute="87" period="2" second="34" time="89" type="corner" type_id="6"/>
+	<message comment="Jason Roberts has shot blocked (18-yard box, Right footed, Open play)" minute="87" period="2" second="30" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot" minute="87" period="2" second="30" time="89" type="save made" type_id="10"/>
+	<message comment="Jobi McAnuff has shot blocked (18-yard box, Left footed, Open play)" minute="87" period="2" second="26" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="87" period="2" second="26" time="89" type="save made" type_id="10"/>
+	<message comment="Jason Roberts has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="87" period="2" second="19" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Diving, Parried safe)" minute="87" period="2" second="19" time="89" type="save made" type_id="10"/>
+	<message comment="Noel Hunt is substituted off" minute="85" period="2" second="40" time="87" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="85" period="2" second="40" time="87" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the left, Out of box, Left footed, Open play)" minute="85" period="2" second="8" time="87" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Shane Ferguson (High to the left, 18-yard box, Head, Open play)" minute="82" period="2" second="18" time="84" type="goal scored" type_id="16"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Right footed, Open play)" minute="80" period="2" second="58" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="80" period="2" second="58" time="82" type="save made" type_id="10"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="77" period="2" second="24" time="79" type="substitution off" type_id="18"/>
+	<message comment="Jason Roberts is substituted on" minute="77" period="2" second="24" time="79" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba is caught offside" minute="77" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Shane Ferguson wins a corner (To the left)" minute="76" period="2" second="22" time="78" type="corner" type_id="6"/>
+	<message comment="Mikele Leigertwood misses attempt (High, Out of box, Right footed, Open play)" minute="74" period="2" second="14" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Noel Hunt misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="74" period="2" second="13" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Kaspars Gorkss misses attempt (High to the right, 18-yard box, Head, Set piece)" minute="73" period="2" second="16" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez recieves a yellow card" minute="72" period="2" second="13" time="74" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="70" period="2" second="33" time="72" type="corner" type_id="6"/>
+	<message comment="Jimmy Kébé is substituted off" minute="69" period="2" second="53" time="71" type="substitution off" type_id="18"/>
+	<message comment="Garath McCleary is substituted on" minute="69" period="2" second="53" time="71" type="substitution on" type_id="19"/>
+	<message comment="Gael Bigirimana is substituted off" minute="69" period="2" second="12" time="71" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="69" period="2" second="12" time="71" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="69" period="2" second="2" time="71" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="69" period="2" second="2" time="71" type="substitution on" type_id="19"/>
+	<message comment="Noel Hunt is caught offside" minute="64" period="2" time="66" type="offside" type_id="10000"/>
+	<message comment="GOAL! Noel Hunt scores , Assisted by Jobi McAnuff (Low to the right, 18-yard box, Head, Open play)" minute="61" period="2" second="1" time="63" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Cheick Tioté (Low to the left, 18-yard box, Right footed, Open play)" minute="57" period="2" second="59" time="59" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Jimmy Kébé scores , Assisted by Jobi McAnuff (Low to the left, 18-yard box, Right footed, Open play)" minute="57" period="2" second="0" time="59" type="goal scored" type_id="16"/>
+	<message comment="Steven Taylor is substituted off" minute="55" period="2" second="58" time="57" type="substitution off" type_id="18"/>
+	<message comment="James Tavernier is substituted on" minute="55" period="2" second="58" time="57" type="substitution on" type_id="19"/>
+	<message comment="Adrian Mariappa misses attempt (To the left, Out of box, Right footed, Open play)" minute="55" period="2" second="29" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Kaspars Gorkss blocks a shot" minute="54" period="2" second="5" time="56" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has shot blocked (18-yard box, Right footed, Open play)" minute="54" period="2" second="5" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="51" period="2" second="57" time="53" type="card received" type_id="17"/>
+	<message comment="Noel Hunt wins a corner (To the left)" minute="49" period="2" second="39" time="51" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="James Perch recieves a yellow card" minute="43" period="1" second="48" time="43" type="card received" type_id="17"/>
+	<message comment="Shaun Cummings wins a corner (To the right)" minute="42" period="1" second="35" time="42" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the right, Out of box, Right footed, Open play)" minute="41" period="1" second="24" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="36" period="1" second="26" time="36" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez misses attempt (High, Out of box, Right footed, Open play)" minute="34" period="1" second="56" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Jem Karacan misses attempt (High, Out of box, Right footed, Open play)" minute="31" period="1" second="11" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Pavel Pogrebnyak wins a corner (To the right)" minute="29" period="1" second="13" time="29" type="corner" type_id="6"/>
+	<message comment="Pavel Pogrebnyak has attempt saved (High to the right, 18-yard box, Head, Open play)" minute="29" period="1" second="10" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Parried safe)" minute="29" period="1" second="10" time="29" type="save made" type_id="10"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="27" period="1" second="11" time="27" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, Throw-in)" minute="27" period="1" second="11" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="24" period="1" second="12" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Nicky Shorey misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="23" period="1" second="40" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Noel Hunt has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="22" period="1" second="47" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Standing, Collected)" minute="22" period="1" second="47" time="22" type="save made" type_id="10"/>
+	<message comment="Noel Hunt is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Pavel Pogrebnyak wins a corner (To the left)" minute="18" period="1" second="8" time="18" type="corner" type_id="6"/>
+	<message comment="Noel Hunt is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Pavel Pogrebnyak wins a corner (To the right)" minute="3" period="1" second="54" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-08-31" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="4" time="96" type="end" type_id="30"/>
+	<message comment="David Stockdale makes a save (Diving, Parried safe)" minute="93" period="2" second="50" time="95" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="93" period="2" second="50" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Diving)" minute="93" period="2" second="48" time="95" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy has attempt saved (Low to the left, Out of box, Right footed, From corner)" minute="93" period="2" second="48" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="93" period="2" second="19" time="95" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried safe, Diving)" minute="93" period="2" second="17" time="95" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="93" period="2" second="17" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="93" period="2" second="6" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the right, Out of box, Right footed, Open play)" minute="92" period="2" second="15" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the left)" minute="90" period="2" second="43" time="92" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell is substituted off" minute="88" period="2" second="4" time="90" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="88" period="2" second="4" time="90" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa recieves a yellow card" minute="86" period="2" second="35" time="88" type="card received" type_id="17"/>
+	<message comment="GOAL! Hatem Ben Arfa scores , Assisted by Loïc Rémy (High to the left, Out of box, Left footed, Open play)" minute="85" period="2" second="48" time="87" type="goal scored" type_id="16"/>
+	<message comment="Adel Taarabt has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="84" period="2" second="47" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="84" period="2" second="47" time="86" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy misses attempt (18-yard box, Head, From corner)" minute="83" period="2" second="11" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon wins a corner (To the left)" minute="82" period="2" second="42" time="84" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt is substituted on" minute="81" period="2" second="59" time="83" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent is substituted off" minute="81" period="2" second="59" time="83" type="substitution off" type_id="18"/>
+	<message comment="Yohan Cabaye recieves a yellow card" minute="81" period="2" second="15" time="83" type="card received" type_id="17"/>
+	<message comment="Yoan Gouffran misses attempt (To the left, 6-yard box, Big Chance, Head, Open play)" minute="79" period="2" second="25" time="81" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="78" period="2" second="44" time="80" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="44" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé hits the woodwork (High, 18-yard box, Head, Open play)" minute="77" period="2" second="17" time="79" type="woodwork hit" type_id="14"/>
+	<message comment="John Arne Riise recieves a yellow card" minute="75" period="2" second="53" time="77" type="card received" type_id="17"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="74" period="2" second="46" time="76" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the right, 18-yard box, Head, From corner)" minute="74" period="2" second="46" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="74" period="2" second="22" time="76" type="corner" type_id="6"/>
+	<message comment="Sylvain Marveaux is substituted off" minute="73" period="2" second="35" time="75" type="substitution off" type_id="18"/>
+	<message comment="Loïc Rémy is substituted on" minute="73" period="2" second="35" time="75" type="substitution on" type_id="19"/>
+	<message comment="Sascha Riether is substituted off" minute="72" period="2" second="29" time="74" type="substitution off" type_id="18"/>
+	<message comment="Matthew Briggs is substituted on" minute="72" period="2" second="29" time="74" type="substitution on" type_id="19"/>
+	<message comment="Sascha Riether blocks a shot" minute="68" period="2" second="55" time="70" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="55" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent is caught offside" minute="67" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Bryan Ruiz has attempt saved (High to the right, Out of box, Left footed, Free kick)" minute="66" period="2" second="51" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="66" period="2" second="51" time="68" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita is substituted off" minute="65" period="2" second="0" time="67" type="substitution off" type_id="18"/>
+	<message comment="Yohan Cabaye is substituted on" minute="65" period="2" second="0" time="67" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi is substituted off" minute="64" period="2" second="50" time="66" type="substitution off" type_id="18"/>
+	<message comment="Yoan Gouffran is substituted on" minute="64" period="2" second="50" time="66" type="substitution on" type_id="19"/>
+	<message comment="Mapou Yanga-Mbiwa wins a corner (To the right)" minute="63" period="2" second="6" time="65" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes blocks a shot" minute="63" period="2" second="2" time="65" type="save made" type_id="10"/>
+	<message comment="Mapou Yanga-Mbiwa has shot blocked (Out of box, Left footed, Open play)" minute="63" period="2" second="2" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise blocks a shot" minute="62" period="2" second="57" time="64" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has shot blocked (Out of box, Right footed, From corner)" minute="62" period="2" second="57" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon wins a corner (To the right)" minute="62" period="2" second="18" time="64" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried safe)" minute="61" period="2" second="10" time="63" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="61" period="2" second="10" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="59" period="2" second="44" time="61" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="56" period="2" second="56" time="58" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" minute="56" period="2" second="50" time="58" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Fast break)" minute="56" period="2" second="50" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="54" period="2" second="40" time="56" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="51" period="2" second="4" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Scott Parker recieves a yellow card" minute="44" period="1" second="27" time="44" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the right, Out of box, Left footed, Open play)" minute="43" period="1" second="33" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Debuchy misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="42" period="1" second="29" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the right, 18-yard box, Head, Open play)" minute="41" period="1" second="28" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="38" period="1" second="31" time="38" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the right)" minute="31" period="1" second="45" time="31" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Standing, Other body part)" minute="31" period="1" second="40" time="31" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="31" period="1" second="40" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Bryan Ruiz misses attempt (High, Out of box, Left footed, Open play)" minute="30" period="1" second="14" time="30" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save (Standing, Collected)" minute="21" period="1" second="34" time="21" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="21" period="1" second="34" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="20" period="1" second="46" time="20" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="20" period="1" second="46" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="11" period="1" second="4" time="11" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko misses attempt (Out of box, Right footed, Fast break)" minute="9" period="1" second="55" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="9" period="1" second="15" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Fabricio Coloccini has shot blocked (18-yard box, Head, From corner)" minute="4" period="1" second="47" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi wins a corner (To the right)" minute="4" period="1" second="6" time="4" type="corner" type_id="6"/>
+	<message comment="Darren Bent is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

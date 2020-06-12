@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2010-11-06" home_team_name="Stoke" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="97" type="end" type_id="30"/>
+	<message comment="Robert Huth misses attempt (High, 6-yard box, Head, From corner)" minute="92" period="2" second="38" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" minute="92" period="2" second="6" time="95" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="5" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Turner blocks a shot" minute="92" period="2" second="5" time="95" type="save made" type_id="10"/>
+	<message comment="Asmir Begovic makes a save (Standing)" minute="91" period="2" second="37" time="94" type="save made" type_id="10"/>
+	<message comment="Asamoah Gyan has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="91" period="2" second="37" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson misses attempt (High, Out of box, Right footed, Open play)" minute="90" period="2" second="58" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Abdoulaye Diagne-Faye recieves a yellow card" minute="89" period="2" second="29" time="92" type="card received" type_id="17"/>
+	<message comment="Anton Ferdinand wins a corner (To the left)" minute="88" period="2" second="55" time="91" type="corner" type_id="6"/>
+	<message comment="Ricardo Fuller recieves a yellow card" minute="87" period="2" second="51" time="90" type="card received" type_id="17"/>
+	<message comment="GOAL! Asamoah Gyan scores  (Low to the left, 18-yard box, Right footed, Open play)" minute="85" period="2" second="52" time="88" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="15" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" minute="83" period="2" second="10" time="86" type="corner" type_id="6"/>
+	<message comment="Robert Huth blocks a shot" minute="83" period="2" second="1" time="86" type="save made" type_id="10"/>
+	<message comment="Kieran Richardson has shot blocked (Out of box, Left footed, Free kick)" minute="83" period="2" second="1" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross recieves a red card after receiving second yellow card" minute="81" period="2" second="54" time="84" type="card received" type_id="17"/>
+	<message comment="Boudewijn Zenden misses attempt (Out of box, Left footed, Open play)" minute="80" period="2" second="48" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Asamoah Gyan misses attempt (Out of box, Right footed, Open play)" minute="79" period="2" second="2" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross recieves a yellow card" minute="78" period="2" second="10" time="81" type="card received" type_id="17"/>
+	<message comment="Robert Huth misses attempt (To the right, 18-yard box, Head, Open play)" minute="76" period="2" second="6" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady is substituted off" minute="74" period="2" second="42" time="77" type="substitution off" type_id="18"/>
+	<message comment="Boudewijn Zenden is substituted on" minute="74" period="2" second="42" time="77" type="substitution on" type_id="19"/>
+	<message comment="Dean Whitehead is substituted off" minute="74" period="2" second="32" time="77" type="substitution off" type_id="18"/>
+	<message comment="Rory Delap is substituted on" minute="74" period="2" second="32" time="77" type="substitution on" type_id="19"/>
+	<message comment="Asamoah Gyan is caught offside" minute="72" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Lee Cattermole blocks a shot (Last line)" minute="71" period="2" second="35" time="74" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has shot blocked (6-yard box, Big Chance, Head, From corner)" minute="71" period="2" second="35" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" minute="70" period="2" second="48" time="73" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole blocks a shot (Last line)" minute="70" period="2" second="37" time="73" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has shot blocked (6-yard box, Head, Open play)" minute="70" period="2" second="37" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="70" period="2" second="14" time="73" type="corner" type_id="6"/>
+	<message comment="Tuncay Sanli has shot blocked (18-yard box, Right footed, From corner)" minute="70" period="2" second="6" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Nedum Onuoha blocks a shot (Last line)" minute="70" period="2" second="6" time="73" type="save made" type_id="10"/>
+	<message comment="Robert Huth wins a corner (To the right)" minute="69" period="2" second="42" time="72" type="corner" type_id="6"/>
+	<message comment="Asamoah Gyan misses attempt (High, Out of box, Right footed, Free kick)" minute="67" period="2" second="22" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Anton Ferdinand is substituted on" minute="66" period="2" second="32" time="69" type="substitution on" type_id="19"/>
+	<message comment="John Mensah is substituted off" minute="66" period="2" second="32" time="69" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Fuller misses attempt (High to the left, Out of box, Right footed, Open play)" minute="66" period="2" second="6" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones misses attempt (High to the right, Out of box, Right footed, Open play)" minute="64" period="2" second="42" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Danny Welbeck wins a corner (To the left)" minute="62" period="2" second="33" time="65" type="corner" type_id="6"/>
+	<message comment="Danny Welbeck misses attempt (To the left, 18-yard box, Head, Open play)" minute="61" period="2" second="35" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Steed Malbranque is substituted off" minute="60" period="2" second="47" time="63" type="substitution off" type_id="18"/>
+	<message comment="Kieran Richardson is substituted on" minute="60" period="2" second="47" time="63" type="substitution on" type_id="19"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="59" period="2" second="30" time="62" type="corner" type_id="6"/>
+	<message comment="Michael Turner blocks a shot" minute="59" period="2" second="25" time="62" type="save made" type_id="10"/>
+	<message comment="Dean Whitehead has shot blocked (Out of box, Right footed, Throw-in)" minute="59" period="2" second="25" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters is substituted off" minute="57" period="2" second="10" time="60" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Fuller is substituted on" minute="57" period="2" second="10" time="60" type="substitution on" type_id="19"/>
+	<message comment="Asamoah Gyan is caught offside" minute="56" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Matthew Etherington misses attempt (To the right, Out of box, Left footed, Open play)" minute="48" period="2" second="8" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington has shot blocked (18-yard box, Left footed, Throw-in)" minute="47" period="2" second="8" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="John Mensah blocks a shot" minute="47" period="2" second="8" time="50" type="save made" type_id="10"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="46" period="2" second="3" time="49" type="save made" type_id="10"/>
+	<message comment="Phil Bardsley has shot blocked (Out of box, Right footed, From corner)" minute="46" period="2" second="3" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Asamoah Gyan wins a corner (To the right)" minute="45" period="2" second="36" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="8" time="47" type="end" type_id="30"/>
+	<message comment="Jonathan Walters recieves a yellow card" minute="44" period="1" second="6" time="44" type="card received" type_id="17"/>
+	<message comment="Robert Huth recieves a yellow card" minute="42" period="1" second="51" time="42" type="card received" type_id="17"/>
+	<message comment="Nedum Onuoha misses attempt (To the left, 6-yard box, Other body part, From corner)" minute="42" period="1" second="9" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Asamoah Gyan wins a corner (To the left)" minute="41" period="1" second="44" time="41" type="corner" type_id="6"/>
+	<message comment="Dean Whitehead blocks a shot" minute="41" period="1" second="0" time="41" type="save made" type_id="10"/>
+	<message comment="Steed Malbranque has shot blocked (Out of box, Right footed, From corner)" minute="41" period="1" second="0" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Steed Malbranque wins a corner (To the right)" minute="40" period="1" second="34" time="40" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="40" period="1" second="30" time="40" type="save made" type_id="10"/>
+	<message comment="Steed Malbranque has shot blocked (18-yard box, Left footed, Open play)" minute="40" period="1" second="30" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Collins misses attempt (To the right, Out of box, Left footed, From corner)" minute="39" period="1" second="57" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters wins a corner (To the right)" minute="39" period="1" second="29" time="39" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="33" period="1" second="18" time="33" type="corner" type_id="6"/>
+	<message comment="Steed Malbranque has attempt saved (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="28" period="1" second="17" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe, Penalty)" minute="28" period="1" second="17" time="28" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="11" period="1" second="4" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving, Feet, Parried into danger)" minute="11" period="1" second="4" time="11" type="save made" type_id="10"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="10" period="1" second="51" time="10" type="save made" type_id="10"/>
+	<message comment="Lee Cattermole has shot blocked (Out of box, Right footed, Open play)" minute="10" period="1" second="51" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Asamoah Gyan scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="8" period="1" second="37" time="8" type="goal scored" type_id="16"/>
+	<message comment="Nedum Onuoha has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="8" period="1" second="36" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger)" minute="8" period="1" second="36" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Tuncay Sanli is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Robert Huth wins a corner (To the right)" minute="4" period="1" second="59" time="4" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="2" period="1" second="40" time="2" type="corner" type_id="6"/>
+	<message comment="Tuncay Sanli misses attempt (High, Out of box, Right footed, Open play)" minute="0" period="1" second="57" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

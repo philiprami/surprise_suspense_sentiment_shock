@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2013-11-03" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="20" time="96" type="end" type_id="30"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" minute="94" period="2" second="18" time="95" type="corner" type_id="6"/>
+	<message comment="Peter Whittingham wins a corner (To the left)" minute="92" period="2" second="45" time="93" type="corner" type_id="6"/>
+	<message comment="Peter Whittingham has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="92" period="2" second="42" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel makes a save (Parried safe)" minute="92" period="2" second="42" time="93" type="save made" type_id="10"/>
+	<message comment="Neil Taylor recieves a yellow card" minute="90" period="2" second="48" time="91" type="card received" type_id="17"/>
+	<message comment="Michel Vorm recieves a red card" minute="90" period="2" second="32" time="91" type="card received" type_id="17"/>
+	<message comment="Alejandro Pozuelo wins a corner (To the left)" minute="89" period="2" second="48" time="90" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" minute="89" period="2" second="46" time="90" type="save made" type_id="10"/>
+	<message comment="Alejandro Pozuelo has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="89" period="2" second="46" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="88" period="2" second="20" time="89" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="88" period="2" second="18" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" minute="88" period="2" second="18" time="89" type="save made" type_id="10"/>
+	<message comment="Gary Medel is substituted off" minute="87" period="2" second="23" time="88" type="substitution off" type_id="18"/>
+	<message comment="Kim Bo-Kyung is substituted on" minute="87" period="2" second="23" time="88" type="substitution on" type_id="19"/>
+	<message comment="Peter Whittingham recieves a yellow card" minute="86" period="2" second="23" time="87" type="card received" type_id="17"/>
+	<message comment="Fraizer Campbell has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="81" period="2" second="44" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" minute="81" period="2" second="44" time="82" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="41" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor blocks a shot" minute="81" period="2" second="41" time="82" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is substituted off" minute="80" period="2" second="58" time="81" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Vázquez is substituted on" minute="80" period="2" second="58" time="81" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="80" period="2" second="29" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is substituted off" minute="74" period="2" second="34" time="75" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" minute="74" period="2" second="34" time="75" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams is caught offside" minute="73" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Wilfried Bony is caught offside" minute="72" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Leon Britton is substituted off" minute="70" period="2" second="55" time="71" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="70" period="2" second="55" time="71" type="substitution on" type_id="19"/>
+	<message comment="Neil Taylor misses attempt (To the left, Out of box, Left footed, Open play)" minute="69" period="2" second="32" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="58" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" minute="68" period="2" second="58" time="69" type="save made" type_id="10"/>
+	<message comment="Michu is substituted off" minute="64" period="2" second="21" time="65" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony is substituted on" minute="64" period="2" second="21" time="65" type="substitution on" type_id="19"/>
+	<message comment="Michu is caught offside" minute="64" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="GOAL! Steven Caulker scores , Assisted by Craig Bellamy (Low to the right, 18-yard box, Head, From corner)" minute="61" period="2" second="50" time="62" type="goal scored" type_id="16"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the right)" minute="61" period="2" second="21" time="62" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="57" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Jordon Mutch is substituted off" minute="53" period="2" second="53" time="54" type="substitution off" type_id="18"/>
+	<message comment="Aron Gunnarsson is substituted on" minute="53" period="2" second="53" time="54" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is caught offside" minute="51" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Peter Whittingham misses attempt (High to the right, Out of box, Right footed, Open play)" minute="50" period="2" second="18" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="45" period="2" second="55" time="46" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" minute="45" period="1" second="48" time="45" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, Out of box, Left footed, Open play)" minute="43" period="1" second="35" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Don Cowie blocks a shot" minute="41" period="1" second="59" time="41" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="59" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="50" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" minute="41" period="1" second="50" time="41" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham blocks a shot" minute="30" period="1" second="32" time="30" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Right footed, Open play)" minute="30" period="1" second="32" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" minute="25" period="1" second="31" time="25" type="corner" type_id="6"/>
+	<message comment="Craig Bellamy has shot blocked (Out of box, Right footed, Free kick)" minute="25" period="1" second="28" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot" minute="25" period="1" second="28" time="25" type="save made" type_id="10"/>
+	<message comment="Don Cowie wins a corner (To the right)" minute="19" period="1" second="46" time="19" type="corner" type_id="6"/>
+	<message comment="Don Cowie misses attempt (To the left, 6-yard box, Head, Set piece)" minute="18" period="1" second="44" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Michu is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="9" period="1" second="48" time="9" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" minute="9" period="1" second="23" time="9" type="save made" type_id="10"/>
+	<message comment="Michu has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="9" period="1" second="23" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="7" period="1" second="12" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Don Cowie is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Michu misses attempt (High, 18-yard box, Right footed, Open play)" minute="4" period="1" second="8" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

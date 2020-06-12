@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-12-23 20:00" game_id_2="27117154" game_id_4="112240990" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-23 21:34:24" minute="93" period="2" second="11" team="Chelsea" time="95" type="end" type_id="30"/>
+	<message comment="David Luiz wins a corner (To the right)" last_modified="2013-12-23 21:33:53" minute="92" period="2" second="40" team="Arsenal" time="94" type="corner" type_id="6"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-23 21:33:51" minute="92" period="2" second="38" team="Arsenal" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky blocks a shot" last_modified="2013-12-23 21:33:51" minute="92" period="2" second="38" team="Chelsea" time="94" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-12-23 21:33:05" minute="91" period="2" second="52" team="Arsenal" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud blocks a shot" last_modified="2013-12-23 21:33:05" minute="91" period="2" second="52" team="Chelsea" time="93" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna wins a corner (To the left)" last_modified="2013-12-23 21:31:39" minute="90" period="2" second="26" team="Chelsea" time="92" type="corner" type_id="6"/>
+	<message comment="César Azpilicueta blocks a shot (Last line)" last_modified="2013-12-23 21:31:35" minute="90" period="2" second="22" team="Arsenal" time="92" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna has shot blocked (18-yard box, Head, From corner)" last_modified="2013-12-23 21:31:35" minute="90" period="2" second="22" team="Chelsea" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" last_modified="2013-12-23 21:31:16" minute="90" period="2" second="3" team="Chelsea" time="92" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is substituted off" last_modified="2013-12-23 21:28:07" minute="86" period="2" second="54" team="Arsenal" time="88" type="substitution off" type_id="18"/>
+	<message comment="David Luiz is substituted on" last_modified="2013-12-23 21:28:07" minute="86" period="2" second="54" team="Arsenal" time="88" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic wins a corner (To the left)" last_modified="2013-12-23 21:26:51" minute="85" period="2" second="38" team="Arsenal" time="87" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2013-12-23 21:25:54" minute="84" period="2" second="41" team="Chelsea" time="86" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" last_modified="2013-12-23 21:25:50" minute="84" period="2" second="37" team="Arsenal" time="86" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-23 21:25:50" minute="84" period="2" second="37" team="Chelsea" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is caught offside" last_modified="2013-12-23 21:23:13" minute="82" period="2" team="Arsenal" time="84" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-23 21:19:18" minute="78" period="2" second="5" team="Chelsea" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Willian is substituted off" last_modified="2013-12-23 21:17:48" minute="76" period="2" second="35" team="Arsenal" time="78" type="substitution off" type_id="18"/>
+	<message comment="Oscar is substituted on" last_modified="2013-12-23 21:17:48" minute="76" period="2" second="35" team="Arsenal" time="78" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" last_modified="2013-12-23 21:14:11" minute="72" period="2" second="58" team="Arsenal" time="74" type="substitution off" type_id="18"/>
+	<message comment="André Schürrle is substituted on" last_modified="2013-12-23 21:14:11" minute="72" period="2" second="58" team="Arsenal" time="74" type="substitution on" type_id="19"/>
+	<message comment="John Terry misses attempt (To the left, 18-yard box, Head, Set piece)" last_modified="2013-12-23 21:11:20" minute="70" period="2" second="7" team="Arsenal" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky recieves a yellow card" last_modified="2013-12-23 21:10:44" minute="69" period="2" second="31" team="Chelsea" time="71" type="card received" type_id="17"/>
+	<message comment="Branislav Ivanovic blocks a shot" last_modified="2013-12-23 21:07:48" minute="66" period="2" second="35" team="Arsenal" time="68" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-23 21:07:48" minute="66" period="2" second="35" team="Chelsea" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-12-23 21:07:03" minute="65" period="2" second="50" team="Arsenal" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" last_modified="2013-12-23 21:07:03" minute="65" period="2" second="50" team="Chelsea" time="67" type="save made" type_id="10"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" last_modified="2013-12-23 21:06:34" minute="65" period="2" second="21" team="Chelsea" time="67" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (Low to the centre, 18-yard box, Right footed, Set piece)" last_modified="2013-12-23 21:06:34" minute="65" period="2" second="21" team="Arsenal" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott recieves a yellow card" last_modified="2013-12-23 21:06:00" minute="64" period="2" second="47" team="Chelsea" time="66" type="card received" type_id="17"/>
+	<message comment="Theo Walcott is caught offside" last_modified="2013-12-23 21:04:13" minute="63" period="2" team="Chelsea" time="65" type="offside" type_id="10000"/>
+	<message comment="Ramires recieves a yellow card" last_modified="2013-12-23 21:04:13" minute="63" period="2" second="0" team="Arsenal" time="65" type="card received" type_id="17"/>
+	<message comment="Fernando Torres misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-23 20:56:56" minute="55" period="2" second="43" team="Arsenal" time="57" type="attempt missed" type_id="13"/>
+	<message comment="John Terry blocks a shot" last_modified="2013-12-23 20:51:31" minute="50" period="2" second="18" team="Arsenal" time="52" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-23 20:51:31" minute="50" period="2" second="18" team="Chelsea" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2013-12-23 20:49:07" minute="47" period="2" second="54" team="Chelsea" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-12-23 20:46:13" minute="45" period="2" second="0" team="Chelsea" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-23 20:47:21" minute="46" period="1" second="8" team="Chelsea" time="46" type="end" type_id="30"/>
+	<message comment="Tomas Rosicky misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-23 20:46:28" minute="45" period="1" second="15" team="Chelsea" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-12-23 20:46:27" minute="45" period="1" second="14" team="Arsenal" time="45" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-23 20:46:27" minute="45" period="1" second="14" team="Chelsea" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Willian has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" last_modified="2013-12-23 20:44:57" minute="43" period="1" second="44" team="Arsenal" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" last_modified="2013-12-23 20:44:57" minute="43" period="1" second="44" team="Chelsea" time="43" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2013-12-23 20:44:05" minute="42" period="1" second="52" team="Chelsea" time="42" type="corner" type_id="6"/>
+	<message comment="Mesut Özil is caught offside" last_modified="2013-12-23 20:42:13" minute="41" period="1" team="Chelsea" time="41" type="offside" type_id="10000"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" last_modified="2013-12-23 20:42:06" minute="40" period="1" second="53" team="Chelsea" time="40" type="corner" type_id="6"/>
+	<message comment="Frank Lampard wins a corner (To the left)" last_modified="2013-12-23 20:38:45" minute="37" period="1" second="32" team="Arsenal" time="37" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the left)" last_modified="2013-12-23 20:34:54" minute="33" period="1" second="41" team="Arsenal" time="33" type="corner" type_id="6"/>
+	<message comment="Per Mertesacker blocks a shot" last_modified="2013-12-23 20:34:53" minute="33" period="1" second="40" team="Chelsea" time="33" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-23 20:34:53" minute="33" period="1" second="40" team="Arsenal" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2013-12-23 20:34:36" minute="33" period="1" second="23" team="Arsenal" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" last_modified="2013-12-23 20:34:36" minute="33" period="1" second="23" team="Chelsea" time="33" type="save made" type_id="10"/>
+	<message comment="Thomas Vermaelen blocks a shot" last_modified="2013-12-23 20:33:05" minute="31" period="1" second="52" team="Chelsea" time="31" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-23 20:33:05" minute="31" period="1" second="52" team="Arsenal" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard hits the woodwork (High, 18-yard box, Right footed, Open play)" last_modified="2013-12-23 20:32:58" minute="31" period="1" second="45" team="Arsenal" time="31" type="woodwork hit" type_id="14"/>
+	<message comment="Ramires misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-12-23 20:27:46" minute="26" period="1" second="33" team="Arsenal" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" last_modified="2013-12-23 20:25:23" minute="24" period="1" second="10" team="Chelsea" time="24" type="corner" type_id="6"/>
+	<message comment="Ramires wins a corner (To the right)" last_modified="2013-12-23 20:21:21" minute="20" period="1" second="8" team="Arsenal" time="20" type="corner" type_id="6"/>
+	<message comment="Aaron Ramsey is caught offside" last_modified="2013-12-23 20:18:13" minute="17" period="1" team="Chelsea" time="17" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey wins a corner (To the left)" last_modified="2013-12-23 20:09:34" minute="8" period="1" second="21" team="Chelsea" time="8" type="corner" type_id="6"/>
+	<message comment="Frank Lampard misses attempt (To the left, 18-yard box, Left footed, Open play)" last_modified="2013-12-23 20:06:32" minute="5" period="1" second="19" team="Arsenal" time="5" type="attempt missed" type_id="13"/>
+	<message comment="César Azpilicueta is caught offside" last_modified="2013-12-23 20:06:13" minute="5" period="1" team="Arsenal" time="5" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-12-23 20:01:13" minute="0" period="14" second="0" team="Chelsea" time="5" type="end" type_id="30"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" last_modified="2013-12-23 20:03:00" minute="1" period="1" second="47" team="Arsenal" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-23 20:01:13" minute="0" period="1" second="0" team="Chelsea" time="0" type="start" type_id="32"/>
+</Commentary>

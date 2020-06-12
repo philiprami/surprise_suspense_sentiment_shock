@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2012-04-06" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="95" type="end" type_id="30"/>
+	<message comment="Tim Krul makes a save" minute="92" period="2" second="37" time="94" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="92" period="2" second="37" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel misses attempt (6-yard box, Head, From corner)" minute="83" period="2" second="39" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Neil Taylor wins a corner (To the left)" minute="83" period="2" second="19" time="85" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="79" period="2" second="0" time="81" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="78" period="2" second="59" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye is substituted off" minute="73" period="2" second="5" time="75" type="substitution off" type_id="18"/>
+	<message comment="Dan Gosling is substituted on" minute="73" period="2" second="5" time="75" type="substitution on" type_id="19"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the right, Out of box, Right footed, Open play)" minute="72" period="2" second="17" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="70" period="2" second="42" time="72" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="70" period="2" second="41" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Yohan Cabaye (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="35" time="70" type="goal scored" type_id="16"/>
+	<message comment="Scott Sinclair wins a corner (To the left)" minute="66" period="2" second="59" time="68" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" minute="66" period="2" second="58" time="68" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="56" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer is substituted off" minute="65" period="2" second="58" time="67" type="substitution off" type_id="18"/>
+	<message comment="Scott Sinclair is substituted on" minute="65" period="2" second="58" time="67" type="substitution on" type_id="19"/>
+	<message comment="Luke Moore is substituted off" minute="65" period="2" second="49" time="67" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="65" period="2" second="49" time="67" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Right footed, Open play)" minute="64" period="2" second="32" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Luke Moore misses attempt (To the right, Out of box, Left footed, Open play)" minute="59" period="2" second="41" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba is substituted off" minute="58" period="2" second="38" time="60" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="58" period="2" second="38" time="60" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="58" period="2" second="9" time="60" type="card received" type_id="17"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="54" period="2" second="49" time="56" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="54" period="2" second="49" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="54" period="2" second="0" time="56" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="53" period="2" second="59" time="55" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has shot blocked (18-yard box, Left footed, Open play)" minute="53" period="2" second="59" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel wins a corner (To the left)" minute="53" period="2" second="40" time="55" type="corner" type_id="6"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="52" period="2" second="21" time="54" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Feet)" minute="52" period="2" second="18" time="54" type="save made" type_id="10"/>
+	<message comment="Joe Allen has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="52" period="2" second="18" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="45" period="2" second="31" time="47" type="corner" type_id="6"/>
+	<message comment="James Perch blocks a shot" minute="45" period="2" second="30" time="47" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="2" second="30" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Ryan Taylor is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="11" time="46" type="end" type_id="30"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="41" period="1" second="25" time="41" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Left footed, Open play)" minute="41" period="1" second="25" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Tim Krul makes a save" minute="39" period="1" second="54" time="39" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="39" period="1" second="54" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="38" period="1" second="51" time="38" type="card received" type_id="17"/>
+	<message comment="Steven Caulker misses attempt (High, 18-yard box, Head, From corner)" minute="29" period="1" second="44" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="29" period="1" second="15" time="29" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="29" period="1" second="13" time="29" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="29" period="1" second="13" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="22" period="1" second="26" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="22" period="1" second="26" time="22" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="19" period="1" second="58" time="19" type="save made" type_id="10"/>
+	<message comment="Joe Allen has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="58" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Left footed, Open play)" minute="16" period="1" second="25" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="16" period="1" second="25" time="16" type="save made" type_id="10"/>
+	<message comment="Tim Krul makes a save" minute="15" period="1" second="31" time="15" type="save made" type_id="10"/>
+	<message comment="Joe Allen has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="15" period="1" second="31" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel misses attempt (High to the right, Out of box, Right footed, Open play)" minute="13" period="1" second="55" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Yohan Cabaye (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="4" period="1" second="20" time="4" type="goal scored" type_id="16"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="1" period="1" second="54" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

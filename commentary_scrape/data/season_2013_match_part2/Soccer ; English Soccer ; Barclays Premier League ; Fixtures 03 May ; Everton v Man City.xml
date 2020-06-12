@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2014-05-03 17:30" game_id_2="27174948" game_id_4="113425229" home_team_name="Man City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-05-03 19:07:19" minute="96" period="2" second="53" team="Man City" time="100" type="end" type_id="30"/>
+	<message comment="David Silva wins a corner (To the left)" last_modified="2014-05-03 19:01:36" minute="91" period="2" second="10" team="Everton" time="95" type="corner" type_id="6"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-03 19:01:35" minute="91" period="2" second="9" team="Everton" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="John Stones blocks a shot" last_modified="2014-05-03 19:01:35" minute="91" period="2" second="9" team="Man City" time="95" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" last_modified="2014-05-03 18:57:09" minute="86" period="2" second="43" team="Man City" time="90" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" last_modified="2014-05-03 18:57:08" minute="86" period="2" second="42" team="Everton" time="90" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 18:57:08" minute="86" period="2" second="42" team="Man City" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman is substituted off" last_modified="2014-05-03 18:53:13" minute="82" period="2" second="47" team="Man City" time="86" type="substitution off" type_id="18"/>
+	<message comment="Aiden McGeady is substituted on" last_modified="2014-05-03 18:53:13" minute="82" period="2" second="47" team="Man City" time="86" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko recieves a yellow card" last_modified="2014-05-03 18:52:51" minute="82" period="2" second="25" team="Everton" time="86" type="card received" type_id="17"/>
+	<message comment="Samir Nasri is substituted off" last_modified="2014-05-03 18:44:26" minute="74" period="2" second="0" team="Everton" time="78" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" last_modified="2014-05-03 18:44:26" minute="74" period="2" second="0" team="Everton" time="78" type="substitution on" type_id="19"/>
+	<message comment="Martín Demichelis has shot blocked (Out of box, Right footed, From corner)" last_modified="2014-05-03 18:41:44" minute="71" period="2" second="18" team="Everton" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman blocks a shot" last_modified="2014-05-03 18:41:44" minute="71" period="2" second="18" team="Man City" time="75" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-05-03 18:41:42" minute="71" period="2" second="16" team="Everton" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Fernandinho misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-05-03 18:41:32" minute="71" period="2" second="6" team="Everton" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" last_modified="2014-05-03 18:40:57" minute="70" period="2" second="31" team="Everton" time="74" type="corner" type_id="6"/>
+	<message comment="Antolín Alcaraz blocks a shot" last_modified="2014-05-03 18:40:55" minute="70" period="2" second="29" team="Man City" time="74" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-03 18:40:55" minute="70" period="2" second="29" team="Everton" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2014-05-03 18:40:47" minute="70" period="2" second="21" team="Everton" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" last_modified="2014-05-03 18:40:47" minute="70" period="2" second="21" team="Man City" time="74" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka is substituted off" last_modified="2014-05-03 18:36:25" minute="65" period="2" second="59" team="Man City" time="69" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" last_modified="2014-05-03 18:36:25" minute="65" period="2" second="59" team="Man City" time="69" type="substitution on" type_id="19"/>
+	<message comment="Martín Demichelis recieves a yellow card" last_modified="2014-05-03 18:36:16" minute="65" period="2" second="50" team="Everton" time="69" type="card received" type_id="17"/>
+	<message comment="Yaya Touré is substituted off" last_modified="2014-05-03 18:35:41" minute="65" period="2" second="15" team="Everton" time="69" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" last_modified="2014-05-03 18:35:41" minute="65" period="2" second="15" team="Everton" time="69" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Leighton Baines (Low to the left, 18-yard box, Big Chance, Head, Open play)" last_modified="2014-05-03 18:34:49" minute="64" period="2" second="23" team="Man City" time="68" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2014-05-03 18:31:26" minute="61" period="2" team="Man City" time="65" type="offside" type_id="10000"/>
+	<message comment="Ross Barkley wins a corner (To the right)" last_modified="2014-05-03 18:23:35" minute="53" period="2" second="9" team="Man City" time="57" type="corner" type_id="6"/>
+	<message comment="Vincent Kompany blocks a shot" last_modified="2014-05-03 18:23:33" minute="53" period="2" second="7" team="Everton" time="57" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-03 18:23:33" minute="53" period="2" second="7" team="Man City" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" last_modified="2014-05-03 18:20:33" minute="50" period="2" second="7" team="Everton" time="54" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-03 18:20:33" minute="50" period="2" second="7" team="Man City" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2014-05-03 18:18:26" minute="48" period="2" team="Man City" time="52" type="offside" type_id="10000"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Samir Nasri (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2014-05-03 18:17:43" minute="47" period="2" second="17" team="Everton" time="51" type="goal scored" type_id="16"/>
+	<message comment="Steven Naismith wins a corner (To the right)" last_modified="2014-05-03 18:16:16" minute="45" period="2" second="50" team="Man City" time="49" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving)" last_modified="2014-05-03 18:16:15" minute="45" period="2" second="49" team="Everton" time="49" type="save made" type_id="10"/>
+	<message comment="Steven Naismith has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" last_modified="2014-05-03 18:16:15" minute="45" period="2" second="49" team="Man City" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-03 18:16:04" minute="45" period="2" second="38" team="Everton" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2014-05-03 18:16:04" minute="45" period="2" second="38" team="Man City" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" last_modified="2014-05-03 18:15:26" minute="45" period="2" second="0" team="Man City" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-05-03 18:18:27" minute="48" period="1" second="1" team="Man City" time="48" type="end" type_id="30"/>
+	<message comment="Romelu Lukaku misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 18:17:29" minute="47" period="1" second="3" team="Man City" time="47" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by James Milner (Low to the right, 18-yard box, Head, Open play)" last_modified="2014-05-03 18:13:14" minute="42" period="1" second="48" team="Everton" time="42" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 18:13:06" minute="42" period="1" second="40" team="Everton" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" last_modified="2014-05-03 18:13:06" minute="42" period="1" second="40" team="Man City" time="42" type="save made" type_id="10"/>
+	<message comment="Steven Naismith misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-05-03 18:12:31" minute="42" period="1" second="5" team="Man City" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Javi García recieves a yellow card" last_modified="2014-05-03 18:09:16" minute="38" period="1" second="50" team="Everton" time="38" type="card received" type_id="17"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2014-05-03 18:06:26" minute="36" period="1" team="Man City" time="36" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-05-03 18:05:34" minute="35" period="1" second="8" team="Everton" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-05-03 18:02:15" minute="31" period="1" second="49" team="Everton" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="John Stones blocks a shot" last_modified="2014-05-03 18:02:15" minute="31" period="1" second="49" team="Man City" time="31" type="save made" type_id="10"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-05-03 17:58:21" minute="27" period="1" second="55" team="Man City" time="27" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero is substituted off" last_modified="2014-05-03 17:57:51" minute="27" period="1" second="25" team="Everton" time="27" type="substitution off" type_id="18"/>
+	<message comment="Fernandinho is substituted on" last_modified="2014-05-03 17:57:51" minute="27" period="1" second="25" team="Everton" time="27" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Yaya Touré (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 17:51:59" minute="21" period="1" second="33" team="Everton" time="21" type="goal scored" type_id="16"/>
+	<message comment="Yaya Touré misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 17:46:18" minute="15" period="1" second="52" team="Everton" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Head, Open play)" last_modified="2014-05-03 17:43:36" minute="13" period="1" second="10" team="Everton" time="13" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Ross Barkley scores , Assisted by Steven Naismith (High to the right, Out of box, Right footed, Open play)" last_modified="2014-05-03 17:40:32" minute="10" period="1" second="6" team="Man City" time="10" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" last_modified="2014-05-03 17:30:26" minute="0" period="14" second="0" team="Man City" time="10" type="end" type_id="30"/>
+	<message comment="Pablo Zabaleta misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-05-03 17:39:41" minute="9" period="1" second="15" team="Everton" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Javi García has attempt saved (High to the centre, 18-yard box, Head, From corner)" last_modified="2014-05-03 17:38:56" minute="8" period="1" second="30" team="Everton" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Standing)" last_modified="2014-05-03 17:38:56" minute="8" period="1" second="30" team="Man City" time="8" type="save made" type_id="10"/>
+	<message comment="Samir Nasri wins a corner (To the right)" last_modified="2014-05-03 17:38:31" minute="8" period="1" second="5" team="Everton" time="8" type="corner" type_id="6"/>
+	<message comment="Steven Naismith misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2014-05-03 17:35:30" minute="5" period="1" second="4" team="Man City" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Javi García has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-03 17:33:49" minute="3" period="1" second="23" team="Everton" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2014-05-03 17:33:49" minute="3" period="1" second="23" team="Man City" time="3" type="save made" type_id="10"/>
+	<message comment="First half begins!" last_modified="2014-05-03 17:30:26" minute="0" period="1" second="0" team="Man City" time="0" type="start" type_id="32"/>
+</Commentary>

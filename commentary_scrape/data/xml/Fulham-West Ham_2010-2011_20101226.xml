@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2010-12-26" home_team_name="West Ham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="18" time="95" type="end" type_id="30"/>
+	<message comment="Frédéric Piquionne is substituted off" minute="89" period="2" second="11" time="91" type="substitution off" type_id="18"/>
+	<message comment="Frank Nouble is substituted on" minute="89" period="2" second="11" time="91" type="substitution on" type_id="19"/>
+	<message comment="Robert Green makes a save" minute="86" period="2" second="50" time="88" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="86" period="2" second="50" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="82" period="2" second="58" time="84" type="corner" type_id="6"/>
+	<message comment="Carlton Cole is caught offside" minute="81" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Danny Murphy misses attempt (High, 18-yard box, Right footed, Open play)" minute="79" period="2" second="16" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Carlton Cole has shot blocked (18-yard box, Right footed, Fast break)" minute="78" period="2" second="32" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="78" period="2" second="32" time="80" type="save made" type_id="10"/>
+	<message comment="Eddie Johnson wins a corner (To the left)" minute="73" period="2" second="18" time="75" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Parried safe, Diving)" minute="73" period="2" second="16" time="75" type="save made" type_id="10"/>
+	<message comment="Eddie Johnson has attempt saved (Low to the right, 18-yard box, Right footed, From corner)" minute="73" period="2" second="16" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy misses attempt (Out of box, Key pass, Right footed, From corner)" minute="73" period="2" second="12" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="72" period="2" second="57" time="74" type="corner" type_id="6"/>
+	<message comment="GOAL! Carlton Cole scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="72" period="2" second="3" time="74" type="goal scored" type_id="16"/>
+	<message comment="Junior Stanislas wins a corner (To the right)" minute="71" period="2" second="17" time="73" type="corner" type_id="6"/>
+	<message comment="Junior Stanislas has shot blocked (18-yard box, Right footed, Open play)" minute="71" period="2" second="16" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="71" period="2" second="16" time="73" type="save made" type_id="10"/>
+	<message comment="Damien Duff misses attempt (To the left, Out of box, Left footed, Open play)" minute="66" period="2" second="50" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Freddie Sears misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="65" period="2" second="33" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Robert Green makes a save (Diving)" minute="65" period="2" second="2" time="67" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="65" period="2" second="2" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Freddie Sears misses attempt (18-yard box, Left footed, Open play)" minute="64" period="2" second="23" time="66" type="attempt missed" type_id="13"/>
+	<message comment="John Pantsil recieves a yellow card" minute="57" period="2" second="14" time="59" type="card received" type_id="17"/>
+	<message comment="Clint Dempsey is substituted off" minute="53" period="2" second="7" time="55" type="substitution off" type_id="18"/>
+	<message comment="Damien Duff is substituted on" minute="53" period="2" second="7" time="55" type="substitution on" type_id="19"/>
+	<message comment="Eddie Johnson is substituted on" minute="53" period="2" second="2" time="55" type="substitution on" type_id="19"/>
+	<message comment="Dickson Etuhu is substituted off" minute="53" period="2" second="2" time="55" type="substitution off" type_id="18"/>
+	<message comment="Danny Murphy misses attempt (High, Out of box, Right footed, Set piece)" minute="47" period="2" second="51" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Matt Upson recieves a yellow card" minute="47" period="2" second="14" time="49" type="card received" type_id="17"/>
+	<message comment="Scott Parker blocks a shot" minute="46" period="2" second="20" time="48" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Right footed, Open play)" minute="46" period="2" second="20" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="36" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Frédéric Piquionne scores , Assisted by Scott Parker (High to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="45" period="1" second="2" time="45" type="goal scored" type_id="16"/>
+	<message comment="Carlton Cole has attempt saved (Low to the centre, 18-yard box, Left footed, Fast break)" minute="44" period="1" second="47" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Diving, Other body part)" minute="44" period="1" second="47" time="44" type="save made" type_id="10"/>
+	<message comment="Scott Parker is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Radoslav Kovac blocks a shot" minute="41" period="1" second="0" time="41" type="save made" type_id="10"/>
+	<message comment="Brede Hangeland has shot blocked (18-yard box, Head, From corner)" minute="41" period="1" second="0" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Zoltán Gera wins a corner (To the right)" minute="40" period="1" second="39" time="40" type="corner" type_id="6"/>
+	<message comment="Zoltán Gera misses attempt (To the left, Out of box, Left footed, Open play)" minute="39" period="1" second="58" time="39" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Carlton Cole scores  (Low to the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="23" time="36" type="goal scored" type_id="16"/>
+	<message comment="Radoslav Kovac wins a corner (To the left)" minute="32" period="1" second="33" time="32" type="corner" type_id="6"/>
+	<message comment="Radoslav Kovac has shot blocked (Out of box, Right footed, Throw-in)" minute="32" period="1" second="31" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy blocks a shot" minute="32" period="1" second="31" time="32" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey misses attempt (To the left, 18-yard box, Head, Open play)" minute="30" period="1" second="26" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Johnson wins a corner (To the left)" minute="29" period="1" second="2" time="29" type="corner" type_id="6"/>
+	<message comment="Carlton Cole wins a corner (To the left)" minute="28" period="1" second="5" time="28" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has shot blocked (18-yard box, Left footed, Open play)" minute="28" period="1" second="1" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="John Pantsil blocks a shot" minute="28" period="1" second="1" time="28" type="save made" type_id="10"/>
+	<message comment="Simon Davies misses attempt (High, Out of box, Left footed, Open play)" minute="26" period="1" second="32" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Junior Stanislas is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Zoltán Gera misses attempt (To the left, Out of box, Right footed, Open play)" minute="22" period="1" second="54" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Frédéric Piquionne is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Right footed, Open play)" minute="20" period="1" second="59" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy wins a corner (To the right)" minute="20" period="1" second="1" time="20" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne blocks a shot" minute="19" period="1" second="52" time="19" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera has shot blocked (18-yard box, Right footed, From corner)" minute="19" period="1" second="52" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Salcido wins a corner (To the left)" minute="19" period="1" second="21" time="19" type="corner" type_id="6"/>
+	<message comment="Andrew Johnson misses attempt (To the left, 18-yard box, Big Chance, Right footed, Throw-in)" minute="17" period="1" second="2" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Robert Green makes a save (Diving)" minute="13" period="1" second="11" time="13" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="13" period="1" second="11" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Frédéric Piquionne wins a corner (To the right)" minute="11" period="1" second="50" time="11" type="corner" type_id="6"/>
+	<message comment="GOAL! Aaron Hughes scores , Assisted by Simon Davies (High to the left, 18-yard box, Head, From corner)" minute="10" period="1" second="11" time="10" type="goal scored" type_id="16"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="10" period="1" second="5" time="10" type="save made" type_id="10"/>
+	<message comment="Danny Murphy has shot blocked (Out of box, Right footed, From corner)" minute="10" period="1" second="5" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Salcido wins a corner (To the left)" minute="9" period="1" second="33" time="9" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Diving, From shot off target, Parried safe)" minute="9" period="1" second="30" time="9" type="save made" type_id="10"/>
+	<message comment="Carlos Salcido misses attempt (Out of box, Right footed, Open play)" minute="9" period="1" second="30" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (18-yard box, Head, Open play)" minute="8" period="1" second="10" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Carlton Cole misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="6" period="1" second="11" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Frédéric Piquionne has shot blocked (Out of box, Right footed, Free kick)" minute="5" period="1" second="27" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy blocks a shot" minute="5" period="1" second="27" time="5" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Carlton Cole misses attempt (To the left, 6-yard box, Head, Open play)" minute="1" period="1" second="11" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

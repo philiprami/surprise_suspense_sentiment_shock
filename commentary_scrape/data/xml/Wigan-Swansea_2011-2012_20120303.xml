@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2012-03-03" home_team_name="Swansea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="6" time="98" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega is caught offside" minute="94" period="2" time="97" type="offside" type_id="10000"/>
+	<message comment="Jordi Gómez has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="26" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="92" period="2" second="26" time="95" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Left footed, Open play)" minute="85" period="2" second="36" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="85" period="2" second="36" time="88" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="80" period="2" second="45" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Parried into danger)" minute="80" period="2" second="45" time="83" type="save made" type_id="10"/>
+	<message comment="Mohamed Diamé misses attempt (High to the left, Out of box, Left footed, Open play)" minute="76" period="2" second="23" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé wins a corner (To the right)" minute="75" period="2" second="55" time="78" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé has shot blocked (Out of box, Right footed, Open play)" minute="75" period="2" second="53" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="75" period="2" second="53" time="78" type="save made" type_id="10"/>
+	<message comment="Danny Graham is substituted off" minute="74" period="2" second="51" time="77" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="74" period="2" second="51" time="77" type="substitution on" type_id="19"/>
+	<message comment="Jordi Gómez wins a corner (To the right)" minute="73" period="2" second="15" time="76" type="corner" type_id="6"/>
+	<message comment="Victor Moses wins a corner (To the right)" minute="72" period="2" second="55" time="75" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="43" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Tate blocks a shot" minute="70" period="2" second="43" time="73" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has shot blocked (18-yard box, Right footed, From corner)" minute="70" period="2" second="7" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Graham blocks a shot" minute="70" period="2" second="7" time="73" type="save made" type_id="10"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="69" period="2" second="47" time="72" type="card received" type_id="17"/>
+	<message comment="Mohamed Diamé recieves a yellow card" minute="69" period="2" second="36" time="72" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo wins a corner (To the left)" minute="68" period="2" second="38" time="71" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé misses attempt (Out of box, Right footed, Open play)" minute="67" period="2" second="52" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Maynor Figueroa is substituted off" minute="67" period="2" second="12" time="70" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="67" period="2" second="12" time="70" type="substitution on" type_id="19"/>
+	<message comment="Emmerson Boyce misses attempt (6-yard box, Right footed, Open play)" minute="66" period="2" second="34" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="63" period="2" second="43" time="66" type="card received" type_id="17"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="62" period="2" second="30" time="65" type="substitution off" type_id="18"/>
+	<message comment="Alan Tate is substituted on" minute="62" period="2" second="30" time="65" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses misses attempt (6-yard box, Big Chance, Head, From corner)" minute="61" period="2" second="46" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses wins a corner (To the right)" minute="61" period="2" second="31" time="64" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer recieves a red card" minute="59" period="2" second="59" time="62" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo misses attempt (18-yard box, Left footed, Open play)" minute="58" period="2" second="0" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, 18-yard box, Right footed, Set piece)" minute="57" period="2" second="13" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jordi Gómez recieves a yellow card" minute="56" period="2" second="55" time="59" type="card received" type_id="17"/>
+	<message comment="Mohamed Diamé misses attempt (High, Out of box, Right footed, Open play)" minute="55" period="2" second="46" time="58" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores  (Low to the right, Out of box, Right footed, Free kick)" minute="53" period="2" second="45" time="56" type="goal scored" type_id="16"/>
+	<message comment="Joe Allen wins a corner (To the left)" minute="52" period="2" second="12" time="55" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried safe)" minute="52" period="2" second="10" time="55" type="save made" type_id="10"/>
+	<message comment="Joe Allen has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="52" period="2" second="10" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses wins a corner (To the right)" minute="49" period="2" second="44" time="52" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo has shot blocked (6-yard box, Right footed, Open play)" minute="48" period="2" second="37" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot" minute="48" period="2" second="37" time="51" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (18-yard box, Head, Open play)" minute="46" period="2" second="58" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Antolín Alcaraz misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="46" period="2" second="1" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Gary Caldwell wins a corner (To the left)" minute="45" period="2" second="39" time="48" type="corner" type_id="6"/>
+	<message comment="Antolín Alcaraz misses attempt (18-yard box, Head, Set piece)" minute="45" period="2" second="38" time="48" type="attempt missed" type_id="13"/>
+	<message comment="James McArthur is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Diamé is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Conor Sammon is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="58" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores , Assisted by Steven Caulker (High to the right, Out of box, Right footed, Open play)" minute="46" period="1" second="57" time="46" type="goal scored" type_id="16"/>
+	<message comment="Joe Allen wins a corner (To the right)" minute="39" period="1" second="17" time="39" type="corner" type_id="6"/>
+	<message comment="Scott Sinclair wins a corner (To the right)" minute="38" period="1" second="34" time="38" type="corner" type_id="6"/>
+	<message comment="James McCarthy blocks a shot (Last line)" minute="38" period="1" second="30" time="38" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has shot blocked (18-yard box, Right footed, Open play)" minute="38" period="1" second="30" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Parried into danger, Other body part)" minute="38" period="1" second="8" time="38" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce has attempt saved (Low to the right, 6-yard box, Head, Open play)" minute="38" period="1" second="8" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson misses attempt (Out of box, Left footed, Open play)" minute="31" period="1" second="54" time="31" type="attempt missed" type_id="13"/>
+	<message comment="James McCarthy blocks a shot" minute="31" period="1" second="13" time="31" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Left footed, Open play)" minute="31" period="1" second="13" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Parried safe, Diving)" minute="30" period="1" second="17" time="30" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="30" period="1" second="17" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Sinclair misses attempt (High to the right, 18-yard box, Left footed, Set piece)" minute="19" period="1" second="29" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="16" period="1" second="16" time="16" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Left footed, Open play)" minute="16" period="1" second="16" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save" minute="12" period="1" second="38" time="12" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="12" period="1" second="38" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Danny Graham is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Emmerson Boyce wins a corner (To the right)" minute="5" period="1" second="31" time="5" type="corner" type_id="6"/>
+	<message comment="Danny Graham is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="Jean Beausejour wins a corner (To the left)" minute="0" period="1" second="56" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

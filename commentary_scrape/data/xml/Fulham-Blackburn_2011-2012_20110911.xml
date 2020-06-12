@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2011-09-11" home_team_name="Blackburn" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="101" period="2" second="30" time="104" type="end" type_id="30"/>
+	<message comment="Martin Olsson has shot blocked (Out of box, Left footed, Free kick)" minute="99" period="2" second="32" time="102" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé blocks a shot" minute="99" period="2" second="32" time="102" type="save made" type_id="10"/>
+	<message comment="Mark Schwarzer recieves a yellow card" minute="92" period="2" second="16" time="95" type="card received" type_id="17"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="90" period="2" second="17" time="93" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="90" period="2" second="15" time="93" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="90" period="2" second="15" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Míchel Salgado recieves a yellow card" minute="86" period="2" second="4" time="89" type="card received" type_id="17"/>
+	<message comment="David Goodwillie misses attempt (To the right, 18-yard box, Right footed, Fast break)" minute="84" period="2" second="1" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Bobby Zamora is caught offside" minute="84" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Brede Hangeland misses attempt (To the left, 18-yard box, Head, From corner)" minute="81" period="2" second="42" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Johnson wins a corner (To the right)" minute="81" period="2" second="22" time="84" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado blocks a shot" minute="80" period="2" second="19" time="83" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has shot blocked (18-yard box, Right footed, Open play)" minute="80" period="2" second="19" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise is substituted off" minute="79" period="2" second="14" time="82" type="substitution off" type_id="18"/>
+	<message comment="Andrew Johnson is substituted on" minute="79" period="2" second="14" time="82" type="substitution on" type_id="19"/>
+	<message comment="John Arne Riise wins a corner (To the right)" minute="77" period="2" second="57" time="80" type="corner" type_id="6"/>
+	<message comment="Jason Lowe blocks a shot" minute="77" period="2" second="37" time="80" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (18-yard box, Left footed, Open play)" minute="77" period="2" second="37" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="David Goodwillie blocks a shot" minute="76" period="2" second="37" time="79" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora has shot blocked (Out of box, Left footed, Set piece)" minute="76" period="2" second="37" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Mauro Formica blocks a shot" minute="76" period="2" second="34" time="79" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora has shot blocked (Out of box, Left footed, Free kick)" minute="76" period="2" second="34" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="72" period="2" second="7" time="75" type="save made" type_id="10"/>
+	<message comment="Danny Murphy has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="72" period="2" second="7" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Rubén Rochina is substituted off" minute="70" period="2" second="3" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jason Lowe is substituted on" minute="70" period="2" second="3" time="73" type="substitution on" type_id="19"/>
+	<message comment="Brede Hangeland recieves a yellow card" minute="69" period="2" second="36" time="72" type="card received" type_id="17"/>
+	<message comment="Mauro Formica blocks a shot" minute="68" period="2" second="34" time="71" type="save made" type_id="10"/>
+	<message comment="John Arne Riise has shot blocked (Out of box, Left footed, Free kick)" minute="68" period="2" second="34" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell misses attempt (High, 18-yard box, Head, From corner)" minute="64" period="2" second="26" time="67" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="63" period="2" second="56" time="66" type="corner" type_id="6"/>
+	<message comment="Bobby Zamora wins a corner (To the left)" minute="63" period="2" second="13" time="66" type="corner" type_id="6"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="59" period="2" second="50" time="62" type="corner" type_id="6"/>
+	<message comment="John Arne Riise wins a corner (To the right)" minute="56" period="2" second="46" time="59" type="corner" type_id="6"/>
+	<message comment="Rubén Rochina has shot blocked (Out of box, Left footed, Open play)" minute="54" period="2" second="5" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos blocks a shot" minute="54" period="2" second="5" time="57" type="save made" type_id="10"/>
+	<message comment="David Dunn is substituted off" minute="51" period="2" second="52" time="54" type="substitution off" type_id="18"/>
+	<message comment="Radosav Petrovic is substituted on" minute="51" period="2" second="52" time="54" type="substitution on" type_id="19"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="50" period="2" second="44" time="53" type="corner" type_id="6"/>
+	<message comment="David Goodwillie has shot blocked (18-yard box, Right footed, Open play)" minute="47" period="2" second="36" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos blocks a shot" minute="47" period="2" second="36" time="50" type="save made" type_id="10"/>
+	<message comment="Mauro Formica has attempt saved (Low to the centre, Out of box, Left footed, Fast break)" minute="46" period="2" second="22" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="46" period="2" second="22" time="49" type="save made" type_id="10"/>
+	<message comment="Damien Duff misses attempt (To the left, Out of box, Left footed, Open play)" minute="45" period="2" second="15" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Mousa Dembélé is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Christopher Samba is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Martin Olsson is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="15" time="47" type="end" type_id="30"/>
+	<message comment="Clint Dempsey misses attempt (High, Out of box, Right footed, Open play)" minute="46" period="1" second="36" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="44" period="1" second="34" time="44" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett misses attempt (To the left, Out of box, Left footed, Set piece)" minute="43" period="1" second="3" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy recieves a yellow card" minute="41" period="1" second="1" time="41" type="card received" type_id="17"/>
+	<message comment="John Arne Riise has shot blocked (Out of box, Left footed, Free kick)" minute="40" period="1" second="53" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="David Goodwillie blocks a shot" minute="40" period="1" second="53" time="40" type="save made" type_id="10"/>
+	<message comment="GOAL! Bobby Zamora scores , Assisted by Danny Murphy (Low to the left, 18-yard box, Left footed, Open play)" minute="37" period="1" second="2" time="37" type="goal scored" type_id="16"/>
+	<message comment="Rubén Rochina wins a corner (To the left)" minute="34" period="1" second="53" time="34" type="corner" type_id="6"/>
+	<message comment="Bryan Ruiz wins a corner (To the right)" minute="34" period="1" second="14" time="34" type="corner" type_id="6"/>
+	<message comment="GOAL! Rubén Rochina scores , Assisted by David Junior Hoilett (High to the right, Out of box, Left footed, Open play)" minute="31" period="1" second="12" time="31" type="goal scored" type_id="16"/>
+	<message comment="Steven Nzonzi misses attempt (Out of box, Right footed, Open play)" minute="28" period="1" second="2" time="28" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn wins a corner (To the left)" minute="25" period="1" second="21" time="25" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes is substituted off" minute="19" period="1" second="9" time="19" type="substitution off" type_id="18"/>
+	<message comment="Stephen Kelly is substituted on" minute="19" period="1" second="9" time="19" type="substitution on" type_id="19"/>
+	<message comment="Damien Duff is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="15" period="1" second="23" time="15" type="corner" type_id="6"/>
+	<message comment="David Goodwillie misses attempt (18-yard box, Right footed, Set piece)" minute="14" period="1" second="4" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="14" type="end" type_id="30"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" minute="10" period="1" second="32" time="10" type="save made" type_id="10"/>
+	<message comment="Rubén Rochina has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="10" period="1" second="32" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Rubén Rochina misses attempt (To the right, Out of box, Left footed, Open play)" minute="9" period="1" second="24" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="7" period="1" second="51" time="7" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

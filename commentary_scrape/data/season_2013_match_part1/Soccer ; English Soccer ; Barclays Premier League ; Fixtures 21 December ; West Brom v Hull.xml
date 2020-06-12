@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Brom" competition="English Premier League" game_date="2013-12-21 15:00" game_id_2="27116445" game_id_4="112217910" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-21 16:33:35" minute="93" period="2" second="21" team="Hull" time="96" type="end" type_id="30"/>
+	<message comment="Saido Berahino misses attempt (High, Out of box, Left footed, Open play)" last_modified="2013-12-21 16:30:17" minute="90" period="2" second="3" team="Hull" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone misses attempt (Out of box, Right footed, Free kick)" last_modified="2013-12-21 16:28:56" minute="88" period="2" second="42" team="West Brom" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Yannick Sagbo is substituted off" last_modified="2013-12-21 16:28:36" minute="88" period="2" second="22" team="West Brom" time="91" type="substitution off" type_id="18"/>
+	<message comment="Matty Fryatt is substituted on" last_modified="2013-12-21 16:28:36" minute="88" period="2" second="22" team="West Brom" time="91" type="substitution on" type_id="19"/>
+	<message comment="Zoltán Gera recieves a yellow card" last_modified="2013-12-21 16:28:08" minute="87" period="2" second="54" team="Hull" time="90" type="card received" type_id="17"/>
+	<message comment="GOAL! Matej Vydra scores , Assisted by Zoltán Gera (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-21 16:25:55" minute="85" period="2" second="41" team="Hull" time="88" type="goal scored" type_id="16"/>
+	<message comment="George Boyd is caught offside" last_modified="2013-12-21 16:23:14" minute="83" period="2" team="West Brom" time="86" type="offside" type_id="10000"/>
+	<message comment="Danny Graham is substituted off" last_modified="2013-12-21 16:19:37" minute="79" period="2" second="23" team="West Brom" time="82" type="substitution off" type_id="18"/>
+	<message comment="George Boyd is substituted on" last_modified="2013-12-21 16:19:37" minute="79" period="2" second="23" team="West Brom" time="82" type="substitution on" type_id="19"/>
+	<message comment="Liam Ridgewell is substituted off" last_modified="2013-12-21 16:19:08" minute="78" period="2" second="54" team="Hull" time="81" type="substitution off" type_id="18"/>
+	<message comment="Zoltán Gera is substituted on" last_modified="2013-12-21 16:19:08" minute="78" period="2" second="54" team="Hull" time="81" type="substitution on" type_id="19"/>
+	<message comment="Saido Berahino wins a corner (To the right)" last_modified="2013-12-21 16:14:58" minute="74" period="2" second="44" team="Hull" time="77" type="corner" type_id="6"/>
+	<message comment="Curtis Davies blocks a shot" last_modified="2013-12-21 16:14:56" minute="74" period="2" second="42" team="West Brom" time="77" type="save made" type_id="10"/>
+	<message comment="Saido Berahino has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-21 16:14:56" minute="74" period="2" second="42" team="Hull" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-12-21 16:13:44" minute="73" period="2" second="30" team="Hull" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Saido Berahino wins a corner (To the left)" last_modified="2013-12-21 16:13:22" minute="73" period="2" second="8" team="Hull" time="76" type="corner" type_id="6"/>
+	<message comment="James Morrison misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-21 16:12:01" minute="71" period="2" second="47" team="Hull" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon is substituted off" last_modified="2013-12-21 16:08:28" minute="68" period="2" second="14" team="Hull" time="71" type="substitution off" type_id="18"/>
+	<message comment="Matej Vydra is substituted on" last_modified="2013-12-21 16:08:28" minute="68" period="2" second="14" team="Hull" time="71" type="substitution on" type_id="19"/>
+	<message comment="Ahmed El Mohamady has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-21 16:07:09" minute="66" period="2" second="55" team="West Brom" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing, Parried safe)" last_modified="2013-12-21 16:07:09" minute="66" period="2" second="55" team="Hull" time="69" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-12-21 16:07:06" minute="66" period="2" second="52" team="West Brom" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Diving)" last_modified="2013-12-21 16:07:06" minute="66" period="2" second="52" team="Hull" time="69" type="save made" type_id="10"/>
+	<message comment="Billy Jones recieves a yellow card" last_modified="2013-12-21 16:04:17" minute="64" period="2" second="3" team="Hull" time="67" type="card received" type_id="17"/>
+	<message comment="Allan McGregor makes a save" last_modified="2013-12-21 15:59:08" minute="58" period="2" second="54" team="West Brom" time="61" type="save made" type_id="10"/>
+	<message comment="Gareth McAuley has attempt saved (High to the left, 6-yard box, Head, From corner)" last_modified="2013-12-21 15:59:08" minute="58" period="2" second="54" team="Hull" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones wins a corner (To the right)" last_modified="2013-12-21 15:58:41" minute="58" period="2" second="27" team="Hull" time="61" type="corner" type_id="6"/>
+	<message comment="Shane Long misses attempt (High to the left, 18-yard box, Left footed, Fast break)" last_modified="2013-12-21 15:55:23" minute="55" period="2" second="9" team="Hull" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon has shot blocked (6-yard box, Left footed, From corner)" last_modified="2013-12-21 15:54:52" minute="54" period="2" second="38" team="Hull" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Sagbo blocks a shot" last_modified="2013-12-21 15:54:52" minute="54" period="2" second="38" team="West Brom" time="57" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the left)" last_modified="2013-12-21 15:54:23" minute="54" period="2" second="9" team="Hull" time="57" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone blocks a shot" last_modified="2013-12-21 15:54:20" minute="54" period="2" second="6" team="West Brom" time="57" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, From corner)" last_modified="2013-12-21 15:54:20" minute="54" period="2" second="6" team="Hull" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino wins a corner (To the right)" last_modified="2013-12-21 15:53:58" minute="53" period="2" second="44" team="Hull" time="56" type="corner" type_id="6"/>
+	<message comment="Allan McGregor makes a save (Parried safe)" last_modified="2013-12-21 15:53:51" minute="53" period="2" second="37" team="West Brom" time="56" type="save made" type_id="10"/>
+	<message comment="Saido Berahino has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-12-21 15:53:51" minute="53" period="2" second="37" team="Hull" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison is caught offside" last_modified="2013-12-21 15:51:14" minute="51" period="2" team="Hull" time="54" type="offside" type_id="10000"/>
+	<message comment="Scott Sinclair is substituted off" last_modified="2013-12-21 15:45:14" minute="45" period="2" second="0" team="Hull" time="48" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" last_modified="2013-12-21 15:45:14" minute="45" period="2" second="0" team="Hull" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-12-21 15:45:14" minute="45" period="2" second="0" team="Hull" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-21 15:47:15" minute="47" period="1" second="1" team="Hull" time="47" type="end" type_id="30"/>
+	<message comment="Billy Jones has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2013-12-21 15:44:57" minute="44" period="1" second="43" team="Hull" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa blocks a shot" last_modified="2013-12-21 15:44:57" minute="44" period="1" second="43" team="West Brom" time="44" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone blocks a shot" last_modified="2013-12-21 15:44:50" minute="44" period="1" second="36" team="West Brom" time="44" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-12-21 15:44:50" minute="44" period="1" second="36" team="Hull" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-21 15:43:55" minute="43" period="1" second="41" team="Hull" time="43" type="attempt missed" type_id="13"/>
+	<message comment="David Meyler recieves a yellow card" last_modified="2013-12-21 15:39:19" minute="39" period="1" second="5" team="West Brom" time="39" type="card received" type_id="17"/>
+	<message comment="Chris Brunt wins a corner (To the right)" last_modified="2013-12-21 15:37:46" minute="37" period="1" second="32" team="Hull" time="37" type="corner" type_id="6"/>
+	<message comment="Billy Jones wins a corner (To the left)" last_modified="2013-12-21 15:35:35" minute="35" period="1" second="21" team="Hull" time="35" type="corner" type_id="6"/>
+	<message comment="David Meyler wins a corner (To the right)" last_modified="2013-12-21 15:34:22" minute="34" period="1" second="8" team="West Brom" time="34" type="corner" type_id="6"/>
+	<message comment="David Meyler has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-21 15:34:18" minute="34" period="1" second="4" team="West Brom" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" last_modified="2013-12-21 15:34:18" minute="34" period="1" second="4" team="Hull" time="34" type="save made" type_id="10"/>
+	<message comment="GOAL! Jake Livermore scores , Assisted by Danny Graham (Low to the right, 18-yard box, Right footed, Fast break)" last_modified="2013-12-21 15:27:42" minute="27" period="1" second="28" team="West Brom" time="27" type="goal scored" type_id="16"/>
+	<message comment="Billy Jones wins a corner (To the right)" last_modified="2013-12-21 15:26:53" minute="26" period="1" second="39" team="Hull" time="26" type="corner" type_id="6"/>
+	<message comment="Danny Graham is caught offside" last_modified="2013-12-21 15:15:14" minute="15" period="1" team="West Brom" time="15" type="offside" type_id="10000"/>
+	<message comment="James Chester misses attempt (High to the right, 18-yard box, Head, From corner)" last_modified="2013-12-21 15:09:24" minute="9" period="1" second="10" team="West Brom" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" last_modified="2013-12-21 15:08:55" minute="8" period="1" second="41" team="West Brom" time="8" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-12-21 15:00:14" minute="0" period="14" second="0" team="Hull" time="6" type="end" type_id="30"/>
+	<message comment="Yannick Sagbo blocks a shot" last_modified="2013-12-21 15:05:14" minute="5" period="1" second="0" team="West Brom" time="5" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson has shot blocked (18-yard box, Head, From corner)" last_modified="2013-12-21 15:05:14" minute="5" period="1" second="0" team="Hull" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" last_modified="2013-12-21 15:04:47" minute="4" period="1" second="33" team="Hull" time="4" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-21 15:00:14" minute="0" period="1" second="0" team="Hull" time="0" type="start" type_id="32"/>
+</Commentary>

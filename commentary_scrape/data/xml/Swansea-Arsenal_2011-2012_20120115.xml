@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2012-01-15" home_team_name="Arsenal" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="97" type="end" type_id="30"/>
+	<message comment="Danny Graham is substituted off" minute="93" period="2" second="2" time="96" type="substitution off" type_id="18"/>
+	<message comment="Leroy Lita is substituted on" minute="93" period="2" second="2" time="96" type="substitution on" type_id="19"/>
+	<message comment="Laurent Koscielny has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="88" period="2" second="23" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Parried safe)" minute="88" period="2" second="23" time="91" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="88" period="2" second="20" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving)" minute="88" period="2" second="20" time="91" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="86" period="2" second="46" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="82" period="2" second="42" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="82" period="2" second="42" time="85" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer is substituted off" minute="81" period="2" second="14" time="84" type="substitution off" type_id="18"/>
+	<message comment="Wayne Routledge is substituted on" minute="81" period="2" second="14" time="84" type="substitution on" type_id="19"/>
+	<message comment="Scott Sinclair is caught offside" minute="80" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted on" minute="76" period="2" second="53" time="79" type="substitution on" type_id="19"/>
+	<message comment="Per Mertesacker is substituted off" minute="76" period="2" second="53" time="79" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="75" period="2" second="2" time="78" type="corner" type_id="6"/>
+	<message comment="Theo Walcott has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="20" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor blocks a shot" minute="73" period="2" second="20" time="76" type="save made" type_id="10"/>
+	<message comment="Thierry Henry is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Nathan Dyer is caught offside" minute="72" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Per Mertesacker misses attempt (To the left, 6-yard box, Right footed, From corner)" minute="71" period="2" second="50" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Johan Djourou misses attempt (To the left, 18-yard box, Head, From corner)" minute="71" period="2" second="47" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Thierry Henry wins a corner (To the right)" minute="71" period="2" second="18" time="74" type="corner" type_id="6"/>
+	<message comment="Thierry Henry has shot blocked (18-yard box, Head, Open play)" minute="71" period="2" second="17" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="71" period="2" second="17" time="74" type="save made" type_id="10"/>
+	<message comment="GOAL! Danny Graham scores , Assisted by Gylfi Sigurdsson (Low to the left, 18-yard box, Right footed, Open play)" minute="69" period="2" second="3" time="72" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Johan Djourou (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="18" time="71" type="goal scored" type_id="16"/>
+	<message comment="Tomas Rosicky misses attempt (Out of box, Right footed, Open play)" minute="64" period="2" second="35" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the right, Out of box, Left footed, Open play)" minute="62" period="2" second="54" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="62" period="2" second="51" time="65" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (Out of box, Right footed, Open play)" minute="62" period="2" second="51" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Yossi Benayoun is substituted off" minute="62" period="2" second="35" time="65" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="62" period="2" second="35" time="65" type="substitution on" type_id="19"/>
+	<message comment="Thierry Henry is substituted on" minute="62" period="2" second="24" time="65" type="substitution on" type_id="19"/>
+	<message comment="Andrey Arshavin is substituted off" minute="62" period="2" second="24" time="65" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="61" period="2" second="40" time="64" type="corner" type_id="6"/>
+	<message comment="Danny Graham wins a corner (To the right)" minute="61" period="2" second="8" time="64" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="59" period="2" second="17" time="62" type="corner" type_id="6"/>
+	<message comment="GOAL! Nathan Dyer scores , Assisted by Joe Allen (High to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="56" period="2" second="58" time="59" type="goal scored" type_id="16"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="54" period="2" second="1" time="57" type="corner" type_id="6"/>
+	<message comment="Joe Allen misses attempt (To the right, Out of box, Right footed, Open play)" minute="52" period="2" second="53" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (To the right, Out of box, Right footed, From corner)" minute="49" period="2" second="49" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="49" period="2" second="16" time="52" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="47" period="2" second="57" time="50" type="corner" type_id="6"/>
+	<message comment="Andrey Arshavin misses attempt (High, Out of box, Right footed, Open play)" minute="47" period="2" second="9" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott misses attempt (18-yard box, Right footed, Open play)" minute="45" period="2" second="19" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Kemy Agustien is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="44" period="1" second="28" time="44" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="44" period="1" second="28" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Andrey Arshavin has shot blocked (Out of box, Right footed, Open play)" minute="41" period="1" second="17" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel blocks a shot" minute="41" period="1" second="17" time="41" type="save made" type_id="10"/>
+	<message comment="Robin van Persie is caught offside" minute="41" period="1" time="41" type="offside" type_id="10000"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" minute="39" period="1" second="48" time="39" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="39" period="1" second="48" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ignasi Miquel is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Scott Sinclair is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="29" period="1" second="57" time="29" type="corner" type_id="6"/>
+	<message comment="Robin van Persie has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="28" period="1" second="40" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried into danger)" minute="28" period="1" second="40" time="28" type="save made" type_id="10"/>
+	<message comment="Robin van Persie is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Neil Taylor wins a corner (To the left)" minute="23" period="1" second="44" time="23" type="corner" type_id="6"/>
+	<message comment="Kemy Agustien wins a corner (To the left)" minute="18" period="1" second="31" time="18" type="corner" type_id="6"/>
+	<message comment="Andrey Arshavin blocks a shot" minute="18" period="1" second="27" time="18" type="save made" type_id="10"/>
+	<message comment="Kemy Agustien has shot blocked (Out of box, Right footed, Free kick)" minute="18" period="1" second="27" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot (Last line)" minute="17" period="1" second="23" time="17" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (18-yard box, Right footed, Open play)" minute="17" period="1" second="23" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie has shot blocked (18-yard box, Left footed, Open play)" minute="17" period="1" second="21" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="17" period="1" second="21" time="17" type="save made" type_id="10"/>
+	<message comment="GOAL! Scott Sinclair scores  (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="15" period="1" second="54" time="15" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Danny Graham is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="GOAL! Robin van Persie scores , Assisted by Andrey Arshavin (Low to the right, 18-yard box, Right footed, Open play)" minute="4" period="1" second="1" time="4" type="goal scored" type_id="16"/>
+	<message comment="Kemy Agustien misses attempt (To the right, Out of box, Left footed, Open play)" minute="0" period="1" second="41" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

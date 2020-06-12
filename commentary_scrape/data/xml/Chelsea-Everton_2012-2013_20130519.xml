@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-05-19" home_team_name="Everton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="57" time="95" type="end" type_id="30"/>
+	<message comment="John Heitinga misses attempt (High to the right, 18-yard box, Left footed, Open play)" minute="92" period="2" second="25" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic blocks a shot" minute="91" period="2" second="51" time="94" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (18-yard box, Right footed, Open play)" minute="91" period="2" second="51" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini misses attempt (High to the left, Out of box, Left footed, Open play)" minute="90" period="2" second="42" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Oscar is substituted off" minute="88" period="2" second="13" time="91" type="substitution off" type_id="18"/>
+	<message comment="Paulo Ferreira is substituted on" minute="88" period="2" second="13" time="91" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is caught offside" minute="87" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Victor Moses has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="86" period="2" second="59" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save" minute="86" period="2" second="59" time="89" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="85" period="2" second="48" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Diving, Parried into danger)" minute="85" period="2" second="46" time="88" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="85" period="2" second="46" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses wins a corner (To the left)" minute="83" period="2" second="47" time="86" type="corner" type_id="6"/>
+	<message comment="Juan Mata is substituted off" minute="82" period="2" second="20" time="85" type="substitution off" type_id="18"/>
+	<message comment="César Azpilicueta is substituted on" minute="82" period="2" second="20" time="85" type="substitution on" type_id="19"/>
+	<message comment="David Luiz recieves a yellow card" minute="81" period="2" second="50" time="84" type="card received" type_id="17"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="81" period="2" second="0" time="84" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="81" period="2" second="0" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Aké blocks a shot" minute="80" period="2" second="58" time="83" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (Out of box, Right footed, Open play)" minute="80" period="2" second="58" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Victor Moses (Low to the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="41" time="78" type="goal scored" type_id="16"/>
+	<message comment="Nikica Jelavic misses attempt (To the right, 18-yard box, Big Chance, Right footed, Open play)" minute="73" period="2" second="1" time="76" type="attempt missed" type_id="13"/>
+	<message comment="John Heitinga recieves a yellow card" minute="69" period="2" second="59" time="72" type="card received" type_id="17"/>
+	<message comment="Sylvain Distin wins a corner (To the left)" minute="69" period="2" second="9" time="72" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="68" period="2" second="22" time="71" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the left, 18-yard box, Head, Set piece)" minute="68" period="2" second="22" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic misses attempt (Out of box, Right footed, Open play)" minute="67" period="2" second="27" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Victor Anichebe is substituted off" minute="66" period="2" second="39" time="69" type="substitution off" type_id="18"/>
+	<message comment="John Heitinga is substituted on" minute="66" period="2" second="39" time="69" type="substitution on" type_id="19"/>
+	<message comment="Steven Naismith is substituted off" minute="66" period="2" second="1" time="69" type="substitution off" type_id="18"/>
+	<message comment="Nikica Jelavic is substituted on" minute="66" period="2" second="1" time="69" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba is substituted off" minute="65" period="2" second="29" time="68" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="65" period="2" second="29" time="68" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="63" period="2" second="19" time="66" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="17" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman blocks a shot" minute="63" period="2" second="17" time="66" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini wins a corner (To the left)" minute="62" period="2" second="25" time="65" type="corner" type_id="6"/>
+	<message comment="Demba Ba is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Right footed, Set piece)" minute="57" period="2" second="37" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="57" period="2" second="37" time="60" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Free kick)" minute="57" period="2" second="35" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini blocks a shot" minute="57" period="2" second="35" time="60" type="save made" type_id="10"/>
+	<message comment="Gary Cahill misses attempt (18-yard box, Head, From corner)" minute="54" period="2" second="28" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="54" period="2" second="14" time="57" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="3" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" minute="54" period="2" second="3" time="57" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="53" period="2" second="6" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" minute="52" period="2" second="42" time="55" type="corner" type_id="6"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, From corner)" minute="52" period="2" second="40" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini blocks a shot" minute="52" period="2" second="40" time="55" type="save made" type_id="10"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="52" period="2" second="11" time="55" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Fast break)" minute="52" period="2" second="8" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" minute="52" period="2" second="8" time="55" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="50" period="2" second="9" time="53" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="50" period="2" second="9" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="49" period="2" second="34" time="52" type="corner" type_id="6"/>
+	<message comment="Oscar misses attempt (To the left, Out of box, Right footed, Fast break)" minute="48" period="2" second="39" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill has attempt saved (Low to the centre, 18-yard box, Left footed, From corner)" minute="46" period="2" second="53" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="46" period="2" second="53" time="49" type="save made" type_id="10"/>
+	<message comment="David Luiz wins a corner (To the left)" minute="46" period="2" second="26" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="3" time="47" type="end" type_id="30"/>
+	<message comment="Frank Lampard misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="42" period="1" second="55" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="41" period="1" second="24" time="41" type="corner" type_id="6"/>
+	<message comment="David Luiz blocks a shot" minute="41" period="1" second="20" time="41" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (18-yard box, Right footed, Open play)" minute="41" period="1" second="20" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar misses attempt (Out of box, Right footed, Fast break)" minute="38" period="1" second="31" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres recieves a yellow card" minute="33" period="1" second="40" time="33" type="card received" type_id="17"/>
+	<message comment="Juan Mata has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="33" period="1" second="21" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Standing, Parried into danger)" minute="33" period="1" second="21" time="33" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="32" period="1" second="14" time="32" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="32" period="1" second="14" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="31" period="1" second="11" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Aké misses attempt (High, Out of box, Left footed, Open play)" minute="29" period="1" second="28" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save" minute="20" period="1" second="37" time="20" type="save made" type_id="10"/>
+	<message comment="Darron Gibson has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="20" period="1" second="37" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres misses attempt (To the left, 18-yard box, Head, Open play)" minute="19" period="1" second="10" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Aké blocks a shot" minute="17" period="1" second="8" time="17" type="save made" type_id="10"/>
+	<message comment="Darron Gibson has shot blocked (Out of box, Right footed, From corner)" minute="17" period="1" second="8" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" minute="16" period="1" second="44" time="16" type="corner" type_id="6"/>
+	<message comment="GOAL! Steven Naismith scores , Assisted by Victor Anichebe (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="13" period="1" second="57" time="13" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="12" period="1" second="53" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Darron Gibson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="12" period="1" second="6" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Steven Naismith misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="10" period="1" second="20" time="10" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Juan Mata scores  (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="6" period="1" second="58" time="6" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="6" period="1" second="56" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Diving)" minute="6" period="1" second="56" time="6" type="save made" type_id="10"/>
+	<message comment="Gary Cahill blocks a shot" minute="6" period="1" second="28" time="6" type="save made" type_id="10"/>
+	<message comment="Victor Anichebe has shot blocked (18-yard box, Left footed, Open play)" minute="6" period="1" second="28" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Darron Gibson misses attempt (To the left, Out of box, Right footed, Open play)" minute="4" period="1" second="27" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba misses attempt (18-yard box, Left footed, Open play)" minute="3" period="1" second="34" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar blocks a shot" minute="1" period="1" second="26" time="1" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="1" period="1" second="26" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

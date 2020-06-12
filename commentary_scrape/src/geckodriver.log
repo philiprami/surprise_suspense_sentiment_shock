@@ -1,0 +1,122 @@
+1590100822037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.jcgatREroSSt"
+1590100825427	Marionette	INFO	Listening on port 49869
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1590100825494	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Refreshing device list failed." ({error:{}, errorString:"[Exception... \"NS_ERROR_UNKNOWN_HOST\"  nsresult: \"0x804b001e (NS_ERROR_UNKNOWN_HOST)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 488\"  data: no]", message:null, code:null, errno:null, toString() {
+        return this.code + ": " + this.message;
+      }})
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=965444006, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=965444006, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=965444006, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=965444006 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=965444006 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=918594827, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=918594827, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=918594827 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=918594827 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=28&cb=69955580, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=28&cb=69955580, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=28&cb=69955580 line 1 > eval, line 1: unreachable code after return statement
+1590100885645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.0hH8hLwriOYY"
+1590100888126	Marionette	INFO	Listening on port 50235
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1590100888178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1125390656, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1125390656, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1125390656 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=664246276, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=664246276 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=625493448, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=625493448, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=625493448, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=625493448 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.5dimes.eu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=34&cb=625493448 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+1590100999070	Marionette	INFO	Stopped listening on port 49869
+1590101005004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.G5d0bOZyfBit"
+1590101007658	Marionette	INFO	Listening on port 50650
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1590101007761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590101008697	Marionette	INFO	Stopped listening on port 50235
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=781324639, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=781324639, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=781324639, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=781324639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=781324639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=96790197, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=96790197 line 1 > eval, line 1: unreachable code after return statement
+1590101153103	Marionette	INFO	Stopped listening on port 50650
+1590101159972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.jGunVDqv2A6A"
+1590101162164	Marionette	INFO	Listening on port 51231
+1590101162267	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560206247, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560206247, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560206247, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560206247 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560206247 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1077301394, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1077301394, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1077301394 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://059dbb1e66d23587b05f2f991b0aa76b.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 7 > scriptElement, line 8: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript error: https://cdn.doubleverify.com/dv-measurements324.js, line 71: TypeError: k.c.L(...) is undefined
+JavaScript error: https://7d3e56016b375d6c9056ddcf31d46084.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 7 > scriptElement, line 8: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://imasdk.googleapis.com/js/sdkloader/ima3.js, line 320: NS_ERROR_FAILURE: 
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript error: https://cdn.doubleverify.com/dv-measurements324.js, line 71: TypeError: k.c.L(...) is undefined
+JavaScript error: https://s0.2mdn.net/9631534/1581591729763/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://s0.2mdn.net/9631534/1581591729763/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020050602.js, line 6: TypeError: a is null
+JavaScript error: https://www.whoscored.com/Regions/233/Tournaments/85/Seasons/7172/Stages/15823/Show/USA-Major-League-Soccer-2018 line 1 > scriptElement, line 11: TypeError: ad_choice is undefined
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020050602.js, line 6: TypeError: a is null
+1590101401004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.fO0oWSPOH4SB"
+1590101403480	Marionette	INFO	Listening on port 51858
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1590101403563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590101457582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rw/bptxq5x96y36yvrb8b39vv540000gn/T/rust_mozprofile.Om2SMjSxOlPY"
+1590101459870	Marionette	INFO	Listening on port 52154
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1590101459948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1573117884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=742706402, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=742706402, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=742706402, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=742706402 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=742706402 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=811005178, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=811005178, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=811005178, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=811005178 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=811005178 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.glassboxcdn.com/bv/web/bvt/detector-dom.min.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://7ec11d923199590a23ac809aaaa5d5ba.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 7 > scriptElement, line 8: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590101657547	Marionette	INFO	Stopped listening on port 51231
+1590101659319	Marionette	INFO	Stopped listening on port 51858
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript error: https://s0.2mdn.net/4516568/1588619364572/index.html, line 324: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1588960090282/index.html, line 324: TypeError: studio.Enabler is undefined
+1590102670072	Marionette	INFO	Stopped listening on port 52154

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wolverhampton Wanderers" competition="English Premier League" game_date="2010-12-26" home_team_name="Wigan" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="40" time="96" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega misses attempt (High to the right, 18-yard box, Right footed, Throw-in)" minute="91" period="2" second="30" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ward wins a corner (To the left)" minute="90" period="2" second="28" time="93" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega wins a corner (To the left)" minute="88" period="2" second="50" time="91" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="47" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Richard Stearman blocks a shot" minute="88" period="2" second="47" time="91" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega misses attempt (18-yard box, Right footed, Open play)" minute="88" period="2" second="46" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega is caught offside" minute="87" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="GOAL! Steven Fletcher scores , Assisted by Sylvan Ebanks-Blake (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="86" period="2" second="22" time="89" type="goal scored" type_id="16"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="86" period="2" second="20" time="89" type="save made" type_id="10"/>
+	<message comment="Sylvan Ebanks-Blake has shot blocked (18-yard box, Head, Open play)" minute="86" period="2" second="20" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Foley wins a corner (To the right)" minute="85" period="2" second="31" time="88" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="80" period="2" second="14" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Hennessey makes a save (Standing)" minute="80" period="2" second="14" time="83" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="79" period="2" second="17" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega is caught offside" minute="75" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Tom Cleverley recieves a yellow card" minute="72" period="2" second="49" time="75" type="card received" type_id="17"/>
+	<message comment="Stephen Hunt wins a corner (To the left)" minute="71" period="2" second="58" time="74" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="71" period="2" second="3" time="74" type="attempt missed" type_id="13"/>
+	<message comment="George Elokobi is substituted off" minute="69" period="2" second="53" time="72" type="substitution off" type_id="18"/>
+	<message comment="Steven Fletcher is substituted on" minute="69" period="2" second="53" time="72" type="substitution on" type_id="19"/>
+	<message comment="Ben Watson misses attempt (High, Out of box, Right footed, Free kick)" minute="65" period="2" second="9" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Ronald Zubar recieves a yellow card" minute="64" period="2" second="3" time="67" type="card received" type_id="17"/>
+	<message comment="Wayne Hennessey makes a save (Standing)" minute="61" period="2" second="45" time="64" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="61" period="2" second="45" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Hunt wins a corner (To the left)" minute="58" period="2" second="59" time="61" type="corner" type_id="6"/>
+	<message comment="Stephen Hunt has shot blocked (6-yard box, Head, Open play)" minute="58" period="2" second="57" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Ronnie Stam blocks a shot" minute="58" period="2" second="57" time="61" type="save made" type_id="10"/>
+	<message comment="David Edwards is substituted off" minute="54" period="2" second="15" time="57" type="substitution off" type_id="18"/>
+	<message comment="Matthew Jarvis is substituted on" minute="54" period="2" second="15" time="57" type="substitution on" type_id="19"/>
+	<message comment="Sylvan Ebanks-Blake is caught offside" minute="51" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Hugo Rodallega misses attempt (High, Out of box, Right footed, Open play)" minute="50" period="2" second="33" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ward has shot blocked (Out of box, Left footed, Open play)" minute="48" period="2" second="53" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="48" period="2" second="53" time="51" type="save made" type_id="10"/>
+	<message comment="Richard Stearman blocks a shot" minute="48" period="2" second="33" time="51" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia has shot blocked (Out of box, Left footed, Open play)" minute="48" period="2" second="33" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Tom Cleverley has shot blocked (18-yard box, Right footed, Fast break)" minute="45" period="1" second="3" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Ronald Zubar blocks a shot" minute="45" period="1" second="3" time="45" type="save made" type_id="10"/>
+	<message comment="Antolín Alcaraz recieves a yellow card" minute="44" period="1" second="30" time="44" type="card received" type_id="17"/>
+	<message comment="George Elokobi wins a corner (To the left)" minute="41" period="1" second="19" time="41" type="corner" type_id="6"/>
+	<message comment="Ben Watson recieves a yellow card" minute="37" period="1" second="55" time="37" type="card received" type_id="17"/>
+	<message comment="Nenad Milijas misses attempt (To the left, Out of box, Left footed, Free kick)" minute="34" period="1" second="23" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Nenad Milijas has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="34" period="1" second="21" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Feet, Parried safe)" minute="34" period="1" second="21" time="34" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega misses attempt (To the left, Out of box, Right footed, Open play)" minute="31" period="1" second="43" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Hunt misses attempt (High, 6-yard box, Head, Open play)" minute="23" period="1" second="46" time="23" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Tom Cleverley scores , Assisted by Hugo Rodallega (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="19" period="1" second="29" time="19" type="goal scored" type_id="16"/>
+	<message comment="Mohamed Diamé has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="19" period="1" second="3" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Hennessey makes a save (Collected)" minute="19" period="1" second="3" time="19" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Sylvan Ebanks-Blake misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="12" period="1" second="19" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Christophe Berra has attempt saved (Low to the centre, 18-yard box, Right footed, Set piece)" minute="10" period="1" second="21" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="10" period="1" second="21" time="10" type="save made" type_id="10"/>
+	<message comment="GOAL! Hugo Rodallega scores , Assisted by Gary Caldwell (Low to the left, 18-yard box, Right footed, From corner)" minute="8" period="1" second="51" time="8" type="goal scored" type_id="16"/>
+	<message comment="Ben Watson wins a corner (To the left)" minute="8" period="1" second="22" time="8" type="corner" type_id="6"/>
+	<message comment="James McArthur wins a corner (To the left)" minute="7" period="1" second="44" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Stephen Ward wins a corner (To the right)" minute="5" period="1" second="12" time="5" type="corner" type_id="6"/>
+	<message comment="David Edwards wins a corner (To the right)" minute="2" period="1" second="9" time="2" type="corner" type_id="6"/>
+	<message comment="Wayne Hennessey makes a save (Standing)" minute="1" period="1" second="22" time="1" type="save made" type_id="10"/>
+	<message comment="James McArthur has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="1" period="1" second="22" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

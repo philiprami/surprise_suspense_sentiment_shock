@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2011-10-31" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="23" time="100" type="end" type_id="30"/>
+	<message comment="Peter Crouch misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="92" period="2" second="31" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba blocks a shot" minute="92" period="2" second="11" time="97" type="save made" type_id="10"/>
+	<message comment="Robert Huth has shot blocked (18-yard box, Left footed, Throw-in)" minute="92" period="2" second="11" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Guthrie is substituted off" minute="90" period="2" second="56" time="95" type="substitution off" type_id="18"/>
+	<message comment="Dan Gosling is substituted on" minute="90" period="2" second="56" time="95" type="substitution on" type_id="19"/>
+	<message comment="Leon Best is substituted off" minute="86" period="2" second="32" time="91" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="86" period="2" second="32" time="91" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch is caught offside" minute="85" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Gabriel Obertan misses attempt (18-yard box, Right footed, Open play)" minute="81" period="2" second="53" time="86" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Demba Ba scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="80" period="2" second="33" time="85" type="goal scored" type_id="16"/>
+	<message comment="James Perch recieves a yellow card" minute="77" period="2" second="47" time="82" type="card received" type_id="17"/>
+	<message comment="Yohan Cabaye is substituted off" minute="77" period="2" second="25" time="82" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="77" period="2" second="25" time="82" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jonathan Walters scores  (High to the centre, 18-yard box, Big Chance, Penalty, Right footed)" minute="74" period="2" second="33" time="79" type="goal scored" type_id="16"/>
+	<message comment="Matt Upson has shot blocked (18-yard box, Right footed, Open play)" minute="73" period="2" second="39" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="73" period="2" second="39" time="78" type="save made" type_id="10"/>
+	<message comment="Matthew Etherington is substituted off" minute="67" period="2" second="53" time="72" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="67" period="2" second="53" time="72" type="substitution on" type_id="19"/>
+	<message comment="Danny Simpson is caught offside" minute="67" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Matt Upson misses attempt (To the right, 6-yard box, Head, From corner)" minute="62" period="2" second="11" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant wins a corner (To the left)" minute="61" period="2" second="46" time="66" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="61" period="2" second="15" time="66" type="corner" type_id="6"/>
+	<message comment="Peter Crouch is caught offside" minute="55" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="Peter Crouch misses attempt (To the left, 6-yard box, Head, From corner)" minute="54" period="2" second="30" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="54" period="2" second="8" time="59" type="corner" type_id="6"/>
+	<message comment="Robert Huth misses attempt (High, 18-yard box, Head, From corner)" minute="52" period="2" second="48" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Andy Wilkinson wins a corner (To the right)" minute="52" period="2" second="27" time="57" type="corner" type_id="6"/>
+	<message comment="Ryan Taylor misses attempt (To the right, Out of box, Right footed, Free kick)" minute="51" period="2" second="5" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="46" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="58" time="49" type="end" type_id="30"/>
+	<message comment="Leon Best misses attempt (Out of box, Right footed, Open play)" minute="49" period="1" second="36" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="43" period="1" time="43" type="offside" type_id="10000"/>
+	<message comment="Tim Krul makes a save" minute="41" period="1" second="19" time="41" type="save made" type_id="10"/>
+	<message comment="Matt Upson has attempt saved (High to the right, 6-yard box, Head, From corner)" minute="41" period="1" second="19" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Wilson is substituted off" minute="40" period="1" second="55" time="40" type="substitution off" type_id="18"/>
+	<message comment="Robert Huth is substituted on" minute="40" period="1" second="55" time="40" type="substitution on" type_id="19"/>
+	<message comment="Jermaine Pennant wins a corner (To the right)" minute="40" period="1" second="27" time="40" type="corner" type_id="6"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Leon Best (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="39" period="1" second="3" time="39" type="goal scored" type_id="16"/>
+	<message comment="Leon Best misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" minute="39" period="1" second="1" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="34" period="1" second="39" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="34" period="1" second="39" time="34" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan wins a corner (To the left)" minute="29" period="1" second="13" time="29" type="corner" type_id="6"/>
+	<message comment="Jermaine Pennant wins a corner (To the right)" minute="24" period="1" second="51" time="24" type="corner" type_id="6"/>
+	<message comment="Marc Wilson misses attempt (To the right, 18-yard box, Head, Throw-in)" minute="21" period="1" second="59" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross is substituted off" minute="18" period="1" second="53" time="18" type="substitution off" type_id="18"/>
+	<message comment="Matt Upson is substituted on" minute="18" period="1" second="53" time="18" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters misses attempt (To the left, 6-yard box, Head, From corner)" minute="14" period="1" second="23" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="13" period="1" second="25" time="13" type="corner" type_id="6"/>
+	<message comment="Andy Wilkinson has shot blocked (18-yard box, Left footed, Open play)" minute="13" period="1" second="22" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor blocks a shot" minute="13" period="1" second="22" time="13" type="save made" type_id="10"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Gabriel Obertan (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="11" period="1" second="47" time="11" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Ryan Taylor misses attempt (To the right, Out of box, Right footed, From corner)" minute="1" period="1" second="54" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="1" period="1" second="23" time="1" type="corner" type_id="6"/>
+	<message comment="Gabriel Obertan wins a corner (To the left)" minute="0" period="1" second="47" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

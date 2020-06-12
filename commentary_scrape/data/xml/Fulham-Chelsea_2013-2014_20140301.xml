@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2014-03-01" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="6" time="98" type="end" type_id="30"/>
+	<message comment="Ramires misses attempt (High, 18-yard box, Right footed, Open play)" minute="93" period="2" second="40" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried into danger, Standing, Other body part)" minute="93" period="2" second="39" time="97" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="93" period="2" second="39" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Collected)" minute="90" period="2" second="2" time="94" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="90" period="2" second="2" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="88" period="2" second="16" time="92" type="corner" type_id="6"/>
+	<message comment="André Schürrle is substituted off" minute="86" period="2" second="35" time="90" type="substitution off" type_id="18"/>
+	<message comment="David Luiz is substituted on" minute="86" period="2" second="35" time="90" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres is substituted off" minute="81" period="2" second="25" time="85" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" minute="81" period="2" second="25" time="85" type="substitution on" type_id="19"/>
+	<message comment="Giorgos Karagounis has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="80" period="2" second="6" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Diving)" minute="80" period="2" second="6" time="84" type="save made" type_id="10"/>
+	<message comment="André Schürrle misses attempt (High, 6-yard box, Right footed, Open play)" minute="79" period="2" second="19" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker is substituted off" minute="78" period="2" second="55" time="82" type="substitution off" type_id="18"/>
+	<message comment="Giorgos Karagounis is substituted on" minute="78" period="2" second="55" time="82" type="substitution on" type_id="19"/>
+	<message comment="Oscar is substituted off" minute="77" period="2" second="11" time="81" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="77" period="2" second="11" time="81" type="substitution on" type_id="19"/>
+	<message comment="GOAL! John Heitinga scores , Assisted by Darren Bent (Low to the left, 6-yard box, Big Chance, Left footed, From corner)" minute="73" period="2" second="29" time="77" type="goal scored" type_id="16"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="73" period="2" second="10" time="77" type="corner" type_id="6"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Fernando Torres (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="67" period="2" second="59" time="71" type="goal scored" type_id="16"/>
+	<message comment="André Schürrle misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="66" period="2" second="16" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether blocks a shot" minute="66" period="2" second="15" time="70" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="15" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle wins a corner (To the left)" minute="65" period="2" second="33" time="69" type="corner" type_id="6"/>
+	<message comment="Dan Burn blocks a shot" minute="65" period="2" second="30" time="69" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Left footed, Open play)" minute="65" period="2" second="30" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Eden Hazard (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="64" period="2" second="13" time="68" type="goal scored" type_id="16"/>
+	<message comment="Pajtim Kasami is substituted off" minute="61" period="2" second="8" time="65" type="substitution off" type_id="18"/>
+	<message comment="Lewis Holtby is substituted on" minute="61" period="2" second="8" time="65" type="substitution on" type_id="19"/>
+	<message comment="Oscar is caught offside" minute="60" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Gary Cahill misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="59" period="2" second="10" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="58" period="2" second="20" time="62" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson blocks a shot (Last line)" minute="58" period="2" second="14" time="62" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (6-yard box, Head, Open play)" minute="58" period="2" second="14" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami wins a corner (To the left)" minute="55" period="2" second="13" time="59" type="corner" type_id="6"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Eden Hazard (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="51" period="2" second="25" time="55" type="goal scored" type_id="16"/>
+	<message comment="Ramires recieves a yellow card" minute="49" period="2" second="48" time="53" type="card received" type_id="17"/>
+	<message comment="André Schürrle wins a corner (To the left)" minute="48" period="2" second="1" time="52" type="corner" type_id="6"/>
+	<message comment="Sascha Riether blocks a shot" minute="47" period="2" second="58" time="51" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (18-yard box, Left footed, Open play)" minute="47" period="2" second="58" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami recieves a yellow card" minute="47" period="2" second="24" time="51" type="card received" type_id="17"/>
+	<message comment="Pajtim Kasami misses attempt (To the left, 18-yard box, Head, Open play)" minute="46" period="2" second="58" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="Pajtim Kasami has shot blocked (Out of box, Left footed, Open play)" minute="47" period="1" second="0" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="47" period="1" second="0" time="47" type="save made" type_id="10"/>
+	<message comment="Dan Burn blocks a shot" minute="46" period="1" second="46" time="46" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (Out of box, Right footed, Open play)" minute="46" period="1" second="46" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="46" period="1" second="4" time="46" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="45" period="1" second="59" time="45" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the left, 18-yard box, Right footed, Set piece)" minute="45" period="1" second="59" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Collected)" minute="39" period="1" second="42" time="39" type="save made" type_id="10"/>
+	<message comment="Pajtim Kasami has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="39" period="1" second="42" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ashkan Dejagah recieves a yellow card" minute="34" period="1" second="42" time="34" type="card received" type_id="17"/>
+	<message comment="Ramires misses attempt (Out of box, Left footed, Open play)" minute="27" period="1" second="53" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="26" period="1" time="26" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="22" period="1" second="28" time="22" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="20" period="1" second="32" time="20" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland is substituted off" minute="15" period="1" second="6" time="15" type="substitution off" type_id="18"/>
+	<message comment="Dan Burn is substituted on" minute="15" period="1" second="6" time="15" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried safe)" minute="12" period="1" second="57" time="12" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="12" period="1" second="57" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Pajtim Kasami misses attempt (High to the right, 18-yard box, Left footed, Set piece)" minute="4" period="1" second="31" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (To the right, 18-yard box, Big Chance, Head, Open play)" minute="2" period="1" second="8" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2013-10-19" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="49" time="95" type="end" type_id="30"/>
+	<message comment="Robert Huth misses attempt (High, 18-yard box, Head, From corner)" minute="92" period="2" second="59" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ireland wins a corner (To the right)" minute="92" period="2" second="30" time="94" type="corner" type_id="6"/>
+	<message comment="Marko Arnautovic is substituted off" minute="91" period="2" second="53" time="93" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" minute="91" period="2" second="53" time="93" type="substitution on" type_id="19"/>
+	<message comment="James Morrison misses attempt (To the left, 18-yard box, Head, Open play)" minute="91" period="2" second="19" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" minute="90" period="2" second="19" time="92" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="90" period="2" second="19" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Erik Pieters blocks a shot" minute="88" period="2" second="18" time="90" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="18" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="0" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley wins a corner (To the right)" minute="79" period="2" second="42" time="81" type="corner" type_id="6"/>
+	<message comment="Charlie Adam is substituted off" minute="79" period="2" second="15" time="81" type="substitution off" type_id="18"/>
+	<message comment="Marc Wilson is substituted on" minute="79" period="2" second="15" time="81" type="substitution on" type_id="19"/>
+	<message comment="Victor Anichebe is substituted off" minute="74" period="2" second="45" time="76" type="substitution off" type_id="18"/>
+	<message comment="Shane Long is substituted on" minute="74" period="2" second="45" time="76" type="substitution on" type_id="19"/>
+	<message comment="Erik Pieters misses attempt (High, Out of box, Left footed, Open play)" minute="74" period="2" second="3" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="73" period="2" second="28" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" minute="73" period="2" second="28" time="75" type="save made" type_id="10"/>
+	<message comment="Andy Wilkinson recieves a yellow card" minute="72" period="2" second="59" time="74" type="card received" type_id="17"/>
+	<message comment="Charlie Adam wins a corner (To the left)" minute="71" period="2" second="44" time="73" type="corner" type_id="6"/>
+	<message comment="Boaz Myhill makes a save (Parried safe)" minute="71" period="2" second="40" time="73" type="save made" type_id="10"/>
+	<message comment="Charlie Adam has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="71" period="2" second="40" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Standing)" minute="71" period="2" second="4" time="73" type="save made" type_id="10"/>
+	<message comment="Stephen Ireland has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="71" period="2" second="4" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="68" period="2" second="30" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Standing)" minute="68" period="2" second="30" time="70" type="save made" type_id="10"/>
+	<message comment="Stephen Ireland misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="63" period="2" second="29" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano is substituted off" minute="61" period="2" second="55" time="63" type="substitution off" type_id="18"/>
+	<message comment="James Morrison is substituted on" minute="61" period="2" second="55" time="63" type="substitution on" type_id="19"/>
+	<message comment="Saido Berahino is substituted off" minute="61" period="2" second="40" time="63" type="substitution off" type_id="18"/>
+	<message comment="Nicolas Anelka is substituted on" minute="61" period="2" second="40" time="63" type="substitution on" type_id="19"/>
+	<message comment="Kenwyne Jones wins a corner (To the right)" minute="58" period="2" second="39" time="60" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones is substituted on" minute="56" period="2" second="52" time="58" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters is substituted off" minute="56" period="2" second="52" time="58" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino misses attempt (High to the right, Out of box, Right footed, From corner)" minute="56" period="2" second="9" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="55" period="2" second="44" time="57" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" minute="46" period="2" second="27" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Steven Nzonzi misses attempt (Out of box, Right footed, Open play)" minute="45" period="1" second="36" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="40" period="1" second="0" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ireland wins a corner (To the right)" minute="39" period="1" second="6" time="39" type="corner" type_id="6"/>
+	<message comment="Charlie Adam misses attempt (High, 6-yard box, Head, From corner)" minute="36" period="1" second="23" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross wins a corner (To the left)" minute="35" period="1" second="41" time="35" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="24" period="1" second="56" time="24" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="24" period="1" second="14" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" minute="24" period="1" second="14" time="24" type="save made" type_id="10"/>
+	<message comment="Boaz Myhill makes a save (Collected, Diving)" minute="18" period="1" second="21" time="18" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="18" period="1" second="21" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Saido Berahino misses attempt (To the left, 18-yard box, Head, From corner)" minute="17" period="1" second="35" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="17" period="1" second="19" time="17" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="17" period="1" second="14" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" minute="17" period="1" second="14" time="17" type="save made" type_id="10"/>
+	<message comment="Billy Jones has shot blocked (18-yard box, Head, Open play)" minute="12" period="1" second="36" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Wilkinson blocks a shot" minute="12" period="1" second="36" time="12" type="save made" type_id="10"/>
+	<message comment="Oussama Assaidi is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Stéphane Sessegnon misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="7" period="1" second="36" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="5" period="1" second="57" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Morgan Amalfitano is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="Steven Nzonzi wins a corner (To the right)" minute="2" period="1" second="4" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

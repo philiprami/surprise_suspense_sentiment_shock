@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2012-11-03" home_team_name="Wigan" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="17" time="98" type="end" type_id="30"/>
+	<message comment="Arouna Koné is caught offside" minute="94" period="2" time="97" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (Out of box, Left footed, Free kick)" minute="92" period="2" second="53" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Ali Al Habsi makes a save" minute="87" period="2" second="52" time="90" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="87" period="2" second="52" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Arouna Koné is caught offside" minute="87" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="85" period="2" second="52" time="88" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa misses attempt (Out of box, Left footed, Free kick)" minute="83" period="2" second="49" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Gary Caldwell blocks a shot" minute="80" period="2" second="30" time="83" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Set piece)" minute="80" period="2" second="30" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Gómez has shot blocked (18-yard box, Right footed, Open play)" minute="79" period="2" second="5" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="79" period="2" second="5" time="82" type="save made" type_id="10"/>
+	<message comment="Kyle Walker is substituted off" minute="78" period="2" second="38" time="81" type="substitution off" type_id="18"/>
+	<message comment="Tom Carroll is substituted on" minute="78" period="2" second="38" time="81" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" minute="75" period="2" second="7" time="78" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Franco Di Santo is substituted off" minute="69" period="2" second="21" time="72" type="substitution off" type_id="18"/>
+	<message comment="Jordi Gómez is substituted on" minute="69" period="2" second="21" time="72" type="substitution on" type_id="19"/>
+	<message comment="James McCarthy blocks a shot (Last line)" minute="67" period="2" second="52" time="70" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has shot blocked (6-yard box, Head, From corner)" minute="67" period="2" second="52" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen wins a corner (To the right)" minute="67" period="2" second="34" time="70" type="corner" type_id="6"/>
+	<message comment="Arouna Koné is caught offside" minute="66" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Ali Al Habsi makes a save (Standing, Parried safe)" minute="65" period="2" second="9" time="68" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (High to the left, Out of box, Left footed, Open play)" minute="65" period="2" second="9" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="64" period="2" second="34" time="67" type="corner" type_id="6"/>
+	<message comment="Emmerson Boyce blocks a shot" minute="64" period="2" second="30" time="67" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has shot blocked (Out of box, Right footed, Free kick)" minute="64" period="2" second="30" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen wins a corner (To the left)" minute="58" period="2" second="29" time="61" type="corner" type_id="6"/>
+	<message comment="Emmerson Boyce blocks a shot" minute="58" period="2" second="28" time="61" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has shot blocked (18-yard box, Left footed, Set piece)" minute="58" period="2" second="28" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe is substituted off" minute="57" period="2" second="3" time="60" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="57" period="2" second="3" time="60" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Ben Watson scores  (Low to the right, 6-yard box, Big Chance, Left footed, From corner)" minute="55" period="2" second="3" time="58" type="goal scored" type_id="16"/>
+	<message comment="Franco Di Santo wins a corner (To the left)" minute="54" period="2" second="36" time="57" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa recieves a yellow card" minute="48" period="2" second="49" time="51" type="card received" type_id="17"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="48" period="2" second="8" time="51" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="48" period="2" second="8" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Watson blocks a shot" minute="47" period="2" second="41" time="50" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="47" period="2" second="41" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey recieves a yellow card" minute="45" period="2" second="18" time="48" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="Aaron Lennon is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Ben Watson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="43" period="1" second="38" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Ben Watson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="39" period="1" second="35" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Jan Vertonghen misses attempt (High, 18-yard box, Head, From corner)" minute="37" period="1" second="45" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker wins a corner (To the right)" minute="37" period="1" second="32" time="37" type="corner" type_id="6"/>
+	<message comment="Shaun Maloney has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="33" period="1" second="30" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Parried into danger)" minute="33" period="1" second="30" time="33" type="save made" type_id="10"/>
+	<message comment="Arouna Koné wins a corner (To the left)" minute="27" period="1" second="50" time="27" type="corner" type_id="6"/>
+	<message comment="Arouna Koné has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="27" period="1" second="48" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Parried into danger)" minute="27" period="1" second="48" time="27" type="save made" type_id="10"/>
+	<message comment="Sandro is substituted off" minute="22" period="1" second="50" time="22" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="22" period="1" second="50" time="22" type="substitution on" type_id="19"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="21" period="1" second="12" time="21" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has attempt saved (Low to the right, Out of box, Right footed, From corner)" minute="21" period="1" second="12" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen wins a corner (To the left)" minute="20" period="1" second="33" time="20" type="corner" type_id="6"/>
+	<message comment="Gareth Bale is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="10" period="1" second="47" time="10" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey misses attempt (To the left, Out of box, Right footed, Open play)" minute="8" period="1" second="27" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="1" period="1" second="36" time="1" type="corner" type_id="6"/>
+	<message comment="Gary Caldwell blocks a shot" minute="1" period="1" second="34" time="1" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="34" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2013-10-06" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="2" time="96" type="end" type_id="30"/>
+	<message comment="Samuel Eto'o is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard wins a corner (To the left)" minute="88" period="2" second="43" time="90" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Diving, Parried safe)" minute="88" period="2" second="38" time="90" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="88" period="2" second="38" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Willian scores  (High to the left, 18-yard box, Left footed, Open play)" minute="85" period="2" second="42" time="87" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" minute="84" period="2" second="12" time="86" type="goal scored" type_id="16"/>
+	<message comment="Nathan Redmond wins a corner (To the left)" minute="83" period="2" second="10" time="85" type="corner" type_id="6"/>
+	<message comment="Michael Turner blocks a shot" minute="82" period="2" second="44" time="84" type="save made" type_id="10"/>
+	<message comment="Willian has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="44" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Redmond has attempt saved (Low to the right, 18-yard box, Right footed, Fast break)" minute="81" period="2" second="18" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="81" period="2" second="18" time="83" type="save made" type_id="10"/>
+	<message comment="Juan Mata is substituted off" minute="80" period="2" second="28" time="82" type="substitution off" type_id="18"/>
+	<message comment="Willian is substituted on" minute="80" period="2" second="28" time="82" type="substitution on" type_id="19"/>
+	<message comment="Robert Snodgrass is substituted off" minute="80" period="2" second="11" time="82" type="substitution off" type_id="18"/>
+	<message comment="Nathan Redmond is substituted on" minute="80" period="2" second="11" time="82" type="substitution on" type_id="19"/>
+	<message comment="Robert Snodgrass misses attempt (To the right, Out of box, Right footed, Open play)" minute="79" period="2" second="41" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="5" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Leroy Fer blocks a shot" minute="77" period="2" second="45" time="79" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has shot blocked (18-yard box, Right footed, Open play)" minute="77" period="2" second="45" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Standing, Parried into danger)" minute="77" period="2" second="36" time="79" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="77" period="2" second="36" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole is substituted off" minute="74" period="2" second="18" time="76" type="substitution off" type_id="18"/>
+	<message comment="Eden Hazard is substituted on" minute="74" period="2" second="18" time="76" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="73" period="2" second="23" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba is substituted off" minute="72" period="2" second="52" time="74" type="substitution off" type_id="18"/>
+	<message comment="Samuel Eto'o is substituted on" minute="72" period="2" second="52" time="74" type="substitution on" type_id="19"/>
+	<message comment="Ricky van Wolfswinkel is substituted off" minute="72" period="2" second="31" time="74" type="substitution off" type_id="18"/>
+	<message comment="Gary Hooper is substituted on" minute="72" period="2" second="31" time="74" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard wins a corner (To the left)" minute="69" period="2" second="39" time="71" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="69" period="2" second="36" time="71" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" minute="69" period="2" second="36" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Tettey recieves a yellow card" minute="68" period="2" second="53" time="70" type="card received" type_id="17"/>
+	<message comment="GOAL! Anthony Pilkington scores , Assisted by Ricky van Wolfswinkel (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="67" period="2" second="4" time="69" type="goal scored" type_id="16"/>
+	<message comment="Alexander Tettey misses attempt (Out of box, Right footed, Open play)" minute="65" period="2" second="13" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Oscar misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="62" period="2" second="52" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Oscar recieves a yellow card" minute="61" period="2" second="44" time="63" type="card received" type_id="17"/>
+	<message comment="Anthony Pilkington has shot blocked (18-yard box, Left footed, Open play)" minute="61" period="2" second="11" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="61" period="2" second="11" time="63" type="save made" type_id="10"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="60" period="2" second="8" time="62" type="corner" type_id="6"/>
+	<message comment="André Schürrle is caught offside" minute="59" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Sebastien Bassong is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard misses attempt (To the right, Out of box, Right footed, Open play)" minute="56" period="2" second="15" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="56" period="2" second="13" time="58" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, Open play)" minute="56" period="2" second="13" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Pilkington misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="55" period="2" second="18" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington misses attempt (To the left, Out of box, Right footed, Open play)" minute="52" period="2" second="39" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Russell Martin blocks a shot" minute="51" period="2" second="31" time="53" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="31" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" minute="48" period="2" second="1" time="50" type="corner" type_id="6"/>
+	<message comment="Michael Turner blocks a shot" minute="47" period="2" second="58" time="49" type="save made" type_id="10"/>
+	<message comment="Oscar has shot blocked (18-yard box, Right footed, Open play)" minute="47" period="2" second="58" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (To the right, 6-yard box, Right footed, Open play)" minute="45" period="2" second="58" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="Sebastien Bassong has attempt saved (High to the centre, 18-yard box, Left footed, From corner)" minute="46" period="1" second="3" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="46" period="1" second="3" time="46" type="save made" type_id="10"/>
+	<message comment="Leroy Fer wins a corner (To the right)" minute="45" period="1" second="40" time="45" type="corner" type_id="6"/>
+	<message comment="Leroy Fer has shot blocked (Out of box, Left footed, Open play)" minute="45" period="1" second="38" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="45" period="1" second="38" time="45" type="save made" type_id="10"/>
+	<message comment="David Luiz misses attempt (Out of box, Right footed, Open play)" minute="44" period="1" second="26" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" minute="43" period="1" second="42" time="43" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass misses attempt (High, Out of box, Left footed, Open play)" minute="42" period="1" second="5" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Tettey misses attempt (To the left, Out of box, Right footed, Open play)" minute="40" period="1" second="5" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass has shot blocked (18-yard box, Right footed, Open play)" minute="40" period="1" second="1" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires blocks a shot" minute="40" period="1" second="1" time="40" type="save made" type_id="10"/>
+	<message comment="Ricky van Wolfswinkel has shot blocked (18-yard box, Head, Open play)" minute="34" period="1" second="35" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="34" period="1" second="35" time="34" type="save made" type_id="10"/>
+	<message comment="Demba Ba misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="32" period="1" second="56" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="27" period="1" second="57" time="27" type="corner" type_id="6"/>
+	<message comment="André Schürrle misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="23" period="1" second="50" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Ricky van Wolfswinkel wins a corner (To the right)" minute="22" period="1" second="4" time="22" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save" minute="22" period="1" second="3" time="22" type="save made" type_id="10"/>
+	<message comment="Jonny Howson misses attempt (To the left, 6-yard box, Right footed, Open play)" minute="22" period="1" second="2" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Open play)" minute="18" period="1" second="23" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastien Bassong blocks a shot (Last line)" minute="18" period="1" second="23" time="18" type="save made" type_id="10"/>
+	<message comment="John Ruddy makes a save (Parried safe, Diving)" minute="13" period="1" second="47" time="13" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the right, 18-yard box, Left footed, From corner)" minute="13" period="1" second="47" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="13" period="1" second="13" time="13" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Diving)" minute="13" period="1" second="11" time="13" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="13" period="1" second="11" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Oscar scores , Assisted by Demba Ba (Low to the right, 18-yard box, Right footed, Open play)" minute="3" period="1" second="34" time="3" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

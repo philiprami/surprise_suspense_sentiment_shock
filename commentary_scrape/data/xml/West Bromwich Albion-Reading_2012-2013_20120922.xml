@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2012-09-22" home_team_name="Reading" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="7" time="96" type="end" type_id="30"/>
+	<message comment="Alex McCarthy makes a save (Collected)" minute="90" period="2" second="1" time="92" type="save made" type_id="10"/>
+	<message comment="Markus Rosenberg has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="90" period="2" second="1" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Noel Hunt has shot blocked (18-yard box, Head, Open play)" minute="89" period="2" second="6" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="89" period="2" second="6" time="91" type="save made" type_id="10"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="88" period="2" second="54" time="90" type="card received" type_id="17"/>
+	<message comment="Hal Robson-Kanu misses attempt (6-yard box, Head, Open play)" minute="82" period="2" second="38" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Chris Gunter is substituted off" minute="79" period="2" second="47" time="81" type="substitution off" type_id="18"/>
+	<message comment="Hal Robson-Kanu is substituted on" minute="79" period="2" second="47" time="81" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is substituted off" minute="77" period="2" second="52" time="79" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="77" period="2" second="52" time="79" type="substitution on" type_id="19"/>
+	<message comment="Adam Le Fondre has shot blocked (18-yard box, Left footed, Open play)" minute="72" period="2" second="30" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="72" period="2" second="30" time="74" type="save made" type_id="10"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Shane Long (Low to the centre, 18-yard box, Left footed, Open play)" minute="70" period="2" second="41" time="72" type="goal scored" type_id="16"/>
+	<message comment="Zoltán Gera is substituted off" minute="69" period="2" second="45" time="71" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans is substituted on" minute="69" period="2" second="45" time="71" type="substitution on" type_id="19"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="68" period="2" second="33" time="70" type="substitution off" type_id="18"/>
+	<message comment="Noel Hunt is substituted on" minute="68" period="2" second="33" time="70" type="substitution on" type_id="19"/>
+	<message comment="Adam Le Fondre wins a corner (To the left)" minute="65" period="2" second="34" time="67" type="corner" type_id="6"/>
+	<message comment="James Morrison is substituted off" minute="65" period="2" second="14" time="67" type="substitution off" type_id="18"/>
+	<message comment="Shane Long is substituted on" minute="65" period="2" second="14" time="67" type="substitution on" type_id="19"/>
+	<message comment="Nicky Shorey misses attempt (Out of box, Left footed, Free kick)" minute="62" period="2" second="1" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="59" period="2" second="31" time="61" type="corner" type_id="6"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="58" period="2" second="54" time="60" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu misses attempt (To the right, Out of box, Right footed, Open play)" minute="56" period="2" second="47" time="58" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="55" period="2" second="20" time="57" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Diving, Parried safe)" minute="55" period="2" second="18" time="57" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="55" period="2" second="18" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="54" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku is caught offside" minute="52" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Jonas Olsson misses attempt (High, 18-yard box, Head, From corner)" minute="51" period="2" second="3" time="53" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="50" period="2" second="42" time="52" type="corner" type_id="6"/>
+	<message comment="Kaspars Gorkss blocks a shot" minute="46" period="2" second="24" time="48" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera has shot blocked (18-yard box, Left footed, Open play)" minute="46" period="2" second="24" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku misses attempt (To the right, 6-yard box, Head, Open play)" minute="46" period="2" second="18" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Jonas Olsson hits the woodwork (To the left, 18-yard box, Head, From corner)" minute="44" period="1" second="32" time="44" type="woodwork hit" type_id="14"/>
+	<message comment="Romelu Lukaku wins a corner (To the right)" minute="44" period="1" second="2" time="44" type="corner" type_id="6"/>
+	<message comment="Alex Pearce misses attempt (High to the left, 6-yard box, Head, Set piece)" minute="42" period="1" second="26" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Danny Guthrie misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="39" period="1" second="25" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Adam Le Fondre misses attempt (To the right, Out of box, Right footed, Open play)" minute="33" period="1" second="23" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="31" period="1" second="55" time="31" type="corner" type_id="6"/>
+	<message comment="James Morrison misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="28" period="1" second="43" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="27" period="1" second="31" time="27" type="corner" type_id="6"/>
+	<message comment="Mikele Leigertwood has shot blocked (Out of box, Right footed, Open play)" minute="25" period="1" second="25" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" minute="25" period="1" second="25" time="25" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera misses attempt (High, Out of box, Right footed, Open play)" minute="22" period="1" second="15" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Kaspars Gorkss misses attempt (To the right, Out of box, Left footed, Open play)" minute="18" period="1" second="27" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Garath McCleary has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="12" period="1" second="12" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="12" period="1" second="12" time="12" type="save made" type_id="10"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="8" period="1" second="13" time="8" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Diving, Parried safe)" minute="8" period="1" second="12" time="8" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="8" period="1" second="12" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="4" period="1" second="16" time="4" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

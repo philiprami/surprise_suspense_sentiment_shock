@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2010-12-28" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="38" time="96" type="end" type_id="30"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the left)" minute="94" period="2" second="11" time="96" type="corner" type_id="6"/>
+	<message comment="Mark Bunn makes a save (Diving)" minute="93" period="2" second="8" time="95" type="save made" type_id="10"/>
+	<message comment="Giles Barnes has attempt saved (Low to the left, 18-yard box, Head, From corner)" minute="93" period="2" second="8" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Cox wins a corner (To the left)" minute="92" period="2" second="48" time="94" type="corner" type_id="6"/>
+	<message comment="Grant Hanley blocks a shot" minute="92" period="2" second="44" time="94" type="save made" type_id="10"/>
+	<message comment="Simon Cox has shot blocked (Out of box, Right footed, Fast break)" minute="92" period="2" second="44" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="90" period="2" second="3" time="92" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, Open play)" minute="90" period="2" second="3" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas recieves a red card" minute="86" period="2" second="49" time="88" type="card received" type_id="17"/>
+	<message comment="Peter Odemwingie misses attempt (To the left, 18-yard box, Big Chance, Head, Open play)" minute="85" period="2" second="53" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="85" period="2" second="46" time="87" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Right footed, Open play)" minute="85" period="2" second="46" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="85" period="2" second="8" time="87" type="save made" type_id="10"/>
+	<message comment="Gabriel Tamas has shot blocked (Out of box, Right footed, Open play)" minute="85" period="2" second="8" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Somen Tchoyi misses attempt (Out of box, Left footed, Open play)" minute="82" period="2" second="19" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Benjani is substituted on" minute="81" period="2" second="39" time="83" type="substitution on" type_id="19"/>
+	<message comment="El Hadji Diouf is substituted off" minute="81" period="2" second="39" time="83" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans misses attempt (High, Out of box, Right footed, Set piece)" minute="80" period="2" second="38" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scharner hits the woodwork (High, 18-yard box, Big Chance, Head, Set piece)" minute="80" period="2" second="27" time="82" type="woodwork hit" type_id="14"/>
+	<message comment="Peter Odemwingie misses attempt (High, Out of box, Left footed, Open play)" minute="78" period="2" second="58" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Mame Biram Diouf has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="78" period="2" second="24" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Carson makes a save (Diving)" minute="78" period="2" second="24" time="80" type="save made" type_id="10"/>
+	<message comment="Mark Bunn recieves a yellow card" minute="76" period="2" second="28" time="78" type="card received" type_id="17"/>
+	<message comment="Simon Cox misses attempt (To the left, Out of box, Right footed, Open play)" minute="75" period="2" second="15" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Gonzalo Jara is substituted off" minute="73" period="2" second="42" time="75" type="substitution off" type_id="18"/>
+	<message comment="Giles Barnes is substituted on" minute="73" period="2" second="42" time="75" type="substitution on" type_id="19"/>
+	<message comment="Simon Cox misses attempt (6-yard box, Big Chance, Head, Open play)" minute="73" period="2" second="2" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Mark Bunn makes a save (Diving, Parried into danger)" minute="73" period="2" second="0" time="75" type="save made" type_id="10"/>
+	<message comment="Simon Cox has attempt saved (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="73" period="2" second="0" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="El Hadji Diouf recieves a yellow card" minute="70" period="2" second="7" time="72" type="card received" type_id="17"/>
+	<message comment="Grant Hanley blocks a shot" minute="68" period="2" second="12" time="70" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Left footed, Open play)" minute="68" period="2" second="12" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison is substituted off" minute="65" period="2" second="17" time="67" type="substitution off" type_id="18"/>
+	<message comment="Simon Cox is substituted on" minute="65" period="2" second="17" time="67" type="substitution on" type_id="19"/>
+	<message comment="Nikola Kalinic recieves a red card" minute="63" period="2" second="20" time="65" type="card received" type_id="17"/>
+	<message comment="GOAL! Mame Biram Diouf scores , Assisted by El Hadji Diouf (Low to the centre, 6-yard box, Big Chance, Head, From corner)" minute="61" period="2" second="37" time="63" type="goal scored" type_id="16"/>
+	<message comment="Mame Biram Diouf wins a corner (To the left)" minute="61" period="2" second="11" time="63" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Nicky Shorey wins a corner (To the left)" minute="59" period="2" second="3" time="61" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans misses attempt (High, Out of box, Right footed, Free kick)" minute="57" period="2" second="6" time="59" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Nikola Kalinic scores , Assisted by Ryan Nelsen (High to the left, 6-yard box, Big Chance, Head, From corner)" minute="52" period="2" second="54" time="54" type="goal scored" type_id="16"/>
+	<message comment="El Hadji Diouf wins a corner (To the left)" minute="52" period="2" second="33" time="54" type="corner" type_id="6"/>
+	<message comment="El Hadji Diouf wins a corner (To the left)" minute="52" period="2" second="18" time="54" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado is substituted off" minute="51" period="2" second="39" time="53" type="substitution off" type_id="18"/>
+	<message comment="David Junior Hoilett is substituted on" minute="51" period="2" second="39" time="53" type="substitution on" type_id="19"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="51" period="2" second="17" time="53" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="46" period="2" second="25" time="48" type="corner" type_id="6"/>
+	<message comment="Mark Bunn makes a save (Parried safe, Diving)" minute="46" period="2" second="20" time="48" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has attempt saved (High to the left, 18-yard box, Left footed, Fast break)" minute="46" period="2" second="20" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Mark Bunn is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="45" time="46" type="end" type_id="30"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="46" period="1" second="18" time="46" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado recieves a yellow card" minute="43" period="1" second="57" time="43" type="card received" type_id="17"/>
+	<message comment="David Dunn blocks a shot" minute="42" period="1" second="22" time="42" type="save made" type_id="10"/>
+	<message comment="Nicky Shorey has shot blocked (Out of box, Left footed, Free kick)" minute="42" period="1" second="22" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Somen Tchoyi is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="39" period="1" second="16" time="39" type="corner" type_id="6"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="33" period="1" second="35" time="33" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="31" period="1" second="35" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="29" period="1" second="54" time="29" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Gonzalo Jara recieves a yellow card" minute="18" period="1" second="41" time="18" type="card received" type_id="17"/>
+	<message comment="GOAL! Jerome Thomas scores , Assisted by Somen Tchoyi (High to the left, 6-yard box, Left footed, Open play)" minute="16" period="1" second="26" time="16" type="goal scored" type_id="16"/>
+	<message comment="James Morrison misses attempt (Out of box, Right footed, Open play)" minute="15" period="1" second="39" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Nikola Kalinic misses attempt (18-yard box, Right footed, Open play)" minute="14" period="1" second="40" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Nicky Shorey has shot blocked (Out of box, Left footed, Open play)" minute="13" period="1" second="32" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="David Dunn misses attempt (High to the right, Out of box, Right footed, Open play)" minute="12" period="1" second="46" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Grant Hanley blocks a shot" minute="9" period="1" second="53" time="9" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Right footed, Open play)" minute="9" period="1" second="53" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Graham Dorrans wins a corner (To the left)" minute="8" period="1" second="54" time="8" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="8" period="1" second="49" time="8" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="8" period="1" second="49" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas misses attempt (To the left, Out of box, Right footed, Open play)" minute="6" period="1" second="33" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Nikola Kalinic scores , Assisted by Morten Gamst Pedersen (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="2" period="1" second="24" time="2" type="goal scored" type_id="16"/>
+	<message comment="Ryan Nelsen misses attempt (To the right, 6-yard box, Head, Set piece)" minute="1" period="1" second="34" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

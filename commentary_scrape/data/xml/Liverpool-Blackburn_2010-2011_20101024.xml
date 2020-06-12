@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2010-10-24" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="56" time="96" type="end" type_id="30"/>
+	<message comment="Vince Grella recieves a yellow card" minute="93" period="2" second="6" time="96" type="card received" type_id="17"/>
+	<message comment="Raul Meireles is substituted off" minute="88" period="2" second="39" time="91" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="88" period="2" second="39" time="91" type="substitution on" type_id="19"/>
+	<message comment="Morten Gamst Pedersen blocks a shot" minute="85" period="2" second="3" time="88" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (18-yard box, Right footed, From corner)" minute="85" period="2" second="3" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher wins a corner (To the left)" minute="84" period="2" second="29" time="87" type="corner" type_id="6"/>
+	<message comment="Raul Meireles recieves a yellow card" minute="81" period="2" second="55" time="84" type="card received" type_id="17"/>
+	<message comment="Martin Olsson misses attempt (To the left, Out of box, Right footed, Throw-in)" minute="80" period="2" second="29" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Joe Cole is substituted off" minute="78" period="2" second="20" time="81" type="substitution off" type_id="18"/>
+	<message comment="David N'Gog is substituted on" minute="78" period="2" second="20" time="81" type="substitution on" type_id="19"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="75" period="2" second="41" time="78" type="corner" type_id="6"/>
+	<message comment="Lucas Leiva blocks a shot" minute="69" period="2" second="29" time="72" type="save made" type_id="10"/>
+	<message comment="Míchel Salgado has shot blocked (Out of box, Right footed, Open play)" minute="69" period="2" second="29" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Morten Gamst Pedersen misses attempt (Out of box, Left footed, Open play)" minute="68" period="2" second="0" time="71" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn is substituted off" minute="67" period="2" second="2" time="70" type="substitution off" type_id="18"/>
+	<message comment="David Junior Hoilett is substituted on" minute="67" period="2" second="2" time="70" type="substitution on" type_id="19"/>
+	<message comment="Maxi Rodríguez recieves a yellow card" minute="66" period="2" second="45" time="69" type="card received" type_id="17"/>
+	<message comment="Phil Jones blocks a shot" minute="65" period="2" second="50" time="68" type="save made" type_id="10"/>
+	<message comment="Joe Cole has shot blocked (Out of box, Right footed, Open play)" minute="65" period="2" second="50" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Sotirios Kyrgiakos misses attempt (18-yard box, Head, From corner)" minute="62" period="2" second="38" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="62" period="2" second="12" time="65" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the right)" minute="58" period="2" second="15" time="61" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (Out of box, Left footed, Free kick)" minute="58" period="2" second="5" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles blocks a shot" minute="58" period="2" second="5" time="61" type="save made" type_id="10"/>
+	<message comment="Phil Jones wins a corner (To the left)" minute="55" period="2" second="38" time="58" type="corner" type_id="6"/>
+	<message comment="Phil Jones has shot blocked (18-yard box, Head, Set piece)" minute="55" period="2" second="35" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Sotirios Kyrgiakos blocks a shot" minute="55" period="2" second="35" time="58" type="save made" type_id="10"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Joe Cole (Low to the left, 6-yard box, Big Chance, Right footed, From corner)" minute="52" period="2" second="56" time="55" type="goal scored" type_id="16"/>
+	<message comment="Paul Konchesky wins a corner (To the left)" minute="52" period="2" second="21" time="55" type="corner" type_id="6"/>
+	<message comment="Jamie Carragher scores an OWN GOAL!  (Low to the left, 6-yard box, Head, Open play)" minute="50" period="2" second="53" time="53" type="goal scored" type_id="16"/>
+	<message comment="El Hadji Diouf has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="50" period="2" second="51" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Konchesky blocks a shot (Last line)" minute="50" period="2" second="51" time="53" type="save made" type_id="10"/>
+	<message comment="Paul Robinson makes a save" minute="50" period="2" second="8" time="53" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, From corner)" minute="50" period="2" second="8" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Parried safe)" minute="50" period="2" second="4" time="53" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has attempt saved (High to the centre, 18-yard box, Big Chance, Head, From corner)" minute="50" period="2" second="4" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez wins a corner (To the right)" minute="49" period="2" second="52" time="52" type="corner" type_id="6"/>
+	<message comment="GOAL! Sotirios Kyrgiakos scores , Assisted by Steven Gerrard (High to the left, 18-yard box, Big Chance, Head, From corner)" minute="47" period="2" second="24" time="50" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="47" period="2" second="1" time="50" type="corner" type_id="6"/>
+	<message comment="Nikola Kalinic is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Benjani is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="7" time="47" type="end" type_id="30"/>
+	<message comment="Maxi Rodríguez misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="1" second="8" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save" minute="42" period="1" second="27" time="42" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="42" period="1" second="27" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Lucas Leiva misses attempt (6-yard box, Big Chance, Head, From corner)" minute="40" period="1" second="34" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="39" period="1" second="35" time="39" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado blocks a shot" minute="39" period="1" second="29" time="39" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (Out of box, Right footed, From corner)" minute="39" period="1" second="29" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="39" period="1" second="2" time="39" type="corner" type_id="6"/>
+	<message comment="Gaël Givet blocks a shot" minute="39" period="1" second="0" time="39" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="0" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson blocks a shot" minute="36" period="1" second="34" time="36" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (Out of box, Left footed, From corner)" minute="36" period="1" second="34" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher wins a corner (To the right)" minute="36" period="1" second="8" time="36" type="corner" type_id="6"/>
+	<message comment="Steven Nzonzi is substituted off" minute="32" period="1" second="51" time="32" type="substitution off" type_id="18"/>
+	<message comment="Vince Grella is substituted on" minute="32" period="1" second="51" time="32" type="substitution on" type_id="19"/>
+	<message comment="Maxi Rodríguez wins a corner (To the right)" minute="32" period="1" second="42" time="32" type="corner" type_id="6"/>
+	<message comment="El Hadji Diouf is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Martin Olsson recieves a yellow card" minute="27" period="1" second="46" time="27" type="card received" type_id="17"/>
+	<message comment="Gaël Givet recieves a yellow card" minute="27" period="1" second="34" time="27" type="card received" type_id="17"/>
+	<message comment="Raul Meireles wins a corner (To the left)" minute="26" period="1" second="37" time="26" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="25" period="1" second="0" time="25" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="24" period="1" second="56" time="24" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (High to the right, 18-yard box, Right footed, Fast break)" minute="24" period="1" second="56" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="David Dunn wins a corner (To the right)" minute="24" period="1" second="14" time="24" type="corner" type_id="6"/>
+	<message comment="Joe Cole wins a corner (To the left)" minute="23" period="1" second="1" time="23" type="corner" type_id="6"/>
+	<message comment="Fernando Torres misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="20" period="1" second="49" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Maxi Rodríguez misses attempt (High, 18-yard box, Right footed, From corner)" minute="17" period="1" second="25" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Sotirios Kyrgiakos wins a corner (To the left)" minute="16" period="1" second="40" time="16" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe)" minute="16" period="1" second="37" time="16" type="save made" type_id="10"/>
+	<message comment="Sotirios Kyrgiakos has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="16" period="1" second="37" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez wins a corner (To the right)" minute="16" period="1" second="12" time="16" type="corner" type_id="6"/>
+	<message comment="Fernando Torres misses attempt (To the left, 18-yard box, Head, Open play)" minute="13" period="1" second="0" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="10" period="1" second="2" time="10" type="corner" type_id="6"/>
+	<message comment="Gaël Givet misses attempt (High, 18-yard box, Left footed, Set piece)" minute="8" period="1" second="58" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Raul Meireles misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="7" period="1" second="13" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save (Feet, Parried into danger)" minute="7" period="1" second="10" time="7" type="save made" type_id="10"/>
+	<message comment="Joe Cole has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="7" period="1" second="10" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

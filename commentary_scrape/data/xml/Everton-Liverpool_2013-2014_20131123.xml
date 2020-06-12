@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2013-11-23" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Gareth Barry recieves a yellow card" minute="94" period="2" second="25" time="98" type="card received" type_id="17"/>
+	<message comment="Second half ends" minute="94" period="2" second="22" time="98" type="end" type_id="30"/>
+	<message comment="Glen Johnson blocks a shot" minute="94" period="2" second="18" time="98" type="save made" type_id="10"/>
+	<message comment="James McCarthy has shot blocked (18-yard box, Left footed, Open play)" minute="94" period="2" second="18" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" minute="93" period="2" second="24" time="97" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="93" period="2" second="22" time="97" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="93" period="2" second="22" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="92" period="2" second="55" time="96" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has shot blocked (18-yard box, Right footed, From corner)" minute="92" period="2" second="55" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="92" period="2" second="17" time="96" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="92" period="2" second="13" time="96" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="92" period="2" second="13" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge is caught offside" minute="92" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Victor Moses misses attempt (High, 6-yard box, Big Chance, Head, Set piece)" minute="91" period="2" second="0" time="95" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Steven Gerrard (High to the left, 18-yard box, Head, Set piece)" minute="88" period="2" second="21" time="92" type="goal scored" type_id="16"/>
+	<message comment="Sylvain Distin recieves a yellow card" minute="88" period="2" second="10" time="92" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas is substituted off" minute="87" period="2" second="38" time="91" type="substitution off" type_id="18"/>
+	<message comment="Leon Osman is substituted on" minute="87" period="2" second="38" time="91" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save" minute="85" period="2" second="23" time="89" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="85" period="2" second="23" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar is substituted off" minute="82" period="2" second="51" time="86" type="substitution off" type_id="18"/>
+	<message comment="John Stones is substituted on" minute="82" period="2" second="51" time="86" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Kevin Mirallas (High to the left, 18-yard box, Head, From corner)" minute="81" period="2" second="44" time="85" type="goal scored" type_id="16"/>
+	<message comment="Gerard Deulofeu wins a corner (To the left)" minute="81" period="2" second="25" time="85" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the left, 6-yard box, Right footed, Throw-in)" minute="81" period="2" second="24" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried safe)" minute="81" period="2" second="24" time="85" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="81" period="2" second="10" time="85" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the left, 18-yard box, Left footed, Fast break)" minute="81" period="2" second="10" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="80" period="2" second="2" time="84" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Right footed, Open play)" minute="80" period="2" second="2" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Lucas Leiva is substituted off" minute="78" period="2" second="44" time="82" type="substitution off" type_id="18"/>
+	<message comment="Daniel Sturridge is substituted on" minute="78" period="2" second="44" time="82" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="78" period="2" second="27" time="82" type="card received" type_id="17"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="78" period="2" second="0" time="82" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe, Standing)" minute="77" period="2" second="59" time="81" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="77" period="2" second="59" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="76" period="2" second="53" time="80" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard misses attempt (To the right, Out of box, Left footed, Open play)" minute="73" period="2" second="30" time="77" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by James McCarthy (Low to the right, 18-yard box, Right footed, Open play)" minute="71" period="2" second="12" time="75" type="goal scored" type_id="16"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="70" period="2" second="58" time="74" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="70" period="2" second="58" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried safe)" minute="69" period="2" second="23" time="73" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="69" period="2" second="23" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Allen is substituted off" minute="67" period="2" second="50" time="71" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="67" period="2" second="50" time="71" type="substitution on" type_id="19"/>
+	<message comment="Ross Barkley misses attempt (High to the right, Out of box, Right footed, Open play)" minute="67" period="2" second="36" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Lucas Leiva recieves a yellow card" minute="66" period="2" second="51" time="70" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="63" period="2" second="9" time="67" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="63" period="2" second="9" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy misses attempt (High to the right, Out of box, Right footed, Open play)" minute="61" period="2" second="37" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Joe Allen recieves a yellow card" minute="61" period="2" second="5" time="65" type="card received" type_id="17"/>
+	<message comment="Joe Allen misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="59" period="2" second="3" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman wins a corner (To the left)" minute="57" period="2" second="11" time="61" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="53" period="2" second="15" time="57" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, Out of box, Big Chance, Right footed, Open play)" minute="53" period="2" second="15" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson is caught offside" minute="53" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Gareth Barry is caught offside" minute="52" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Leighton Baines is substituted off" minute="49" period="2" second="39" time="53" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="49" period="2" second="39" time="53" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="5" time="48" type="end" type_id="30"/>
+	<message comment="Leighton Baines misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="47" period="1" second="10" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel wins a corner (To the left)" minute="45" period="1" second="48" time="45" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho wins a corner (To the left)" minute="45" period="1" second="18" time="45" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="43" period="1" second="56" time="43" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas recieves a yellow card" minute="35" period="1" second="47" time="35" type="card received" type_id="17"/>
+	<message comment="Ross Barkley recieves a yellow card" minute="30" period="1" second="38" time="30" type="card received" type_id="17"/>
+	<message comment="Ross Barkley misses attempt (High, Out of box, Left footed, Open play)" minute="28" period="1" second="6" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas misses attempt (Out of box, Right footed, Open play)" minute="25" period="1" second="55" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="22" period="1" second="27" time="22" type="corner" type_id="6"/>
+	<message comment="Ross Barkley wins a corner (To the right)" minute="20" period="1" second="51" time="20" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="20" period="1" second="48" time="20" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="20" period="1" second="48" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Luis Suárez scores  (Low to the right, Out of box, Right footed, Free kick)" minute="18" period="1" second="27" time="18" type="goal scored" type_id="16"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="10" period="1" second="20" time="10" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="GOAL! Kevin Mirallas scores  (High to the right, 6-yard box, Big Chance, Right footed, Set piece)" minute="7" period="1" second="41" time="7" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Philippe Coutinho scores  (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="4" period="1" second="18" time="4" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Head, From corner)" minute="4" period="1" second="17" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines blocks a shot" minute="4" period="1" second="17" time="4" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="3" period="1" second="42" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

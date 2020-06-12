@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle" competition="English Premier League" game_date="2014-01-12 14:05" game_id_2="27123755" game_id_4="112356038" home_team_name="Man City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-12 15:42:48" minute="97" period="2" second="10" team="Man City" time="100" type="end" type_id="30"/>
+	<message comment="GOAL! Álvaro Negredo scores  (Low to the right, 6-yard box, Big Chance, Left footed, Fast break)" last_modified="2014-01-12 15:40:03" minute="94" period="2" second="25" team="Newcastle" time="97" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Other body part)" last_modified="2014-01-12 15:40:02" minute="94" period="2" second="24" team="Man City" time="97" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" last_modified="2014-01-12 15:40:02" minute="94" period="2" second="24" team="Newcastle" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov blocks a shot" last_modified="2014-01-12 15:38:06" minute="92" period="2" second="28" team="Newcastle" time="95" type="save made" type_id="10"/>
+	<message comment="Steven Taylor has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2014-01-12 15:38:06" minute="92" period="2" second="28" team="Man City" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" last_modified="2014-01-12 15:36:38" minute="91" period="2" team="Man City" time="94" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy misses attempt (18-yard box, Head, From corner)" last_modified="2014-01-12 15:34:58" minute="89" period="2" second="20" team="Man City" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Massadio Haidara wins a corner (To the left)" last_modified="2014-01-12 15:34:33" minute="88" period="2" second="55" team="Man City" time="91" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-01-12 15:34:07" minute="88" period="2" second="29" team="Newcastle" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" last_modified="2014-01-12 15:34:07" minute="88" period="2" second="29" team="Man City" time="91" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save" last_modified="2014-01-12 15:32:45" minute="87" period="2" second="7" team="Newcastle" time="90" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-12 15:32:45" minute="87" period="2" second="7" team="Man City" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, 6-yard box, Left footed, Set piece)" last_modified="2014-01-12 15:31:35" minute="85" period="2" second="57" team="Newcastle" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Fernandinho hits the woodwork (High, 18-yard box, Head, Set piece)" last_modified="2014-01-12 15:31:32" minute="85" period="2" second="54" team="Newcastle" time="88" type="woodwork hit" type_id="14"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Left footed, Set piece)" last_modified="2014-01-12 15:31:27" minute="85" period="2" second="49" team="Newcastle" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" last_modified="2014-01-12 15:31:27" minute="85" period="2" second="49" team="Man City" time="88" type="save made" type_id="10"/>
+	<message comment="James Milner is caught offside" last_modified="2014-01-12 15:29:38" minute="84" period="2" team="Newcastle" time="87" type="offside" type_id="10000"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2014-01-12 15:29:06" minute="83" period="2" second="28" team="Newcastle" time="86" type="corner" type_id="6"/>
+	<message comment="Mapou Yanga-Mbiwa is substituted off" last_modified="2014-01-12 15:27:13" minute="81" period="2" second="35" team="Man City" time="84" type="substitution off" type_id="18"/>
+	<message comment="Massadio Haidara is substituted on" last_modified="2014-01-12 15:27:13" minute="81" period="2" second="35" team="Man City" time="84" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran is substituted off" last_modified="2014-01-12 15:27:08" minute="81" period="2" second="30" team="Man City" time="84" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" last_modified="2014-01-12 15:27:08" minute="81" period="2" second="30" team="Man City" time="84" type="substitution on" type_id="19"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2014-01-12 15:26:10" minute="80" period="2" second="32" team="Newcastle" time="83" type="corner" type_id="6"/>
+	<message comment="Samir Nasri is substituted off" last_modified="2014-01-12 15:24:15" minute="78" period="2" second="37" team="Newcastle" time="81" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" last_modified="2014-01-12 15:24:15" minute="78" period="2" second="37" team="Newcastle" time="81" type="substitution on" type_id="19"/>
+	<message comment="Mapou Yanga-Mbiwa recieves a yellow card" last_modified="2014-01-12 15:19:38" minute="74" period="2" second="0" team="Man City" time="77" type="card received" type_id="17"/>
+	<message comment="Vurnon Anita is substituted off" last_modified="2014-01-12 15:18:13" minute="72" period="2" second="35" team="Man City" time="75" type="substitution off" type_id="18"/>
+	<message comment="Papiss Demba Cissé is substituted on" last_modified="2014-01-12 15:18:13" minute="72" period="2" second="35" team="Man City" time="75" type="substitution on" type_id="19"/>
+	<message comment="Davide Santon misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-01-12 15:17:52" minute="72" period="2" second="14" team="Man City" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-12 15:16:59" minute="71" period="2" second="21" team="Newcastle" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing)" last_modified="2014-01-12 15:16:59" minute="71" period="2" second="21" team="Man City" time="74" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" last_modified="2014-01-12 15:14:36" minute="68" period="2" second="58" team="Newcastle" time="71" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-01-12 15:14:36" minute="68" period="2" second="58" team="Man City" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-12 15:13:16" minute="67" period="2" second="38" team="Man City" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2014-01-12 15:09:46" minute="64" period="2" second="8" team="Newcastle" time="67" type="corner" type_id="6"/>
+	<message comment="Samir Nasri is caught offside" last_modified="2014-01-12 15:06:38" minute="61" period="2" team="Newcastle" time="64" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Right footed, Set piece)" last_modified="2014-01-12 15:06:20" minute="60" period="2" second="42" team="Man City" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré is substituted off" last_modified="2014-01-12 15:06:03" minute="60" period="2" second="25" team="Newcastle" time="63" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" last_modified="2014-01-12 15:06:03" minute="60" period="2" second="25" team="Newcastle" time="63" type="substitution on" type_id="19"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" last_modified="2014-01-12 15:04:06" minute="58" period="2" second="28" team="Man City" time="61" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" last_modified="2014-01-12 15:04:04" minute="58" period="2" second="26" team="Newcastle" time="61" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-01-12 15:04:04" minute="58" period="2" second="26" team="Man City" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Set piece)" last_modified="2014-01-12 15:00:31" minute="54" period="2" second="53" team="Newcastle" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Standing)" last_modified="2014-01-12 15:00:31" minute="54" period="2" second="53" team="Man City" time="57" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, 18-yard box, Left footed, Open play)" last_modified="2014-01-12 14:59:03" minute="53" period="2" second="25" team="Newcastle" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" last_modified="2014-01-12 14:58:26" minute="52" period="2" second="48" team="Newcastle" time="55" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko is substituted off" last_modified="2014-01-12 14:57:23" minute="51" period="2" second="45" team="Newcastle" time="54" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" last_modified="2014-01-12 14:57:23" minute="51" period="2" second="45" team="Newcastle" time="54" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté recieves a yellow card" last_modified="2014-01-12 14:53:43" minute="48" period="2" second="5" team="Man City" time="51" type="card received" type_id="17"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2014-01-12 14:53:23" minute="47" period="2" second="45" team="Man City" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Joe Hart makes a save (Diving)" last_modified="2014-01-12 14:52:38" minute="47" period="2" second="0" team="Newcastle" time="50" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-01-12 14:52:38" minute="47" period="2" second="0" team="Man City" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2014-01-12 14:50:38" minute="45" period="2" second="0" team="Man City" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-12 14:52:48" minute="47" period="1" second="10" team="Man City" time="47" type="end" type_id="30"/>
+	<message comment="Samir Nasri is caught offside" last_modified="2014-01-12 14:50:38" minute="45" period="1" team="Newcastle" time="45" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" last_modified="2014-01-12 14:50:09" minute="44" period="1" second="31" team="Newcastle" time="44" type="card received" type_id="17"/>
+	<message comment="Fernandinho recieves a yellow card" last_modified="2014-01-12 14:44:51" minute="39" period="1" second="13" team="Newcastle" time="39" type="card received" type_id="17"/>
+	<message comment="Yohan Cabaye recieves a yellow card" last_modified="2014-01-12 14:43:08" minute="37" period="1" second="30" team="Man City" time="37" type="card received" type_id="17"/>
+	<message comment="Moussa Sissoko recieves a yellow card" last_modified="2014-01-12 14:42:18" minute="36" period="1" second="40" team="Man City" time="36" type="card received" type_id="17"/>
+	<message comment="David Silva misses attempt (18-yard box, Left footed, Set piece)" last_modified="2014-01-12 14:41:24" minute="35" period="1" second="46" team="Newcastle" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran is caught offside" last_modified="2014-01-12 14:38:38" minute="33" period="1" team="Man City" time="33" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" last_modified="2014-01-12 14:38:30" minute="32" period="1" second="52" team="Man City" time="32" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving)" last_modified="2014-01-12 14:38:25" minute="32" period="1" second="47" team="Newcastle" time="32" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-01-12 14:38:25" minute="32" period="1" second="47" team="Man City" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko wins a corner (To the left)" last_modified="2014-01-12 14:36:47" minute="31" period="1" second="9" team="Man City" time="31" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is caught offside" last_modified="2014-01-12 14:33:38" minute="28" period="1" team="Newcastle" time="28" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-12 14:32:53" minute="27" period="1" second="15" team="Newcastle" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2014-01-12 14:27:38" minute="22" period="1" team="Man City" time="22" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (18-yard box, Head, From corner)" last_modified="2014-01-12 14:19:50" minute="14" period="1" second="12" team="Newcastle" time="14" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the left)" last_modified="2014-01-12 14:19:19" minute="13" period="1" second="41" team="Newcastle" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2014-01-12 14:05:38" minute="0" period="14" second="0" team="Man City" time="10" type="end" type_id="30"/>
+	<message comment="Álvaro Negredo wins a corner (To the left)" last_modified="2014-01-12 14:14:54" minute="9" period="1" second="16" team="Newcastle" time="9" type="corner" type_id="6"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Aleksandar Kolarov (High to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-01-12 14:12:57" minute="7" period="1" second="19" team="Newcastle" time="7" type="goal scored" type_id="16"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" last_modified="2014-01-12 14:10:12" minute="4" period="1" second="34" team="Man City" time="4" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta blocks a shot" last_modified="2014-01-12 14:10:05" minute="4" period="1" second="27" team="Newcastle" time="4" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-12 14:10:05" minute="4" period="1" second="27" team="Man City" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-01-12 14:09:06" minute="3" period="1" second="28" team="Man City" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson blocks a shot" last_modified="2014-01-12 14:08:39" minute="3" period="1" second="1" team="Man City" time="3" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-12 14:08:39" minute="3" period="1" second="1" team="Newcastle" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2014-01-12 14:05:38" minute="0" period="1" second="0" team="Man City" time="0" type="start" type_id="32"/>
+</Commentary>

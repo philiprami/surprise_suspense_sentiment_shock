@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2011-12-03" home_team_name="Norwich" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="20" time="95" type="end" type_id="30"/>
+	<message comment="GOAL! Adam Johnson scores , Assisted by Vincent Kompany (Low to the left, 18-yard box, Left footed, Open play)" minute="90" period="2" second="51" time="92" type="goal scored" type_id="16"/>
+	<message comment="David Silva wins a corner (To the left)" minute="90" period="2" second="15" time="92" type="corner" type_id="6"/>
+	<message comment="Grant Holt wins a corner (To the left)" minute="88" period="2" second="39" time="90" type="corner" type_id="6"/>
+	<message comment="Grant Holt has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="88" period="2" second="36" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="88" period="2" second="36" time="90" type="save made" type_id="10"/>
+	<message comment="GOAL! Mario Balotelli scores  (High to the left, 6-yard box, Big Chance, Other body part, Open play)" minute="87" period="2" second="22" time="89" type="goal scored" type_id="16"/>
+	<message comment="John Ruddy makes a save (Feet, Diving, Parried into danger)" minute="87" period="2" second="20" time="89" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="87" period="2" second="20" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Tierney wins a corner (To the left)" minute="86" period="2" second="17" time="88" type="corner" type_id="6"/>
+	<message comment="Wes Hoolahan misses attempt (Out of box, Left footed, Open play)" minute="85" period="2" second="3" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli wins a corner (To the right)" minute="84" period="2" second="11" time="86" type="corner" type_id="6"/>
+	<message comment="Andrew Surman blocks a shot" minute="84" period="2" second="9" time="86" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="8" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" minute="83" period="2" second="8" time="85" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="6" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko is substituted off" minute="81" period="2" second="30" time="83" type="substitution off" type_id="18"/>
+	<message comment="Nigel de Jong is substituted on" minute="81" period="2" second="30" time="83" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Steve Morison scores , Assisted by David Fox (Low to the right, 18-yard box, Head, From corner)" minute="80" period="2" second="4" time="82" type="goal scored" type_id="16"/>
+	<message comment="Grant Holt wins a corner (To the left)" minute="79" period="2" second="46" time="81" type="corner" type_id="6"/>
+	<message comment="Leon Barnett misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="78" period="2" second="40" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Bradley Johnson is substituted off" minute="77" period="2" second="0" time="79" type="substitution off" type_id="18"/>
+	<message comment="David Fox is substituted on" minute="77" period="2" second="0" time="79" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko misses attempt (High to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="75" period="2" second="4" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry is caught offside" minute="74" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero is substituted off" minute="71" period="2" second="30" time="73" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="71" period="2" second="30" time="73" type="substitution on" type_id="19"/>
+	<message comment="David Silva wins a corner (To the right)" minute="70" period="2" second="22" time="72" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="70" period="2" second="21" time="72" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="70" period="2" second="19" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri is substituted off" minute="68" period="2" second="25" time="70" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="68" period="2" second="25" time="70" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by David Silva (Low to the right, 18-yard box, Right footed, From corner)" minute="67" period="2" second="19" time="69" type="goal scored" type_id="16"/>
+	<message comment="Gareth Barry wins a corner (To the left)" minute="66" period="2" second="53" time="68" type="corner" type_id="6"/>
+	<message comment="Marc Tierney blocks a shot" minute="66" period="2" second="52" time="68" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has shot blocked (Out of box, Left footed, From corner)" minute="66" period="2" second="49" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="66" period="2" second="26" time="68" type="corner" type_id="6"/>
+	<message comment="Grant Holt is caught offside" minute="61" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Grant Holt is substituted on" minute="59" period="2" second="37" time="61" type="substitution on" type_id="19"/>
+	<message comment="Elliott Bennett is substituted off" minute="59" period="2" second="36" time="61" type="substitution off" type_id="18"/>
+	<message comment="Anthony Pilkington is substituted off" minute="59" period="2" second="31" time="61" type="substitution off" type_id="18"/>
+	<message comment="Wes Hoolahan is substituted on" minute="59" period="2" second="31" time="61" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="58" period="2" second="34" time="60" type="corner" type_id="6"/>
+	<message comment="Gareth Barry misses attempt (High to the left, Out of box, Left footed, From corner)" minute="57" period="2" second="6" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="56" period="2" second="46" time="58" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Parried into danger, Feet)" minute="56" period="2" second="40" time="58" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 6-yard box, Right footed, Open play)" minute="56" period="2" second="40" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Feet, Parried safe)" minute="56" period="2" second="37" time="58" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="56" period="2" second="37" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Barnett blocks a shot" minute="53" period="2" second="37" time="55" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (Out of box, Right footed, Open play)" minute="52" period="2" second="37" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Samir Nasri scores  (Low to the right, Out of box, Right footed, Free kick)" minute="50" period="2" second="26" time="52" type="goal scored" type_id="16"/>
+	<message comment="Elliott Bennett misses attempt (High, 18-yard box, Right footed, Open play)" minute="46" period="2" second="44" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Elliott Bennett wins a corner (To the right)" minute="45" period="1" second="22" time="45" type="corner" type_id="6"/>
+	<message comment="Micah Richards is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="41" period="1" second="9" time="41" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="41" period="1" second="6" time="41" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="41" period="1" second="6" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="38" period="1" second="30" time="38" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Left footed, Open play)" minute="36" period="1" second="41" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="33" period="1" second="47" time="33" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Micah Richards (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="31" period="1" second="3" time="31" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="29" period="1" second="30" time="29" type="corner" type_id="6"/>
+	<message comment="Marc Tierney blocks a shot" minute="29" period="1" second="25" time="29" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="29" period="1" second="25" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="John Ruddy makes a save (Collected)" minute="25" period="1" second="53" time="25" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="25" period="1" second="53" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Andrew Surman recieves a yellow card" minute="23" period="1" second="22" time="23" type="card received" type_id="17"/>
+	<message comment="Micah Richards is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="15" period="1" second="48" time="15" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the right)" minute="10" period="1" second="57" time="10" type="corner" type_id="6"/>
+	<message comment="Steve Morison blocks a shot" minute="10" period="1" second="53" time="10" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, From corner)" minute="10" period="1" second="53" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="10" period="1" second="33" time="10" type="corner" type_id="6"/>
+	<message comment="Marc Tierney blocks a shot" minute="10" period="1" second="30" time="10" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="10" period="1" second="30" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Feet, Parried into danger)" minute="10" period="1" second="3" time="10" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="10" period="1" second="3" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Elliott Bennett blocks a shot" minute="9" period="1" second="16" time="9" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="9" period="1" second="16" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Steve Morison misses attempt (Out of box, Right footed, Open play)" minute="3" period="1" second="48" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (Out of box, Left footed, Open play)" minute="1" period="1" second="58" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-12-09" home_team_name="Manchester United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="5" time="99" type="end" type_id="30"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="94" period="2" second="39" time="97" type="card received" type_id="17"/>
+	<message comment="Phil Jones recieves a yellow card" minute="92" period="2" second="20" time="95" type="card received" type_id="17"/>
+	<message comment="GOAL! Robin van Persie scores  (Low to the left, Out of box, Left footed, Free kick)" minute="91" period="2" second="41" time="94" type="goal scored" type_id="16"/>
+	<message comment="David de Gea makes a save (Collected, Diving)" minute="90" period="2" second="14" time="93" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="90" period="2" second="14" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Collected, Diving)" minute="89" period="2" second="34" time="92" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="89" period="2" second="34" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez recieves a yellow card" minute="88" period="2" second="40" time="91" type="card received" type_id="17"/>
+	<message comment="Tom Cleverley is substituted off" minute="87" period="2" second="19" time="90" type="substitution off" type_id="18"/>
+	<message comment="Danny Welbeck is substituted on" minute="87" period="2" second="19" time="90" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Pablo Zabaleta scores  (Low to the left, 18-yard box, Right footed, From corner)" minute="85" period="2" second="18" time="88" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="84" period="2" second="54" time="87" type="corner" type_id="6"/>
+	<message comment="Phil Jones is substituted on" minute="84" period="2" second="12" time="87" type="substitution on" type_id="19"/>
+	<message comment="Luis Antonio Valencia is substituted off" minute="84" period="2" second="11" time="87" type="substitution off" type_id="18"/>
+	<message comment="Yaya Touré is substituted off" minute="83" period="2" second="51" time="86" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="83" period="2" second="51" time="86" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="83" period="2" second="11" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Rio Ferdinand blocks a shot" minute="79" period="2" second="40" time="82" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Left footed, Open play)" minute="79" period="2" second="40" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the left)" minute="78" period="2" second="24" time="81" type="corner" type_id="6"/>
+	<message comment="David de Gea makes a save (Parried safe, Standing, Other body part)" minute="78" period="2" second="22" time="81" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (High to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="78" period="2" second="22" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie misses attempt (High to the right, 18-yard box, Big Chance, Head, Fast break)" minute="77" period="2" second="43" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="76" period="2" second="58" time="79" type="corner" type_id="6"/>
+	<message comment="Yaya Touré recieves a yellow card" minute="74" period="2" second="30" time="77" type="card received" type_id="17"/>
+	<message comment="Kolo Touré is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Wayne Rooney recieves a yellow card" minute="72" period="2" second="48" time="75" type="card received" type_id="17"/>
+	<message comment="Patrice Evra misses attempt (To the right, 18-yard box, Other body part, From corner)" minute="69" period="2" second="36" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Rooney wins a corner (To the left)" minute="68" period="2" second="49" time="71" type="corner" type_id="6"/>
+	<message comment="Patrice Evra blocks a shot" minute="67" period="2" second="23" time="70" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="67" period="2" second="23" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand recieves a yellow card" minute="61" period="2" second="26" time="64" type="card received" type_id="17"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by Carlos Tevez (Low to the left, 18-yard box, Right footed, Open play)" minute="59" period="2" second="36" time="62" type="goal scored" type_id="16"/>
+	<message comment="Chris Smalling blocks a shot" minute="59" period="2" second="34" time="62" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (6-yard box, Right footed, Open play)" minute="59" period="2" second="34" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried into danger, Diving)" minute="59" period="2" second="32" time="62" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="59" period="2" second="32" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Diving, Parried into danger)" minute="59" period="2" second="31" time="62" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="59" period="2" second="31" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="58" period="2" second="46" time="61" type="woodwork hit" type_id="14"/>
+	<message comment="Ashley Young is caught offside" minute="58" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Kolo Touré misses attempt (To the right, 6-yard box, Head, From corner)" minute="57" period="2" second="50" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="57" period="2" second="24" time="60" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero misses attempt (Out of box, Right footed, Open play)" minute="56" period="2" second="28" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri recieves a yellow card" minute="53" period="2" second="30" time="56" type="card received" type_id="17"/>
+	<message comment="Sergio Agüero is caught offside" minute="52" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Mario Balotelli is substituted off" minute="51" period="2" second="12" time="54" type="substitution off" type_id="18"/>
+	<message comment="Carlos Tevez is substituted on" minute="51" period="2" second="12" time="54" type="substitution on" type_id="19"/>
+	<message comment="David Silva is caught offside" minute="51" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Tom Cleverley misses attempt (High to the right, Out of box, Right footed, Open play)" minute="50" period="2" second="57" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Jonny Evans is substituted off" minute="48" period="2" second="31" time="51" type="substitution off" type_id="18"/>
+	<message comment="Chris Smalling is substituted on" minute="48" period="2" second="31" time="51" type="substitution on" type_id="19"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="45" period="2" second="20" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Robin van Persie is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Gareth Barry misses attempt (Out of box, Left footed, Open play)" minute="42" period="1" second="0" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="3" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="41" period="1" second="3" time="41" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="36" period="1" second="59" time="36" type="corner" type_id="6"/>
+	<message comment="Robin van Persie is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Luis Antonio Valencia is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Tom Cleverley misses attempt (High, Out of box, Right footed, Open play)" minute="32" period="1" second="17" time="32" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Wayne Rooney scores , Assisted by Rafael (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="28" period="1" second="3" time="28" type="goal scored" type_id="16"/>
+	<message comment="Kolo Touré misses attempt (High to the right, Out of box, Right footed, Open play)" minute="27" period="1" second="1" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie has shot blocked (Out of box, Left footed, From corner)" minute="25" period="1" second="21" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva blocks a shot" minute="25" period="1" second="21" time="25" type="save made" type_id="10"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" minute="24" period="1" second="43" time="24" type="corner" type_id="6"/>
+	<message comment="David de Gea makes a save (Collected, Diving)" minute="22" period="1" second="27" time="22" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="22" period="1" second="27" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany is substituted off" minute="20" period="1" second="28" time="20" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="20" period="1" second="28" time="20" type="substitution on" type_id="19"/>
+	<message comment="Samir Nasri is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="GOAL! Wayne Rooney scores , Assisted by Ashley Young (Low to the left, 18-yard box, Right footed, Fast break)" minute="15" period="1" second="19" time="15" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="12" period="1" second="0" time="12" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="10" period="1" second="53" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Mario Balotelli wins a corner (To the left)" minute="5" period="1" second="28" time="5" type="corner" type_id="6"/>
+	<message comment="David de Gea makes a save (Diving, Parried safe)" minute="5" period="1" second="24" time="5" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="5" period="1" second="24" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

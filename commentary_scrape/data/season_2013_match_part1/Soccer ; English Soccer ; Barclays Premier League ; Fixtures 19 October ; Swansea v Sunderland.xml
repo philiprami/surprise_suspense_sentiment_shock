@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-10-19 15:00" game_id_2="27080007" game_id_4="111364708" home_team_name="Sunderland" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-10-19 16:33:20" minute="93" period="2" second="7" team="Sunderland" time="96" type="end" type_id="30"/>
+	<message comment="Álvaro Vázquez is caught offside" last_modified="2013-10-19 16:29:13" minute="89" period="2" team="Sunderland" time="92" type="offside" type_id="10000"/>
+	<message comment="Jozy Altidore misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2013-10-19 16:23:33" minute="83" period="2" second="20" team="Swansea" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Jozy Altidore is caught offside" last_modified="2013-10-19 16:23:13" minute="83" period="2" team="Swansea" time="86" type="offside" type_id="10000"/>
+	<message comment="Steven Fletcher is substituted off" last_modified="2013-10-19 16:21:23" minute="81" period="2" second="10" team="Swansea" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jozy Altidore is substituted on" last_modified="2013-10-19 16:21:23" minute="81" period="2" second="10" team="Swansea" time="84" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" last_modified="2013-10-19 16:21:06" minute="80" period="2" second="53" team="Sunderland" time="83" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" last_modified="2013-10-19 16:21:06" minute="80" period="2" second="53" team="Sunderland" time="83" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher scores an OWN GOAL!  (Low to the right, 6-yard box, Other body part, From corner)" last_modified="2013-10-19 16:20:04" minute="79" period="2" second="51" team="Swansea" time="82" type="goal scored" type_id="16"/>
+	<message comment="Chico Flores misses attempt (18-yard box, Head, From corner)" last_modified="2013-10-19 16:20:03" minute="79" period="2" second="50" team="Sunderland" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Michu wins a corner (To the right)" last_modified="2013-10-19 16:19:35" minute="79" period="2" second="22" team="Sunderland" time="82" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Diving)" last_modified="2013-10-19 16:19:33" minute="79" period="2" second="20" team="Swansea" time="82" type="save made" type_id="10"/>
+	<message comment="Michu has attempt saved (Low to the right, 18-yard box, Head, Open play)" last_modified="2013-10-19 16:19:33" minute="79" period="2" second="20" team="Sunderland" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Fabio Borini has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-10-19 16:18:55" minute="78" period="2" second="42" team="Swansea" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" last_modified="2013-10-19 16:18:55" minute="78" period="2" second="42" team="Sunderland" time="81" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony is substituted off" last_modified="2013-10-19 16:15:11" minute="74" period="2" second="58" team="Sunderland" time="77" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Vázquez is substituted on" last_modified="2013-10-19 16:15:11" minute="74" period="2" second="58" team="Sunderland" time="77" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" last_modified="2013-10-19 16:13:12" minute="72" period="2" second="59" team="Sunderland" time="75" type="corner" type_id="6"/>
+	<message comment="Michu is caught offside" last_modified="2013-10-19 16:11:13" minute="71" period="2" team="Sunderland" time="74" type="offside" type_id="10000"/>
+	<message comment="GOAL! Wilfried Bony scores  (High to the left, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-10-19 16:04:11" minute="63" period="2" second="58" team="Sunderland" time="66" type="goal scored" type_id="16"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" last_modified="2013-10-19 16:02:41" minute="62" period="2" second="28" team="Sunderland" time="65" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Diving, Parried safe)" last_modified="2013-10-19 16:02:38" minute="62" period="2" second="25" team="Swansea" time="65" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-10-19 16:02:38" minute="62" period="2" second="25" team="Sunderland" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" last_modified="2013-10-19 16:02:07" minute="61" period="2" second="54" team="Sunderland" time="64" type="corner" type_id="6"/>
+	<message comment="Fabio Borini misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-19 16:01:23" minute="61" period="2" second="10" team="Swansea" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini is substituted off" last_modified="2013-10-19 16:01:01" minute="60" period="2" second="48" team="Swansea" time="63" type="substitution off" type_id="18"/>
+	<message comment="Jack Colback is substituted on" last_modified="2013-10-19 16:01:01" minute="60" period="2" second="48" team="Swansea" time="63" type="substitution on" type_id="19"/>
+	<message comment="Adam Johnson is substituted off" last_modified="2013-10-19 16:00:52" minute="60" period="2" second="39" team="Swansea" time="63" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" last_modified="2013-10-19 16:00:52" minute="60" period="2" second="39" team="Swansea" time="63" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner misses attempt (High, 18-yard box, Head, Set piece)" last_modified="2013-10-19 16:00:24" minute="60" period="2" second="11" team="Swansea" time="63" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonathan de Guzmán scores , Assisted by Wayne Routledge (High to the right, Out of box, Right footed, Open play)" last_modified="2013-10-19 15:58:06" minute="57" period="2" second="53" team="Sunderland" time="60" type="goal scored" type_id="16"/>
+	<message comment="Phil Bardsley scores an OWN GOAL!  (Low to the right, 6-yard box, Other body part, From corner)" last_modified="2013-10-19 15:56:36" minute="56" period="2" second="23" team="Swansea" time="59" type="goal scored" type_id="16"/>
+	<message comment="Angel Rangel misses attempt (To the left, 6-yard box, Head, From corner)" last_modified="2013-10-19 15:56:35" minute="56" period="2" second="22" team="Sunderland" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" last_modified="2013-10-19 15:56:05" minute="55" period="2" second="52" team="Sunderland" time="58" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Parried safe, Diving)" last_modified="2013-10-19 15:56:04" minute="55" period="2" second="51" team="Swansea" time="58" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-10-19 15:56:04" minute="55" period="2" second="51" team="Sunderland" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-19 15:54:16" minute="54" period="2" second="3" team="Sunderland" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Michu misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-10-19 15:51:46" minute="51" period="2" second="33" team="Sunderland" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies is substituted off" last_modified="2013-10-19 15:50:44" minute="50" period="2" second="31" team="Sunderland" time="53" type="substitution off" type_id="18"/>
+	<message comment="Neil Taylor is substituted on" last_modified="2013-10-19 15:50:44" minute="50" period="2" second="31" team="Sunderland" time="53" type="substitution on" type_id="19"/>
+	<message comment="Michu wins a corner (To the left)" last_modified="2013-10-19 15:49:31" minute="49" period="2" second="18" team="Sunderland" time="52" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini is caught offside" last_modified="2013-10-19 15:48:13" minute="48" period="2" team="Swansea" time="51" type="offside" type_id="10000"/>
+	<message comment="Phil Bardsley misses attempt (High, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-19 15:46:34" minute="46" period="2" second="21" team="Swansea" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" last_modified="2013-10-19 15:45:57" minute="45" period="2" second="44" team="Swansea" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-10-19 15:45:13" minute="45" period="2" second="0" team="Sunderland" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-10-19 15:47:44" minute="47" period="1" second="31" team="Sunderland" time="47" type="end" type_id="30"/>
+	<message comment="Chico Flores recieves a yellow card" last_modified="2013-10-19 15:46:51" minute="46" period="1" second="38" team="Sunderland" time="46" type="card received" type_id="17"/>
+	<message comment="Chico Flores has shot blocked (6-yard box, Right footed, Set piece)" last_modified="2013-10-19 15:43:28" minute="43" period="1" second="15" team="Sunderland" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="John O'Shea blocks a shot" last_modified="2013-10-19 15:43:27" minute="43" period="1" second="14" team="Swansea" time="43" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (6-yard box, Head, Set piece)" last_modified="2013-10-19 15:43:27" minute="43" period="1" second="14" team="Sunderland" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Valentin Roberge recieves a yellow card" last_modified="2013-10-19 15:42:27" minute="42" period="1" second="14" team="Swansea" time="42" type="card received" type_id="17"/>
+	<message comment="Keiren Westwood makes a save (Diving, Collected)" last_modified="2013-10-19 15:35:10" minute="34" period="1" second="57" team="Swansea" time="34" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-10-19 15:35:10" minute="34" period="1" second="57" team="Sunderland" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Free kick)" last_modified="2013-10-19 15:31:59" minute="31" period="1" second="46" team="Sunderland" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Valentin Roberge blocks a shot" last_modified="2013-10-19 15:30:10" minute="29" period="1" second="57" team="Swansea" time="29" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-19 15:30:10" minute="29" period="1" second="57" team="Sunderland" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" last_modified="2013-10-19 15:27:39" minute="27" period="1" second="26" team="Sunderland" time="27" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-10-19 15:26:13" minute="26" period="1" team="Swansea" time="26" type="offside" type_id="10000"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-10-19 15:12:13" minute="12" period="1" team="Swansea" time="12" type="offside" type_id="10000"/>
+	<message comment="Steven Fletcher misses attempt (18-yard box, Left footed, From corner)" last_modified="2013-10-19 15:12:13" minute="12" period="1" second="0" team="Swansea" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" last_modified="2013-10-19 15:11:41" minute="11" period="1" second="28" team="Swansea" time="11" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley recieves a yellow card" last_modified="2013-10-19 15:09:30" minute="9" period="1" second="17" team="Swansea" time="9" type="card received" type_id="17"/>
+	<message comment="Formation Set" last_modified="2013-10-19 15:00:13" minute="0" period="14" second="0" team="Sunderland" time="6" type="end" type_id="30"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-10-19 15:03:13" minute="3" period="1" team="Swansea" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2013-10-19 15:00:13" minute="0" period="1" second="0" team="Sunderland" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-02-24" home_team_name="Southampton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="5" time="98" type="end" type_id="30"/>
+	<message comment="Morgan Schneiderlin misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="93" period="2" second="7" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Gastón Ramírez misses attempt (Out of box, Left footed, Free kick)" minute="89" period="2" second="54" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Vurnon Anita is substituted on" minute="87" period="2" second="15" time="91" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran is substituted off" minute="87" period="2" second="15" time="91" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez recieves a yellow card" minute="86" period="2" second="15" time="90" type="card received" type_id="17"/>
+	<message comment="Gastón Ramírez wins a corner (To the left)" minute="86" period="2" second="5" time="90" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="84" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy is caught offside" minute="82" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Adam Lallana wins a corner (To the right)" minute="80" period="2" second="42" time="84" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez is substituted off" minute="80" period="2" second="20" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jason Puncheon is substituted on" minute="80" period="2" second="20" time="84" type="substitution on" type_id="19"/>
+	<message comment="Jos Hooiveld scores an OWN GOAL!  (Low to the right, 6-yard box, Other body part, Open play)" minute="78" period="2" second="25" time="82" type="goal scored" type_id="16"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="77" period="2" second="22" time="81" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Right footed, Open play)" minute="77" period="2" second="22" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye is substituted off" minute="76" period="2" second="44" time="80" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="76" period="2" second="44" time="80" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="75" period="2" second="6" time="79" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran has shot blocked (Out of box, Right footed, Free kick)" minute="74" period="2" second="20" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez blocks a shot" minute="74" period="2" second="20" time="78" type="save made" type_id="10"/>
+	<message comment="Maya Yoshida recieves a yellow card" minute="73" period="2" second="40" time="77" type="card received" type_id="17"/>
+	<message comment="GOAL! Yohan Cabaye scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="66" period="2" second="44" time="70" type="goal scored" type_id="16"/>
+	<message comment="Steven Davis is substituted off" minute="64" period="2" second="55" time="68" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="64" period="2" second="55" time="68" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="62" period="2" second="13" time="66" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="58" period="2" second="49" time="62" type="corner" type_id="6"/>
+	<message comment="Luke Shaw is substituted off" minute="56" period="2" second="30" time="60" type="substitution off" type_id="18"/>
+	<message comment="Daniel Fox is substituted on" minute="56" period="2" second="30" time="60" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran is caught offside" minute="55" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Adam Lallana misses attempt (Out of box, Left footed, Open play)" minute="54" period="2" second="47" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (6-yard box, Head, Open play)" minute="52" period="2" second="2" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Rickie Lambert scores , Assisted by Adam Lallana (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="49" period="2" second="33" time="53" type="goal scored" type_id="16"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="46" period="2" second="52" time="50" type="corner" type_id="6"/>
+	<message comment="Robert Elliot makes a save (Parried safe, Diving)" minute="46" period="2" second="46" time="50" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="46" period="2" second="46" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="55" time="48" type="end" type_id="30"/>
+	<message comment="Cheick Tioté blocks a shot" minute="47" period="1" second="7" time="47" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="47" period="1" second="7" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini is substituted off" minute="46" period="1" second="35" time="46" type="substitution off" type_id="18"/>
+	<message comment="Mapou Yanga-Mbiwa is substituted on" minute="46" period="1" second="35" time="46" type="substitution on" type_id="19"/>
+	<message comment="Adam Lallana is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Robert Elliot (High to the centre, Out of box, Right footed, Set piece)" minute="41" period="1" second="51" time="41" type="goal scored" type_id="16"/>
+	<message comment="Jonás Gutiérrez misses attempt (To the left, Out of box, Right footed, Set piece)" minute="40" period="1" second="38" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Luke Shaw recieves a yellow card" minute="40" period="1" second="10" time="40" type="card received" type_id="17"/>
+	<message comment="Rickie Lambert is caught offside" minute="38" period="1" time="38" type="offside" type_id="10000"/>
+	<message comment="GOAL! Moussa Sissoko scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="32" period="1" second="44" time="32" type="goal scored" type_id="16"/>
+	<message comment="Artur Boruc makes a save (Feet, Standing, Parried into danger)" minute="32" period="1" second="43" time="32" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="32" period="1" second="43" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Mathieu Debuchy misses attempt (To the right, Out of box, Right footed, Set piece)" minute="27" period="1" second="45" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez recieves a yellow card" minute="24" period="1" second="35" time="24" type="card received" type_id="17"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="24" period="1" second="15" time="24" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="15" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, Out of box, Key pass, Right footed, Open play)" minute="24" period="1" second="14" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Steven Taylor has shot blocked (18-yard box, Right footed, Open play)" minute="21" period="1" second="5" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="21" period="1" second="5" time="21" type="save made" type_id="10"/>
+	<message comment="Steven Taylor wins a corner (To the right)" minute="20" period="1" second="28" time="20" type="corner" type_id="6"/>
+	<message comment="Steven Taylor has shot blocked (18-yard box, Head, From corner)" minute="20" period="1" second="26" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Maya Yoshida blocks a shot" minute="20" period="1" second="26" time="20" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="19" period="1" second="51" time="19" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" minute="17" period="1" second="43" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" minute="17" period="1" second="41" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Artur Boruc makes a save (Diving, From shot off target)" minute="14" period="1" second="28" time="14" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko wins a corner (To the right)" minute="14" period="1" second="27" time="14" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko misses attempt (To the right, Out of box, Right footed, Open play)" minute="14" period="1" second="24" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="7" period="1" second="10" time="7" type="save made" type_id="10"/>
+	<message comment="Jack Cork has shot blocked (Out of box, Right footed, Open play)" minute="7" period="1" second="10" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini misses attempt (To the left, Out of box, Right footed, From corner)" minute="6" period="1" second="29" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="5" period="1" second="45" time="5" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="GOAL! Morgan Schneiderlin scores , Assisted by Rickie Lambert (Low to the left, 18-yard box, Right footed, Open play)" minute="2" period="1" second="42" time="2" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

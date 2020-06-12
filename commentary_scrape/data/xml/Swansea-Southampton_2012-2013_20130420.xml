@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-04-20" home_team_name="Southampton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="4" time="95" type="end" type_id="30"/>
+	<message comment="Steven Davis misses attempt (To the left, Out of box, Right footed, Set piece)" minute="92" period="2" second="43" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Schneiderlin misses attempt (High to the left, Out of box, Left footed, From corner)" minute="90" period="2" second="30" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Gastón Ramírez wins a corner (To the left)" minute="89" period="2" second="57" time="91" type="corner" type_id="6"/>
+	<message comment="Emmanuel Mayuka has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="88" period="2" second="57" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Feet)" minute="88" period="2" second="57" time="90" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez is substituted off" minute="88" period="2" second="5" time="90" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Mayuka is substituted on" minute="88" period="2" second="5" time="90" type="substitution on" type_id="19"/>
+	<message comment="Michu misses attempt (To the right, Out of box, Left footed, Open play)" minute="79" period="2" second="46" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge is caught offside" minute="78" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" minute="77" period="2" second="43" time="79" type="corner" type_id="6"/>
+	<message comment="Artur Boruc makes a save (Parried safe, Diving, Other body part)" minute="77" period="2" second="33" time="79" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="77" period="2" second="33" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana is substituted off" minute="76" period="2" second="45" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jason Puncheon is substituted on" minute="76" period="2" second="45" time="78" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge has shot blocked (Out of box, Right footed, Open play)" minute="75" period="2" second="30" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Michu misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="74" period="2" second="25" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Fox blocks a shot" minute="73" period="2" second="11" time="75" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng has shot blocked (18-yard box, Right footed, Open play)" minute="73" period="2" second="11" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Maya Yoshida blocks a shot (Last line)" minute="65" period="2" second="12" time="67" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="65" period="2" second="12" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert is substituted off" minute="62" period="2" second="30" time="64" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="62" period="2" second="30" time="64" type="substitution on" type_id="19"/>
+	<message comment="Michu misses attempt (High to the left, 18-yard box, Head, From corner)" minute="61" period="2" second="58" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="61" period="2" second="36" time="63" type="corner" type_id="6"/>
+	<message comment="Pablo Hernández is substituted off" minute="61" period="2" second="24" time="63" type="substitution off" type_id="18"/>
+	<message comment="Ki Sung-Yueng is substituted on" minute="61" period="2" second="24" time="63" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="60" period="2" second="45" time="62" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" minute="59" period="2" second="57" time="61" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="58" period="2" second="3" time="60" type="save made" type_id="10"/>
+	<message comment="Chico Flores has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="3" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save" minute="56" period="2" second="3" time="58" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="56" period="2" second="3" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="54" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="49" period="2" second="54" time="51" type="save made" type_id="10"/>
+	<message comment="Michu misses attempt (High to the left, 18-yard box, Head, Open play)" minute="46" period="2" second="40" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="Luke Moore is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Wayne Routledge is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="39" period="1" second="11" time="39" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="39" period="1" second="5" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" minute="39" period="1" second="5" time="39" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Luke Moore is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="27" period="1" second="5" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="27" period="1" second="5" time="27" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Free kick)" minute="24" period="1" second="51" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Hernández blocks a shot" minute="24" period="1" second="51" time="24" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="21" period="1" second="9" time="21" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez misses attempt (High, Out of box, Right footed, Open play)" minute="19" period="1" second="18" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Luke Moore wins a corner (To the right)" minute="14" period="1" second="23" time="14" type="corner" type_id="6"/>
+	<message comment="Maya Yoshida blocks a shot" minute="14" period="1" second="22" time="14" type="save made" type_id="10"/>
+	<message comment="Luke Moore has shot blocked (18-yard box, Left footed, Open play)" minute="14" period="1" second="22" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Cork has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="13" period="1" second="6" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe)" minute="13" period="1" second="6" time="13" type="save made" type_id="10"/>
+	<message comment="Ben Davies wins a corner (To the left)" minute="10" period="1" second="58" time="10" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="7" period="1" second="58" time="7" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, Open play)" minute="7" period="1" second="58" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="7" period="1" second="2" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, Open play)" minute="0" period="1" second="56" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Maya Yoshida blocks a shot" minute="0" period="1" second="56" time="0" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2012-12-08" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="31" time="96" type="end" type_id="30"/>
+	<message comment="Ryan Shotton recieves a red card after receiving second yellow card" minute="92" period="2" second="18" time="95" type="card received" type_id="17"/>
+	<message comment="Eric Lichaj misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="87" period="2" second="2" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ireland misses attempt (18-yard box, Right footed, Open play)" minute="82" period="2" second="46" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome is caught offside" minute="81" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome misses attempt (To the left, Out of box, Left footed, Open play)" minute="79" period="2" second="43" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan is substituted off" minute="77" period="2" second="52" time="80" type="substitution off" type_id="18"/>
+	<message comment="Fabian Delph is substituted on" minute="77" period="2" second="52" time="80" type="substitution on" type_id="19"/>
+	<message comment="Kenwyne Jones is substituted off" minute="75" period="2" second="12" time="78" type="substitution off" type_id="18"/>
+	<message comment="Peter Crouch is substituted on" minute="75" period="2" second="12" time="78" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shotton recieves a yellow card" minute="74" period="2" second="40" time="77" type="card received" type_id="17"/>
+	<message comment="Christian Benteke is caught offside" minute="69" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Matthew Etherington is substituted off" minute="67" period="2" second="42" time="70" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="67" period="2" second="42" time="70" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters misses attempt (18-yard box, Right footed, Throw-in)" minute="66" period="2" second="40" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Brett Holman is substituted off" minute="65" period="2" second="52" time="68" type="substitution off" type_id="18"/>
+	<message comment="Stephen Ireland is substituted on" minute="65" period="2" second="52" time="68" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Agbonlahor is substituted off" minute="65" period="2" second="47" time="68" type="substitution off" type_id="18"/>
+	<message comment="Darren Bent is substituted on" minute="65" period="2" second="47" time="68" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters wins a corner (To the right)" minute="64" period="2" second="52" time="67" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="63" period="2" second="48" time="66" type="save made" type_id="10"/>
+	<message comment="Brett Holman has shot blocked (Out of box, Right footed, Open play)" minute="63" period="2" second="48" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron blocks a shot" minute="59" period="2" second="53" time="62" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="53" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones is caught offside" minute="47" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="2" second="44" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving)" minute="45" period="2" second="44" time="48" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="Christian Benteke is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="41" period="1" second="17" time="41" type="corner" type_id="6"/>
+	<message comment="Geoff Cameron blocks a shot" minute="39" period="1" second="36" time="39" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="36" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Barry Bannan misses attempt (High, Out of box, Left footed, Free kick)" minute="19" period="1" second="0" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Eric Lichaj has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="32" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="15" period="1" second="32" time="15" type="save made" type_id="10"/>
+	<message comment="Asmir Begovic makes a save" minute="12" period="1" second="44" time="12" type="save made" type_id="10"/>
+	<message comment="Matthew Lowton has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="12" period="1" second="44" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Bannan misses attempt (18-yard box, Left footed, From corner)" minute="11" period="1" second="22" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Baker has shot blocked (18-yard box, Left footed, From corner)" minute="11" period="1" second="19" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Nzonzi blocks a shot" minute="11" period="1" second="19" time="11" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has shot blocked (18-yard box, Right footed, From corner)" minute="11" period="1" second="17" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="11" period="1" second="17" time="11" type="save made" type_id="10"/>
+	<message comment="Gabriel Agbonlahor wins a corner (To the left)" minute="10" period="1" second="51" time="10" type="corner" type_id="6"/>
+	<message comment="Christian Benteke is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Ryan Shotton blocks a shot" minute="4" period="1" second="22" time="4" type="save made" type_id="10"/>
+	<message comment="Brett Holman has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="22" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Bannan wins a corner (To the right)" minute="3" period="1" second="48" time="3" type="corner" type_id="6"/>
+	<message comment="Brett Holman wins a corner (To the left)" minute="1" period="1" second="39" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

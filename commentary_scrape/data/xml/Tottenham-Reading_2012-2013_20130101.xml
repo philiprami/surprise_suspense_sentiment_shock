@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-01-01" home_team_name="Reading" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="10" time="96" type="end" type_id="30"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="92" period="2" second="11" time="94" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="91" period="2" second="44" time="93" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (6-yard box, Right footed, From corner)" minute="91" period="2" second="44" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="91" period="2" second="15" time="93" type="corner" type_id="6"/>
+	<message comment="Chris Gunter blocks a shot" minute="91" period="2" second="13" time="93" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" minute="91" period="2" second="13" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Federici makes a save (Collected)" minute="90" period="2" second="31" time="92" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="90" period="2" second="31" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Le Fondre is caught offside" minute="90" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="89" period="2" second="47" time="91" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Diving)" minute="89" period="2" second="45" time="91" type="save made" type_id="10"/>
+	<message comment="Scott Parker has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="89" period="2" second="45" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor is substituted off" minute="87" period="2" second="33" time="89" type="substitution off" type_id="18"/>
+	<message comment="Jake Livermore is substituted on" minute="87" period="2" second="33" time="89" type="substitution on" type_id="19"/>
+	<message comment="Jimmy Kébé is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="83" period="2" second="54" time="85" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Parried into danger, Diving)" minute="83" period="2" second="50" time="85" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="83" period="2" second="50" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="83" period="2" second="25" time="85" type="substitution off" type_id="18"/>
+	<message comment="Noel Hunt is substituted on" minute="83" period="2" second="25" time="85" type="substitution on" type_id="19"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="82" period="2" second="14" time="84" type="corner" type_id="6"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="82" period="2" second="12" time="84" type="save made" type_id="10"/>
+	<message comment="Scott Parker has shot blocked (Out of box, Right footed, From corner)" minute="82" period="2" second="12" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="81" period="2" second="28" time="83" type="corner" type_id="6"/>
+	<message comment="GOAL! Clint Dempsey scores , Assisted by Sandro (High to the centre, Out of box, Right footed, Open play)" minute="78" period="2" second="14" time="80" type="goal scored" type_id="16"/>
+	<message comment="Alex Pearce wins a corner (To the right)" minute="76" period="2" second="33" time="78" type="corner" type_id="6"/>
+	<message comment="Michael Dawson blocks a shot (Last line)" minute="76" period="2" second="32" time="78" type="save made" type_id="10"/>
+	<message comment="Alex Pearce has shot blocked (18-yard box, Head, From corner)" minute="76" period="2" second="31" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Ian Harte wins a corner (To the left)" minute="76" period="2" second="4" time="78" type="corner" type_id="6"/>
+	<message comment="Jimmy Kébé wins a corner (To the right)" minute="75" period="2" second="29" time="77" type="corner" type_id="6"/>
+	<message comment="Kyle Walker blocks a shot" minute="75" period="2" second="28" time="77" type="save made" type_id="10"/>
+	<message comment="Jimmy Kébé has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="75" period="2" second="28" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="75" period="2" second="5" time="77" type="substitution off" type_id="18"/>
+	<message comment="Clint Dempsey is substituted on" minute="75" period="2" second="5" time="77" type="substitution on" type_id="19"/>
+	<message comment="Jobi McAnuff is substituted off" minute="72" period="2" second="11" time="74" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="72" period="2" second="11" time="74" type="substitution on" type_id="19"/>
+	<message comment="Pavel Pogrebnyak misses attempt (18-yard box, Big Chance, Head, Open play)" minute="71" period="2" second="31" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="71" period="2" second="28" time="73" type="save made" type_id="10"/>
+	<message comment="Pavel Pogrebnyak has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="71" period="2" second="28" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the left, Out of box, Right footed, Open play)" minute="70" period="2" second="51" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Naughton misses attempt (High, Out of box, Right footed, Open play)" minute="69" period="2" second="35" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker is substituted on" minute="69" period="2" second="13" time="71" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé is substituted off" minute="69" period="2" second="13" time="71" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe misses attempt (18-yard box, Right footed, Open play)" minute="65" period="2" second="50" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="64" period="2" second="20" time="66" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, Open play)" minute="64" period="2" second="20" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="62" period="2" second="56" time="64" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Collected, Standing)" minute="61" period="2" second="11" time="63" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="61" period="2" second="11" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" minute="58" period="2" second="13" time="60" type="corner" type_id="6"/>
+	<message comment="Jem Karacan is substituted off" minute="56" period="2" second="42" time="58" type="substitution off" type_id="18"/>
+	<message comment="Hal Robson-Kanu is substituted on" minute="56" period="2" second="42" time="58" type="substitution on" type_id="19"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="55" period="2" second="35" time="57" type="corner" type_id="6"/>
+	<message comment="Alex Pearce blocks a shot" minute="55" period="2" second="34" time="57" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Left footed, Open play)" minute="55" period="2" second="34" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Ian Harte blocks a shot" minute="55" period="2" second="30" time="57" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Right footed, Fast break)" minute="55" period="2" second="30" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro misses attempt (Out of box, Right footed, Open play)" minute="54" period="2" second="43" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Aaron Lennon (High to the left, 18-yard box, Head, Open play)" minute="50" period="2" second="3" time="52" type="goal scored" type_id="16"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="49" period="2" second="54" time="51" type="save made" type_id="10"/>
+	<message comment="Sandro has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="54" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Federici makes a save (Diving, Collected)" minute="46" period="2" second="34" time="48" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="46" period="2" second="34" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Gylfi Sigurdsson misses attempt (High, Out of box, Right footed, Open play)" minute="45" period="1" second="27" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Adam Federici makes a save (Diving, Parried safe)" minute="44" period="1" second="50" time="44" type="save made" type_id="10"/>
+	<message comment="Sandro has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="44" period="1" second="50" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="42" period="1" second="45" time="42" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="45" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Jobi McAnuff misses attempt (High to the right, Out of box, Right footed, Open play)" minute="42" period="1" second="0" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Adam Federici makes a save (Parried into danger, Diving)" minute="41" period="1" second="16" time="41" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="41" period="1" second="16" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Federici makes a save (Diving, Collected)" minute="40" period="1" second="49" time="40" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="40" period="1" second="49" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="37" period="1" second="15" time="37" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="15" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe misses attempt (Out of box, Right footed, Open play)" minute="36" period="1" second="9" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Sandro misses attempt (High to the right, Out of box, Right footed, Throw-in)" minute="33" period="1" second="26" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Alex Pearce blocks a shot" minute="32" period="1" second="3" time="32" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" minute="32" period="1" second="3" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Jimmy Kébé is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="24" period="1" second="14" time="24" type="save made" type_id="10"/>
+	<message comment="Sandro has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="14" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro misses attempt (To the left, Out of box, Right footed, From corner)" minute="23" period="1" second="30" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="23" period="1" second="2" time="23" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé misses attempt (Out of box, Left footed, Open play)" minute="20" period="1" second="16" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Danny Guthrie is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="12" period="1" second="5" time="12" type="corner" type_id="6"/>
+	<message comment="Alex Pearce blocks a shot" minute="12" period="1" second="2" time="12" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="12" period="1" second="2" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe misses attempt (High to the left, Out of box, Left footed, Open play)" minute="11" period="1" second="2" time="11" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Michael Dawson scores , Assisted by Gylfi Sigurdsson (Low to the right, 6-yard box, Head, From corner)" minute="9" period="1" second="14" time="9" type="goal scored" type_id="16"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="8" period="1" second="56" time="8" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor misses attempt (6-yard box, Big Chance, Head, Open play)" minute="6" period="1" second="55" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="GOAL! Pavel Pogrebnyak scores  (Low to the centre, 18-yard box, Big Chance, Head, Set piece)" minute="3" period="1" second="59" time="3" type="goal scored" type_id="16"/>
+	<message comment="Ian Harte hits the woodwork (High, Out of box, Left footed, Free kick)" minute="3" period="1" second="54" time="3" type="woodwork hit" type_id="14"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

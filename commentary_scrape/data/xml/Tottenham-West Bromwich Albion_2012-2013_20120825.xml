@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2012-08-25" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="15" time="97" type="end" type_id="30"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="93" period="2" second="21" time="96" type="card received" type_id="17"/>
+	<message comment="William Gallas is caught offside" minute="93" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" minute="91" period="2" second="59" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="91" period="2" second="59" time="94" type="save made" type_id="10"/>
+	<message comment="GOAL! James Morrison scores , Assisted by Gareth McAuley (Low to the right, 18-yard box, Right footed, From corner)" minute="90" period="2" second="25" time="93" type="goal scored" type_id="16"/>
+	<message comment="William Gallas blocks a shot (Last line)" minute="90" period="2" second="15" time="93" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (6-yard box, Big Chance, Head, From corner)" minute="90" period="2" second="15" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="89" period="2" second="44" time="92" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley has shot blocked (6-yard box, Head, From corner)" minute="88" period="2" second="51" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto blocks a shot (Last line)" minute="88" period="2" second="51" time="91" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="88" period="2" second="14" time="91" type="corner" type_id="6"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="85" period="2" second="32" time="88" type="corner" type_id="6"/>
+	<message comment="Benoit Assou-Ekotto misses attempt (To the right, Out of box, Left footed, From corner)" minute="84" period="2" second="47" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="84" period="2" second="17" time="87" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger)" minute="84" period="2" second="12" time="87" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="84" period="2" second="12" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="30" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="82" period="2" second="30" time="85" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the left)" minute="81" period="2" second="26" time="84" type="corner" type_id="6"/>
+	<message comment="Steven Reid recieves a yellow card" minute="80" period="2" second="58" time="83" type="card received" type_id="17"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Right footed, Fast break)" minute="80" period="2" second="34" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen blocks a shot" minute="80" period="2" second="34" time="83" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Left footed, Open play)" minute="78" period="2" second="59" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="78" period="2" second="59" time="81" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="77" period="2" second="41" time="80" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="77" period="2" second="41" time="80" type="substitution on" type_id="19"/>
+	<message comment="Liam Ridgewell wins a corner (To the right)" minute="76" period="2" second="53" time="79" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe is substituted off" minute="76" period="2" second="7" time="79" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Jenas is substituted on" minute="76" period="2" second="7" time="79" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans is substituted off" minute="74" period="2" second="26" time="77" type="substitution off" type_id="18"/>
+	<message comment="Chris Brunt is substituted on" minute="74" period="2" second="26" time="77" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="GOAL! Benoit Assou-Ekotto scores  (Low to the right, Out of box, Left footed, From corner)" minute="73" period="2" second="28" time="76" type="goal scored" type_id="16"/>
+	<message comment="Sandro is substituted off" minute="73" period="2" second="11" time="76" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="73" period="2" second="11" time="76" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="72" period="2" second="32" time="75" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Standing, Parried safe)" minute="72" period="2" second="27" time="75" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="72" period="2" second="27" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="46" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Diving, Parried safe, Feet)" minute="68" period="2" second="46" time="71" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="67" period="2" second="39" time="70" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, Out of box, Right footed, Fast break)" minute="67" period="2" second="39" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the right)" minute="65" period="2" second="54" time="68" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku wins a corner (To the right)" minute="64" period="2" second="36" time="67" type="corner" type_id="6"/>
+	<message comment="Brad Friedel makes a save (Diving, Parried safe)" minute="64" period="2" second="33" time="67" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="64" period="2" second="33" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Shane Long is substituted off" minute="62" period="2" second="29" time="65" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="62" period="2" second="29" time="65" type="substitution on" type_id="19"/>
+	<message comment="Rafael van der Vaart is substituted off" minute="62" period="2" second="6" time="65" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="62" period="2" second="6" time="65" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="61" period="2" second="24" time="64" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="61" period="2" second="24" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu blocks a shot" minute="61" period="2" second="5" time="64" type="save made" type_id="10"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="5" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné misses attempt (High, Out of box, Left footed, Open play)" minute="60" period="2" second="21" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long misses attempt (18-yard box, Head, Set piece)" minute="58" period="2" second="54" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe misses attempt (Out of box, Right footed, Open play)" minute="56" period="2" second="35" time="59" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison misses attempt (High to the right, Out of box, Right footed, Open play)" minute="55" period="2" second="11" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="54" period="2" second="25" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Diving, Parried into danger)" minute="54" period="2" second="25" time="57" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the right)" minute="52" period="2" second="56" time="55" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe)" minute="52" period="2" second="48" time="55" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="52" period="2" second="48" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="50" period="2" second="14" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is caught offside" minute="49" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Jan Vertonghen recieves a yellow card" minute="47" period="2" second="22" time="50" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="5" time="47" type="end" type_id="30"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="44" period="1" second="53" time="44" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="44" period="1" second="53" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="40" period="1" second="15" time="40" type="corner" type_id="6"/>
+	<message comment="Sandro has shot blocked (Out of box, Right footed, Open play)" minute="40" period="1" second="12" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" minute="40" period="1" second="8" time="40" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Right footed, Open play)" minute="40" period="1" second="8" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart misses attempt (High, Out of box, Left footed, Free kick)" minute="36" period="1" second="25" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="32" period="1" second="8" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="30" period="1" second="4" time="30" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu recieves a yellow card" minute="29" period="1" second="25" time="29" type="card received" type_id="17"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="25" period="1" second="32" time="25" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (6-yard box, Right footed, Open play)" minute="25" period="1" second="32" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen misses attempt (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="23" period="1" second="53" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="15" period="1" second="56" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="13" period="1" second="16" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale misses attempt (High, 18-yard box, Left footed, Open play)" minute="7" period="1" second="48" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Gareth McAuley blocks a shot" minute="5" period="1" second="17" time="5" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Left footed, Open play)" minute="5" period="1" second="17" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale misses attempt (To the left, Out of box, Left footed, Open play)" minute="1" period="1" second="22" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

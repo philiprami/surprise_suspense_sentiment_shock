@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-10-27 16:00" game_id_2="27086441" game_id_4="111523516" home_team_name="Man City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-10-27 17:35:27" minute="95" period="2" second="3" team="Man City" time="98" type="end" type_id="30"/>
+	<message comment="GOAL! Fernando Torres scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-27 17:30:11" minute="89" period="2" second="47" team="Man City" time="92" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero is substituted off" last_modified="2013-10-27 17:26:37" minute="86" period="2" second="13" team="Chelsea" time="89" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Negredo is substituted on" last_modified="2013-10-27 17:26:37" minute="86" period="2" second="13" team="Chelsea" time="89" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" last_modified="2013-10-27 17:23:36" minute="83" period="2" second="12" team="Man City" time="86" type="substitution off" type_id="18"/>
+	<message comment="Samuel Eto'o is substituted on" last_modified="2013-10-27 17:23:36" minute="83" period="2" second="12" team="Man City" time="86" type="substitution on" type_id="19"/>
+	<message comment="Willian is caught offside" last_modified="2013-10-27 17:22:24" minute="82" period="2" team="Man City" time="85" type="offside" type_id="10000"/>
+	<message comment="Ramires wins a corner (To the right)" last_modified="2013-10-27 17:21:57" minute="81" period="2" second="33" team="Man City" time="84" type="corner" type_id="6"/>
+	<message comment="Javi García is substituted off" last_modified="2013-10-27 17:19:54" minute="79" period="2" second="30" team="Chelsea" time="82" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" last_modified="2013-10-27 17:19:54" minute="79" period="2" second="30" team="Chelsea" time="82" type="substitution on" type_id="19"/>
+	<message comment="Ramires misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-10-27 17:19:11" minute="78" period="2" second="47" team="Man City" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-10-27 17:14:16" minute="73" period="2" second="52" team="Chelsea" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-10-27 17:12:35" minute="72" period="2" second="11" team="Man City" time="75" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Left footed, Fast break)" last_modified="2013-10-27 17:12:35" minute="72" period="2" second="11" team="Chelsea" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri is substituted off" last_modified="2013-10-27 17:10:07" minute="69" period="2" second="43" team="Chelsea" time="72" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" last_modified="2013-10-27 17:10:07" minute="69" period="2" second="43" team="Chelsea" time="72" type="substitution on" type_id="19"/>
+	<message comment="Oscar misses attempt (High, Out of box, Right footed, Free kick)" last_modified="2013-10-27 17:09:31" minute="69" period="2" second="7" team="Man City" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard is substituted off" last_modified="2013-10-27 17:05:46" minute="65" period="2" second="22" team="Man City" time="68" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" last_modified="2013-10-27 17:05:46" minute="65" period="2" second="22" team="Man City" time="68" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle is substituted off" last_modified="2013-10-27 17:05:39" minute="65" period="2" second="15" team="Man City" time="68" type="substitution off" type_id="18"/>
+	<message comment="Willian is substituted on" last_modified="2013-10-27 17:05:39" minute="65" period="2" second="15" team="Man City" time="68" type="substitution on" type_id="19"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" last_modified="2013-10-27 17:04:42" minute="64" period="2" second="18" team="Man City" time="67" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-10-27 17:04:42" minute="64" period="2" second="18" team="Chelsea" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva is caught offside" last_modified="2013-10-27 17:04:24" minute="64" period="2" team="Chelsea" time="67" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2013-10-27 17:01:24" minute="61" period="2" team="Man City" time="64" type="offside" type_id="10000"/>
+	<message comment="John Terry misses attempt (High, 6-yard box, Left footed, Set piece)" last_modified="2013-10-27 17:00:36" minute="60" period="2" second="12" team="Man City" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Javi García recieves a yellow card" last_modified="2013-10-27 16:59:38" minute="59" period="2" second="14" team="Chelsea" time="62" type="card received" type_id="17"/>
+	<message comment="Fernando Torres has attempt saved (High to the centre, 18-yard box, Head, Set piece)" last_modified="2013-10-27 16:57:46" minute="57" period="2" second="22" team="Man City" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" last_modified="2013-10-27 16:57:46" minute="57" period="2" second="22" team="Chelsea" time="60" type="save made" type_id="10"/>
+	<message comment="David Silva misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:56:35" minute="56" period="2" second="11" team="Chelsea" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is caught offside" last_modified="2013-10-27 16:53:24" minute="53" period="2" team="Chelsea" time="56" type="offside" type_id="10000"/>
+	<message comment="Petr Cech makes a save (Standing)" last_modified="2013-10-27 16:52:04" minute="51" period="2" second="40" team="Man City" time="54" type="save made" type_id="10"/>
+	<message comment="Javi García has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" last_modified="2013-10-27 16:52:04" minute="51" period="2" second="40" team="Chelsea" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires recieves a yellow card" last_modified="2013-10-27 16:51:18" minute="50" period="2" second="54" team="Man City" time="53" type="card received" type_id="17"/>
+	<message comment="Fernandinho wins a corner (To the left)" last_modified="2013-10-27 16:50:14" minute="49" period="2" second="50" team="Chelsea" time="52" type="corner" type_id="6"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-10-27 16:50:11" minute="49" period="2" second="47" team="Man City" time="52" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Fast break)" last_modified="2013-10-27 16:50:11" minute="49" period="2" second="47" team="Chelsea" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Samir Nasri (High to the left, 18-yard box, Left footed, Open play)" last_modified="2013-10-27 16:48:30" minute="48" period="2" second="6" team="Chelsea" time="51" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta misses attempt (High, Out of box, Left footed, Open play)" last_modified="2013-10-27 16:47:40" minute="47" period="2" second="16" team="Chelsea" time="50" type="attempt missed" type_id="13"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Set piece)" last_modified="2013-10-27 16:47:12" minute="46" period="2" second="48" team="Chelsea" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle blocks a shot" last_modified="2013-10-27 16:47:12" minute="46" period="2" second="48" team="Man City" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" last_modified="2013-10-27 16:45:24" minute="45" period="2" second="0" team="Man City" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-10-27 16:47:27" minute="47" period="1" second="3" team="Man City" time="47" type="end" type_id="30"/>
+	<message comment="Yaya Touré misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-10-27 16:47:13" minute="46" period="1" second="49" team="Chelsea" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-10-27 16:45:42" minute="45" period="1" second="18" team="Chelsea" time="45" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the right)" last_modified="2013-10-27 16:45:14" minute="44" period="1" second="50" team="Chelsea" time="44" type="corner" type_id="6"/>
+	<message comment="John Terry misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-10-27 16:43:26" minute="43" period="1" second="2" team="Man City" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" last_modified="2013-10-27 16:43:00" minute="42" period="1" second="36" team="Man City" time="42" type="corner" type_id="6"/>
+	<message comment="Fernandinho misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-10-27 16:42:02" minute="41" period="1" second="38" team="Chelsea" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Diving, Parried into danger)" last_modified="2013-10-27 16:41:54" minute="41" period="1" second="30" team="Man City" time="41" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:41:54" minute="41" period="1" second="30" team="Chelsea" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:39:11" minute="38" period="1" second="47" team="Chelsea" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" last_modified="2013-10-27 16:39:11" minute="38" period="1" second="47" team="Man City" time="38" type="save made" type_id="10"/>
+	<message comment="Fernando Torres hits the woodwork (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:36:51" minute="36" period="1" second="27" team="Man City" time="36" type="woodwork hit" type_id="14"/>
+	<message comment="André Schürrle is caught offside" last_modified="2013-10-27 16:35:24" minute="35" period="1" team="Man City" time="35" type="offside" type_id="10000"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Fernando Torres (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" last_modified="2013-10-27 16:32:51" minute="32" period="1" second="27" team="Man City" time="32" type="goal scored" type_id="16"/>
+	<message comment="Matija Nastasic recieves a yellow card" last_modified="2013-10-27 16:31:18" minute="30" period="1" second="54" team="Chelsea" time="30" type="card received" type_id="17"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-27 16:29:15" minute="28" period="1" second="51" team="Man City" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic is caught offside" last_modified="2013-10-27 16:27:24" minute="27" period="1" team="Man City" time="27" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" last_modified="2013-10-27 16:26:39" minute="26" period="1" second="15" team="Chelsea" time="26" type="card received" type_id="17"/>
+	<message comment="Frank Lampard recieves a yellow card" last_modified="2013-10-27 16:21:51" minute="21" period="1" second="27" team="Man City" time="21" type="card received" type_id="17"/>
+	<message comment="Yaya Touré wins a corner (To the left)" last_modified="2013-10-27 16:19:38" minute="19" period="1" second="14" team="Chelsea" time="19" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving)" last_modified="2013-10-27 16:18:51" minute="18" period="1" second="27" team="Man City" time="18" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:18:51" minute="18" period="1" second="27" team="Chelsea" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" last_modified="2013-10-27 16:16:38" minute="16" period="1" second="14" team="Chelsea" time="16" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" last_modified="2013-10-27 16:14:49" minute="14" period="1" second="25" team="Chelsea" time="14" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" last_modified="2013-10-27 16:13:53" minute="13" period="1" second="29" team="Chelsea" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-10-27 16:00:24" minute="0" period="14" second="0" team="Man City" time="8" type="end" type_id="30"/>
+	<message comment="Joe Hart makes a save" last_modified="2013-10-27 16:06:56" minute="6" period="1" second="32" team="Chelsea" time="6" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the centre, Out of box, Head, Open play)" last_modified="2013-10-27 16:06:56" minute="6" period="1" second="32" team="Man City" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" last_modified="2013-10-27 16:04:49" minute="4" period="1" second="25" team="Chelsea" time="4" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-27 16:04:49" minute="4" period="1" second="25" team="Man City" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill misses attempt (High, 18-yard box, Big Chance, Right footed, From corner)" last_modified="2013-10-27 16:03:10" minute="2" period="1" second="46" team="Man City" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" last_modified="2013-10-27 16:02:39" minute="2" period="1" second="15" team="Man City" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-10-27 16:00:24" minute="0" period="1" second="0" team="Man City" time="0" type="start" type_id="32"/>
+</Commentary>

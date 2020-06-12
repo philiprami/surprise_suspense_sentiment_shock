@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2014-01-18 12:45" game_id_2="27129004" game_id_4="112425845" home_team_name="Southampton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-18 14:25:00" minute="97" period="2" second="3" team="Southampton" time="100" type="end" type_id="30"/>
+	<message comment="Ki Sung-Yueng has shot blocked (18-yard box, Left footed, From corner)" last_modified="2014-01-18 14:24:27" minute="96" period="2" second="30" team="Southampton" time="99" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Shaw blocks a shot" last_modified="2014-01-18 14:24:27" minute="96" period="2" second="30" team="Sunderland" time="99" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher wins a corner (To the left)" last_modified="2014-01-18 14:23:47" minute="95" period="2" second="50" team="Southampton" time="98" type="corner" type_id="6"/>
+	<message comment="José Fonte blocks a shot" last_modified="2014-01-18 14:18:42" minute="90" period="2" second="45" team="Sunderland" time="93" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has shot blocked (Out of box, Right footed, Throw-in)" last_modified="2014-01-18 14:18:42" minute="90" period="2" second="45" team="Southampton" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren is substituted off" last_modified="2014-01-18 14:15:22" minute="87" period="2" second="25" team="Sunderland" time="90" type="substitution off" type_id="18"/>
+	<message comment="Maya Yoshida is substituted on" last_modified="2014-01-18 14:15:22" minute="87" period="2" second="25" team="Sunderland" time="90" type="substitution on" type_id="19"/>
+	<message comment="Gastón Ramírez is substituted off" last_modified="2014-01-18 14:14:22" minute="86" period="2" second="25" team="Sunderland" time="89" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" last_modified="2014-01-18 14:14:22" minute="86" period="2" second="25" team="Sunderland" time="89" type="substitution on" type_id="19"/>
+	<message comment="Adam Johnson has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-01-18 14:09:57" minute="82" period="2" second="0" team="Southampton" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving, Collected)" last_modified="2014-01-18 14:09:57" minute="82" period="2" second="0" team="Sunderland" time="85" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2014-01-18 14:07:57" minute="80" period="2" team="Southampton" time="83" type="offside" type_id="10000"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2014-01-18 14:04:57" minute="77" period="2" team="Southampton" time="80" type="offside" type_id="10000"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, From corner)" last_modified="2014-01-18 14:03:04" minute="75" period="2" second="7" team="Southampton" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Parried safe, Diving)" last_modified="2014-01-18 14:03:04" minute="75" period="2" second="7" team="Sunderland" time="78" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert blocks a shot" last_modified="2014-01-18 14:03:02" minute="75" period="2" second="5" team="Sunderland" time="78" type="save made" type_id="10"/>
+	<message comment="Craig Gardner has shot blocked (Out of box, Right footed, From corner)" last_modified="2014-01-18 14:03:02" minute="75" period="2" second="5" team="Southampton" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson wins a corner (To the right)" last_modified="2014-01-18 14:02:35" minute="74" period="2" second="38" team="Southampton" time="77" type="corner" type_id="6"/>
+	<message comment="Craig Gardner has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2014-01-18 14:02:29" minute="74" period="2" second="32" team="Southampton" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Parried into danger, Diving)" last_modified="2014-01-18 14:02:29" minute="74" period="2" second="32" team="Sunderland" time="77" type="save made" type_id="10"/>
+	<message comment="Adam Lallana is substituted off" last_modified="2014-01-18 14:01:09" minute="73" period="2" second="12" team="Sunderland" time="76" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" last_modified="2014-01-18 14:01:09" minute="73" period="2" second="12" team="Sunderland" time="76" type="substitution on" type_id="19"/>
+	<message comment="Jozy Altidore is substituted off" last_modified="2014-01-18 13:59:27" minute="71" period="2" second="30" team="Southampton" time="74" type="substitution off" type_id="18"/>
+	<message comment="Steven Fletcher is substituted on" last_modified="2014-01-18 13:59:27" minute="71" period="2" second="30" team="Southampton" time="74" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Adam Johnson scores , Assisted by Craig Gardner (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:58:39" minute="70" period="2" second="42" team="Southampton" time="73" type="goal scored" type_id="16"/>
+	<message comment="Fabio Borini is caught offside" last_modified="2014-01-18 13:50:57" minute="63" period="2" team="Southampton" time="66" type="offside" type_id="10000"/>
+	<message comment="Sebastian Larsson is substituted off" last_modified="2014-01-18 13:50:10" minute="62" period="2" second="13" team="Southampton" time="65" type="substitution off" type_id="18"/>
+	<message comment="Jack Colback is substituted on" last_modified="2014-01-18 13:50:10" minute="62" period="2" second="13" team="Southampton" time="65" type="substitution on" type_id="19"/>
+	<message comment="Lee Cattermole is substituted off" last_modified="2014-01-18 13:49:56" minute="61" period="2" second="59" team="Southampton" time="64" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" last_modified="2014-01-18 13:49:56" minute="61" period="2" second="59" team="Southampton" time="64" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:48:38" minute="60" period="2" second="41" team="Sunderland" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Luke Shaw wins a corner (To the right)" last_modified="2014-01-18 13:47:08" minute="59" period="2" second="11" team="Sunderland" time="62" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Parried safe, From shot off target, Diving)" last_modified="2014-01-18 13:47:05" minute="59" period="2" second="8" team="Southampton" time="62" type="save made" type_id="10"/>
+	<message comment="Luke Shaw misses attempt (Out of box, Left footed, Fast break)" last_modified="2014-01-18 13:47:05" minute="59" period="2" second="8" team="Sunderland" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Diving, Collected)" last_modified="2014-01-18 13:46:01" minute="58" period="2" second="4" team="Southampton" time="61" type="save made" type_id="10"/>
+	<message comment="José Fonte has attempt saved (Low to the right, 18-yard box, Head, Set piece)" last_modified="2014-01-18 13:46:01" minute="58" period="2" second="4" team="Sunderland" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried into danger)" last_modified="2014-01-18 13:43:52" minute="55" period="2" second="55" team="Southampton" time="58" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-01-18 13:43:52" minute="55" period="2" second="55" team="Sunderland" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Diving, Collected)" last_modified="2014-01-18 13:42:05" minute="54" period="2" second="8" team="Southampton" time="57" type="save made" type_id="10"/>
+	<message comment="Calum Chambers has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-01-18 13:42:05" minute="54" period="2" second="8" team="Sunderland" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Marcos Alonso is caught offside" last_modified="2014-01-18 13:37:57" minute="50" period="2" team="Southampton" time="53" type="offside" type_id="10000"/>
+	<message comment="Vito Mannone makes a save (Standing)" last_modified="2014-01-18 13:36:27" minute="48" period="2" second="30" team="Southampton" time="51" type="save made" type_id="10"/>
+	<message comment="Luke Shaw has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-01-18 13:36:27" minute="48" period="2" second="30" team="Sunderland" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Jozy Altidore wins a corner (To the left)" last_modified="2014-01-18 13:35:39" minute="47" period="2" second="42" team="Southampton" time="50" type="corner" type_id="6"/>
+	<message comment="Steven Davis misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-01-18 13:33:10" minute="45" period="2" second="13" team="Sunderland" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2014-01-18 13:32:57" minute="45" period="2" second="0" team="Southampton" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-18 13:35:02" minute="47" period="1" second="5" team="Southampton" time="47" type="end" type_id="30"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" last_modified="2014-01-18 13:34:23" minute="46" period="1" second="26" team="Sunderland" time="46" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried safe)" last_modified="2014-01-18 13:34:20" minute="46" period="1" second="23" team="Southampton" time="46" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (High to the right, Out of box, Right footed, Free kick)" last_modified="2014-01-18 13:34:20" minute="46" period="1" second="23" team="Sunderland" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-18 13:29:37" minute="41" period="1" second="40" team="Sunderland" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Wes Brown blocks a shot" last_modified="2014-01-18 13:29:35" minute="41" period="1" second="38" team="Southampton" time="41" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-18 13:29:35" minute="41" period="1" second="38" team="Sunderland" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Ki Sung-Yueng recieves a yellow card" last_modified="2014-01-18 13:25:24" minute="37" period="1" second="27" team="Southampton" time="37" type="card received" type_id="17"/>
+	<message comment="Jay Rodriguez wins a corner (To the right)" last_modified="2014-01-18 13:24:54" minute="36" period="1" second="57" team="Sunderland" time="36" type="corner" type_id="6"/>
+	<message comment="Wes Brown misses attempt (To the left, 6-yard box, Head, From corner)" last_modified="2014-01-18 13:21:34" minute="33" period="1" second="37" team="Southampton" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" last_modified="2014-01-18 13:21:09" minute="33" period="1" second="12" team="Southampton" time="33" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:21:07" minute="33" period="1" second="10" team="Southampton" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte blocks a shot" last_modified="2014-01-18 13:21:07" minute="33" period="1" second="10" team="Sunderland" time="33" type="save made" type_id="10"/>
+	<message comment="GOAL! Fabio Borini scores , Assisted by Adam Johnson (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-18 13:19:31" minute="31" period="1" second="34" team="Southampton" time="31" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Dejan Lovren scores , Assisted by Steven Davis (Low to the left, 18-yard box, Right footed, From corner)" last_modified="2014-01-18 13:18:05" minute="30" period="1" second="8" team="Sunderland" time="30" type="goal scored" type_id="16"/>
+	<message comment="Adam Lallana wins a corner (To the right)" last_modified="2014-01-18 13:17:43" minute="29" period="1" second="46" team="Sunderland" time="29" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Diving)" last_modified="2014-01-18 13:16:17" minute="28" period="1" second="20" team="Southampton" time="28" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:16:17" minute="28" period="1" second="20" team="Sunderland" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley is caught offside" last_modified="2014-01-18 13:13:57" minute="26" period="1" team="Southampton" time="26" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert is caught offside" last_modified="2014-01-18 13:12:57" minute="25" period="1" team="Sunderland" time="25" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:08:47" minute="20" period="1" second="50" team="Sunderland" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Luke Shaw wins a corner (To the left)" last_modified="2014-01-18 13:05:27" minute="17" period="1" second="30" team="Sunderland" time="17" type="corner" type_id="6"/>
+	<message comment="Steven Davis wins a corner (To the right)" last_modified="2014-01-18 13:04:49" minute="16" period="1" second="52" team="Sunderland" time="16" type="corner" type_id="6"/>
+	<message comment="Jack Cork wins a corner (To the right)" last_modified="2014-01-18 13:04:16" minute="16" period="1" second="19" team="Sunderland" time="16" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley blocks a shot" last_modified="2014-01-18 13:04:00" minute="16" period="1" second="3" team="Southampton" time="16" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:04:00" minute="16" period="1" second="3" team="Sunderland" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley blocks a shot" last_modified="2014-01-18 13:02:54" minute="14" period="1" second="57" team="Southampton" time="14" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-18 13:02:54" minute="14" period="1" second="57" team="Sunderland" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Cork misses attempt (High, Out of box, Right footed, Open play)" last_modified="2014-01-18 13:00:27" minute="12" period="1" second="30" team="Sunderland" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Lee Cattermole recieves a yellow card" last_modified="2014-01-18 12:58:03" minute="10" period="1" second="6" team="Southampton" time="10" type="card received" type_id="17"/>
+	<message comment="Formation Set" last_modified="2014-01-18 12:47:57" minute="0" period="14" second="0" team="Southampton" time="10" type="end" type_id="30"/>
+	<message comment="GOAL! Jay Rodriguez scores , Assisted by Morgan Schneiderlin (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-01-18 12:51:46" minute="3" period="1" second="49" team="Sunderland" time="3" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" last_modified="2014-01-18 12:47:57" minute="0" period="1" second="0" team="Southampton" time="0" type="start" type_id="32"/>
+</Commentary>

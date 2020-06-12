@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-01-29" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="59" time="97" type="end" type_id="30"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="89" period="2" second="52" time="92" type="save made" type_id="10"/>
+	<message comment="Ron Vlaar has shot blocked (Out of box, Left footed, Open play)" minute="89" period="2" second="52" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi recieves a yellow card" minute="86" period="2" second="43" time="89" type="card received" type_id="17"/>
+	<message comment="Vurnon Anita is caught offside" minute="85" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="81" period="2" second="21" time="84" type="save made" type_id="10"/>
+	<message comment="Nathan Baker has shot blocked (18-yard box, Big Chance, Head, From corner)" minute="81" period="2" second="20" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Lowton wins a corner (To the right)" minute="80" period="2" second="57" time="83" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez misses attempt (To the right, Out of box, Right footed, Open play)" minute="79" period="2" second="55" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko is substituted off" minute="79" period="2" second="7" time="82" type="substitution off" type_id="18"/>
+	<message comment="Mapou Yanga-Mbiwa is substituted on" minute="79" period="2" second="7" time="82" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Agbonlahor recieves a yellow card" minute="77" period="2" second="2" time="80" type="card received" type_id="17"/>
+	<message comment="Matthew Lowton recieves a yellow card" minute="75" period="2" second="33" time="78" type="card received" type_id="17"/>
+	<message comment="Ciaran Clark blocks a shot" minute="74" period="2" second="32" time="77" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita has shot blocked (Out of box, Right footed, Open play)" minute="74" period="2" second="32" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Yoan Gouffran is substituted off" minute="73" period="2" second="49" time="76" type="substitution off" type_id="18"/>
+	<message comment="Vurnon Anita is substituted on" minute="73" period="2" second="49" time="76" type="substitution on" type_id="19"/>
+	<message comment="Christian Benteke is caught offside" minute="72" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Matthew Lowton wins a corner (To the right)" minute="70" period="2" second="57" time="73" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood misses attempt (High, Out of box, Right footed, Set piece)" minute="69" period="2" second="15" time="72" type="attempt missed" type_id="13"/>
+	<message comment="James Perch is substituted off" minute="68" period="2" second="54" time="71" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="68" period="2" second="54" time="71" type="substitution on" type_id="19"/>
+	<message comment="Nathan Baker recieves a yellow card" minute="66" period="2" second="17" time="69" type="card received" type_id="17"/>
+	<message comment="Brad Guzan makes a save (From shot off target)" minute="63" period="2" second="7" time="66" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="63" period="2" second="4" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke recieves a yellow card" minute="60" period="2" second="42" time="63" type="card received" type_id="17"/>
+	<message comment="Andreas Weimann has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="59" period="2" second="31" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="59" period="2" second="31" time="62" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia misses attempt (18-yard box, Left footed, Open play)" minute="57" period="2" second="13" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan misses attempt (High, Out of box, Left footed, Open play)" minute="55" period="2" second="54" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the left, Out of box, Left footed, Open play)" minute="55" period="2" second="20" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Andreas Weimann wins a corner (To the right)" minute="54" period="2" second="11" time="57" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez recieves a yellow card" minute="51" period="2" second="53" time="54" type="card received" type_id="17"/>
+	<message comment="GOAL! Christian Benteke scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="48" period="2" second="12" time="51" type="goal scored" type_id="16"/>
+	<message comment="Christian Benteke has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="46" period="2" second="34" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="46" period="2" second="34" time="49" type="save made" type_id="10"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="45" period="2" second="28" time="48" type="save made" type_id="10"/>
+	<message comment="Andreas Weimann has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="45" period="2" second="28" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="Darren Bent is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Andreas Weimann is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Joe Bennett is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Gabriel Agbonlahor is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Yoan Gouffran misses attempt (To the left, Out of box, Right footed, Open play)" minute="46" period="1" second="39" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia recieves a yellow card" minute="41" period="1" second="47" time="41" type="card received" type_id="17"/>
+	<message comment="Christian Benteke misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="40" period="1" second="58" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy wins a corner (To the left)" minute="35" period="1" second="13" time="35" type="corner" type_id="6"/>
+	<message comment="Barry Bannan blocks a shot" minute="35" period="1" second="12" time="35" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy has shot blocked (Out of box, Right footed, Open play)" minute="35" period="1" second="12" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Ciaran Clark blocks a shot" minute="34" period="1" second="56" time="34" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Free kick)" minute="34" period="1" second="56" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Yohan Cabaye scores  (Low to the right, Out of box, Right footed, Open play)" minute="30" period="1" second="24" time="30" type="goal scored" type_id="16"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="26" period="1" second="41" time="26" type="corner" type_id="6"/>
+	<message comment="Barry Bannan has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="21" period="1" second="7" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save" minute="21" period="1" second="7" time="21" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia hits the woodwork (To the left, Out of box, Left footed, Open play)" minute="21" period="1" second="5" time="21" type="woodwork hit" type_id="14"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Moussa Sissoko (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="18" period="1" second="6" time="18" type="goal scored" type_id="16"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="16" period="1" second="38" time="16" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving)" minute="14" period="1" second="23" time="14" type="save made" type_id="10"/>
+	<message comment="Davide Santon has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="14" period="1" second="23" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="7" period="1" second="42" time="7" type="corner" type_id="6"/>
+	<message comment="Ciaran Clark blocks a shot" minute="7" period="1" second="39" time="7" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (18-yard box, Right footed, Open play)" minute="7" period="1" second="39" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Moussa Sissoko misses attempt (High to the right, Out of box, Right footed, Open play)" minute="5" period="1" second="41" time="5" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

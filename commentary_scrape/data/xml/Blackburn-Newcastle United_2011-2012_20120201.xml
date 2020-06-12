@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Blackburn" competition="English Premier League" game_date="2012-02-01" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="15" time="96" type="end" type_id="30"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="94" period="2" second="0" time="96" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="93" period="2" second="58" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="93" period="2" second="58" time="95" type="save made" type_id="10"/>
+	<message comment="GOAL! Gabriel Obertan scores , Assisted by Peter Løvenkrands (Low to the left, 18-yard box, Big Chance, Right footed, Fast break)" minute="91" period="2" second="14" time="93" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save" minute="89" period="2" second="5" time="91" type="save made" type_id="10"/>
+	<message comment="Anthony Modeste has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="89" period="2" second="5" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor is substituted off" minute="88" period="2" second="16" time="90" type="substitution off" type_id="18"/>
+	<message comment="Gabriel Obertan is substituted on" minute="88" period="2" second="16" time="90" type="substitution on" type_id="19"/>
+	<message comment="Gaël Givet wins a corner (To the left)" minute="86" period="2" second="41" time="88" type="corner" type_id="6"/>
+	<message comment="James Perch blocks a shot" minute="86" period="2" second="38" time="88" type="save made" type_id="10"/>
+	<message comment="Gaël Givet has shot blocked (18-yard box, Right footed, From corner)" minute="86" period="2" second="38" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Mauro Formica wins a corner (To the right)" minute="86" period="2" second="19" time="88" type="corner" type_id="6"/>
+	<message comment="Danny Simpson blocks a shot" minute="85" period="2" second="30" time="87" type="save made" type_id="10"/>
+	<message comment="Rubén Rochina has shot blocked (18-yard box, Left footed, Open play)" minute="85" period="2" second="30" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson wins a corner (To the left)" minute="82" period="2" second="17" time="84" type="corner" type_id="6"/>
+	<message comment="Anthony Modeste is caught offside" minute="82" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Mauro Formica misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="44" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Taylor blocks a shot" minute="79" period="2" second="41" time="81" type="save made" type_id="10"/>
+	<message comment="Martin Olsson has shot blocked (Out of box, Left footed, Open play)" minute="79" period="2" second="41" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Modeste wins a corner (To the left)" minute="79" period="2" second="13" time="81" type="corner" type_id="6"/>
+	<message comment="David Dunn is substituted off" minute="77" period="2" second="40" time="79" type="substitution off" type_id="18"/>
+	<message comment="Rubén Rochina is substituted on" minute="77" period="2" second="40" time="79" type="substitution on" type_id="19"/>
+	<message comment="Leon Best is substituted off" minute="76" period="2" second="41" time="78" type="substitution off" type_id="18"/>
+	<message comment="Peter Løvenkrands is substituted on" minute="76" period="2" second="41" time="78" type="substitution on" type_id="19"/>
+	<message comment="Steven Nzonzi misses attempt (High, Out of box, Right footed, Open play)" minute="75" period="2" second="47" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi is caught offside" minute="74" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="68" period="2" second="2" time="70" type="save made" type_id="10"/>
+	<message comment="Scott Dann has attempt saved (High to the centre, 6-yard box, Big Chance, Head, Set piece)" minute="68" period="2" second="2" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="67" period="2" second="22" time="69" type="card received" type_id="17"/>
+	<message comment="Anthony Modeste misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="66" period="2" second="28" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Radosav Petrovic is substituted off" minute="65" period="2" second="20" time="67" type="substitution off" type_id="18"/>
+	<message comment="Mauro Formica is substituted on" minute="65" period="2" second="20" time="67" type="substitution on" type_id="19"/>
+	<message comment="David Junior Hoilett has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="39" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson blocks a shot" minute="64" period="2" second="39" time="66" type="save made" type_id="10"/>
+	<message comment="Anthony Modeste wins a corner (To the right)" minute="63" period="2" second="59" time="65" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="63" period="2" second="24" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Danny Guthrie has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="61" period="2" second="33" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="61" period="2" second="33" time="63" type="save made" type_id="10"/>
+	<message comment="Jason Lowe recieves a yellow card" minute="55" period="2" second="31" time="57" type="card received" type_id="17"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="54" period="2" second="18" time="56" type="corner" type_id="6"/>
+	<message comment="Anthony Modeste misses attempt (To the left, Out of box, Big Chance, Right footed, Open play)" minute="53" period="2" second="50" time="55" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett wins a corner (To the left)" minute="51" period="2" second="20" time="53" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez misses attempt (High, 18-yard box, Right footed, Open play)" minute="45" period="2" second="25" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="17" time="46" type="end" type_id="30"/>
+	<message comment="Tim Krul makes a save (Collected, Standing)" minute="43" period="1" second="27" time="43" type="save made" type_id="10"/>
+	<message comment="Gaël Givet has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="43" period="1" second="27" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving, Penalty)" minute="43" period="1" second="24" time="43" type="save made" type_id="10"/>
+	<message comment="David Dunn has attempt saved (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="43" period="1" second="24" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Modeste misses attempt (High to the right, Out of box, Big Chance, Right footed, Open play)" minute="40" period="1" second="42" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Anthony Modeste is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Steven Nzonzi wins a corner (To the right)" minute="37" period="1" second="15" time="37" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="37" period="1" second="13" time="37" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="13" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Morten Gamst Pedersen misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="35" period="1" second="18" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="35" period="1" second="16" time="35" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (18-yard box, Left footed, Open play)" minute="35" period="1" second="16" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Radosav Petrovic misses attempt (High, Out of box, Left footed, Open play)" minute="32" period="1" second="48" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="31" period="1" second="14" time="31" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="30" period="1" second="50" time="30" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" minute="30" period="1" second="47" time="30" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (Out of box, Left footed, Free kick)" minute="30" period="1" second="47" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor recieves a yellow card" minute="29" period="1" second="52" time="29" type="card received" type_id="17"/>
+	<message comment="Anthony Modeste wins a corner (To the left)" minute="26" period="1" second="43" time="26" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="26" period="1" second="41" time="26" type="save made" type_id="10"/>
+	<message comment="Anthony Modeste has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="26" period="1" second="41" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="David Junior Hoilett misses attempt (18-yard box, Right footed, Open play)" minute="24" period="1" second="25" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the right)" minute="22" period="1" second="13" time="22" type="corner" type_id="6"/>
+	<message comment="Ryan Taylor has shot blocked (18-yard box, Right footed, From corner)" minute="20" period="1" second="55" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson blocks a shot" minute="20" period="1" second="55" time="20" type="save made" type_id="10"/>
+	<message comment="Leon Best wins a corner (To the left)" minute="20" period="1" second="20" time="20" type="corner" type_id="6"/>
+	<message comment="Radosav Petrovic misses attempt (Out of box, Right footed, From corner)" minute="19" period="1" second="32" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Martin Olsson misses attempt (To the right, Out of box, Left footed, From corner)" minute="19" period="1" second="29" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Modeste wins a corner (To the right)" minute="18" period="1" second="59" time="18" type="corner" type_id="6"/>
+	<message comment="Anthony Modeste is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Morten Gamst Pedersen misses attempt (High, Out of box, Left footed, Free kick)" minute="16" period="1" second="47" time="16" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn misses attempt (18-yard box, Left footed, Open play)" minute="15" period="1" second="4" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Gaël Givet misses attempt (18-yard box, Big Chance, Left footed, From corner)" minute="13" period="1" second="32" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson blocks a shot (Last line)" minute="13" period="1" second="30" time="13" type="save made" type_id="10"/>
+	<message comment="Gaël Givet has shot blocked (18-yard box, Big Chance, Left footed, From corner)" minute="13" period="1" second="30" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="12" period="1" second="59" time="12" type="corner" type_id="6"/>
+	<message comment="Scott Dann scores an OWN GOAL!  (Low to the right, Out of box, Left footed, Open play)" minute="11" period="1" second="36" time="11" type="goal scored" type_id="16"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Open play)" minute="11" period="1" second="35" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Dann blocks a shot" minute="11" period="1" second="35" time="11" type="save made" type_id="10"/>
+	<message comment="Leon Best is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Shola Ameobi misses attempt (To the right, 18-yard box, Head, Set piece)" minute="9" period="1" second="31" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Scott Dann blocks a shot" minute="5" period="1" second="15" time="5" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has shot blocked (18-yard box, Left footed, Open play)" minute="5" period="1" second="15" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Modeste is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

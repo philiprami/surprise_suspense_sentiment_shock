@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2014-03-08 17:30" game_id_2="27159115" game_id_4="113030988" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-03-08 19:16:34" minute="94" period="2" second="0" team="Tottenham" time="97" type="end" type_id="30"/>
+	<message comment="GOAL! Demba Ba scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-08 19:11:33" minute="88" period="2" second="59" team="Tottenham" time="91" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Demba Ba scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-08 19:10:18" minute="87" period="2" second="44" team="Tottenham" time="90" type="goal scored" type_id="16"/>
+	<message comment="César Azpilicueta recieves a yellow card" last_modified="2014-03-08 19:07:45" minute="85" period="2" second="11" team="Tottenham" time="88" type="card received" type_id="17"/>
+	<message comment="Oscar misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-08 19:05:16" minute="82" period="2" second="42" team="Tottenham" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba is substituted on" last_modified="2014-03-08 18:58:15" minute="75" period="2" second="41" team="Tottenham" time="78" type="substitution on" type_id="19"/>
+	<message comment="Samuel Eto'o is substituted off" last_modified="2014-03-08 18:58:15" minute="75" period="2" second="41" team="Tottenham" time="78" type="substitution off" type_id="18"/>
+	<message comment="Michael Dawson is substituted off" last_modified="2014-03-08 18:53:57" minute="71" period="2" second="23" team="Chelsea" time="74" type="substitution off" type_id="18"/>
+	<message comment="Ezekiel Fryers is substituted on" last_modified="2014-03-08 18:53:57" minute="71" period="2" second="23" team="Chelsea" time="74" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle is substituted off" last_modified="2014-03-08 18:48:10" minute="65" period="2" second="36" team="Tottenham" time="68" type="substitution off" type_id="18"/>
+	<message comment="Willian is substituted on" last_modified="2014-03-08 18:48:10" minute="65" period="2" second="36" team="Tottenham" time="68" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Head, From corner)" last_modified="2014-03-08 18:46:57" minute="64" period="2" second="23" team="Tottenham" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen blocks a shot" last_modified="2014-03-08 18:46:57" minute="64" period="2" second="23" team="Chelsea" time="67" type="save made" type_id="10"/>
+	<message comment="Oscar wins a corner (To the right)" last_modified="2014-03-08 18:46:36" minute="64" period="2" second="2" team="Tottenham" time="67" type="corner" type_id="6"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-08 18:46:34" minute="64" period="2" team="Tottenham" time="67" type="offside" type_id="10000"/>
+	<message comment="André Schürrle wins a corner (To the right)" last_modified="2014-03-08 18:46:12" minute="63" period="2" second="38" team="Tottenham" time="66" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson is substituted off" last_modified="2014-03-08 18:43:00" minute="60" period="2" second="26" team="Chelsea" time="63" type="substitution off" type_id="18"/>
+	<message comment="Paulinho is substituted on" last_modified="2014-03-08 18:43:00" minute="60" period="2" second="26" team="Chelsea" time="63" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the centre, 18-yard box, Big Chance, Penalty, Right footed)" last_modified="2014-03-08 18:41:55" minute="59" period="2" second="21" team="Tottenham" time="62" type="goal scored" type_id="16"/>
+	<message comment="Younes Kaboul recieves a red card" last_modified="2014-03-08 18:41:01" minute="58" period="2" second="27" team="Chelsea" time="61" type="card received" type_id="17"/>
+	<message comment="GOAL! Samuel Eto'o scores  (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-08 18:37:46" minute="55" period="2" second="12" team="Tottenham" time="58" type="goal scored" type_id="16"/>
+	<message comment="Sandro recieves a yellow card" last_modified="2014-03-08 18:36:30" minute="53" period="2" second="56" team="Chelsea" time="56" type="card received" type_id="17"/>
+	<message comment="Kyle Naughton recieves a yellow card" last_modified="2014-03-08 18:35:09" minute="52" period="2" second="35" team="Chelsea" time="55" type="card received" type_id="17"/>
+	<message comment="Eden Hazard wins a corner (To the right)" last_modified="2014-03-08 18:34:25" minute="51" period="2" second="51" team="Tottenham" time="54" type="corner" type_id="6"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Head, Open play)" last_modified="2014-03-08 18:34:22" minute="51" period="2" second="48" team="Tottenham" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" last_modified="2014-03-08 18:34:22" minute="51" period="2" second="48" team="Chelsea" time="54" type="save made" type_id="10"/>
+	<message comment="André Schürrle misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-03-08 18:32:23" minute="49" period="2" second="49" team="Tottenham" time="52" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle misses attempt (18-yard box, Left footed, Open play)" last_modified="2014-03-08 18:31:49" minute="49" period="2" second="15" team="Tottenham" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Diving)" last_modified="2014-03-08 18:31:02" minute="48" period="2" second="28" team="Tottenham" time="51" type="save made" type_id="10"/>
+	<message comment="Younes Kaboul has attempt saved (Low to the centre, 18-yard box, Head, From corner)" last_modified="2014-03-08 18:31:02" minute="48" period="2" second="28" team="Chelsea" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2014-03-08 18:30:33" minute="47" period="2" second="59" team="Chelsea" time="50" type="corner" type_id="6"/>
+	<message comment="Jan Vertonghen misses attempt (High, Out of box, Left footed, Open play)" last_modified="2014-03-08 18:28:12" minute="45" period="2" second="38" team="Chelsea" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Oscar is substituted on" last_modified="2014-03-08 18:27:34" minute="45" period="2" second="0" team="Tottenham" time="48" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard is substituted off" last_modified="2014-03-08 18:27:34" minute="45" period="2" second="0" team="Tottenham" time="48" type="substitution off" type_id="18"/>
+	<message comment="Second half begins!" last_modified="2014-03-08 18:27:34" minute="45" period="2" second="0" team="Tottenham" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-03-08 18:29:42" minute="47" period="1" second="8" team="Tottenham" time="47" type="end" type_id="30"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" last_modified="2014-03-08 18:29:20" minute="46" period="1" second="46" team="Tottenham" time="46" type="corner" type_id="6"/>
+	<message comment="Frank Lampard misses attempt (To the right, Out of box, Right footed, From corner)" last_modified="2014-03-08 18:25:01" minute="42" period="1" second="27" team="Tottenham" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Nemanja Matic wins a corner (To the left)" last_modified="2014-03-08 18:24:44" minute="42" period="1" second="10" team="Tottenham" time="42" type="corner" type_id="6"/>
+	<message comment="Frank Lampard recieves a yellow card" last_modified="2014-03-08 18:22:13" minute="39" period="1" second="39" team="Tottenham" time="39" type="card received" type_id="17"/>
+	<message comment="Ramires is caught offside" last_modified="2014-03-08 18:13:34" minute="31" period="1" team="Tottenham" time="31" type="offside" type_id="10000"/>
+	<message comment="Samuel Eto'o misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-03-08 18:11:31" minute="28" period="1" second="57" team="Tottenham" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Nemanja Matic is caught offside" last_modified="2014-03-08 18:10:34" minute="28" period="1" team="Tottenham" time="28" type="offside" type_id="10000"/>
+	<message comment="Nabil Bentaleb has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-03-08 18:09:05" minute="26" period="1" second="31" team="Chelsea" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Nemanja Matic blocks a shot" last_modified="2014-03-08 18:09:02" minute="26" period="1" second="28" team="Tottenham" time="26" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-03-08 18:09:02" minute="26" period="1" second="28" team="Chelsea" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson is caught offside" last_modified="2014-03-08 18:08:34" minute="26" period="1" team="Chelsea" time="26" type="offside" type_id="10000"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-08 18:07:34" minute="25" period="1" team="Tottenham" time="25" type="offside" type_id="10000"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-08 18:06:34" minute="24" period="1" team="Tottenham" time="24" type="offside" type_id="10000"/>
+	<message comment="Sandro wins a corner (To the left)" last_modified="2014-03-08 18:05:04" minute="22" period="1" second="30" team="Chelsea" time="22" type="corner" type_id="6"/>
+	<message comment="Sandro has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-03-08 18:05:03" minute="22" period="1" second="29" team="Chelsea" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" last_modified="2014-03-08 18:05:03" minute="22" period="1" second="29" team="Tottenham" time="22" type="save made" type_id="10"/>
+	<message comment="Kyle Walker wins a corner (To the left)" last_modified="2014-03-08 17:58:37" minute="16" period="1" second="3" team="Chelsea" time="16" type="corner" type_id="6"/>
+	<message comment="Nabil Bentaleb misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2014-03-08 17:55:55" minute="13" period="1" second="21" team="Chelsea" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Nabil Bentaleb recieves a yellow card" last_modified="2014-03-08 17:51:28" minute="8" period="1" second="54" team="Chelsea" time="8" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" last_modified="2014-03-08 17:49:38" minute="7" period="1" second="4" team="Chelsea" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2014-03-08 17:42:34" minute="0" period="14" second="0" team="Tottenham" time="7" type="end" type_id="30"/>
+	<message comment="Gylfi Sigurdsson is caught offside" last_modified="2014-03-08 17:47:34" minute="5" period="1" team="Chelsea" time="5" type="offside" type_id="10000"/>
+	<message comment="Eden Hazard misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-08 17:46:29" minute="3" period="1" second="55" team="Tottenham" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o is caught offside" last_modified="2014-03-08 17:42:34" minute="0" period="1" team="Tottenham" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2014-03-08 17:42:34" minute="0" period="1" second="0" team="Tottenham" time="0" type="start" type_id="32"/>
+</Commentary>

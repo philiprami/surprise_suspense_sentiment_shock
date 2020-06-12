@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-11-10 14:05" game_id_2="27094340" game_id_4="111728029" home_team_name="Man City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-10 16:56:10" minute="93" period="2" second="26" team="Man City" time="95" type="end" type_id="30"/>
+	<message comment="Joleon Lescott misses attempt (High to the left, 6-yard box, Head, From corner)" last_modified="2013-11-10 16:55:46" minute="93" period="2" second="2" team="Sunderland" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the right)" last_modified="2013-11-10 16:55:29" minute="92" period="2" second="45" team="Sunderland" time="94" type="corner" type_id="6"/>
+	<message comment="Ondrej Celustka blocks a shot" last_modified="2013-11-10 16:54:48" minute="92" period="2" second="4" team="Man City" time="94" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Head, Open play)" last_modified="2013-11-10 16:54:48" minute="92" period="2" second="4" team="Sunderland" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Jesús Navas wins a corner (To the left)" last_modified="2013-11-10 16:51:05" minute="88" period="2" second="21" team="Sunderland" time="90" type="corner" type_id="6"/>
+	<message comment="Adam Johnson is substituted off" last_modified="2013-11-10 16:49:38" minute="86" period="2" second="54" team="Man City" time="88" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" last_modified="2013-11-10 16:49:38" minute="86" period="2" second="54" team="Man City" time="88" type="substitution on" type_id="19"/>
+	<message comment="Phil Bardsley blocks a shot" last_modified="2013-11-10 16:48:49" minute="86" period="2" second="5" team="Man City" time="88" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-10 16:48:49" minute="86" period="2" second="5" team="Sunderland" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" last_modified="2013-11-10 16:46:21" minute="83" period="2" second="37" team="Man City" time="85" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-10 16:46:21" minute="83" period="2" second="37" team="Sunderland" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-11-10 16:45:30" minute="82" period="2" second="46" team="Man City" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Costel Pantilimon makes a save" last_modified="2013-11-10 16:45:30" minute="82" period="2" second="46" team="Sunderland" time="84" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov misses attempt (Out of box, Left footed, Open play)" last_modified="2013-11-10 16:44:43" minute="81" period="2" second="59" team="Sunderland" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Head, From corner)" last_modified="2013-11-10 16:42:33" minute="79" period="2" second="49" team="Sunderland" time="81" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the left)" last_modified="2013-11-10 16:42:14" minute="79" period="2" second="30" team="Sunderland" time="81" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" last_modified="2013-11-10 16:40:37" minute="77" period="2" second="53" team="Sunderland" time="79" type="corner" type_id="6"/>
+	<message comment="Joleon Lescott misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-11-10 16:40:31" minute="77" period="2" second="47" team="Sunderland" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" last_modified="2013-11-10 16:40:13" minute="77" period="2" second="29" team="Sunderland" time="79" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher is substituted off" last_modified="2013-11-10 16:39:16" minute="76" period="2" second="32" team="Man City" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jozy Altidore is substituted on" last_modified="2013-11-10 16:39:16" minute="76" period="2" second="32" team="Man City" time="78" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is caught offside" last_modified="2013-11-10 16:36:44" minute="74" period="2" team="Sunderland" time="76" type="offside" type_id="10000"/>
+	<message comment="Emanuele Giaccherini is substituted off" last_modified="2013-11-10 16:34:27" minute="71" period="2" second="43" team="Man City" time="73" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" last_modified="2013-11-10 16:34:27" minute="71" period="2" second="43" team="Man City" time="73" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-11-10 16:33:48" minute="71" period="2" second="4" team="Sunderland" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried into danger)" last_modified="2013-11-10 16:33:46" minute="71" period="2" second="2" team="Man City" time="73" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (High to the left, Out of box, Left footed, Open play)" last_modified="2013-11-10 16:33:46" minute="71" period="2" second="2" team="Sunderland" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards is substituted off" last_modified="2013-11-10 16:32:59" minute="70" period="2" second="15" team="Sunderland" time="72" type="substitution off" type_id="18"/>
+	<message comment="Pablo Zabaleta is substituted on" last_modified="2013-11-10 16:32:59" minute="70" period="2" second="15" team="Sunderland" time="72" type="substitution on" type_id="19"/>
+	<message comment="Álvaro Negredo is substituted off" last_modified="2013-11-10 16:32:54" minute="70" period="2" second="10" team="Sunderland" time="72" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" last_modified="2013-11-10 16:32:54" minute="70" period="2" second="10" team="Sunderland" time="72" type="substitution on" type_id="19"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the right, 18-yard box, Head, From corner)" last_modified="2013-11-10 16:32:35" minute="69" period="2" second="51" team="Sunderland" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2013-11-10 16:32:03" minute="69" period="2" second="19" team="Sunderland" time="71" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" last_modified="2013-11-10 16:30:16" minute="67" period="2" second="32" team="Sunderland" time="69" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Diving)" last_modified="2013-11-10 16:30:14" minute="67" period="2" second="30" team="Man City" time="69" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-11-10 16:30:14" minute="67" period="2" second="30" team="Sunderland" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the left, Out of box, Left footed, From corner)" last_modified="2013-11-10 16:29:05" minute="66" period="2" second="21" team="Sunderland" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Micah Richards wins a corner (To the right)" last_modified="2013-11-10 16:28:41" minute="65" period="2" second="57" team="Sunderland" time="67" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Collected)" last_modified="2013-11-10 16:27:56" minute="65" period="2" second="12" team="Man City" time="67" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-11-10 16:27:56" minute="65" period="2" second="12" team="Sunderland" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="John O'Shea blocks a shot" last_modified="2013-11-10 16:27:17" minute="64" period="2" second="33" team="Man City" time="66" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-10 16:27:17" minute="64" period="2" second="33" team="Sunderland" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" last_modified="2013-11-10 16:26:56" minute="64" period="2" second="12" team="Sunderland" time="66" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is caught offside" last_modified="2013-11-10 16:24:44" minute="62" period="2" team="Sunderland" time="64" type="offside" type_id="10000"/>
+	<message comment="James Milner misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-10 16:24:03" minute="61" period="2" second="19" team="Sunderland" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2013-11-10 16:21:27" minute="58" period="2" second="43" team="Sunderland" time="60" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng misses attempt (Out of box, Right footed, Open play)" last_modified="2013-11-10 16:20:00" minute="57" period="2" second="16" team="Man City" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Ki Sung-Yueng blocks a shot" last_modified="2013-11-10 16:12:14" minute="49" period="2" second="30" team="Man City" time="51" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-10 16:12:14" minute="49" period="2" second="30" team="Sunderland" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley blocks a shot" last_modified="2013-11-10 16:12:12" minute="49" period="2" second="28" team="Man City" time="51" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-11-10 16:12:12" minute="49" period="2" second="28" team="Sunderland" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-11-10 16:08:42" minute="45" period="2" second="58" team="Sunderland" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Javi García is substituted off" last_modified="2013-11-10 16:07:44" minute="45" period="2" second="0" team="Sunderland" time="47" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" last_modified="2013-11-10 16:07:44" minute="45" period="2" second="0" team="Sunderland" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-11-10 16:07:44" minute="45" period="2" second="0" team="Man City" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-10 16:08:52" minute="46" period="1" second="8" team="Man City" time="46" type="end" type_id="30"/>
+	<message comment="Samir Nasri wins a corner (To the left)" last_modified="2013-11-10 16:07:41" minute="44" period="1" second="57" team="Sunderland" time="44" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-10 15:58:37" minute="35" period="1" second="53" team="Man City" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Martín Demichelis blocks a shot" last_modified="2013-11-10 15:58:37" minute="35" period="1" second="53" team="Sunderland" time="35" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-10 15:56:20" minute="33" period="1" second="36" team="Sunderland" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (6-yard box, Big Chance, Head, Open play)" last_modified="2013-11-10 15:54:36" minute="31" period="1" second="52" team="Sunderland" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Wes Brown blocks a shot" last_modified="2013-11-10 15:51:59" minute="29" period="1" second="15" team="Man City" time="29" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-10 15:51:59" minute="29" period="1" second="15" team="Sunderland" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Brown blocks a shot" last_modified="2013-11-10 15:51:24" minute="28" period="1" second="40" team="Man City" time="28" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, From corner)" last_modified="2013-11-10 15:51:24" minute="28" period="1" second="40" team="Sunderland" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo wins a corner (To the left)" last_modified="2013-11-10 15:51:01" minute="28" period="1" second="17" team="Sunderland" time="28" type="corner" type_id="6"/>
+	<message comment="James Milner wins a corner (To the right)" last_modified="2013-11-10 15:49:59" minute="27" period="1" second="15" team="Sunderland" time="27" type="corner" type_id="6"/>
+	<message comment="Javi García recieves a yellow card" last_modified="2013-11-10 15:47:49" minute="25" period="1" second="5" team="Sunderland" time="25" type="card received" type_id="17"/>
+	<message comment="GOAL! Phil Bardsley scores , Assisted by Wes Brown (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-10 15:43:26" minute="20" period="1" second="42" team="Man City" time="20" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-10 15:42:15" minute="19" period="1" second="31" team="Sunderland" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-11-10 15:35:40" minute="12" period="1" second="56" team="Man City" time="12" type="attempt missed" type_id="13"/>
+	<message comment="James Milner has attempt saved (High to the left, Out of box, Left footed, Open play)" last_modified="2013-11-10 15:30:14" minute="7" period="1" second="30" team="Sunderland" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe)" last_modified="2013-11-10 15:30:14" minute="7" period="1" second="30" team="Man City" time="7" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" last_modified="2013-11-10 15:29:22" minute="6" period="1" second="38" team="Sunderland" time="6" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-11-10 15:22:44" minute="0" period="14" second="0" team="Man City" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" last_modified="2013-11-10 15:22:44" minute="0" period="1" second="0" team="Man City" time="0" type="start" type_id="32"/>
+</Commentary>

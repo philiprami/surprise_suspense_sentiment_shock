@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2012-09-01" home_team_name="Everton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="19" time="99" type="end" type_id="30"/>
+	<message comment="Gareth McAuley blocks a shot" minute="94" period="2" second="34" time="98" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" minute="94" period="2" second="34" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison is caught offside" minute="93" period="2" time="97" type="offside" type_id="10000"/>
+	<message comment="Marouane Fellaini misses attempt (To the left, 18-yard box, Head, From corner)" minute="90" period="2" second="48" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="90" period="2" second="27" time="94" type="corner" type_id="6"/>
+	<message comment="Victor Anichebe has shot blocked (18-yard box, Left footed, Open play)" minute="82" period="2" second="40" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="82" period="2" second="40" time="86" type="save made" type_id="10"/>
+	<message comment="GOAL! Gareth McAuley scores , Assisted by Chris Brunt (Low to the centre, 6-yard box, Big Chance, Head, From corner)" minute="81" period="2" second="36" time="85" type="goal scored" type_id="16"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="80" period="2" second="59" time="84" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="80" period="2" second="58" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" minute="80" period="2" second="58" time="84" type="save made" type_id="10"/>
+	<message comment="Claudio Yacob misses attempt (Out of box, Right footed, Open play)" minute="80" period="2" second="5" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="78" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="James Morrison misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="75" period="2" second="44" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is substituted off" minute="74" period="2" second="55" time="78" type="substitution off" type_id="18"/>
+	<message comment="Chris Brunt is substituted on" minute="74" period="2" second="55" time="78" type="substitution on" type_id="19"/>
+	<message comment="Shane Long wins a corner (To the left)" minute="74" period="2" second="35" time="78" type="corner" type_id="6"/>
+	<message comment="Shane Long is caught offside" minute="73" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Phil Neville is substituted off" minute="72" period="2" second="55" time="76" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" minute="72" period="2" second="55" time="76" type="substitution on" type_id="19"/>
+	<message comment="Marouane Fellaini recieves a yellow card" minute="70" period="2" second="30" time="74" type="card received" type_id="17"/>
+	<message comment="Phil Neville recieves a yellow card" minute="69" period="2" second="1" time="73" type="card received" type_id="17"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="67" period="2" second="42" time="71" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="67" period="2" second="41" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Left footed, Open play)" minute="67" period="2" second="9" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman blocks a shot" minute="67" period="2" second="9" time="71" type="save made" type_id="10"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="66" period="2" second="38" time="70" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin recieves a yellow card" minute="65" period="2" second="59" time="69" type="card received" type_id="17"/>
+	<message comment="GOAL! Shane Long scores , Assisted by Peter Odemwingie (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="64" period="2" second="36" time="68" type="goal scored" type_id="16"/>
+	<message comment="Marouane Fellaini misses attempt (High to the left, 18-yard box, Big Chance, Left footed, Fast break)" minute="63" period="2" second="3" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="63" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Billy Jones wins a corner (To the right)" minute="62" period="2" second="18" time="66" type="corner" type_id="6"/>
+	<message comment="Steven Naismith is substituted off" minute="61" period="2" second="50" time="65" type="substitution off" type_id="18"/>
+	<message comment="Kevin Mirallas is substituted on" minute="61" period="2" second="50" time="65" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans is substituted off" minute="57" period="2" second="1" time="61" type="substitution off" type_id="18"/>
+	<message comment="Peter Odemwingie is substituted on" minute="57" period="2" second="1" time="61" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans wins a corner (To the right)" minute="56" period="2" second="45" time="60" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Right footed, Free kick)" minute="56" period="2" second="40" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="56" period="2" second="40" time="60" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="53" period="2" second="48" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="53" period="2" second="18" time="57" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="53" period="2" second="16" time="57" type="save made" type_id="10"/>
+	<message comment="Leighton Baines has shot blocked (18-yard box, Left footed, Open play)" minute="53" period="2" second="16" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid is substituted off" minute="52" period="2" second="17" time="56" type="substitution off" type_id="18"/>
+	<message comment="Billy Jones is substituted on" minute="52" period="2" second="17" time="56" type="substitution on" type_id="19"/>
+	<message comment="Youssouf Mulumbu misses attempt (To the right, Out of box, Right footed, Open play)" minute="50" period="2" second="11" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid recieves a yellow card" minute="46" period="2" second="19" time="50" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="10" time="48" type="end" type_id="30"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="47" period="1" time="47" type="offside" type_id="10000"/>
+	<message comment="Nikica Jelavic is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="James Morrison has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="44" period="1" second="2" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving)" minute="44" period="1" second="2" time="44" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Collected, Standing)" minute="38" period="1" second="11" time="38" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="38" period="1" second="11" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Tony Hibbert recieves a yellow card" minute="35" period="1" second="51" time="35" type="card received" type_id="17"/>
+	<message comment="Marouane Fellaini misses attempt (18-yard box, Head, Open play)" minute="29" period="1" second="49" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long hits the woodwork (High, 18-yard box, Head, Open play)" minute="28" period="1" second="30" time="28" type="woodwork hit" type_id="14"/>
+	<message comment="Nikica Jelavic misses attempt (High to the left, 18-yard box, Head, Free kick)" minute="25" period="1" second="18" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Steven Reid has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="21" period="1" second="8" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected, Standing)" minute="21" period="1" second="8" time="21" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the left)" minute="19" period="1" second="55" time="19" type="corner" type_id="6"/>
+	<message comment="Darron Gibson is substituted off" minute="19" period="1" second="17" time="19" type="substitution off" type_id="18"/>
+	<message comment="Tony Hibbert is substituted on" minute="19" period="1" second="17" time="19" type="substitution on" type_id="19"/>
+	<message comment="Marc-Antoine Fortuné misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="17" period="1" second="17" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson blocks a shot" minute="16" period="1" second="53" time="16" type="save made" type_id="10"/>
+	<message comment="Steven Naismith has shot blocked (18-yard box, Left footed, Open play)" minute="16" period="1" second="53" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Nikica Jelavic misses attempt (High to the left, 18-yard box, Head, From corner)" minute="3" period="1" second="53" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="3" period="1" second="26" time="3" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="3" period="1" second="17" time="3" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (Out of box, Right footed, Open play)" minute="3" period="1" second="17" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wolverhampton Wanderers" competition="English Premier League" game_date="2010-08-14" home_team_name="Stoke" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="52" time="97" type="end" type_id="30"/>
+	<message comment="Tuncay Sanli has shot blocked (Out of box, Left footed, Open play)" minute="91" period="2" second="30" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Christophe Berra blocks a shot" minute="91" period="2" second="30" time="95" type="save made" type_id="10"/>
+	<message comment="David Jones misses attempt (18-yard box, Left footed, Open play)" minute="89" period="2" second="49" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Greg Halford is substituted on" minute="88" period="2" second="14" time="92" type="substitution on" type_id="19"/>
+	<message comment="Andy Keogh is substituted off" minute="88" period="2" second="14" time="92" type="substitution off" type_id="18"/>
+	<message comment="Matthew Etherington misses attempt (To the left, Out of box, Left footed, Throw-in)" minute="83" period="2" second="54" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Dean Whitehead recieves a yellow card" minute="77" period="2" second="34" time="81" type="card received" type_id="17"/>
+	<message comment="Robert Huth recieves a yellow card" minute="75" period="2" second="26" time="79" type="card received" type_id="17"/>
+	<message comment="Stephen Ward wins a corner (To the left)" minute="73" period="2" second="42" time="77" type="corner" type_id="6"/>
+	<message comment="Robert Huth blocks a shot" minute="73" period="2" second="40" time="77" type="save made" type_id="10"/>
+	<message comment="Stephen Ward has shot blocked (18-yard box, Left footed, Open play)" minute="73" period="2" second="40" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Sørensen makes a save" minute="73" period="2" second="35" time="77" type="save made" type_id="10"/>
+	<message comment="Stephen Ward has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="73" period="2" second="35" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Ricardo Fuller is caught offside" minute="72" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Stephen Ward wins a corner (To the left)" minute="71" period="2" second="34" time="75" type="corner" type_id="6"/>
+	<message comment="Jelle Van Damme is substituted off" minute="71" period="2" second="1" time="75" type="substitution off" type_id="18"/>
+	<message comment="George Elokobi is substituted on" minute="71" period="2" second="1" time="75" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Fuller wins a corner (To the right)" minute="68" period="2" second="7" time="72" type="corner" type_id="6"/>
+	<message comment="Ricardo Fuller is caught offside" minute="68" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Tuncay Sanli misses attempt (High to the left, Out of box, Left footed, Open play)" minute="66" period="2" second="45" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan is substituted off" minute="66" period="2" second="12" time="70" type="substitution off" type_id="18"/>
+	<message comment="Michael Tonge is substituted on" minute="66" period="2" second="12" time="70" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis misses attempt (To the left, Out of box, Left footed, Open play)" minute="64" period="2" second="55" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Abdoulaye Diagne-Faye wins a corner (To the left)" minute="63" period="2" second="40" time="67" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan wins a corner (To the right)" minute="63" period="2" second="5" time="67" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan has shot blocked (Out of box, Right footed, Open play)" minute="63" period="2" second="2" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Christophe Berra blocks a shot" minute="63" period="2" second="2" time="67" type="save made" type_id="10"/>
+	<message comment="Matthew Jarvis misses attempt (High, Out of box, Right footed, Open play)" minute="62" period="2" second="17" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross has attempt saved (High to the left, 18-yard box, Head, Throw-in)" minute="61" period="2" second="50" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Marcus Hahnemann makes a save (Standing)" minute="61" period="2" second="50" time="65" type="save made" type_id="10"/>
+	<message comment="Ricardo Fuller is caught offside" minute="56" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="GOAL! Abdoulaye Diagne-Faye scores , Assisted by Matthew Etherington (Low to the left, 6-yard box, Big Chance, Head, From corner)" minute="54" period="2" second="24" time="58" type="goal scored" type_id="16"/>
+	<message comment="Rory Delap wins a corner (To the right)" minute="53" period="2" second="56" time="57" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="53" period="2" second="18" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Marcus Hahnemann makes a save (Parried into danger, Standing)" minute="53" period="2" second="18" time="57" type="save made" type_id="10"/>
+	<message comment="Mamady Sidibe is substituted off" minute="50" period="2" second="50" time="54" type="substitution off" type_id="18"/>
+	<message comment="Tuncay Sanli is substituted on" minute="50" period="2" second="50" time="54" type="substitution on" type_id="19"/>
+	<message comment="Mamady Sidibe has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="49" period="2" second="11" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Marcus Hahnemann makes a save (Collected, Standing)" minute="49" period="2" second="11" time="53" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher is substituted off" minute="48" period="2" second="24" time="52" type="substitution off" type_id="18"/>
+	<message comment="Andy Keogh is substituted on" minute="48" period="2" second="24" time="52" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis wins a corner (To the right)" minute="47" period="2" second="51" time="51" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher misses attempt (High, Out of box, Left footed, Open play)" minute="46" period="2" second="12" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="9" time="48" type="end" type_id="30"/>
+	<message comment="Matthew Jarvis wins a corner (To the right)" minute="47" period="1" second="3" time="47" type="corner" type_id="6"/>
+	<message comment="Danny Higginbotham blocks a shot" minute="47" period="1" second="1" time="47" type="save made" type_id="10"/>
+	<message comment="Matthew Jarvis has shot blocked (18-yard box, Right footed, Open play)" minute="47" period="1" second="1" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Steven Fletcher scores  (High to the left, 6-yard box, Big Chance, Head, Open play)" minute="38" period="1" second="3" time="38" type="goal scored" type_id="16"/>
+	<message comment="GOAL! David Jones scores , Assisted by Karl Henry (High to the right, Out of box, Left footed, Free kick)" minute="36" period="1" second="5" time="36" type="goal scored" type_id="16"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="32" period="1" second="39" time="32" type="save made" type_id="10"/>
+	<message comment="David Jones has shot blocked (18-yard box, Left footed, Open play)" minute="32" period="1" second="39" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Dean Whitehead blocks a shot" minute="32" period="1" second="34" time="32" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher has shot blocked (18-yard box, Right footed, Open play)" minute="32" period="1" second="34" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Sørensen makes a save (Feet, Parried into danger, Diving)" minute="32" period="1" second="30" time="32" type="save made" type_id="10"/>
+	<message comment="Sylvan Ebanks-Blake has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="32" period="1" second="30" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Christophe Berra misses attempt (To the left, 18-yard box, Head, From corner)" minute="30" period="1" second="30" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher wins a corner (To the left)" minute="29" period="1" second="37" time="29" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="25" period="1" second="33" time="25" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher misses attempt (High, 18-yard box, Left footed, Open play)" minute="18" period="1" second="51" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (To the right, Out of box, Left footed, Open play)" minute="15" period="1" second="23" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Ricardo Fuller has shot blocked (18-yard box, Right footed, Open play)" minute="13" period="1" second="56" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Jody Craddock blocks a shot" minute="13" period="1" second="56" time="13" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones is substituted off" minute="13" period="1" second="24" time="13" type="substitution off" type_id="18"/>
+	<message comment="Mamady Sidibe is substituted on" minute="13" period="1" second="24" time="13" type="substitution on" type_id="19"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Kenwyne Jones hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="2" period="1" second="39" time="2" type="woodwork hit" type_id="14"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

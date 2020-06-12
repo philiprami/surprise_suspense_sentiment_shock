@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2014-02-08" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="3" time="97" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie recieves a yellow card" minute="89" period="2" second="32" time="93" type="card received" type_id="17"/>
+	<message comment="Jack Cork wins a corner (To the right)" minute="88" period="2" second="27" time="92" type="corner" type_id="6"/>
+	<message comment="Oussama Assaidi is substituted off" minute="83" period="2" second="51" time="87" type="substitution off" type_id="18"/>
+	<message comment="John Guidetti is substituted on" minute="83" period="2" second="51" time="87" type="substitution on" type_id="19"/>
+	<message comment="Morgan Schneiderlin misses attempt (18-yard box, Right footed, Set piece)" minute="83" period="2" second="3" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters recieves a yellow card" minute="82" period="2" second="30" time="86" type="card received" type_id="17"/>
+	<message comment="Nathaniel Clyne is substituted off" minute="79" period="2" second="52" time="83" type="substitution off" type_id="18"/>
+	<message comment="Calum Chambers is substituted on" minute="79" period="2" second="52" time="83" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam is substituted off" minute="78" period="2" second="5" time="82" type="substitution off" type_id="18"/>
+	<message comment="Steven Nzonzi is substituted on" minute="78" period="2" second="5" time="82" type="substitution on" type_id="19"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" minute="75" period="2" second="24" time="79" type="corner" type_id="6"/>
+	<message comment="Oussama Assaidi is caught offside" minute="68" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Peter Crouch recieves a yellow card" minute="66" period="2" second="12" time="70" type="card received" type_id="17"/>
+	<message comment="Jack Cork misses attempt (18-yard box, Right footed, Set piece)" minute="64" period="2" second="43" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="62" period="2" second="29" time="66" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="62" period="2" second="25" time="66" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Open play)" minute="62" period="2" second="25" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron blocks a shot" minute="60" period="2" second="59" time="64" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (18-yard box, Right footed, Open play)" minute="60" period="2" second="59" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="59" period="2" second="19" time="63" type="save made" type_id="10"/>
+	<message comment="Steven Davis has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="19" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert misses attempt (High, Out of box, Right footed, Free kick)" minute="57" period="2" second="54" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Standing)" minute="51" period="2" second="2" time="55" type="save made" type_id="10"/>
+	<message comment="Steven Davis has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="51" period="2" second="2" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez misses attempt (18-yard box, Big Chance, Head, From corner)" minute="49" period="2" second="57" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="49" period="2" second="32" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="32" time="48" type="end" type_id="30"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Charlie Adam (Low to the right, 6-yard box, Big Chance, Head, From corner)" minute="43" period="1" second="1" time="43" type="goal scored" type_id="16"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" minute="42" period="1" second="39" time="42" type="corner" type_id="6"/>
+	<message comment="Oussama Assaidi wins a corner (To the left)" minute="41" period="1" second="50" time="41" type="corner" type_id="6"/>
+	<message comment="GOAL! Steven Davis scores , Assisted by Nathaniel Clyne (Low to the left, Out of box, Left footed, Throw-in)" minute="40" period="1" second="12" time="40" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Peter Odemwingie scores , Assisted by Charlie Adam (Low to the centre, Out of box, Big Chance, Right footed, Open play)" minute="37" period="1" second="33" time="37" type="goal scored" type_id="16"/>
+	<message comment="Oussama Assaidi is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="34" period="1" second="55" time="34" type="save made" type_id="10"/>
+	<message comment="Jack Cork has shot blocked (Out of box, Right footed, Open play)" minute="34" period="1" second="55" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Erik Pieters blocks a shot" minute="33" period="1" second="2" time="33" type="save made" type_id="10"/>
+	<message comment="Nathaniel Clyne has shot blocked (18-yard box, Right footed, From corner)" minute="33" period="1" second="2" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" minute="32" period="1" second="33" time="32" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Standing)" minute="28" period="1" second="55" time="28" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="28" period="1" second="55" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam recieves a yellow card" minute="27" period="1" second="49" time="27" type="card received" type_id="17"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" minute="27" period="1" second="30" time="27" type="save made" type_id="10"/>
+	<message comment="Nathaniel Clyne has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="27" period="1" second="30" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="26" period="1" second="49" time="26" type="corner" type_id="6"/>
+	<message comment="Morgan Schneiderlin misses attempt (To the right, Out of box, Left footed, Open play)" minute="25" period="1" second="23" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez has shot blocked (18-yard box, Head, Open play)" minute="25" period="1" second="20" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="25" period="1" second="20" time="25" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters misses attempt (To the right, 18-yard box, Head, Open play)" minute="23" period="1" second="35" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Oussama Assaidi wins a corner (To the left)" minute="17" period="1" second="5" time="17" type="corner" type_id="6"/>
+	<message comment="Adam Lallana wins a corner (To the right)" minute="10" period="1" second="49" time="10" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez misses attempt (To the right, Out of box, Left footed, Open play)" minute="10" period="1" second="0" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (High to the right, Out of box, Right footed, Open play)" minute="8" period="1" second="39" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="7" period="1" second="31" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save" minute="7" period="1" second="31" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="6" period="1" second="50" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving)" minute="6" period="1" second="50" time="6" type="save made" type_id="10"/>
+	<message comment="GOAL! Rickie Lambert scores  (High to the right, Out of box, Right footed, Free kick)" minute="5" period="1" second="27" time="5" type="goal scored" type_id="16"/>
+	<message comment="Jay Rodriguez wins a corner (To the left)" minute="4" period="1" second="31" time="4" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

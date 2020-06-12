@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-12-09" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="6" time="96" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, Out of box, Right footed, Open play)" minute="93" period="2" second="31" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge misses attempt (Out of box, Right footed, Open play)" minute="89" period="2" second="51" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="84" period="2" second="8" time="86" type="save made" type_id="10"/>
+	<message comment="Alejandro Pozuelo has shot blocked (18-yard box, Right footed, Open play)" minute="84" period="2" second="8" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores recieves a yellow card" minute="82" period="2" second="59" time="84" type="card received" type_id="17"/>
+	<message comment="Ashley Williams is caught offside" minute="80" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="79" period="2" second="59" time="81" type="card received" type_id="17"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="79" period="2" second="52" time="81" type="card received" type_id="17"/>
+	<message comment="Yannick Sagbo recieves a yellow card" minute="79" period="2" second="51" time="81" type="card received" type_id="17"/>
+	<message comment="Ashley Williams wins a corner (To the left)" minute="78" period="2" second="51" time="80" type="corner" type_id="6"/>
+	<message comment="Michu has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="41" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Allan McGregor makes a save (Parried safe)" minute="78" period="2" second="41" time="80" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey wins a corner (To the right)" minute="78" period="2" second="0" time="80" type="corner" type_id="6"/>
+	<message comment="José Cañas wins a corner (To the right)" minute="77" period="2" second="40" time="79" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa blocks a shot" minute="77" period="2" second="38" time="79" type="save made" type_id="10"/>
+	<message comment="José Cañas has shot blocked (Out of box, Right footed, Set piece)" minute="77" period="2" second="38" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa recieves a yellow card" minute="77" period="2" second="2" time="79" type="card received" type_id="17"/>
+	<message comment="Yannick Sagbo has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="74" period="2" second="47" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Diving, Parried into danger)" minute="74" period="2" second="47" time="76" type="save made" type_id="10"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="25" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey blocks a shot" minute="73" period="2" second="25" time="75" type="save made" type_id="10"/>
+	<message comment="David Meyler is caught offside" minute="73" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" minute="72" period="2" second="39" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="72" period="2" second="39" time="74" type="save made" type_id="10"/>
+	<message comment="Robert Koren misses attempt (18-yard box, Left footed, Open play)" minute="72" period="2" second="25" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone has shot blocked (18-yard box, Left footed, Open play)" minute="69" period="2" second="16" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="69" period="2" second="16" time="71" type="save made" type_id="10"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="68" period="2" second="22" time="70" type="corner" type_id="6"/>
+	<message comment="Pablo Hernández is substituted off" minute="66" period="2" second="57" time="68" type="substitution off" type_id="18"/>
+	<message comment="Wayne Routledge is substituted on" minute="66" period="2" second="57" time="68" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, Out of box, Right footed, Open play)" minute="66" period="2" second="6" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Alex Bruce misses attempt (To the left, 18-yard box, Head, Set piece)" minute="64" period="2" second="12" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Danny Graham is substituted off" minute="63" period="2" second="55" time="65" type="substitution off" type_id="18"/>
+	<message comment="Robert Koren is substituted on" minute="63" period="2" second="55" time="65" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Chico Flores scores , Assisted by Jonjo Shelvey (Low to the centre, 6-yard box, Other body part, From corner)" minute="59" period="2" second="1" time="61" type="goal scored" type_id="16"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" minute="58" period="2" second="42" time="60" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán is substituted off" minute="55" period="2" second="18" time="57" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="55" period="2" second="18" time="57" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="53" period="2" second="0" time="55" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="50" period="2" second="41" time="52" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="48" period="2" second="31" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="45" period="1" second="33" time="45" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" minute="45" period="1" second="11" time="45" type="corner" type_id="6"/>
+	<message comment="Jake Livermore recieves a yellow card" minute="40" period="1" second="44" time="40" type="card received" type_id="17"/>
+	<message comment="Jonathan de Guzmán misses attempt (High to the right, Out of box, Right footed, Open play)" minute="37" period="1" second="17" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Tiendalli wins a corner (To the left)" minute="33" period="1" second="50" time="33" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="30" period="1" second="45" time="30" type="corner" type_id="6"/>
+	<message comment="David Meyler is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Ben Davies misses attempt (Out of box, Left footed, Open play)" minute="25" period="1" second="40" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Ashley Williams misses attempt (High, 18-yard box, Head, From corner)" minute="13" period="1" second="16" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="12" period="1" second="54" time="12" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="9" period="1" second="39" time="9" type="corner" type_id="6"/>
+	<message comment="GOAL! Danny Graham scores , Assisted by Ahmed El Mohamady (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="8" period="1" second="2" time="8" type="goal scored" type_id="16"/>
+	<message comment="David Meyler has shot blocked (18-yard box, Right footed, Open play)" minute="7" period="1" second="21" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Dwight Tiendalli blocks a shot" minute="7" period="1" second="21" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Nathan Dyer misses attempt (To the right, Out of box, Right footed, Open play)" minute="2" period="1" second="22" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

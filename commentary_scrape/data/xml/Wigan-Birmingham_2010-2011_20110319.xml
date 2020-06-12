@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2011-03-19" home_team_name="Birmingham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="7" time="100" type="end" type_id="30"/>
+	<message comment="Obafemi Martins is caught offside" minute="96" period="2" time="99" type="offside" type_id="10000"/>
+	<message comment="Charles N'Zogbia is substituted off" minute="94" period="2" second="20" time="97" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Diamé is substituted on" minute="94" period="2" second="20" time="97" type="substitution on" type_id="19"/>
+	<message comment="David Bentley has shot blocked (Out of box, Right footed, Open play)" minute="93" period="2" second="10" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Caldwell blocks a shot" minute="93" period="2" second="10" time="96" type="save made" type_id="10"/>
+	<message comment="GOAL! Maynor Figueroa scores , Assisted by Tom Cleverley (High to the centre, Out of box, Right footed, Open play)" minute="91" period="2" second="47" time="94" type="goal scored" type_id="16"/>
+	<message comment="Emmerson Boyce wins a corner (To the left, Key pass)" minute="89" period="2" second="36" time="92" type="corner" type_id="6"/>
+	<message comment="Craig Gardner blocks a shot" minute="89" period="2" second="35" time="92" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce has shot blocked (18-yard box, Head, From corner)" minute="89" period="2" second="35" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Charles N'Zogbia wins a corner (To the right)" minute="89" period="2" second="16" time="92" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" minute="89" period="2" second="11" time="92" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia has shot blocked (18-yard box, Left footed, Fast break)" minute="89" period="2" second="11" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="88" period="2" second="14" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="87" period="2" second="3" time="90" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa recieves a yellow card" minute="85" period="2" second="55" time="88" type="card received" type_id="17"/>
+	<message comment="James McCarthy misses attempt (Out of box, Right footed, Open play)" minute="81" period="2" second="45" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia wins a corner (To the right)" minute="77" period="2" second="49" time="80" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="74" period="2" second="35" time="77" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="74" period="2" second="35" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="73" period="2" second="52" time="76" type="save made" type_id="10"/>
+	<message comment="James McCarthy has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="73" period="2" second="52" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="73" period="2" second="51" time="76" type="save made" type_id="10"/>
+	<message comment="Conor Sammon has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="73" period="2" second="51" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="73" period="2" second="19" time="76" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="73" period="2" second="19" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="72" period="2" second="42" time="75" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has shot blocked (18-yard box, Right footed, Open play)" minute="72" period="2" second="42" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies recieves a yellow card" minute="72" period="2" second="13" time="75" type="card received" type_id="17"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="70" period="2" second="19" time="73" type="save made" type_id="10"/>
+	<message comment="Conor Sammon has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="70" period="2" second="19" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Antolín Alcaraz recieves a yellow card" minute="67" period="2" second="58" time="70" type="card received" type_id="17"/>
+	<message comment="Liam Ridgewell misses attempt (To the left, 18-yard box, Head, Set piece)" minute="66" period="2" second="46" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia misses attempt (High, Out of box, Left footed, Open play)" minute="64" period="2" second="54" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Jordon Mutch is substituted off" minute="63" period="2" second="22" time="66" type="substitution off" type_id="18"/>
+	<message comment="Obafemi Martins is substituted on" minute="63" period="2" second="22" time="66" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses is substituted off" minute="63" period="2" second="0" time="66" type="substitution off" type_id="18"/>
+	<message comment="Conor Sammon is substituted on" minute="63" period="2" second="0" time="66" type="substitution on" type_id="19"/>
+	<message comment="Franco Di Santo is substituted off" minute="62" period="2" second="57" time="65" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="62" period="2" second="57" time="65" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving, Feet)" minute="61" period="2" second="46" time="64" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="61" period="2" second="46" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Cleverley misses attempt (To the left, 18-yard box, Big Chance, Key pass, Right footed, Open play)" minute="61" period="2" second="44" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="60" period="2" second="58" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried safe)" minute="60" period="2" second="58" time="63" type="save made" type_id="10"/>
+	<message comment="Jean Beausejour is substituted off" minute="58" period="2" second="9" time="61" type="substitution off" type_id="18"/>
+	<message comment="David Bentley is substituted on" minute="58" period="2" second="9" time="61" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="56" period="2" second="21" time="59" type="save made" type_id="10"/>
+	<message comment="Ben Watson has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="56" period="2" second="21" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner has shot blocked (Out of box, Right footed, Set piece)" minute="52" period="2" second="9" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Emmerson Boyce blocks a shot" minute="52" period="2" second="9" time="55" type="save made" type_id="10"/>
+	<message comment="Victor Moses recieves a yellow card" minute="51" period="2" second="16" time="54" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo wins a corner (To the left)" minute="49" period="2" second="3" time="52" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo has shot blocked (18-yard box, Left footed, Open play)" minute="49" period="2" second="2" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="49" period="2" second="2" time="52" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="47" period="2" second="48" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="15" time="47" type="end" type_id="30"/>
+	<message comment="Sebastian Larsson hits the woodwork (High, Out of box, Right footed, Free kick)" minute="45" period="1" second="56" time="45" type="woodwork hit" type_id="14"/>
+	<message comment="Charles N'Zogbia misses attempt (High to the right, 6-yard box, Left footed, Open play)" minute="44" period="1" second="20" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="41" period="1" second="46" time="41" type="save made" type_id="10"/>
+	<message comment="James McCarthy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="41" period="1" second="46" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome wins a corner (To the left)" minute="40" period="1" second="35" time="40" type="corner" type_id="6"/>
+	<message comment="Jordon Mutch misses attempt (To the right, Out of box, Left footed, Open play)" minute="32" period="1" second="44" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Emmerson Boyce wins a corner (To the right)" minute="30" period="1" second="35" time="30" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="28" period="1" second="51" time="28" type="save made" type_id="10"/>
+	<message comment="Victor Moses has shot blocked (Out of box, Right footed, Open play)" minute="28" period="1" second="51" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="25" period="1" second="54" time="25" type="corner" type_id="6"/>
+	<message comment="GOAL! Tom Cleverley scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="24" period="1" second="52" time="24" type="goal scored" type_id="16"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="22" period="1" second="47" time="22" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="22" period="1" second="0" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Standing)" minute="22" period="1" second="0" time="22" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="20" period="1" second="26" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Collected)" minute="20" period="1" second="26" time="20" type="save made" type_id="10"/>
+	<message comment="Stephen Carr wins a corner (To the right)" minute="18" period="1" second="49" time="18" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, From corner)" minute="15" period="1" second="39" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Feet, Parried into danger, Diving)" minute="15" period="1" second="39" time="15" type="save made" type_id="10"/>
+	<message comment="Curtis Davies misses attempt (18-yard box, Key pass, Right footed, From corner)" minute="15" period="1" second="38" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="15" period="1" second="6" time="15" type="corner" type_id="6"/>
+	<message comment="Martin Jiranek is substituted off" minute="14" period="1" second="12" time="14" type="substitution off" type_id="18"/>
+	<message comment="Curtis Davies is substituted on" minute="14" period="1" second="12" time="14" type="substitution on" type_id="19"/>
+	<message comment="Franco Di Santo is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="9" period="1" second="37" time="9" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the left, Out of box, Right footed, Throw-in)" minute="9" period="1" second="37" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Liam Ridgewell scores , Assisted by Martin Jiranek (High to the right, 18-yard box, Big Chance, Left footed, Set piece)" minute="5" period="1" second="36" time="5" type="goal scored" type_id="16"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="3" period="1" second="56" time="3" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="3" period="1" second="56" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="0" period="1" second="57" time="0" type="save made" type_id="10"/>
+	<message comment="Antolín Alcaraz has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="0" period="1" second="57" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Watson wins a corner (To the right)" minute="0" period="1" second="33" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

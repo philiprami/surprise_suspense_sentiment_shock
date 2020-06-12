@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2012-05-08" home_team_name="Chelsea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="97" type="end" type_id="30"/>
+	<message comment="Daniel Agger misses attempt (18-yard box, Big Chance, Head, From corner)" minute="91" period="2" second="36" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="91" period="2" second="3" time="95" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="89" period="2" second="51" time="93" type="attempt missed" type_id="13"/>
+	<message comment="John Terry blocks a shot" minute="88" period="2" second="53" time="92" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, From corner)" minute="88" period="2" second="53" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson wins a corner (To the right)" minute="88" period="2" second="25" time="92" type="corner" type_id="6"/>
+	<message comment="Ryan Bertrand blocks a shot" minute="88" period="2" second="23" time="92" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Right footed, Open play)" minute="88" period="2" second="23" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="85" period="2" second="45" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Bertrand wins a corner (To the left)" minute="85" period="2" second="24" time="89" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling misses attempt (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="83" period="2" second="49" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling is substituted on" minute="83" period="2" second="29" time="87" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing is substituted off" minute="83" period="2" second="29" time="87" type="substitution off" type_id="18"/>
+	<message comment="Maxi Rodríguez is substituted off" minute="83" period="2" second="24" time="87" type="substitution off" type_id="18"/>
+	<message comment="Dirk Kuyt is substituted on" minute="83" period="2" second="24" time="87" type="substitution on" type_id="19"/>
+	<message comment="Michael Essien misses attempt (High, Out of box, Right footed, Free kick)" minute="82" period="2" second="8" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Paulo Ferreira blocks a shot" minute="80" period="2" second="48" time="84" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Free kick)" minute="80" period="2" second="48" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Free kick)" minute="75" period="2" second="57" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez blocks a shot" minute="75" period="2" second="57" time="79" type="save made" type_id="10"/>
+	<message comment="Luis Suárez is caught offside" minute="74" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" minute="73" period="2" second="16" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="72" period="2" second="14" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried into danger)" minute="72" period="2" second="14" time="76" type="save made" type_id="10"/>
+	<message comment="Daniel Agger recieves a yellow card" minute="70" period="2" second="38" time="74" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge is substituted off" minute="67" period="2" second="22" time="71" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="67" period="2" second="22" time="71" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson recieves a yellow card" minute="64" period="2" second="31" time="68" type="card received" type_id="17"/>
+	<message comment="GOAL! Jonjo Shelvey scores  (High to the left, Out of box, Big Chance, Right footed, Open play)" minute="60" period="2" second="27" time="64" type="goal scored" type_id="16"/>
+	<message comment="Michael Essien misses attempt (To the right, Out of box, Left footed, Open play)" minute="55" period="2" second="51" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll wins a corner (To the right)" minute="52" period="2" second="44" time="56" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="52" period="2" second="27" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Ross Turnbull makes a save (Diving, Feet, Parried safe)" minute="52" period="2" second="27" time="56" type="save made" type_id="10"/>
+	<message comment="GOAL! Ramires scores , Assisted by Florent Malouda (Low to the right, 6-yard box, Other body part, Set piece)" minute="49" period="2" second="41" time="53" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="5" time="48" type="end" type_id="30"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="47" period="1" second="46" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing hits the woodwork (To the left, 18-yard box, Big Chance, Penalty, Left footed)" minute="47" period="1" second="44" time="47" type="woodwork hit" type_id="14"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="46" period="1" second="19" time="46" type="card received" type_id="17"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="44" period="1" second="51" time="44" type="corner" type_id="6"/>
+	<message comment="Michael Essien recieves a yellow card" minute="43" period="1" second="30" time="43" type="card received" type_id="17"/>
+	<message comment="Stewart Downing hits the woodwork (High, Out of box, Left footed, Open play)" minute="41" period="1" second="13" time="41" type="woodwork hit" type_id="14"/>
+	<message comment="John Terry blocks a shot" minute="41" period="1" second="2" time="41" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (Out of box, Right footed, Open play)" minute="41" period="1" second="2" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll misses attempt (To the left, Out of box, Left footed, Open play)" minute="38" period="1" second="26" time="38" type="attempt missed" type_id="13"/>
+	<message comment="John Terry has shot blocked (18-yard box, Head, From corner)" minute="37" period="1" second="20" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll blocks a shot" minute="37" period="1" second="20" time="37" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="36" period="1" second="50" time="36" type="corner" type_id="6"/>
+	<message comment="Stewart Downing wins a corner (To the left)" minute="36" period="1" second="7" time="36" type="corner" type_id="6"/>
+	<message comment="Ryan Bertrand blocks a shot" minute="35" period="1" second="51" time="35" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (Out of box, Left footed, Open play)" minute="35" period="1" second="51" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires has shot blocked (Out of box, Left footed, Open play)" minute="34" period="1" second="44" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey blocks a shot" minute="34" period="1" second="44" time="34" type="save made" type_id="10"/>
+	<message comment="Fernando Torres hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="34" period="1" second="3" time="34" type="woodwork hit" type_id="14"/>
+	<message comment="Ross Turnbull makes a save (Parried into danger, Diving)" minute="33" period="1" second="14" time="33" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="33" period="1" second="14" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Maxi Rodríguez wins a corner (To the left)" minute="31" period="1" second="37" time="31" type="corner" type_id="6"/>
+	<message comment="GOAL! Daniel Agger scores , Assisted by Andy Carroll (High to the left, 6-yard box, Big Chance, Head, From corner)" minute="27" period="1" second="59" time="27" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="27" period="1" second="37" time="27" type="corner" type_id="6"/>
+	<message comment="Ross Turnbull makes a save" minute="27" period="1" second="33" time="27" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (High to the right, 18-yard box, Right footed, From corner)" minute="27" period="1" second="33" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="27" period="1" second="14" time="27" type="corner" type_id="6"/>
+	<message comment="GOAL! Jordan Henderson scores , Assisted by Maxi Rodríguez (Low to the right, Out of box, Big Chance, Right footed, Open play)" minute="24" period="1" second="48" time="24" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Head, Set piece)" minute="22" period="1" second="37" time="22" type="attempt missed" type_id="13"/>
+	<message comment="John Terry recieves a yellow card" minute="21" period="1" second="9" time="21" type="card received" type_id="17"/>
+	<message comment="Michael Essien scores an OWN GOAL!  (Low to the right, 6-yard box, Left footed, Open play)" minute="18" period="1" second="42" time="18" type="goal scored" type_id="16"/>
+	<message comment="Ryan Bertrand blocks a shot" minute="16" period="1" second="43" time="16" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Left footed, Open play)" minute="16" period="1" second="43" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic hits the woodwork (To the right, 18-yard box, Head, From corner)" minute="16" period="1" second="22" time="16" type="woodwork hit" type_id="14"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="15" period="1" second="55" time="15" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Right footed, Fast break)" minute="15" period="1" second="51" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="15" period="1" second="51" time="15" type="save made" type_id="10"/>
+	<message comment="Andy Carroll misses attempt (High, Out of box, Left footed, Fast break)" minute="15" period="1" second="10" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Paulo Ferreira recieves a yellow card" minute="14" period="1" second="15" time="14" type="card received" type_id="17"/>
+	<message comment="Maxi Rodríguez is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Luis Suárez misses attempt (To the left, Out of box, Right footed, Open play)" minute="6" period="1" second="58" time="6" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

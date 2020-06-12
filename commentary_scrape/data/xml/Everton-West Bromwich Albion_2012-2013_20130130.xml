@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2013-01-30" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="98" type="end" type_id="30"/>
+	<message comment="Marouane Fellaini is caught offside" minute="93" period="2" time="97" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="84" period="2" second="53" time="88" type="corner" type_id="6"/>
+	<message comment="Victor Anichebe is substituted off" minute="83" period="2" second="23" time="87" type="substitution off" type_id="18"/>
+	<message comment="Nikica Jelavic is substituted on" minute="83" period="2" second="23" time="87" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="81" period="2" second="8" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="81" period="2" second="6" time="85" type="woodwork hit" type_id="14"/>
+	<message comment="Steven Pienaar has shot blocked (18-yard box, Left footed, Open play)" minute="81" period="2" second="5" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar wins a corner (To the right)" minute="80" period="2" second="13" time="84" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save" minute="80" period="2" second="8" time="84" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="80" period="2" second="8" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Graham Dorrans recieves a yellow card" minute="79" period="2" second="40" time="83" type="card received" type_id="17"/>
+	<message comment="Jerome Thomas is substituted off" minute="76" period="2" second="18" time="80" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="76" period="2" second="18" time="80" type="substitution on" type_id="19"/>
+	<message comment="Marouane Fellaini misses attempt (High to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="3" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku is caught offside" minute="75" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Phil Jagielka misses attempt (High to the left, Out of box, Right footed, Open play)" minute="72" period="2" second="31" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman misses attempt (High to the left, Out of box, Left footed, Open play)" minute="69" period="2" second="51" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger)" minute="68" period="2" second="40" time="72" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="68" period="2" second="40" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Graham Dorrans hits the woodwork (High, Out of box, Right footed, Free kick)" minute="67" period="2" second="28" time="71" type="woodwork hit" type_id="14"/>
+	<message comment="Kevin Mirallas is substituted off" minute="64" period="2" second="30" time="68" type="substitution off" type_id="18"/>
+	<message comment="Darron Gibson is substituted on" minute="64" period="2" second="30" time="68" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Shane Long scores  (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="64" period="2" second="1" time="68" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="58" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="John Heitinga blocks a shot (Last line)" minute="63" period="2" second="58" time="67" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Open play)" minute="62" period="2" second="8" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="John Heitinga blocks a shot" minute="62" period="2" second="8" time="66" type="save made" type_id="10"/>
+	<message comment="Shane Long is substituted on" minute="61" period="2" second="44" time="65" type="substitution on" type_id="19"/>
+	<message comment="James Morrison is substituted off" minute="61" period="2" second="43" time="65" type="substitution off" type_id="18"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="60" period="2" second="4" time="64" type="card received" type_id="17"/>
+	<message comment="Ben Foster makes a save (Standing, Collected)" minute="57" period="2" second="12" time="61" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has attempt saved (High to the centre, 18-yard box, Right footed, From corner)" minute="57" period="2" second="12" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" minute="56" period="2" second="52" time="60" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe)" minute="56" period="2" second="46" time="60" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the left, Out of box, Right footed, Fast break)" minute="56" period="2" second="46" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Goran Popov wins a corner (To the left)" minute="55" period="2" second="45" time="59" type="corner" type_id="6"/>
+	<message comment="Leighton Baines is caught offside" minute="53" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku misses attempt (High to the left, Out of box, Left footed, Open play)" minute="46" period="2" second="7" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="3" time="48" type="end" type_id="30"/>
+	<message comment="GOAL! Leighton Baines scores  (Low to the right, 18-yard box, Big Chance, Penalty, Left footed)" minute="46" period="1" second="13" time="46" type="goal scored" type_id="16"/>
+	<message comment="George Thorne is substituted off" minute="42" period="1" second="55" time="42" type="substitution off" type_id="18"/>
+	<message comment="Claudio Yacob is substituted on" minute="42" period="1" second="55" time="42" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Billy Jones blocks a shot" minute="33" period="1" second="25" time="33" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka has shot blocked (18-yard box, Left footed, From corner)" minute="33" period="1" second="25" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="32" period="1" second="58" time="32" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="GOAL! Leighton Baines scores , Assisted by Leon Osman (High to the left, 18-yard box, Left footed, Open play)" minute="28" period="1" second="7" time="28" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Marouane Fellaini hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="18" period="1" second="41" time="18" type="woodwork hit" type_id="14"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" minute="18" period="1" second="4" time="18" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Kevin Mirallas misses attempt (To the left, Out of box, Right footed, Open play)" minute="8" period="1" second="49" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku misses attempt (To the right, 18-yard box, Head, Open play)" minute="8" period="1" second="26" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Left footed, Open play)" minute="8" period="1" second="1" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" minute="8" period="1" second="1" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Jonas Olsson blocks a shot" minute="7" period="1" second="42" time="7" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (Out of box, Right footed, Open play)" minute="7" period="1" second="42" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="3" period="1" second="29" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

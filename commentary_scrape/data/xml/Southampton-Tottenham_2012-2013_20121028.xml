@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2012-10-28" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="24" time="96" type="end" type_id="30"/>
+	<message comment="Clint Dempsey is substituted off" minute="92" period="2" second="49" time="94" type="substitution off" type_id="18"/>
+	<message comment="Michael Dawson is substituted on" minute="92" period="2" second="49" time="94" type="substitution on" type_id="19"/>
+	<message comment="Jake Livermore recieves a yellow card" minute="92" period="2" second="10" time="94" type="card received" type_id="17"/>
+	<message comment="Sandro blocks a shot" minute="89" period="2" second="41" time="91" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="41" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="89" period="2" second="33" time="91" type="save made" type_id="10"/>
+	<message comment="Guly do Prado has shot blocked (18-yard box, Left footed, Open play)" minute="89" period="2" second="33" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="87" period="2" second="4" time="89" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" minute="86" period="2" second="23" time="88" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Left footed, Fast break)" minute="86" period="2" second="19" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte blocks a shot" minute="86" period="2" second="19" time="88" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez misses attempt (Out of box, Right footed, Open play)" minute="80" period="2" second="59" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Fox is substituted off" minute="77" period="2" second="50" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ben Reeves is substituted on" minute="77" period="2" second="50" time="79" type="substitution on" type_id="19"/>
+	<message comment="Jermain Defoe is substituted off" minute="77" period="2" second="49" time="79" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="77" period="2" second="49" time="79" type="substitution on" type_id="19"/>
+	<message comment="Steven Davis is substituted off" minute="77" period="2" second="40" time="79" type="substitution off" type_id="18"/>
+	<message comment="Guly do Prado is substituted on" minute="77" period="2" second="40" time="79" type="substitution on" type_id="19"/>
+	<message comment="Jan Vertonghen recieves a yellow card" minute="74" period="2" second="36" time="76" type="card received" type_id="17"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="71" period="2" second="58" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving)" minute="71" period="2" second="38" time="73" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="71" period="2" second="38" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="69" period="2" second="53" time="71" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert has shot blocked (6-yard box, Right footed, Open play)" minute="69" period="2" second="51" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="69" period="2" second="51" time="71" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez misses attempt (18-yard box, Left footed, Open play)" minute="68" period="2" second="43" time="70" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jay Rodriguez scores  (High to the right, 6-yard box, Big Chance, Right footed, From corner)" minute="65" period="2" second="36" time="67" type="goal scored" type_id="16"/>
+	<message comment="José Fonte has attempt saved (Low to the right, 6-yard box, Right footed, From corner)" minute="65" period="2" second="35" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Parried into danger, Diving)" minute="65" period="2" second="35" time="67" type="save made" type_id="10"/>
+	<message comment="Maya Yoshida wins a corner (To the right)" minute="65" period="2" second="13" time="67" type="corner" type_id="6"/>
+	<message comment="Maya Yoshida has shot blocked (6-yard box, Big Chance, Head, Set piece)" minute="65" period="2" second="11" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="65" period="2" second="11" time="67" type="save made" type_id="10"/>
+	<message comment="José Fonte misses attempt (18-yard box, Key pass, Head, Set piece)" minute="65" period="2" second="9" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Sandro recieves a yellow card" minute="64" period="2" second="25" time="66" type="card received" type_id="17"/>
+	<message comment="Tom Huddlestone is substituted off" minute="62" period="2" second="55" time="64" type="substitution off" type_id="18"/>
+	<message comment="Jake Livermore is substituted on" minute="62" period="2" second="55" time="64" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Head, Open play)" minute="59" period="2" second="57" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Mayuka has shot blocked (Out of box, Left footed, Open play)" minute="58" period="2" second="25" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro blocks a shot" minute="58" period="2" second="25" time="60" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon is substituted off" minute="57" period="2" second="45" time="59" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Mayuka is substituted on" minute="57" period="2" second="45" time="59" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone misses attempt (To the right, Out of box, Left footed, Open play)" minute="57" period="2" second="23" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker misses attempt (18-yard box, Right footed, Open play)" minute="53" period="2" second="37" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Fox misses attempt (Out of box, Left footed, Open play)" minute="52" period="2" second="25" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon misses attempt (Out of box, Left footed, Open play)" minute="47" period="2" second="57" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe misses attempt (High, 18-yard box, Right footed, Open play)" minute="46" period="2" second="56" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Clint Dempsey scores  (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="38" period="1" second="50" time="38" type="goal scored" type_id="16"/>
+	<message comment="José Fonte blocks a shot (Last line)" minute="38" period="1" second="47" time="38" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="38" period="1" second="47" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="36" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="37" period="1" second="36" time="37" type="save made" type_id="10"/>
+	<message comment="Gareth Bale is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe misses attempt (High, 18-yard box, Right footed, Open play)" minute="27" period="1" second="25" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale misses attempt (18-yard box, Head, From corner)" minute="24" period="1" second="4" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="23" period="1" second="29" time="23" type="corner" type_id="6"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Tom Huddlestone (Low to the right, 18-yard box, Head, Open play)" minute="14" period="1" second="46" time="14" type="goal scored" type_id="16"/>
+	<message comment="Jermain Defoe misses attempt (18-yard box, Right footed, Open play)" minute="13" period="1" second="51" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Jermain Defoe is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="Aaron Lennon misses attempt (18-yard box, Left footed, Open play)" minute="2" period="1" second="13" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

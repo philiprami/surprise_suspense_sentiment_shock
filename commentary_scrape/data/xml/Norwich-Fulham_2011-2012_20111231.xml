@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2011-12-31" home_team_name="Fulham" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="20" time="97" type="end" type_id="30"/>
+	<message comment="GOAL! Simeon Jackson scores , Assisted by Elliott Bennett (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="93" period="2" second="35" time="95" type="goal scored" type_id="16"/>
+	<message comment="Simeon Jackson is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="90" period="2" second="57" time="92" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="52" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Zak Whitbread blocks a shot" minute="90" period="2" second="52" time="92" type="save made" type_id="10"/>
+	<message comment="Grant Holt misses attempt (6-yard box, Big Chance, Head, Open play)" minute="88" period="2" second="28" time="90" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save" minute="85" period="2" second="11" time="87" type="save made" type_id="10"/>
+	<message comment="Zak Whitbread has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="85" period="2" second="11" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="84" period="2" second="24" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff is caught offside" minute="82" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Simeon Jackson has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="81" period="2" second="43" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried safe)" minute="81" period="2" second="43" time="83" type="save made" type_id="10"/>
+	<message comment="Kerim Frei is substituted off" minute="79" period="2" second="34" time="81" type="substitution off" type_id="18"/>
+	<message comment="Damien Duff is substituted on" minute="79" period="2" second="34" time="81" type="substitution on" type_id="19"/>
+	<message comment="Anthony Pilkington is substituted off" minute="79" period="2" second="34" time="81" type="substitution off" type_id="18"/>
+	<message comment="Elliott Bennett is substituted on" minute="79" period="2" second="34" time="81" type="substitution on" type_id="19"/>
+	<message comment="Orlando Sá is substituted off" minute="79" period="2" second="3" time="81" type="substitution off" type_id="18"/>
+	<message comment="Steve Sidwell is substituted on" minute="79" period="2" second="3" time="81" type="substitution on" type_id="19"/>
+	<message comment="Grant Holt misses attempt (To the left, 18-yard box, Head, Open play)" minute="78" period="2" second="24" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Surman misses attempt (Out of box, Left footed, Open play)" minute="70" period="2" second="47" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Steve Morison is substituted off" minute="68" period="2" second="40" time="70" type="substitution off" type_id="18"/>
+	<message comment="Simeon Jackson is substituted on" minute="68" period="2" second="40" time="70" type="substitution on" type_id="19"/>
+	<message comment="Kyle Naughton blocks a shot" minute="67" period="2" second="54" time="69" type="save made" type_id="10"/>
+	<message comment="John Arne Riise has shot blocked (Out of box, Left footed, Free kick)" minute="67" period="2" second="54" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy is substituted off" minute="64" period="2" second="28" time="66" type="substitution off" type_id="18"/>
+	<message comment="Dickson Etuhu is substituted on" minute="64" period="2" second="28" time="66" type="substitution on" type_id="19"/>
+	<message comment="Kyle Naughton misses attempt (Out of box, Right footed, Open play)" minute="63" period="2" second="41" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington misses attempt (Out of box, Right footed, Set piece)" minute="61" period="2" second="39" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Naughton hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="57" period="2" second="49" time="59" type="woodwork hit" type_id="14"/>
+	<message comment="Clint Dempsey blocks a shot" minute="57" period="2" second="45" time="59" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Open play)" minute="57" period="2" second="45" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Andrew Surman misses attempt (Out of box, Left footed, Open play)" minute="56" period="2" second="40" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington has shot blocked (18-yard box, Right footed, Open play)" minute="56" period="2" second="25" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise blocks a shot" minute="56" period="2" second="25" time="58" type="save made" type_id="10"/>
+	<message comment="Orlando Sá wins a corner (To the right)" minute="54" period="2" second="28" time="56" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey misses attempt (To the left, Out of box, Left footed, Open play)" minute="51" period="2" second="14" time="53" type="attempt missed" type_id="13"/>
+	<message comment="David Fox is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Grant Holt is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="8" time="46" type="end" type_id="30"/>
+	<message comment="Orlando Sá is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Wes Hoolahan misses attempt (High, Out of box, Left footed, Open play)" minute="39" period="1" second="46" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Senderos misses attempt (High to the left, 18-yard box, Head, From corner)" minute="38" period="1" second="18" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Kerim Frei wins a corner (To the right)" minute="37" period="1" second="35" time="37" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Parried safe)" minute="37" period="1" second="28" time="37" type="save made" type_id="10"/>
+	<message comment="Kerim Frei has attempt saved (High to the right, Out of box, Right footed, Fast break)" minute="37" period="1" second="28" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Hoolahan is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Wes Hoolahan is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey hits the woodwork (High, 6-yard box, Head, Open play)" minute="32" period="1" second="20" time="32" type="woodwork hit" type_id="14"/>
+	<message comment="Bryan Ruiz has shot blocked (18-yard box, Right footed, Open play)" minute="27" period="1" second="41" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" minute="27" period="1" second="41" time="27" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington wins a corner (To the right)" minute="25" period="1" second="27" time="25" type="corner" type_id="6"/>
+	<message comment="Philippe Senderos blocks a shot" minute="25" period="1" second="25" time="25" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington has shot blocked (Out of box, Left footed, Open play)" minute="25" period="1" second="25" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise misses attempt (To the right, Out of box, Left footed, Free kick)" minute="21" period="1" second="43" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy blocks a shot" minute="19" period="1" second="32" time="19" type="save made" type_id="10"/>
+	<message comment="Wes Hoolahan has shot blocked (Out of box, Left footed, Open play)" minute="19" period="1" second="32" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Morison is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="John Arne Riise blocks a shot" minute="13" period="1" second="43" time="13" type="save made" type_id="10"/>
+	<message comment="Steve Morison has shot blocked (6-yard box, Right footed, From corner)" minute="13" period="1" second="43" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Kerim Frei blocks a shot" minute="13" period="1" second="41" time="13" type="save made" type_id="10"/>
+	<message comment="Steve Morison has shot blocked (18-yard box, Head, From corner)" minute="13" period="1" second="41" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin wins a corner (To the right)" minute="13" period="1" second="22" time="13" type="corner" type_id="6"/>
+	<message comment="John Arne Riise blocks a shot" minute="13" period="1" second="19" time="13" type="save made" type_id="10"/>
+	<message comment="Russell Martin has shot blocked (18-yard box, Right footed, From corner)" minute="13" period="1" second="19" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="13" period="1" second="17" time="13" type="save made" type_id="10"/>
+	<message comment="Zak Whitbread has attempt saved (High to the right, 6-yard box, Head, From corner)" minute="13" period="1" second="17" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="David Fox wins a corner (To the left)" minute="12" period="1" second="57" time="12" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson wins a corner (To the right)" minute="12" period="1" second="26" time="12" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" minute="12" period="1" second="13" time="12" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Open play)" minute="12" period="1" second="13" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Naughton blocks a shot (Last line)" minute="8" period="1" second="44" time="8" type="save made" type_id="10"/>
+	<message comment="Orlando Sá has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="8" period="1" second="44" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="GOAL! Orlando Sá scores , Assisted by Mousa Dembélé (Low to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="9" time="6" type="goal scored" type_id="16"/>
+	<message comment="Steve Morison is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Bryan Ruiz is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

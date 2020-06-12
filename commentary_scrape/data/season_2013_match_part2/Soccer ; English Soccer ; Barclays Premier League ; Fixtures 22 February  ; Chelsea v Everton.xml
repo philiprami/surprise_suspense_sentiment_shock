@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2014-02-22 12:45" game_id_2="27149406" game_id_4="112828237" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-22 14:22:40" minute="95" period="2" second="47" team="Everton" time="98" type="end" type_id="30"/>
+	<message comment="Aiden McGeady wins a corner (To the left)" last_modified="2014-02-22 14:22:10" minute="95" period="2" second="17" team="Chelsea" time="98" type="corner" type_id="6"/>
+	<message comment="GOAL! Frank Lampard scores  (Low to the left, Out of box, Right footed, Free kick)" last_modified="2014-02-22 14:19:17" minute="92" period="2" second="24" team="Everton" time="95" type="goal scored" type_id="16"/>
+	<message comment="Phil Jagielka recieves a yellow card" last_modified="2014-02-22 14:18:33" minute="91" period="2" second="40" team="Chelsea" time="94" type="card received" type_id="17"/>
+	<message comment="Ramires misses attempt (Out of box, Right footed, Open play)" last_modified="2014-02-22 14:15:58" minute="89" period="2" second="5" team="Everton" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 14:14:55" minute="88" period="2" second="2" team="Everton" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman blocks a shot" last_modified="2014-02-22 14:14:55" minute="88" period="2" second="2" team="Chelsea" time="91" type="save made" type_id="10"/>
+	<message comment="André Schürrle misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 14:11:28" minute="84" period="2" second="35" team="Everton" time="87" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 14:09:53" minute="83" period="2" second="0" team="Everton" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 14:09:04" minute="82" period="2" second="11" team="Everton" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry recieves a yellow card" last_modified="2014-02-22 14:08:39" minute="81" period="2" second="46" team="Chelsea" time="84" type="card received" type_id="17"/>
+	<message comment="Frank Lampard is caught offside" last_modified="2014-02-22 14:06:53" minute="80" period="2" team="Everton" time="83" type="offside" type_id="10000"/>
+	<message comment="Steven Pienaar is substituted off" last_modified="2014-02-22 14:06:35" minute="79" period="2" second="42" team="Chelsea" time="82" type="substitution off" type_id="18"/>
+	<message comment="Aiden McGeady is substituted on" last_modified="2014-02-22 14:06:35" minute="79" period="2" second="42" team="Chelsea" time="82" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 14:03:01" minute="76" period="2" second="8" team="Everton" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas is substituted off" last_modified="2014-02-22 14:01:40" minute="74" period="2" second="47" team="Chelsea" time="77" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" last_modified="2014-02-22 14:01:40" minute="74" period="2" second="47" team="Chelsea" time="77" type="substitution on" type_id="19"/>
+	<message comment="Samuel Eto'o is substituted off" last_modified="2014-02-22 13:55:41" minute="68" period="2" second="48" team="Everton" time="71" type="substitution off" type_id="18"/>
+	<message comment="André Schürrle is substituted on" last_modified="2014-02-22 13:55:41" minute="68" period="2" second="48" team="Everton" time="71" type="substitution on" type_id="19"/>
+	<message comment="César Azpilicueta blocks a shot" last_modified="2014-02-22 13:53:14" minute="66" period="2" second="21" team="Everton" time="69" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-22 13:53:14" minute="66" period="2" second="21" team="Chelsea" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2014-02-22 13:49:53" minute="63" period="2" team="Everton" time="66" type="offside" type_id="10000"/>
+	<message comment="Leon Osman is substituted off" last_modified="2014-02-22 13:49:52" minute="62" period="2" second="59" team="Chelsea" time="65" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" last_modified="2014-02-22 13:49:52" minute="62" period="2" second="59" team="Chelsea" time="65" type="substitution on" type_id="19"/>
+	<message comment="Willian is substituted off" last_modified="2014-02-22 13:48:27" minute="61" period="2" second="34" team="Everton" time="64" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" last_modified="2014-02-22 13:48:27" minute="61" period="2" second="34" team="Everton" time="64" type="substitution on" type_id="19"/>
+	<message comment="Gary Cahill has shot blocked (Out of box, Left footed, From corner)" last_modified="2014-02-22 13:46:57" minute="60" period="2" second="4" team="Everton" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2014-02-22 13:46:57" minute="60" period="2" second="4" team="Chelsea" time="63" type="save made" type_id="10"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe, Other body part)" last_modified="2014-02-22 13:46:55" minute="60" period="2" second="2" team="Chelsea" time="63" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (High to the left, 6-yard box, Big Chance, Left footed, From corner)" last_modified="2014-02-22 13:46:55" minute="60" period="2" second="2" team="Everton" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Samuel Eto'o misses attempt (To the left, 18-yard box, Key pass, Head, From corner)" last_modified="2014-02-22 13:46:53" minute="60" period="2" second="0" team="Everton" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard has attempt saved (Low to the right, Out of box, Left footed, From corner)" last_modified="2014-02-22 13:46:50" minute="59" period="2" second="57" team="Everton" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" last_modified="2014-02-22 13:46:50" minute="59" period="2" second="57" team="Chelsea" time="62" type="save made" type_id="10"/>
+	<message comment="Frank Lampard wins a corner (To the right)" last_modified="2014-02-22 13:46:25" minute="59" period="2" second="32" team="Everton" time="62" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o wins a corner (To the left)" last_modified="2014-02-22 13:46:05" minute="59" period="2" second="12" team="Everton" time="62" type="corner" type_id="6"/>
+	<message comment="Phil Jagielka misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2014-02-22 13:45:03" minute="58" period="2" second="10" team="Chelsea" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Sylvain Distin is caught offside" last_modified="2014-02-22 13:44:53" minute="58" period="2" team="Chelsea" time="61" type="offside" type_id="10000"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" last_modified="2014-02-22 13:44:33" minute="57" period="2" second="40" team="Chelsea" time="60" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" last_modified="2014-02-22 13:44:31" minute="57" period="2" second="38" team="Everton" time="60" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:44:31" minute="57" period="2" second="38" team="Chelsea" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:41:24" minute="54" period="2" second="31" team="Everton" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Willian misses attempt (High, Out of box, Right footed, Free kick)" last_modified="2014-02-22 13:38:49" minute="51" period="2" second="56" team="Everton" time="54" type="attempt missed" type_id="13"/>
+	<message comment="John Terry wins a corner (To the right)" last_modified="2014-02-22 13:37:08" minute="50" period="2" second="15" team="Everton" time="53" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o wins a corner (To the left)" last_modified="2014-02-22 13:36:44" minute="49" period="2" second="51" team="Everton" time="52" type="corner" type_id="6"/>
+	<message comment="Frank Lampard has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 13:36:19" minute="49" period="2" second="26" team="Everton" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" last_modified="2014-02-22 13:36:19" minute="49" period="2" second="26" team="Chelsea" time="52" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2014-02-22 13:36:16" minute="49" period="2" second="23" team="Everton" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried into danger)" last_modified="2014-02-22 13:36:16" minute="49" period="2" second="23" team="Chelsea" time="52" type="save made" type_id="10"/>
+	<message comment="Oscar is substituted off" last_modified="2014-02-22 13:31:53" minute="45" period="2" second="0" team="Everton" time="48" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted on" last_modified="2014-02-22 13:31:53" minute="45" period="2" second="0" team="Everton" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-02-22 13:31:53" minute="45" period="2" second="0" team="Everton" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-22 13:34:11" minute="47" period="1" second="18" team="Everton" time="47" type="end" type_id="30"/>
+	<message comment="Willian has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:33:00" minute="46" period="1" second="7" team="Everton" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" last_modified="2014-02-22 13:33:00" minute="46" period="1" second="7" team="Chelsea" time="46" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:32:25" minute="45" period="1" second="32" team="Everton" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" last_modified="2014-02-22 13:32:25" minute="45" period="1" second="32" team="Chelsea" time="45" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:31:58" minute="45" period="1" second="5" team="Chelsea" time="45" type="attempt missed" type_id="13"/>
+	<message comment="César Azpilicueta blocks a shot" last_modified="2014-02-22 13:30:40" minute="43" period="1" second="47" team="Everton" time="43" type="save made" type_id="10"/>
+	<message comment="James McCarthy has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 13:30:40" minute="43" period="1" second="47" team="Chelsea" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-02-22 13:27:11" minute="40" period="1" second="18" team="Everton" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Willian wins a corner (To the right)" last_modified="2014-02-22 13:26:39" minute="39" period="1" second="46" team="Everton" time="39" type="corner" type_id="6"/>
+	<message comment="Willian has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 13:26:38" minute="39" period="1" second="45" team="Everton" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" last_modified="2014-02-22 13:26:38" minute="39" period="1" second="45" team="Chelsea" time="39" type="save made" type_id="10"/>
+	<message comment="Leon Osman wins a corner (To the left)" last_modified="2014-02-22 13:25:06" minute="38" period="1" second="13" team="Chelsea" time="38" type="corner" type_id="6"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-02-22 13:24:05" minute="37" period="1" second="12" team="Chelsea" time="37" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2014-02-22 13:23:01" minute="36" period="1" second="8" team="Everton" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" last_modified="2014-02-22 13:23:01" minute="36" period="1" second="8" team="Chelsea" time="36" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas is caught offside" last_modified="2014-02-22 13:21:53" minute="35" period="1" team="Chelsea" time="35" type="offside" type_id="10000"/>
+	<message comment="Phil Jagielka misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-02-22 13:19:54" minute="33" period="1" second="1" team="Chelsea" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman wins a corner (To the left)" last_modified="2014-02-22 13:19:29" minute="32" period="1" second="36" team="Chelsea" time="32" type="corner" type_id="6"/>
+	<message comment="Frank Lampard misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2014-02-22 13:18:58" minute="32" period="1" second="5" team="Everton" time="32" type="attempt missed" type_id="13"/>
+	<message comment="César Azpilicueta has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-02-22 13:15:35" minute="28" period="1" second="42" team="Everton" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" last_modified="2014-02-22 13:15:35" minute="28" period="1" second="42" team="Chelsea" time="28" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-22 13:15:33" minute="28" period="1" second="40" team="Everton" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar blocks a shot" last_modified="2014-02-22 13:15:33" minute="28" period="1" second="40" team="Chelsea" time="28" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" last_modified="2014-02-22 13:03:27" minute="16" period="1" second="34" team="Chelsea" time="16" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 13:03:26" minute="16" period="1" second="33" team="Chelsea" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2014-02-22 13:03:26" minute="16" period="1" second="33" team="Everton" time="16" type="save made" type_id="10"/>
+	<message comment="Leighton Baines wins a corner (To the right)" last_modified="2014-02-22 12:59:33" minute="12" period="1" second="40" team="Chelsea" time="12" type="corner" type_id="6"/>
+	<message comment="Leon Osman wins a corner (To the right)" last_modified="2014-02-22 12:58:49" minute="11" period="1" second="56" team="Chelsea" time="11" type="corner" type_id="6"/>
+	<message comment="Leon Osman has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2014-02-22 12:58:47" minute="11" period="1" second="54" team="Chelsea" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" last_modified="2014-02-22 12:58:47" minute="11" period="1" second="54" team="Everton" time="11" type="save made" type_id="10"/>
+	<message comment="Oscar recieves a yellow card" last_modified="2014-02-22 12:55:47" minute="8" period="1" second="54" team="Everton" time="8" type="card received" type_id="17"/>
+	<message comment="Formation Set" last_modified="2014-02-22 12:46:53" minute="0" period="14" second="0" team="Everton" time="8" type="end" type_id="30"/>
+	<message comment="Oscar wins a corner (To the right)" last_modified="2014-02-22 12:54:45" minute="7" period="1" second="52" team="Everton" time="7" type="corner" type_id="6"/>
+	<message comment="Leighton Baines blocks a shot" last_modified="2014-02-22 12:54:43" minute="7" period="1" second="50" team="Chelsea" time="7" type="save made" type_id="10"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-22 12:54:43" minute="7" period="1" second="50" team="Everton" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Willian misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 12:50:39" minute="3" period="1" second="46" team="Everton" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard wins a corner (To the left)" last_modified="2014-02-22 12:48:14" minute="1" period="1" second="21" team="Everton" time="1" type="corner" type_id="6"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2014-02-22 12:47:47" minute="0" period="1" second="54" team="Everton" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2014-02-22 12:46:53" minute="0" period="1" second="0" team="Everton" time="0" type="start" type_id="32"/>
+</Commentary>

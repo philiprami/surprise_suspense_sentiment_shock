@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2012-12-30" home_team_name="Chelsea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="35" time="96" type="end" type_id="30"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="92" period="2" second="58" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Ross Turnbull makes a save (Standing)" minute="92" period="2" second="58" time="94" type="save made" type_id="10"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="90" period="2" second="18" time="92" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin blocks a shot" minute="90" period="2" second="16" time="92" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Fast break)" minute="90" period="2" second="16" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar misses attempt (High to the right, Out of box, Right footed, From corner)" minute="87" period="2" second="56" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="87" period="2" second="20" time="89" type="corner" type_id="6"/>
+	<message comment="Ramires wins a corner (To the left)" minute="86" period="2" second="22" time="88" type="corner" type_id="6"/>
+	<message comment="Ashley Cole recieves a yellow card" minute="85" period="2" second="42" time="87" type="card received" type_id="17"/>
+	<message comment="Ross Barkley misses attempt (High, Out of box, Right footed, Open play)" minute="85" period="2" second="10" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is substituted off" minute="84" period="2" second="46" time="86" type="substitution off" type_id="18"/>
+	<message comment="Oscar is substituted on" minute="84" period="2" second="46" time="86" type="substitution on" type_id="19"/>
+	<message comment="John Heitinga blocks a shot" minute="81" period="2" second="13" time="83" type="save made" type_id="10"/>
+	<message comment="Victor Moses has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="13" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar is substituted off" minute="80" period="2" second="24" time="82" type="substitution off" type_id="18"/>
+	<message comment="Bryan Oviedo is substituted on" minute="80" period="2" second="24" time="82" type="substitution on" type_id="19"/>
+	<message comment="Thomas Hitzlsperger is substituted off" minute="77" period="2" second="35" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" minute="77" period="2" second="35" time="79" type="substitution on" type_id="19"/>
+	<message comment="Steven Naismith is substituted off" minute="76" period="2" second="6" time="78" type="substitution off" type_id="18"/>
+	<message comment="Apostolos Vellios is substituted on" minute="76" period="2" second="6" time="78" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" minute="73" period="2" second="19" time="75" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="73" period="2" second="19" time="75" type="substitution on" type_id="19"/>
+	<message comment="Sylvain Distin recieves a yellow card" minute="72" period="2" second="49" time="74" type="card received" type_id="17"/>
+	<message comment="GOAL! Frank Lampard scores  (High to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="71" period="2" second="23" time="73" type="goal scored" type_id="16"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" minute="71" period="2" second="21" time="73" type="save made" type_id="10"/>
+	<message comment="Juan Mata has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="71" period="2" second="21" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz recieves a yellow card" minute="69" period="2" second="12" time="71" type="card received" type_id="17"/>
+	<message comment="Nikica Jelavic hits the woodwork (High, 18-yard box, Head, Open play)" minute="68" period="2" second="55" time="70" type="woodwork hit" type_id="14"/>
+	<message comment="Leon Osman has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="68" period="2" second="20" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Ross Turnbull makes a save (Diving, Parried into danger)" minute="68" period="2" second="20" time="70" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic wins a corner (To the left)" minute="66" period="2" second="48" time="68" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="66" period="2" second="22" time="68" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" minute="66" period="2" second="19" time="68" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="66" period="2" second="19" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar recieves a yellow card" minute="63" period="2" second="38" time="65" type="card received" type_id="17"/>
+	<message comment="Ross Turnbull makes a save" minute="61" period="2" second="15" time="63" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka has attempt saved (High to the right, 18-yard box, Right footed, From corner)" minute="61" period="2" second="15" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="60" period="2" second="52" time="62" type="corner" type_id="6"/>
+	<message comment="Leon Osman wins a corner (To the left)" minute="58" period="2" second="43" time="60" type="corner" type_id="6"/>
+	<message comment="David Luiz misses attempt (High, Out of box, Right footed, Open play)" minute="57" period="2" second="43" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Nikica Jelavic is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Leighton Baines blocks a shot" minute="53" period="2" second="30" time="55" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="30" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires wins a corner (To the left)" minute="50" period="2" second="7" time="52" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin is caught offside" minute="48" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Gary Cahill recieves a yellow card" minute="47" period="2" second="15" time="49" type="card received" type_id="17"/>
+	<message comment="Petr Cech is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Ross Turnbull is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Fernando Torres has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="7" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="John Heitinga misses attempt (High, Out of box, Right footed, Set piece)" minute="44" period="1" second="22" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman has shot blocked (Out of box, Right footed, Set piece)" minute="44" period="1" second="20" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata blocks a shot" minute="44" period="1" second="20" time="44" type="save made" type_id="10"/>
+	<message comment="GOAL! Frank Lampard scores , Assisted by Ramires (Low to the right, 18-yard box, Head, Open play)" minute="41" period="1" second="11" time="41" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="40" period="1" second="31" time="40" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin blocks a shot" minute="40" period="1" second="27" time="40" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Left footed, Set piece)" minute="40" period="1" second="27" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Naismith blocks a shot" minute="40" period="1" second="24" time="40" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" minute="40" period="1" second="24" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Naismith misses attempt (To the right, 6-yard box, Head, Open play)" minute="38" period="1" second="27" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic blocks a shot" minute="37" period="1" second="52" time="37" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="52" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Nikica Jelavic wins a corner (To the right)" minute="35" period="1" second="21" time="35" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="35" period="1" second="18" time="35" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the right, 18-yard box, Left footed, Fast break)" minute="35" period="1" second="18" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe wins a corner (To the left)" minute="30" period="1" second="28" time="30" type="corner" type_id="6"/>
+	<message comment="Phil Jagielka blocks a shot" minute="28" period="1" second="6" time="28" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" minute="28" period="1" second="6" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Diving, Other body part)" minute="27" period="1" second="0" time="27" type="save made" type_id="10"/>
+	<message comment="Juan Mata has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="27" period="1" second="0" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires misses attempt (To the left, Out of box, Right footed, Open play)" minute="26" period="1" second="59" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman wins a corner (To the left)" minute="25" period="1" second="31" time="25" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="25" period="1" second="28" time="25" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="25" period="1" second="28" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe misses attempt (High to the right, 18-yard box, Head, Throw-in)" minute="23" period="1" second="43" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Ramires misses attempt (High to the left, Out of box, Left footed, Open play)" minute="20" period="1" second="58" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Thomas Hitzlsperger wins a corner (To the left)" minute="11" period="1" second="38" time="11" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar wins a corner (To the right)" minute="11" period="1" second="12" time="11" type="corner" type_id="6"/>
+	<message comment="Nikica Jelavic hits the woodwork (To the left, Out of box, Right footed, Free kick)" minute="7" period="1" second="58" time="7" type="woodwork hit" type_id="14"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Steven Pienaar scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="1" period="1" second="3" time="1" type="goal scored" type_id="16"/>
+	<message comment="Victor Anichebe hits the woodwork (To the left, 6-yard box, Head, Open play)" minute="1" period="1" second="2" time="1" type="woodwork hit" type_id="14"/>
+	<message comment="Fernando Torres is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2010-08-29" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="16" time="95" type="end" type_id="30"/>
+	<message comment="Fernando Torres is substituted off" minute="88" period="2" second="52" time="90" type="substitution off" type_id="18"/>
+	<message comment="Ryan Babel is substituted on" minute="88" period="2" second="52" time="90" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Tamas misses attempt (To the left, 18-yard box, Right footed, Set piece)" minute="88" period="2" second="3" time="90" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison recieves a red card" minute="85" period="2" second="19" time="87" type="card received" type_id="17"/>
+	<message comment="Somen Tchoyi misses attempt (18-yard box, Left footed, Open play)" minute="84" period="2" second="11" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="83" period="2" second="2" time="85" type="corner" type_id="6"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="82" period="2" second="55" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Gonzalo Jara blocks a shot" minute="82" period="2" second="55" time="84" type="save made" type_id="10"/>
+	<message comment="Somen Tchoyi has shot blocked (Out of box, Right footed, Open play)" minute="81" period="2" second="48" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Poulsen blocks a shot" minute="81" period="2" second="48" time="83" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="81" period="2" second="30" time="83" type="substitution off" type_id="18"/>
+	<message comment="Chris Wood is substituted on" minute="81" period="2" second="30" time="83" type="substitution on" type_id="19"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="80" period="2" second="33" time="82" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="80" period="2" second="33" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Graham Dorrans is substituted off" minute="75" period="2" second="12" time="77" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="75" period="2" second="12" time="77" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="74" period="2" second="35" time="76" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="73" period="2" second="23" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Carson makes a save (Diving)" minute="73" period="2" second="23" time="75" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the left)" minute="72" period="2" second="32" time="74" type="corner" type_id="6"/>
+	<message comment="Scott Carson makes a save (Parried safe, Diving)" minute="71" period="2" second="42" time="73" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="71" period="2" second="42" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (High to the left, Out of box, Left footed, Open play)" minute="66" period="2" second="42" time="68" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Dirk Kuyt (Low to the left, Out of box, Right footed, Fast break)" minute="64" period="2" second="54" time="66" type="goal scored" type_id="16"/>
+	<message comment="Gonzalo Jara has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="64" period="2" second="40" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="64" period="2" second="40" time="66" type="save made" type_id="10"/>
+	<message comment="Gonzalo Jara has shot blocked (18-yard box, Right footed, Open play)" minute="64" period="2" second="38" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger blocks a shot" minute="64" period="2" second="38" time="66" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez misses attempt (To the left, Out of box, Right footed, Open play)" minute="64" period="2" second="17" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="64" period="2" second="15" time="66" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has shot blocked (Out of box, Right footed, Fast break)" minute="64" period="2" second="15" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger wins a corner (To the right)" minute="62" period="2" second="2" time="64" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel misses attempt (Out of box, Right footed, From corner)" minute="59" period="2" second="30" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Milan Jovanovic is substituted off" minute="59" period="2" second="6" time="61" type="substitution off" type_id="18"/>
+	<message comment="Maxi Rodríguez is substituted on" minute="59" period="2" second="6" time="61" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="58" period="2" second="46" time="60" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans misses attempt (18-yard box, Right footed, Open play)" minute="55" period="2" second="7" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans misses attempt (High to the right, Out of box, Right footed, Open play)" minute="51" period="2" second="47" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt has shot blocked (18-yard box, Right footed, Open play)" minute="49" period="2" second="26" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher blocks a shot" minute="49" period="2" second="26" time="51" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard misses attempt (To the right, Out of box, Right footed, Open play)" minute="48" period="2" second="43" time="50" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" minute="48" period="2" second="8" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="14" time="46" type="end" type_id="30"/>
+	<message comment="James Morrison misses attempt (To the right, Out of box, Right footed, Open play)" minute="45" period="1" second="49" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Tamas wins a corner (To the left)" minute="37" period="1" second="25" time="37" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="35" period="1" second="5" time="35" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt wins a corner (To the left)" minute="34" period="1" second="47" time="34" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="34" period="1" second="46" time="34" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="27" period="1" second="48" time="27" type="corner" type_id="6"/>
+	<message comment="Gonzalo Jara wins a corner (To the right)" minute="25" period="1" second="39" time="25" type="corner" type_id="6"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="22" period="1" second="55" time="22" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="22" period="1" second="55" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="22" period="1" second="8" time="22" type="corner" type_id="6"/>
+	<message comment="Christian Poulsen blocks a shot" minute="22" period="1" second="6" time="22" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="22" period="1" second="6" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="18" period="1" second="15" time="18" type="corner" type_id="6"/>
+	<message comment="Marc-Antoine Fortuné misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="15" period="1" second="40" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="7" period="1" second="47" time="7" type="corner" type_id="6"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="7" period="1" second="42" time="7" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="7" period="1" second="42" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="11" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Scott Carson makes a save" minute="2" period="1" second="45" time="2" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="2" period="1" second="45" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

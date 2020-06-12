@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2010-08-15" home_team_name="Arsenal" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="14" time="98" type="end" type_id="30"/>
+	<message comment="Laurent Koscielny recieves a red card after receiving second yellow card" minute="94" period="2" second="15" time="97" type="card received" type_id="17"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="92" period="2" second="54" time="95" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="92" period="2" second="50" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel Almunia makes a save (Diving, Parried safe)" minute="92" period="2" second="50" time="95" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny recieves a yellow card" minute="91" period="2" second="58" time="94" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel wins a corner (To the left)" minute="91" period="2" second="12" time="94" type="corner" type_id="6"/>
+	<message comment="Jamie Carragher wins a corner (To the left)" minute="90" period="2" second="32" time="93" type="corner" type_id="6"/>
+	<message comment="Pepe Reina scores an OWN GOAL!  (Low to the left, 6-yard box, Other body part, Open play)" minute="89" period="2" second="38" time="92" type="goal scored" type_id="16"/>
+	<message comment="Marouane Chamakh hits the woodwork (To the left, 6-yard box, Other body part, Throw-in)" minute="89" period="2" second="37" time="92" type="woodwork hit" type_id="14"/>
+	<message comment="Robin van Persie wins a corner (To the right)" minute="87" period="2" second="43" time="90" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky wins a corner (To the right)" minute="85" period="2" second="59" time="88" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="85" period="2" second="45" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="85" period="2" second="45" time="88" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky recieves a yellow card" minute="84" period="2" second="31" time="87" type="card received" type_id="17"/>
+	<message comment="Theo Walcott misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="79" period="2" second="35" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="79" period="2" second="4" time="82" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard blocks a shot" minute="79" period="2" second="2" time="82" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna has shot blocked (6-yard box, Head, From corner)" minute="79" period="2" second="2" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="78" period="2" second="41" time="81" type="corner" type_id="6"/>
+	<message comment="Javier Mascherano is substituted off" minute="78" period="2" second="3" time="81" type="substitution off" type_id="18"/>
+	<message comment="Lucas Leiva is substituted on" minute="78" period="2" second="3" time="81" type="substitution on" type_id="19"/>
+	<message comment="Abou Diaby is substituted off" minute="75" period="2" second="20" time="78" type="substitution off" type_id="18"/>
+	<message comment="Robin van Persie is substituted on" minute="75" period="2" second="20" time="78" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres is substituted on" minute="73" period="2" second="34" time="76" type="substitution on" type_id="19"/>
+	<message comment="David N'Gog is substituted off" minute="73" period="2" second="34" time="76" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Thomas Vermaelen misses attempt (To the left, 18-yard box, Head, From corner)" minute="72" period="2" second="56" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="72" period="2" second="40" time="75" type="corner" type_id="6"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried safe)" minute="72" period="2" second="35" time="75" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="72" period="2" second="35" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="72" period="2" second="6" time="75" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel blocks a shot" minute="69" period="2" second="58" time="72" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" minute="69" period="2" second="58" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen misses attempt (To the left, 18-yard box, Head, From corner)" minute="68" period="2" second="19" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="67" period="2" second="29" time="70" type="corner" type_id="6"/>
+	<message comment="Milan Jovanovic is substituted off" minute="65" period="2" second="18" time="68" type="substitution off" type_id="18"/>
+	<message comment="Maxi Rodríguez is substituted on" minute="65" period="2" second="18" time="68" type="substitution on" type_id="19"/>
+	<message comment="Theo Walcott wins a corner (To the left)" minute="60" period="2" second="8" time="63" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere is substituted off" minute="59" period="2" second="10" time="62" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="59" period="2" second="10" time="62" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Eboué is substituted off" minute="59" period="2" second="0" time="62" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="59" period="2" second="0" time="62" type="substitution on" type_id="19"/>
+	<message comment="Jack Wilshere misses attempt (To the left, Out of box, Left footed, From corner)" minute="58" period="2" second="30" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="58" period="2" second="2" time="61" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="57" period="2" second="59" time="60" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="57" period="2" second="59" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="David N'Gog misses attempt (High to the right, 18-yard box, Big Chance, Head, Set piece)" minute="55" period="2" second="10" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Milan Jovanovic wins a corner (To the left)" minute="51" period="2" second="51" time="54" type="corner" type_id="6"/>
+	<message comment="Milan Jovanovic wins a corner (To the right)" minute="51" period="2" second="10" time="54" type="corner" type_id="6"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="50" period="2" second="38" time="53" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel misses attempt (High to the left, 18-yard box, Big Chance, Head, Set piece)" minute="48" period="2" second="17" time="51" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! David N'Gog scores , Assisted by Javier Mascherano (High to the right, 18-yard box, Right footed, Open play)" minute="45" period="2" second="59" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="15" time="47" type="end" type_id="30"/>
+	<message comment="Joe Cole recieves a red card" minute="45" period="1" second="21" time="45" type="card received" type_id="17"/>
+	<message comment="Gaël Clichy blocks a shot (Last line)" minute="44" period="1" second="51" time="44" type="save made" type_id="10"/>
+	<message comment="David N'Gog has shot blocked (18-yard box, Big Chance, Head, From corner)" minute="44" period="1" second="51" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="44" period="1" second="4" time="44" type="corner" type_id="6"/>
+	<message comment="Glen Johnson has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="44" period="1" second="2" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel Almunia makes a save (Diving)" minute="44" period="1" second="2" time="44" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere recieves a yellow card" minute="40" period="1" second="15" time="40" type="card received" type_id="17"/>
+	<message comment="Milan Jovanovic misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="36" period="1" second="55" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Dirk Kuyt is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="31" period="1" second="36" time="31" type="corner" type_id="6"/>
+	<message comment="Joe Cole wins a corner (To the right)" minute="31" period="1" second="2" time="31" type="corner" type_id="6"/>
+	<message comment="Joe Cole has shot blocked (Out of box, Right footed, Open play)" minute="30" period="1" second="58" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="30" period="1" second="58" time="30" type="save made" type_id="10"/>
+	<message comment="Gaël Clichy misses attempt (High, Out of box, Left footed, Open play)" minute="30" period="1" second="24" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard blocks a shot" minute="27" period="1" second="9" time="27" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Free kick)" minute="27" period="1" second="9" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen misses attempt (High, 18-yard box, Head, From corner)" minute="23" period="1" second="16" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Eboué wins a corner (To the left)" minute="23" period="1" second="1" time="23" type="corner" type_id="6"/>
+	<message comment="Bacary Sagna wins a corner (To the left)" minute="22" period="1" second="32" time="22" type="corner" type_id="6"/>
+	<message comment="Thomas Vermaelen misses attempt (To the right, Out of box, Left footed, Set piece)" minute="21" period="1" second="24" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard blocks a shot" minute="21" period="1" second="21" time="21" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Free kick)" minute="21" period="1" second="21" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="David N'Gog is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="David N'Gog is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="David N'Gog is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel blocks a shot" minute="8" period="1" second="24" time="8" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has shot blocked (Out of box, Left footed, Open play)" minute="8" period="1" second="24" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Chamakh is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Marouane Chamakh wins a corner (To the left)" minute="4" period="1" second="34" time="4" type="corner" type_id="6"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried safe)" minute="4" period="1" second="9" time="4" type="save made" type_id="10"/>
+	<message comment="Thomas Vermaelen has attempt saved (High to the left, Out of box, Left footed, Free kick)" minute="4" period="1" second="9" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

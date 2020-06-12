@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-09-16" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="19" time="98" type="end" type_id="30"/>
+	<message comment="Simon Mignolet makes a save (Diving, From shot off target)" minute="94" period="2" second="12" time="97" type="save made" type_id="10"/>
+	<message comment="Michu misses attempt (Out of box, Left footed, Open play)" minute="94" period="2" second="11" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (To the right, Out of box, Right footed, Open play)" minute="87" period="2" second="58" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="87" period="2" second="2" time="90" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Standing)" minute="86" period="2" second="59" time="89" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="86" period="2" second="59" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="85" period="2" second="15" time="88" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán misses attempt (High, Out of box, Right footed, Open play)" minute="82" period="2" second="17" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard misses attempt (High, Out of box, Right footed, Free kick)" minute="81" period="2" second="28" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses is substituted off" minute="80" period="2" second="10" time="83" type="substitution off" type_id="18"/>
+	<message comment="Raheem Sterling is substituted on" minute="80" period="2" second="10" time="83" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="79" period="2" second="23" time="82" type="corner" type_id="6"/>
+	<message comment="Michu misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="74" period="2" second="22" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save (Collected)" minute="72" period="2" second="12" time="75" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="72" period="2" second="12" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Andre Wisdom is substituted off" minute="68" period="2" second="58" time="71" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="68" period="2" second="58" time="71" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge is caught offside" minute="68" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Michu misses attempt (High to the right, 18-yard box, Head, Open play)" minute="67" period="2" second="0" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony is substituted off" minute="65" period="2" second="52" time="68" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="65" period="2" second="52" time="68" type="substitution on" type_id="19"/>
+	<message comment="Andre Wisdom recieves a yellow card" minute="65" period="2" second="16" time="68" type="card received" type_id="17"/>
+	<message comment="GOAL! Michu scores , Assisted by Jonjo Shelvey (Low to the left, 18-yard box, Right footed, Open play)" minute="63" period="2" second="20" time="66" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="61" period="2" second="41" time="64" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="35" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="61" period="2" second="35" time="64" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson recieves a yellow card" minute="60" period="2" second="8" time="63" type="card received" type_id="17"/>
+	<message comment="Lucas Leiva recieves a yellow card" minute="55" period="2" second="36" time="58" type="card received" type_id="17"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="55" period="2" second="32" time="58" type="card received" type_id="17"/>
+	<message comment="Philippe Coutinho is substituted off" minute="54" period="2" second="10" time="57" type="substitution off" type_id="18"/>
+	<message comment="Iago Aspas is substituted on" minute="54" period="2" second="10" time="57" type="substitution on" type_id="19"/>
+	<message comment="Andre Wisdom has attempt saved (Low to the left, 18-yard box, Right footed, Set piece)" minute="52" period="2" second="19" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="52" period="2" second="19" time="55" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="52" period="2" second="18" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="51" period="2" second="6" time="54" type="corner" type_id="6"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="49" period="2" second="7" time="52" type="card received" type_id="17"/>
+	<message comment="Nathan Dyer is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Jonathan de Guzmán is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" minute="42" period="1" second="24" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="42" period="1" second="24" time="42" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (6-yard box, Left footed, Open play)" minute="38" period="1" second="2" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot (Last line)" minute="38" period="1" second="2" time="38" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="37" period="1" second="59" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="37" period="1" second="59" time="37" type="save made" type_id="10"/>
+	<message comment="Michu has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="36" period="1" second="53" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="36" period="1" second="53" time="36" type="save made" type_id="10"/>
+	<message comment="GOAL! Victor Moses scores  (Low to the left, Out of box, Right footed, Open play)" minute="35" period="1" second="55" time="35" type="goal scored" type_id="16"/>
+	<message comment="Wilfried Bony is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Wilfried Bony misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="32" period="1" second="1" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="29" period="1" second="1" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="29" period="1" second="1" time="29" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="24" period="1" second="53" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="24" period="1" second="8" time="24" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" minute="24" period="1" second="4" time="24" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="24" period="1" second="4" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson wins a corner (To the right)" minute="22" period="1" second="36" time="22" type="corner" type_id="6"/>
+	<message comment="Ben Davies blocks a shot" minute="22" period="1" second="8" time="22" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Left footed, Open play)" minute="22" period="1" second="8" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Andre Wisdom misses attempt (High, 18-yard box, Head, From corner)" minute="20" period="1" second="4" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="19" period="1" second="41" time="19" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey misses attempt (High to the right, Out of box, Right footed, Open play)" minute="17" period="1" second="33" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="14" period="1" second="59" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="10" period="1" second="53" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="10" period="1" second="53" time="10" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="7" period="1" second="35" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="7" period="1" second="35" time="7" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="6" period="1" second="53" time="6" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson wins a corner (To the right)" minute="5" period="1" second="36" time="5" type="corner" type_id="6"/>
+	<message comment="GOAL! Daniel Sturridge scores  (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="3" period="1" second="6" time="3" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Jonjo Shelvey scores  (High to the left, 18-yard box, Left footed, Open play)" minute="1" period="1" second="27" time="1" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="25" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="1" period="1" second="25" time="1" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

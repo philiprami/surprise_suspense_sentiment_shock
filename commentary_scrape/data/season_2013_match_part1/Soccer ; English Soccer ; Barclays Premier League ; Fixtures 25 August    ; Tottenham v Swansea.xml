@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-08-25 16:00" game_id_2="27051248" game_id_4="110549077" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-08-25 17:34:26" minute="94" period="2" second="21" team="Swansea" time="96" type="end" type_id="30"/>
+	<message comment="Paulinho misses attempt (High to the left, 18-yard box, Left footed, Fast break)" last_modified="2013-08-25 17:30:48" minute="90" period="2" second="43" team="Swansea" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Standing)" last_modified="2013-08-25 17:30:45" minute="90" period="2" second="40" team="Tottenham" time="92" type="save made" type_id="10"/>
+	<message comment="Paulinho has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" last_modified="2013-08-25 17:30:45" minute="90" period="2" second="40" team="Swansea" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro is substituted on" last_modified="2013-08-25 17:27:52" minute="87" period="2" second="47" team="Swansea" time="89" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend is substituted off" last_modified="2013-08-25 17:27:52" minute="87" period="2" second="47" team="Swansea" time="89" type="substitution off" type_id="18"/>
+	<message comment="Michu is caught offside" last_modified="2013-08-25 17:24:05" minute="84" period="2" team="Tottenham" time="86" type="offside" type_id="10000"/>
+	<message comment="Roberto Soldado is substituted off" last_modified="2013-08-25 17:20:16" minute="80" period="2" second="11" team="Swansea" time="82" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" last_modified="2013-08-25 17:20:16" minute="80" period="2" second="11" team="Swansea" time="82" type="substitution on" type_id="19"/>
+	<message comment="Michael Dawson misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-08-25 17:18:23" minute="78" period="2" second="18" team="Swansea" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend wins a corner (To the right)" last_modified="2013-08-25 17:18:01" minute="77" period="2" second="56" team="Swansea" time="79" type="corner" type_id="6"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-08-25 17:17:36" minute="77" period="2" second="31" team="Swansea" time="79" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado recieves a yellow card" last_modified="2013-08-25 17:15:32" minute="75" period="2" second="27" team="Swansea" time="77" type="card received" type_id="17"/>
+	<message comment="Ashley Williams recieves a yellow card" last_modified="2013-08-25 17:12:30" minute="72" period="2" second="25" team="Tottenham" time="74" type="card received" type_id="17"/>
+	<message comment="Chico Flores wins a corner (To the left)" last_modified="2013-08-25 17:11:06" minute="71" period="2" second="1" team="Tottenham" time="73" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe)" last_modified="2013-08-25 17:11:04" minute="70" period="2" second="59" team="Swansea" time="72" type="save made" type_id="10"/>
+	<message comment="Chico Flores has attempt saved (High to the right, 18-yard box, Right footed, Set piece)" last_modified="2013-08-25 17:11:04" minute="70" period="2" second="59" team="Tottenham" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey is substituted off" last_modified="2013-08-25 17:08:56" minute="68" period="2" second="51" team="Tottenham" time="70" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony is substituted on" last_modified="2013-08-25 17:08:56" minute="68" period="2" second="51" team="Tottenham" time="70" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-25 17:08:19" minute="68" period="2" second="14" team="Tottenham" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend misses attempt (To the left, Out of box, Left footed, Set piece)" last_modified="2013-08-25 17:06:59" minute="66" period="2" second="54" team="Swansea" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé is substituted off" last_modified="2013-08-25 17:04:04" minute="63" period="2" second="59" team="Swansea" time="65" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" last_modified="2013-08-25 17:04:04" minute="63" period="2" second="59" team="Swansea" time="65" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-08-25 17:02:27" minute="62" period="2" second="22" team="Tottenham" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" last_modified="2013-08-25 17:02:27" minute="62" period="2" second="22" team="Swansea" time="64" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is substituted off" last_modified="2013-08-25 16:58:54" minute="58" period="2" second="49" team="Tottenham" time="60" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" last_modified="2013-08-25 16:58:54" minute="58" period="2" second="49" team="Tottenham" time="60" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Roberto Soldado scores  (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-08-25 16:57:40" minute="57" period="2" second="35" team="Swansea" time="59" type="goal scored" type_id="16"/>
+	<message comment="Andros Townsend misses attempt (Out of box, Left footed, Open play)" last_modified="2013-08-25 16:53:10" minute="53" period="2" second="5" team="Swansea" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey blocks a shot" last_modified="2013-08-25 16:53:02" minute="52" period="2" second="57" team="Tottenham" time="54" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-25 16:53:02" minute="52" period="2" second="57" team="Swansea" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-08-25 16:51:14" minute="51" period="2" second="9" team="Swansea" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Davies blocks a shot" last_modified="2013-08-25 16:51:14" minute="51" period="2" second="9" team="Tottenham" time="53" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-08-25 16:50:55" minute="50" period="2" second="50" team="Swansea" time="52" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" last_modified="2013-08-25 16:48:16" minute="48" period="2" second="11" team="Swansea" time="50" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-08-25 16:48:11" minute="48" period="2" second="6" team="Swansea" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2013-08-25 16:48:11" minute="48" period="2" second="6" team="Tottenham" time="50" type="save made" type_id="10"/>
+	<message comment="Andros Townsend wins a corner (To the right)" last_modified="2013-08-25 16:45:54" minute="45" period="2" second="49" team="Swansea" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-08-25 16:45:05" minute="45" period="2" second="0" team="Swansea" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-08-25 16:46:14" minute="46" period="1" second="9" team="Swansea" time="46" type="end" type_id="30"/>
+	<message comment="Chico Flores has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-08-25 16:43:11" minute="43" period="1" second="6" team="Tottenham" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" last_modified="2013-08-25 16:43:11" minute="43" period="1" second="6" team="Swansea" time="43" type="save made" type_id="10"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" last_modified="2013-08-25 16:42:23" minute="42" period="1" second="18" team="Tottenham" time="42" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-08-25 16:42:23" minute="42" period="1" second="18" team="Swansea" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas blocks a shot" last_modified="2013-08-25 16:41:51" minute="41" period="1" second="46" team="Tottenham" time="41" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-08-25 16:41:51" minute="41" period="1" second="46" team="Swansea" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Michu recieves a yellow card" last_modified="2013-08-25 16:39:51" minute="39" period="1" second="46" team="Tottenham" time="39" type="card received" type_id="17"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-25 16:37:52" minute="37" period="1" second="47" team="Tottenham" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-08-25 16:37:02" minute="36" period="1" second="57" team="Swansea" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson misses attempt (18-yard box, Right footed, From corner)" last_modified="2013-08-25 16:35:01" minute="34" period="1" second="56" team="Swansea" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" last_modified="2013-08-25 16:34:19" minute="34" period="1" second="14" team="Swansea" time="34" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" last_modified="2013-08-25 16:34:17" minute="34" period="1" second="12" team="Tottenham" time="34" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-08-25 16:34:17" minute="34" period="1" second="12" team="Swansea" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-08-25 16:31:28" minute="31" period="1" second="23" team="Swansea" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Etienne Capoue misses attempt (To the left, 18-yard box, Right footed, Set piece)" last_modified="2013-08-25 16:30:45" minute="30" period="1" second="40" team="Swansea" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Michel Vorm recieves a yellow card" last_modified="2013-08-25 16:30:04" minute="29" period="1" second="59" team="Tottenham" time="29" type="card received" type_id="17"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" last_modified="2013-08-25 16:25:39" minute="25" period="1" second="34" team="Tottenham" time="25" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the left, 18-yard box, Right footed, Throw-in)" last_modified="2013-08-25 16:25:37" minute="25" period="1" second="32" team="Tottenham" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" last_modified="2013-08-25 16:25:37" minute="25" period="1" second="32" team="Swansea" time="25" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen misses attempt (To the right, Out of box, Left footed, Free kick)" last_modified="2013-08-25 16:24:04" minute="23" period="1" second="59" team="Swansea" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams blocks a shot (Last line)" last_modified="2013-08-25 16:20:55" minute="20" period="1" second="50" team="Tottenham" time="20" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-08-25 16:20:55" minute="20" period="1" second="50" team="Swansea" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2013-08-25 16:18:05" minute="18" period="1" team="Tottenham" time="18" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" last_modified="2013-08-25 16:17:57" minute="17" period="1" second="52" team="Tottenham" time="17" type="corner" type_id="6"/>
+	<message comment="Nacer Chadli misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-08-25 16:16:50" minute="16" period="1" second="45" team="Swansea" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies recieves a yellow card" last_modified="2013-08-25 16:15:51" minute="15" period="1" second="46" team="Tottenham" time="15" type="card received" type_id="17"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" last_modified="2013-08-25 16:10:05" minute="10" period="1" second="0" team="Tottenham" time="10" type="save made" type_id="10"/>
+	<message comment="Etienne Capoue has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-08-25 16:10:05" minute="10" period="1" second="0" team="Swansea" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" last_modified="2013-08-25 16:08:54" minute="8" period="1" second="49" team="Swansea" time="8" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-08-25 16:08:54" minute="8" period="1" second="49" team="Tottenham" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Michu is caught offside" last_modified="2013-08-25 16:08:05" minute="8" period="1" team="Tottenham" time="8" type="offside" type_id="10000"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" last_modified="2013-08-25 16:07:08" minute="7" period="1" second="3" team="Tottenham" time="7" type="save made" type_id="10"/>
+	<message comment="Paulinho has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-08-25 16:07:08" minute="7" period="1" second="3" team="Swansea" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-08-25 16:00:05" minute="0" period="14" second="0" team="Swansea" time="6" type="end" type_id="30"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-08-25 16:01:15" minute="1" period="1" second="10" team="Swansea" time="1" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" last_modified="2013-08-25 16:00:54" minute="0" period="1" second="49" team="Swansea" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-08-25 16:00:05" minute="0" period="1" second="0" team="Swansea" time="0" type="start" type_id="32"/>
+</Commentary>

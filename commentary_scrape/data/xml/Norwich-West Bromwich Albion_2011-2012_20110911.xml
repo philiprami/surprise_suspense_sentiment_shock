@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2011-09-11" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="31" time="98" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie blocks a shot" minute="95" period="2" second="41" time="97" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Free kick)" minute="95" period="2" second="41" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid recieves a yellow card" minute="94" period="2" second="38" time="96" type="card received" type_id="17"/>
+	<message comment="Bradley Johnson misses attempt (To the left, Out of box, Left footed, Free kick)" minute="89" period="2" second="36" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is substituted off" minute="87" period="2" second="27" time="89" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="87" period="2" second="27" time="89" type="substitution on" type_id="19"/>
+	<message comment="Steve Morison misses attempt (18-yard box, Big Chance, Head, Throw-in)" minute="86" period="2" second="3" time="88" type="attempt missed" type_id="13"/>
+	<message comment="James Vaughan misses attempt (To the right, Out of box, Right footed, Open play)" minute="85" period="2" second="13" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Jerome Thomas is substituted off" minute="83" period="2" second="40" time="85" type="substitution off" type_id="18"/>
+	<message comment="Chris Brunt is substituted on" minute="83" period="2" second="40" time="85" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is caught offside" minute="81" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Andrew Crofts misses attempt (High, Out of box, Right footed, Open play)" minute="79" period="2" second="49" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Crofts misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="79" period="2" second="2" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas misses attempt (To the right, Out of box, Left footed, From corner)" minute="76" period="2" second="58" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long wins a corner (To the right)" minute="76" period="2" second="24" time="78" type="corner" type_id="6"/>
+	<message comment="Paul Scharner has shot blocked (18-yard box, Head, Open play)" minute="75" period="2" second="58" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="75" period="2" second="32" time="77" type="corner" type_id="6"/>
+	<message comment="Declan Rudd makes a save (Parried safe, Diving, Penalty)" minute="75" period="2" second="29" time="77" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="75" period="2" second="29" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Ritchie de Laet recieves a yellow card" minute="74" period="2" second="58" time="76" type="card received" type_id="17"/>
+	<message comment="Ritchie de Laet blocks a shot" minute="72" period="2" second="30" time="74" type="save made" type_id="10"/>
+	<message comment="James Morrison has shot blocked (Out of box, Left footed, Open play)" minute="72" period="2" second="30" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Martin is substituted off" minute="69" period="2" second="59" time="71" type="substitution off" type_id="18"/>
+	<message comment="James Vaughan is substituted on" minute="69" period="2" second="59" time="71" type="substitution on" type_id="19"/>
+	<message comment="Grant Holt is substituted off" minute="69" period="2" second="46" time="71" type="substitution off" type_id="18"/>
+	<message comment="Steve Morison is substituted on" minute="69" period="2" second="46" time="71" type="substitution on" type_id="19"/>
+	<message comment="Paul Scharner misses attempt (High, 18-yard box, Head, From corner)" minute="69" period="2" second="18" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans is substituted off" minute="68" period="2" second="56" time="70" type="substitution off" type_id="18"/>
+	<message comment="James Morrison is substituted on" minute="68" period="2" second="56" time="70" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="68" period="2" second="24" time="70" type="corner" type_id="6"/>
+	<message comment="Andrew Crofts misses attempt (Out of box, Right footed, Open play)" minute="62" period="2" second="22" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Surman is substituted off" minute="61" period="2" second="32" time="63" type="substitution off" type_id="18"/>
+	<message comment="Wes Hoolahan is substituted on" minute="61" period="2" second="32" time="63" type="substitution on" type_id="19"/>
+	<message comment="Jerome Thomas misses attempt (High, Out of box, Right footed, Open play)" minute="58" period="2" second="21" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Bradley Johnson misses attempt (Out of box, Left footed, Open play)" minute="55" period="2" second="29" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="54" period="2" second="16" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Declan Rudd makes a save (Diving, Collected)" minute="54" period="2" second="16" time="56" type="save made" type_id="10"/>
+	<message comment="Andrew Crofts misses attempt (High, 18-yard box, Left footed, Open play)" minute="47" period="2" second="25" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="56" time="46" type="end" type_id="30"/>
+	<message comment="Graham Dorrans has attempt saved (Low to the right, Out of box, Right footed, Throw-in)" minute="39" period="1" second="45" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Declan Rudd makes a save (Diving, Parried into danger)" minute="39" period="1" second="45" time="39" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans hits the woodwork (To the left, Out of box, Right footed, Open play)" minute="39" period="1" second="32" time="39" type="woodwork hit" type_id="14"/>
+	<message comment="Jerome Thomas has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="37" period="1" second="20" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Declan Rudd makes a save (Collected, Diving)" minute="37" period="1" second="20" time="37" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans misses attempt (To the left, Out of box, Head, Open play)" minute="35" period="1" second="6" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Fast break)" minute="35" period="1" second="3" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Declan Rudd makes a save (Feet, Parried safe)" minute="35" period="1" second="3" time="35" type="save made" type_id="10"/>
+	<message comment="Andrew Surman has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="33" period="1" second="4" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="33" period="1" second="4" time="33" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe)" minute="33" period="1" second="2" time="33" type="save made" type_id="10"/>
+	<message comment="Elliott Bennett has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="33" period="1" second="2" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Grant Holt wins a corner (To the left)" minute="32" period="1" second="0" time="32" type="corner" type_id="6"/>
+	<message comment="Elliott Bennett misses attempt (High, 18-yard box, Left footed, Open play)" minute="29" period="1" second="43" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu misses attempt (Out of box, Right footed, Open play)" minute="27" period="1" second="58" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="25" period="1" second="48" time="25" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Open play)" minute="25" period="1" second="48" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="19" period="1" second="45" time="19" type="save made" type_id="10"/>
+	<message comment="Andrew Surman has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="19" period="1" second="45" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="26" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Barnett blocks a shot" minute="19" period="1" second="26" time="19" type="save made" type_id="10"/>
+	<message comment="Paul Scharner recieves a yellow card" minute="15" period="1" second="23" time="15" type="card received" type_id="17"/>
+	<message comment="Andrew Surman misses attempt (To the left, 18-yard box, Head, Open play)" minute="10" period="1" second="16" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson blocks a shot" minute="10" period="1" second="9" time="10" type="save made" type_id="10"/>
+	<message comment="Andrew Crofts has shot blocked (Out of box, Right footed, Open play)" minute="10" period="1" second="9" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="8" period="1" second="50" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Grant Holt misses attempt (To the left, 6-yard box, Big Chance, Right footed, Open play)" minute="7" period="1" second="55" time="7" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Peter Odemwingie scores  (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="2" period="1" second="5" time="2" type="goal scored" type_id="16"/>
+	<message comment="Shane Long is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

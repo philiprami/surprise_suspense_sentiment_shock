@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-01-28 19:45" game_id_2="27135393" game_id_4="112540240" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-28 21:19:18" minute="94" period="2" second="5" team="Fulham" time="96" type="end" type_id="30"/>
+	<message comment="Muamer Tankovic misses attempt (High, 18-yard box, Head, From corner)" last_modified="2014-01-28 21:18:44" minute="93" period="2" second="31" team="Swansea" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the right)" last_modified="2014-01-28 21:18:23" minute="93" period="2" second="10" team="Swansea" time="95" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony recieves a yellow card" last_modified="2014-01-28 21:16:02" minute="90" period="2" second="49" team="Fulham" time="92" type="card received" type_id="17"/>
+	<message comment="Darren Bent wins a corner (To the left)" last_modified="2014-01-28 21:14:52" minute="89" period="2" second="39" team="Swansea" time="91" type="corner" type_id="6"/>
+	<message comment="Darren Bent has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-28 21:14:50" minute="89" period="2" second="37" team="Swansea" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" last_modified="2014-01-28 21:14:50" minute="89" period="2" second="37" team="Fulham" time="91" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic is caught offside" last_modified="2014-01-28 21:14:13" minute="89" period="2" team="Swansea" time="91" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán is substituted off" last_modified="2014-01-28 21:12:25" minute="87" period="2" second="12" team="Fulham" time="89" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" last_modified="2014-01-28 21:12:25" minute="87" period="2" second="12" team="Fulham" time="89" type="substitution on" type_id="19"/>
+	<message comment="Dan Burn misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-01-28 21:11:13" minute="86" period="2" second="0" team="Swansea" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Muamer Tankovic wins a corner (To the left)" last_modified="2014-01-28 21:10:52" minute="85" period="2" second="39" team="Swansea" time="87" type="corner" type_id="6"/>
+	<message comment="Alexander Kacaniklic misses attempt (High, Out of box, Left footed, Open play)" last_modified="2014-01-28 21:09:36" minute="84" period="2" second="23" team="Swansea" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is substituted off" last_modified="2014-01-28 21:07:34" minute="82" period="2" second="21" team="Swansea" time="84" type="substitution off" type_id="18"/>
+	<message comment="Muamer Tankovic is substituted on" last_modified="2014-01-28 21:07:34" minute="82" period="2" second="21" team="Swansea" time="84" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" last_modified="2014-01-28 21:04:56" minute="79" period="2" second="43" team="Fulham" time="81" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey is substituted off" last_modified="2014-01-28 21:04:07" minute="78" period="2" second="54" team="Fulham" time="80" type="substitution off" type_id="18"/>
+	<message comment="Jordi Amat is substituted on" last_modified="2014-01-28 21:04:07" minute="78" period="2" second="54" team="Fulham" time="80" type="substitution on" type_id="19"/>
+	<message comment="Dimitar Berbatov misses attempt (High, 6-yard box, Head, Set piece)" last_modified="2014-01-28 21:03:21" minute="78" period="2" second="8" team="Swansea" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Dan Burn wins a corner (To the left)" last_modified="2014-01-28 21:02:15" minute="77" period="2" second="2" team="Swansea" time="79" type="corner" type_id="6"/>
+	<message comment="GOAL! Chico Flores scores , Assisted by Jonathan de Guzmán (Low to the right, 6-yard box, Head, Set piece)" last_modified="2014-01-28 21:00:12" minute="74" period="2" second="59" team="Fulham" time="76" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson recieves a yellow card" last_modified="2014-01-28 20:59:45" minute="74" period="2" second="32" team="Swansea" time="76" type="card received" type_id="17"/>
+	<message comment="Clint Dempsey is substituted off" last_modified="2014-01-28 20:55:25" minute="70" period="2" second="12" team="Swansea" time="72" type="substitution off" type_id="18"/>
+	<message comment="Damien Duff is substituted on" last_modified="2014-01-28 20:55:25" minute="70" period="2" second="12" team="Swansea" time="72" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent is caught offside" last_modified="2014-01-28 20:54:13" minute="69" period="2" team="Swansea" time="71" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" last_modified="2014-01-28 20:53:15" minute="68" period="2" second="2" team="Fulham" time="70" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" last_modified="2014-01-28 20:53:13" minute="68" period="2" second="0" team="Swansea" time="70" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-01-28 20:53:13" minute="68" period="2" second="0" team="Fulham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-28 20:49:37" minute="64" period="2" second="24" team="Swansea" time="66" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonjo Shelvey scores , Assisted by Nathan Dyer (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-01-28 20:45:42" minute="60" period="2" second="29" team="Fulham" time="62" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-28 20:44:09" minute="58" period="2" second="56" team="Fulham" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is substituted on" last_modified="2014-01-28 20:43:17" minute="58" period="2" second="4" team="Swansea" time="60" type="substitution on" type_id="19"/>
+	<message comment="Ashkan Dejagah is substituted off" last_modified="2014-01-28 20:43:16" minute="58" period="2" second="3" team="Swansea" time="60" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández is substituted off" last_modified="2014-01-28 20:42:45" minute="57" period="2" second="32" team="Fulham" time="59" type="substitution off" type_id="18"/>
+	<message comment="Nathan Dyer is substituted on" last_modified="2014-01-28 20:42:45" minute="57" period="2" second="32" team="Fulham" time="59" type="substitution on" type_id="19"/>
+	<message comment="Alexander Kacaniklic has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-28 20:41:48" minute="56" period="2" second="35" team="Swansea" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Standing)" last_modified="2014-01-28 20:41:48" minute="56" period="2" second="35" team="Fulham" time="58" type="save made" type_id="10"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected, Diving)" last_modified="2014-01-28 20:41:17" minute="56" period="2" second="4" team="Swansea" time="58" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-01-28 20:41:17" minute="56" period="2" second="4" team="Fulham" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-28 20:40:09" minute="54" period="2" second="56" team="Fulham" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Chico Flores has attempt saved (High to the left, 18-yard box, Head, From corner)" last_modified="2014-01-28 20:37:03" minute="51" period="2" second="50" team="Fulham" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" last_modified="2014-01-28 20:37:03" minute="51" period="2" second="50" team="Swansea" time="53" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" last_modified="2014-01-28 20:36:42" minute="51" period="2" second="29" team="Fulham" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2014-01-28 20:30:13" minute="45" period="2" second="0" team="Fulham" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-28 20:31:17" minute="46" period="1" second="4" team="Fulham" time="46" type="end" type_id="30"/>
+	<message comment="Dan Burn has shot blocked (18-yard box, Head, From corner)" last_modified="2014-01-28 20:28:48" minute="43" period="1" second="35" team="Swansea" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony blocks a shot" last_modified="2014-01-28 20:28:48" minute="43" period="1" second="35" team="Fulham" time="43" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" last_modified="2014-01-28 20:28:17" minute="43" period="1" second="4" team="Swansea" time="43" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-01-28 20:28:15" minute="43" period="1" second="2" team="Swansea" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried safe, Diving)" last_modified="2014-01-28 20:28:15" minute="43" period="1" second="2" team="Fulham" time="43" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" last_modified="2014-01-28 20:26:30" minute="41" period="1" second="17" team="Fulham" time="41" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony has attempt saved (High to the left, 18-yard box, Head, Open play)" last_modified="2014-01-28 20:25:37" minute="40" period="1" second="24" team="Fulham" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected, Standing)" last_modified="2014-01-28 20:25:37" minute="40" period="1" second="24" team="Swansea" time="40" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" last_modified="2014-01-28 20:25:06" minute="39" period="1" second="53" team="Fulham" time="39" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" last_modified="2014-01-28 20:25:03" minute="39" period="1" second="50" team="Swansea" time="39" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-28 20:25:03" minute="39" period="1" second="50" team="Fulham" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey hits the woodwork (High, Out of box, Right footed, Open play)" last_modified="2014-01-28 20:24:56" minute="39" period="1" second="43" team="Fulham" time="39" type="woodwork hit" type_id="14"/>
+	<message comment="Clint Dempsey misses attempt (To the left, 18-yard box, Right footed, From corner)" last_modified="2014-01-28 20:20:18" minute="35" period="1" second="5" team="Swansea" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" last_modified="2014-01-28 20:19:52" minute="34" period="1" second="39" team="Swansea" time="34" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov has attempt saved (High to the centre, 18-yard box, Head, From corner)" last_modified="2014-01-28 20:17:31" minute="32" period="1" second="18" team="Swansea" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried into danger, Standing)" last_modified="2014-01-28 20:17:31" minute="32" period="1" second="18" team="Fulham" time="32" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" last_modified="2014-01-28 20:16:59" minute="31" period="1" second="46" team="Swansea" time="31" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-01-28 20:16:58" minute="31" period="1" second="45" team="Swansea" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2014-01-28 20:16:58" minute="31" period="1" second="45" team="Fulham" time="31" type="save made" type_id="10"/>
+	<message comment="Ashkan Dejagah has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Fast break)" last_modified="2014-01-28 20:15:36" minute="30" period="1" second="23" team="Swansea" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Collected, Diving)" last_modified="2014-01-28 20:15:36" minute="30" period="1" second="23" team="Fulham" time="30" type="save made" type_id="10"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" last_modified="2014-01-28 20:09:24" minute="24" period="1" second="11" team="Swansea" time="24" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-01-28 20:09:24" minute="24" period="1" second="11" team="Fulham" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Richardson misses attempt (To the left, Out of box, Left footed, From corner)" last_modified="2014-01-28 20:06:16" minute="21" period="1" second="3" team="Swansea" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" last_modified="2014-01-28 20:05:51" minute="20" period="1" second="38" team="Swansea" time="20" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland misses attempt (High, 18-yard box, Big Chance, Head, Set piece)" last_modified="2014-01-28 20:05:00" minute="19" period="1" second="47" team="Swansea" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams misses attempt (To the left, 6-yard box, Right footed, Set piece)" last_modified="2014-01-28 20:02:23" minute="17" period="1" second="10" team="Fulham" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-01-28 19:58:16" minute="13" period="1" second="3" team="Fulham" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony misses attempt (18-yard box, Head, Open play)" last_modified="2014-01-28 19:56:12" minute="10" period="1" second="59" team="Fulham" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-01-28 19:45:13" minute="0" period="14" second="0" team="Fulham" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" last_modified="2014-01-28 19:45:13" minute="0" period="1" second="0" team="Fulham" time="0" type="start" type_id="32"/>
+</Commentary>

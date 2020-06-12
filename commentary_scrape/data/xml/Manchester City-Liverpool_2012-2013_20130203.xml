@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-02-03" home_team_name="Liverpool" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="28" time="98" type="end" type_id="30"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="95" period="2" second="4" time="98" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="95" period="2" second="2" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="95" period="2" second="2" time="98" type="save made" type_id="10"/>
+	<message comment="Maicon wins a corner (To the right)" minute="92" period="2" second="23" time="95" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge is substituted off" minute="91" period="2" second="12" time="94" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="91" period="2" second="12" time="94" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="89" period="2" second="31" time="92" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="89" period="2" second="23" time="92" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="23" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the right)" minute="88" period="2" second="8" time="91" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="87" period="2" second="43" time="90" type="corner" type_id="6"/>
+	<message comment="Gareth Barry is substituted off" minute="87" period="2" second="18" time="90" type="substitution off" type_id="18"/>
+	<message comment="Samir Nasri is substituted on" minute="87" period="2" second="18" time="90" type="substitution on" type_id="19"/>
+	<message comment="Maicon misses attempt (High, 18-yard box, Head, From corner)" minute="86" period="2" second="6" time="89" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the left)" minute="85" period="2" second="45" time="88" type="corner" type_id="6"/>
+	<message comment="Glen Johnson misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="5" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Javi García blocks a shot" minute="82" period="2" second="40" time="85" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="40" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger misses attempt (High to the left, Out of box, Right footed, Open play)" minute="81" period="2" second="23" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Free kick)" minute="80" period="2" second="56" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge blocks a shot" minute="80" period="2" second="56" time="83" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="80" period="2" second="20" time="83" type="card received" type_id="17"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Gareth Barry (Low to the left, Out of box, Right footed, Open play)" minute="77" period="2" second="51" time="80" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Head, Set piece)" minute="76" period="2" second="45" time="79" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique is substituted off" minute="75" period="2" second="23" time="78" type="substitution off" type_id="18"/>
+	<message comment="Martin Skrtel is substituted on" minute="75" period="2" second="23" time="78" type="substitution on" type_id="19"/>
+	<message comment="David Silva is substituted off" minute="72" period="2" second="59" time="75" type="substitution off" type_id="18"/>
+	<message comment="Maicon is substituted on" minute="72" period="2" second="59" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Steven Gerrard scores  (Low to the left, Out of box, Right footed, Open play)" minute="72" period="2" second="30" time="75" type="goal scored" type_id="16"/>
+	<message comment="Javi García recieves a yellow card" minute="70" period="2" second="19" time="73" type="card received" type_id="17"/>
+	<message comment="Gareth Barry misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="67" period="2" second="44" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="66" period="2" second="55" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry misses attempt (18-yard box, Head, Open play)" minute="64" period="2" second="50" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="61" period="2" second="56" time="64" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the left)" minute="58" period="2" second="16" time="61" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Free kick)" minute="57" period="2" second="3" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge blocks a shot" minute="57" period="2" second="3" time="60" type="save made" type_id="10"/>
+	<message comment="Jamie Carragher recieves a yellow card" minute="56" period="2" second="22" time="59" type="card received" type_id="17"/>
+	<message comment="Matija Nastasic is substituted off" minute="55" period="2" second="20" time="58" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="55" period="2" second="20" time="58" type="substitution on" type_id="19"/>
+	<message comment="Gaël Clichy blocks a shot" minute="54" period="2" second="46" time="57" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="46" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge recieves a yellow card" minute="52" period="2" second="35" time="55" type="card received" type_id="17"/>
+	<message comment="Stewart Downing misses attempt (To the right, 18-yard box, Head, Open play)" minute="51" period="2" second="46" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="50" period="2" second="55" time="53" type="corner" type_id="6"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="50" period="2" second="19" time="53" type="corner" type_id="6"/>
+	<message comment="Matija Nastasic blocks a shot" minute="49" period="2" second="32" time="52" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Left footed, Open play)" minute="49" period="2" second="32" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="48" period="2" second="37" time="51" type="corner" type_id="6"/>
+	<message comment="Javi García blocks a shot" minute="48" period="2" second="35" time="51" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Free kick)" minute="48" period="2" second="35" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Javi García misses attempt (High, 6-yard box, Head, From corner)" minute="46" period="2" second="13" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="45" period="2" second="51" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="44" period="1" second="53" time="44" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Left footed, From corner)" minute="44" period="1" second="53" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the left)" minute="44" period="1" second="2" time="44" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="36" period="1" second="55" time="36" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson recieves a yellow card" minute="35" period="1" second="25" time="35" type="card received" type_id="17"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="32" period="1" second="26" time="32" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko recieves a yellow card" minute="29" period="1" second="45" time="29" type="card received" type_id="17"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Steven Gerrard (Low to the right, Out of box, Left footed, Open play)" minute="28" period="1" second="48" time="28" type="goal scored" type_id="16"/>
+	<message comment="Jordan Henderson misses attempt (To the right, Out of box, Right footed, Set piece)" minute="25" period="1" second="30" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by James Milner (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="22" period="1" second="53" time="22" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez misses attempt (To the left, Out of box, Left footed, Open play)" minute="20" period="1" second="19" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry blocks a shot" minute="19" period="1" second="34" time="19" type="save made" type_id="10"/>
+	<message comment="Glen Johnson has shot blocked (Out of box, Left footed, Open play)" minute="19" period="1" second="34" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="19" period="1" second="25" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry misses attempt (To the right, Out of box, Left footed, Open play)" minute="18" period="1" second="11" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Agger has shot blocked (18-yard box, Head, From corner)" minute="16" period="1" second="51" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="16" period="1" second="27" time="16" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="13" period="1" second="54" time="13" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko blocks a shot" minute="13" period="1" second="27" time="13" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, From corner)" minute="13" period="1" second="27" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="13" period="1" second="8" time="13" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (6-yard box, Right footed, Open play)" minute="13" period="1" second="7" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot (Last line)" minute="13" period="1" second="7" time="13" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Javi García misses attempt (High to the left, 18-yard box, Head, From corner)" minute="7" period="1" second="26" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Javi García wins a corner (To the left)" minute="6" period="1" second="57" time="6" type="corner" type_id="6"/>
+	<message comment="Stewart Downing is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="David Silva wins a corner (To the right)" minute="0" period="1" second="53" time="0" type="corner" type_id="6"/>
+	<message comment="David Silva has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="0" period="1" second="50" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Diving)" minute="0" period="1" second="50" time="0" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

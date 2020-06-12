@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2010-09-18" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="25" time="98" type="end" type_id="30"/>
+	<message comment="Marouane Fellaini wins a corner (To the left)" minute="93" period="2" second="57" time="97" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini blocks a shot (Last line)" minute="93" period="2" second="56" time="97" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="93" period="2" second="56" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Yakubu hits the woodwork (To the left, 18-yard box, Right footed, Set piece)" minute="91" period="2" second="2" time="95" type="woodwork hit" type_id="14"/>
+	<message comment="Marouane Fellaini misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="84" period="2" second="23" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="83" period="2" second="21" time="87" type="substitution off" type_id="18"/>
+	<message comment="Jonás Gutiérrez is substituted on" minute="83" period="2" second="21" time="87" type="substitution on" type_id="19"/>
+	<message comment="John Heitinga is substituted off" minute="72" period="2" second="59" time="76" type="substitution off" type_id="18"/>
+	<message comment="Diniyar Bilyaletdinov is substituted on" minute="72" period="2" second="59" time="76" type="substitution on" type_id="19"/>
+	<message comment="Andy Carroll blocks a shot" minute="69" period="2" second="18" time="73" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Left footed, Set piece)" minute="69" period="2" second="18" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan recieves a yellow card" minute="68" period="2" second="42" time="72" type="card received" type_id="17"/>
+	<message comment="José Enrique recieves a yellow card" minute="66" period="2" second="13" time="70" type="card received" type_id="17"/>
+	<message comment="Leon Osman misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="63" period="2" second="32" time="67" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique blocks a shot" minute="63" period="2" second="31" time="67" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="31" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini recieves a yellow card" minute="62" period="2" second="14" time="66" type="card received" type_id="17"/>
+	<message comment="Séamus Coleman wins a corner (To the right)" minute="60" period="2" second="57" time="64" type="corner" type_id="6"/>
+	<message comment="Mikel Arteta wins a corner (To the left)" minute="59" period="2" second="48" time="63" type="corner" type_id="6"/>
+	<message comment="Yakubu has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="58" period="2" second="51" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe, Feet)" minute="58" period="2" second="51" time="62" type="save made" type_id="10"/>
+	<message comment="Leon Osman misses attempt (To the right, 18-yard box, Key pass, Left footed, Open play)" minute="58" period="2" second="49" time="62" type="attempt missed" type_id="13"/>
+	<message comment="James Perch recieves a yellow card" minute="58" period="2" second="24" time="62" type="card received" type_id="17"/>
+	<message comment="Leon Osman blocks a shot" minute="55" period="2" second="12" time="59" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Set piece)" minute="55" period="2" second="12" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique wins a corner (To the right)" minute="53" period="2" second="36" time="57" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini is caught offside" minute="51" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="49" period="2" second="55" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="Jermaine Beckford is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Yakubu is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Tony Hibbert is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Séamus Coleman is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="48" period="1" second="10" time="48" type="end" type_id="30"/>
+	<message comment="GOAL! Hatem Ben Arfa scores , Assisted by Wayne Routledge (Low to the right, Out of box, Left footed, Open play)" minute="44" period="1" second="27" time="44" type="goal scored" type_id="16"/>
+	<message comment="Joey Barton misses attempt (To the right, Out of box, Right footed, Open play)" minute="43" period="1" second="24" time="43" type="attempt missed" type_id="13"/>
+	<message comment="John Heitinga is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Leon Osman has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="38" period="1" second="46" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Diving, Collected)" minute="38" period="1" second="46" time="38" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Steve Harper is substituted off" minute="34" period="1" second="29" time="34" type="substitution off" type_id="18"/>
+	<message comment="Tim Krul is substituted on" minute="34" period="1" second="29" time="34" type="substitution on" type_id="19"/>
+	<message comment="Jermaine Beckford recieves a yellow card" minute="32" period="1" second="10" time="32" type="card received" type_id="17"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="31" period="1" second="0" time="31" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Diving)" minute="30" period="1" second="59" time="30" type="save made" type_id="10"/>
+	<message comment="James Perch misses attempt (High, Out of box, Right footed, Set piece)" minute="29" period="1" second="53" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="29" period="1" second="42" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="29" period="1" second="42" time="29" type="save made" type_id="10"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Head, From corner)" minute="28" period="1" second="14" time="28" type="attempt missed" type_id="13"/>
+	<message comment="James Perch wins a corner (To the right)" minute="27" period="1" second="41" time="27" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge misses attempt (To the left, Out of box, Right footed, From corner)" minute="25" period="1" second="25" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Fabricio Coloccini wins a corner (To the right)" minute="24" period="1" second="48" time="24" type="corner" type_id="6"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="24" period="1" second="8" time="24" type="corner" type_id="6"/>
+	<message comment="José Enrique has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="22" period="1" second="23" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" minute="22" period="1" second="23" time="22" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Steve Harper makes a save (Collected, Diving)" minute="17" period="1" second="5" time="17" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="17" period="1" second="5" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka misses attempt (To the right, 18-yard box, Head, Set piece)" minute="15" period="1" second="53" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="14" period="1" second="11" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" minute="14" period="1" second="11" time="14" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge misses attempt (High to the left, 18-yard box, Head, Open play)" minute="8" period="1" second="6" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="James Perch blocks a shot" minute="1" period="1" second="59" time="1" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (Out of box, Right footed, Open play)" minute="1" period="1" second="59" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

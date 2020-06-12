@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-10-19" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="28" time="99" type="end" type_id="30"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="96" period="2" second="24" time="99" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="96" period="2" second="24" time="99" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Alberto misses attempt (High, Out of box, Right footed, Open play)" minute="92" period="2" second="33" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Sammy Ameobi wins a corner (To the left)" minute="90" period="2" second="31" time="93" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="89" period="2" second="34" time="92" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is caught offside" minute="86" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Aly Cissokho wins a corner (To the left)" minute="85" period="2" second="59" time="88" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy recieves a yellow card" minute="85" period="2" second="30" time="88" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Big Chance, Left footed, Open play)" minute="84" period="2" second="25" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge recieves a yellow card" minute="83" period="2" second="25" time="86" type="card received" type_id="17"/>
+	<message comment="Cheick Tioté blocks a shot" minute="83" period="2" second="5" time="86" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" minute="83" period="2" second="5" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson is substituted off" minute="82" period="2" second="3" time="85" type="substitution off" type_id="18"/>
+	<message comment="Raheem Sterling is substituted on" minute="82" period="2" second="3" time="85" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson misses attempt (Out of box, Right footed, From corner)" minute="81" period="2" second="35" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="81" period="2" second="7" time="84" type="corner" type_id="6"/>
+	<message comment="Sammy Ameobi blocks a shot" minute="80" period="2" second="4" time="83" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Open play)" minute="80" period="2" second="4" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye is substituted off" minute="77" period="2" second="50" time="80" type="substitution off" type_id="18"/>
+	<message comment="Vurnon Anita is substituted on" minute="77" period="2" second="50" time="80" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="77" period="2" second="30" time="80" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="77" period="2" second="30" time="80" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="76" period="2" second="47" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, Out of box, Right footed, Open play)" minute="76" period="2" second="10" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="74" period="2" second="32" time="77" type="woodwork hit" type_id="14"/>
+	<message comment="Daniel Sturridge is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Luis Suárez (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="71" period="2" second="47" time="74" type="goal scored" type_id="16"/>
+	<message comment="Kolo Touré recieves a yellow card" minute="70" period="2" second="22" time="73" type="card received" type_id="17"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="70" period="2" second="3" time="73" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="70" period="2" second="3" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Right footed, Fast break)" minute="69" period="2" second="25" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy has shot blocked (Out of box, Right footed, Open play)" minute="69" period="2" second="16" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="69" period="2" second="16" time="72" type="save made" type_id="10"/>
+	<message comment="Victor Moses misses attempt (To the left, 18-yard box, Head, From corner)" minute="68" period="2" second="18" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="67" period="2" second="57" time="70" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran recieves a yellow card" minute="67" period="2" second="9" time="70" type="card received" type_id="17"/>
+	<message comment="Mamadou Sakho is substituted off" minute="62" period="2" second="46" time="65" type="substitution off" type_id="18"/>
+	<message comment="Luis Alberto is substituted on" minute="62" period="2" second="46" time="65" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson misses attempt (High to the left, Out of box, Right footed, Open play)" minute="62" period="2" second="18" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran misses attempt (High to the left, 18-yard box, Head, Open play)" minute="61" period="2" second="24" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson misses attempt (High to the left, Out of box, Left footed, Open play)" minute="57" period="2" second="27" time="60" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Paul Dummett scores  (Low to the centre, 6-yard box, Big Chance, Left footed, Set piece)" minute="56" period="2" second="0" time="59" type="goal scored" type_id="16"/>
+	<message comment="Victor Moses misses attempt (High, Out of box, Left footed, Open play)" minute="54" period="2" second="37" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="47" period="2" second="53" time="50" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="47" period="2" second="52" time="50" type="save made" type_id="10"/>
+	<message comment="Glen Johnson has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="47" period="2" second="52" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="24" time="47" type="end" type_id="30"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="46" period="1" second="51" time="46" type="card received" type_id="17"/>
+	<message comment="Moussa Sissoko is substituted off" minute="44" period="1" second="55" time="44" type="substitution off" type_id="18"/>
+	<message comment="Paul Dummett is substituted on" minute="44" period="1" second="55" time="44" type="substitution on" type_id="19"/>
+	<message comment="Steven Gerrard misses attempt (High, Out of box, Right footed, Open play)" minute="44" period="1" second="18" time="44" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Steven Gerrard scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="41" period="1" second="36" time="41" type="goal scored" type_id="16"/>
+	<message comment="Mapou Yanga-Mbiwa recieves a red card" minute="39" period="1" second="45" time="39" type="card received" type_id="17"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="38" period="1" second="56" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="38" period="1" second="56" time="38" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté misses attempt (High to the right, Out of box, Right footed, Open play)" minute="36" period="1" second="47" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="36" period="1" second="38" time="36" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="36" period="1" second="38" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye misses attempt (High to the right, Out of box, Right footed, Open play)" minute="34" period="1" second="55" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Kolo Touré misses attempt (To the left, 18-yard box, Head, From corner)" minute="32" period="1" second="30" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="32" period="1" second="3" time="32" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko has shot blocked (Out of box, Right footed, Open play)" minute="31" period="1" second="12" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Mamadou Sakho blocks a shot" minute="31" period="1" second="12" time="31" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="27" period="1" second="43" time="27" type="corner" type_id="6"/>
+	<message comment="Mamadou Sakho misses attempt (High to the right, 18-yard box, Head, From corner)" minute="24" period="1" second="47" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Aly Cissokho wins a corner (To the left)" minute="24" period="1" second="19" time="24" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="24" period="1" second="0" time="24" type="corner" type_id="6"/>
+	<message comment="GOAL! Yohan Cabaye scores , Assisted by Cheick Tioté (Low to the left, Out of box, Right footed, Open play)" minute="22" period="1" second="41" time="22" type="goal scored" type_id="16"/>
+	<message comment="Martin Skrtel misses attempt (High, 18-yard box, Head, From corner)" minute="21" period="1" second="51" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="21" period="1" second="28" time="21" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="21" period="1" second="2" time="21" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="19" period="1" second="57" time="19" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Head, From corner)" minute="19" period="1" second="56" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="19" period="1" second="20" time="19" type="corner" type_id="6"/>
+	<message comment="Loïc Rémy misses attempt (To the left, Out of box, Right footed, Open play)" minute="17" period="1" second="33" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy wins a corner (To the left)" minute="16" period="1" second="31" time="16" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="11" period="1" second="40" time="11" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="11" period="1" second="40" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Yohan Cabaye misses attempt (To the right, Out of box, Right footed, Open play)" minute="8" period="1" second="44" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="7" period="1" second="26" time="7" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="5" period="1" second="24" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Collected)" minute="5" period="1" second="24" time="5" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="28" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="4" period="1" second="28" time="4" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

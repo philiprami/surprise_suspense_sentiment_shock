@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2014-04-28" home_team_name="Newcastle United" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="2" time="96" type="end" type_id="30"/>
+	<message comment="Paul Dummett misses attempt (High, 18-yard box, Left footed, Open play)" minute="92" period="2" second="24" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="90" period="2" second="50" time="93" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté blocks a shot" minute="90" period="2" second="48" time="93" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="48" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Yoan Gouffran is substituted off" minute="88" period="2" second="10" time="91" type="substitution off" type_id="18"/>
+	<message comment="Adam Armstrong is substituted on" minute="88" period="2" second="10" time="91" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski wins a corner (To the left)" minute="87" period="2" second="39" time="90" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="85" period="2" second="20" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Sanogo is caught offside" minute="84" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy is substituted off" minute="83" period="2" second="43" time="86" type="substitution off" type_id="18"/>
+	<message comment="Mapou Yanga-Mbiwa is substituted on" minute="83" period="2" second="43" time="86" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is substituted off" minute="83" period="2" second="38" time="86" type="substitution off" type_id="18"/>
+	<message comment="Yaya Sanogo is substituted on" minute="83" period="2" second="38" time="86" type="substitution on" type_id="19"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="80" period="2" second="38" time="83" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="79" period="2" second="53" time="82" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy misses attempt (High to the right, Out of box, Right footed, Open play)" minute="78" period="2" second="7" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna recieves a yellow card" minute="74" period="2" second="39" time="77" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey is substituted off" minute="73" period="2" second="23" time="76" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="73" period="2" second="23" time="76" type="substitution on" type_id="19"/>
+	<message comment="Mesut Özil is substituted off" minute="73" period="2" second="10" time="76" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" minute="73" period="2" second="10" time="76" type="substitution on" type_id="19"/>
+	<message comment="Aaron Ramsey misses attempt (To the right, Out of box, Right footed, Open play)" minute="70" period="2" second="38" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="70" period="2" second="9" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="70" period="2" second="9" time="73" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud is caught offside" minute="70" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Dan Gosling is substituted off" minute="69" period="2" second="0" time="72" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="69" period="2" second="0" time="72" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski misses attempt (18-yard box, Left footed, Open play)" minute="68" period="2" second="25" time="71" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Mesut Özil (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="65" period="2" second="45" time="68" type="goal scored" type_id="16"/>
+	<message comment="Mesut Özil is caught offside" minute="59" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="57" period="2" second="14" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried into danger)" minute="57" period="2" second="14" time="60" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny misses attempt (To the right, 18-yard box, Left footed, From corner)" minute="54" period="2" second="57" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna misses attempt (To the left, 18-yard box, Head, From corner)" minute="54" period="2" second="55" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="54" period="2" second="26" time="57" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla misses attempt (High, 18-yard box, Right footed, From corner)" minute="52" period="2" second="12" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="51" period="2" second="43" time="54" type="corner" type_id="6"/>
+	<message comment="Lukas Podolski wins a corner (To the left)" minute="47" period="2" second="37" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="48" time="47" type="end" type_id="30"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="47" period="1" second="25" time="47" type="card received" type_id="17"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="46" period="1" second="56" time="46" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="46" period="1" second="53" time="46" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="46" period="1" second="53" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Mesut Özil scores  (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="41" period="1" second="2" time="41" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Diving, Parried into danger)" minute="41" period="1" second="1" time="41" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="41" period="1" second="1" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing, Parried safe)" minute="40" period="1" second="59" time="40" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="40" period="1" second="59" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="38" period="1" second="45" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski misses attempt (To the left, 18-yard box, Head, From corner)" minute="38" period="1" second="11" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="37" period="1" second="40" time="37" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy misses attempt (Out of box, Right footed, Open play)" minute="36" period="1" second="47" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey recieves a yellow card" minute="33" period="1" second="51" time="33" type="card received" type_id="17"/>
+	<message comment="Cheick Tioté has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="32" period="1" second="6" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save" minute="32" period="1" second="6" time="32" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko blocks a shot" minute="29" period="1" second="30" time="29" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Right footed, From corner)" minute="29" period="1" second="30" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Lukas Podolski has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="29" period="1" second="23" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Standing)" minute="29" period="1" second="23" time="29" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="28" period="1" second="57" time="28" type="corner" type_id="6"/>
+	<message comment="Paul Dummett blocks a shot" minute="28" period="1" second="44" time="28" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna has shot blocked (18-yard box, Head, From corner)" minute="28" period="1" second="44" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="28" period="1" second="22" time="28" type="corner" type_id="6"/>
+	<message comment="Lukas Podolski wins a corner (To the right)" minute="27" period="1" second="45" time="27" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Standing)" minute="27" period="1" second="42" time="27" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="27" period="1" second="42" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny recieves a yellow card" minute="25" period="1" second="40" time="25" type="card received" type_id="17"/>
+	<message comment="GOAL! Laurent Koscielny scores , Assisted by Santi Cazorla (Low to the centre, 6-yard box, Big Chance, Right footed, Set piece)" minute="25" period="1" second="9" time="25" type="goal scored" type_id="16"/>
+	<message comment="Moussa Sissoko recieves a yellow card" minute="24" period="1" second="25" time="24" type="card received" type_id="17"/>
+	<message comment="Moussa Sissoko is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Moussa Sissoko misses attempt (High to the right, Out of box, Right footed, Open play)" minute="19" period="1" second="45" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Mesut Özil misses attempt (18-yard box, Left footed, From corner)" minute="16" period="1" second="52" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="16" period="1" second="14" time="16" type="corner" type_id="6"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="14" period="1" second="53" time="14" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita has shot blocked (Out of box, Left footed, Open play)" minute="14" period="1" second="53" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Nacho Monreal wins a corner (To the left)" minute="5" period="1" second="17" time="5" type="corner" type_id="6"/>
+	<message comment="Loïc Rémy is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

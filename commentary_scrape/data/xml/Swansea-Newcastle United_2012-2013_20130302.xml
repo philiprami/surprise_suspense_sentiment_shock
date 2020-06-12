@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-03-02" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="26" time="95" type="end" type_id="30"/>
+	<message comment="Steven Taylor misses attempt (To the left, 18-yard box, Head, Open play)" minute="90" period="2" second="30" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez is substituted off" minute="89" period="2" second="46" time="91" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="89" period="2" second="46" time="91" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté is substituted off" minute="89" period="2" second="41" time="91" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="89" period="2" second="41" time="91" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández is substituted off" minute="87" period="2" second="12" time="89" type="substitution off" type_id="18"/>
+	<message comment="Dwight Tiendalli is substituted on" minute="87" period="2" second="12" time="89" type="substitution on" type_id="19"/>
+	<message comment="Moussa Sissoko misses attempt (To the right, Out of box, Right footed, From corner)" minute="86" period="2" second="37" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="86" period="2" second="3" time="88" type="corner" type_id="6"/>
+	<message comment="GOAL! Luke Moore scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="84" period="2" second="53" time="86" type="goal scored" type_id="16"/>
+	<message comment="Steven Taylor blocks a shot" minute="84" period="2" second="44" time="86" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" minute="84" period="2" second="40" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Moussa Sissoko misses attempt (To the left, Out of box, Right footed, Open play)" minute="80" period="2" second="19" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Ki Sung-Yueng wins a corner (To the left)" minute="78" period="2" second="32" time="80" type="corner" type_id="6"/>
+	<message comment="Robert Elliot makes a save (Parried safe, Diving)" minute="78" period="2" second="31" time="80" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="78" period="2" second="31" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton is substituted off" minute="75" period="2" second="50" time="77" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="75" period="2" second="50" time="77" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Debuchy misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="73" period="2" second="38" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé has shot blocked (18-yard box, Head, From corner)" minute="72" period="2" second="39" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Davies blocks a shot" minute="72" period="2" second="38" time="74" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko wins a corner (To the right)" minute="72" period="2" second="2" time="74" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="71" period="2" second="58" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" minute="71" period="2" second="58" time="73" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán misses attempt (To the right, Out of box, Right footed, Open play)" minute="71" period="2" second="4" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="69" period="2" second="40" time="71" type="corner" type_id="6"/>
+	<message comment="Ashley Williams misses attempt (To the left, 18-yard box, Head, From corner)" minute="68" period="2" second="50" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="68" period="2" second="23" time="70" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="65" period="2" second="54" time="67" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="65" period="2" second="53" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" minute="65" period="2" second="53" time="67" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez blocks a shot" minute="60" period="2" second="40" time="62" type="save made" type_id="10"/>
+	<message comment="Ashley Williams wins a corner (To the right)" minute="60" period="2" second="32" time="62" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng has shot blocked (18-yard box, Head, From corner)" minute="60" period="2" second="30" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer is substituted off" minute="60" period="2" second="15" time="62" type="substitution off" type_id="18"/>
+	<message comment="Ki Sung-Yueng is substituted on" minute="60" period="2" second="15" time="62" type="substitution on" type_id="19"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="59" period="2" second="45" time="61" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran misses attempt (High, 18-yard box, Right footed, Open play)" minute="57" period="2" second="31" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="55" period="2" second="32" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Michu wins a corner (To the left)" minute="53" period="2" second="16" time="55" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="51" period="2" second="45" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="51" period="2" second="45" time="53" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="28" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="51" period="2" second="28" time="53" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy misses attempt (Out of box, Right footed, Open play)" minute="49" period="2" second="52" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Robert Elliot makes a save (Parried safe, Diving)" minute="47" period="2" second="0" time="49" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="46" period="2" second="48" time="48" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="46" period="2" second="46" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Elliot makes a save (Parried into danger)" minute="46" period="2" second="43" time="48" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="46" period="2" second="43" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the right, Out of box, Right footed, Open play)" minute="45" period="2" second="25" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="8" time="46" type="end" type_id="30"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="43" period="1" second="21" time="43" type="corner" type_id="6"/>
+	<message comment="Garry Monk misses attempt (18-yard box, Big Chance, Head, Set piece)" minute="37" period="1" second="19" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye recieves a yellow card" minute="36" period="1" second="27" time="36" type="card received" type_id="17"/>
+	<message comment="Michu is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="33" period="1" second="44" time="33" type="card received" type_id="17"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="30" period="1" second="43" time="30" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="28" period="1" second="30" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="28" period="1" second="30" time="28" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="27" period="1" second="25" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko wins a corner (To the right)" minute="24" period="1" second="3" time="24" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko has shot blocked (18-yard box, Head, From corner)" minute="23" period="1" second="57" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="23" period="1" second="57" time="23" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="23" period="1" second="16" time="23" type="corner" type_id="6"/>
+	<message comment="Robert Elliot makes a save (Parried into danger)" minute="12" period="1" second="48" time="12" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="12" period="1" second="48" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="12" period="1" second="8" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="12" period="1" second="8" time="12" type="save made" type_id="10"/>
+	<message comment="Steven Taylor blocks a shot (Last line)" minute="8" period="1" second="33" time="8" type="save made" type_id="10"/>
+	<message comment="Ashley Williams has shot blocked (6-yard box, Big Chance, Right footed, Set piece)" minute="8" period="1" second="33" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Michu misses attempt (High to the right, 18-yard box, Head, Open play)" minute="5" period="1" second="28" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

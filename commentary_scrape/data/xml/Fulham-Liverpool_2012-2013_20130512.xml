@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2013-05-12" home_team_name="Liverpool" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="96" type="end" type_id="30"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="90" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Philippe Coutinho is substituted off" minute="88" period="2" second="22" time="91" type="substitution off" type_id="18"/>
+	<message comment="Conor Coady is substituted on" minute="88" period="2" second="22" time="91" type="substitution on" type_id="19"/>
+	<message comment="Fabio Borini is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Philippe Coutinho (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="84" period="2" second="53" time="87" type="goal scored" type_id="16"/>
+	<message comment="John Arne Riise has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="83" period="2" second="34" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="83" period="2" second="34" time="86" type="save made" type_id="10"/>
+	<message comment="Giorgos Karagounis is substituted off" minute="82" period="2" second="8" time="85" type="substitution off" type_id="18"/>
+	<message comment="John Arne Riise is substituted on" minute="82" period="2" second="8" time="85" type="substitution on" type_id="19"/>
+	<message comment="José Enrique misses attempt (Out of box, Left footed, From corner)" minute="81" period="2" second="32" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="80" period="2" second="56" time="83" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge is caught offside" minute="80" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="79" period="2" second="44" time="82" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Parried into danger)" minute="79" period="2" second="3" time="82" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="3" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Fabio Borini hits the woodwork (To the right, 18-yard box, Right footed, Fast break)" minute="78" period="2" second="22" time="81" type="woodwork hit" type_id="14"/>
+	<message comment="Jordan Henderson misses attempt (High, 6-yard box, Right footed, Open play)" minute="77" period="2" second="25" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho wins a corner (To the left)" minute="76" period="2" second="51" time="79" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho has shot blocked (Out of box, Right footed, Open play)" minute="76" period="2" second="47" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="76" period="2" second="47" time="79" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="76" period="2" second="12" time="79" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" minute="76" period="2" second="12" time="79" type="substitution on" type_id="19"/>
+	<message comment="Eyong Enoh misses attempt (High, Out of box, Right footed, From corner)" minute="75" period="2" second="39" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Hughes has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="75" period="2" second="12" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Diving)" minute="75" period="2" second="12" time="78" type="save made" type_id="10"/>
+	<message comment="Aaron Hughes wins a corner (To the left)" minute="75" period="2" second="12" time="78" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov wins a corner (To the right)" minute="74" period="2" second="48" time="77" type="corner" type_id="6"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried safe)" minute="74" period="2" second="47" time="77" type="save made" type_id="10"/>
+	<message comment="Dimitar Berbatov has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="74" period="2" second="47" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" minute="71" period="2" second="16" time="74" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has shot blocked (18-yard box, Right footed, Open play)" minute="71" period="2" second="14" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="71" period="2" second="14" time="74" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="70" period="2" second="59" time="73" type="substitution off" type_id="18"/>
+	<message comment="Mladen Petric is substituted on" minute="70" period="2" second="59" time="73" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="68" period="2" second="14" time="71" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Parried safe)" minute="68" period="2" second="12" time="71" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Fast break)" minute="68" period="2" second="12" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger, Diving, Other body part)" minute="63" period="2" second="29" time="66" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="63" period="2" second="29" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Daniel Sturridge scores  (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="61" period="2" second="56" time="64" type="goal scored" type_id="16"/>
+	<message comment="Aaron Hughes blocks a shot" minute="61" period="2" second="54" time="64" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="54" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Bryan Ruiz wins a corner (To the right)" minute="59" period="2" second="18" time="62" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson blocks a shot" minute="59" period="2" second="16" time="62" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="16" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, 18-yard box, Head, Open play)" minute="55" period="2" second="38" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho has shot blocked (18-yard box, Right footed, Fast break)" minute="55" period="2" second="35" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="55" period="2" second="35" time="58" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic misses attempt (Out of box, Left footed, Open play)" minute="53" period="2" second="15" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson recieves a yellow card" minute="51" period="2" second="49" time="54" type="card received" type_id="17"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="47" period="2" second="23" time="50" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge misses attempt (High, 18-yard box, Head, Open play)" minute="45" period="2" second="47" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Andre Wisdom is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="José Enrique is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="9" time="47" type="end" type_id="30"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="40" period="1" second="13" time="40" type="corner" type_id="6"/>
+	<message comment="Giorgos Karagounis has shot blocked (Out of box, Right footed, Open play)" minute="40" period="1" second="0" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastián Coates blocks a shot" minute="40" period="1" second="0" time="40" type="save made" type_id="10"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Andre Wisdom (High to the centre, 18-yard box, Right footed, Fast break)" minute="35" period="1" second="45" time="35" type="goal scored" type_id="16"/>
+	<message comment="Alexander Kacaniklic has shot blocked (18-yard box, Left footed, Fast break)" minute="35" period="1" second="32" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Andre Wisdom blocks a shot" minute="35" period="1" second="32" time="35" type="save made" type_id="10"/>
+	<message comment="GOAL! Dimitar Berbatov scores , Assisted by Sascha Riether (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="32" period="1" second="22" time="32" type="goal scored" type_id="16"/>
+	<message comment="Eyong Enoh has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="30" period="1" second="49" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="30" period="1" second="49" time="30" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson misses attempt (High, Out of box, Right footed, Open play)" minute="27" period="1" second="44" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="25" period="1" second="21" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="18" period="1" second="46" time="18" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson is substituted off" minute="14" period="1" second="42" time="14" type="substitution off" type_id="18"/>
+	<message comment="Urby Emanuelson is substituted on" minute="14" period="1" second="42" time="14" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="13" period="1" second="39" time="13" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger, Standing)" minute="13" period="1" second="37" time="13" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="13" period="1" second="37" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff blocks a shot" minute="12" period="1" second="21" time="12" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Right footed, Open play)" minute="12" period="1" second="21" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="8" period="1" second="50" time="8" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey has shot blocked (18-yard box, Right footed, Open play)" minute="5" period="1" second="35" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="5" period="1" second="35" time="5" type="save made" type_id="10"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="2" period="1" second="10" time="2" type="corner" type_id="6"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="0" period="1" second="51" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

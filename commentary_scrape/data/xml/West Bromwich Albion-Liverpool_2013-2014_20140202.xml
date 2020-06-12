@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2014-02-02" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="97" type="end" type_id="30"/>
+	<message comment="Martin Skrtel has shot blocked (18-yard box, Right footed, Set piece)" minute="85" period="2" second="41" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones blocks a shot" minute="85" period="2" second="41" time="88" type="save made" type_id="10"/>
+	<message comment="Diego Lugano recieves a yellow card" minute="85" period="2" second="15" time="88" type="card received" type_id="17"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="82" period="2" second="7" time="85" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu recieves a yellow card" minute="81" period="2" second="5" time="84" type="card received" type_id="17"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="80" period="2" second="15" time="83" type="card received" type_id="17"/>
+	<message comment="Kolo Touré misses attempt (To the right, 18-yard box, Head, From corner)" minute="78" period="2" second="36" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="78" period="2" second="11" time="81" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has shot blocked (18-yard box, Right footed, Open play)" minute="78" period="2" second="10" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt blocks a shot" minute="78" period="2" second="10" time="81" type="save made" type_id="10"/>
+	<message comment="Joe Allen has attempt saved (Low to the left, 18-yard box, Right footed, From corner)" minute="77" period="2" second="24" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save" minute="77" period="2" second="24" time="80" type="save made" type_id="10"/>
+	<message comment="Matej Vydra is substituted off" minute="75" period="2" second="35" time="78" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans is substituted on" minute="75" period="2" second="35" time="78" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save" minute="74" period="2" second="9" time="77" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="74" period="2" second="9" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jon Flanagan is substituted off" minute="73" period="2" second="45" time="76" type="substitution off" type_id="18"/>
+	<message comment="Martin Kelly is substituted on" minute="73" period="2" second="45" time="76" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho is substituted off" minute="73" period="2" second="41" time="76" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="73" period="2" second="41" time="76" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="73" period="2" second="9" time="76" type="card received" type_id="17"/>
+	<message comment="GOAL! Victor Anichebe scores  (Low to the left, Out of box, Big Chance, Right footed, Open play)" minute="66" period="2" second="24" time="69" type="goal scored" type_id="16"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="65" period="2" second="17" time="68" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="65" period="2" second="17" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino is substituted off" minute="63" period="2" second="5" time="66" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" minute="63" period="2" second="5" time="66" type="substitution on" type_id="19"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Open play)" minute="62" period="2" second="35" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell recieves a yellow card" minute="61" period="2" second="40" time="64" type="card received" type_id="17"/>
+	<message comment="Luis Suárez is caught offside" minute="60" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Jordan Henderson wins a corner (To the left)" minute="59" period="2" second="11" time="62" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="58" period="2" second="38" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="58" period="2" second="38" time="61" type="save made" type_id="10"/>
+	<message comment="Saido Berahino misses attempt (High to the right, Out of box, Right footed, Open play)" minute="57" period="2" second="57" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="18" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" minute="53" period="2" second="18" time="56" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="17" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" minute="53" period="2" second="17" time="56" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger)" minute="52" period="2" second="48" time="55" type="save made" type_id="10"/>
+	<message comment="Gareth McAuley has attempt saved (High to the right, 18-yard box, Head, From corner)" minute="52" period="2" second="48" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="52" period="2" second="21" time="55" type="corner" type_id="6"/>
+	<message comment="Jon Flanagan blocks a shot" minute="52" period="2" second="20" time="55" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (6-yard box, Left footed, Open play)" minute="52" period="2" second="20" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Free kick)" minute="50" period="2" second="28" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="5" time="47" type="end" type_id="30"/>
+	<message comment="Zoltán Gera misses attempt (Out of box, Right footed, Open play)" minute="41" period="1" second="55" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson is substituted off" minute="40" period="1" second="30" time="40" type="substitution off" type_id="18"/>
+	<message comment="Diego Lugano is substituted on" minute="40" period="1" second="30" time="40" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho misses attempt (Out of box, Right footed, Open play)" minute="37" period="1" second="6" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="32" period="1" second="14" time="32" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has shot blocked (Out of box, Left footed, Open play)" minute="32" period="1" second="13" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="32" period="1" second="13" time="32" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (Out of box, Right footed, Free kick)" minute="27" period="1" second="0" time="27" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Luis Suárez (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="23" period="1" second="51" time="23" type="goal scored" type_id="16"/>
+	<message comment="Chris Brunt misses attempt (To the left, Out of box, Left footed, Open play)" minute="16" period="1" second="21" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard blocks a shot" minute="16" period="1" second="19" time="16" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, From corner)" minute="16" period="1" second="19" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones wins a corner (To the right)" minute="15" period="1" second="41" time="15" type="corner" type_id="6"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="14" period="1" second="30" time="14" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge is caught offside" minute="11" period="1" time="11" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="7" period="1" second="1" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Free kick)" minute="6" period="1" second="59" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Zoltán Gera blocks a shot" minute="6" period="1" second="59" time="6" type="save made" type_id="10"/>
+	<message comment="Kolo Touré blocks a shot" minute="0" period="1" second="27" time="0" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera has shot blocked (18-yard box, Left footed, Open play)" minute="0" period="1" second="27" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

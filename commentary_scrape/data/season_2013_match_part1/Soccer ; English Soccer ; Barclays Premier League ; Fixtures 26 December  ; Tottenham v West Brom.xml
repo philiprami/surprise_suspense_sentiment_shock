@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-12-26 15:00" game_id_2="27118641" game_id_4="112264324" home_team_name="West Brom" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-26 16:34:36" minute="94" period="2" second="9" team="West Brom" time="97" type="end" type_id="30"/>
+	<message comment="Saido Berahino is caught offside" last_modified="2013-12-26 16:33:27" minute="93" period="2" team="Tottenham" time="96" type="offside" type_id="10000"/>
+	<message comment="Stéphane Sessegnon is caught offside" last_modified="2013-12-26 16:30:27" minute="90" period="2" team="Tottenham" time="93" type="offside" type_id="10000"/>
+	<message comment="Danny Rose wins a corner (To the right)" last_modified="2013-12-26 16:28:51" minute="88" period="2" second="24" team="West Brom" time="91" type="corner" type_id="6"/>
+	<message comment="James Morrison blocks a shot" last_modified="2013-12-26 16:28:35" minute="88" period="2" second="8" team="Tottenham" time="91" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-26 16:28:35" minute="88" period="2" second="8" team="West Brom" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon is caught offside" last_modified="2013-12-26 16:28:27" minute="88" period="2" team="Tottenham" time="91" type="offside" type_id="10000"/>
+	<message comment="Roberto Soldado recieves a yellow card" last_modified="2013-12-26 16:26:48" minute="86" period="2" second="21" team="West Brom" time="89" type="card received" type_id="17"/>
+	<message comment="Matej Vydra is substituted off" last_modified="2013-12-26 16:23:40" minute="83" period="2" second="13" team="Tottenham" time="86" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" last_modified="2013-12-26 16:23:40" minute="83" period="2" second="13" team="Tottenham" time="86" type="substitution on" type_id="19"/>
+	<message comment="Danny Rose wins a corner (To the left)" last_modified="2013-12-26 16:22:47" minute="82" period="2" second="20" team="West Brom" time="85" type="corner" type_id="6"/>
+	<message comment="Matej Vydra wins a corner (To the left)" last_modified="2013-12-26 16:21:42" minute="81" period="2" second="15" team="Tottenham" time="84" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2013-12-26 16:20:11" minute="79" period="2" second="44" team="West Brom" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson misses attempt (6-yard box, Head, Open play)" last_modified="2013-12-26 16:17:53" minute="77" period="2" second="26" team="West Brom" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Zoltán Gera is substituted off" last_modified="2013-12-26 16:16:57" minute="76" period="2" second="30" team="Tottenham" time="79" type="substitution off" type_id="18"/>
+	<message comment="Stéphane Sessegnon is substituted on" last_modified="2013-12-26 16:16:57" minute="76" period="2" second="30" team="Tottenham" time="79" type="substitution on" type_id="19"/>
+	<message comment="Roberto Soldado misses attempt (High to the left, 18-yard box, Head, Open play)" last_modified="2013-12-26 16:16:18" minute="75" period="2" second="51" team="West Brom" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Danny Rose has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-26 16:16:08" minute="75" period="2" second="41" team="West Brom" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Erik Lamela is substituted on" last_modified="2013-12-26 16:15:04" minute="74" period="2" second="37" team="West Brom" time="77" type="substitution on" type_id="19"/>
+	<message comment="Nacer Chadli is substituted off" last_modified="2013-12-26 16:15:04" minute="74" period="2" second="37" team="West Brom" time="77" type="substitution off" type_id="18"/>
+	<message comment="Morgan Amalfitano is substituted off" last_modified="2013-12-26 16:11:09" minute="70" period="2" second="42" team="Tottenham" time="73" type="substitution off" type_id="18"/>
+	<message comment="Youssouf Mulumbu is substituted on" last_modified="2013-12-26 16:11:09" minute="70" period="2" second="42" team="Tottenham" time="73" type="substitution on" type_id="19"/>
+	<message comment="Jonas Olsson blocks a shot" last_modified="2013-12-26 16:08:44" minute="68" period="2" second="17" team="Tottenham" time="71" type="save made" type_id="10"/>
+	<message comment="Nabil Bentaleb has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-26 16:08:44" minute="68" period="2" second="17" team="West Brom" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-12-26 16:07:15" minute="66" period="2" second="48" team="West Brom" time="69" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" last_modified="2013-12-26 16:07:13" minute="66" period="2" second="46" team="Tottenham" time="69" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has attempt saved (High to the centre, Out of box, Right footed, Set piece)" last_modified="2013-12-26 16:07:13" minute="66" period="2" second="46" team="West Brom" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson recieves a yellow card" last_modified="2013-12-26 16:06:30" minute="66" period="2" second="3" team="Tottenham" time="69" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2013-12-26 16:04:27" minute="64" period="2" team="West Brom" time="67" type="offside" type_id="10000"/>
+	<message comment="Lewis Holtby is substituted off" last_modified="2013-12-26 16:02:36" minute="62" period="2" second="9" team="West Brom" time="65" type="substitution off" type_id="18"/>
+	<message comment="Nabil Bentaleb is substituted on" last_modified="2013-12-26 16:02:36" minute="62" period="2" second="9" team="West Brom" time="65" type="substitution on" type_id="19"/>
+	<message comment="Lewis Holtby misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-12-26 16:01:11" minute="60" period="2" second="44" team="West Brom" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2013-12-26 15:57:27" minute="57" period="2" team="West Brom" time="60" type="offside" type_id="10000"/>
+	<message comment="Kyle Walker recieves a yellow card" last_modified="2013-12-26 15:55:58" minute="55" period="2" second="31" team="West Brom" time="58" type="card received" type_id="17"/>
+	<message comment="Zoltán Gera has attempt saved (Low to the centre, 6-yard box, Right footed, Set piece)" last_modified="2013-12-26 15:55:17" minute="54" period="2" second="50" team="Tottenham" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving)" last_modified="2013-12-26 15:55:17" minute="54" period="2" second="50" team="West Brom" time="57" type="save made" type_id="10"/>
+	<message comment="Steven Reid has attempt saved (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-12-26 15:54:23" minute="53" period="2" second="56" team="Tottenham" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2013-12-26 15:54:23" minute="53" period="2" second="56" team="West Brom" time="56" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-12-26 15:52:48" minute="52" period="2" second="21" team="West Brom" time="55" type="corner" type_id="6"/>
+	<message comment="Zoltán Gera blocks a shot" last_modified="2013-12-26 15:52:46" minute="52" period="2" second="19" team="Tottenham" time="55" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-12-26 15:52:46" minute="52" period="2" second="19" team="West Brom" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson wins a corner (To the left)" last_modified="2013-12-26 15:52:22" minute="51" period="2" second="55" team="West Brom" time="54" type="corner" type_id="6"/>
+	<message comment="Zoltán Gera blocks a shot" last_modified="2013-12-26 15:52:20" minute="51" period="2" second="53" team="Tottenham" time="54" type="save made" type_id="10"/>
+	<message comment="Michael Dawson has shot blocked (18-yard box, Head, From corner)" last_modified="2013-12-26 15:52:20" minute="51" period="2" second="53" team="West Brom" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-12-26 15:51:47" minute="51" period="2" second="20" team="West Brom" time="54" type="corner" type_id="6"/>
+	<message comment="Danny Rose misses attempt (Out of box, Left footed, From corner)" last_modified="2013-12-26 15:50:53" minute="50" period="2" second="26" team="West Brom" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" last_modified="2013-12-26 15:50:18" minute="49" period="2" second="51" team="West Brom" time="52" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-12-26 15:45:27" minute="45" period="2" second="0" team="West Brom" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-26 15:47:34" minute="47" period="1" second="7" team="West Brom" time="47" type="end" type_id="30"/>
+	<message comment="James Morrison misses attempt (To the left, 18-yard box, Right footed, Fast break)" last_modified="2013-12-26 15:47:19" minute="46" period="1" second="52" team="Tottenham" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Nacer Chadli misses attempt (To the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:47:05" minute="46" period="1" second="38" team="West Brom" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Standing, Parried into danger)" last_modified="2013-12-26 15:44:00" minute="43" period="1" second="33" team="Tottenham" time="43" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-26 15:44:00" minute="43" period="1" second="33" team="West Brom" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jonas Olsson scores , Assisted by Craig Dawson (Low to the right, 6-yard box, Big Chance, Left footed, Set piece)" last_modified="2013-12-26 15:37:40" minute="37" period="1" second="13" team="Tottenham" time="37" type="goal scored" type_id="16"/>
+	<message comment="Christian Eriksen recieves a yellow card" last_modified="2013-12-26 15:37:01" minute="36" period="1" second="34" team="West Brom" time="36" type="card received" type_id="17"/>
+	<message comment="GOAL! Christian Eriksen scores  (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-12-26 15:35:39" minute="35" period="1" second="12" team="West Brom" time="35" type="goal scored" type_id="16"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" last_modified="2013-12-26 15:31:10" minute="30" period="1" second="43" team="West Brom" time="30" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" last_modified="2013-12-26 15:31:08" minute="30" period="1" second="41" team="Tottenham" time="30" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2013-12-26 15:31:08" minute="30" period="1" second="41" team="West Brom" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid recieves a yellow card" last_modified="2013-12-26 15:30:20" minute="29" period="1" second="53" team="Tottenham" time="29" type="card received" type_id="17"/>
+	<message comment="Matej Vydra misses attempt (To the right, 6-yard box, Head, Open play)" last_modified="2013-12-26 15:29:58" minute="29" period="1" second="31" team="Tottenham" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson blocks a shot" last_modified="2013-12-26 15:25:46" minute="25" period="1" second="19" team="Tottenham" time="25" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-26 15:25:46" minute="25" period="1" second="19" team="West Brom" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob blocks a shot" last_modified="2013-12-26 15:25:15" minute="24" period="1" second="48" team="Tottenham" time="24" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-26 15:25:15" minute="24" period="1" second="48" team="West Brom" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado wins a corner (To the left)" last_modified="2013-12-26 15:18:33" minute="18" period="1" second="6" team="West Brom" time="18" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2013-12-26 15:18:27" minute="18" period="1" team="West Brom" time="18" type="offside" type_id="10000"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-12-26 15:17:31" minute="17" period="1" second="4" team="West Brom" time="17" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson misses attempt (High, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-12-26 15:14:18" minute="13" period="1" second="51" team="Tottenham" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Matej Vydra wins a corner (To the right)" last_modified="2013-12-26 15:13:47" minute="13" period="1" second="20" team="Tottenham" time="13" type="corner" type_id="6"/>
+	<message comment="Matej Vydra has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:13:44" minute="13" period="1" second="17" team="Tottenham" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2013-12-26 15:13:44" minute="13" period="1" second="17" team="West Brom" time="13" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the right, Out of box, Left footed, From corner)" last_modified="2013-12-26 15:12:23" minute="11" period="1" second="56" team="West Brom" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-12-26 15:11:54" minute="11" period="1" second="27" team="West Brom" time="11" type="corner" type_id="6"/>
+	<message comment="Claudio Yacob blocks a shot" last_modified="2013-12-26 15:10:28" minute="10" period="1" second="1" team="Tottenham" time="10" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-26 15:10:28" minute="10" period="1" second="1" team="West Brom" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado is caught offside" last_modified="2013-12-26 15:10:27" minute="10" period="1" team="West Brom" time="10" type="offside" type_id="10000"/>
+	<message comment="Matej Vydra is caught offside" last_modified="2013-12-26 15:08:27" minute="8" period="1" team="Tottenham" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-12-26 15:00:27" minute="0" period="14" second="0" team="West Brom" time="7" type="end" type_id="30"/>
+	<message comment="Craig Dawson blocks a shot" last_modified="2013-12-26 15:06:15" minute="5" period="1" second="48" team="Tottenham" time="5" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-26 15:06:15" minute="5" period="1" second="48" team="West Brom" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-12-26 15:03:31" minute="3" period="1" second="4" team="West Brom" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-26 15:00:27" minute="0" period="1" second="0" team="West Brom" time="0" type="start" type_id="32"/>
+</Commentary>

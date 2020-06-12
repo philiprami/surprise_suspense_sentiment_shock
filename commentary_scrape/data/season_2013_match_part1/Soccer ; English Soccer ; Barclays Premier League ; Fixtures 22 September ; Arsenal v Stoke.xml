@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-09-22 13:30" game_id_2="27066404" game_id_4="110992220" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-22 15:05:24" minute="94" period="2" second="5" team="Stoke" time="98" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (To the left, 18-yard box, Left footed, From corner)" last_modified="2013-09-22 15:05:19" minute="94" period="2" second="0" team="Stoke" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" last_modified="2013-09-22 15:04:53" minute="93" period="2" second="34" team="Stoke" time="97" type="corner" type_id="6"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" last_modified="2013-09-22 15:04:13" minute="92" period="2" second="54" team="Stoke" time="96" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" last_modified="2013-09-22 15:04:10" minute="92" period="2" second="51" team="Arsenal" time="96" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (High to the left, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 15:04:10" minute="92" period="2" second="51" team="Stoke" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Ireland recieves a yellow card" last_modified="2013-09-22 15:01:51" minute="90" period="2" second="32" team="Arsenal" time="94" type="card received" type_id="17"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Left footed, From corner)" last_modified="2013-09-22 14:54:05" minute="82" period="2" second="46" team="Arsenal" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Nacho Monreal blocks a shot" last_modified="2013-09-22 14:54:05" minute="82" period="2" second="46" team="Stoke" time="86" type="save made" type_id="10"/>
+	<message comment="Marc Wilson wins a corner (To the left)" last_modified="2013-09-22 14:53:40" minute="82" period="2" second="21" team="Arsenal" time="86" type="corner" type_id="6"/>
+	<message comment="Mesut Özil is substituted off" last_modified="2013-09-22 14:51:01" minute="79" period="2" second="42" team="Stoke" time="83" type="substitution off" type_id="18"/>
+	<message comment="Mikel Arteta is substituted on" last_modified="2013-09-22 14:51:01" minute="79" period="2" second="42" team="Stoke" time="83" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-09-22 14:48:12" minute="76" period="2" second="53" team="Arsenal" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross wins a corner (To the left)" last_modified="2013-09-22 14:47:39" minute="76" period="2" second="20" team="Arsenal" time="80" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross has shot blocked (18-yard box, Left footed, From corner)" last_modified="2013-09-22 14:47:37" minute="76" period="2" second="18" team="Arsenal" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna blocks a shot" last_modified="2013-09-22 14:47:37" minute="76" period="2" second="18" team="Stoke" time="80" type="save made" type_id="10"/>
+	<message comment="Marc Wilson wins a corner (To the left)" last_modified="2013-09-22 14:47:12" minute="75" period="2" second="53" team="Arsenal" time="79" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones is substituted off" last_modified="2013-09-22 14:45:59" minute="74" period="2" second="40" team="Arsenal" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" last_modified="2013-09-22 14:45:59" minute="74" period="2" second="40" team="Arsenal" time="78" type="substitution on" type_id="19"/>
+	<message comment="Marko Arnautovic has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-09-22 14:44:57" minute="73" period="2" second="38" team="Arsenal" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" last_modified="2013-09-22 14:44:57" minute="73" period="2" second="38" team="Stoke" time="77" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere is substituted off" last_modified="2013-09-22 14:43:38" minute="72" period="2" second="19" team="Stoke" time="76" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" last_modified="2013-09-22 14:43:38" minute="72" period="2" second="19" team="Stoke" time="76" type="substitution on" type_id="19"/>
+	<message comment="Serge Gnabry is substituted off" last_modified="2013-09-22 14:43:23" minute="72" period="2" second="4" team="Stoke" time="76" type="substitution off" type_id="18"/>
+	<message comment="Ryo Miyaichi is substituted on" last_modified="2013-09-22 14:43:23" minute="72" period="2" second="4" team="Stoke" time="76" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Bacary Sagna scores , Assisted by Mesut Özil (Low to the left, 18-yard box, Head, Set piece)" last_modified="2013-09-22 14:42:31" minute="71" period="2" second="12" team="Stoke" time="75" type="goal scored" type_id="16"/>
+	<message comment="Robert Huth misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-09-22 14:40:18" minute="68" period="2" second="59" team="Arsenal" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-09-22 14:39:50" minute="68" period="2" second="31" team="Arsenal" time="72" type="corner" type_id="6"/>
+	<message comment="Erik Pieters is substituted off" last_modified="2013-09-22 14:37:58" minute="66" period="2" second="39" team="Arsenal" time="70" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" last_modified="2013-09-22 14:37:58" minute="66" period="2" second="39" team="Arsenal" time="70" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-09-22 14:34:46" minute="63" period="2" second="27" team="Arsenal" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic is caught offside" last_modified="2013-09-22 14:34:19" minute="63" period="2" team="Arsenal" time="67" type="offside" type_id="10000"/>
+	<message comment="Marc Wilson wins a corner (To the right)" last_modified="2013-09-22 14:34:16" minute="62" period="2" second="57" team="Arsenal" time="66" type="corner" type_id="6"/>
+	<message comment="Marc Wilson has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-09-22 14:34:15" minute="62" period="2" second="56" team="Arsenal" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" last_modified="2013-09-22 14:34:15" minute="62" period="2" second="56" team="Stoke" time="66" type="save made" type_id="10"/>
+	<message comment="Asmir Begovic makes a save (Diving)" last_modified="2013-09-22 14:33:44" minute="62" period="2" second="25" team="Arsenal" time="66" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 14:33:44" minute="62" period="2" second="25" team="Stoke" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam is substituted off" last_modified="2013-09-22 14:29:55" minute="58" period="2" second="36" team="Arsenal" time="62" type="substitution off" type_id="18"/>
+	<message comment="Stephen Ireland is substituted on" last_modified="2013-09-22 14:29:55" minute="58" period="2" second="36" team="Arsenal" time="62" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Left footed, Open play)" last_modified="2013-09-22 14:28:01" minute="56" period="2" second="42" team="Stoke" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2013-09-22 14:24:59" minute="53" period="2" second="40" team="Arsenal" time="57" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-22 14:24:59" minute="53" period="2" second="40" team="Stoke" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth recieves a yellow card" last_modified="2013-09-22 14:24:01" minute="52" period="2" second="42" team="Arsenal" time="56" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" last_modified="2013-09-22 14:23:42" minute="52" period="2" second="23" team="Stoke" time="56" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" last_modified="2013-09-22 14:23:39" minute="52" period="2" second="20" team="Arsenal" time="56" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the right, Out of box, Left footed, Open play)" last_modified="2013-09-22 14:23:39" minute="52" period="2" second="20" team="Stoke" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" last_modified="2013-09-22 14:19:59" minute="48" period="2" second="40" team="Arsenal" time="52" type="save made" type_id="10"/>
+	<message comment="Serge Gnabry has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-09-22 14:19:59" minute="48" period="2" second="40" team="Stoke" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-09-22 14:16:19" minute="45" period="2" second="0" team="Stoke" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-22 14:19:19" minute="48" period="1" second="0" team="Stoke" time="48" type="end" type_id="30"/>
+	<message comment="Robert Huth blocks a shot" last_modified="2013-09-22 14:17:20" minute="46" period="1" second="1" team="Arsenal" time="46" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-22 14:17:20" minute="46" period="1" second="1" team="Stoke" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2013-09-22 14:11:19" minute="40" period="1" team="Stoke" time="40" type="offside" type_id="10000"/>
+	<message comment="Serge Gnabry misses attempt (High to the left, 18-yard box, Left footed, Open play)" last_modified="2013-09-22 14:11:18" minute="39" period="1" second="59" team="Stoke" time="39" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Per Mertesacker scores , Assisted by Mesut Özil (Low to the left, 18-yard box, Head, From corner)" last_modified="2013-09-22 14:06:26" minute="35" period="1" second="7" team="Stoke" time="35" type="goal scored" type_id="16"/>
+	<message comment="Mesut Özil wins a corner (To the right)" last_modified="2013-09-22 14:05:47" minute="34" period="1" second="28" team="Stoke" time="34" type="corner" type_id="6"/>
+	<message comment="Erik Pieters blocks a shot (Last line)" last_modified="2013-09-22 14:02:55" minute="31" period="1" second="36" team="Arsenal" time="31" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker has shot blocked (6-yard box, Head, From corner)" last_modified="2013-09-22 14:02:55" minute="31" period="1" second="36" team="Stoke" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Wilshere wins a corner (To the right)" last_modified="2013-09-22 14:02:29" minute="31" period="1" second="10" team="Stoke" time="31" type="corner" type_id="6"/>
+	<message comment="Erik Pieters blocks a shot" last_modified="2013-09-22 14:02:28" minute="31" period="1" second="9" team="Arsenal" time="31" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-09-22 14:02:28" minute="31" period="1" second="9" team="Stoke" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-09-22 14:00:59" minute="29" period="1" second="40" team="Arsenal" time="29" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-22 14:00:59" minute="29" period="1" second="40" team="Stoke" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" last_modified="2013-09-22 13:58:53" minute="27" period="1" second="34" team="Arsenal" time="27" type="corner" type_id="6"/>
+	<message comment="GOAL! Geoff Cameron scores  (Low to the right, Out of box, Big Chance, Left footed, Open play)" last_modified="2013-09-22 13:56:47" minute="25" period="1" second="28" team="Arsenal" time="25" type="goal scored" type_id="16"/>
+	<message comment="Marko Arnautovic hits the woodwork (To the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-22 13:56:45" minute="25" period="1" second="26" team="Arsenal" time="25" type="woodwork hit" type_id="14"/>
+	<message comment="Kieran Gibbs misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 13:55:29" minute="24" period="1" second="10" team="Stoke" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross has shot blocked (18-yard box, Head, From corner)" last_modified="2013-09-22 13:54:14" minute="22" period="1" second="55" team="Arsenal" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2013-09-22 13:54:14" minute="22" period="1" second="55" team="Stoke" time="22" type="save made" type_id="10"/>
+	<message comment="Robert Huth wins a corner (To the right)" last_modified="2013-09-22 13:53:44" minute="22" period="1" second="25" team="Arsenal" time="22" type="corner" type_id="6"/>
+	<message comment="Serge Gnabry wins a corner (To the right)" last_modified="2013-09-22 13:44:36" minute="13" period="1" second="17" team="Stoke" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-09-22 13:31:19" minute="0" period="14" second="0" team="Stoke" time="8" type="end" type_id="30"/>
+	<message comment="GOAL! Aaron Ramsey scores  (Low to the left, 6-yard box, Big Chance, Left footed, Set piece)" last_modified="2013-09-22 13:35:41" minute="4" period="1" second="22" team="Stoke" time="4" type="goal scored" type_id="16"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger)" last_modified="2013-09-22 13:35:40" minute="4" period="1" second="21" team="Arsenal" time="4" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the left, Out of box, Left footed, Free kick)" last_modified="2013-09-22 13:35:40" minute="4" period="1" second="21" team="Stoke" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-09-22 13:31:19" minute="0" period="1" second="0" team="Stoke" time="0" type="start" type_id="32"/>
+</Commentary>

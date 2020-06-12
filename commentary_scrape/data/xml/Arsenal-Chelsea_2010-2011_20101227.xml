@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2010-12-27" home_team_name="Chelsea" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="20" time="96" type="end" type_id="30"/>
+	<message comment="Tomas Rosicky is caught offside" minute="94" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="89" period="2" second="43" time="91" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Right footed, Set piece)" minute="89" period="2" second="43" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Salomon Kalou is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Cesc Fàbregas is substituted off" minute="87" period="2" second="55" time="89" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="87" period="2" second="55" time="89" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard misses attempt (18-yard box, Right footed, Open play)" minute="86" period="2" second="46" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Didier Drogba misses attempt (Out of box, Right footed, Free kick)" minute="83" period="2" second="34" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Ramires misses attempt (High to the left, Out of box, Right footed, Fast break)" minute="80" period="2" second="27" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard blocks a shot" minute="79" period="2" second="53" time="81" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="53" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Salomon Kalou is caught offside" minute="78" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Robin van Persie is substituted off" minute="75" period="2" second="55" time="77" type="substitution off" type_id="18"/>
+	<message comment="Marouane Chamakh is substituted on" minute="75" period="2" second="55" time="77" type="substitution on" type_id="19"/>
+	<message comment="Gaël Kakuta misses attempt (To the left, Out of box, Left footed, Throw-in)" minute="75" period="2" second="7" time="77" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="74" period="2" second="24" time="76" type="corner" type_id="6"/>
+	<message comment="Theo Walcott is substituted off" minute="73" period="2" second="0" time="75" type="substitution off" type_id="18"/>
+	<message comment="Abou Diaby is substituted on" minute="73" period="2" second="0" time="75" type="substitution on" type_id="19"/>
+	<message comment="Didier Drogba is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Petr Cech makes a save (Standing, Parried safe)" minute="68" period="2" second="28" time="70" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="28" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Cesc Fàbregas recieves a yellow card" minute="67" period="2" second="24" time="69" type="card received" type_id="17"/>
+	<message comment="José Bosingwa misses attempt (To the right, Out of box, Right footed, From corner)" minute="63" period="2" second="52" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="63" period="2" second="26" time="65" type="corner" type_id="6"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="62" period="2" second="11" time="64" type="corner" type_id="6"/>
+	<message comment="Paulo Ferreira is substituted off" minute="60" period="2" second="55" time="62" type="substitution off" type_id="18"/>
+	<message comment="José Bosingwa is substituted on" minute="60" period="2" second="55" time="62" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="58" period="2" second="6" time="60" type="card received" type_id="17"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by Didier Drogba (Low to the centre, 18-yard box, Big Chance, Head, Set piece)" minute="56" period="2" second="44" time="58" type="goal scored" type_id="16"/>
+	<message comment="Florent Malouda is substituted off" minute="55" period="2" second="24" time="57" type="substitution off" type_id="18"/>
+	<message comment="Gaël Kakuta is substituted on" minute="55" period="2" second="24" time="57" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard misses attempt (High, 18-yard box, Head, Set piece)" minute="54" period="2" second="8" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Cesc Fàbregas (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="52" period="2" second="28" time="54" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Cesc Fàbregas scores , Assisted by Theo Walcott (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="50" period="2" second="39" time="52" type="goal scored" type_id="16"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="48" period="2" second="32" time="50" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="46" period="2" second="5" time="48" type="corner" type_id="6"/>
+	<message comment="John Obi Mikel is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="11" time="46" type="end" type_id="30"/>
+	<message comment="Johan Djourou blocks a shot" minute="46" period="1" second="8" time="46" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, From corner)" minute="46" period="1" second="8" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Florent Malouda wins a corner (To the right)" minute="45" period="1" second="50" time="45" type="corner" type_id="6"/>
+	<message comment="GOAL! Alexandre Song scores , Assisted by Cesc Fàbregas (Low to the right, 18-yard box, Left footed, Open play)" minute="43" period="1" second="50" time="43" type="goal scored" type_id="16"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="40" period="1" second="48" time="40" type="corner" type_id="6"/>
+	<message comment="Samir Nasri has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="40" period="1" second="44" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="40" period="1" second="44" time="40" type="save made" type_id="10"/>
+	<message comment="Didier Drogba blocks a shot" minute="39" period="1" second="43" time="39" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna has shot blocked (Out of box, Left footed, From corner)" minute="39" period="1" second="43" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="39" period="1" second="19" time="39" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou recieves a yellow card" minute="38" period="1" second="35" time="38" type="card received" type_id="17"/>
+	<message comment="Samir Nasri is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Salomon Kalou is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Robin van Persie misses attempt (High, 18-yard box, Left footed, Open play)" minute="34" period="1" second="39" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie recieves a yellow card" minute="32" period="1" second="49" time="32" type="card received" type_id="17"/>
+	<message comment="Ashley Cole recieves a yellow card" minute="28" period="1" second="4" time="28" type="card received" type_id="17"/>
+	<message comment="Florent Malouda is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Branislav Ivanovic is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Theo Walcott is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="21" period="1" second="29" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="21" period="1" second="29" time="21" type="save made" type_id="10"/>
+	<message comment="Didier Drogba is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Alexandre Song blocks a shot" minute="18" period="1" second="51" time="18" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Left footed, Open play)" minute="18" period="1" second="51" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="15" period="1" second="23" time="15" type="corner" type_id="6"/>
+	<message comment="Johan Djourou blocks a shot" minute="15" period="1" second="19" time="15" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Head, Open play)" minute="15" period="1" second="19" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Clichy misses attempt (To the left, Out of box, Right footed, Open play)" minute="14" period="1" second="38" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda wins a corner (To the right)" minute="9" period="1" second="38" time="9" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (Out of box, Right footed, Fast break)" minute="7" period="1" second="7" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Robin van Persie is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

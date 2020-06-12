@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2014-01-12" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="10" time="100" type="end" type_id="30"/>
+	<message comment="GOAL! Álvaro Negredo scores  (Low to the right, 6-yard box, Big Chance, Left footed, Fast break)" minute="94" period="2" second="25" time="97" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Other body part)" minute="94" period="2" second="24" time="97" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="94" period="2" second="24" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov blocks a shot" minute="92" period="2" second="28" time="95" type="save made" type_id="10"/>
+	<message comment="Steven Taylor has shot blocked (18-yard box, Right footed, Set piece)" minute="92" period="2" second="28" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="91" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy misses attempt (18-yard box, Head, From corner)" minute="89" period="2" second="20" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Massadio Haidara wins a corner (To the left)" minute="88" period="2" second="55" time="91" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="88" period="2" second="29" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="88" period="2" second="29" time="91" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save" minute="87" period="2" second="7" time="90" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="87" period="2" second="7" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, 6-yard box, Left footed, Set piece)" minute="85" period="2" second="57" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Fernandinho hits the woodwork (High, 18-yard box, Head, Set piece)" minute="85" period="2" second="54" time="88" type="woodwork hit" type_id="14"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Left footed, Set piece)" minute="85" period="2" second="49" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="85" period="2" second="49" time="88" type="save made" type_id="10"/>
+	<message comment="James Milner is caught offside" minute="84" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="83" period="2" second="28" time="86" type="corner" type_id="6"/>
+	<message comment="Mapou Yanga-Mbiwa is substituted off" minute="81" period="2" second="35" time="84" type="substitution off" type_id="18"/>
+	<message comment="Massadio Haidara is substituted on" minute="81" period="2" second="35" time="84" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran is substituted off" minute="81" period="2" second="30" time="84" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" minute="81" period="2" second="30" time="84" type="substitution on" type_id="19"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="80" period="2" second="32" time="83" type="corner" type_id="6"/>
+	<message comment="Samir Nasri is substituted off" minute="78" period="2" second="37" time="81" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="78" period="2" second="37" time="81" type="substitution on" type_id="19"/>
+	<message comment="Mapou Yanga-Mbiwa recieves a yellow card" minute="74" period="2" second="0" time="77" type="card received" type_id="17"/>
+	<message comment="Vurnon Anita is substituted off" minute="72" period="2" second="35" time="75" type="substitution off" type_id="18"/>
+	<message comment="Papiss Demba Cissé is substituted on" minute="72" period="2" second="35" time="75" type="substitution on" type_id="19"/>
+	<message comment="Davide Santon misses attempt (High to the right, Out of box, Right footed, Open play)" minute="72" period="2" second="14" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="71" period="2" second="21" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="71" period="2" second="21" time="74" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="68" period="2" second="58" time="71" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="68" period="2" second="58" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" minute="67" period="2" second="38" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="64" period="2" second="8" time="67" type="corner" type_id="6"/>
+	<message comment="Samir Nasri is caught offside" minute="61" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Right footed, Set piece)" minute="60" period="2" second="42" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré is substituted off" minute="60" period="2" second="25" time="63" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="60" period="2" second="25" time="63" type="substitution on" type_id="19"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="58" period="2" second="28" time="61" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="58" period="2" second="26" time="61" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="58" period="2" second="26" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Set piece)" minute="54" period="2" second="53" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Standing)" minute="54" period="2" second="53" time="57" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="53" period="2" second="25" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="52" period="2" second="48" time="55" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko is substituted off" minute="51" period="2" second="45" time="54" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="51" period="2" second="45" time="54" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="48" period="2" second="5" time="51" type="card received" type_id="17"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Left footed, Open play)" minute="47" period="2" second="45" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="47" period="2" second="0" time="50" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="47" period="2" second="0" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="10" time="47" type="end" type_id="30"/>
+	<message comment="Samir Nasri is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="44" period="1" second="31" time="44" type="card received" type_id="17"/>
+	<message comment="Fernandinho recieves a yellow card" minute="39" period="1" second="13" time="39" type="card received" type_id="17"/>
+	<message comment="Yohan Cabaye recieves a yellow card" minute="37" period="1" second="30" time="37" type="card received" type_id="17"/>
+	<message comment="Moussa Sissoko recieves a yellow card" minute="36" period="1" second="40" time="36" type="card received" type_id="17"/>
+	<message comment="David Silva misses attempt (18-yard box, Left footed, Set piece)" minute="35" period="1" second="46" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="32" period="1" second="52" time="32" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="32" period="1" second="47" time="32" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="32" period="1" second="47" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko wins a corner (To the left)" minute="31" period="1" second="9" time="31" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (High to the left, Out of box, Left footed, Open play)" minute="27" period="1" second="15" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (18-yard box, Head, From corner)" minute="14" period="1" second="12" time="14" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the left)" minute="13" period="1" second="41" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Álvaro Negredo wins a corner (To the left)" minute="9" period="1" second="16" time="9" type="corner" type_id="6"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Aleksandar Kolarov (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="7" period="1" second="19" time="7" type="goal scored" type_id="16"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="4" period="1" second="34" time="4" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="4" period="1" second="27" time="4" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Right footed, Open play)" minute="4" period="1" second="27" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko misses attempt (High, 18-yard box, Right footed, Open play)" minute="3" period="1" second="28" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson blocks a shot" minute="3" period="1" second="1" time="3" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="1" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

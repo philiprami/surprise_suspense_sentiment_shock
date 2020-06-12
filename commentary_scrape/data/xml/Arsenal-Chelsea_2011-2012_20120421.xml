@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2012-04-21" home_team_name="Chelsea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="23" time="97" type="end" type_id="30"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Left footed, From corner)" minute="94" period="2" second="20" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Abou Diaby blocks a shot" minute="94" period="2" second="20" time="97" type="save made" type_id="10"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="93" period="2" second="55" time="96" type="corner" type_id="6"/>
+	<message comment="José Bosingwa has shot blocked (18-yard box, Left footed, Open play)" minute="93" period="2" second="52" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="93" period="2" second="52" time="96" type="save made" type_id="10"/>
+	<message comment="John Obi Mikel blocks a shot" minute="93" period="2" second="28" time="96" type="save made" type_id="10"/>
+	<message comment="Gervinho has shot blocked (18-yard box, Right footed, Open play)" minute="93" period="2" second="28" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata is caught offside" minute="91" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Thomas Vermaelen wins a corner (To the right)" minute="90" period="2" second="7" time="93" type="corner" type_id="6"/>
+	<message comment="Robin van Persie is caught offside" minute="90" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge misses attempt (To the left, Out of box, Left footed, Open play)" minute="88" period="2" second="46" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="87" period="2" second="8" time="90" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="86" period="2" second="18" time="89" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the right, 18-yard box, Head, From corner)" minute="86" period="2" second="18" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie wins a corner (To the left)" minute="85" period="2" second="42" time="88" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Feet, Parried safe)" minute="85" period="2" second="40" time="88" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="85" period="2" second="40" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie misses attempt (18-yard box, Right footed, Open play)" minute="82" period="2" second="20" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="82" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Ashley Cole recieves a yellow card" minute="80" period="2" second="48" time="83" type="card received" type_id="17"/>
+	<message comment="Ashley Cole is substituted on" minute="76" period="2" second="8" time="79" type="substitution on" type_id="19"/>
+	<message comment="Ryan Bertrand is substituted off" minute="76" period="2" second="7" time="79" type="substitution off" type_id="18"/>
+	<message comment="Abou Diaby recieves a yellow card" minute="75" period="2" second="50" time="78" type="card received" type_id="17"/>
+	<message comment="Michael Essien misses attempt (To the left, Out of box, Right footed, Set piece)" minute="74" period="2" second="50" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Salomon Kalou is substituted off" minute="73" period="2" second="47" time="76" type="substitution off" type_id="18"/>
+	<message comment="Juan Mata is substituted on" minute="73" period="2" second="47" time="76" type="substitution on" type_id="19"/>
+	<message comment="José Bosingwa recieves a yellow card" minute="71" period="2" second="46" time="74" type="card received" type_id="17"/>
+	<message comment="Ryan Bertrand blocks a shot" minute="70" period="2" second="28" time="73" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has shot blocked (18-yard box, Right footed, Open play)" minute="70" period="2" second="28" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="69" period="2" second="10" time="72" type="substitution off" type_id="18"/>
+	<message comment="André Santos is substituted on" minute="69" period="2" second="10" time="72" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="68" period="2" second="5" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="68" period="2" second="5" time="71" type="save made" type_id="10"/>
+	<message comment="Robin van Persie misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="66" period="2" second="52" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="66" period="2" second="32" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="66" period="2" second="32" time="69" type="save made" type_id="10"/>
+	<message comment="Oriol Romeu is substituted off" minute="65" period="2" second="50" time="68" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="65" period="2" second="50" time="68" type="substitution on" type_id="19"/>
+	<message comment="Tomas Rosicky is substituted off" minute="64" period="2" second="3" time="67" type="substitution off" type_id="18"/>
+	<message comment="Abou Diaby is substituted on" minute="64" period="2" second="3" time="67" type="substitution on" type_id="19"/>
+	<message comment="Robin van Persie misses attempt (High, Out of box, Left footed, Free kick)" minute="63" period="2" second="34" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott is substituted off" minute="59" period="2" second="59" time="62" type="substitution off" type_id="18"/>
+	<message comment="Gervinho is substituted on" minute="59" period="2" second="59" time="62" type="substitution on" type_id="19"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="58" period="2" second="22" time="61" type="corner" type_id="6"/>
+	<message comment="Robin van Persie is caught offside" minute="55" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Gary Cahill recieves a yellow card" minute="53" period="2" second="44" time="56" type="card received" type_id="17"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="50" period="2" second="32" time="53" type="corner" type_id="6"/>
+	<message comment="Robin van Persie recieves a yellow card" minute="49" period="2" second="21" time="52" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey misses attempt (To the left, Out of box, Left footed, Set piece)" minute="49" period="2" second="8" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda recieves a yellow card" minute="48" period="2" second="35" time="51" type="card received" type_id="17"/>
+	<message comment="Michael Essien has shot blocked (Out of box, Left footed, Open play)" minute="47" period="2" second="50" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Gibbs blocks a shot" minute="47" period="2" second="50" time="50" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="15" time="47" type="end" type_id="30"/>
+	<message comment="Theo Walcott is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Oriol Romeu blocks a shot" minute="45" period="1" second="50" time="45" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="50" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="43" period="1" second="28" time="43" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried into danger)" minute="43" period="1" second="10" time="43" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="43" period="1" second="10" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry misses attempt (To the right, 18-yard box, Head, From corner)" minute="42" period="1" second="28" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="42" period="1" second="3" time="42" type="corner" type_id="6"/>
+	<message comment="Laurent Koscielny hits the woodwork (High, 18-yard box, Big Chance, Head, Set piece)" minute="41" period="1" second="8" time="41" type="woodwork hit" type_id="14"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="38" period="1" second="54" time="38" type="corner" type_id="6"/>
+	<message comment="Robin van Persie wins a corner (To the left)" minute="35" period="1" second="50" time="35" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky recieves a yellow card" minute="29" period="1" second="24" time="29" type="card received" type_id="17"/>
+	<message comment="John Terry has shot blocked (18-yard box, Head, From corner)" minute="26" period="1" second="25" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="26" period="1" second="25" time="26" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="25" period="1" second="59" time="25" type="corner" type_id="6"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Open play)" minute="25" period="1" second="27" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="23" period="1" second="49" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Left footed, From corner)" minute="23" period="1" second="47" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song blocks a shot" minute="23" period="1" second="47" time="23" type="save made" type_id="10"/>
+	<message comment="Gary Cahill misses attempt (To the right, 18-yard box, Head, From corner)" minute="23" period="1" second="45" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="23" period="1" second="22" time="23" type="corner" type_id="6"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Head, From corner)" minute="23" period="1" second="19" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie blocks a shot" minute="23" period="1" second="19" time="23" type="save made" type_id="10"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="22" period="1" second="53" time="22" type="corner" type_id="6"/>
+	<message comment="Robin van Persie is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="15" period="1" second="49" time="15" type="corner" type_id="6"/>
+	<message comment="Robin van Persie hits the woodwork (To the right, 6-yard box, Big Chance, Left footed, Set piece)" minute="13" period="1" second="7" time="13" type="woodwork hit" type_id="14"/>
+	<message comment="Fernando Torres is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Robin van Persie is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Petr Cech makes a save (Collected, Diving)" minute="4" period="1" second="54" time="4" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="4" period="1" second="54" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2010-12-05" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="6" time="96" type="end" type_id="30"/>
+	<message comment="GOAL! Peter Løvenkrands scores  (High to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="91" period="2" second="35" time="93" type="goal scored" type_id="16"/>
+	<message comment="Andy Carroll has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="91" period="2" second="33" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Carson makes a save (Parried into danger, Diving)" minute="91" period="2" second="33" time="93" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (Out of box, Left footed, Open play)" minute="90" period="2" second="7" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid blocks a shot" minute="90" period="2" second="7" time="92" type="save made" type_id="10"/>
+	<message comment="GOAL! Peter Odemwingie scores , Assisted by Marek Cech (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="88" period="2" second="2" time="90" type="goal scored" type_id="16"/>
+	<message comment="Gabriel Tamas has shot blocked (18-yard box, Right footed, From corner)" minute="87" period="2" second="2" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Sol Campbell blocks a shot" minute="87" period="2" second="1" time="89" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie is caught offside" minute="87" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="José Enrique blocks a shot" minute="87" period="2" second="0" time="89" type="save made" type_id="10"/>
+	<message comment="Gabriel Tamas has shot blocked (18-yard box, Right footed, From corner)" minute="87" period="2" second="0" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, 18-yard box, Head, From corner)" minute="86" period="2" second="55" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans wins a corner (To the right)" minute="86" period="2" second="6" time="88" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie misses attempt (High, 18-yard box, Right footed, Open play)" minute="85" period="2" second="6" time="87" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison is substituted off" minute="84" period="2" second="21" time="86" type="substitution off" type_id="18"/>
+	<message comment="Steven Reid is substituted on" minute="84" period="2" second="21" time="86" type="substitution on" type_id="19"/>
+	<message comment="Sol Campbell recieves a yellow card" minute="83" period="2" second="46" time="85" type="card received" type_id="17"/>
+	<message comment="Steven Taylor blocks a shot" minute="82" period="2" second="15" time="84" type="save made" type_id="10"/>
+	<message comment="James Morrison has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="15" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Smith has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="0" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Graham Dorrans blocks a shot" minute="82" period="2" second="0" time="84" type="save made" type_id="10"/>
+	<message comment="Peter Løvenkrands misses attempt (18-yard box, Left footed, Open play)" minute="78" period="2" second="29" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas is substituted off" minute="77" period="2" second="23" time="79" type="substitution off" type_id="18"/>
+	<message comment="Giles Barnes is substituted on" minute="77" period="2" second="23" time="79" type="substitution on" type_id="19"/>
+	<message comment="Danny Simpson blocks a shot" minute="76" period="2" second="24" time="78" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, Open play)" minute="76" period="2" second="24" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Smith recieves a yellow card" minute="74" period="2" second="9" time="76" type="card received" type_id="17"/>
+	<message comment="Wayne Routledge is substituted off" minute="73" period="2" second="12" time="75" type="substitution off" type_id="18"/>
+	<message comment="Nile Ranger is substituted on" minute="73" period="2" second="12" time="75" type="substitution on" type_id="19"/>
+	<message comment="Danny Guthrie is substituted off" minute="72" period="2" second="49" time="74" type="substitution off" type_id="18"/>
+	<message comment="Alan Smith is substituted on" minute="72" period="2" second="49" time="74" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Peter Odemwingie scores  (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="70" period="2" second="41" time="72" type="goal scored" type_id="16"/>
+	<message comment="James Morrison misses attempt (Out of box, Left footed, Open play)" minute="69" period="2" second="34" time="71" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison misses attempt (Out of box, Right footed, Open play)" minute="68" period="2" second="57" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Sol Campbell misses attempt (To the right, 18-yard box, Head, Set piece)" minute="67" period="2" second="41" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="66" period="2" second="19" time="68" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="66" period="2" second="19" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Somen Tchoyi is caught offside" minute="62" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Danny Guthrie recieves a yellow card" minute="61" period="2" second="23" time="63" type="card received" type_id="17"/>
+	<message comment="Andy Carroll misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="58" period="2" second="53" time="60" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique recieves a yellow card" minute="56" period="2" second="35" time="58" type="card received" type_id="17"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="54" period="2" second="14" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scharner misses attempt (High, 18-yard box, Right footed, Open play)" minute="51" period="2" second="24" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="50" period="2" second="53" time="52" type="corner" type_id="6"/>
+	<message comment="Steven Taylor has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="50" period="2" second="2" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Carson makes a save (Diving, Parried safe)" minute="50" period="2" second="2" time="52" type="save made" type_id="10"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="48" period="2" second="22" time="50" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas wins a corner (To the right)" minute="47" period="2" second="45" time="49" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="45" period="2" second="20" time="47" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Peter Løvenkrands is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="41" period="1" second="36" time="41" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="41" period="1" second="36" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Head, Open play)" minute="40" period="1" second="11" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="37" period="1" second="0" time="37" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="36" period="1" second="58" time="36" type="save made" type_id="10"/>
+	<message comment="Somen Tchoyi has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="36" period="1" second="58" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Somen Tchoyi scores , Assisted by Chris Brunt (High to the left, 18-yard box, Left footed, Open play)" minute="31" period="1" second="38" time="31" type="goal scored" type_id="16"/>
+	<message comment="Shola Ameobi misses attempt (18-yard box, Head, From corner)" minute="25" period="1" second="24" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi wins a corner (To the right)" minute="24" period="1" second="51" time="24" type="corner" type_id="6"/>
+	<message comment="Steven Taylor has attempt saved (Low to the centre, 18-yard box, Right footed, From corner)" minute="24" period="1" second="15" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Carson makes a save" minute="24" period="1" second="15" time="24" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Key pass, Left footed, From corner)" minute="24" period="1" second="14" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="23" period="1" second="44" time="23" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans misses attempt (High to the right, Out of box, Right footed, Open play)" minute="22" period="1" second="39" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie misses attempt (18-yard box, Right footed, Open play)" minute="20" period="1" second="46" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez recieves a yellow card" minute="19" period="1" second="30" time="19" type="card received" type_id="17"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Open play)" minute="14" period="1" second="11" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Right footed, Open play)" minute="13" period="1" second="59" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Scharner misses attempt (High, 6-yard box, Left footed, From corner)" minute="11" period="1" second="27" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="10" period="1" second="52" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Somen Tchoyi wins a corner (To the right)" minute="5" period="1" second="41" time="5" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

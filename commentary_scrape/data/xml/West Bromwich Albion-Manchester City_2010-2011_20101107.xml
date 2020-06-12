@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2010-11-07" home_team_name="Manchester City" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="32" time="98" type="end" type_id="30"/>
+	<message comment="Carlos Tevez misses attempt (High, Out of box, Right footed, Free kick)" minute="95" period="2" second="19" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Ibáñez recieves a yellow card" minute="93" period="2" second="57" time="96" type="card received" type_id="17"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Set piece)" minute="92" period="2" second="50" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Nigel de Jong blocks a shot" minute="92" period="2" second="50" time="95" type="save made" type_id="10"/>
+	<message comment="Chris Brunt misses attempt (To the right, Out of box, Left footed, Open play)" minute="91" period="2" second="0" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta is substituted off" minute="87" period="2" second="46" time="90" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="87" period="2" second="46" time="90" type="substitution on" type_id="19"/>
+	<message comment="Chris Brunt recieves a yellow card" minute="87" period="2" second="17" time="90" type="card received" type_id="17"/>
+	<message comment="Ishmael Miller misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="85" period="2" second="33" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu recieves a red card after receiving second yellow card" minute="81" period="2" second="11" time="84" type="card received" type_id="17"/>
+	<message comment="Paul Scharner is substituted off" minute="80" period="2" second="2" time="83" type="substitution off" type_id="18"/>
+	<message comment="Ishmael Miller is substituted on" minute="80" period="2" second="2" time="83" type="substitution on" type_id="19"/>
+	<message comment="Chris Brunt misses attempt (High, Out of box, Left footed, Open play)" minute="79" period="2" second="0" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scharner is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Giles Barnes blocks a shot" minute="74" period="2" second="42" time="77" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has shot blocked (18-yard box, Left footed, Open play)" minute="74" period="2" second="42" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu misses attempt (High, Out of box, Right footed, Open play)" minute="73" period="2" second="26" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas has shot blocked (Out of box, Right footed, Set piece)" minute="72" period="2" second="29" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson blocks a shot" minute="72" period="2" second="29" time="75" type="save made" type_id="10"/>
+	<message comment="Simon Cox blocks a shot" minute="71" period="2" second="52" time="74" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="71" period="2" second="52" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Scharner misses attempt (High to the right, 18-yard box, Head, Open play)" minute="68" period="2" second="41" time="71" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is substituted off" minute="67" period="2" second="53" time="70" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="67" period="2" second="53" time="70" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez is caught offside" minute="67" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="66" period="2" second="40" time="69" type="corner" type_id="6"/>
+	<message comment="Nicky Shorey has attempt saved (High to the right, Out of box, Left footed, Free kick)" minute="66" period="2" second="38" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="66" period="2" second="38" time="69" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="65" period="2" second="50" time="68" type="card received" type_id="17"/>
+	<message comment="Joe Hart makes a save (Feet, Parried into danger)" minute="65" period="2" second="2" time="68" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="64" period="2" second="36" time="67" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu recieves a yellow card" minute="62" period="2" second="35" time="65" type="card received" type_id="17"/>
+	<message comment="Mario Balotelli recieves a red card" minute="62" period="2" second="0" time="65" type="card received" type_id="17"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="59" period="2" second="55" time="62" type="substitution off" type_id="18"/>
+	<message comment="Peter Odemwingie is substituted on" minute="59" period="2" second="55" time="62" type="substitution on" type_id="19"/>
+	<message comment="Marek Cech is substituted off" minute="59" period="2" second="50" time="62" type="substitution off" type_id="18"/>
+	<message comment="Giles Barnes is substituted on" minute="59" period="2" second="50" time="62" type="substitution on" type_id="19"/>
+	<message comment="Mario Balotelli recieves a yellow card" minute="59" period="2" second="30" time="62" type="card received" type_id="17"/>
+	<message comment="Mario Balotelli is caught offside" minute="57" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="Paul Scharner has shot blocked (18-yard box, Head, From corner)" minute="54" period="2" second="9" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="54" period="2" second="9" time="57" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="53" period="2" second="40" time="56" type="corner" type_id="6"/>
+	<message comment="Simon Cox hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="53" period="2" second="22" time="56" type="woodwork hit" type_id="14"/>
+	<message comment="Gabriel Tamas has shot blocked (Out of box, Key pass, Right footed, Open play)" minute="53" period="2" second="15" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="5" time="47" type="end" type_id="30"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="41" period="1" second="49" time="41" type="card received" type_id="17"/>
+	<message comment="Pablo Ibáñez misses attempt (18-yard box, Head, Set piece)" minute="36" period="1" second="17" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Free kick)" minute="32" period="1" second="12" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scharner has shot blocked (18-yard box, Right footed, From corner)" minute="28" period="1" second="48" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Jérôme Boateng blocks a shot" minute="28" period="1" second="48" time="28" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the left)" minute="28" period="1" second="13" time="28" type="corner" type_id="6"/>
+	<message comment="GOAL! Mario Balotelli scores , Assisted by David Silva (Low to the left, 18-yard box, Right footed, Open play)" minute="25" period="1" second="57" time="25" type="goal scored" type_id="16"/>
+	<message comment="Scott Carson makes a save (Parried safe, Diving)" minute="22" period="1" second="45" time="22" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="22" period="1" second="45" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Mario Balotelli scores , Assisted by Carlos Tevez (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="19" period="1" second="45" time="19" type="goal scored" type_id="16"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="13" period="1" second="48" time="13" type="corner" type_id="6"/>
+	<message comment="Pablo Ibáñez blocks a shot" minute="13" period="1" second="27" time="13" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="13" period="1" second="27" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta misses attempt (Out of box, Right footed, Throw-in)" minute="10" period="1" second="39" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Nicky Shorey blocks a shot" minute="10" period="1" second="37" time="10" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Left footed, Throw-in)" minute="10" period="1" second="37" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Carlos Tevez misses attempt (To the right, Out of box, Right footed, Open play)" minute="7" period="1" second="49" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Nigel de Jong recieves a yellow card" minute="5" period="1" second="10" time="5" type="card received" type_id="17"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="2" period="1" second="53" time="2" type="corner" type_id="6"/>
+	<message comment="Simon Cox wins a corner (To the right)" minute="2" period="1" second="17" time="2" type="corner" type_id="6"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

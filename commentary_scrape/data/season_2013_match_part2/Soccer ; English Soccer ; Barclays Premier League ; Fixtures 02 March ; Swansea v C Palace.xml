@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-03-02 16:30" game_id_2="27155496" game_id_4="112963334" home_team_name="C Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-03-02 18:05:05" minute="94" period="2" second="6" team="C Palace" time="98" type="end" type_id="30"/>
+	<message comment="Yannick Bolasie misses attempt (High, 18-yard box, Left footed, Open play)" last_modified="2014-03-02 18:03:24" minute="92" period="2" second="25" team="Swansea" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas recieves a yellow card" last_modified="2014-03-02 18:02:27" minute="91" period="2" second="28" team="Swansea" time="95" type="card received" type_id="17"/>
+	<message comment="Kagisho Dikgacoi wins a corner (To the right)" last_modified="2014-03-02 17:56:14" minute="85" period="2" second="15" team="Swansea" time="89" type="corner" type_id="6"/>
+	<message comment="Glenn Murray wins a corner (To the left)" last_modified="2014-03-02 17:54:35" minute="83" period="2" second="36" team="Swansea" time="87" type="corner" type_id="6"/>
+	<message comment="Jordi Amat blocks a shot" last_modified="2014-03-02 17:54:34" minute="83" period="2" second="35" team="C Palace" time="87" type="save made" type_id="10"/>
+	<message comment="Glenn Murray has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-02 17:54:32" minute="83" period="2" second="33" team="Swansea" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Glenn Murray scores  (High to the right, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2014-03-02 17:52:54" minute="81" period="2" second="55" team="Swansea" time="85" type="goal scored" type_id="16"/>
+	<message comment="Chico Flores recieves a red card" last_modified="2014-03-02 17:51:55" minute="80" period="2" second="56" team="C Palace" time="84" type="card received" type_id="17"/>
+	<message comment="Leroy Lita is caught offside" last_modified="2014-03-02 17:48:59" minute="78" period="2" team="C Palace" time="82" type="offside" type_id="10000"/>
+	<message comment="Scott Dann blocks a shot" last_modified="2014-03-02 17:48:46" minute="77" period="2" second="47" team="Swansea" time="81" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-02 17:48:44" minute="77" period="2" second="45" team="C Palace" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the centre, 18-yard box, Head, Open play)" last_modified="2014-03-02 17:47:54" minute="76" period="2" second="55" team="Swansea" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" last_modified="2014-03-02 17:47:54" minute="76" period="2" second="55" team="C Palace" time="80" type="save made" type_id="10"/>
+	<message comment="Glenn Murray has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-02 17:46:16" minute="75" period="2" second="17" team="Swansea" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" last_modified="2014-03-02 17:46:16" minute="75" period="2" second="17" team="C Palace" time="79" type="save made" type_id="10"/>
+	<message comment="Leon Britton recieves a yellow card" last_modified="2014-03-02 17:44:57" minute="73" period="2" second="58" team="C Palace" time="77" type="card received" type_id="17"/>
+	<message comment="Jonathan Parr is substituted off" last_modified="2014-03-02 17:40:24" minute="69" period="2" second="25" team="Swansea" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jerome Thomas is substituted on" last_modified="2014-03-02 17:40:24" minute="69" period="2" second="25" team="Swansea" time="73" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams is substituted off" last_modified="2014-03-02 17:40:17" minute="69" period="2" second="18" team="C Palace" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jordi Amat is substituted on" last_modified="2014-03-02 17:40:17" minute="69" period="2" second="18" team="C Palace" time="73" type="substitution on" type_id="19"/>
+	<message comment="Yannick Bolasie misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2014-03-02 17:36:17" minute="65" period="2" second="18" team="Swansea" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony is substituted off" last_modified="2014-03-02 17:33:42" minute="62" period="2" second="43" team="C Palace" time="66" type="substitution off" type_id="18"/>
+	<message comment="Leroy Lita is substituted on" last_modified="2014-03-02 17:33:42" minute="62" period="2" second="43" team="C Palace" time="66" type="substitution on" type_id="19"/>
+	<message comment="Scott Dann recieves a yellow card" last_modified="2014-03-02 17:33:04" minute="62" period="2" second="5" team="Swansea" time="66" type="card received" type_id="17"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" last_modified="2014-03-02 17:26:19" minute="55" period="2" second="20" team="Swansea" time="59" type="corner" type_id="6"/>
+	<message comment="Julian Speroni makes a save (Collected)" last_modified="2014-03-02 17:25:25" minute="54" period="2" second="26" team="Swansea" time="58" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-03-02 17:25:25" minute="54" period="2" second="26" team="C Palace" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" last_modified="2014-03-02 17:21:35" minute="50" period="2" second="36" team="Swansea" time="54" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome recieves a yellow card" last_modified="2014-03-02 17:18:35" minute="47" period="2" second="36" team="Swansea" time="51" type="card received" type_id="17"/>
+	<message comment="Tom Ince is substituted off" last_modified="2014-03-02 17:15:59" minute="45" period="2" second="0" team="Swansea" time="49" type="substitution off" type_id="18"/>
+	<message comment="Glenn Murray is substituted on" last_modified="2014-03-02 17:15:59" minute="45" period="2" second="0" team="Swansea" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-03-02 17:15:59" minute="45" period="2" second="0" team="C Palace" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-03-02 17:19:49" minute="48" period="1" second="50" team="C Palace" time="48" type="end" type_id="30"/>
+	<message comment="Wilfried Bony is caught offside" last_modified="2014-03-02 17:17:59" minute="47" period="1" team="C Palace" time="47" type="offside" type_id="10000"/>
+	<message comment="Julian Speroni makes a save" last_modified="2014-03-02 17:07:10" minute="36" period="1" second="11" team="Swansea" time="36" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-03-02 17:07:10" minute="36" period="1" second="11" team="C Palace" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-03-02 17:06:44" minute="35" period="1" second="45" team="C Palace" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried into danger)" last_modified="2014-03-02 17:06:44" minute="35" period="1" second="45" team="Swansea" time="35" type="save made" type_id="10"/>
+	<message comment="Mile Jedinak recieves a yellow card" last_modified="2014-03-02 17:05:33" minute="34" period="1" second="34" team="Swansea" time="34" type="card received" type_id="17"/>
+	<message comment="Julian Speroni makes a save (Parried into danger)" last_modified="2014-03-02 17:03:25" minute="32" period="1" second="26" team="Swansea" time="32" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-03-02 17:03:25" minute="32" period="1" second="26" team="C Palace" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Chamakh is substituted off" last_modified="2014-03-02 17:02:22" minute="31" period="1" second="23" team="Swansea" time="31" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" last_modified="2014-03-02 17:02:22" minute="31" period="1" second="23" team="Swansea" time="31" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jonathan de Guzmán scores , Assisted by Leon Britton (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-02 16:55:50" minute="24" period="1" second="51" team="C Palace" time="24" type="goal scored" type_id="16"/>
+	<message comment="José Cañas is substituted on" last_modified="2014-03-02 16:52:30" minute="21" period="1" second="31" team="C Palace" time="21" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández is substituted off" last_modified="2014-03-02 16:52:30" minute="21" period="1" second="31" team="C Palace" time="21" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández misses attempt (Out of box, Left footed, Open play)" last_modified="2014-03-02 16:51:59" minute="21" period="1" second="0" team="C Palace" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-03-02 16:30:59" minute="0" period="14" second="0" team="C Palace" time="8" type="end" type_id="30"/>
+	<message comment="Ben Davies wins a corner (To the left)" last_modified="2014-03-02 16:38:52" minute="7" period="1" second="53" team="C Palace" time="7" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer is caught offside" last_modified="2014-03-02 16:32:59" minute="2" period="1" team="C Palace" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2014-03-02 16:30:59" minute="0" period="1" second="0" team="C Palace" time="0" type="start" type_id="32"/>
+</Commentary>

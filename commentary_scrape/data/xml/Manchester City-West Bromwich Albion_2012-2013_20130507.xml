@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-05-07" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="30" time="97" type="end" type_id="30"/>
+	<message comment="Carlos Tevez is substituted off" minute="91" period="2" second="22" time="95" type="substitution off" type_id="18"/>
+	<message comment="Abdul Razak is substituted on" minute="91" period="2" second="22" time="95" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is caught offside" minute="90" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Right footed, Free kick)" minute="89" period="2" second="2" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Javi García blocks a shot" minute="89" period="2" second="2" time="93" type="save made" type_id="10"/>
+	<message comment="Boaz Myhill makes a save (Collected)" minute="87" period="2" second="18" time="91" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has attempt saved (Low to the left, Out of box, Left footed, Fast break)" minute="87" period="2" second="18" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Collected, Standing)" minute="86" period="2" second="45" time="90" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="86" period="2" second="45" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="85" period="2" second="28" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Maicon misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="84" period="2" second="7" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Billy Jones blocks a shot" minute="82" period="2" second="13" time="86" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (6-yard box, Big Chance, Left footed, Open play)" minute="82" period="2" second="13" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Shane Long misses attempt (18-yard box, Right footed, Open play)" minute="80" period="2" second="50" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Tamas is substituted off" minute="80" period="2" second="23" time="84" type="substitution off" type_id="18"/>
+	<message comment="Shane Long is substituted on" minute="80" period="2" second="23" time="84" type="substitution on" type_id="19"/>
+	<message comment="Billy Jones has shot blocked (18-yard box, Right footed, Open play)" minute="79" period="2" second="38" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="79" period="2" second="38" time="83" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="77" period="2" second="45" time="81" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Left footed, Open play)" minute="77" period="2" second="43" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="77" period="2" second="43" time="81" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell is substituted off" minute="75" period="2" second="49" time="79" type="substitution off" type_id="18"/>
+	<message comment="Maicon is substituted on" minute="75" period="2" second="49" time="79" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is substituted on" minute="75" period="2" second="32" time="79" type="substitution on" type_id="19"/>
+	<message comment="Markus Rosenberg is substituted off" minute="75" period="2" second="31" time="79" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="74" period="2" second="49" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="74" period="2" second="49" time="78" type="save made" type_id="10"/>
+	<message comment="Samir Nasri is substituted off" minute="73" period="2" second="1" time="77" type="substitution off" type_id="18"/>
+	<message comment="Gareth Barry is substituted on" minute="73" period="2" second="1" time="77" type="substitution on" type_id="19"/>
+	<message comment="Boaz Myhill makes a save (Collected)" minute="70" period="2" second="50" time="74" type="save made" type_id="10"/>
+	<message comment="James Milner has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="70" period="2" second="50" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob is substituted off" minute="70" period="2" second="3" time="74" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans is substituted on" minute="70" period="2" second="3" time="74" type="substitution on" type_id="19"/>
+	<message comment="Markus Rosenberg wins a corner (To the left)" minute="68" period="2" second="55" time="72" type="corner" type_id="6"/>
+	<message comment="Markus Rosenberg has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="52" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Rodwell blocks a shot" minute="68" period="2" second="52" time="72" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="65" period="2" second="55" time="69" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Free kick)" minute="65" period="2" second="55" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri recieves a yellow card" minute="65" period="2" second="23" time="69" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="65" period="2" second="22" time="69" type="card received" type_id="17"/>
+	<message comment="Jack Rodwell wins a corner (To the left)" minute="63" period="2" second="2" time="67" type="corner" type_id="6"/>
+	<message comment="Boaz Myhill makes a save (Standing, Parried safe)" minute="63" period="2" second="1" time="67" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="63" period="2" second="1" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="62" period="2" second="59" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez has shot blocked (6-yard box, Big Chance, Right footed, Open play)" minute="62" period="2" second="57" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Dawson blocks a shot" minute="62" period="2" second="57" time="66" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell has shot blocked (6-yard box, Big Chance, Left footed, Open play)" minute="62" period="2" second="56" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="62" period="2" second="56" time="66" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu misses attempt (To the left, Out of box, Right footed, Open play)" minute="61" period="2" second="29" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson wins a corner (To the right)" minute="60" period="2" second="30" time="64" type="corner" type_id="6"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="59" period="2" second="52" time="63" type="corner" type_id="6"/>
+	<message comment="Billy Jones wins a corner (To the right)" minute="57" period="2" second="48" time="61" type="corner" type_id="6"/>
+	<message comment="James Morrison wins a corner (To the left)" minute="54" period="2" second="46" time="58" type="corner" type_id="6"/>
+	<message comment="James Morrison has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="54" period="2" second="41" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="54" period="2" second="41" time="58" type="save made" type_id="10"/>
+	<message comment="Markus Rosenberg misses attempt (High, Out of box, Left footed, Open play)" minute="48" period="2" second="58" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Billy Jones has attempt saved (Low to the left, 18-yard box, Head, Set piece)" minute="48" period="2" second="52" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried into danger)" minute="48" period="2" second="52" time="52" type="save made" type_id="10"/>
+	<message comment="Markus Rosenberg hits the woodwork (High, Out of box, Left footed, Free kick)" minute="48" period="2" second="47" time="52" type="woodwork hit" type_id="14"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="10" time="48" type="end" type_id="30"/>
+	<message comment="Jack Rodwell misses attempt (High, 18-yard box, Right footed, Open play)" minute="46" period="1" second="20" time="46" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison has attempt saved (Low to the centre, Out of box, Left footed, Set piece)" minute="44" period="1" second="36" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="44" period="1" second="36" time="44" type="save made" type_id="10"/>
+	<message comment="James Milner hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="43" period="1" second="15" time="43" type="woodwork hit" type_id="14"/>
+	<message comment="Jack Rodwell wins a corner (To the left)" minute="42" period="1" second="31" time="42" type="corner" type_id="6"/>
+	<message comment="Craig Dawson blocks a shot" minute="42" period="1" second="28" time="42" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="28" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Dawson blocks a shot" minute="42" period="1" second="2" time="42" type="save made" type_id="10"/>
+	<message comment="Jack Rodwell has shot blocked (18-yard box, Left footed, Open play)" minute="42" period="1" second="2" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="39" period="1" second="22" time="39" type="corner" type_id="6"/>
+	<message comment="Craig Dawson blocks a shot" minute="39" period="1" second="9" time="39" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="9" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="36" period="1" second="0" time="36" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Carlos Tevez (Low to the right, 18-yard box, Right footed, Fast break)" minute="34" period="1" second="47" time="34" type="goal scored" type_id="16"/>
+	<message comment="Boaz Myhill makes a save (Collected)" minute="34" period="1" second="7" time="34" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the right, Out of box, Left footed, Set piece)" minute="34" period="1" second="7" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save" minute="33" period="1" second="26" time="33" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="33" period="1" second="26" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="32" period="1" second="44" time="32" type="corner" type_id="6"/>
+	<message comment="James Milner misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="30" period="1" second="58" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="30" period="1" second="17" time="30" type="corner" type_id="6"/>
+	<message comment="Markus Rosenberg has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="29" period="1" second="17" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="29" period="1" second="17" time="29" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, From corner)" minute="27" period="1" second="14" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="27" period="1" second="14" time="27" type="save made" type_id="10"/>
+	<message comment="Markus Rosenberg wins a corner (To the left)" minute="26" period="1" second="45" time="26" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Open play)" minute="25" period="1" second="56" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson blocks a shot" minute="25" period="1" second="47" time="25" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Left footed, Open play)" minute="25" period="1" second="47" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov recieves a yellow card" minute="24" period="1" second="18" time="24" type="card received" type_id="17"/>
+	<message comment="Jack Rodwell misses attempt (High, 6-yard box, Big Chance, Right footed, Set piece)" minute="20" period="1" second="17" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="18" period="1" second="26" time="18" type="corner" type_id="6"/>
+	<message comment="Claudio Yacob blocks a shot" minute="18" period="1" second="25" time="18" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Left footed, Open play)" minute="18" period="1" second="25" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Markus Rosenberg misses attempt (Out of box, Right footed, Open play)" minute="10" period="1" second="17" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (To the left, Out of box, Right footed, Fast break)" minute="8" period="1" second="30" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Romelu Lukaku has attempt saved (High to the right, 18-yard box, Head, Set piece)" minute="5" period="1" second="21" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="5" period="1" second="21" time="5" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku misses attempt (Out of box, Left footed, Open play)" minute="3" period="1" second="51" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Billy Jones wins a corner (To the right)" minute="2" period="1" second="25" time="2" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="1" period="1" second="29" time="1" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="1" period="1" second="29" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

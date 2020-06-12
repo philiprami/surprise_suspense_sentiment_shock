@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2014-03-25" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="40" time="97" type="end" type_id="30"/>
+	<message comment="Jonathan de Guzmán is caught offside" minute="92" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Mathieu Flamini scores an OWN GOAL!  (Low to the centre, 6-yard box, Left footed, Open play)" minute="89" period="2" second="44" time="92" type="goal scored" type_id="16"/>
+	<message comment="Yaya Sanogo is substituted on" minute="88" period="2" second="2" time="91" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is substituted off" minute="88" period="2" second="2" time="91" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="84" period="2" second="13" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" minute="84" period="2" second="13" time="87" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky is substituted off" minute="78" period="2" second="42" time="81" type="substitution off" type_id="18"/>
+	<message comment="Kim Källström is substituted on" minute="78" period="2" second="42" time="81" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="78" period="2" second="18" time="81" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández is substituted on" minute="78" period="2" second="18" time="81" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="44" time="78" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Lukas Podolski (High to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="73" period="2" second="16" time="76" type="goal scored" type_id="16"/>
+	<message comment="Neil Taylor is substituted off" minute="72" period="2" second="52" time="75" type="substitution off" type_id="18"/>
+	<message comment="Ben Davies is substituted on" minute="72" period="2" second="52" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Lukas Podolski scores , Assisted by Kieran Gibbs (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="72" period="2" second="8" time="75" type="goal scored" type_id="16"/>
+	<message comment="Michu is substituted off" minute="62" period="2" second="48" time="65" type="substitution off" type_id="18"/>
+	<message comment="Nathan Dyer is substituted on" minute="62" period="2" second="48" time="65" type="substitution on" type_id="19"/>
+	<message comment="Michu misses attempt (High, 18-yard box, Head, Open play)" minute="59" period="2" second="47" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (High to the right, Out of box, Right footed, Open play)" minute="58" period="2" second="39" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky misses attempt (High to the right, Out of box, Right footed, Open play)" minute="57" period="2" second="47" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="56" period="2" second="12" time="59" type="substitution off" type_id="18"/>
+	<message comment="Lukas Podolski is substituted on" minute="56" period="2" second="12" time="59" type="substitution on" type_id="19"/>
+	<message comment="Michu misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="51" period="2" second="39" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Michu misses attempt (Out of box, Left footed, Open play)" minute="48" period="2" second="38" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Neil Taylor blocks a shot" minute="47" period="2" second="43" time="50" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (18-yard box, Left footed, Open play)" minute="47" period="2" second="43" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Diving)" minute="42" period="1" second="25" time="42" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="42" period="1" second="25" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="35" period="1" second="27" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Left footed, From corner)" minute="34" period="1" second="52" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="34" period="1" second="28" time="34" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony recieves a yellow card" minute="33" period="1" second="54" time="33" type="card received" type_id="17"/>
+	<message comment="Bacary Sagna misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="31" period="1" second="54" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Left footed, Set piece)" minute="30" period="1" second="52" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Head, From corner)" minute="27" period="1" second="54" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="27" period="1" second="23" time="27" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="25" period="1" second="21" time="25" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="40" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla blocks a shot" minute="22" period="1" second="40" time="22" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="22" period="1" second="1" time="22" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="19" period="1" second="9" time="19" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey blocks a shot" minute="19" period="1" second="7" time="19" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" minute="19" period="1" second="7" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker misses attempt (6-yard box, Head, From corner)" minute="18" period="1" second="5" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="17" period="1" second="41" time="17" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="GOAL! Wilfried Bony scores , Assisted by Neil Taylor (Low to the left, 18-yard box, Head, Open play)" minute="10" period="1" second="23" time="10" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="3" period="1" second="37" time="3" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Standing)" minute="3" period="1" second="34" time="3" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has attempt saved (Low to the right, Out of box, Right footed, Set piece)" minute="3" period="1" second="34" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

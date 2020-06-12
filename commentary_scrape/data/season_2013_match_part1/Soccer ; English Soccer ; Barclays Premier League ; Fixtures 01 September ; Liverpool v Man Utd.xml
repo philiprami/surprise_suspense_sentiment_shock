@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2013-09-01 13:30" game_id_2="27055697" game_id_4="110674407" home_team_name="Man Utd" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-01 15:06:11" minute="95" period="2" second="34" team="Man Utd" time="98" type="end" type_id="30"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" last_modified="2013-09-01 15:05:18" minute="94" period="2" second="41" team="Man Utd" time="97" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has attempt saved (High to the left, Out of box, Right footed, Open play)" last_modified="2013-09-01 15:05:16" minute="94" period="2" second="39" team="Man Utd" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save" last_modified="2013-09-01 15:05:16" minute="94" period="2" second="39" team="Liverpool" time="97" type="save made" type_id="10"/>
+	<message comment="Lucas Leiva recieves a yellow card" last_modified="2013-09-01 14:59:55" minute="89" period="2" second="18" team="Man Utd" time="92" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-01 14:58:19" minute="87" period="2" second="42" team="Man Utd" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand blocks a shot" last_modified="2013-09-01 14:58:19" minute="87" period="2" second="42" team="Liverpool" time="90" type="save made" type_id="10"/>
+	<message comment="Robin van Persie misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-09-01 14:57:34" minute="86" period="2" second="57" team="Liverpool" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho is substituted off" last_modified="2013-09-01 14:53:54" minute="83" period="2" second="17" team="Man Utd" time="86" type="substitution off" type_id="18"/>
+	<message comment="Luis Alberto is substituted on" last_modified="2013-09-01 14:53:54" minute="83" period="2" second="17" team="Man Utd" time="86" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save" last_modified="2013-09-01 14:52:12" minute="81" period="2" second="35" team="Man Utd" time="84" type="save made" type_id="10"/>
+	<message comment="Chicharito has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-09-01 14:52:12" minute="81" period="2" second="35" team="Liverpool" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson is substituted off" last_modified="2013-09-01 14:48:35" minute="77" period="2" second="58" team="Man Utd" time="80" type="substitution off" type_id="18"/>
+	<message comment="Andre Wisdom is substituted on" last_modified="2013-09-01 14:48:35" minute="77" period="2" second="58" team="Man Utd" time="80" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" last_modified="2013-09-01 14:46:49" minute="76" period="2" second="12" team="Man Utd" time="79" type="save made" type_id="10"/>
+	<message comment="Nani has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-09-01 14:46:49" minute="76" period="2" second="12" team="Liverpool" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Giggs is substituted off" last_modified="2013-09-01 14:43:03" minute="72" period="2" second="26" team="Liverpool" time="75" type="substitution off" type_id="18"/>
+	<message comment="Chicharito is substituted on" last_modified="2013-09-01 14:43:03" minute="72" period="2" second="26" team="Liverpool" time="75" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save (Standing)" last_modified="2013-09-01 14:38:41" minute="68" period="2" second="4" team="Man Utd" time="71" type="save made" type_id="10"/>
+	<message comment="Ryan Giggs has attempt saved (High to the centre, 18-yard box, Head, From corner)" last_modified="2013-09-01 14:38:41" minute="68" period="2" second="4" team="Liverpool" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Nani wins a corner (To the left)" last_modified="2013-09-01 14:38:21" minute="67" period="2" second="44" team="Liverpool" time="70" type="corner" type_id="6"/>
+	<message comment="Ashley Young is substituted off" last_modified="2013-09-01 14:32:56" minute="62" period="2" second="19" team="Liverpool" time="65" type="substitution off" type_id="18"/>
+	<message comment="Nani is substituted on" last_modified="2013-09-01 14:32:56" minute="62" period="2" second="19" team="Liverpool" time="65" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge is caught offside" last_modified="2013-09-01 14:32:37" minute="62" period="2" team="Man Utd" time="65" type="offside" type_id="10000"/>
+	<message comment="Iago Aspas is substituted off" last_modified="2013-09-01 14:30:32" minute="59" period="2" second="55" team="Man Utd" time="62" type="substitution off" type_id="18"/>
+	<message comment="Raheem Sterling is substituted on" last_modified="2013-09-01 14:30:32" minute="59" period="2" second="55" team="Man Utd" time="62" type="substitution on" type_id="19"/>
+	<message comment="Ashley Young recieves a yellow card" last_modified="2013-09-01 14:29:30" minute="58" period="2" second="53" team="Liverpool" time="61" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel blocks a shot" last_modified="2013-09-01 14:26:46" minute="56" period="2" second="9" team="Man Utd" time="59" type="save made" type_id="10"/>
+	<message comment="Patrice Evra has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-01 14:26:46" minute="56" period="2" second="9" team="Liverpool" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" last_modified="2013-09-01 14:23:05" minute="52" period="2" second="28" team="Liverpool" time="55" type="corner" type_id="6"/>
+	<message comment="Glen Johnson blocks a shot" last_modified="2013-09-01 14:21:15" minute="50" period="2" second="38" team="Man Utd" time="53" type="save made" type_id="10"/>
+	<message comment="Ashley Young has shot blocked (Out of box, Right footed, From corner)" last_modified="2013-09-01 14:21:15" minute="50" period="2" second="38" team="Liverpool" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick wins a corner (To the right)" last_modified="2013-09-01 14:20:52" minute="50" period="2" second="15" team="Liverpool" time="53" type="corner" type_id="6"/>
+	<message comment="Robin van Persie wins a corner (To the left)" last_modified="2013-09-01 14:20:30" minute="49" period="2" second="53" team="Liverpool" time="52" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" last_modified="2013-09-01 14:20:28" minute="49" period="2" second="51" team="Man Utd" time="52" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-01 14:20:28" minute="49" period="2" second="51" team="Liverpool" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger misses attempt (High to the right, 18-yard box, Other body part, Set piece)" last_modified="2013-09-01 14:19:15" minute="48" period="2" second="38" team="Man Utd" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Giggs wins a corner (To the left)" last_modified="2013-09-01 14:17:00" minute="46" period="2" second="23" team="Liverpool" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-09-01 14:15:37" minute="45" period="2" second="0" team="Man Utd" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-01 14:18:04" minute="47" period="1" second="27" team="Man Utd" time="47" type="end" type_id="30"/>
+	<message comment="Michael Carrick recieves a yellow card" last_modified="2013-09-01 14:11:31" minute="40" period="1" second="54" team="Liverpool" time="40" type="card received" type_id="17"/>
+	<message comment="Robin van Persie recieves a yellow card" last_modified="2013-09-01 14:09:12" minute="38" period="1" second="35" team="Liverpool" time="38" type="card received" type_id="17"/>
+	<message comment="Phil Jones is substituted off" last_modified="2013-09-01 14:07:37" minute="37" period="1" second="0" team="Liverpool" time="37" type="substitution off" type_id="18"/>
+	<message comment="Luis Antonio Valencia is substituted on" last_modified="2013-09-01 14:07:37" minute="37" period="1" second="0" team="Liverpool" time="37" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho misses attempt (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-09-01 14:06:20" minute="35" period="1" second="43" team="Man Utd" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Iago Aspas recieves a yellow card" last_modified="2013-09-01 14:05:07" minute="34" period="1" second="30" team="Man Utd" time="34" type="card received" type_id="17"/>
+	<message comment="Tom Cleverley recieves a yellow card" last_modified="2013-09-01 14:04:39" minute="34" period="1" second="2" team="Liverpool" time="34" type="card received" type_id="17"/>
+	<message comment="David de Gea makes a save (Diving)" last_modified="2013-09-01 13:57:27" minute="26" period="1" second="50" team="Liverpool" time="26" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the left, Out of box, Right footed, Free kick)" last_modified="2013-09-01 13:57:27" minute="26" period="1" second="50" team="Man Utd" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Standing)" last_modified="2013-09-01 13:51:28" minute="20" period="1" second="51" team="Liverpool" time="20" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2013-09-01 13:51:28" minute="20" period="1" second="51" team="Man Utd" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Giggs wins a corner (To the right)" last_modified="2013-09-01 13:45:25" minute="14" period="1" second="48" team="Liverpool" time="14" type="corner" type_id="6"/>
+	<message comment="Glen Johnson blocks a shot" last_modified="2013-09-01 13:45:15" minute="14" period="1" second="38" team="Man Utd" time="14" type="save made" type_id="10"/>
+	<message comment="Danny Welbeck has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-01 13:45:15" minute="14" period="1" second="38" team="Liverpool" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Young wins a corner (To the left)" last_modified="2013-09-01 13:41:51" minute="11" period="1" second="14" team="Liverpool" time="11" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-09-01 13:40:18" minute="9" period="1" second="41" team="Man Utd" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save" last_modified="2013-09-01 13:40:18" minute="9" period="1" second="41" team="Liverpool" time="9" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Collected)" last_modified="2013-09-01 13:39:44" minute="9" period="1" second="7" team="Man Utd" time="9" type="save made" type_id="10"/>
+	<message comment="Danny Welbeck has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-09-01 13:39:44" minute="9" period="1" second="7" team="Liverpool" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-09-01 13:30:37" minute="0" period="14" second="0" team="Man Utd" time="8" type="end" type_id="30"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-09-01 13:37:13" minute="6" period="1" second="36" team="Man Utd" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie misses attempt (High, 6-yard box, Left footed, Set piece)" last_modified="2013-09-01 13:36:10" minute="5" period="1" second="33" team="Liverpool" time="5" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Daniel Agger (Low to the left, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-09-01 13:33:42" minute="3" period="1" second="5" team="Man Utd" time="3" type="goal scored" type_id="16"/>
+	<message comment="Daniel Agger has shot blocked (18-yard box, Key pass, Head, From corner)" last_modified="2013-09-01 13:33:41" minute="3" period="1" second="4" team="Man Utd" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" last_modified="2013-09-01 13:33:13" minute="2" period="1" second="36" team="Man Utd" time="2" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-01 13:33:12" minute="2" period="1" second="35" team="Man Utd" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand blocks a shot" last_modified="2013-09-01 13:33:12" minute="2" period="1" second="35" team="Liverpool" time="2" type="save made" type_id="10"/>
+	<message comment="First half begins!" last_modified="2013-09-01 13:30:37" minute="0" period="1" second="0" team="Man Utd" time="0" type="start" type_id="32"/>
+</Commentary>

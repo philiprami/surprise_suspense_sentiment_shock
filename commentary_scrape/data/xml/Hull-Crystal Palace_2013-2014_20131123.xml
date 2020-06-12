@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Hull" competition="English Premier League" game_date="2013-11-23" home_team_name="Crystal Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="8" time="98" type="end" type_id="30"/>
+	<message comment="Stuart O'Keefe blocks a shot" minute="93" period="2" second="47" time="97" type="save made" type_id="10"/>
+	<message comment="Liam Rosenior has shot blocked (Out of box, Right footed, From corner)" minute="93" period="2" second="47" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="George Boyd wins a corner (To the left)" minute="93" period="2" second="28" time="97" type="corner" type_id="6"/>
+	<message comment="Dean Moxey blocks a shot" minute="93" period="2" second="24" time="97" type="save made" type_id="10"/>
+	<message comment="George Boyd has shot blocked (18-yard box, Left footed, From corner)" minute="93" period="2" second="24" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Jake Livermore hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="93" period="2" second="22" time="97" type="woodwork hit" type_id="14"/>
+	<message comment="Gedo has shot blocked (6-yard box, Right footed, From corner)" minute="93" period="2" second="17" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="92" period="2" second="59" time="96" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Left footed, Open play)" minute="92" period="2" second="45" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Jake Livermore misses attempt (To the left, Out of box, Right footed, Open play)" minute="91" period="2" second="2" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Gayle is substituted off" minute="85" period="2" second="24" time="89" type="substitution off" type_id="18"/>
+	<message comment="Jason Puncheon is substituted on" minute="85" period="2" second="24" time="89" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="83" period="2" second="53" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Julian Speroni makes a save (Standing, Collected)" minute="83" period="2" second="53" time="87" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="24" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Mile Jedinak blocks a shot" minute="83" period="2" second="24" time="87" type="save made" type_id="10"/>
+	<message comment="GOAL! Barry Bannan scores , Assisted by Cameron Jerome (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="80" period="2" second="32" time="84" type="goal scored" type_id="16"/>
+	<message comment="Yannick Bolasie recieves a red card" minute="77" period="2" second="47" time="81" type="card received" type_id="17"/>
+	<message comment="Gedo is substituted on" minute="76" period="2" second="50" time="80" type="substitution on" type_id="19"/>
+	<message comment="Robert Koren is substituted off" minute="76" period="2" second="49" time="80" type="substitution off" type_id="18"/>
+	<message comment="George Boyd misses attempt (To the right, Out of box, Left footed, Open play)" minute="75" period="2" second="41" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Kagisho Dikgacoi is substituted off" minute="74" period="2" second="56" time="78" type="substitution off" type_id="18"/>
+	<message comment="Stuart O'Keefe is substituted on" minute="74" period="2" second="56" time="78" type="substitution on" type_id="19"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="70" period="2" second="18" time="74" type="corner" type_id="6"/>
+	<message comment="Robert Koren wins a corner (To the right)" minute="68" period="2" second="21" time="72" type="corner" type_id="6"/>
+	<message comment="Robert Koren has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="19" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Mile Jedinak blocks a shot" minute="68" period="2" second="19" time="72" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome misses attempt (High, Out of box, Right footed, Open play)" minute="66" period="2" second="58" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone recieves a yellow card" minute="65" period="2" second="5" time="69" type="card received" type_id="17"/>
+	<message comment="Yannick Bolasie misses attempt (Out of box, Right footed, Open play)" minute="65" period="2" second="2" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Gayle misses attempt (High to the right, Out of box, Right footed, Open play)" minute="63" period="2" second="31" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Robert Koren wins a corner (To the right)" minute="61" period="2" second="56" time="65" type="corner" type_id="6"/>
+	<message comment="Paul McShane is substituted off" minute="57" period="2" second="54" time="61" type="substitution off" type_id="18"/>
+	<message comment="Liam Rosenior is substituted on" minute="57" period="2" second="54" time="61" type="substitution on" type_id="19"/>
+	<message comment="Dwight Gayle has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="57" period="2" second="13" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Allan McGregor makes a save (Diving, Collected)" minute="57" period="2" second="13" time="61" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Left footed, Open play)" minute="55" period="2" second="45" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome wins a corner (To the left)" minute="54" period="2" second="52" time="58" type="corner" type_id="6"/>
+	<message comment="Kagisho Dikgacoi recieves a yellow card" minute="53" period="2" second="34" time="57" type="card received" type_id="17"/>
+	<message comment="Julian Speroni makes a save (Parried safe, Other body part)" minute="51" period="2" second="26" time="55" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="51" period="2" second="26" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="8" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" minute="47" period="2" second="56" time="51" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="Robbie Brady is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="48" period="1" second="40" time="48" type="end" type_id="30"/>
+	<message comment="Ahmed El Mohamady recieves a yellow card" minute="47" period="1" second="49" time="47" type="card received" type_id="17"/>
+	<message comment="Paul McShane wins a corner (To the right)" minute="46" period="1" second="12" time="46" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone wins a corner (To the right)" minute="45" period="1" second="29" time="45" type="corner" type_id="6"/>
+	<message comment="Joel Ward blocks a shot" minute="40" period="1" second="32" time="40" type="save made" type_id="10"/>
+	<message comment="George Boyd has shot blocked (18-yard box, Left footed, Open play)" minute="40" period="1" second="32" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome is substituted on" minute="35" period="1" second="40" time="35" type="substitution on" type_id="19"/>
+	<message comment="Marouane Chamakh is substituted off" minute="35" period="1" second="40" time="35" type="substitution off" type_id="18"/>
+	<message comment="Dwight Gayle has shot blocked (Out of box, Right footed, From corner)" minute="32" period="1" second="14" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="32" period="1" second="14" time="32" type="save made" type_id="10"/>
+	<message comment="Barry Bannan wins a corner (To the left)" minute="31" period="1" second="43" time="31" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" minute="31" period="1" second="2" time="31" type="corner" type_id="6"/>
+	<message comment="George Boyd is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="28" period="1" second="48" time="28" type="corner" type_id="6"/>
+	<message comment="Curtis Davies has shot blocked (18-yard box, Head, Set piece)" minute="25" period="1" second="2" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Dean Moxey blocks a shot" minute="25" period="1" second="2" time="25" type="save made" type_id="10"/>
+	<message comment="Yannick Bolasie has shot blocked (18-yard box, Right footed, Open play)" minute="23" period="1" second="6" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa blocks a shot" minute="23" period="1" second="6" time="23" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Curtis Davies wins a corner (To the left)" minute="19" period="1" second="8" time="19" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="18" period="1" second="30" time="18" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="17" period="1" second="33" time="17" type="attempt missed" type_id="13"/>
+	<message comment="George Boyd wins a corner (To the left)" minute="16" period="1" second="17" time="16" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Yannick Bolasie has shot blocked (Out of box, Right footed, Open play)" minute="8" period="1" second="9" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Jake Livermore blocks a shot" minute="8" period="1" second="9" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

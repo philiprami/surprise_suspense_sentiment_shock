@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2014-01-11 15:00" game_id_2="27123746" game_id_4="112355336" home_team_name="West Ham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-11 16:35:39" minute="94" period="2" second="16" team="West Ham" time="105" type="end" type_id="30"/>
+	<message comment="GOAL! Mark Noble scores , Assisted by Andy Carroll (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-01-11 16:33:59" minute="92" period="2" second="36" team="Cardiff" time="103" type="goal scored" type_id="16"/>
+	<message comment="Andreas Cornelius misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2014-01-11 16:33:11" minute="91" period="2" second="48" team="West Ham" time="102" type="attempt missed" type_id="13"/>
+	<message comment="Adrián makes a save (Standing)" last_modified="2014-01-11 16:32:13" minute="90" period="2" second="50" team="Cardiff" time="101" type="save made" type_id="10"/>
+	<message comment="Kim Bo-Kyung has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:32:13" minute="90" period="2" second="50" team="West Ham" time="101" type="attempt blocked" type_id="15"/>
+	<message comment="Alou Diarra recieves a yellow card" last_modified="2014-01-11 16:31:06" minute="89" period="2" second="43" team="Cardiff" time="100" type="card received" type_id="17"/>
+	<message comment="Stewart Downing wins a corner (To the left)" last_modified="2014-01-11 16:29:54" minute="88" period="2" second="31" team="Cardiff" time="99" type="corner" type_id="6"/>
+	<message comment="Adrián makes a save (Standing)" last_modified="2014-01-11 16:26:56" minute="85" period="2" second="33" team="Cardiff" time="96" type="save made" type_id="10"/>
+	<message comment="Magnus Wolff Eikrem has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:26:56" minute="85" period="2" second="33" team="West Ham" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Noone wins a corner (To the left)" last_modified="2014-01-11 16:24:59" minute="83" period="2" second="36" team="West Ham" time="94" type="corner" type_id="6"/>
+	<message comment="Mark Noble blocks a shot" last_modified="2014-01-11 16:24:42" minute="83" period="2" second="19" team="Cardiff" time="94" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-11 16:24:42" minute="83" period="2" second="19" team="West Ham" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Adrián makes a save (Collected)" last_modified="2014-01-11 16:22:28" minute="81" period="2" second="5" team="Cardiff" time="92" type="save made" type_id="10"/>
+	<message comment="Craig Bellamy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:22:28" minute="81" period="2" second="5" team="West Ham" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Hudson is substituted off" last_modified="2014-01-11 16:18:58" minute="77" period="2" second="35" team="West Ham" time="88" type="substitution off" type_id="18"/>
+	<message comment="Andreas Cornelius is substituted on" last_modified="2014-01-11 16:18:58" minute="77" period="2" second="35" team="West Ham" time="88" type="substitution on" type_id="19"/>
+	<message comment="Craig Bellamy misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:18:34" minute="77" period="2" second="11" team="West Ham" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Jack Collison is substituted off" last_modified="2014-01-11 16:16:20" minute="74" period="2" second="57" team="Cardiff" time="85" type="substitution off" type_id="18"/>
+	<message comment="Alou Diarra is substituted on" last_modified="2014-01-11 16:16:20" minute="74" period="2" second="57" team="Cardiff" time="85" type="substitution on" type_id="19"/>
+	<message comment="James Tomkins recieves a red card after receiving second yellow card" last_modified="2014-01-11 16:13:03" minute="71" period="2" second="40" team="Cardiff" time="82" type="card received" type_id="17"/>
+	<message comment="Carlton Cole is substituted off" last_modified="2014-01-11 16:12:31" minute="71" period="2" second="8" team="Cardiff" time="82" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" last_modified="2014-01-11 16:12:31" minute="71" period="2" second="8" team="Cardiff" time="82" type="substitution on" type_id="19"/>
+	<message comment="Craig Bellamy misses attempt (Out of box, Right footed, Free kick)" last_modified="2014-01-11 16:11:45" minute="70" period="2" second="22" team="West Ham" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Roger Johnson recieves a yellow card" last_modified="2014-01-11 16:10:55" minute="69" period="2" second="32" team="Cardiff" time="80" type="card received" type_id="17"/>
+	<message comment="Jack Collison misses attempt (High, 18-yard box, Left footed, Open play)" last_modified="2014-01-11 16:08:43" minute="67" period="2" second="20" team="Cardiff" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker misses attempt (To the right, 6-yard box, Head, From corner)" last_modified="2014-01-11 16:07:54" minute="66" period="2" second="31" team="West Ham" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the left)" last_modified="2014-01-11 16:07:31" minute="66" period="2" second="8" team="West Ham" time="77" type="corner" type_id="6"/>
+	<message comment="Gary Medel is substituted off" last_modified="2014-01-11 16:05:37" minute="64" period="2" second="14" team="West Ham" time="75" type="substitution off" type_id="18"/>
+	<message comment="Magnus Wolff Eikrem is substituted on" last_modified="2014-01-11 16:05:37" minute="64" period="2" second="14" team="West Ham" time="75" type="substitution on" type_id="19"/>
+	<message comment="Matthew Jarvis misses attempt (Out of box, Right footed, Open play)" last_modified="2014-01-11 16:05:05" minute="63" period="2" second="42" team="Cardiff" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Adrián makes a save (Standing)" last_modified="2014-01-11 16:04:10" minute="62" period="2" second="47" team="Cardiff" time="73" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-11 16:04:10" minute="62" period="2" second="47" team="West Ham" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="James Tomkins recieves a yellow card" last_modified="2014-01-11 16:01:53" minute="60" period="2" second="30" team="Cardiff" time="71" type="card received" type_id="17"/>
+	<message comment="Adrián makes a save (Collected)" last_modified="2014-01-11 16:00:36" minute="59" period="2" second="13" team="Cardiff" time="70" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-01-11 16:00:36" minute="59" period="2" second="13" team="West Ham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker wins a corner (To the left)" last_modified="2014-01-11 15:59:30" minute="58" period="2" second="7" team="West Ham" time="69" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2014-01-11 15:59:03" minute="57" period="2" second="40" team="West Ham" time="68" type="corner" type_id="6"/>
+	<message comment="Adrián makes a save" last_modified="2014-01-11 15:59:00" minute="57" period="2" second="37" team="Cardiff" time="68" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-11 15:59:00" minute="57" period="2" second="37" team="West Ham" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Medel wins a corner (To the left)" last_modified="2014-01-11 15:57:35" minute="56" period="2" second="12" team="West Ham" time="67" type="corner" type_id="6"/>
+	<message comment="Jack Collison blocks a shot" last_modified="2014-01-11 15:57:32" minute="56" period="2" second="9" team="Cardiff" time="67" type="save made" type_id="10"/>
+	<message comment="Gary Medel has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-11 15:57:32" minute="56" period="2" second="9" team="West Ham" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell is caught offside" last_modified="2014-01-11 15:55:23" minute="54" period="2" team="West Ham" time="65" type="offside" type_id="10000"/>
+	<message comment="Steven Caulker misses attempt (To the left, 18-yard box, Head, Set piece)" last_modified="2014-01-11 15:55:10" minute="53" period="2" second="47" team="West Ham" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Jarvis misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:54:07" minute="52" period="2" second="44" team="Cardiff" time="63" type="attempt missed" type_id="13"/>
+	<message comment="George McCartney recieves a yellow card" last_modified="2014-01-11 15:50:40" minute="49" period="2" second="17" team="Cardiff" time="60" type="card received" type_id="17"/>
+	<message comment="Matthew Taylor wins a corner (To the right)" last_modified="2014-01-11 15:49:31" minute="48" period="2" second="8" team="Cardiff" time="59" type="corner" type_id="6"/>
+	<message comment="Mark Hudson misses attempt (High, 18-yard box, Head, Set piece)" last_modified="2014-01-11 15:48:35" minute="47" period="2" second="12" team="West Ham" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is substituted off" last_modified="2014-01-11 15:46:23" minute="45" period="2" second="0" team="West Ham" time="56" type="substitution off" type_id="18"/>
+	<message comment="Craig Bellamy is substituted on" last_modified="2014-01-11 15:46:23" minute="45" period="2" second="0" team="West Ham" time="56" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-01-11 15:46:23" minute="45" period="2" second="0" team="West Ham" time="56" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-11 15:56:33" minute="55" period="1" second="10" team="West Ham" time="55" type="end" type_id="30"/>
+	<message comment="Gary Medel recieves a yellow card" last_modified="2014-01-11 15:55:37" minute="54" period="1" second="14" team="West Ham" time="54" type="card received" type_id="17"/>
+	<message comment="Matthew Taylor misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-11 15:53:29" minute="52" period="1" second="6" team="Cardiff" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Carlton Cole wins a corner (To the left)" last_modified="2014-01-11 15:51:22" minute="49" period="1" second="59" team="Cardiff" time="49" type="corner" type_id="6"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the right)" last_modified="2014-01-11 15:46:07" minute="44" period="1" second="44" team="West Ham" time="44" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-01-11 15:44:04" minute="42" period="1" second="41" team="Cardiff" time="42" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Carlton Cole scores , Assisted by Matthew Jarvis (High to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-11 15:42:25" minute="41" period="1" second="2" team="Cardiff" time="41" type="goal scored" type_id="16"/>
+	<message comment="Adrián makes a save (Diving, Parried safe)" last_modified="2014-01-11 15:41:14" minute="39" period="1" second="51" team="Cardiff" time="39" type="save made" type_id="10"/>
+	<message comment="Craig Noone has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2014-01-11 15:41:14" minute="39" period="1" second="51" team="West Ham" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2014-01-11 15:35:53" minute="34" period="1" second="30" team="Cardiff" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Taylor wins a corner (To the right)" last_modified="2014-01-11 15:35:26" minute="34" period="1" second="3" team="Cardiff" time="34" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" last_modified="2014-01-11 15:32:47" minute="31" period="1" second="24" team="Cardiff" time="31" type="save made" type_id="10"/>
+	<message comment="Kim Bo-Kyung has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-11 15:32:47" minute="31" period="1" second="24" team="West Ham" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell misses attempt (High, 18-yard box, Big Chance, Head, Open play)" last_modified="2014-01-11 15:31:44" minute="30" period="1" second="21" team="West Ham" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" last_modified="2014-01-11 15:30:16" minute="28" period="1" second="53" team="West Ham" time="28" type="corner" type_id="6"/>
+	<message comment="Mark Noble misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:27:27" minute="26" period="1" second="4" team="Cardiff" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Mark Hudson misses attempt (High, 18-yard box, Head, From corner)" last_modified="2014-01-11 15:26:13" minute="24" period="1" second="50" team="West Ham" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Craig Noone wins a corner (To the left)" last_modified="2014-01-11 15:25:45" minute="24" period="1" second="22" team="West Ham" time="24" type="corner" type_id="6"/>
+	<message comment="George McCartney blocks a shot" last_modified="2014-01-11 15:25:42" minute="24" period="1" second="19" team="Cardiff" time="24" type="save made" type_id="10"/>
+	<message comment="Craig Noone has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-01-11 15:25:42" minute="24" period="1" second="19" team="West Ham" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Carlton Cole is caught offside" last_modified="2014-01-11 15:18:23" minute="17" period="1" team="Cardiff" time="17" type="offside" type_id="10000"/>
+	<message comment="Guy Demel is substituted off" last_modified="2014-01-11 15:17:55" minute="16" period="1" second="32" team="Cardiff" time="16" type="substitution off" type_id="18"/>
+	<message comment="George McCartney is substituted on" last_modified="2014-01-11 15:17:55" minute="16" period="1" second="32" team="Cardiff" time="16" type="substitution on" type_id="19"/>
+	<message comment="Formation Set" last_modified="2014-01-11 15:01:23" minute="0" period="14" second="0" team="West Ham" time="15" type="end" type_id="30"/>
+	<message comment="Jack Collison wins a corner (To the right)" last_modified="2014-01-11 15:06:22" minute="4" period="1" second="59" team="Cardiff" time="4" type="corner" type_id="6"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" last_modified="2014-01-11 15:05:42" minute="4" period="1" second="19" team="Cardiff" time="4" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried into danger, Diving)" last_modified="2014-01-11 15:04:50" minute="3" period="1" second="27" team="West Ham" time="3" type="save made" type_id="10"/>
+	<message comment="James Tomkins has attempt saved (Low to the centre, 6-yard box, Right footed, Open play)" last_modified="2014-01-11 15:04:50" minute="3" period="1" second="27" team="Cardiff" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Collison wins a corner (To the right)" last_modified="2014-01-11 15:04:14" minute="2" period="1" second="51" team="Cardiff" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2014-01-11 15:01:23" minute="0" period="1" second="0" team="West Ham" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2014-05-04 16:00" game_id_2="27174946" game_id_4="113424939" home_team_name="Norwich" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-05-04 17:33:38" minute="93" period="2" second="30" team="Norwich" time="96" type="end" type_id="30"/>
+	<message comment="John Terry misses attempt (18-yard box, Head, Open play)" last_modified="2014-05-04 17:33:33" minute="93" period="2" second="25" team="Norwich" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Martin Olsson recieves a yellow card" last_modified="2014-05-04 17:32:27" minute="92" period="2" second="19" team="Chelsea" time="95" type="card received" type_id="17"/>
+	<message comment="Bradley Johnson has attempt saved (Low to the centre, 18-yard box, Head, Throw-in)" last_modified="2014-05-04 17:30:28" minute="90" period="2" second="20" team="Chelsea" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" last_modified="2014-05-04 17:30:28" minute="90" period="2" second="20" team="Norwich" time="93" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic misses attempt (High, Out of box, Right footed, Open play)" last_modified="2014-05-04 17:29:27" minute="89" period="2" second="19" team="Norwich" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba misses attempt (High to the left, 18-yard box, Head, Set piece)" last_modified="2014-05-04 17:26:44" minute="86" period="2" second="36" team="Norwich" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Michael Turner recieves a yellow card" last_modified="2014-05-04 17:26:16" minute="86" period="2" second="8" team="Chelsea" time="89" type="card received" type_id="17"/>
+	<message comment="Willian has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-04 17:24:18" minute="84" period="2" second="10" team="Norwich" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard is caught offside" last_modified="2014-05-04 17:24:08" minute="84" period="2" team="Norwich" time="87" type="offside" type_id="10000"/>
+	<message comment="André Schürrle wins a corner (To the left)" last_modified="2014-05-04 17:19:46" minute="79" period="2" second="38" team="Norwich" time="82" type="corner" type_id="6"/>
+	<message comment="Steven Whittaker blocks a shot" last_modified="2014-05-04 17:19:44" minute="79" period="2" second="36" team="Chelsea" time="82" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-05-04 17:19:44" minute="79" period="2" second="36" team="Norwich" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-05-04 17:18:24" minute="78" period="2" second="16" team="Norwich" time="81" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save (Diving, Parried into danger)" last_modified="2014-05-04 17:18:21" minute="78" period="2" second="13" team="Chelsea" time="81" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-05-04 17:18:21" minute="78" period="2" second="13" team="Norwich" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba is caught offside" last_modified="2014-05-04 17:17:08" minute="77" period="2" team="Norwich" time="80" type="offside" type_id="10000"/>
+	<message comment="Nemanja Matic is substituted off" last_modified="2014-05-04 17:12:30" minute="72" period="2" second="22" team="Norwich" time="75" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" last_modified="2014-05-04 17:12:30" minute="72" period="2" second="22" team="Norwich" time="75" type="substitution on" type_id="19"/>
+	<message comment="Nathan Redmond has attempt saved (Low to the left, Out of box, Right footed, From corner)" last_modified="2014-05-04 17:11:38" minute="71" period="2" second="30" team="Chelsea" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Standing)" last_modified="2014-05-04 17:11:38" minute="71" period="2" second="30" team="Norwich" time="74" type="save made" type_id="10"/>
+	<message comment="Robert Snodgrass wins a corner (To the right)" last_modified="2014-05-04 17:11:00" minute="70" period="2" second="52" team="Chelsea" time="73" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass has shot blocked (18-yard box, Right footed, Fast break)" last_modified="2014-05-04 17:10:58" minute="70" period="2" second="50" team="Chelsea" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2014-05-04 17:10:58" minute="70" period="2" second="50" team="Norwich" time="73" type="save made" type_id="10"/>
+	<message comment="Johan Elmander is substituted off" last_modified="2014-05-04 17:09:05" minute="68" period="2" second="57" team="Chelsea" time="71" type="substitution off" type_id="18"/>
+	<message comment="Nathan Redmond is substituted on" last_modified="2014-05-04 17:09:05" minute="68" period="2" second="57" team="Chelsea" time="71" type="substitution on" type_id="19"/>
+	<message comment="Willian misses attempt (High, 18-yard box, Left footed, Open play)" last_modified="2014-05-04 17:08:19" minute="68" period="2" second="11" team="Norwich" time="71" type="attempt missed" type_id="13"/>
+	<message comment="David Luiz misses attempt (High, 18-yard box, Right footed, From corner)" last_modified="2014-05-04 17:06:35" minute="66" period="2" second="27" team="Norwich" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Nemanja Matic wins a corner (To the right)" last_modified="2014-05-04 17:06:14" minute="66" period="2" second="6" team="Norwich" time="69" type="corner" type_id="6"/>
+	<message comment="Michael Turner blocks a shot" last_modified="2014-05-04 17:06:11" minute="66" period="2" second="3" team="Chelsea" time="69" type="save made" type_id="10"/>
+	<message comment="Nemanja Matic has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 17:06:11" minute="66" period="2" second="3" team="Norwich" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Tettey blocks a shot" last_modified="2014-05-04 17:06:10" minute="66" period="2" second="2" team="Chelsea" time="69" type="save made" type_id="10"/>
+	<message comment="Nemanja Matic has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 17:06:10" minute="66" period="2" second="2" team="Norwich" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" last_modified="2014-05-04 17:05:08" minute="65" period="2" second="0" team="Chelsea" time="68" type="save made" type_id="10"/>
+	<message comment="Ashley Cole has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-05-04 17:05:08" minute="65" period="2" second="0" team="Norwich" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" last_modified="2014-05-04 17:05:03" minute="64" period="2" second="55" team="Chelsea" time="67" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-04 17:05:03" minute="64" period="2" second="55" team="Norwich" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Bennett recieves a yellow card" last_modified="2014-05-04 16:59:56" minute="59" period="2" second="48" team="Chelsea" time="62" type="card received" type_id="17"/>
+	<message comment="Jonny Howson blocks a shot" last_modified="2014-05-04 16:58:25" minute="58" period="2" second="17" team="Chelsea" time="61" type="save made" type_id="10"/>
+	<message comment="Willian has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-04 16:58:25" minute="58" period="2" second="17" team="Norwich" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" last_modified="2014-05-04 16:57:05" minute="56" period="2" second="57" team="Norwich" time="59" type="card received" type_id="17"/>
+	<message comment="John Terry is caught offside" last_modified="2014-05-04 16:56:08" minute="56" period="2" team="Norwich" time="59" type="offside" type_id="10000"/>
+	<message comment="David Luiz hits the woodwork (High, Out of box, Right footed, Open play)" last_modified="2014-05-04 16:47:48" minute="47" period="2" second="40" team="Norwich" time="50" type="woodwork hit" type_id="14"/>
+	<message comment="Mohamed Salah is substituted off" last_modified="2014-05-04 16:45:08" minute="45" period="2" second="0" team="Norwich" time="48" type="substitution off" type_id="18"/>
+	<message comment="Eden Hazard is substituted on" last_modified="2014-05-04 16:45:08" minute="45" period="2" second="0" team="Norwich" time="48" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard is substituted off" last_modified="2014-05-04 16:45:08" minute="45" period="2" second="0" team="Norwich" time="48" type="substitution off" type_id="18"/>
+	<message comment="David Luiz is substituted on" last_modified="2014-05-04 16:45:08" minute="45" period="2" second="0" team="Norwich" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-05-04 16:45:08" minute="45" period="2" second="0" team="Norwich" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-05-04 16:47:11" minute="47" period="1" second="3" team="Norwich" time="47" type="end" type_id="30"/>
+	<message comment="Nemanja Matic has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 16:45:53" minute="45" period="1" second="45" team="Norwich" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Willian misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-05-04 16:42:30" minute="42" period="1" second="22" team="Norwich" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Martin Olsson misses attempt (High, Out of box, Left footed, From corner)" last_modified="2014-05-04 16:41:14" minute="41" period="1" second="6" team="Chelsea" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Bradley Johnson wins a corner (To the left)" last_modified="2014-05-04 16:40:36" minute="40" period="1" second="28" team="Chelsea" time="40" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 16:40:35" minute="40" period="1" second="27" team="Chelsea" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" last_modified="2014-05-04 16:40:35" minute="40" period="1" second="27" team="Norwich" time="40" type="save made" type_id="10"/>
+	<message comment="Ashley Cole misses attempt (High, Out of box, Left footed, Open play)" last_modified="2014-05-04 16:37:05" minute="36" period="1" second="57" team="Norwich" time="36" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save (Diving)" last_modified="2014-05-04 16:34:37" minute="34" period="1" second="29" team="Chelsea" time="34" type="save made" type_id="10"/>
+	<message comment="André Schürrle has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2014-05-04 16:34:37" minute="34" period="1" second="29" team="Norwich" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle hits the woodwork (To the right, 18-yard box, Right footed, Open play)" last_modified="2014-05-04 16:31:37" minute="31" period="1" second="29" team="Norwich" time="31" type="woodwork hit" type_id="14"/>
+	<message comment="Demba Ba wins a corner (To the right)" last_modified="2014-05-04 16:30:58" minute="30" period="1" second="50" team="Norwich" time="30" type="corner" type_id="6"/>
+	<message comment="Martin Olsson is caught offside" last_modified="2014-05-04 16:29:08" minute="29" period="1" team="Chelsea" time="29" type="offside" type_id="10000"/>
+	<message comment="John Ruddy makes a save (Standing, Collected)" last_modified="2014-05-04 16:22:53" minute="22" period="1" second="45" team="Chelsea" time="22" type="save made" type_id="10"/>
+	<message comment="John Terry has attempt saved (Low to the centre, 18-yard box, Head, From corner)" last_modified="2014-05-04 16:22:53" minute="22" period="1" second="45" team="Norwich" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle wins a corner (To the right)" last_modified="2014-05-04 16:22:29" minute="22" period="1" second="21" team="Norwich" time="22" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" last_modified="2014-05-04 16:16:33" minute="16" period="1" second="25" team="Chelsea" time="16" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-05-04 16:16:33" minute="16" period="1" second="25" team="Norwich" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" last_modified="2014-05-04 16:10:18" minute="10" period="1" second="10" team="Norwich" time="10" type="save made" type_id="10"/>
+	<message comment="Martin Olsson has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2014-05-04 16:10:18" minute="10" period="1" second="10" team="Chelsea" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba is caught offside" last_modified="2014-05-04 16:06:08" minute="6" period="1" team="Norwich" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2014-05-04 16:00:08" minute="0" period="14" second="0" team="Norwich" time="6" type="end" type_id="30"/>
+	<message comment="Ashley Cole wins a corner (To the left)" last_modified="2014-05-04 16:05:08" minute="5" period="1" second="0" team="Norwich" time="5" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save" last_modified="2014-05-04 16:02:41" minute="2" period="1" second="33" team="Chelsea" time="2" type="save made" type_id="10"/>
+	<message comment="André Schürrle has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-05-04 16:02:41" minute="2" period="1" second="33" team="Norwich" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2014-05-04 16:00:08" minute="0" period="1" second="0" team="Norwich" time="0" type="start" type_id="32"/>
+</Commentary>

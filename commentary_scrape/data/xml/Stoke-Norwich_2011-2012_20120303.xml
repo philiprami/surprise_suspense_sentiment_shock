@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2012-03-03" home_team_name="Norwich" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="56" time="95" type="end" type_id="30"/>
+	<message comment="Elliott Bennett recieves a yellow card" minute="92" period="2" second="55" time="94" type="card received" type_id="17"/>
+	<message comment="Robert Huth blocks a shot" minute="91" period="2" second="39" time="93" type="save made" type_id="10"/>
+	<message comment="Grant Holt has shot blocked (18-yard box, Right footed, Open play)" minute="91" period="2" second="39" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Wilson wins a corner (To the left)" minute="90" period="2" second="47" time="92" type="corner" type_id="6"/>
+	<message comment="Kyle Naughton misses attempt (High to the right, Out of box, Right footed, Open play)" minute="89" period="2" second="39" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Dean Whitehead blocks a shot" minute="89" period="2" second="29" time="91" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="26" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Grant Holt wins a corner (To the left)" minute="84" period="2" second="44" time="86" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="83" period="2" second="42" time="85" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has shot blocked (18-yard box, Right footed, Fast break)" minute="83" period="2" second="40" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Wilbraham wins a corner (To the left)" minute="82" period="2" second="28" time="84" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson is substituted off" minute="78" period="2" second="43" time="80" type="substitution off" type_id="18"/>
+	<message comment="David Fox is substituted on" minute="78" period="2" second="43" time="80" type="substitution on" type_id="19"/>
+	<message comment="Simeon Jackson has shot blocked (Out of box, Right footed, Open play)" minute="77" period="2" second="12" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth blocks a shot" minute="77" period="2" second="12" time="79" type="save made" type_id="10"/>
+	<message comment="John Ruddy makes a save (Standing, Collected)" minute="75" period="2" second="59" time="77" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones misses attempt (To the left, 18-yard box, Head, Open play)" minute="75" period="2" second="53" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Wilbraham is substituted on" minute="74" period="2" second="41" time="76" type="substitution on" type_id="19"/>
+	<message comment="Jonny Howson is substituted off" minute="74" period="2" second="40" time="76" type="substitution off" type_id="18"/>
+	<message comment="GOAL! Matthew Etherington scores , Assisted by Cameron Jerome (Low to the left, 18-yard box, Left footed, Open play)" minute="71" period="2" second="39" time="73" type="goal scored" type_id="16"/>
+	<message comment="Peter Crouch is substituted off" minute="69" period="2" second="1" time="71" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="69" period="2" second="1" time="71" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters is substituted off" minute="68" period="2" second="51" time="70" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="68" period="2" second="51" time="70" type="substitution on" type_id="19"/>
+	<message comment="Asmir Begovic makes a save" minute="64" period="2" second="21" time="66" type="save made" type_id="10"/>
+	<message comment="Andrew Surman has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="64" period="2" second="21" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters is caught offside" minute="61" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Peter Crouch misses attempt (High to the left, 6-yard box, Head, From corner)" minute="59" period="2" second="36" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant wins a corner (To the right)" minute="59" period="2" second="12" time="61" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="57" period="2" second="44" time="59" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Collected)" minute="53" period="2" second="43" time="55" type="save made" type_id="10"/>
+	<message comment="Elliott Bennett has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="53" period="2" second="43" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="51" period="2" second="43" time="53" type="corner" type_id="6"/>
+	<message comment="Jermaine Pennant wins a corner (To the left)" minute="46" period="2" second="39" time="48" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="46" period="2" second="11" time="48" type="corner" type_id="6"/>
+	<message comment="Anthony Pilkington is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Simeon Jackson is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="24" time="46" type="end" type_id="30"/>
+	<message comment="John Ruddy makes a save (Standing, Parried into danger)" minute="42" period="1" second="17" time="42" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="42" period="1" second="17" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch misses attempt (To the right, 18-yard box, Head, Open play)" minute="42" period="1" second="16" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="30" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson blocks a shot" minute="37" period="1" second="30" time="37" type="save made" type_id="10"/>
+	<message comment="Grant Holt misses attempt (To the left, Out of box, Left footed, Set piece)" minute="34" period="1" second="33" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Grant Holt has attempt saved (High to the left, 18-yard box, Head, Set piece)" minute="29" period="1" second="41" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" minute="29" period="1" second="41" time="29" type="save made" type_id="10"/>
+	<message comment="Robert Huth misses attempt (High to the left, Out of box, Left footed, Open play)" minute="28" period="1" second="7" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="27" period="1" second="24" time="27" type="corner" type_id="6"/>
+	<message comment="Andy Wilkinson is substituted off" minute="24" period="1" second="45" time="24" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" minute="24" period="1" second="45" time="24" type="substitution on" type_id="19"/>
+	<message comment="Dean Whitehead has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="23" period="1" second="28" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Collected, Diving)" minute="23" period="1" second="28" time="23" type="save made" type_id="10"/>
+	<message comment="Jonny Howson recieves a yellow card" minute="20" period="1" second="31" time="20" type="card received" type_id="17"/>
+	<message comment="Robert Huth misses attempt (To the left, 18-yard box, Head, Open play)" minute="15" period="1" second="24" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters misses attempt (To the right, 18-yard box, Head, Open play)" minute="13" period="1" second="55" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="8" period="1" second="23" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Standing, Parried safe)" minute="8" period="1" second="23" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="0" period="1" second="11" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

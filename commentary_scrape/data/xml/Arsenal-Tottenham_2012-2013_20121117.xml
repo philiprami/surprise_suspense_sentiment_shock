@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2012-11-17" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="12" time="97" type="end" type_id="30"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="93" period="2" second="50" time="96" type="corner" type_id="6"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="93" period="2" second="17" time="96" type="corner" type_id="6"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Alex Oxlade-Chamberlain (Low to the left, 18-yard box, Right footed, Open play)" minute="90" period="2" second="39" time="93" type="goal scored" type_id="16"/>
+	<message comment="Gareth Bale blocks a shot" minute="86" period="2" second="34" time="89" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (18-yard box, Left footed, Open play)" minute="86" period="2" second="34" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is substituted off" minute="85" period="2" second="35" time="88" type="substitution off" type_id="18"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted on" minute="85" period="2" second="35" time="88" type="substitution on" type_id="19"/>
+	<message comment="Thomas Vermaelen misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="83" period="2" second="13" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is substituted off" minute="79" period="2" second="50" time="82" type="substitution off" type_id="18"/>
+	<message comment="André Santos is substituted on" minute="79" period="2" second="50" time="82" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski recieves a yellow card" minute="79" period="2" second="40" time="82" type="card received" type_id="17"/>
+	<message comment="Tom Carroll wins a corner (To the left)" minute="78" period="2" second="32" time="81" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="76" period="2" second="39" time="79" type="corner" type_id="6"/>
+	<message comment="Theo Walcott is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="72" period="2" second="48" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is caught offside" minute="71" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Jack Wilshere is substituted off" minute="70" period="2" second="51" time="73" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="70" period="2" second="51" time="73" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone is substituted off" minute="70" period="2" second="45" time="73" type="substitution off" type_id="18"/>
+	<message comment="Tom Carroll is substituted on" minute="70" period="2" second="45" time="73" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Sandro (Low to the left, Out of box, Right footed, Open play)" minute="70" period="2" second="3" time="73" type="goal scored" type_id="16"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="66" period="2" second="13" time="69" type="corner" type_id="6"/>
+	<message comment="Sandro recieves a yellow card" minute="65" period="2" second="47" time="68" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="64" period="2" second="30" time="67" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud misses attempt (High, Out of box, Left footed, Open play)" minute="61" period="2" second="0" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott has shot blocked (18-yard box, Right footed, Open play)" minute="60" period="2" second="29" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="60" period="2" second="29" time="63" type="save made" type_id="10"/>
+	<message comment="GOAL! Santi Cazorla scores , Assisted by Lukas Podolski (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="59" period="2" second="21" time="62" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="57" period="2" second="2" time="60" type="corner" type_id="6"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="50" period="2" second="25" time="53" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere is caught offside" minute="47" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="45" period="2" second="56" time="48" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" minute="45" period="2" second="29" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" minute="45" period="2" second="29" time="48" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Clint Dempsey is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Kyle Walker is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Michael Dawson is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="13" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Santi Cazorla (Low to the left, 18-yard box, Left footed, Set piece)" minute="45" period="1" second="17" time="45" type="goal scored" type_id="16"/>
+	<message comment="Aaron Lennon recieves a yellow card" minute="44" period="1" second="40" time="44" type="card received" type_id="17"/>
+	<message comment="GOAL! Lukas Podolski scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="41" period="1" second="1" time="41" type="goal scored" type_id="16"/>
+	<message comment="Hugo Lloris makes a save (Diving)" minute="39" period="1" second="28" time="39" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="39" period="1" second="28" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="33" period="1" second="54" time="33" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Left footed, Open play)" minute="31" period="1" second="15" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="30" period="1" second="31" time="30" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="30" period="1" second="29" time="30" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the right, 18-yard box, Head, Set piece)" minute="30" period="1" second="29" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="GOAL! Per Mertesacker scores , Assisted by Theo Walcott (High to the right, 18-yard box, Head, Open play)" minute="23" period="1" second="6" time="23" type="goal scored" type_id="16"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="22" period="1" second="43" time="22" type="save made" type_id="10"/>
+	<message comment="Thomas Vermaelen has shot blocked (18-yard box, Left footed, Open play)" minute="22" period="1" second="43" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="21" period="1" second="52" time="21" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor recieves a red card" minute="17" period="1" second="11" time="17" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon misses attempt (18-yard box, Right footed, Open play)" minute="12" period="1" second="28" time="12" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores  (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="9" period="1" second="49" time="9" type="goal scored" type_id="16"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="9" period="1" second="47" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried into danger)" minute="9" period="1" second="47" time="9" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Set piece)" minute="8" period="1" second="26" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="8" period="1" second="26" time="8" type="save made" type_id="10"/>
+	<message comment="William Gallas is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Theo Walcott is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

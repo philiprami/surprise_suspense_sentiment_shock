@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Queens Park Rangers" competition="English Premier League" game_date="2013-01-29" home_team_name="Manchester City" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="29" time="96" type="end" type_id="30"/>
+	<message comment="Stéphane Mbia is substituted off" minute="91" period="2" second="40" time="93" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Faurlin is substituted on" minute="91" period="2" second="40" time="93" type="substitution on" type_id="19"/>
+	<message comment="Loïc Rémy is substituted off" minute="91" period="2" second="32" time="93" type="substitution off" type_id="18"/>
+	<message comment="Bobby Zamora is substituted on" minute="91" period="2" second="32" time="93" type="substitution on" type_id="19"/>
+	<message comment="Adel Taarabt wins a corner (To the right)" minute="90" period="2" second="5" time="92" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Fast break)" minute="90" period="2" second="0" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Javi García blocks a shot" minute="90" period="2" second="0" time="92" type="save made" type_id="10"/>
+	<message comment="Esteban Granero is substituted off" minute="88" period="2" second="36" time="90" type="substitution off" type_id="18"/>
+	<message comment="Park Ji-Sung is substituted on" minute="88" period="2" second="36" time="90" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="87" period="2" second="53" time="89" type="attempt missed" type_id="13"/>
+	<message comment="James Milner is substituted off" minute="85" period="2" second="20" time="87" type="substitution off" type_id="18"/>
+	<message comment="Scott Sinclair is substituted on" minute="85" period="2" second="20" time="87" type="substitution on" type_id="19"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="84" period="2" second="7" time="86" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="84" period="2" second="7" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="83" period="2" second="15" time="85" type="card received" type_id="17"/>
+	<message comment="Julio César makes a save (Parried into danger, Standing, Other body part)" minute="82" period="2" second="40" time="84" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="82" period="2" second="40" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Esteban Granero misses attempt (High, Out of box, Right footed, Free kick)" minute="78" period="2" second="11" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Julio César makes a save (Collected)" minute="74" period="2" second="21" time="76" type="save made" type_id="10"/>
+	<message comment="James Milner has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="74" period="2" second="21" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is substituted off" minute="73" period="2" second="4" time="75" type="substitution off" type_id="18"/>
+	<message comment="Jack Rodwell is substituted on" minute="73" period="2" second="4" time="75" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Right footed, Open play)" minute="72" period="2" second="29" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (High, 6-yard box, Head, From corner)" minute="70" period="2" second="56" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="70" period="2" second="34" time="72" type="corner" type_id="6"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 18-yard box, Left footed, From corner)" minute="68" period="2" second="46" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Julio César makes a save (Diving)" minute="68" period="2" second="46" time="70" type="save made" type_id="10"/>
+	<message comment="Javi García wins a corner (To the left)" minute="68" period="2" second="5" time="70" type="corner" type_id="6"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="63" period="2" second="0" time="65" type="card received" type_id="17"/>
+	<message comment="Loïc Rémy misses attempt (18-yard box, Right footed, Open play)" minute="62" period="2" second="13" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (To the right, Out of box, Right footed, Open play)" minute="60" period="2" second="22" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri is substituted off" minute="58" period="2" second="2" time="60" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="58" period="2" second="2" time="60" type="substitution on" type_id="19"/>
+	<message comment="Esteban Granero recieves a yellow card" minute="57" period="2" second="27" time="59" type="card received" type_id="17"/>
+	<message comment="David Silva wins a corner (To the right)" minute="53" period="2" second="10" time="55" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="27" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="49" period="2" second="27" time="51" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="6" time="46" type="end" type_id="30"/>
+	<message comment="Samir Nasri misses attempt (Out of box, Right footed, Open play)" minute="43" period="1" second="24" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry wins a corner (To the left)" minute="42" period="1" second="8" time="42" type="corner" type_id="6"/>
+	<message comment="Julio César makes a save (Diving, Parried safe)" minute="42" period="1" second="0" time="42" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="42" period="1" second="0" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Mbia recieves a yellow card" minute="39" period="1" second="44" time="39" type="card received" type_id="17"/>
+	<message comment="Adel Taarabt has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="38" period="1" second="17" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe, Other body part)" minute="38" period="1" second="17" time="38" type="save made" type_id="10"/>
+	<message comment="David Silva wins a corner (To the left)" minute="37" period="1" second="28" time="37" type="corner" type_id="6"/>
+	<message comment="Esteban Granero blocks a shot" minute="36" period="1" second="6" time="36" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (Out of box, Right footed, Open play)" minute="36" period="1" second="6" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Derry blocks a shot" minute="34" period="1" second="29" time="34" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="34" period="1" second="29" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy wins a corner (To the left)" minute="24" period="1" second="20" time="24" type="corner" type_id="6"/>
+	<message comment="Loïc Rémy has shot blocked (18-yard box, Right footed, Set piece)" minute="24" period="1" second="16" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Javi García blocks a shot" minute="24" period="1" second="16" time="24" type="save made" type_id="10"/>
+	<message comment="Javi García misses attempt (Out of box, Right footed, Open play)" minute="21" period="1" second="53" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (To the right, Out of box, Right footed, Open play)" minute="19" period="1" second="13" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta hits the woodwork (High, 18-yard box, Big Chance, Head, Open play)" minute="19" period="1" second="9" time="19" type="woodwork hit" type_id="14"/>
+	<message comment="David Silva wins a corner (To the left)" minute="18" period="1" second="11" time="18" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the right)" minute="17" period="1" second="29" time="17" type="corner" type_id="6"/>
+	<message comment="James Milner wins a corner (To the right)" minute="16" period="1" second="56" time="16" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="16" period="1" second="24" time="16" type="corner" type_id="6"/>
+	<message comment="Joleon Lescott misses attempt (High to the right, 18-yard box, Left footed, From corner)" minute="8" period="1" second="56" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="8" period="1" second="26" time="8" type="corner" type_id="6"/>
+	<message comment="Shaun Derry blocks a shot" minute="8" period="1" second="20" time="8" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="8" period="1" second="20" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Mbia is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

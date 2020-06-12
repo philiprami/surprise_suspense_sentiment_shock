@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2014-02-09 13:30" game_id_2="27141365" game_id_4="112670251" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-09 15:03:34" minute="93" period="2" second="22" team="Everton" time="95" type="end" type_id="30"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" last_modified="2014-02-09 15:02:58" minute="92" period="2" second="46" team="Everton" time="94" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Right footed, Fast break)" last_modified="2014-02-09 15:02:56" minute="92" period="2" second="44" team="Everton" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" last_modified="2014-02-09 15:02:56" minute="92" period="2" second="44" team="Tottenham" time="94" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé recieves a yellow card" last_modified="2014-02-09 14:57:00" minute="86" period="2" second="48" team="Everton" time="88" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon is substituted off" last_modified="2014-02-09 14:55:14" minute="85" period="2" second="2" team="Everton" time="87" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" last_modified="2014-02-09 14:55:14" minute="85" period="2" second="2" team="Everton" time="87" type="substitution on" type_id="19"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-02-09 14:52:20" minute="82" period="2" second="8" team="Tottenham" time="84" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor misses attempt (Out of box, Right footed, Open play)" last_modified="2014-02-09 14:46:26" minute="76" period="2" second="14" team="Everton" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-09 14:46:03" minute="75" period="2" second="51" team="Everton" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2014-02-09 14:46:03" minute="75" period="2" second="51" team="Tottenham" time="77" type="save made" type_id="10"/>
+	<message comment="Aiden McGeady is substituted on" last_modified="2014-02-09 14:43:10" minute="72" period="2" second="58" team="Tottenham" time="74" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman is substituted off" last_modified="2014-02-09 14:43:10" minute="72" period="2" second="58" team="Tottenham" time="74" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted off" last_modified="2014-02-09 14:42:52" minute="72" period="2" second="40" team="Tottenham" time="74" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" last_modified="2014-02-09 14:42:52" minute="72" period="2" second="40" team="Tottenham" time="74" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is caught offside" last_modified="2014-02-09 14:42:12" minute="72" period="2" team="Tottenham" time="74" type="offside" type_id="10000"/>
+	<message comment="Paulinho is substituted off" last_modified="2014-02-09 14:37:36" minute="67" period="2" second="24" team="Everton" time="69" type="substitution off" type_id="18"/>
+	<message comment="Etienne Capoue is substituted on" last_modified="2014-02-09 14:37:36" minute="67" period="2" second="24" team="Everton" time="69" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Kyle Walker (Low to the left, 18-yard box, Left footed, Set piece)" last_modified="2014-02-09 14:34:38" minute="64" period="2" second="26" team="Everton" time="66" type="goal scored" type_id="16"/>
+	<message comment="Steven Pienaar is substituted off" last_modified="2014-02-09 14:33:32" minute="63" period="2" second="20" team="Tottenham" time="65" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" last_modified="2014-02-09 14:33:32" minute="63" period="2" second="20" team="Tottenham" time="65" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman wins a corner (To the left)" last_modified="2014-02-09 14:32:17" minute="62" period="2" second="5" team="Tottenham" time="64" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen is substituted off" last_modified="2014-02-09 14:28:45" minute="58" period="2" second="33" team="Everton" time="60" type="substitution off" type_id="18"/>
+	<message comment="Andros Townsend is substituted on" last_modified="2014-02-09 14:28:45" minute="58" period="2" second="33" team="Everton" time="60" type="substitution on" type_id="19"/>
+	<message comment="Michael Dawson blocks a shot" last_modified="2014-02-09 14:26:17" minute="56" period="2" second="5" team="Everton" time="58" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-09 14:26:17" minute="56" period="2" second="5" team="Tottenham" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor misses attempt (High to the right, 18-yard box, Head, From corner)" last_modified="2014-02-09 14:23:27" minute="53" period="2" second="15" team="Everton" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Nabil Bentaleb wins a corner (To the left)" last_modified="2014-02-09 14:23:06" minute="52" period="2" second="54" team="Everton" time="54" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" last_modified="2014-02-09 14:22:28" minute="52" period="2" second="16" team="Everton" time="54" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-02-09 14:21:38" minute="51" period="2" second="26" team="Tottenham" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2014-02-09 14:18:03" minute="47" period="2" second="51" team="Everton" time="49" type="corner" type_id="6"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2014-02-09 14:15:56" minute="45" period="2" second="44" team="Everton" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2014-02-09 14:15:12" minute="45" period="2" second="0" team="Everton" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-09 14:16:15" minute="46" period="1" second="3" team="Everton" time="46" type="end" type_id="30"/>
+	<message comment="Gareth Barry wins a corner (To the left)" last_modified="2014-02-09 14:09:45" minute="39" period="1" second="33" team="Tottenham" time="39" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" last_modified="2014-02-09 14:09:03" minute="38" period="1" second="51" team="Tottenham" time="38" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-02-09 14:05:45" minute="35" period="1" second="33" team="Tottenham" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka wins a corner (To the right)" last_modified="2014-02-09 14:03:26" minute="33" period="1" second="14" team="Tottenham" time="33" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin misses attempt (To the right, 6-yard box, Head, Set piece)" last_modified="2014-02-09 14:03:22" minute="33" period="1" second="10" team="Tottenham" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson misses attempt (High, 18-yard box, Head, From corner)" last_modified="2014-02-09 14:01:05" minute="30" period="1" second="53" team="Everton" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2014-02-09 14:00:39" minute="30" period="1" second="27" team="Everton" time="30" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" last_modified="2014-02-09 13:58:12" minute="28" period="1" second="0" team="Everton" time="28" type="corner" type_id="6"/>
+	<message comment="Séamus Coleman has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2014-02-09 13:54:34" minute="24" period="1" second="22" team="Tottenham" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected, Diving)" last_modified="2014-02-09 13:54:34" minute="24" period="1" second="22" team="Everton" time="24" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen blocks a shot" last_modified="2014-02-09 13:53:45" minute="23" period="1" second="33" team="Everton" time="23" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-09 13:53:45" minute="23" period="1" second="33" team="Tottenham" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-09 13:50:58" minute="20" period="1" second="46" team="Everton" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar is caught offside" last_modified="2014-02-09 13:49:12" minute="19" period="1" team="Tottenham" time="19" type="offside" type_id="10000"/>
+	<message comment="Leighton Baines is caught offside" last_modified="2014-02-09 13:48:12" minute="18" period="1" team="Tottenham" time="18" type="offside" type_id="10000"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" last_modified="2014-02-09 13:44:53" minute="14" period="1" second="41" team="Everton" time="14" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen misses attempt (Out of box, Right footed, Free kick)" last_modified="2014-02-09 13:42:24" minute="12" period="1" second="12" team="Everton" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas is caught offside" last_modified="2014-02-09 13:39:12" minute="9" period="1" team="Tottenham" time="9" type="offside" type_id="10000"/>
+	<message comment="Hugo Lloris makes a save (Collected)" last_modified="2014-02-09 13:37:59" minute="7" period="1" second="47" team="Everton" time="7" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-02-09 13:37:59" minute="7" period="1" second="47" team="Tottenham" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman misses attempt (18-yard box, Head, From corner)" last_modified="2014-02-09 13:37:10" minute="6" period="1" second="58" team="Tottenham" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman wins a corner (To the right)" last_modified="2014-02-09 13:36:47" minute="6" period="1" second="35" team="Tottenham" time="6" type="corner" type_id="6"/>
+	<message comment="Leon Osman has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-02-09 13:36:46" minute="6" period="1" second="34" team="Tottenham" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" last_modified="2014-02-09 13:36:46" minute="6" period="1" second="34" team="Everton" time="6" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" last_modified="2014-02-09 13:36:03" minute="5" period="1" second="51" team="Tottenham" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2014-02-09 13:30:12" minute="0" period="14" second="0" team="Everton" time="5" type="end" type_id="30"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" last_modified="2014-02-09 13:35:03" minute="4" period="1" second="51" team="Everton" time="4" type="corner" type_id="6"/>
+	<message comment="Leon Osman misses attempt (Out of box, Left footed, Open play)" last_modified="2014-02-09 13:32:39" minute="2" period="1" second="27" team="Tottenham" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2014-02-09 13:30:12" minute="0" period="1" second="0" team="Everton" time="0" type="start" type_id="32"/>
+</Commentary>

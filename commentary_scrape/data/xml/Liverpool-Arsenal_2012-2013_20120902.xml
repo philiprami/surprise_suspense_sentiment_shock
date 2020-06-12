@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2012-09-02" home_team_name="Arsenal" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="18" time="97" type="end" type_id="30"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="91" period="2" second="50" time="94" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="90" period="2" second="54" time="93" type="card received" type_id="17"/>
+	<message comment="Thomas Vermaelen is substituted off" minute="90" period="2" second="17" time="93" type="substitution off" type_id="18"/>
+	<message comment="Laurent Koscielny is substituted on" minute="90" period="2" second="17" time="93" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" minute="89" period="2" second="39" time="92" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="89" period="2" second="37" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried safe)" minute="89" period="2" second="37" time="92" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="87" period="2" second="43" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried into danger)" minute="85" period="2" second="59" time="88" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="85" period="2" second="59" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Big Chance, Head, From corner)" minute="82" period="2" second="36" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="81" period="2" second="59" time="84" type="corner" type_id="6"/>
+	<message comment="Lukas Podolski is substituted off" minute="81" period="2" second="15" time="84" type="substitution off" type_id="18"/>
+	<message comment="André Santos is substituted on" minute="81" period="2" second="15" time="84" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing wins a corner (To the left)" minute="80" period="2" second="43" time="83" type="corner" type_id="6"/>
+	<message comment="Abou Diaby blocks a shot" minute="80" period="2" second="40" time="83" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (Out of box, Left footed, Open play)" minute="80" period="2" second="40" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique is caught offside" minute="79" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="77" period="2" second="49" time="80" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, Out of box, Right footed, Open play)" minute="74" period="2" second="25" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="72" period="2" second="25" time="75" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="72" period="2" second="25" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Santi Cazorla scores , Assisted by Lukas Podolski (Low to the left, 18-yard box, Left footed, Open play)" minute="67" period="2" second="18" time="70" type="goal scored" type_id="16"/>
+	<message comment="Nuri Sahin is substituted off" minute="66" period="2" second="23" time="69" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="66" period="2" second="23" time="69" type="substitution on" type_id="19"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Left footed, Open play)" minute="65" period="2" second="0" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing misses attempt (To the right, 18-yard box, Head, Open play)" minute="64" period="2" second="13" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Martin Skrtel misses attempt (To the left, 18-yard box, Head, From corner)" minute="63" period="2" second="38" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="63" period="2" second="19" time="66" type="corner" type_id="6"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="18" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="63" period="2" second="18" time="66" type="save made" type_id="10"/>
+	<message comment="Daniel Agger has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="61" period="2" second="10" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Standing)" minute="61" period="2" second="10" time="64" type="save made" type_id="10"/>
+	<message comment="Carl Jenkinson has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="60" period="2" second="11" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried safe)" minute="60" period="2" second="11" time="63" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="57" period="2" second="13" time="60" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="57" period="2" second="11" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe)" minute="57" period="2" second="11" time="60" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="56" period="2" second="32" time="59" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="56" period="2" second="0" time="59" type="corner" type_id="6"/>
+	<message comment="Fabio Borini is substituted off" minute="53" period="2" second="55" time="56" type="substitution off" type_id="18"/>
+	<message comment="Stewart Downing is substituted on" minute="53" period="2" second="55" time="56" type="substitution on" type_id="19"/>
+	<message comment="José Enrique misses attempt (High to the right, 18-yard box, Left footed, Open play)" minute="53" period="2" second="5" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Gibbs has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="52" period="2" second="4" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried into danger)" minute="52" period="2" second="4" time="55" type="save made" type_id="10"/>
+	<message comment="Martin Skrtel recieves a yellow card" minute="46" period="2" second="48" time="49" type="card received" type_id="17"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" minute="45" period="2" second="51" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger blocks a shot" minute="45" period="2" second="51" time="48" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="34" time="47" type="end" type_id="30"/>
+	<message comment="Raheem Sterling is caught offside" minute="43" period="1" time="43" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Big Chance, Left footed, Fast break)" minute="40" period="1" second="26" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="39" period="1" second="41" time="39" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="41" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Raheem Sterling hits the woodwork (To the left, 18-yard box, Left footed, Open play)" minute="37" period="1" second="50" time="37" type="woodwork hit" type_id="14"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="36" period="1" second="58" time="36" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="36" period="1" second="30" time="36" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="33" period="1" second="25" time="33" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has shot blocked (Out of box, Left footed, Fast break)" minute="33" period="1" second="25" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Lukas Podolski scores , Assisted by Santi Cazorla (Low to the right, 18-yard box, Left footed, Fast break)" minute="30" period="1" second="8" time="30" type="goal scored" type_id="16"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Free kick)" minute="27" period="1" second="5" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla blocks a shot" minute="27" period="1" second="5" time="27" type="save made" type_id="10"/>
+	<message comment="Mikel Arteta recieves a yellow card" minute="25" period="1" second="59" time="25" type="card received" type_id="17"/>
+	<message comment="Thomas Vermaelen misses attempt (To the right, Out of box, Left footed, Open play)" minute="17" period="1" second="58" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Head, Open play)" minute="13" period="1" second="19" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Agger misses attempt (To the left, 6-yard box, Head, From corner)" minute="12" period="1" second="7" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Nuri Sahin wins a corner (To the right)" minute="11" period="1" second="32" time="11" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="10" period="1" second="54" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="10" period="1" second="54" time="10" type="save made" type_id="10"/>
+	<message comment="Fabio Borini misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="9" period="1" second="34" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Luis Suárez misses attempt (High, Out of box, Right footed, Free kick)" minute="6" period="1" second="33" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Per Mertesacker recieves a yellow card" minute="5" period="1" second="35" time="5" type="card received" type_id="17"/>
+	<message comment="Fabio Borini misses attempt (To the left, Out of box, Right footed, Open play)" minute="4" period="1" second="42" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2013-11-23 15:00" game_id_2="27099093" game_id_4="111838142" home_team_name="Sunderland" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-23 16:34:49" minute="94" period="2" second="8" team="Sunderland" time="97" type="end" type_id="30"/>
+	<message comment="Marko Arnautovic misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-11-23 16:33:54" minute="93" period="2" second="13" team="Sunderland" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save" last_modified="2013-11-23 16:30:21" minute="89" period="2" second="40" team="Sunderland" time="92" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-23 16:30:21" minute="89" period="2" second="40" team="Stoke" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Ki Sung-Yueng misses attempt (High, Out of box, Left footed, Open play)" last_modified="2013-11-23 16:28:55" minute="88" period="2" second="14" team="Stoke" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Andy Wilkinson has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2013-11-23 16:28:19" minute="87" period="2" second="38" team="Sunderland" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Collected, Diving)" last_modified="2013-11-23 16:28:19" minute="87" period="2" second="38" team="Stoke" time="90" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher is substituted off" last_modified="2013-11-23 16:24:54" minute="84" period="2" second="13" team="Stoke" time="87" type="substitution off" type_id="18"/>
+	<message comment="Jozy Altidore is substituted on" last_modified="2013-11-23 16:24:54" minute="84" period="2" second="13" team="Stoke" time="87" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam is substituted off" last_modified="2013-11-23 16:22:15" minute="81" period="2" second="34" team="Sunderland" time="84" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" last_modified="2013-11-23 16:22:15" minute="81" period="2" second="34" team="Sunderland" time="84" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Steven Nzonzi scores , Assisted by Peter Crouch (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-23 16:21:15" minute="80" period="2" second="34" team="Sunderland" time="83" type="goal scored" type_id="16"/>
+	<message comment="Marko Arnautovic recieves a yellow card" last_modified="2013-11-23 16:17:41" minute="77" period="2" second="0" team="Sunderland" time="80" type="card received" type_id="17"/>
+	<message comment="Robert Huth is substituted off" last_modified="2013-11-23 16:16:57" minute="76" period="2" second="16" team="Sunderland" time="79" type="substitution off" type_id="18"/>
+	<message comment="Andy Wilkinson is substituted on" last_modified="2013-11-23 16:16:57" minute="76" period="2" second="16" team="Sunderland" time="79" type="substitution on" type_id="19"/>
+	<message comment="Sebastian Larsson recieves a yellow card" last_modified="2013-11-23 16:13:08" minute="72" period="2" second="27" team="Stoke" time="75" type="card received" type_id="17"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-11-23 16:12:41" minute="72" period="2" team="Stoke" time="75" type="offside" type_id="10000"/>
+	<message comment="Adam Johnson misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-23 16:11:10" minute="70" period="2" second="29" team="Stoke" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Ondrej Celustka is substituted off" last_modified="2013-11-23 16:09:30" minute="68" period="2" second="49" team="Stoke" time="71" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" last_modified="2013-11-23 16:09:30" minute="68" period="2" second="49" team="Stoke" time="71" type="substitution on" type_id="19"/>
+	<message comment="Erik Pieters recieves a yellow card" last_modified="2013-11-23 16:09:06" minute="68" period="2" second="25" team="Sunderland" time="71" type="card received" type_id="17"/>
+	<message comment="Peter Crouch misses attempt (18-yard box, Head, Open play)" last_modified="2013-11-23 16:06:22" minute="65" period="2" second="41" team="Sunderland" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam misses attempt (Out of box, Left footed, Fast break)" last_modified="2013-11-23 16:03:29" minute="62" period="2" second="48" team="Sunderland" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Ondrej Celustka has shot blocked (Out of box, Right footed, Set piece)" last_modified="2013-11-23 16:03:21" minute="62" period="2" second="40" team="Stoke" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2013-11-23 16:03:21" minute="62" period="2" second="40" team="Sunderland" time="65" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-11-23 16:03:18" minute="62" period="2" second="37" team="Stoke" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2013-11-23 16:03:18" minute="62" period="2" second="37" team="Sunderland" time="65" type="save made" type_id="10"/>
+	<message comment="Valentin Roberge blocks a shot" last_modified="2013-11-23 15:59:25" minute="58" period="2" second="44" team="Stoke" time="61" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-23 15:59:25" minute="58" period="2" second="44" team="Sunderland" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Valentin Roberge blocks a shot" last_modified="2013-11-23 15:57:34" minute="56" period="2" second="53" team="Stoke" time="59" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-23 15:57:34" minute="56" period="2" second="53" team="Sunderland" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam wins a corner (To the left)" last_modified="2013-11-23 15:56:49" minute="56" period="2" second="8" team="Sunderland" time="59" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-23 15:54:57" minute="54" period="2" second="16" team="Stoke" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving)" last_modified="2013-11-23 15:54:57" minute="54" period="2" second="16" team="Sunderland" time="57" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 6-yard box, Head, Open play)" last_modified="2013-11-23 15:52:25" minute="51" period="2" second="44" team="Sunderland" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Collected, Standing)" last_modified="2013-11-23 15:52:25" minute="51" period="2" second="44" team="Stoke" time="54" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has attempt saved (High to the centre, Out of box, Left footed, Open play)" last_modified="2013-11-23 15:51:06" minute="50" period="2" second="25" team="Sunderland" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Collected, Standing)" last_modified="2013-11-23 15:51:06" minute="50" period="2" second="25" team="Stoke" time="53" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-11-23 15:50:36" minute="49" period="2" second="55" team="Sunderland" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Jack Colback wins a corner (To the left)" last_modified="2013-11-23 15:49:12" minute="48" period="2" second="31" team="Stoke" time="51" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-11-23 15:45:41" minute="45" period="2" second="0" team="Sunderland" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-23 15:47:45" minute="47" period="1" second="4" team="Sunderland" time="47" type="end" type_id="30"/>
+	<message comment="Ondrej Celustka wins a corner (To the right)" last_modified="2013-11-23 15:47:00" minute="46" period="1" second="19" team="Stoke" time="46" type="corner" type_id="6"/>
+	<message comment="Adam Johnson misses attempt (High, Out of box, Left footed, Open play)" last_modified="2013-11-23 15:44:52" minute="44" period="1" second="11" team="Stoke" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-11-23 15:43:17" minute="42" period="1" second="36" team="Sunderland" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini is substituted off" last_modified="2013-11-23 15:39:53" minute="39" period="1" second="12" team="Stoke" time="39" type="substitution off" type_id="18"/>
+	<message comment="Valentin Roberge is substituted on" last_modified="2013-11-23 15:39:53" minute="39" period="1" second="12" team="Stoke" time="39" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-11-23 15:39:41" minute="39" period="1" team="Stoke" time="39" type="offside" type_id="10000"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" last_modified="2013-11-23 15:39:18" minute="38" period="1" second="37" team="Stoke" time="38" type="corner" type_id="6"/>
+	<message comment="Wes Brown recieves a red card" last_modified="2013-11-23 15:36:25" minute="35" period="1" second="44" team="Stoke" time="35" type="card received" type_id="17"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-11-23 15:34:20" minute="33" period="1" second="39" team="Sunderland" time="33" type="corner" type_id="6"/>
+	<message comment="GOAL! Charlie Adam scores , Assisted by Steven Nzonzi (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2013-11-23 15:29:48" minute="29" period="1" second="7" team="Sunderland" time="29" type="goal scored" type_id="16"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-11-23 15:27:41" minute="27" period="1" team="Sunderland" time="27" type="offside" type_id="10000"/>
+	<message comment="Marko Arnautovic misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-23 15:25:43" minute="25" period="1" second="2" team="Sunderland" time="25" type="attempt missed" type_id="13"/>
+	<message comment="John O'Shea blocks a shot" last_modified="2013-11-23 15:21:14" minute="20" period="1" second="33" team="Stoke" time="20" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-23 15:21:14" minute="20" period="1" second="33" team="Sunderland" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Brown blocks a shot" last_modified="2013-11-23 15:21:11" minute="20" period="1" second="30" team="Stoke" time="20" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-23 15:21:11" minute="20" period="1" second="30" team="Sunderland" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-11-23 15:20:41" minute="20" period="1" team="Sunderland" time="20" type="offside" type_id="10000"/>
+	<message comment="Geoff Cameron wins a corner (To the left)" last_modified="2013-11-23 15:18:56" minute="18" period="1" second="15" team="Sunderland" time="18" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher has shot blocked (18-yard box, Head, Open play)" last_modified="2013-11-23 15:14:20" minute="13" period="1" second="39" team="Stoke" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-11-23 15:14:20" minute="13" period="1" second="39" team="Sunderland" time="13" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher wins a corner (To the left)" last_modified="2013-11-23 15:13:41" minute="13" period="1" second="0" team="Stoke" time="13" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-23 15:13:38" minute="12" period="1" second="57" team="Stoke" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Diving)" last_modified="2013-11-23 15:13:38" minute="12" period="1" second="57" team="Sunderland" time="12" type="save made" type_id="10"/>
+	<message comment="Charlie Adam misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-23 15:12:54" minute="12" period="1" second="13" team="Sunderland" time="12" type="attempt missed" type_id="13"/>
+	<message comment="John O'Shea blocks a shot" last_modified="2013-11-23 15:12:45" minute="12" period="1" second="4" team="Stoke" time="12" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-11-23 15:12:45" minute="12" period="1" second="4" team="Sunderland" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" last_modified="2013-11-23 15:11:37" minute="10" period="1" second="56" team="Stoke" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-11-23 15:00:41" minute="0" period="14" second="0" team="Sunderland" time="7" type="end" type_id="30"/>
+	<message comment="Adam Johnson wins a corner (To the right)" last_modified="2013-11-23 15:07:15" minute="6" period="1" second="34" team="Stoke" time="6" type="corner" type_id="6"/>
+	<message comment="Adam Johnson has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-23 15:07:14" minute="6" period="1" second="33" team="Stoke" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam blocks a shot" last_modified="2013-11-23 15:07:14" minute="6" period="1" second="33" team="Sunderland" time="6" type="save made" type_id="10"/>
+	<message comment="Jack Colback wins a corner (To the right)" last_modified="2013-11-23 15:06:39" minute="5" period="1" second="58" team="Stoke" time="5" type="corner" type_id="6"/>
+	<message comment="Jack Colback has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-11-23 15:06:37" minute="5" period="1" second="56" team="Stoke" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth blocks a shot" last_modified="2013-11-23 15:06:37" minute="5" period="1" second="56" team="Sunderland" time="5" type="save made" type_id="10"/>
+	<message comment="First half begins!" last_modified="2013-11-23 15:00:41" minute="0" period="1" second="0" team="Sunderland" time="0" type="start" type_id="32"/>
+</Commentary>

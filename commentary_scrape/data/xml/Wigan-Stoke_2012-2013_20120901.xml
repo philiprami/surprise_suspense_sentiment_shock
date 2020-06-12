@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2012-09-01" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="1" time="96" type="end" type_id="30"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="92" period="2" second="16" time="95" type="save made" type_id="10"/>
+	<message comment="Ben Watson has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="16" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Arouna Koné is caught offside" minute="89" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome misses attempt (High, 18-yard box, Left footed, Open play)" minute="86" period="2" second="5" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Standing, Collected)" minute="85" period="2" second="48" time="88" type="save made" type_id="10"/>
+	<message comment="David Jones has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="85" period="2" second="48" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome misses attempt (6-yard box, Big Chance, Left footed, Set piece)" minute="84" period="2" second="7" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="84" period="2" second="3" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Standing, Parried into danger)" minute="84" period="2" second="3" time="87" type="save made" type_id="10"/>
+	<message comment="Gary Caldwell blocks a shot" minute="82" period="2" second="52" time="85" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="82" period="2" second="52" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="82" period="2" second="50" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Parried into danger)" minute="82" period="2" second="50" time="85" type="save made" type_id="10"/>
+	<message comment="Ryo Miyaichi wins a corner (To the right)" minute="81" period="2" second="35" time="84" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo is substituted off" minute="79" period="2" second="20" time="82" type="substitution off" type_id="18"/>
+	<message comment="Ryo Miyaichi is substituted on" minute="79" period="2" second="20" time="82" type="substitution on" type_id="19"/>
+	<message comment="Arouna Koné misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="78" period="2" second="46" time="81" type="attempt missed" type_id="13"/>
+	<message comment="James McArthur is substituted off" minute="76" period="2" second="0" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ben Watson is substituted on" minute="76" period="2" second="0" time="79" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Jonathan Walters (Low to the centre, 6-yard box, Head, Throw-in)" minute="75" period="2" second="30" time="78" type="goal scored" type_id="16"/>
+	<message comment="Michael Kightly is substituted off" minute="74" period="2" second="20" time="77" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="74" period="2" second="20" time="77" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters misses attempt (High, 6-yard box, Big Chance, Right footed, Open play)" minute="73" period="2" second="51" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Michael Kightly is caught offside" minute="72" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Michael Kightly has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="71" period="2" second="49" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Standing)" minute="71" period="2" second="49" time="74" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce misses attempt (18-yard box, Right footed, Open play)" minute="65" period="2" second="42" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="65" period="2" second="41" time="68" type="save made" type_id="10"/>
+	<message comment="Shaun Maloney has shot blocked (18-yard box, Right footed, Open play)" minute="65" period="2" second="41" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron blocks a shot" minute="63" period="2" second="23" time="66" type="save made" type_id="10"/>
+	<message comment="David Jones has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="23" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan has shot blocked (Out of box, Right footed, Open play)" minute="62" period="2" second="19" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="James McArthur blocks a shot" minute="62" period="2" second="19" time="65" type="save made" type_id="10"/>
+	<message comment="Peter Crouch is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Geoff Cameron misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="56" period="2" second="12" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is caught offside" minute="53" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="James McArthur recieves a yellow card" minute="52" period="2" second="45" time="55" type="card received" type_id="17"/>
+	<message comment="Michael Kightly has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="51" period="2" second="55" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save" minute="51" period="2" second="55" time="54" type="save made" type_id="10"/>
+	<message comment="Dean Whitehead recieves a yellow card" minute="51" period="2" second="10" time="54" type="card received" type_id="17"/>
+	<message comment="GOAL! Franco Di Santo scores , Assisted by Arouna Koné (Low to the left, 18-yard box, Right footed, Fast break)" minute="48" period="2" second="35" time="51" type="goal scored" type_id="16"/>
+	<message comment="Emmerson Boyce wins a corner (To the right)" minute="46" period="2" second="45" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="8" time="47" type="end" type_id="30"/>
+	<message comment="Marc Wilson recieves a yellow card" minute="44" period="1" second="12" time="44" type="card received" type_id="17"/>
+	<message comment="Marc Wilson misses attempt (High, 6-yard box, Head, From corner)" minute="42" period="1" second="58" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Marc Wilson wins a corner (To the left)" minute="42" period="1" second="28" time="42" type="corner" type_id="6"/>
+	<message comment="Marc Wilson has shot blocked (Out of box, Left footed, Open play)" minute="42" period="1" second="26" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="42" period="1" second="26" time="42" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo misses attempt (To the left, Out of box, Right footed, Throw-in)" minute="41" period="1" second="21" time="41" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonathan Walters scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="39" period="1" second="50" time="39" type="goal scored" type_id="16"/>
+	<message comment="Geoff Cameron has shot blocked (18-yard box, Head, Set piece)" minute="37" period="1" second="19" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Caldwell blocks a shot" minute="37" period="1" second="17" time="37" type="save made" type_id="10"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Free kick)" minute="37" period="1" second="17" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Andy Wilkinson is substituted off" minute="35" period="1" second="37" time="35" type="substitution off" type_id="18"/>
+	<message comment="Charlie Adam is substituted on" minute="35" period="1" second="37" time="35" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="32" period="1" second="48" time="32" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce has shot blocked (18-yard box, Left footed, Open play)" minute="32" period="1" second="48" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron misses attempt (Out of box, Right footed, Open play)" minute="32" period="1" second="4" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Ali Al Habsi makes a save" minute="28" period="1" second="56" time="28" type="save made" type_id="10"/>
+	<message comment="Robert Huth has attempt saved (High to the left, 18-yard box, Right footed, Set piece)" minute="28" period="1" second="56" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Jean Beausejour is substituted off" minute="28" period="1" second="14" time="28" type="substitution off" type_id="18"/>
+	<message comment="David Jones is substituted on" minute="28" period="1" second="14" time="28" type="substitution on" type_id="19"/>
+	<message comment="Emmerson Boyce misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="22" period="1" second="26" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Marc Wilson misses attempt (To the left, Out of box, Right footed, Open play)" minute="20" period="1" second="24" time="20" type="attempt missed" type_id="13"/>
+	<message comment="James McCarthy misses attempt (To the left, Out of box, Right footed, Open play)" minute="10" period="1" second="49" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Shaun Maloney scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="4" period="1" second="37" time="4" type="goal scored" type_id="16"/>
+	<message comment="James McCarthy has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="45" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

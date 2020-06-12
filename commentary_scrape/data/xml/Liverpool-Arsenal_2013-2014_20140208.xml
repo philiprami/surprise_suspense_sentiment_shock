@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2014-02-08" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="12" time="97" type="end" type_id="30"/>
+	<message comment="Aly Cissokho misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="92" period="2" second="59" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="91" period="2" second="4" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="91" period="2" second="4" time="95" type="save made" type_id="10"/>
+	<message comment="Kolo Touré blocks a shot" minute="89" period="2" second="28" time="93" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, From corner)" minute="89" period="2" second="28" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="89" period="2" second="3" time="93" type="corner" type_id="6"/>
+	<message comment="Aly Cissokho blocks a shot" minute="89" period="2" second="0" time="93" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="0" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Jordon Ibe misses attempt (High, Out of box, Right footed, Open play)" minute="86" period="2" second="47" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="85" period="2" second="43" time="89" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="85" period="2" second="42" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe)" minute="85" period="2" second="42" time="89" type="save made" type_id="10"/>
+	<message comment="Luis Suárez is substituted off" minute="85" period="2" second="14" time="89" type="substitution off" type_id="18"/>
+	<message comment="Iago Aspas is substituted on" minute="85" period="2" second="14" time="89" type="substitution on" type_id="19"/>
+	<message comment="Raheem Sterling is caught offside" minute="79" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Fast break)" minute="78" period="2" second="56" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="78" period="2" second="56" time="82" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="78" period="2" second="0" time="82" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard is substituted off" minute="75" period="2" second="36" time="79" type="substitution off" type_id="18"/>
+	<message comment="Jordon Ibe is substituted on" minute="75" period="2" second="36" time="79" type="substitution on" type_id="19"/>
+	<message comment="Kolo Touré blocks a shot" minute="74" period="2" second="6" time="78" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has shot blocked (Out of box, Right footed, Open play)" minute="74" period="2" second="6" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="73" period="2" second="22" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="73" period="2" second="22" time="77" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="71" period="2" second="56" time="75" type="save made" type_id="10"/>
+	<message comment="Mikel Arteta has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="71" period="2" second="56" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Mikel Arteta scores  (High to the centre, 18-yard box, Big Chance, Penalty, Right footed)" minute="68" period="2" second="25" time="72" type="goal scored" type_id="16"/>
+	<message comment="Jordan Henderson misses attempt (To the left, 18-yard box, Right footed, Fast break)" minute="66" period="2" second="26" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is substituted off" minute="65" period="2" second="31" time="69" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="65" period="2" second="31" time="69" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez is caught offside" minute="64" period="2" time="68" type="offside" type_id="10000"/>
+	<message comment="Raheem Sterling is caught offside" minute="64" period="2" time="68" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge is caught offside" minute="63" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="62" period="2" second="20" time="66" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="62" period="2" second="19" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="62" period="2" second="19" time="66" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="60" period="2" second="40" time="64" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="60" period="2" second="40" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Nacho Monreal is substituted off" minute="60" period="2" second="14" time="64" type="substitution off" type_id="18"/>
+	<message comment="Kieran Gibbs is substituted on" minute="60" period="2" second="14" time="64" type="substitution on" type_id="19"/>
+	<message comment="Mesut Özil is substituted off" minute="60" period="2" second="7" time="64" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="60" period="2" second="7" time="64" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is substituted off" minute="59" period="2" second="52" time="63" type="substitution off" type_id="18"/>
+	<message comment="Lukas Podolski is substituted on" minute="59" period="2" second="52" time="63" type="substitution on" type_id="19"/>
+	<message comment="Jack Wilshere recieves a yellow card" minute="58" period="2" second="11" time="62" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="56" period="2" second="59" time="60" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="56" period="2" second="59" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="56" period="2" second="33" time="60" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="56" period="2" second="33" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="55" period="2" second="49" time="59" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has attempt saved (Low to the centre, 6-yard box, Right footed, Set piece)" minute="54" period="2" second="23" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried into danger)" minute="54" period="2" second="23" time="58" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Key pass, Head, Set piece)" minute="54" period="2" second="22" time="58" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Raheem Sterling scores  (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="51" period="2" second="7" time="55" type="goal scored" type_id="16"/>
+	<message comment="Raheem Sterling has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="51" period="2" second="6" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried into danger)" minute="51" period="2" second="6" time="55" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="49" period="2" second="0" time="53" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge misses attempt (High to the right, 18-yard box, Other body part, Set piece)" minute="48" period="2" second="56" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="46" period="2" second="41" time="50" type="corner" type_id="6"/>
+	<message comment="Luis Suárez blocks a shot" minute="46" period="2" second="38" time="50" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Free kick)" minute="46" period="2" second="38" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud recieves a yellow card" minute="46" period="2" second="13" time="50" type="card received" type_id="17"/>
+	<message comment="Jordan Henderson recieves a yellow card" minute="46" period="2" second="10" time="50" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="1" time="48" type="end" type_id="30"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="46" period="1" second="43" time="46" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (Out of box, Left footed, Open play)" minute="45" period="1" second="45" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Head, Open play)" minute="37" period="1" second="34" time="37" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Philippe Coutinho (Low to the left, Out of box, Big Chance, Left footed, Fast break)" minute="19" period="1" second="17" time="19" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Raheem Sterling scores , Assisted by Luis Suárez (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="16" period="1" second="0" time="16" type="goal scored" type_id="16"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="14" period="1" second="18" time="14" type="corner" type_id="6"/>
+	<message comment="Kolo Touré misses attempt (To the right, 18-yard box, Big Chance, Right footed, From corner)" minute="12" period="1" second="48" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez hits the woodwork (To the left, Out of box, Right footed, From corner)" minute="12" period="1" second="46" time="12" type="woodwork hit" type_id="14"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="12" period="1" second="6" time="12" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Big Chance, Left footed, Open play)" minute="11" period="1" second="25" time="11" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (High to the left, 18-yard box, Head, From corner)" minute="9" period="1" second="28" time="9" type="goal scored" type_id="16"/>
+	<message comment="Jon Flanagan wins a corner (To the right)" minute="8" period="1" second="53" time="8" type="corner" type_id="6"/>
+	<message comment="Jon Flanagan has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="8" period="1" second="52" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe)" minute="8" period="1" second="52" time="8" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere wins a corner (To the left)" minute="7" period="1" second="21" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="4" period="1" second="6" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="4" period="1" second="6" time="4" type="save made" type_id="10"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (Low to the centre, 6-yard box, Big Chance, Right footed, Set piece)" minute="0" period="1" second="51" time="0" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Bolton" competition="English Premier League" game_date="2010-11-06" home_team_name="Tottenham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="0" time="98" type="end" type_id="30"/>
+	<message comment="Kevin Davies is substituted off" minute="95" period="2" second="39" time="97" type="substitution off" type_id="18"/>
+	<message comment="Robbie Blake is substituted on" minute="95" period="2" second="39" time="97" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Martin Petrov scores , Assisted by Kevin Davies (Low to the left, 18-yard box, Left footed, Fast break)" minute="93" period="2" second="57" time="95" type="goal scored" type_id="16"/>
+	<message comment="Johan Elmander is substituted off" minute="93" period="2" second="32" time="95" type="substitution off" type_id="18"/>
+	<message comment="Mark Davies is substituted on" minute="93" period="2" second="32" time="95" type="substitution on" type_id="19"/>
+	<message comment="Fabrice Muamba misses attempt (To the left, Out of box, Left footed, Open play)" minute="92" period="2" second="53" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander wins a corner (To the left)" minute="91" period="2" second="4" time="93" type="corner" type_id="6"/>
+	<message comment="Johan Elmander has shot blocked (18-yard box, Right footed, Open play)" minute="91" period="2" second="2" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Hutton blocks a shot" minute="91" period="2" second="2" time="93" type="save made" type_id="10"/>
+	<message comment="Martin Petrov misses attempt (18-yard box, Left footed, Open play)" minute="90" period="2" second="27" time="92" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Roman Pavlyuchenko scores  (High to the right, 18-yard box, Left footed, Set piece)" minute="86" period="2" second="22" time="88" type="goal scored" type_id="16"/>
+	<message comment="Martin Petrov wins a corner (To the left)" minute="81" period="2" second="57" time="83" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor is substituted off" minute="81" period="2" second="35" time="83" type="substitution off" type_id="18"/>
+	<message comment="Martin Petrov is substituted on" minute="81" period="2" second="35" time="83" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Alan Hutton scores , Assisted by Tom Huddlestone (High to the left, Out of box, Left footed, Open play)" minute="78" period="2" second="54" time="80" type="goal scored" type_id="16"/>
+	<message comment="Niko Kranjcar is substituted off" minute="77" period="2" second="18" time="79" type="substitution off" type_id="18"/>
+	<message comment="David Bentley is substituted on" minute="77" period="2" second="18" time="79" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Kevin Davies scores  (High to the right, 18-yard box, Penalty, Right footed)" minute="75" period="2" second="7" time="77" type="goal scored" type_id="16"/>
+	<message comment="Fabrice Muamba misses attempt (18-yard box, Left footed, Open play)" minute="73" period="2" second="59" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Taylor hits the woodwork (To the right, Out of box, Left footed, Open play)" minute="73" period="2" second="24" time="75" type="woodwork hit" type_id="14"/>
+	<message comment="Matthew Taylor misses attempt (To the left, Out of box, Head, Open play)" minute="72" period="2" second="47" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Niko Kranjcar misses attempt (High, 18-yard box, Right footed, Open play)" minute="70" period="2" second="11" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson blocks a shot" minute="69" period="2" second="48" time="71" type="save made" type_id="10"/>
+	<message comment="Alan Hutton has shot blocked (18-yard box, Left footed, Open play)" minute="69" period="2" second="48" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Niko Kranjcar wins a corner (To the left)" minute="68" period="2" second="57" time="70" type="corner" type_id="6"/>
+	<message comment="Johan Elmander misses attempt (6-yard box, Right footed, From corner)" minute="68" period="2" second="10" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander wins a corner (To the right)" minute="67" period="2" second="48" time="69" type="corner" type_id="6"/>
+	<message comment="Gareth Bale is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Sandro is substituted off" minute="61" period="2" second="17" time="63" type="substitution off" type_id="18"/>
+	<message comment="Tom Huddlestone is substituted on" minute="61" period="2" second="17" time="63" type="substitution on" type_id="19"/>
+	<message comment="Matthew Taylor is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="59" period="2" second="48" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Sandro misses attempt (To the left, 6-yard box, Big Chance, Key pass, Right footed, Open play)" minute="59" period="2" second="46" time="61" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Grétar Steinsson scores , Assisted by Johan Elmander (Low to the left, 18-yard box, Right footed, Open play)" minute="55" period="2" second="56" time="57" type="goal scored" type_id="16"/>
+	<message comment="Fabrice Muamba has shot blocked (Out of box, Right footed, Set piece)" minute="55" period="2" second="47" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill misses attempt (Out of box, Right footed, Throw-in)" minute="54" period="2" second="40" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Heurelho Gomes makes a save (Parried safe, Diving, Feet)" minute="54" period="2" second="15" time="56" type="save made" type_id="10"/>
+	<message comment="Johan Elmander has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="54" period="2" second="15" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Taylor wins a corner (To the left)" minute="53" period="2" second="35" time="55" type="corner" type_id="6"/>
+	<message comment="Gary Cahill blocks a shot" minute="53" period="2" second="14" time="55" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (18-yard box, Left footed, Open play)" minute="53" period="2" second="14" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale hits the woodwork (To the right, Out of box, Left footed, Free kick)" minute="52" period="2" second="23" time="54" type="woodwork hit" type_id="14"/>
+	<message comment="Paul Robinson recieves a yellow card" minute="51" period="2" second="52" time="53" type="card received" type_id="17"/>
+	<message comment="Roman Pavlyuchenko is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Chung-Yong Lee has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="58" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Luka Modric blocks a shot" minute="49" period="2" second="58" time="51" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor has shot blocked (18-yard box, Right footed, Throw-in)" minute="48" period="2" second="15" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="48" period="2" second="15" time="50" type="save made" type_id="10"/>
+	<message comment="Wilson Palacios is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Roman Pavlyuchenko is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="14" time="46" type="end" type_id="30"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="45" period="1" second="50" time="45" type="corner" type_id="6"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="45" period="1" second="13" time="45" type="corner" type_id="6"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="45" period="1" second="4" time="45" type="corner" type_id="6"/>
+	<message comment="Luka Modric is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Younes Kaboul misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="39" period="1" second="58" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch wins a corner (To the left)" minute="39" period="1" second="35" time="39" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried into danger, Diving)" minute="39" period="1" second="10" time="39" type="save made" type_id="10"/>
+	<message comment="William Gallas has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="39" period="1" second="10" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Collected)" minute="35" period="1" second="49" time="35" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="35" period="1" second="49" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="35" period="1" second="1" time="35" type="corner" type_id="6"/>
+	<message comment="Luka Modric misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="31" period="1" second="55" time="31" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Kevin Davies scores , Assisted by Johan Elmander (Low to the right, Out of box, Left footed, Open play)" minute="30" period="1" second="24" time="30" type="goal scored" type_id="16"/>
+	<message comment="Grétar Steinsson wins a corner (To the left)" minute="29" period="1" second="22" time="29" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="24" period="1" second="5" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Standing)" minute="24" period="1" second="5" time="24" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="14" period="1" second="52" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Sandro misses attempt (High to the right, Out of box, Right footed, Open play)" minute="12" period="1" second="5" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Johan Elmander misses attempt (To the right, Out of box, Left footed, Open play)" minute="7" period="1" second="34" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Jussi Jääskeläinen wins a corner (To the right)" minute="2" period="1" second="45" time="2" type="corner" type_id="6"/>
+	<message comment="Chung-Yong Lee wins a corner (To the right)" minute="1" period="1" second="24" time="1" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor misses attempt (High, 18-yard box, Left footed, Open play)" minute="0" period="1" second="33" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

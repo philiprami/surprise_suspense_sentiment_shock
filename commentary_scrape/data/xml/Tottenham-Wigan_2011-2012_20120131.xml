@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2012-01-31" home_team_name="Wigan" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="2" time="97" type="end" type_id="30"/>
+	<message comment="Albert Crusat recieves a yellow card" minute="93" period="2" second="34" time="96" type="card received" type_id="17"/>
+	<message comment="Cameron Lancaster misses attempt (18-yard box, Right footed, Open play)" minute="92" period="2" second="44" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried into danger)" minute="92" period="2" second="41" time="95" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the right, 18-yard box, Left footed, Fast break)" minute="92" period="2" second="41" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="James McArthur misses attempt (18-yard box, Right footed, Open play)" minute="90" period="2" second="49" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale misses attempt (18-yard box, Right footed, Fast break)" minute="89" period="2" second="39" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Ben Watson is substituted off" minute="86" period="2" second="40" time="89" type="substitution off" type_id="18"/>
+	<message comment="Albert Crusat is substituted on" minute="86" period="2" second="40" time="89" type="substitution on" type_id="19"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Right footed, Open play)" minute="86" period="2" second="0" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried safe)" minute="85" period="2" second="51" time="88" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="85" period="2" second="51" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! James McArthur scores , Assisted by Victor Moses (Low to the right, 18-yard box, Left footed, Open play)" minute="79" period="2" second="59" time="82" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor is substituted off" minute="78" period="2" second="12" time="81" type="substitution off" type_id="18"/>
+	<message comment="Cameron Lancaster is substituted on" minute="78" period="2" second="12" time="81" type="substitution on" type_id="19"/>
+	<message comment="Ben Watson has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="76" period="2" second="51" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Collected)" minute="76" period="2" second="51" time="79" type="save made" type_id="10"/>
+	<message comment="Sandro is substituted on" minute="74" period="2" second="59" time="77" type="substitution on" type_id="19"/>
+	<message comment="Kyle Walker is substituted off" minute="74" period="2" second="59" time="77" type="substitution off" type_id="18"/>
+	<message comment="Franco Di Santo is substituted off" minute="73" period="2" second="57" time="76" type="substitution off" type_id="18"/>
+	<message comment="Conor Sammon is substituted on" minute="73" period="2" second="57" time="76" type="substitution on" type_id="19"/>
+	<message comment="Jordi Gómez is substituted off" minute="70" period="2" second="6" time="73" type="substitution off" type_id="18"/>
+	<message comment="James McArthur is substituted on" minute="70" period="2" second="6" time="73" type="substitution on" type_id="19"/>
+	<message comment="James McCarthy has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="53" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ledley King blocks a shot" minute="64" period="2" second="53" time="67" type="save made" type_id="10"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Benoit Assou-Ekotto (Low to the right, 18-yard box, Left footed, Open play)" minute="63" period="2" second="35" time="66" type="goal scored" type_id="16"/>
+	<message comment="Jordi Gómez has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="58" period="2" second="9" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Standing)" minute="58" period="2" second="9" time="61" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="57" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="Victor Moses has shot blocked (Out of box, Right footed, Open play)" minute="53" period="2" second="49" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses misses attempt (High, 18-yard box, Right footed, Open play)" minute="51" period="2" second="51" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor misses attempt (18-yard box, Big Chance, Head, Open play)" minute="48" period="2" second="16" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="9" time="47" type="end" type_id="30"/>
+	<message comment="Jake Livermore has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="41" period="1" second="44" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="41" period="1" second="44" time="41" type="save made" type_id="10"/>
+	<message comment="Gary Caldwell blocks a shot" minute="38" period="1" second="38" time="38" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="38" period="1" second="38" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Luka Modric scores  (Low to the left, Out of box, Right footed, Open play)" minute="33" period="1" second="35" time="33" type="goal scored" type_id="16"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried safe)" minute="32" period="1" second="18" time="32" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="32" period="1" second="18" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart is substituted off" minute="30" period="1" second="41" time="30" type="substitution off" type_id="18"/>
+	<message comment="Jake Livermore is substituted on" minute="30" period="1" second="41" time="30" type="substitution on" type_id="19"/>
+	<message comment="James McCarthy misses attempt (To the left, Out of box, Right footed, Open play)" minute="29" period="1" second="52" time="29" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Luka Modric (High to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="28" period="1" second="9" time="28" type="goal scored" type_id="16"/>
+	<message comment="Victor Moses is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="James McCarthy blocks a shot (Last line)" minute="23" period="1" second="8" time="23" type="save made" type_id="10"/>
+	<message comment="Younes Kaboul has shot blocked (18-yard box, Head, From corner)" minute="23" period="1" second="8" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Niko Kranjcar wins a corner (To the left)" minute="22" period="1" second="49" time="22" type="corner" type_id="6"/>
+	<message comment="Gary Caldwell blocks a shot" minute="22" period="1" second="47" time="22" type="save made" type_id="10"/>
+	<message comment="Niko Kranjcar has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="47" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Franco Di Santo misses attempt (To the left, Out of box, Right footed, Open play)" minute="20" period="1" second="50" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Ali Al Habsi makes a save (Standing)" minute="20" period="1" second="24" time="20" type="save made" type_id="10"/>
+	<message comment="Niko Kranjcar has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="20" period="1" second="24" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor misses attempt (18-yard box, Head, Open play)" minute="17" period="1" second="10" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Luka Modric misses attempt (High, Out of box, Right footed, Open play)" minute="15" period="1" second="9" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Younes Kaboul misses attempt (High to the left, 18-yard box, Head, From corner)" minute="10" period="1" second="54" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Niko Kranjcar wins a corner (To the left)" minute="10" period="1" second="31" time="10" type="corner" type_id="6"/>
+	<message comment="Jordi Gómez blocks a shot" minute="10" period="1" second="30" time="10" type="save made" type_id="10"/>
+	<message comment="Niko Kranjcar has shot blocked (18-yard box, Right footed, Open play)" minute="10" period="1" second="30" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the right)" minute="9" period="1" second="15" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Ali Al Habsi makes a save (Standing, Parried safe)" minute="5" period="1" second="37" time="5" type="save made" type_id="10"/>
+	<message comment="Younes Kaboul has attempt saved (Low to the right, 6-yard box, Head, From corner)" minute="5" period="1" second="37" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="5" period="1" second="14" time="5" type="corner" type_id="6"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the right)" minute="3" period="1" second="57" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

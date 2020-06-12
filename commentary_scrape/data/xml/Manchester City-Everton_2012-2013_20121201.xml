@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-12-01" home_team_name="Everton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="26" time="96" type="end" type_id="30"/>
+	<message comment="Nikica Jelavic is substituted off" minute="91" period="2" second="54" time="94" type="substitution off" type_id="18"/>
+	<message comment="John Heitinga is substituted on" minute="91" period="2" second="54" time="94" type="substitution on" type_id="19"/>
+	<message comment="Nikica Jelavic wins a corner (To the left)" minute="89" period="2" second="11" time="92" type="corner" type_id="6"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="89" period="2" second="3" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="89" period="2" second="3" time="92" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="88" period="2" second="3" time="91" type="card received" type_id="17"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="86" period="2" second="27" time="89" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli misses attempt (High to the right, Out of box, Right footed, Set piece)" minute="84" period="2" second="26" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli is substituted on" minute="80" period="2" second="20" time="83" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko is substituted off" minute="80" period="2" second="19" time="83" type="substitution off" type_id="18"/>
+	<message comment="Bryan Oviedo is substituted on" minute="73" period="2" second="0" time="76" type="substitution on" type_id="19"/>
+	<message comment="Steven Naismith is substituted off" minute="73" period="2" second="0" time="76" type="substitution off" type_id="18"/>
+	<message comment="Leighton Baines wins a corner (To the right)" minute="72" period="2" second="3" time="75" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini recieves a yellow card" minute="69" period="2" second="15" time="72" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez is substituted off" minute="67" period="2" second="53" time="70" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="67" period="2" second="53" time="70" type="substitution on" type_id="19"/>
+	<message comment="Darron Gibson has shot blocked (Out of box, Right footed, Open play)" minute="66" period="2" second="36" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="66" period="2" second="36" time="69" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="64" period="2" second="21" time="67" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried into danger)" minute="62" period="2" second="25" time="65" type="save made" type_id="10"/>
+	<message comment="Maicon has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="62" period="2" second="25" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez misses attempt (High, 18-yard box, Head, Open play)" minute="59" period="2" second="35" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka blocks a shot" minute="54" period="2" second="8" time="57" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (Out of box, Left footed, Open play)" minute="54" period="2" second="8" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Darron Gibson misses attempt (To the left, Out of box, Right footed, Open play)" minute="51" period="2" second="19" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka blocks a shot" minute="47" period="2" second="35" time="50" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="47" period="2" second="35" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="Darron Gibson has shot blocked (Out of box, Left footed, Open play)" minute="47" period="1" second="7" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="47" period="1" second="7" time="47" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has attempt saved (Low to the right, 18-yard box, Head, Set piece)" minute="46" period="1" second="56" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="46" period="1" second="56" time="46" type="save made" type_id="10"/>
+	<message comment="Joleon Lescott recieves a yellow card" minute="46" period="1" second="14" time="46" type="card received" type_id="17"/>
+	<message comment="Maicon wins a corner (To the right)" minute="44" period="1" second="24" time="44" type="corner" type_id="6"/>
+	<message comment="GOAL! Carlos Tevez scores  (Low to the centre, 18-yard box, Big Chance, Penalty, Right footed)" minute="42" period="1" second="48" time="42" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="41" period="1" second="36" time="41" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe, Other body part)" minute="41" period="1" second="28" time="41" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="41" period="1" second="28" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="37" period="1" second="43" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="36" period="1" second="20" time="36" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="36" period="1" second="13" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="36" period="1" second="13" time="36" type="save made" type_id="10"/>
+	<message comment="GOAL! Marouane Fellaini scores  (High to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="32" period="1" second="28" time="32" type="goal scored" type_id="16"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="32" period="1" second="26" time="32" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has attempt saved (High to the right, 18-yard box, Big Chance, Head, Open play)" minute="32" period="1" second="26" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="23" period="1" second="46" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta is substituted on" minute="6" period="1" second="42" time="6" type="substitution on" type_id="19"/>
+	<message comment="Aleksandar Kolarov is substituted off" minute="6" period="1" second="42" time="6" type="substitution off" type_id="18"/>
+	<message comment="Leon Osman misses attempt (To the right, Out of box, Left footed, Open play)" minute="6" period="1" second="32" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Steven Naismith misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="20" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

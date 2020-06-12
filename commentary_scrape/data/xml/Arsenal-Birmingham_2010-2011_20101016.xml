@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2010-10-16" home_team_name="Birmingham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="45" time="98" type="end" type_id="30"/>
+	<message comment="Jack Wilshere recieves a red card" minute="92" period="2" second="18" time="95" type="card received" type_id="17"/>
+	<message comment="Scott Dann misses attempt (To the left, 18-yard box, Head, Set piece)" minute="91" period="2" second="17" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Parried safe)" minute="90" period="2" second="16" time="93" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="90" period="2" second="16" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="86" period="2" second="7" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Garry O'Connor wins a corner (To the right)" minute="84" period="2" second="6" time="87" type="corner" type_id="6"/>
+	<message comment="Garry O'Connor has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="4" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Sébastien Squillaci blocks a shot" minute="84" period="2" second="4" time="87" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="83" period="2" second="37" time="86" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="83" period="2" second="37" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Bowyer is substituted off" minute="79" period="2" second="39" time="82" type="substitution off" type_id="18"/>
+	<message comment="Garry O'Connor is substituted on" minute="79" period="2" second="39" time="82" type="substitution on" type_id="19"/>
+	<message comment="Marouane Chamakh is substituted off" minute="78" period="2" second="55" time="81" type="substitution off" type_id="18"/>
+	<message comment="Nicklas Bendtner is substituted on" minute="78" period="2" second="55" time="81" type="substitution on" type_id="19"/>
+	<message comment="David Murphy is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Keith Fahey is substituted off" minute="77" period="2" second="9" time="80" type="substitution off" type_id="18"/>
+	<message comment="David Murphy is substituted on" minute="77" period="2" second="9" time="80" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Eboué recieves a yellow card" minute="76" period="2" second="38" time="79" type="card received" type_id="17"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="72" period="2" second="40" time="75" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="72" period="2" second="29" time="75" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Free kick)" minute="72" period="2" second="29" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Carr recieves a yellow card" minute="71" period="2" second="47" time="74" type="card received" type_id="17"/>
+	<message comment="Andrey Arshavin is substituted off" minute="69" period="2" second="55" time="72" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="69" period="2" second="55" time="72" type="substitution on" type_id="19"/>
+	<message comment="Marouane Chamakh is caught offside" minute="69" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Ben Foster makes a save (Diving, Collected)" minute="68" period="2" second="54" time="71" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="68" period="2" second="54" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Wilshere wins a corner (To the left)" minute="65" period="2" second="54" time="68" type="corner" type_id="6"/>
+	<message comment="Alexandre Song wins a corner (To the left)" minute="65" period="2" second="24" time="68" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson misses attempt (To the left, Out of box, Head, Open play)" minute="63" period="2" second="59" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="62" period="2" second="45" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="61" period="2" second="12" time="64" type="save made" type_id="10"/>
+	<message comment="Emmanuel Eboué has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="12" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="58" period="2" second="7" time="61" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has shot blocked (18-yard box, Right footed, Open play)" minute="58" period="2" second="7" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" minute="55" period="2" second="10" time="58" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson has shot blocked (Out of box, Right footed, Free kick)" minute="55" period="2" second="8" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Johan Djourou blocks a shot" minute="55" period="2" second="8" time="58" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save" minute="53" period="2" second="50" time="56" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="53" period="2" second="50" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Bowyer recieves a yellow card" minute="53" period="2" second="14" time="56" type="card received" type_id="17"/>
+	<message comment="Marouane Chamakh is caught offside" minute="48" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="GOAL! Marouane Chamakh scores , Assisted by Jack Wilshere (Low to the left, 6-yard box, Left footed, Open play)" minute="46" period="2" second="44" time="49" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="35" time="47" type="end" type_id="30"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="47" period="1" second="26" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Collected)" minute="47" period="1" second="26" time="47" type="save made" type_id="10"/>
+	<message comment="Samir Nasri recieves a yellow card" minute="41" period="1" second="56" time="41" type="card received" type_id="17"/>
+	<message comment="GOAL! Samir Nasri scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="40" period="1" second="26" time="40" type="goal scored" type_id="16"/>
+	<message comment="Nikola Zigic misses attempt (High, 18-yard box, Big Chance, Right footed, Set piece)" minute="38" period="1" second="30" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Aliaksandr Hleb blocks a shot" minute="34" period="1" second="32" time="34" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere has shot blocked (Out of box, Left footed, From corner)" minute="34" period="1" second="32" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song wins a corner (To the right)" minute="34" period="1" second="10" time="34" type="corner" type_id="6"/>
+	<message comment="Lee Bowyer blocks a shot" minute="34" period="1" second="6" time="34" type="save made" type_id="10"/>
+	<message comment="Alexandre Song has shot blocked (18-yard box, Right footed, Open play)" minute="34" period="1" second="6" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Nikola Zigic scores , Assisted by Keith Fahey (Low to the left, 18-yard box, Head, Throw-in)" minute="32" period="1" second="24" time="32" type="goal scored" type_id="16"/>
+	<message comment="Sébastien Squillaci misses attempt (To the right, 6-yard box, Head, From corner)" minute="29" period="1" second="42" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="29" period="1" second="31" time="29" type="corner" type_id="6"/>
+	<message comment="Abou Diaby wins a corner (To the left)" minute="29" period="1" second="11" time="29" type="corner" type_id="6"/>
+	<message comment="Lukasz Fabianski makes a save" minute="25" period="1" second="46" time="25" type="save made" type_id="10"/>
+	<message comment="Gaël Clichy misses attempt (18-yard box, Right footed, Open play)" minute="23" period="1" second="15" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Keith Fahey has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="22" period="1" second="7" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Collected)" minute="22" period="1" second="7" time="22" type="save made" type_id="10"/>
+	<message comment="Samir Nasri misses attempt (To the right, Out of box, Right footed, Fast break)" minute="20" period="1" second="5" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Andrey Arshavin wins a corner (To the left)" minute="18" period="1" second="28" time="18" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe, Other body part)" minute="18" period="1" second="23" time="18" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="18" period="1" second="23" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Sébastien Squillaci is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Roger Johnson blocks a shot" minute="7" period="1" second="39" time="7" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has shot blocked (18-yard box, Left footed, Open play)" minute="7" period="1" second="39" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="6" period="1" second="27" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Standing)" minute="6" period="1" second="27" time="6" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="5" period="1" second="55" time="5" type="corner" type_id="6"/>
+	<message comment="Stephen Carr blocks a shot" minute="4" period="1" second="15" time="4" type="save made" type_id="10"/>
+	<message comment="Marouane Chamakh has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="4" period="1" second="15" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="3" period="1" second="8" time="3" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="3" period="1" second="8" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

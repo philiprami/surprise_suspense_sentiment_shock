@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2013-11-03 16:00" game_id_2="27090534" game_id_4="111625648" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-03 17:36:04" minute="95" period="2" second="20" team="Swansea" time="96" type="end" type_id="30"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2013-11-03 17:35:02" minute="94" period="2" second="18" team="Swansea" time="95" type="corner" type_id="6"/>
+	<message comment="Peter Whittingham wins a corner (To the left)" last_modified="2013-11-03 17:33:29" minute="92" period="2" second="45" team="Swansea" time="93" type="corner" type_id="6"/>
+	<message comment="Peter Whittingham has attempt saved (High to the centre, Out of box, Left footed, Free kick)" last_modified="2013-11-03 17:33:26" minute="92" period="2" second="42" team="Swansea" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel makes a save (Parried safe)" last_modified="2013-11-03 17:33:26" minute="92" period="2" second="42" team="Cardiff" time="93" type="save made" type_id="10"/>
+	<message comment="Neil Taylor recieves a yellow card" last_modified="2013-11-03 17:31:32" minute="90" period="2" second="48" team="Cardiff" time="91" type="card received" type_id="17"/>
+	<message comment="Michel Vorm recieves a red card" last_modified="2013-11-03 17:31:16" minute="90" period="2" second="32" team="Cardiff" time="91" type="card received" type_id="17"/>
+	<message comment="Alejandro Pozuelo wins a corner (To the left)" last_modified="2013-11-03 17:30:32" minute="89" period="2" second="48" team="Cardiff" time="90" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" last_modified="2013-11-03 17:30:30" minute="89" period="2" second="46" team="Swansea" time="90" type="save made" type_id="10"/>
+	<message comment="Alejandro Pozuelo has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2013-11-03 17:30:30" minute="89" period="2" second="46" team="Cardiff" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" last_modified="2013-11-03 17:29:04" minute="88" period="2" second="20" team="Cardiff" time="89" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Free kick)" last_modified="2013-11-03 17:29:02" minute="88" period="2" second="18" team="Cardiff" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" last_modified="2013-11-03 17:29:02" minute="88" period="2" second="18" team="Swansea" time="89" type="save made" type_id="10"/>
+	<message comment="Gary Medel is substituted off" last_modified="2013-11-03 17:28:07" minute="87" period="2" second="23" team="Swansea" time="88" type="substitution off" type_id="18"/>
+	<message comment="Kim Bo-Kyung is substituted on" last_modified="2013-11-03 17:28:07" minute="87" period="2" second="23" team="Swansea" time="88" type="substitution on" type_id="19"/>
+	<message comment="Peter Whittingham recieves a yellow card" last_modified="2013-11-03 17:27:07" minute="86" period="2" second="23" team="Swansea" time="87" type="card received" type_id="17"/>
+	<message comment="Fraizer Campbell has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-11-03 17:22:28" minute="81" period="2" second="44" team="Swansea" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" last_modified="2013-11-03 17:22:28" minute="81" period="2" second="44" team="Cardiff" time="82" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-03 17:22:25" minute="81" period="2" second="41" team="Swansea" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor blocks a shot" last_modified="2013-11-03 17:22:25" minute="81" period="2" second="41" team="Cardiff" time="82" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is substituted off" last_modified="2013-11-03 17:21:42" minute="80" period="2" second="58" team="Cardiff" time="81" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Vázquez is substituted on" last_modified="2013-11-03 17:21:42" minute="80" period="2" second="58" team="Cardiff" time="81" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-03 17:21:13" minute="80" period="2" second="29" team="Cardiff" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is substituted off" last_modified="2013-11-03 17:15:18" minute="74" period="2" second="34" team="Swansea" time="75" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" last_modified="2013-11-03 17:15:18" minute="74" period="2" second="34" team="Swansea" time="75" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams is caught offside" last_modified="2013-11-03 17:13:44" minute="73" period="2" team="Cardiff" time="74" type="offside" type_id="10000"/>
+	<message comment="Wilfried Bony is caught offside" last_modified="2013-11-03 17:12:44" minute="72" period="2" team="Cardiff" time="73" type="offside" type_id="10000"/>
+	<message comment="Leon Britton is substituted off" last_modified="2013-11-03 17:11:39" minute="70" period="2" second="55" team="Cardiff" time="71" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" last_modified="2013-11-03 17:11:39" minute="70" period="2" second="55" team="Cardiff" time="71" type="substitution on" type_id="19"/>
+	<message comment="Neil Taylor misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-11-03 17:10:16" minute="69" period="2" second="32" team="Cardiff" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-03 17:09:42" minute="68" period="2" second="58" team="Swansea" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" last_modified="2013-11-03 17:09:42" minute="68" period="2" second="58" team="Cardiff" time="69" type="save made" type_id="10"/>
+	<message comment="Michu is substituted off" last_modified="2013-11-03 17:05:05" minute="64" period="2" second="21" team="Cardiff" time="65" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony is substituted on" last_modified="2013-11-03 17:05:05" minute="64" period="2" second="21" team="Cardiff" time="65" type="substitution on" type_id="19"/>
+	<message comment="Michu is caught offside" last_modified="2013-11-03 17:04:44" minute="64" period="2" team="Cardiff" time="65" type="offside" type_id="10000"/>
+	<message comment="GOAL! Steven Caulker scores , Assisted by Craig Bellamy (Low to the right, 18-yard box, Head, From corner)" last_modified="2013-11-03 17:02:34" minute="61" period="2" second="50" team="Swansea" time="62" type="goal scored" type_id="16"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the right)" last_modified="2013-11-03 17:02:05" minute="61" period="2" second="21" team="Swansea" time="62" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-03 16:57:44" minute="57" period="2" team="Swansea" time="58" type="offside" type_id="10000"/>
+	<message comment="Jordon Mutch is substituted off" last_modified="2013-11-03 16:54:37" minute="53" period="2" second="53" team="Swansea" time="54" type="substitution off" type_id="18"/>
+	<message comment="Aron Gunnarsson is substituted on" last_modified="2013-11-03 16:54:37" minute="53" period="2" second="53" team="Swansea" time="54" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-03 16:51:44" minute="51" period="2" team="Swansea" time="52" type="offside" type_id="10000"/>
+	<message comment="Peter Whittingham misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-03 16:51:02" minute="50" period="2" second="18" team="Swansea" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" last_modified="2013-11-03 16:46:39" minute="45" period="2" second="55" team="Swansea" time="46" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2013-11-03 16:45:44" minute="45" period="2" second="0" team="Swansea" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-03 16:46:32" minute="45" period="1" second="48" team="Swansea" time="45" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-03 16:44:19" minute="43" period="1" second="35" team="Swansea" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Don Cowie blocks a shot" last_modified="2013-11-03 16:42:43" minute="41" period="1" second="59" team="Swansea" time="41" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-03 16:42:43" minute="41" period="1" second="59" team="Cardiff" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-03 16:42:34" minute="41" period="1" second="50" team="Cardiff" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" last_modified="2013-11-03 16:42:34" minute="41" period="1" second="50" team="Swansea" time="41" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham blocks a shot" last_modified="2013-11-03 16:31:16" minute="30" period="1" second="32" team="Swansea" time="30" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-03 16:31:16" minute="30" period="1" second="32" team="Cardiff" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2013-11-03 16:30:44" minute="30" period="1" team="Cardiff" time="30" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" last_modified="2013-11-03 16:26:15" minute="25" period="1" second="31" team="Swansea" time="25" type="corner" type_id="6"/>
+	<message comment="Craig Bellamy has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-11-03 16:26:12" minute="25" period="1" second="28" team="Swansea" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot" last_modified="2013-11-03 16:26:12" minute="25" period="1" second="28" team="Cardiff" time="25" type="save made" type_id="10"/>
+	<message comment="Don Cowie wins a corner (To the right)" last_modified="2013-11-03 16:20:30" minute="19" period="1" second="46" team="Swansea" time="19" type="corner" type_id="6"/>
+	<message comment="Don Cowie misses attempt (To the left, 6-yard box, Head, Set piece)" last_modified="2013-11-03 16:19:28" minute="18" period="1" second="44" team="Swansea" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Michu is caught offside" last_modified="2013-11-03 16:14:44" minute="14" period="1" team="Cardiff" time="14" type="offside" type_id="10000"/>
+	<message comment="Angel Rangel wins a corner (To the right)" last_modified="2013-11-03 16:10:32" minute="9" period="1" second="48" team="Cardiff" time="9" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" last_modified="2013-11-03 16:10:07" minute="9" period="1" second="23" team="Swansea" time="9" type="save made" type_id="10"/>
+	<message comment="Michu has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-11-03 16:10:07" minute="9" period="1" second="23" team="Cardiff" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-03 16:07:56" minute="7" period="1" second="12" team="Cardiff" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-11-03 16:00:44" minute="0" period="14" second="0" team="Swansea" time="6" type="end" type_id="30"/>
+	<message comment="Don Cowie is caught offside" last_modified="2013-11-03 16:05:44" minute="5" period="1" team="Swansea" time="5" type="offside" type_id="10000"/>
+	<message comment="Michu misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2013-11-03 16:04:52" minute="4" period="1" second="8" team="Cardiff" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2013-11-03 16:00:44" minute="0" period="1" second="0" team="Swansea" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2011-01-01" home_team_name="Fulham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="20" time="95" type="end" type_id="30"/>
+	<message comment="Jermaine Jenas misses attempt (To the right, Out of box, Right footed, From corner)" minute="91" period="2" second="23" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="90" period="2" second="46" time="92" type="corner" type_id="6"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, Out of box, Right footed, Fast break)" minute="89" period="2" second="35" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save" minute="89" period="2" second="35" time="91" type="save made" type_id="10"/>
+	<message comment="Luka Modric misses attempt (To the left, Out of box, Right footed, Open play)" minute="89" period="2" second="1" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Benoit Assou-Ekotto recieves a yellow card" minute="85" period="2" second="59" time="87" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon misses attempt (High, 18-yard box, Right footed, Fast break)" minute="84" period="2" second="11" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="26" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Jenas blocks a shot" minute="83" period="2" second="26" time="85" type="save made" type_id="10"/>
+	<message comment="Simon Davies has shot blocked (18-yard box, Right footed, Open play)" minute="83" period="2" second="23" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Wilson Palacios blocks a shot" minute="83" period="2" second="23" time="85" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart is substituted off" minute="82" period="2" second="12" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Jenas is substituted on" minute="82" period="2" second="12" time="84" type="substitution on" type_id="19"/>
+	<message comment="Damien Duff is substituted off" minute="81" period="2" second="52" time="83" type="substitution off" type_id="18"/>
+	<message comment="Zoltán Gera is substituted on" minute="81" period="2" second="52" time="83" type="substitution on" type_id="19"/>
+	<message comment="Clint Dempsey misses attempt (High to the right, Out of box, Right footed, Open play)" minute="81" period="2" second="34" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Right footed, Open play)" minute="80" period="2" second="53" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="80" period="2" second="53" time="82" type="save made" type_id="10"/>
+	<message comment="Michael Dawson misses attempt (High, 18-yard box, Right footed, From corner)" minute="77" period="2" second="17" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="76" period="2" second="51" time="78" type="corner" type_id="6"/>
+	<message comment="Gareth Bale misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="75" period="2" second="27" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Dickson Etuhu misses attempt (To the left, 18-yard box, Right footed, Throw-in)" minute="70" period="2" second="30" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon is caught offside" minute="68" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Roman Pavlyuchenko is substituted off" minute="66" period="2" second="6" time="68" type="substitution off" type_id="18"/>
+	<message comment="Peter Crouch is substituted on" minute="66" period="2" second="6" time="68" type="substitution on" type_id="19"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="64" period="2" second="14" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Collected)" minute="64" period="2" second="14" time="66" type="save made" type_id="10"/>
+	<message comment="Chris Baird misses attempt (To the right, Out of box, Right footed, Open play)" minute="62" period="2" second="55" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Heurelho Gomes makes a save (Diving, Parried into danger)" minute="62" period="2" second="46" time="64" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="62" period="2" second="46" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff misses attempt (To the left, Out of box, Left footed, Open play)" minute="61" period="2" second="56" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (Out of box, Right footed, Open play)" minute="60" period="2" second="46" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="59" period="2" second="13" time="61" type="corner" type_id="6"/>
+	<message comment="Danny Murphy misses attempt (To the left, Out of box, Right footed, Set piece)" minute="56" period="2" second="50" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Chris Baird has shot blocked (Out of box, Right footed, Free kick)" minute="56" period="2" second="42" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale blocks a shot" minute="56" period="2" second="42" time="58" type="save made" type_id="10"/>
+	<message comment="Damien Duff is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Damien Duff misses attempt (High, 18-yard box, Right footed, Open play)" minute="50" period="2" second="55" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="15" time="46" type="end" type_id="30"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="45" period="1" second="33" time="45" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Feet, Parried safe)" minute="43" period="1" second="0" time="43" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="43" period="1" second="0" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Rafael van der Vaart (High to the centre, 18-yard box, Head, Set piece)" minute="41" period="1" second="34" time="41" type="goal scored" type_id="16"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Key pass, Left footed, Free kick)" minute="41" period="1" second="33" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" minute="34" period="1" second="27" time="34" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has attempt saved (Low to the centre, Out of box, Left footed, From corner)" minute="34" period="1" second="27" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Luka Modric misses attempt (To the right, 18-yard box, Head, From corner)" minute="34" period="1" second="1" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart wins a corner (To the left)" minute="33" period="1" second="40" time="33" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger, Diving)" minute="31" period="1" second="44" time="31" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto has attempt saved (Low to the right, Out of box, Left footed, Throw-in)" minute="31" period="1" second="44" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Dickson Etuhu blocks a shot" minute="30" period="1" second="6" time="30" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (Out of box, Left footed, Fast break)" minute="30" period="1" second="6" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Hutton is substituted off" minute="27" period="1" second="0" time="27" type="substitution off" type_id="18"/>
+	<message comment="Vedran Corluka is substituted on" minute="27" period="1" second="0" time="27" type="substitution on" type_id="19"/>
+	<message comment="Michael Dawson recieves a yellow card" minute="24" period="1" second="23" time="24" type="card received" type_id="17"/>
+	<message comment="Andrew Johnson is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="19" period="1" second="47" time="19" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey misses attempt (To the right, Out of box, Left footed, Fast break)" minute="18" period="1" second="54" time="18" type="attempt missed" type_id="13"/>
+	<message comment="John Pantsil recieves a yellow card" minute="17" period="1" second="50" time="17" type="card received" type_id="17"/>
+	<message comment="Danny Murphy blocks a shot" minute="16" period="1" second="32" time="16" type="save made" type_id="10"/>
+	<message comment="Alan Hutton has shot blocked (Out of box, Left footed, Open play)" minute="16" period="1" second="32" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Roman Pavlyuchenko is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Dickson Etuhu blocks a shot" minute="4" period="1" second="0" time="4" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Left footed, Free kick)" minute="4" period="1" second="0" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

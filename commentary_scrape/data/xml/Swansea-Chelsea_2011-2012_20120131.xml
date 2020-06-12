@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2012-01-31" home_team_name="Chelsea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="31" time="96" type="end" type_id="30"/>
+	<message comment="Neil Taylor scores an OWN GOAL!  (Low to the centre, 18-yard box, Other body part, Open play)" minute="92" period="2" second="25" time="94" type="goal scored" type_id="16"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving)" minute="91" period="2" second="37" time="93" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="91" period="2" second="37" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles recieves a yellow card" minute="86" period="2" second="19" time="88" type="card received" type_id="17"/>
+	<message comment="Ashley Cole recieves a red card after receiving second yellow card" minute="85" period="2" second="3" time="87" type="card received" type_id="17"/>
+	<message comment="José Bosingwa misses attempt (18-yard box, Left footed, Open play)" minute="84" period="2" second="1" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="82" period="2" second="51" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda is substituted off" minute="79" period="2" second="22" time="81" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="79" period="2" second="22" time="81" type="substitution on" type_id="19"/>
+	<message comment="Steven Caulker blocks a shot" minute="78" period="2" second="41" time="80" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" minute="78" period="2" second="41" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Sinclair is substituted off" minute="77" period="2" second="36" time="79" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="77" period="2" second="36" time="79" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Left footed, Open play)" minute="76" period="2" second="39" time="78" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the left)" minute="75" period="2" second="0" time="77" type="corner" type_id="6"/>
+	<message comment="Scott Sinclair is caught offside" minute="72" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="70" period="2" second="44" time="72" type="corner" type_id="6"/>
+	<message comment="Michael Essien misses attempt (To the right, Out of box, Right footed, Open play)" minute="68" period="2" second="15" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="66" period="2" second="36" time="68" type="substitution off" type_id="18"/>
+	<message comment="Kemy Agustien is substituted on" minute="66" period="2" second="36" time="68" type="substitution on" type_id="19"/>
+	<message comment="Michael Essien misses attempt (Out of box, Right footed, From corner)" minute="65" period="2" second="57" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="65" period="2" second="39" time="67" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Head, From corner)" minute="65" period="2" second="37" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="65" period="2" second="37" time="67" type="save made" type_id="10"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="65" period="2" second="21" time="67" type="corner" type_id="6"/>
+	<message comment="Michael Essien is substituted on" minute="64" period="2" second="48" time="66" type="substitution on" type_id="19"/>
+	<message comment="Oriol Romeu is substituted off" minute="64" period="2" second="48" time="66" type="substitution off" type_id="18"/>
+	<message comment="José Bosingwa has shot blocked (18-yard box, Left footed, From corner)" minute="58" period="2" second="30" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="58" period="2" second="30" time="60" type="save made" type_id="10"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="58" period="2" second="11" time="60" type="corner" type_id="6"/>
+	<message comment="David Luiz wins a corner (To the left)" minute="51" period="2" second="12" time="53" type="corner" type_id="6"/>
+	<message comment="Danny Graham is caught offside" minute="49" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Oriol Romeu misses attempt (To the left, Out of box, Right footed, Open play)" minute="48" period="2" second="39" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="47" period="2" second="32" time="49" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="30" time="46" type="end" type_id="30"/>
+	<message comment="Florent Malouda recieves a yellow card" minute="46" period="1" second="0" time="46" type="card received" type_id="17"/>
+	<message comment="Ashley Cole recieves a yellow card" minute="44" period="1" second="19" time="44" type="card received" type_id="17"/>
+	<message comment="GOAL! Scott Sinclair scores  (High to the left, 18-yard box, Left footed, Set piece)" minute="38" period="1" second="59" time="38" type="goal scored" type_id="16"/>
+	<message comment="David Luiz has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="35" period="1" second="47" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="35" period="1" second="47" time="35" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="35" period="1" second="26" time="35" type="corner" type_id="6"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="35" period="1" second="1" time="35" type="corner" type_id="6"/>
+	<message comment="Raul Meireles has shot blocked (Out of box, Right footed, From corner)" minute="34" period="1" second="30" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="34" period="1" second="30" time="34" type="save made" type_id="10"/>
+	<message comment="Oriol Romeu wins a corner (To the left)" minute="33" period="1" second="59" time="33" type="corner" type_id="6"/>
+	<message comment="Oriol Romeu has attempt saved (Low to the left, Out of box, Right footed, From corner)" minute="33" period="1" second="56" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Diving)" minute="33" period="1" second="56" time="33" type="save made" type_id="10"/>
+	<message comment="Juan Mata wins a corner (To the left)" minute="33" period="1" second="25" time="33" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="33" period="1" second="1" time="33" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="33" period="1" second="1" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="32" period="1" second="21" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata misses attempt (To the right, Out of box, Right footed, Open play)" minute="30" period="1" second="48" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="29" period="1" second="55" time="29" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" minute="29" period="1" second="52" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="29" period="1" second="52" time="29" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="25" period="1" second="22" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot" minute="25" period="1" second="22" time="25" type="save made" type_id="10"/>
+	<message comment="José Bosingwa misses attempt (Out of box, Left footed, Open play)" minute="23" period="1" second="44" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="17" period="1" second="39" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="17" period="1" second="39" time="17" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Feet, Diving, Parried into danger)" minute="15" period="1" second="44" time="15" type="save made" type_id="10"/>
+	<message comment="Joe Allen has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="15" period="1" second="44" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot (Last line)" minute="15" period="1" second="41" time="15" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="15" period="1" second="41" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic blocks a shot (Last line)" minute="15" period="1" second="38" time="15" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="38" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor recieves a yellow card" minute="13" period="1" second="5" time="13" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Left footed, Open play)" minute="12" period="1" second="5" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Danny Graham is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Scott Sinclair wins a corner (To the left)" minute="8" period="1" second="32" time="8" type="corner" type_id="6"/>
+	<message comment="Danny Graham misses attempt (To the right, 18-yard box, Left footed, Set piece)" minute="6" period="1" second="59" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic blocks a shot" minute="6" period="1" second="57" time="6" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has shot blocked (18-yard box, Head, Set piece)" minute="6" period="1" second="57" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2014-04-05" home_team_name="Manchester United" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="36" time="97" type="end" type_id="30"/>
+	<message comment="Nani misses attempt (18-yard box, Left footed, Open play)" minute="93" period="2" second="37" time="96" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Adnan Januzaj scores , Assisted by Juan Mata (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="92" period="2" second="2" time="95" type="goal scored" type_id="16"/>
+	<message comment="Yoan Gouffran is substituted off" minute="84" period="2" second="40" time="87" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="84" period="2" second="40" time="87" type="substitution on" type_id="19"/>
+	<message comment="Davide Santon misses attempt (To the right, Out of box, Right footed, Open play)" minute="83" period="2" second="34" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Anders Lindegaard makes a save (Parried safe, Diving)" minute="83" period="2" second="25" time="86" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="83" period="2" second="24" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Hatem Ben Arfa misses attempt (To the right, Out of box, Left footed, Open play)" minute="77" period="2" second="10" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jones blocks a shot" minute="76" period="2" second="11" time="79" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" minute="76" period="2" second="11" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Adnan Januzaj misses attempt (High to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="0" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the right)" minute="70" period="2" second="54" time="73" type="corner" type_id="6"/>
+	<message comment="Anders Lindegaard makes a save (Parried safe, Diving)" minute="70" period="2" second="51" time="73" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="70" period="2" second="51" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon wins a corner (To the right)" minute="70" period="2" second="14" time="73" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini is substituted off" minute="69" period="2" second="12" time="72" type="substitution off" type_id="18"/>
+	<message comment="Nani is substituted on" minute="69" period="2" second="12" time="72" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté misses attempt (High to the right, Out of box, Right footed, Open play)" minute="68" period="2" second="43" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the left, Out of box, Left footed, Open play)" minute="66" period="2" second="33" time="69" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Chicharito scores , Assisted by Shinji Kagawa (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="64" period="2" second="0" time="67" type="goal scored" type_id="16"/>
+	<message comment="Patrice Evra is substituted off" minute="63" period="2" second="42" time="66" type="substitution off" type_id="18"/>
+	<message comment="Alexander Büttner is substituted on" minute="63" period="2" second="42" time="66" type="substitution on" type_id="19"/>
+	<message comment="Massadio Haidara wins a corner (To the left)" minute="61" period="2" second="55" time="64" type="corner" type_id="6"/>
+	<message comment="Luuk de Jong is substituted off" minute="60" period="2" second="25" time="63" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" minute="60" period="2" second="25" time="63" type="substitution on" type_id="19"/>
+	<message comment="Chicharito misses attempt (High, 18-yard box, Right footed, Open play)" minute="59" period="2" second="52" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is caught offside" minute="58" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="52" period="2" second="55" time="55" type="corner" type_id="6"/>
+	<message comment="Shinji Kagawa wins a corner (To the right)" minute="52" period="2" second="8" time="55" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="51" period="2" second="35" time="54" type="card received" type_id="17"/>
+	<message comment="GOAL! Juan Mata scores , Assisted by Chicharito (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="49" period="2" second="23" time="52" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="7" time="47" type="end" type_id="30"/>
+	<message comment="Chicharito hits the woodwork (To the right, 18-yard box, Big Chance, Right footed, Open play)" minute="43" period="1" second="29" time="43" type="woodwork hit" type_id="14"/>
+	<message comment="Marouane Fellaini blocks a shot" minute="42" period="1" second="54" time="42" type="save made" type_id="10"/>
+	<message comment="Vurnon Anita has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="54" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="GOAL! Juan Mata scores  (High to the right, Out of box, Left footed, Free kick)" minute="38" period="1" second="1" time="38" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="28" period="1" second="32" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the left)" minute="23" period="1" second="44" time="23" type="corner" type_id="6"/>
+	<message comment="Anders Lindegaard makes a save (Diving, Parried safe)" minute="23" period="1" second="40" time="23" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="23" period="1" second="40" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Anders Lindegaard makes a save (Collected, Standing)" minute="21" period="1" second="10" time="21" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the left, 18-yard box, Right footed, Set piece)" minute="21" period="1" second="10" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Young is substituted off" minute="17" period="1" second="15" time="17" type="substitution off" type_id="18"/>
+	<message comment="Adnan Januzaj is substituted on" minute="17" period="1" second="15" time="17" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté misses attempt (High, 18-yard box, Right footed, Open play)" minute="15" period="1" second="42" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Young wins a corner (To the right)" minute="12" period="1" second="0" time="12" type="corner" type_id="6"/>
+	<message comment="Ashley Young wins a corner (To the right)" minute="10" period="1" second="9" time="10" type="corner" type_id="6"/>
+	<message comment="Ashley Young wins a corner (To the right)" minute="4" period="1" second="28" time="4" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="46" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Dan Gosling misses attempt (18-yard box, Head, Set piece)" minute="1" period="1" second="18" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

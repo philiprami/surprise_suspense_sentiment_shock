@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2012-04-22" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="37" time="97" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="93" period="2" second="38" time="95" type="card received" type_id="17"/>
+	<message comment="Simon Cox misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="93" period="2" second="5" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scharner has shot blocked (Out of box, Right footed, Open play)" minute="93" period="2" second="2" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="93" period="2" second="2" time="95" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe, Feet)" minute="90" period="2" second="52" time="92" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="90" period="2" second="52" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Keith Andrews misses attempt (High to the right, Out of box, Right footed, From corner)" minute="88" period="2" second="57" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="88" period="2" second="22" time="90" type="corner" type_id="6"/>
+	<message comment="Graham Dorrans is substituted off" minute="85" period="2" second="38" time="87" type="substitution off" type_id="18"/>
+	<message comment="Simon Cox is substituted on" minute="85" period="2" second="38" time="87" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Gareth McAuley blocks a shot" minute="82" period="2" second="38" time="84" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, From corner)" minute="82" period="2" second="38" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Spearing is substituted off" minute="82" period="2" second="25" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="82" period="2" second="25" time="84" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is substituted off" minute="82" period="2" second="9" time="84" type="substitution off" type_id="18"/>
+	<message comment="Paul Scharner is substituted on" minute="82" period="2" second="9" time="84" type="substitution on" type_id="19"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" minute="81" period="2" second="55" time="83" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="81" period="2" second="33" time="83" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (Out of box, Left footed, From corner)" minute="81" period="2" second="33" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" minute="81" period="2" second="15" time="83" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson blocks a shot (Last line)" minute="79" period="2" second="19" time="81" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="19" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Diving)" minute="79" period="2" second="17" time="81" type="save made" type_id="10"/>
+	<message comment="Craig Bellamy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="79" period="2" second="17" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" minute="79" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="78" period="2" second="12" time="80" type="corner" type_id="6"/>
+	<message comment="Daniel Agger recieves a yellow card" minute="76" period="2" second="30" time="78" type="card received" type_id="17"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="75" period="2" second="45" time="77" type="corner" type_id="6"/>
+	<message comment="GOAL! Peter Odemwingie scores , Assisted by Youssouf Mulumbu (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="74" period="2" second="25" time="76" type="goal scored" type_id="16"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="74" period="2" second="9" time="76" type="save made" type_id="10"/>
+	<message comment="Glen Johnson has shot blocked (Out of box, Left footed, From corner)" minute="74" period="2" second="9" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="73" period="2" second="50" time="75" type="corner" type_id="6"/>
+	<message comment="Maxi Rodríguez is substituted off" minute="73" period="2" second="24" time="75" type="substitution off" type_id="18"/>
+	<message comment="Stewart Downing is substituted on" minute="73" period="2" second="24" time="75" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez is caught offside" minute="70" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" minute="69" period="2" second="32" time="71" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas is substituted off" minute="68" period="2" second="51" time="70" type="substitution off" type_id="18"/>
+	<message comment="Keith Andrews is substituted on" minute="68" period="2" second="51" time="70" type="substitution on" type_id="19"/>
+	<message comment="Dirk Kuyt is substituted off" minute="67" period="2" second="55" time="69" type="substitution off" type_id="18"/>
+	<message comment="Craig Bellamy is substituted on" minute="67" period="2" second="55" time="69" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson misses attempt (Out of box, Left footed, Open play)" minute="67" period="2" second="17" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="66" period="2" second="15" time="68" type="corner" type_id="6"/>
+	<message comment="Chris Brunt blocks a shot (Last line)" minute="66" period="2" second="10" time="68" type="save made" type_id="10"/>
+	<message comment="Jay Spearing has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="10" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Spearing misses attempt (High to the left, Out of box, Left footed, From corner)" minute="64" period="2" second="32" time="66" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="64" period="2" second="6" time="66" type="corner" type_id="6"/>
+	<message comment="Andy Carroll misses attempt (High, 18-yard box, Big Chance, Head, Open play)" minute="62" period="2" second="14" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (High, 18-yard box, Right footed, Open play)" minute="60" period="2" second="4" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="59" period="2" second="29" time="61" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="29" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez misses attempt (High, Out of box, Right footed, Open play)" minute="56" period="2" second="25" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Right footed, Open play)" minute="53" period="2" second="5" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (18-yard box, Head, From corner)" minute="51" period="2" second="25" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the left)" minute="51" period="2" second="2" time="53" type="corner" type_id="6"/>
+	<message comment="Shane Long is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Jordan Henderson hits the woodwork (High, Out of box, Right footed, Open play)" minute="49" period="2" second="15" time="51" type="woodwork hit" type_id="14"/>
+	<message comment="Dirk Kuyt wins a corner (To the left)" minute="45" period="2" second="58" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="19" time="46" type="end" type_id="30"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="45" period="1" second="24" time="45" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="45" period="1" second="24" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger wins a corner (To the left)" minute="41" period="1" second="3" time="41" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Feet, Parried safe, Diving, From shot off target)" minute="41" period="1" second="0" time="41" type="save made" type_id="10"/>
+	<message comment="Daniel Agger misses attempt (18-yard box, Right footed, From corner)" minute="40" period="1" second="59" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Billy Jones blocks a shot" minute="40" period="1" second="38" time="40" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (18-yard box, Right footed, From corner)" minute="40" period="1" second="38" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt wins a corner (To the left)" minute="40" period="1" second="15" time="40" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="39" period="1" second="13" time="39" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, Out of box, Right footed, Open play)" minute="37" period="1" second="6" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Right footed, Open play)" minute="36" period="1" second="15" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Jay Spearing misses attempt (Out of box, Right footed, Open play)" minute="34" period="1" second="21" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley has attempt saved (Low to the centre, 6-yard box, Right footed, From corner)" minute="33" period="1" second="1" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing, Parried into danger, Other body part)" minute="33" period="1" second="1" time="33" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="32" period="1" second="31" time="32" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Head, Open play)" minute="29" period="1" second="23" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Martin Skrtel wins a corner (To the right)" minute="28" period="1" second="45" time="28" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="28" period="1" second="42" time="28" type="save made" type_id="10"/>
+	<message comment="Martin Skrtel has shot blocked (18-yard box, Head, From corner)" minute="28" period="1" second="42" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt wins a corner (To the right)" minute="28" period="1" second="20" time="28" type="corner" type_id="6"/>
+	<message comment="Ben Foster has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="27" period="1" second="38" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried into danger, Diving)" minute="27" period="1" second="38" time="27" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez misses attempt (High, 18-yard box, Right footed, Open play)" minute="23" period="1" second="43" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Parried into danger)" minute="23" period="1" second="38" time="23" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="23" period="1" second="38" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="22" period="1" second="23" time="22" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Fast break)" minute="22" period="1" second="23" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Head, Open play)" minute="20" period="1" second="15" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="18" period="1" second="7" time="18" type="corner" type_id="6"/>
+	<message comment="José Enrique misses attempt (High to the left, Out of box, Left footed, Open play)" minute="15" period="1" second="42" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt misses attempt (Out of box, Left footed, Open play)" minute="13" period="1" second="8" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Dirk Kuyt misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="9" period="1" second="52" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="9" period="1" second="21" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique blocks a shot" minute="9" period="1" second="21" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Jonas Olsson blocks a shot" minute="5" period="1" second="43" time="5" type="save made" type_id="10"/>
+	<message comment="Glen Johnson has shot blocked (Out of box, Left footed, Open play)" minute="5" period="1" second="43" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

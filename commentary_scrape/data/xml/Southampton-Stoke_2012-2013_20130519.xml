@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-05-19" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="2" time="95" type="end" type_id="30"/>
+	<message comment="Cameron Jerome is caught offside" minute="90" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Emmanuel Mayuka misses attempt (Out of box, Right footed, Open play)" minute="89" period="2" second="38" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Michael Owen misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="84" period="2" second="30" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Diving, Collected)" minute="83" period="2" second="34" time="85" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="83" period="2" second="34" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Cork is substituted off" minute="81" period="2" second="19" time="83" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Mayuka is substituted on" minute="81" period="2" second="19" time="83" type="substitution on" type_id="19"/>
+	<message comment="Luke Shaw misses attempt (High to the left, Out of box, Left footed, Open play)" minute="79" period="2" second="15" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" minute="75" period="2" second="37" time="77" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="75" period="2" second="37" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters is substituted off" minute="73" period="2" second="29" time="75" type="substitution off" type_id="18"/>
+	<message comment="Michael Owen is substituted on" minute="73" period="2" second="29" time="75" type="substitution on" type_id="19"/>
+	<message comment="Steven Davis is substituted off" minute="73" period="2" second="26" time="75" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" minute="73" period="2" second="26" time="75" type="substitution on" type_id="19"/>
+	<message comment="Matthew Etherington is substituted off" minute="68" period="2" second="25" time="70" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="68" period="2" second="25" time="70" type="substitution on" type_id="19"/>
+	<message comment="José Fonte wins a corner (To the left)" minute="65" period="2" second="8" time="67" type="corner" type_id="6"/>
+	<message comment="Adam Lallana is substituted off" minute="63" period="2" second="46" time="65" type="substitution off" type_id="18"/>
+	<message comment="Jason Puncheon is substituted on" minute="63" period="2" second="46" time="65" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shotton misses attempt (High to the right, Out of box, Right footed, From corner)" minute="60" period="2" second="56" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="60" period="2" second="28" time="62" type="corner" type_id="6"/>
+	<message comment="Robert Huth has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="58" period="2" second="34" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save (Standing)" minute="58" period="2" second="34" time="60" type="save made" type_id="10"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="58" period="2" second="12" time="60" type="corner" type_id="6"/>
+	<message comment="GOAL! Rickie Lambert scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="56" period="2" second="18" time="58" type="goal scored" type_id="16"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger)" minute="56" period="2" second="17" time="58" type="save made" type_id="10"/>
+	<message comment="Steven Davis has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="56" period="2" second="17" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="52" period="2" second="20" time="54" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Feet, Diving, Parried safe)" minute="52" period="2" second="18" time="54" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="52" period="2" second="18" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Nzonzi is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Asmir Begovic makes a save (Feet, Parried safe, Diving)" minute="49" period="2" second="3" time="51" type="save made" type_id="10"/>
+	<message comment="Steven Davis has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="49" period="2" second="3" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Geoff Cameron (Low to the left, 18-yard box, Head, Open play)" minute="46" period="2" second="6" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="44" period="1" second="58" time="44" type="corner" type_id="6"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="43" period="1" second="57" time="43" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="40" period="1" second="8" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save" minute="40" period="1" second="8" time="40" type="save made" type_id="10"/>
+	<message comment="Geoff Cameron blocks a shot" minute="37" period="1" second="31" time="37" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="31" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Etherington misses attempt (Out of box, Left footed, Set piece)" minute="34" period="1" second="10" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Andy Wilkinson misses attempt (High to the left, Out of box, Left footed, Open play)" minute="29" period="1" second="48" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Steven Nzonzi recieves a yellow card" minute="27" period="1" second="39" time="27" type="card received" type_id="17"/>
+	<message comment="Marc Wilson is substituted off" minute="19" period="1" second="37" time="19" type="substitution off" type_id="18"/>
+	<message comment="Andy Wilkinson is substituted on" minute="19" period="1" second="37" time="19" type="substitution on" type_id="19"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="16" period="1" second="31" time="16" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert misses attempt (18-yard box, Head, Open play)" minute="12" period="1" second="13" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (High to the right, Out of box, Right footed, Open play)" minute="9" period="1" second="19" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Marc Wilson misses attempt (High, Out of box, Right footed, Free kick)" minute="6" period="1" second="52" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Dean Whitehead recieves a yellow card" minute="4" period="1" second="52" time="4" type="card received" type_id="17"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the left, 18-yard box, Left footed, Throw-in)" minute="0" period="1" second="28" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger, Diving)" minute="0" period="1" second="28" time="0" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

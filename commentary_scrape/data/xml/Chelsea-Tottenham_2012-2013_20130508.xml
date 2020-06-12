@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-05-08" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="7" time="97" type="end" type_id="30"/>
+	<message comment="Gareth Bale has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="92" period="2" second="25" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="92" period="2" second="25" time="95" type="save made" type_id="10"/>
+	<message comment="Ramires recieves a yellow card" minute="91" period="2" second="5" time="94" type="card received" type_id="17"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="90" period="2" second="24" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="90" period="2" second="24" time="93" type="save made" type_id="10"/>
+	<message comment="Gareth Bale recieves a yellow card" minute="86" period="2" second="15" time="89" type="card received" type_id="17"/>
+	<message comment="Oscar is substituted off" minute="83" period="2" second="59" time="86" type="substitution off" type_id="18"/>
+	<message comment="Yossi Benayoun is substituted on" minute="83" period="2" second="59" time="86" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale misses attempt (High to the left, Out of box, Left footed, Open play)" minute="83" period="2" second="12" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="82" period="2" second="1" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="81" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores , Assisted by Emmanuel Adebayor (Low to the right, 18-yard box, Right footed, Open play)" minute="79" period="2" second="42" time="82" type="goal scored" type_id="16"/>
+	<message comment="Hugo Lloris makes a save (Standing, Collected)" minute="79" period="2" second="7" time="82" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="79" period="2" second="7" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen recieves a yellow card" minute="78" period="2" second="21" time="81" type="card received" type_id="17"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="76" period="2" second="38" time="79" type="corner" type_id="6"/>
+	<message comment="Scott Parker wins a corner (To the left)" minute="76" period="2" second="17" time="79" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="74" period="2" second="30" time="77" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic blocks a shot" minute="74" period="2" second="29" time="77" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" minute="74" period="2" second="29" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard is substituted off" minute="72" period="2" second="45" time="75" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="72" period="2" second="45" time="75" type="substitution on" type_id="19"/>
+	<message comment="Lewis Holtby is substituted off" minute="69" period="2" second="47" time="72" type="substitution off" type_id="18"/>
+	<message comment="Clint Dempsey is substituted on" minute="69" period="2" second="47" time="72" type="substitution on" type_id="19"/>
+	<message comment="Jan Vertonghen misses attempt (High to the right, 6-yard box, Left footed, Set piece)" minute="63" period="2" second="46" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon is substituted off" minute="61" period="2" second="39" time="64" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="61" period="2" second="39" time="64" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="59" period="2" second="56" time="62" type="corner" type_id="6"/>
+	<message comment="Eden Hazard misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="55" period="2" second="27" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard wins a corner (To the right)" minute="51" period="2" second="45" time="54" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="50" period="2" second="57" time="53" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Right footed, Throw-in)" minute="50" period="2" second="57" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" minute="49" period="2" second="59" time="52" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="47" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Kyle Walker wins a corner (To the left)" minute="46" period="2" second="46" time="49" type="corner" type_id="6"/>
+	<message comment="Oscar wins a corner (To the right)" minute="45" period="2" second="56" time="48" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon is caught offside" minute="45" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="20" time="47" type="end" type_id="30"/>
+	<message comment="Scott Parker misses attempt (High to the right, Out of box, Right footed, Open play)" minute="47" period="1" second="2" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Lloris makes a save (Collected, Diving)" minute="44" period="1" second="31" time="44" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="44" period="1" second="31" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker misses attempt (18-yard box, Left footed, Throw-in)" minute="42" period="1" second="17" time="42" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Ramires scores , Assisted by Fernando Torres (Low to the left, 18-yard box, Right footed, Open play)" minute="38" period="1" second="22" time="38" type="goal scored" type_id="16"/>
+	<message comment="Ramires misses attempt (High, Out of box, Right footed, Set piece)" minute="37" period="1" second="34" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor misses attempt (High, 18-yard box, Right footed, Open play)" minute="36" period="1" second="21" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill blocks a shot" minute="34" period="1" second="28" time="34" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (18-yard box, Right footed, Open play)" minute="34" period="1" second="28" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="César Azpilicueta misses attempt (18-yard box, Head, From corner)" minute="33" period="1" second="30" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" minute="33" period="1" second="2" time="33" type="corner" type_id="6"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Lewis Holtby (High to the right, Out of box, Right footed, Fast break)" minute="25" period="1" second="35" time="25" type="goal scored" type_id="16"/>
+	<message comment="Scott Parker blocks a shot" minute="25" period="1" second="19" time="25" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, From corner)" minute="25" period="1" second="19" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="24" period="1" second="30" time="24" type="corner" type_id="6"/>
+	<message comment="Michael Dawson blocks a shot" minute="24" period="1" second="29" time="24" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="29" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker blocks a shot" minute="21" period="1" second="32" time="21" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Free kick)" minute="21" period="1" second="32" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata misses attempt (High, 18-yard box, Right footed, Open play)" minute="15" period="1" second="54" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Lewis Holtby misses attempt (Out of box, Left footed, Open play)" minute="14" period="1" second="20" time="14" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Oscar scores , Assisted by Gary Cahill (Low to the left, 6-yard box, Big Chance, Head, From corner)" minute="10" period="1" second="1" time="10" type="goal scored" type_id="16"/>
+	<message comment="Gary Cahill misses attempt (18-yard box, Key pass, Head, From corner)" minute="10" period="1" second="0" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="9" period="1" second="29" time="9" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Head, Open play)" minute="9" period="1" second="26" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="9" period="1" second="26" time="9" type="save made" type_id="10"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="7" period="1" second="28" time="7" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="7" period="1" second="28" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Juan Mata misses attempt (High, 18-yard box, Left footed, Open play)" minute="6" period="1" second="37" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="Juan Mata is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

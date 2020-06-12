@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2012-10-07" home_team_name="Fulham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="48" time="100" type="end" type_id="30"/>
+	<message comment="Guly do Prado wins a corner (To the left)" minute="94" period="2" second="52" time="99" type="corner" type_id="6"/>
+	<message comment="Guly do Prado has shot blocked (18-yard box, Head, Set piece)" minute="94" period="2" second="45" time="99" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="94" period="2" second="45" time="99" type="save made" type_id="10"/>
+	<message comment="Guly do Prado wins a corner (To the right)" minute="93" period="2" second="44" time="98" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes blocks a shot" minute="93" period="2" second="43" time="98" type="save made" type_id="10"/>
+	<message comment="Guly do Prado has shot blocked (Out of box, Right footed, Open play)" minute="93" period="2" second="43" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte recieves a yellow card" minute="90" period="2" second="10" time="95" type="card received" type_id="17"/>
+	<message comment="GOAL! José Fonte scores , Assisted by Daniel Fox (Low to the left, 18-yard box, Head, Set piece)" minute="89" period="2" second="51" time="94" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Kieran Richardson scores , Assisted by Sascha Riether (Low to the centre, 18-yard box, Left footed, Open play)" minute="87" period="2" second="30" time="92" type="goal scored" type_id="16"/>
+	<message comment="Jay Rodriguez misses attempt (High, 6-yard box, Head, Open play)" minute="85" period="2" second="31" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="84" period="2" second="57" time="89" type="corner" type_id="6"/>
+	<message comment="Chris Baird misses attempt (To the right, Out of box, Right footed, Free kick)" minute="82" period="2" second="6" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="79" period="2" second="18" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Richard Chaplow wins a corner (To the right)" minute="72" period="2" second="5" time="77" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell is substituted off" minute="69" period="2" second="30" time="74" type="substitution off" type_id="18"/>
+	<message comment="Giorgos Karagounis is substituted on" minute="69" period="2" second="30" time="74" type="substitution on" type_id="19"/>
+	<message comment="Jos Hooiveld scores an OWN GOAL!  (Low to the centre, 6-yard box, Right footed, Open play)" minute="68" period="2" second="48" time="73" type="goal scored" type_id="16"/>
+	<message comment="John Arne Riise misses attempt (Out of box, Left footed, Open play)" minute="68" period="2" second="47" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert is substituted off" minute="66" period="2" second="50" time="71" type="substitution off" type_id="18"/>
+	<message comment="Guly do Prado is substituted on" minute="66" period="2" second="50" time="71" type="substitution on" type_id="19"/>
+	<message comment="Sascha Riether misses attempt (High to the right, Out of box, Right footed, From corner)" minute="66" period="2" second="1" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="65" period="2" second="37" time="70" type="substitution off" type_id="18"/>
+	<message comment="Kieran Richardson is substituted on" minute="65" period="2" second="37" time="70" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega wins a corner (To the right)" minute="65" period="2" second="9" time="70" type="corner" type_id="6"/>
+	<message comment="Morgan Schneiderlin blocks a shot" minute="65" period="2" second="6" time="70" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Set piece)" minute="65" period="2" second="6" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Maya Yoshida recieves a yellow card" minute="64" period="2" second="37" time="69" type="card received" type_id="17"/>
+	<message comment="Jason Puncheon is substituted off" minute="61" period="2" second="40" time="66" type="substitution off" type_id="18"/>
+	<message comment="Richard Chaplow is substituted on" minute="61" period="2" second="40" time="66" type="substitution on" type_id="19"/>
+	<message comment="Paulo Gazzaniga makes a save (Parried into danger, Diving)" minute="60" period="2" second="6" time="65" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="60" period="2" second="6" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland has shot blocked (6-yard box, Left footed, Set piece)" minute="59" period="2" second="47" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert blocks a shot" minute="59" period="2" second="47" time="64" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="58" period="2" second="32" time="63" type="corner" type_id="6"/>
+	<message comment="José Fonte blocks a shot" minute="56" period="2" second="27" time="61" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="56" period="2" second="27" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="55" period="2" second="59" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="55" period="2" second="59" time="60" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="53" period="2" second="27" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Baird blocks a shot" minute="53" period="2" second="27" time="58" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert misses attempt (High, 18-yard box, Right footed, Open play)" minute="50" period="2" second="52" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" minute="47" period="2" second="50" time="52" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="0" time="49" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="47" period="1" second="6" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Hughes has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="45" period="1" second="41" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Standing)" minute="45" period="1" second="41" time="45" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell wins a corner (To the left)" minute="45" period="1" second="16" time="45" type="corner" type_id="6"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="43" period="1" second="20" time="43" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="52" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Baird blocks a shot" minute="41" period="1" second="52" time="41" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="39" period="1" second="58" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger)" minute="39" period="1" second="58" time="39" type="save made" type_id="10"/>
+	<message comment="Jos Hooiveld recieves a yellow card" minute="23" period="1" second="42" time="23" type="card received" type_id="17"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="21" period="1" second="21" time="21" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon hits the woodwork (To the right, 6-yard box, Big Chance, Left footed, From corner)" minute="21" period="1" second="16" time="21" type="woodwork hit" type_id="14"/>
+	<message comment="Daniel Fox wins a corner (To the left)" minute="20" period="1" second="49" time="20" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes misses attempt (18-yard box, Head, From corner)" minute="19" period="1" second="0" time="19" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the right)" minute="18" period="1" second="25" time="18" type="corner" type_id="6"/>
+	<message comment="Bryan Ruiz has shot blocked (18-yard box, Right footed, Open play)" minute="17" period="1" second="46" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="17" period="1" second="46" time="17" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert misses attempt (18-yard box, Right footed, Open play)" minute="17" period="1" second="1" time="17" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="15" period="1" second="2" time="15" type="corner" type_id="6"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="10" period="1" second="24" time="10" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes wins a corner (To the right)" minute="10" period="1" second="3" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Frazer Richardson is substituted off" minute="7" period="1" second="55" time="7" type="substitution off" type_id="18"/>
+	<message comment="Jos Hooiveld is substituted on" minute="7" period="1" second="55" time="7" type="substitution on" type_id="19"/>
+	<message comment="GOAL! José Fonte scores , Assisted by Adam Lallana (Low to the right, 6-yard box, Head, From corner)" minute="3" period="1" second="38" time="3" type="goal scored" type_id="16"/>
+	<message comment="Daniel Fox wins a corner (To the left)" minute="3" period="1" second="19" time="3" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert misses attempt (6-yard box, Head, From corner)" minute="2" period="1" second="7" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Fox wins a corner (To the right)" minute="1" period="1" second="35" time="1" type="corner" type_id="6"/>
+	<message comment="Morgan Schneiderlin misses attempt (To the right, Out of box, Right footed, Open play)" minute="0" period="1" second="15" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

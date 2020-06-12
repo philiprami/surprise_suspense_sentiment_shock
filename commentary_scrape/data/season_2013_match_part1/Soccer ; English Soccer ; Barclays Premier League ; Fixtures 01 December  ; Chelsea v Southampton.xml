@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-12-01 16:10" game_id_2="27106202" game_id_4="112055078" home_team_name="Southampton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-01 17:47:09" minute="96" period="2" second="1" team="Southampton" time="101" type="end" type_id="30"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-12-01 17:45:52" minute="94" period="2" second="44" team="Southampton" time="99" type="corner" type_id="6"/>
+	<message comment="Steven Davis wins a corner (To the left)" last_modified="2013-12-01 17:44:28" minute="93" period="2" second="20" team="Chelsea" time="98" type="corner" type_id="6"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Ramires (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-01 17:40:24" minute="89" period="2" second="16" team="Southampton" time="94" type="goal scored" type_id="16"/>
+	<message comment="Daniel Osvaldo misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-01 17:39:40" minute="88" period="2" second="32" team="Chelsea" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Osvaldo misses attempt (Out of box, Right footed, Open play)" last_modified="2013-12-01 17:38:32" minute="87" period="2" second="24" team="Chelsea" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Osvaldo recieves a yellow card" last_modified="2013-12-01 17:36:06" minute="84" period="2" second="58" team="Chelsea" time="89" type="card received" type_id="17"/>
+	<message comment="Fernando Torres is substituted off" last_modified="2013-12-01 17:34:48" minute="83" period="2" second="40" team="Southampton" time="88" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" last_modified="2013-12-01 17:34:48" minute="83" period="2" second="40" team="Southampton" time="88" type="substitution on" type_id="19"/>
+	<message comment="José Fonte blocks a shot" last_modified="2013-12-01 17:33:58" minute="82" period="2" second="50" team="Chelsea" time="87" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-01 17:33:58" minute="82" period="2" second="50" team="Southampton" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres wins a corner (To the left)" last_modified="2013-12-01 17:32:45" minute="81" period="2" second="37" team="Southampton" time="86" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the left)" last_modified="2013-12-01 17:32:18" minute="81" period="2" second="10" team="Southampton" time="86" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-01 17:30:21" minute="79" period="2" second="13" team="Chelsea" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-12-01 17:30:21" minute="79" period="2" second="13" team="Southampton" time="84" type="save made" type_id="10"/>
+	<message comment="Fernando Torres misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-12-01 17:29:10" minute="78" period="2" second="2" team="Southampton" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is caught offside" last_modified="2013-12-01 17:27:08" minute="76" period="2" team="Southampton" time="81" type="offside" type_id="10000"/>
+	<message comment="José Fonte has shot blocked (18-yard box, Left footed, From corner)" last_modified="2013-12-01 17:23:55" minute="72" period="2" second="47" team="Chelsea" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba blocks a shot" last_modified="2013-12-01 17:23:55" minute="72" period="2" second="47" team="Southampton" time="77" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez wins a corner (To the right)" last_modified="2013-12-01 17:23:32" minute="72" period="2" second="24" team="Chelsea" time="77" type="corner" type_id="6"/>
+	<message comment="Demba Ba misses attempt (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-01 17:22:50" minute="71" period="2" second="42" team="Southampton" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez recieves a yellow card" last_modified="2013-12-01 17:22:24" minute="71" period="2" second="16" team="Chelsea" time="76" type="card received" type_id="17"/>
+	<message comment="Morgan Schneiderlin is substituted off" last_modified="2013-12-01 17:17:49" minute="66" period="2" second="41" team="Chelsea" time="71" type="substitution off" type_id="18"/>
+	<message comment="Rickie Lambert is substituted on" last_modified="2013-12-01 17:17:49" minute="66" period="2" second="41" team="Chelsea" time="71" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba is caught offside" last_modified="2013-12-01 17:16:08" minute="65" period="2" team="Southampton" time="70" type="offside" type_id="10000"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" last_modified="2013-12-01 17:15:10" minute="64" period="2" second="2" team="Chelsea" time="69" type="card received" type_id="17"/>
+	<message comment="James Ward-Prowse is substituted off" last_modified="2013-12-01 17:13:22" minute="62" period="2" second="14" team="Chelsea" time="67" type="substitution off" type_id="18"/>
+	<message comment="Steven Davis is substituted on" last_modified="2013-12-01 17:13:22" minute="62" period="2" second="14" team="Chelsea" time="67" type="substitution on" type_id="19"/>
+	<message comment="GOAL! John Terry scores , Assisted by Juan Mata (High to the right, 18-yard box, Head, From corner)" last_modified="2013-12-01 17:12:24" minute="61" period="2" second="16" team="Southampton" time="66" type="goal scored" type_id="16"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-12-01 17:11:58" minute="60" period="2" second="50" team="Southampton" time="65" type="corner" type_id="6"/>
+	<message comment="Artur Boruc is substituted off" last_modified="2013-12-01 17:09:04" minute="57" period="2" second="56" team="Chelsea" time="62" type="substitution off" type_id="18"/>
+	<message comment="Paulo Gazzaniga is substituted on" last_modified="2013-12-01 17:09:04" minute="57" period="2" second="56" team="Chelsea" time="62" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Gary Cahill scores  (Low to the centre, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-12-01 17:05:32" minute="54" period="2" second="24" team="Southampton" time="59" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba hits the woodwork (To the left, 6-yard box, Big Chance, Right footed, From corner)" last_modified="2013-12-01 17:05:31" minute="54" period="2" second="23" team="Southampton" time="59" type="woodwork hit" type_id="14"/>
+	<message comment="Branislav Ivanovic misses attempt (To the left, 18-yard box, Key pass, Head, From corner)" last_modified="2013-12-01 17:05:30" minute="54" period="2" second="22" team="Southampton" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard wins a corner (To the right)" last_modified="2013-12-01 17:05:09" minute="54" period="2" second="1" team="Southampton" time="59" type="corner" type_id="6"/>
+	<message comment="Artur Boruc makes a save (Parried safe)" last_modified="2013-12-01 17:05:07" minute="53" period="2" second="59" team="Chelsea" time="58" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-12-01 17:05:07" minute="53" period="2" second="59" team="Southampton" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana recieves a yellow card" last_modified="2013-12-01 17:03:09" minute="52" period="2" second="1" team="Chelsea" time="57" type="card received" type_id="17"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2013-12-01 17:01:08" minute="50" period="2" team="Southampton" time="55" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres wins a corner (To the left)" last_modified="2013-12-01 16:57:04" minute="45" period="2" second="56" team="Southampton" time="50" type="corner" type_id="6"/>
+	<message comment="Fernando Torres has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-01 16:57:03" minute="45" period="2" second="55" team="Southampton" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Wanyama blocks a shot" last_modified="2013-12-01 16:57:03" minute="45" period="2" second="55" team="Chelsea" time="50" type="save made" type_id="10"/>
+	<message comment="Michael Essien is substituted off" last_modified="2013-12-01 16:56:08" minute="45" period="2" second="0" team="Southampton" time="50" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" last_modified="2013-12-01 16:56:08" minute="45" period="2" second="0" team="Southampton" time="50" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-12-01 16:56:08" minute="45" period="2" second="0" team="Southampton" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-01 17:00:20" minute="49" period="1" second="12" team="Southampton" time="49" type="end" type_id="30"/>
+	<message comment="Ramires is caught offside" last_modified="2013-12-01 16:58:08" minute="47" period="1" team="Southampton" time="47" type="offside" type_id="10000"/>
+	<message comment="Juan Mata misses attempt (High to the left, 18-yard box, Left footed, Throw-in)" last_modified="2013-12-01 16:55:05" minute="43" period="1" second="57" team="Southampton" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Artur Boruc makes a save (Parried into danger, Diving)" last_modified="2013-12-01 16:54:44" minute="43" period="1" second="36" team="Chelsea" time="43" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Head, Open play)" last_modified="2013-12-01 16:54:44" minute="43" period="1" second="36" team="Southampton" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is substituted off" last_modified="2013-12-01 16:52:51" minute="41" period="1" second="43" team="Southampton" time="41" type="substitution off" type_id="18"/>
+	<message comment="Frank Lampard is substituted on" last_modified="2013-12-01 16:52:51" minute="41" period="1" second="43" team="Southampton" time="41" type="substitution on" type_id="19"/>
+	<message comment="Artur Boruc makes a save (Diving)" last_modified="2013-12-01 16:51:47" minute="40" period="1" second="39" team="Chelsea" time="40" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, 18-yard box, Head, Open play)" last_modified="2013-12-01 16:51:47" minute="40" period="1" second="39" team="Southampton" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-01 16:50:57" minute="39" period="1" second="49" team="Chelsea" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Dejan Lovren is caught offside" last_modified="2013-12-01 16:45:08" minute="34" period="1" team="Chelsea" time="34" type="offside" type_id="10000"/>
+	<message comment="Victor Wanyama has shot blocked (Out of box, Right footed, Set piece)" last_modified="2013-12-01 16:44:10" minute="33" period="1" second="2" team="Chelsea" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien blocks a shot" last_modified="2013-12-01 16:44:10" minute="33" period="1" second="2" team="Southampton" time="33" type="save made" type_id="10"/>
+	<message comment="Dejan Lovren has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-12-01 16:44:06" minute="32" period="1" second="58" team="Chelsea" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires blocks a shot" last_modified="2013-12-01 16:44:06" minute="32" period="1" second="58" team="Southampton" time="32" type="save made" type_id="10"/>
+	<message comment="Michael Essien recieves a yellow card" last_modified="2013-12-01 16:43:26" minute="32" period="1" second="18" team="Southampton" time="32" type="card received" type_id="17"/>
+	<message comment="Michael Essien is caught offside" last_modified="2013-12-01 16:38:08" minute="27" period="1" team="Southampton" time="27" type="offside" type_id="10000"/>
+	<message comment="Juan Mata is caught offside" last_modified="2013-12-01 16:36:08" minute="25" period="1" team="Southampton" time="25" type="offside" type_id="10000"/>
+	<message comment="James Ward-Prowse misses attempt (Out of box, Right footed, Free kick)" last_modified="2013-12-01 16:35:40" minute="24" period="1" second="32" team="Chelsea" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" last_modified="2013-12-01 16:34:20" minute="23" period="1" second="12" team="Chelsea" time="23" type="corner" type_id="6"/>
+	<message comment="Oscar misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-12-01 16:32:33" minute="21" period="1" second="25" team="Southampton" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Artur Boruc makes a save (Parried into danger, Diving)" last_modified="2013-12-01 16:30:09" minute="19" period="1" second="1" team="Chelsea" time="19" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, Out of box, Right footed, From corner)" last_modified="2013-12-01 16:30:09" minute="19" period="1" second="1" team="Southampton" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic wins a corner (To the left)" last_modified="2013-12-01 16:29:41" minute="18" period="1" second="33" team="Southampton" time="18" type="corner" type_id="6"/>
+	<message comment="John Terry is caught offside" last_modified="2013-12-01 16:28:08" minute="17" period="1" team="Southampton" time="17" type="offside" type_id="10000"/>
+	<message comment="Daniel Osvaldo wins a corner (To the right)" last_modified="2013-12-01 16:24:54" minute="13" period="1" second="46" team="Chelsea" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-12-01 16:11:08" minute="0" period="14" second="0" team="Southampton" time="11" type="end" type_id="30"/>
+	<message comment="Gary Cahill misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-12-01 16:14:22" minute="3" period="1" second="14" team="Southampton" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Ramires wins a corner (To the right)" last_modified="2013-12-01 16:14:06" minute="2" period="1" second="58" team="Southampton" time="2" type="corner" type_id="6"/>
+	<message comment="GOAL! Jay Rodriguez scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-01 16:11:21" minute="0" period="1" second="13" team="Chelsea" time="0" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" last_modified="2013-12-01 16:11:08" minute="0" period="1" second="0" team="Southampton" time="0" type="start" type_id="32"/>
+</Commentary>

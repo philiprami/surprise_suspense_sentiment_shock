@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2013-09-01" home_team_name="Manchester United" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="34" time="98" type="end" type_id="30"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="94" period="2" second="41" time="97" type="corner" type_id="6"/>
+	<message comment="Raheem Sterling has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="94" period="2" second="39" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save" minute="94" period="2" second="39" time="97" type="save made" type_id="10"/>
+	<message comment="Lucas Leiva recieves a yellow card" minute="89" period="2" second="18" time="92" type="card received" type_id="17"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" minute="87" period="2" second="42" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand blocks a shot" minute="87" period="2" second="42" time="90" type="save made" type_id="10"/>
+	<message comment="Robin van Persie misses attempt (18-yard box, Right footed, Open play)" minute="86" period="2" second="57" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho is substituted off" minute="83" period="2" second="17" time="86" type="substitution off" type_id="18"/>
+	<message comment="Luis Alberto is substituted on" minute="83" period="2" second="17" time="86" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save" minute="81" period="2" second="35" time="84" type="save made" type_id="10"/>
+	<message comment="Chicharito has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="81" period="2" second="35" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson is substituted off" minute="77" period="2" second="58" time="80" type="substitution off" type_id="18"/>
+	<message comment="Andre Wisdom is substituted on" minute="77" period="2" second="58" time="80" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="76" period="2" second="12" time="79" type="save made" type_id="10"/>
+	<message comment="Nani has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="76" period="2" second="12" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Giggs is substituted off" minute="72" period="2" second="26" time="75" type="substitution off" type_id="18"/>
+	<message comment="Chicharito is substituted on" minute="72" period="2" second="26" time="75" type="substitution on" type_id="19"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="68" period="2" second="4" time="71" type="save made" type_id="10"/>
+	<message comment="Ryan Giggs has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="68" period="2" second="4" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Nani wins a corner (To the left)" minute="67" period="2" second="44" time="70" type="corner" type_id="6"/>
+	<message comment="Ashley Young is substituted off" minute="62" period="2" second="19" time="65" type="substitution off" type_id="18"/>
+	<message comment="Nani is substituted on" minute="62" period="2" second="19" time="65" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Iago Aspas is substituted off" minute="59" period="2" second="55" time="62" type="substitution off" type_id="18"/>
+	<message comment="Raheem Sterling is substituted on" minute="59" period="2" second="55" time="62" type="substitution on" type_id="19"/>
+	<message comment="Ashley Young recieves a yellow card" minute="58" period="2" second="53" time="61" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel blocks a shot" minute="56" period="2" second="9" time="59" type="save made" type_id="10"/>
+	<message comment="Patrice Evra has shot blocked (Out of box, Left footed, Open play)" minute="56" period="2" second="9" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" minute="52" period="2" second="28" time="55" type="corner" type_id="6"/>
+	<message comment="Glen Johnson blocks a shot" minute="50" period="2" second="38" time="53" type="save made" type_id="10"/>
+	<message comment="Ashley Young has shot blocked (Out of box, Right footed, From corner)" minute="50" period="2" second="38" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick wins a corner (To the right)" minute="50" period="2" second="15" time="53" type="corner" type_id="6"/>
+	<message comment="Robin van Persie wins a corner (To the left)" minute="49" period="2" second="53" time="52" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="49" period="2" second="51" time="52" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has shot blocked (Out of box, Left footed, Open play)" minute="49" period="2" second="51" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger misses attempt (High to the right, 18-yard box, Other body part, Set piece)" minute="48" period="2" second="38" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Giggs wins a corner (To the left)" minute="46" period="2" second="23" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="27" time="47" type="end" type_id="30"/>
+	<message comment="Michael Carrick recieves a yellow card" minute="40" period="1" second="54" time="40" type="card received" type_id="17"/>
+	<message comment="Robin van Persie recieves a yellow card" minute="38" period="1" second="35" time="38" type="card received" type_id="17"/>
+	<message comment="Phil Jones is substituted off" minute="37" period="1" second="0" time="37" type="substitution off" type_id="18"/>
+	<message comment="Luis Antonio Valencia is substituted on" minute="37" period="1" second="0" time="37" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho misses attempt (High to the left, Out of box, Right footed, Free kick)" minute="35" period="1" second="43" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Iago Aspas recieves a yellow card" minute="34" period="1" second="30" time="34" type="card received" type_id="17"/>
+	<message comment="Tom Cleverley recieves a yellow card" minute="34" period="1" second="2" time="34" type="card received" type_id="17"/>
+	<message comment="David de Gea makes a save (Diving)" minute="26" period="1" second="50" time="26" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="26" period="1" second="50" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Standing)" minute="20" period="1" second="51" time="20" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="20" period="1" second="51" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Giggs wins a corner (To the right)" minute="14" period="1" second="48" time="14" type="corner" type_id="6"/>
+	<message comment="Glen Johnson blocks a shot" minute="14" period="1" second="38" time="14" type="save made" type_id="10"/>
+	<message comment="Danny Welbeck has shot blocked (18-yard box, Left footed, Open play)" minute="14" period="1" second="38" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="11" period="1" second="14" time="11" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="9" period="1" second="41" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save" minute="9" period="1" second="41" time="9" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Collected)" minute="9" period="1" second="7" time="9" type="save made" type_id="10"/>
+	<message comment="Danny Welbeck has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="9" period="1" second="7" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="6" period="1" second="36" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie misses attempt (High, 6-yard box, Left footed, Set piece)" minute="5" period="1" second="33" time="5" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Daniel Agger (Low to the left, 6-yard box, Big Chance, Head, From corner)" minute="3" period="1" second="5" time="3" type="goal scored" type_id="16"/>
+	<message comment="Daniel Agger has shot blocked (18-yard box, Key pass, Head, From corner)" minute="3" period="1" second="4" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="2" period="1" second="36" time="2" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" minute="2" period="1" second="35" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand blocks a shot" minute="2" period="1" second="35" time="2" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

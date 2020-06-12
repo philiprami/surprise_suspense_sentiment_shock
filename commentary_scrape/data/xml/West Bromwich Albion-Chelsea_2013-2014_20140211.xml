@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2014-02-11" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="52" time="100" type="end" type_id="30"/>
+	<message comment="Willian wins a corner (To the left)" minute="96" period="2" second="9" time="100" type="corner" type_id="6"/>
+	<message comment="Craig Dawson blocks a shot" minute="96" period="2" second="4" time="100" type="save made" type_id="10"/>
+	<message comment="Willian has shot blocked (Out of box, Right footed, Open play)" minute="96" period="2" second="4" time="100" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe wins a corner (To the left)" minute="94" period="2" second="13" time="98" type="corner" type_id="6"/>
+	<message comment="Victor Anichebe has shot blocked (18-yard box, Left footed, Open play)" minute="94" period="2" second="12" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="94" period="2" second="12" time="98" type="save made" type_id="10"/>
+	<message comment="Matej Vydra misses attempt (To the left, Out of box, Right footed, Open play)" minute="93" period="2" second="27" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic misses attempt (To the right, Out of box, Right footed, Open play)" minute="92" period="2" second="11" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="45" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Ramires is substituted off" minute="88" period="2" second="35" time="92" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Salah is substituted on" minute="88" period="2" second="35" time="92" type="substitution on" type_id="19"/>
+	<message comment="Nemanja Matic recieves a yellow card" minute="88" period="2" second="2" time="92" type="card received" type_id="17"/>
+	<message comment="Victor Anichebe recieves a yellow card" minute="87" period="2" second="18" time="91" type="card received" type_id="17"/>
+	<message comment="GOAL! Victor Anichebe scores , Assisted by Saido Berahino (Low to the right, 18-yard box, Head, Open play)" minute="86" period="2" second="4" time="90" type="goal scored" type_id="16"/>
+	<message comment="David Luiz recieves a yellow card" minute="80" period="2" second="45" time="84" type="card received" type_id="17"/>
+	<message comment="Craig Dawson misses attempt (High to the left, 6-yard box, Big Chance, Head, From corner)" minute="79" period="2" second="55" time="83" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="79" period="2" second="26" time="83" type="corner" type_id="6"/>
+	<message comment="Oscar is substituted off" minute="78" period="2" second="12" time="82" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="78" period="2" second="12" time="82" type="substitution on" type_id="19"/>
+	<message comment="David Luiz misses attempt (High, Out of box, Right footed, Free kick)" minute="77" period="2" second="35" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Thievy is substituted off" minute="77" period="2" second="24" time="81" type="substitution off" type_id="18"/>
+	<message comment="Matej Vydra is substituted on" minute="77" period="2" second="24" time="81" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="75" period="2" second="45" time="79" type="card received" type_id="17"/>
+	<message comment="Chris Brunt misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="75" period="2" second="9" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson has shot blocked (18-yard box, Head, From corner)" minute="74" period="2" second="48" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Nemanja Matic blocks a shot" minute="74" period="2" second="48" time="78" type="save made" type_id="10"/>
+	<message comment="Saido Berahino misses attempt (High to the left, 18-yard box, Key pass, Head, From corner)" minute="74" period="2" second="45" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Thievy wins a corner (To the left)" minute="74" period="2" second="14" time="78" type="corner" type_id="6"/>
+	<message comment="Thievy has shot blocked (6-yard box, Right footed, From corner)" minute="74" period="2" second="13" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="74" period="2" second="13" time="78" type="save made" type_id="10"/>
+	<message comment="Saido Berahino wins a corner (To the left)" minute="73" period="2" second="39" time="77" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano is substituted off" minute="72" period="2" second="52" time="76" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" minute="72" period="2" second="52" time="76" type="substitution on" type_id="19"/>
+	<message comment="James Morrison misses attempt (High, 18-yard box, Right footed, Open play)" minute="71" period="2" second="47" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Standing, Collected)" minute="70" period="2" second="28" time="74" type="save made" type_id="10"/>
+	<message comment="Willian has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="70" period="2" second="28" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="69" period="2" second="53" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o is substituted off" minute="68" period="2" second="45" time="72" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" minute="68" period="2" second="45" time="72" type="substitution on" type_id="19"/>
+	<message comment="Samuel Eto'o misses attempt (18-yard box, Left footed, Open play)" minute="67" period="2" second="46" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Willian recieves a yellow card" minute="66" period="2" second="12" time="70" type="card received" type_id="17"/>
+	<message comment="Gareth McAuley misses attempt (To the left, 18-yard box, Head, From corner)" minute="64" period="2" second="33" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" minute="63" period="2" second="58" time="67" type="corner" type_id="6"/>
+	<message comment="Claudio Yacob is substituted off" minute="62" period="2" second="50" time="66" type="substitution off" type_id="18"/>
+	<message comment="Youssouf Mulumbu is substituted on" minute="62" period="2" second="50" time="66" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="57" period="2" second="34" time="61" type="save made" type_id="10"/>
+	<message comment="Willian has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="57" period="2" second="34" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="54" period="2" second="5" time="58" type="save made" type_id="10"/>
+	<message comment="Willian has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="5" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="49" period="2" second="36" time="53" type="card received" type_id="17"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="49" period="2" second="11" time="53" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="49" period="2" second="11" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar misses attempt (Out of box, Right footed, Open play)" minute="45" period="2" second="37" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="16" time="48" type="end" type_id="30"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by David Luiz (Low to the left, 6-yard box, Big Chance, Right footed, From corner)" minute="47" period="1" second="8" time="47" type="goal scored" type_id="16"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" minute="46" period="1" second="49" time="46" type="corner" type_id="6"/>
+	<message comment="César Azpilicueta wins a corner (To the right)" minute="44" period="1" second="53" time="44" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="43" period="1" second="19" time="43" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has shot blocked (18-yard box, Right footed, Open play)" minute="43" period="1" second="19" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Willian misses attempt (Out of box, Right footed, Set piece)" minute="41" period="1" second="31" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano recieves a yellow card" minute="40" period="1" second="48" time="40" type="card received" type_id="17"/>
+	<message comment="Ramires wins a corner (To the left)" minute="39" period="1" second="18" time="39" type="corner" type_id="6"/>
+	<message comment="Chris Brunt blocks a shot" minute="39" period="1" second="17" time="39" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, Open play)" minute="39" period="1" second="17" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the left)" minute="33" period="1" second="37" time="33" type="corner" type_id="6"/>
+	<message comment="Oscar wins a corner (To the right)" minute="32" period="1" second="23" time="32" type="corner" type_id="6"/>
+	<message comment="Chris Brunt misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="27" period="1" second="24" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Willian misses attempt (Out of box, Right footed, Open play)" minute="26" period="1" second="31" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" minute="21" period="1" second="32" time="21" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Saido Berahino is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="9" period="1" second="55" time="9" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic misses attempt (To the right, Out of box, Right footed, Open play)" minute="8" period="1" second="36" time="8" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

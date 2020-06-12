@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2014-01-11" home_team_name="Crystal Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="44" time="97" type="end" type_id="30"/>
+	<message comment="Marouane Chamakh misses attempt (18-yard box, Head, From corner)" minute="94" period="2" second="20" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Chamakh wins a corner (To the right)" minute="93" period="2" second="48" time="96" type="corner" type_id="6"/>
+	<message comment="Marouane Chamakh has attempt saved (High to the right, 6-yard box, Big Chance, Head, From corner)" minute="93" period="2" second="37" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving)" minute="93" period="2" second="37" time="96" type="save made" type_id="10"/>
+	<message comment="Mile Jedinak wins a corner (To the left)" minute="93" period="2" second="12" time="96" type="corner" type_id="6"/>
+	<message comment="Adlène Guédioura misses attempt (Out of box, Right footed, Open play)" minute="91" period="2" second="2" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Mile Jedinak misses attempt (To the right, 6-yard box, Big Chance, Head, From corner)" minute="89" period="2" second="59" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Gayle wins a corner (To the left)" minute="89" period="2" second="32" time="92" type="corner" type_id="6"/>
+	<message comment="Dwight Gayle has shot blocked (18-yard box, Head, Set piece)" minute="89" period="2" second="31" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Vlad Chiriches blocks a shot" minute="89" period="2" second="31" time="92" type="save made" type_id="10"/>
+	<message comment="Jonathan Parr wins a corner (To the left)" minute="85" period="2" second="19" time="88" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon is substituted off" minute="81" period="2" second="37" time="84" type="substitution off" type_id="18"/>
+	<message comment="Adlène Guédioura is substituted on" minute="81" period="2" second="37" time="84" type="substitution on" type_id="19"/>
+	<message comment="Joel Ward misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="80" period="2" second="40" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Naughton recieves a yellow card" minute="79" period="2" second="10" time="82" type="card received" type_id="17"/>
+	<message comment="Mile Jedinak recieves a yellow card" minute="76" period="2" second="3" time="79" type="card received" type_id="17"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="75" period="2" second="56" time="78" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen is substituted off" minute="75" period="2" second="25" time="78" type="substitution off" type_id="18"/>
+	<message comment="Nacer Chadli is substituted on" minute="75" period="2" second="25" time="78" type="substitution on" type_id="19"/>
+	<message comment="Joel Ward wins a corner (To the right)" minute="73" period="2" second="9" time="76" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="GOAL! Jermain Defoe scores , Assisted by Aaron Lennon (High to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="72" period="2" second="0" time="75" type="goal scored" type_id="16"/>
+	<message comment="Adrian Mariappa recieves a yellow card" minute="69" period="2" second="49" time="72" type="card received" type_id="17"/>
+	<message comment="Yannick Bolasie is substituted off" minute="68" period="2" second="7" time="71" type="substitution off" type_id="18"/>
+	<message comment="Jonathan Williams is substituted on" minute="68" period="2" second="7" time="71" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is substituted off" minute="68" period="2" second="1" time="71" type="substitution off" type_id="18"/>
+	<message comment="Dwight Gayle is substituted on" minute="68" period="2" second="1" time="71" type="substitution on" type_id="19"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried into danger)" minute="61" period="2" second="56" time="64" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="61" period="2" second="56" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome misses attempt (18-yard box, Left footed, Open play)" minute="57" period="2" second="55" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Roberto Soldado is substituted off" minute="57" period="2" second="18" time="60" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="57" period="2" second="18" time="60" type="substitution on" type_id="19"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="55" period="2" second="41" time="58" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="54" period="2" second="6" time="57" type="corner" type_id="6"/>
+	<message comment="Marouane Chamakh wins a corner (To the left)" minute="51" period="2" second="44" time="54" type="corner" type_id="6"/>
+	<message comment="GOAL! Christian Eriksen scores , Assisted by Emmanuel Adebayor (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="49" period="2" second="58" time="52" type="goal scored" type_id="16"/>
+	<message comment="Vlad Chiriches misses attempt (High to the right, Out of box, Right footed, Open play)" minute="49" period="2" second="1" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker is substituted off" minute="47" period="2" second="49" time="50" type="substitution off" type_id="18"/>
+	<message comment="Kyle Naughton is substituted on" minute="47" period="2" second="49" time="50" type="substitution on" type_id="19"/>
+	<message comment="Christian Eriksen wins a corner (To the left)" minute="47" period="2" second="12" time="50" type="corner" type_id="6"/>
+	<message comment="Damien Delaney blocks a shot" minute="47" period="2" second="10" time="50" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="47" period="2" second="10" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Roberto Soldado misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="46" period="1" second="25" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" minute="45" period="1" second="56" time="45" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie blocks a shot" minute="40" period="1" second="45" time="40" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has shot blocked (Out of box, Right footed, Free kick)" minute="40" period="1" second="45" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Parr wins a corner (To the left)" minute="34" period="1" second="53" time="34" type="corner" type_id="6"/>
+	<message comment="Nabil Bentaleb hits the woodwork (To the left, Out of box, Left footed, Open play)" minute="33" period="1" second="35" time="33" type="woodwork hit" type_id="14"/>
+	<message comment="Damien Delaney blocks a shot" minute="33" period="1" second="15" time="33" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="33" period="1" second="15" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Mile Jedinak has shot blocked (6-yard box, Right footed, From corner)" minute="32" period="1" second="8" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="31" period="1" second="39" time="31" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon has shot blocked (Out of box, Left footed, Open play)" minute="31" period="1" second="36" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Vlad Chiriches blocks a shot" minute="31" period="1" second="36" time="31" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="27" period="1" second="11" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried into danger)" minute="27" period="1" second="11" time="27" type="save made" type_id="10"/>
+	<message comment="Jonathan Parr wins a corner (To the left)" minute="25" period="1" second="55" time="25" type="corner" type_id="6"/>
+	<message comment="Jonathan Parr has shot blocked (18-yard box, Left footed, Open play)" minute="25" period="1" second="52" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="25" period="1" second="52" time="25" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="14" period="1" second="39" time="14" type="corner" type_id="6"/>
+	<message comment="Marouane Chamakh misses attempt (High, 6-yard box, Head, From corner)" minute="10" period="1" second="22" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="9" period="1" second="57" time="9" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon misses attempt (High to the left, 18-yard box, Penalty, Big Chance, Left footed)" minute="7" period="1" second="48" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Julian Speroni makes a save (Parried into danger, Diving)" minute="4" period="1" second="21" time="4" type="save made" type_id="10"/>
+	<message comment="Nabil Bentaleb has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="4" period="1" second="21" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Puncheon misses attempt (Out of box, Left footed, Open play)" minute="1" period="1" second="43" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

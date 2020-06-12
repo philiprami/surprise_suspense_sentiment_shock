@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Blackburn" competition="English Premier League" game_date="2011-01-23" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="47" time="95" type="end" type_id="30"/>
+	<message comment="Christopher Samba blocks a shot" minute="93" period="2" second="38" time="95" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Free kick)" minute="93" period="2" second="38" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Roque Santa Cruz misses attempt (18-yard box, Big Chance, Right footed, Fast break)" minute="91" period="2" second="38" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Christopher Samba misses attempt (18-yard box, Head, From corner)" minute="90" period="2" second="39" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Jason Roberts wins a corner (To the left)" minute="90" period="2" second="11" time="92" type="corner" type_id="6"/>
+	<message comment="Jason Roberts has shot blocked (18-yard box, Right footed, Open play)" minute="90" period="2" second="7" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="90" period="2" second="7" time="92" type="save made" type_id="10"/>
+	<message comment="Martin Olsson has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="90" period="2" second="3" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Standing, Parried safe)" minute="90" period="2" second="3" time="92" type="save made" type_id="10"/>
+	<message comment="Jason Roberts wins a corner (To the right)" minute="87" period="2" second="4" time="89" type="corner" type_id="6"/>
+	<message comment="Jason Roberts is caught offside" minute="87" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Jerome Thomas recieves a yellow card" minute="82" period="2" second="20" time="84" type="card received" type_id="17"/>
+	<message comment="Morten Gamst Pedersen misses attempt (Out of box, Left footed, Open play)" minute="81" period="2" second="14" time="83" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett wins a corner (To the right)" minute="80" period="2" second="26" time="82" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett has shot blocked (Out of box, Right footed, Open play)" minute="80" period="2" second="24" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="80" period="2" second="24" time="82" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="79" period="2" second="9" time="81" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="78" period="2" second="52" time="80" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="78" period="2" second="52" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Morten Gamst Pedersen blocks a shot" minute="77" period="2" second="59" time="79" type="save made" type_id="10"/>
+	<message comment="Gabriel Tamas has shot blocked (Out of box, Right footed, Open play)" minute="77" period="2" second="59" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Somen Tchoyi wins a corner (To the left)" minute="77" period="2" second="27" time="79" type="corner" type_id="6"/>
+	<message comment="Jermaine Jones blocks a shot" minute="77" period="2" second="25" time="79" type="save made" type_id="10"/>
+	<message comment="Somen Tchoyi has shot blocked (Out of box, Left footed, Open play)" minute="77" period="2" second="25" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Míchel Salgado is substituted off" minute="75" period="2" second="29" time="77" type="substitution off" type_id="18"/>
+	<message comment="Grant Hanley is substituted on" minute="75" period="2" second="29" time="77" type="substitution on" type_id="19"/>
+	<message comment="James Morrison is substituted off" minute="75" period="2" second="15" time="77" type="substitution off" type_id="18"/>
+	<message comment="Roman Bednar is substituted on" minute="75" period="2" second="15" time="77" type="substitution on" type_id="19"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="73" period="2" second="25" time="75" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="73" period="2" second="25" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Givet blocks a shot" minute="73" period="2" second="22" time="75" type="save made" type_id="10"/>
+	<message comment="Somen Tchoyi has shot blocked (Out of box, Left footed, Open play)" minute="73" period="2" second="22" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="James Morrison misses attempt (Out of box, Right footed, Open play)" minute="72" period="2" second="8" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson misses attempt (To the left, 18-yard box, Left footed, Throw-in)" minute="68" period="2" second="49" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Jason Roberts blocks a shot" minute="68" period="2" second="26" time="70" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Free kick)" minute="68" period="2" second="26" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Parried into danger, Feet, Diving)" minute="66" period="2" second="5" time="68" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has attempt saved (Low to the right, 18-yard box, Left footed, Fast break)" minute="66" period="2" second="5" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="David Dunn is substituted off" minute="63" period="2" second="40" time="65" type="substitution off" type_id="18"/>
+	<message comment="Steven Nzonzi is substituted on" minute="63" period="2" second="40" time="65" type="substitution on" type_id="19"/>
+	<message comment="Nikola Kalinic is substituted off" minute="63" period="2" second="31" time="65" type="substitution off" type_id="18"/>
+	<message comment="Jason Roberts is substituted on" minute="63" period="2" second="31" time="65" type="substitution on" type_id="19"/>
+	<message comment="Paul Scharner misses attempt (To the left, 18-yard box, Head, From corner)" minute="61" period="2" second="56" time="63" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison wins a corner (To the right)" minute="61" period="2" second="27" time="63" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett blocks a shot" minute="61" period="2" second="25" time="63" type="save made" type_id="10"/>
+	<message comment="James Morrison has shot blocked (Out of box, Right footed, From corner)" minute="61" period="2" second="25" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="60" period="2" second="59" time="62" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="60" period="2" second="56" time="62" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has shot blocked (18-yard box, Left footed, Open play)" minute="60" period="2" second="56" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson misses attempt (High to the right, Out of box, Left footed, Open play)" minute="57" period="2" second="48" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Míchel Salgado has attempt saved (Low to the centre, 18-yard box, Right footed, Throw-in)" minute="57" period="2" second="44" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving, Parried safe)" minute="57" period="2" second="44" time="59" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu is substituted off" minute="56" period="2" second="36" time="58" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="56" period="2" second="36" time="58" type="substitution on" type_id="19"/>
+	<message comment="David Junior Hoilett wins a corner (To the left)" minute="54" period="2" second="30" time="56" type="corner" type_id="6"/>
+	<message comment="Gabriel Tamas misses attempt (High, 18-yard box, Head, From corner)" minute="53" period="2" second="20" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas wins a corner (To the right)" minute="52" period="2" second="52" time="54" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="52" period="2" second="50" time="54" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="52" period="2" second="50" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" minute="49" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Paul Robinson makes a save (Standing)" minute="48" period="2" second="44" time="50" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="48" period="2" second="44" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! David Junior Hoilett scores , Assisted by Nikola Kalinic (High to the centre, Out of box, Right footed, Open play)" minute="46" period="2" second="17" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Paul Scharner wins a corner (To the right)" minute="45" period="1" second="14" time="45" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="45" period="1" second="11" time="45" type="save made" type_id="10"/>
+	<message comment="Paul Scharner has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="11" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the right)" minute="42" period="1" second="57" time="42" type="corner" type_id="6"/>
+	<message comment="Roque Santa Cruz wins a corner (To the right)" minute="42" period="1" second="20" time="42" type="corner" type_id="6"/>
+	<message comment="Roque Santa Cruz has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="42" period="1" second="18" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving, Parried safe)" minute="42" period="1" second="18" time="42" type="save made" type_id="10"/>
+	<message comment="Gabriel Tamas scores an OWN GOAL!  (High to the right, 18-yard box, Head, Open play)" minute="40" period="1" second="2" time="40" type="goal scored" type_id="16"/>
+	<message comment="James Morrison misses attempt (High to the right, Out of box, Right footed, From corner)" minute="38" period="1" second="14" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="37" period="1" second="17" time="37" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado blocks a shot" minute="36" period="1" second="27" time="36" type="save made" type_id="10"/>
+	<message comment="Gonzalo Jara has shot blocked (18-yard box, Right footed, Open play)" minute="36" period="1" second="27" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Míchel Salgado blocks a shot" minute="36" period="1" second="19" time="36" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu has shot blocked (18-yard box, Right footed, Open play)" minute="36" period="1" second="19" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba misses attempt (Out of box, Right footed, Open play)" minute="33" period="1" second="57" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Roque Santa Cruz wins a corner (To the right)" minute="33" period="1" second="16" time="33" type="corner" type_id="6"/>
+	<message comment="Christopher Samba has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="28" period="1" second="54" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving, Parried safe)" minute="28" period="1" second="54" time="28" type="save made" type_id="10"/>
+	<message comment="Jermaine Jones misses attempt (To the left, Out of box, Key pass, Right footed, Open play)" minute="28" period="1" second="52" time="28" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett has attempt saved (Low to the left, 18-yard box, Left footed, Throw-in)" minute="28" period="1" second="16" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Feet, Diving, Parried into danger)" minute="28" period="1" second="16" time="28" type="save made" type_id="10"/>
+	<message comment="Chris Brunt blocks a shot" minute="23" period="1" second="58" time="23" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (Out of box, Left footed, Free kick)" minute="23" period="1" second="58" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="David Junior Hoilett misses attempt (Out of box, Left footed, Open play)" minute="20" period="1" second="41" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Jerome Thomas wins a corner (To the right)" minute="12" period="1" second="43" time="12" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Feet, Diving, Parried safe)" minute="12" period="1" second="41" time="12" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="12" period="1" second="41" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="11" period="1" second="45" time="11" type="save made" type_id="10"/>
+	<message comment="Nikola Kalinic has shot blocked (Out of box, Right footed, Open play)" minute="11" period="1" second="45" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="David Dunn misses attempt (To the left, Out of box, Right footed, From corner)" minute="11" period="1" second="10" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the right)" minute="10" period="1" second="55" time="10" type="corner" type_id="6"/>
+	<message comment="David Dunn wins a corner (To the right)" minute="10" period="1" second="27" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Jermaine Jones blocks a shot" minute="2" period="1" second="34" time="2" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Free kick)" minute="2" period="1" second="34" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (To the left, 18-yard box, Head, From corner)" minute="1" period="1" second="5" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="0" period="1" second="33" time="0" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="0" period="1" second="30" time="0" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="0" period="1" second="30" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

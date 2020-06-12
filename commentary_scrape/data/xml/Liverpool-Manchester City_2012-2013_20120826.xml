@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2012-08-26" home_team_name="Manchester City" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="96" type="end" type_id="30"/>
+	<message comment="Joe Allen misses attempt (High, Out of box, Right footed, Open play)" minute="93" period="2" second="46" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="93" period="2" second="32" time="95" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez misses attempt (To the left, Out of box, Right footed, From corner)" minute="92" period="2" second="50" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="92" period="2" second="25" time="94" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard blocks a shot" minute="92" period="2" second="23" time="94" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="23" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="91" period="2" second="25" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="91" period="2" second="25" time="93" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Head, From corner)" minute="87" period="2" second="33" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="87" period="2" second="33" time="89" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="87" period="2" second="28" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Head, From corner)" minute="87" period="2" second="26" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey wins a corner (To the right)" minute="87" period="2" second="3" time="89" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, From corner)" minute="87" period="2" second="1" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="87" period="2" second="1" time="89" type="save made" type_id="10"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="86" period="2" second="22" time="88" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Left footed, Open play)" minute="85" period="2" second="43" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini is substituted off" minute="83" period="2" second="1" time="85" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" minute="83" period="2" second="1" time="85" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko misses attempt (To the right, Out of box, Left footed, Open play)" minute="82" period="2" second="35" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (Out of box, Left footed, Open play)" minute="81" period="2" second="53" time="83" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Carlos Tevez scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="20" time="81" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko misses attempt (High to the right, 18-yard box, Left footed, Open play)" minute="76" period="2" second="58" time="78" type="attempt missed" type_id="13"/>
+	<message comment="James Milner is substituted off" minute="75" period="2" second="30" time="77" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" minute="75" period="2" second="30" time="77" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Luis Suárez scores  (Low to the right, Out of box, Right footed, Free kick)" minute="65" period="2" second="55" time="67" type="goal scored" type_id="16"/>
+	<message comment="Martin Kelly is substituted off" minute="65" period="2" second="28" time="67" type="substitution off" type_id="18"/>
+	<message comment="José Enrique is substituted on" minute="65" period="2" second="28" time="67" type="substitution on" type_id="19"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="37" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Rodwell blocks a shot" minute="64" period="2" second="37" time="66" type="save made" type_id="10"/>
+	<message comment="GOAL! Yaya Touré scores  (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="62" period="2" second="55" time="64" type="goal scored" type_id="16"/>
+	<message comment="Mario Balotelli is substituted off" minute="61" period="2" second="33" time="63" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="61" period="2" second="33" time="63" type="substitution on" type_id="19"/>
+	<message comment="James Milner is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri is substituted off" minute="59" period="2" second="11" time="61" type="substitution off" type_id="18"/>
+	<message comment="Jack Rodwell is substituted on" minute="59" period="2" second="11" time="61" type="substitution on" type_id="19"/>
+	<message comment="Mario Balotelli wins a corner (To the left)" minute="54" period="2" second="43" time="56" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Right footed, Fast break)" minute="49" period="2" second="12" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="57" time="46" type="end" type_id="30"/>
+	<message comment="Martin Skrtel blocks a shot" minute="46" period="1" second="54" time="46" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Left footed, Open play)" minute="46" period="1" second="54" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the right)" minute="43" period="1" second="51" time="43" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="42" period="1" second="51" time="42" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Right footed, Open play)" minute="41" period="1" second="36" time="41" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (High to the centre, 18-yard box, Head, From corner)" minute="33" period="1" second="37" time="33" type="goal scored" type_id="16"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="32" period="1" second="54" time="32" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli misses attempt (High, 18-yard box, Left footed, Open play)" minute="30" period="1" second="54" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez has shot blocked (Out of box, Right footed, Open play)" minute="29" period="1" second="28" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="29" period="1" second="28" time="29" type="save made" type_id="10"/>
+	<message comment="Fabio Borini wins a corner (To the left)" minute="27" period="1" second="52" time="27" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="27" period="1" second="51" time="27" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has shot blocked (Out of box, Right footed, Open play)" minute="27" period="1" second="51" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="20" period="1" second="29" time="20" type="save made" type_id="10"/>
+	<message comment="Kolo Touré has shot blocked (Out of box, Right footed, Open play)" minute="20" period="1" second="29" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Fabio Borini misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="17" period="1" second="12" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save" minute="8" period="1" second="38" time="8" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="8" period="1" second="38" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Lucas Leiva is substituted off" minute="4" period="1" second="13" time="4" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="4" period="1" second="13" time="4" type="substitution on" type_id="19"/>
+	<message comment="Steven Gerrard misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="5" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard misses attempt (To the left, Out of box, Right footed, Open play)" minute="0" period="1" second="29" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

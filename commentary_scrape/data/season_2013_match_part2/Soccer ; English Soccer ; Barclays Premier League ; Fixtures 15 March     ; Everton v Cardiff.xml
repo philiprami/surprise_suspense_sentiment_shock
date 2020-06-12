@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2014-03-15 15:00" game_id_2="27163050" game_id_4="113121688" home_team_name="Cardiff" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-03-15 16:35:48" minute="94" period="2" second="43" team="Cardiff" time="97" type="end" type_id="30"/>
+	<message comment="Juan Cala is caught offside" last_modified="2014-03-15 16:35:05" minute="94" period="2" team="Everton" time="97" type="offside" type_id="10000"/>
+	<message comment="GOAL! Séamus Coleman scores , Assisted by Gareth Barry (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 16:33:38" minute="92" period="2" second="33" team="Cardiff" time="95" type="goal scored" type_id="16"/>
+	<message comment="Gary Medel blocks a shot" last_modified="2014-03-15 16:33:01" minute="91" period="2" second="56" team="Everton" time="94" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-15 16:33:01" minute="91" period="2" second="56" team="Cardiff" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Standing, Parried into danger)" last_modified="2014-03-15 16:32:38" minute="91" period="2" second="33" team="Everton" time="94" type="save made" type_id="10"/>
+	<message comment="Séamus Coleman wins a corner (To the right)" last_modified="2014-03-15 16:32:12" minute="91" period="2" second="7" team="Cardiff" time="94" type="corner" type_id="6"/>
+	<message comment="Wilfried Zaha misses attempt (To the left, 18-yard box, Left footed, Open play)" last_modified="2014-03-15 16:31:32" minute="90" period="2" second="27" team="Everton" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2014-03-15 16:25:05" minute="84" period="2" team="Cardiff" time="87" type="offside" type_id="10000"/>
+	<message comment="Leon Osman is substituted off" last_modified="2014-03-15 16:22:29" minute="81" period="2" second="24" team="Cardiff" time="84" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" last_modified="2014-03-15 16:22:29" minute="81" period="2" second="24" team="Cardiff" time="84" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Zaha has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-03-15 16:21:01" minute="79" period="2" second="56" team="Everton" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman blocks a shot" last_modified="2014-03-15 16:21:01" minute="79" period="2" second="56" team="Cardiff" time="82" type="save made" type_id="10"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-03-15 16:19:39" minute="78" period="2" second="34" team="Cardiff" time="81" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" last_modified="2014-03-15 16:19:18" minute="78" period="2" second="13" team="Cardiff" time="81" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" last_modified="2014-03-15 16:19:16" minute="78" period="2" second="11" team="Everton" time="81" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-03-15 16:19:16" minute="78" period="2" second="11" team="Cardiff" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Fabio is substituted off" last_modified="2014-03-15 16:17:29" minute="76" period="2" second="24" team="Everton" time="79" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Zaha is substituted on" last_modified="2014-03-15 16:17:29" minute="76" period="2" second="24" team="Everton" time="79" type="substitution on" type_id="19"/>
+	<message comment="Fraizer Campbell recieves a yellow card" last_modified="2014-03-15 16:16:58" minute="75" period="2" second="53" team="Everton" time="78" type="card received" type_id="17"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2014-03-15 16:14:03" minute="72" period="2" second="58" team="Everton" time="75" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-03-15 16:14:03" minute="72" period="2" second="58" team="Cardiff" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 16:09:34" minute="68" period="2" second="29" team="Cardiff" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman has shot blocked (Out of box, Right footed, Fast break)" last_modified="2014-03-15 16:09:31" minute="68" period="2" second="26" team="Cardiff" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Cala blocks a shot" last_modified="2014-03-15 16:09:31" minute="68" period="2" second="26" team="Everton" time="71" type="save made" type_id="10"/>
+	<message comment="GOAL! Juan Cala scores , Assisted by Peter Whittingham (Low to the left, 18-yard box, Other body part, Set piece)" last_modified="2014-03-15 16:08:27" minute="67" period="2" second="22" team="Everton" time="70" type="goal scored" type_id="16"/>
+	<message comment="Aiden McGeady has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-03-15 16:04:03" minute="62" period="2" second="58" team="Cardiff" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2014-03-15 16:04:03" minute="62" period="2" second="58" team="Everton" time="65" type="save made" type_id="10"/>
+	<message comment="Craig Noone is substituted off" last_modified="2014-03-15 16:02:21" minute="61" period="2" second="16" team="Everton" time="64" type="substitution off" type_id="18"/>
+	<message comment="Mats Møller Dæhli is substituted on" last_modified="2014-03-15 16:02:21" minute="61" period="2" second="16" team="Everton" time="64" type="substitution on" type_id="19"/>
+	<message comment="Gerard Deulofeu is substituted off" last_modified="2014-03-15 16:02:15" minute="61" period="2" second="10" team="Cardiff" time="64" type="substitution off" type_id="18"/>
+	<message comment="Aiden McGeady is substituted on" last_modified="2014-03-15 16:02:15" minute="61" period="2" second="10" team="Cardiff" time="64" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is substituted off" last_modified="2014-03-15 16:02:12" minute="61" period="2" second="7" team="Cardiff" time="64" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" last_modified="2014-03-15 16:02:12" minute="61" period="2" second="7" team="Cardiff" time="64" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Gerard Deulofeu scores  (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:59:25" minute="58" period="2" second="20" team="Cardiff" time="61" type="goal scored" type_id="16"/>
+	<message comment="Leon Osman recieves a yellow card" last_modified="2014-03-15 15:58:41" minute="57" period="2" second="36" team="Cardiff" time="60" type="card received" type_id="17"/>
+	<message comment="Gary Medel recieves a yellow card" last_modified="2014-03-15 15:58:40" minute="57" period="2" second="35" team="Everton" time="60" type="card received" type_id="17"/>
+	<message comment="Jordon Mutch is substituted off" last_modified="2014-03-15 15:57:36" minute="56" period="2" second="31" team="Everton" time="59" type="substitution off" type_id="18"/>
+	<message comment="Peter Whittingham is substituted on" last_modified="2014-03-15 15:57:36" minute="56" period="2" second="31" team="Everton" time="59" type="substitution on" type_id="19"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2014-03-15 15:51:48" minute="50" period="2" second="43" team="Everton" time="53" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2014-03-15 15:49:07" minute="48" period="2" second="2" team="Everton" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2014-03-15 15:48:37" minute="47" period="2" second="32" team="Everton" time="50" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:48:34" minute="47" period="2" second="29" team="Everton" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" last_modified="2014-03-15 15:48:34" minute="47" period="2" second="29" team="Cardiff" time="50" type="save made" type_id="10"/>
+	<message comment="Juan Cala blocks a shot" last_modified="2014-03-15 15:47:17" minute="46" period="2" second="12" team="Everton" time="49" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (6-yard box, Left footed, Open play)" last_modified="2014-03-15 15:47:17" minute="46" period="2" second="12" team="Cardiff" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2014-03-15 15:46:05" minute="45" period="2" second="0" team="Cardiff" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-03-15 15:48:50" minute="47" period="1" second="45" team="Cardiff" time="47" type="end" type_id="30"/>
+	<message comment="Kévin Théophile-Catherine recieves a yellow card" last_modified="2014-03-15 15:45:44" minute="44" period="1" second="39" team="Everton" time="44" type="card received" type_id="17"/>
+	<message comment="Kim Bo-Kyung is caught offside" last_modified="2014-03-15 15:40:05" minute="39" period="1" team="Everton" time="39" type="offside" type_id="10000"/>
+	<message comment="Juan Cala blocks a shot" last_modified="2014-03-15 15:39:09" minute="38" period="1" second="4" team="Everton" time="38" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:39:09" minute="38" period="1" second="4" team="Cardiff" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" last_modified="2014-03-15 15:35:14" minute="34" period="1" second="9" team="Cardiff" time="34" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" last_modified="2014-03-15 15:34:41" minute="33" period="1" second="36" team="Cardiff" time="33" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" last_modified="2014-03-15 15:34:39" minute="33" period="1" second="34" team="Everton" time="33" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (High to the left, Out of box, Left footed, Fast break)" last_modified="2014-03-15 15:34:39" minute="33" period="1" second="34" team="Cardiff" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-03-15 15:34:26" minute="33" period="1" second="21" team="Everton" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" last_modified="2014-03-15 15:34:26" minute="33" period="1" second="21" team="Cardiff" time="33" type="save made" type_id="10"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-03-15 15:32:00" minute="30" period="1" second="55" team="Cardiff" time="30" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu wins a corner (To the left)" last_modified="2014-03-15 15:31:39" minute="30" period="1" second="34" team="Cardiff" time="30" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" last_modified="2014-03-15 15:31:38" minute="30" period="1" second="33" team="Everton" time="30" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-03-15 15:31:38" minute="30" period="1" second="33" team="Cardiff" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2014-03-15 15:31:08" minute="30" period="1" second="3" team="Everton" time="30" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:31:08" minute="30" period="1" second="3" team="Cardiff" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2014-03-15 15:30:01" minute="28" period="1" second="56" team="Everton" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:29:56" minute="28" period="1" second="51" team="Everton" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" last_modified="2014-03-15 15:29:56" minute="28" period="1" second="51" team="Cardiff" time="28" type="save made" type_id="10"/>
+	<message comment="Fabio is caught offside" last_modified="2014-03-15 15:28:05" minute="27" period="1" team="Everton" time="27" type="offside" type_id="10000"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" last_modified="2014-03-15 15:26:13" minute="25" period="1" second="8" team="Cardiff" time="25" type="corner" type_id="6"/>
+	<message comment="Juan Cala blocks a shot" last_modified="2014-03-15 15:26:12" minute="25" period="1" second="7" team="Everton" time="25" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:26:12" minute="25" period="1" second="7" team="Cardiff" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the right)" last_modified="2014-03-15 15:25:10" minute="24" period="1" second="5" team="Everton" time="24" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-03-15 15:23:36" minute="22" period="1" second="31" team="Cardiff" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:20:36" minute="19" period="1" second="31" team="Cardiff" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-03-15 15:17:51" minute="16" period="1" second="46" team="Cardiff" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Gary Medel misses attempt (High to the left, Out of box, Right footed, From corner)" last_modified="2014-03-15 15:16:56" minute="15" period="1" second="51" team="Everton" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Juan Cala has shot blocked (18-yard box, Head, From corner)" last_modified="2014-03-15 15:16:51" minute="15" period="1" second="46" team="Everton" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku blocks a shot" last_modified="2014-03-15 15:16:51" minute="15" period="1" second="46" team="Cardiff" time="15" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch wins a corner (To the left)" last_modified="2014-03-15 15:16:24" minute="15" period="1" second="19" team="Everton" time="15" type="corner" type_id="6"/>
+	<message comment="Leon Osman misses attempt (High, Out of box, Left footed, Open play)" last_modified="2014-03-15 15:10:44" minute="9" period="1" second="39" team="Cardiff" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-03-15 15:01:05" minute="0" period="14" second="0" team="Cardiff" time="7" type="end" type_id="30"/>
+	<message comment="Fabio wins a corner (To the left)" last_modified="2014-03-15 15:07:16" minute="6" period="1" second="11" team="Everton" time="6" type="corner" type_id="6"/>
+	<message comment="Leighton Baines wins a corner (To the left)" last_modified="2014-03-15 15:05:47" minute="4" period="1" second="42" team="Cardiff" time="4" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" last_modified="2014-03-15 15:03:34" minute="2" period="1" second="29" team="Cardiff" time="2" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Diving, Parried safe)" last_modified="2014-03-15 15:03:33" minute="2" period="1" second="28" team="Everton" time="2" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-03-15 15:03:33" minute="2" period="1" second="28" team="Cardiff" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2014-03-15 15:01:05" minute="0" period="1" second="0" team="Cardiff" time="0" type="start" type_id="32"/>
+</Commentary>

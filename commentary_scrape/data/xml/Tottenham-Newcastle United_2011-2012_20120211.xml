@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2012-02-11" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="97" type="end" type_id="30"/>
+	<message comment="Michael Dawson blocks a shot" minute="92" period="2" second="53" time="96" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (18-yard box, Right footed, Open play)" minute="92" period="2" second="53" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="92" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe is caught offside" minute="91" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Danny Guthrie is substituted off" minute="85" period="2" second="51" time="89" type="substitution off" type_id="18"/>
+	<message comment="Peter Løvenkrands is substituted on" minute="85" period="2" second="51" time="89" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor misses attempt (High, 18-yard box, Right footed, Open play)" minute="85" period="2" second="34" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="81" period="2" second="55" time="85" type="corner" type_id="6"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="81" period="2" second="31" time="85" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="79" period="2" second="17" time="83" type="save made" type_id="10"/>
+	<message comment="Luka Modric has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="79" period="2" second="16" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor misses attempt (18-yard box, Right footed, Open play)" minute="78" period="2" second="9" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Dan Gosling misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="76" period="2" second="58" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Brad Friedel makes a save (Diving, Parried into danger)" minute="76" period="2" second="57" time="80" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Open play)" minute="76" period="2" second="53" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Ledley King is substituted off" minute="74" period="2" second="37" time="78" type="substitution off" type_id="18"/>
+	<message comment="Ryan Nelsen is substituted on" minute="74" period="2" second="37" time="78" type="substitution on" type_id="19"/>
+	<message comment="Dan Gosling recieves a yellow card" minute="70" period="2" second="4" time="74" type="card received" type_id="17"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="67" period="2" second="40" time="71" type="substitution off" type_id="18"/>
+	<message comment="Dan Gosling is substituted on" minute="67" period="2" second="40" time="71" type="substitution on" type_id="19"/>
+	<message comment="Louis Saha is substituted off" minute="67" period="2" second="15" time="71" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="67" period="2" second="15" time="71" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale is substituted off" minute="66" period="2" second="58" time="70" type="substitution off" type_id="18"/>
+	<message comment="Aaron Lennon is substituted on" minute="66" period="2" second="58" time="70" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale misses attempt (High, Out of box, Left footed, Open play)" minute="66" period="2" second="28" time="70" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Louis Saha (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="63" period="2" second="57" time="67" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="52" period="2" second="4" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Obertan is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="4" time="48" type="end" type_id="30"/>
+	<message comment="Niko Kranjcar misses attempt (To the left, Out of box, Right footed, Open play)" minute="46" period="1" second="55" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Benoit Assou-Ekotto misses attempt (High to the left, Out of box, Left footed, Free kick)" minute="45" period="1" second="42" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson blocks a shot" minute="44" period="1" second="24" time="44" type="save made" type_id="10"/>
+	<message comment="Luka Modric has shot blocked (18-yard box, Left footed, Open play)" minute="44" period="1" second="24" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="42" period="1" second="39" time="42" type="corner" type_id="6"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="40" period="1" second="55" time="40" type="corner" type_id="6"/>
+	<message comment="Louis Saha misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="40" period="1" second="9" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Danny Guthrie wins a corner (To the left)" minute="39" period="1" second="8" time="39" type="corner" type_id="6"/>
+	<message comment="Kyle Walker recieves a yellow card" minute="38" period="1" second="50" time="38" type="card received" type_id="17"/>
+	<message comment="Demba Ba has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="38" period="1" second="12" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Collected)" minute="38" period="1" second="12" time="38" type="save made" type_id="10"/>
+	<message comment="Fabricio Coloccini misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="36" period="1" second="26" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon wins a corner (To the right)" minute="35" period="1" second="22" time="35" type="corner" type_id="6"/>
+	<message comment="GOAL! Niko Kranjcar scores , Assisted by Emmanuel Adebayor (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="33" period="1" second="27" time="33" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="33" period="1" second="24" time="33" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="33" period="1" second="24" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (Out of box, Right footed, Free kick)" minute="24" period="1" second="50" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker recieves a yellow card" minute="23" period="1" second="59" time="23" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor misses attempt (To the right, Out of box, Left footed, Open play)" minute="20" period="1" second="49" time="20" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Louis Saha scores , Assisted by Emmanuel Adebayor (Low to the left, 18-yard box, Right footed, Open play)" minute="19" period="1" second="31" time="19" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba misses attempt (To the right, 18-yard box, Head, Open play)" minute="18" period="1" second="27" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson blocks a shot" minute="17" period="1" second="16" time="17" type="save made" type_id="10"/>
+	<message comment="Luka Modric has shot blocked (Out of box, Left footed, Open play)" minute="17" period="1" second="16" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Niko Kranjcar misses attempt (High, Out of box, Right footed, Open play)" minute="15" period="1" second="4" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the left)" minute="12" period="1" second="13" time="12" type="corner" type_id="6"/>
+	<message comment="Ledley King blocks a shot" minute="7" period="1" second="21" time="7" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Open play)" minute="7" period="1" second="21" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="GOAL! Louis Saha scores , Assisted by Emmanuel Adebayor (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="5" period="1" second="31" time="5" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="GOAL! Benoit Assou-Ekotto scores , Assisted by Emmanuel Adebayor (High to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="3" period="1" second="4" time="3" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Hull" competition="English Premier League" game_date="2013-09-14" home_team_name="Cardiff" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="2" time="98" type="end" type_id="30"/>
+	<message comment="Danny Graham has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="92" period="2" second="13" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Lewis makes a save (Standing)" minute="92" period="2" second="13" time="95" type="save made" type_id="10"/>
+	<message comment="Allan McGregor makes a save (Standing)" minute="91" period="2" second="50" time="94" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="91" period="2" second="50" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies recieves a yellow card" minute="91" period="2" second="7" time="94" type="card received" type_id="17"/>
+	<message comment="Don Cowie is substituted off" minute="89" period="2" second="46" time="92" type="substitution off" type_id="18"/>
+	<message comment="Jordon Mutch is substituted on" minute="89" period="2" second="46" time="92" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone wins a corner (To the right)" minute="87" period="2" second="12" time="90" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Set piece)" minute="87" period="2" second="9" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner blocks a shot" minute="87" period="2" second="9" time="90" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Free kick)" minute="87" period="2" second="7" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Don Cowie blocks a shot" minute="87" period="2" second="7" time="90" type="save made" type_id="10"/>
+	<message comment="Sone Aluko has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="84" period="2" second="10" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Lewis makes a save (Collected, Diving)" minute="84" period="2" second="10" time="87" type="save made" type_id="10"/>
+	<message comment="Robert Koren misses attempt (High to the left, Out of box, Left footed, Open play)" minute="83" period="2" second="38" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the left)" minute="78" period="2" second="2" time="81" type="corner" type_id="6"/>
+	<message comment="Sone Aluko is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Danny Graham wins a corner (To the right)" minute="76" period="2" second="23" time="79" type="corner" type_id="6"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Left footed, Open play)" minute="76" period="2" second="22" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="76" period="2" second="22" time="79" type="save made" type_id="10"/>
+	<message comment="Don Cowie wins a corner (To the right)" minute="72" period="2" second="37" time="75" type="corner" type_id="6"/>
+	<message comment="Aron Gunnarsson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="70" period="2" second="26" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jake Livermore blocks a shot" minute="70" period="2" second="11" time="73" type="save made" type_id="10"/>
+	<message comment="Nicky Maynard has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="11" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Robbie Brady is substituted off" minute="66" period="2" second="39" time="69" type="substitution off" type_id="18"/>
+	<message comment="Stephen Quinn is substituted on" minute="66" period="2" second="39" time="69" type="substitution on" type_id="19"/>
+	<message comment="Fraizer Campbell is substituted off" minute="64" period="2" second="19" time="67" type="substitution off" type_id="18"/>
+	<message comment="Rudy Gestede is substituted on" minute="64" period="2" second="19" time="67" type="substitution on" type_id="19"/>
+	<message comment="Aron Gunnarsson misses attempt (18-yard box, Big Chance, Head, Open play)" minute="61" period="2" second="27" time="64" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Peter Whittingham scores , Assisted by Don Cowie (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="58" period="2" second="57" time="61" type="goal scored" type_id="16"/>
+	<message comment="Maynor Figueroa misses attempt (High to the left, Out of box, Right footed, Set piece)" minute="54" period="2" second="41" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Robert Koren has shot blocked (18-yard box, Right footed, Set piece)" minute="54" period="2" second="37" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Andrew Taylor blocks a shot" minute="54" period="2" second="37" time="57" type="save made" type_id="10"/>
+	<message comment="Ben Turner recieves a yellow card" minute="53" period="2" second="37" time="56" type="card received" type_id="17"/>
+	<message comment="Jake Livermore blocks a shot" minute="50" period="2" second="21" time="53" type="save made" type_id="10"/>
+	<message comment="Aron Gunnarsson has shot blocked (Out of box, Right footed, Set piece)" minute="50" period="2" second="21" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="46" period="2" second="54" time="49" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa has shot blocked (Out of box, Left footed, Open play)" minute="46" period="2" second="53" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="46" period="2" second="53" time="49" type="save made" type_id="10"/>
+	<message comment="Kim Bo-Kyung is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Nicky Maynard is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Jake Livermore has shot blocked (18-yard box, Right footed, From corner)" minute="43" period="1" second="48" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell blocks a shot" minute="43" period="1" second="48" time="43" type="save made" type_id="10"/>
+	<message comment="Sone Aluko wins a corner (To the left)" minute="43" period="1" second="12" time="43" type="corner" type_id="6"/>
+	<message comment="Sone Aluko has shot blocked (18-yard box, Left footed, Open play)" minute="43" period="1" second="10" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="43" period="1" second="10" time="43" type="save made" type_id="10"/>
+	<message comment="GOAL! Curtis Davies scores , Assisted by Tom Huddlestone (Low to the left, 6-yard box, Big Chance, Head, From corner)" minute="39" period="1" second="4" time="39" type="goal scored" type_id="16"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="38" period="1" second="28" time="38" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="38" period="1" second="26" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Lewis makes a save (Diving, Parried safe)" minute="38" period="1" second="26" time="38" type="save made" type_id="10"/>
+	<message comment="Sone Aluko misses attempt (Out of box, Right footed, Open play)" minute="35" period="1" second="39" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady has shot blocked (Out of box, Right footed, Open play)" minute="33" period="1" second="1" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Whittingham blocks a shot" minute="33" period="1" second="1" time="33" type="save made" type_id="10"/>
+	<message comment="Sone Aluko misses attempt (18-yard box, Left footed, Open play)" minute="25" period="1" second="46" time="25" type="attempt missed" type_id="13"/>
+	<message comment="James Chester blocks a shot" minute="23" period="1" second="48" time="23" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has shot blocked (Out of box, Left footed, Open play)" minute="23" period="1" second="48" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Fraizer Campbell recieves a yellow card" minute="19" period="1" second="12" time="19" type="card received" type_id="17"/>
+	<message comment="Fraizer Campbell misses attempt (To the left, 18-yard box, Head, Open play)" minute="17" period="1" second="38" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell wins a corner (To the left)" minute="15" period="1" second="28" time="15" type="corner" type_id="6"/>
+	<message comment="Jake Livermore blocks a shot" minute="15" period="1" second="25" time="15" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="25" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Danny Graham misses attempt (High, 18-yard box, Big Chance, Left footed, Open play)" minute="6" period="1" second="2" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Joe Lewis makes a save (Diving, Parried into danger)" minute="5" period="1" second="58" time="5" type="save made" type_id="10"/>
+	<message comment="Sone Aluko has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="5" period="1" second="58" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="4" period="1" second="18" time="4" type="save made" type_id="10"/>
+	<message comment="Aron Gunnarsson has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="18" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Sone Aluko is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

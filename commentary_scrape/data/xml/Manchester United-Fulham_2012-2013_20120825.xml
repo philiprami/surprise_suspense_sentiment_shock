@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester United" competition="English Premier League" game_date="2012-08-25" home_team_name="Fulham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="18" time="102" type="end" type_id="30"/>
+	<message comment="Ryan Giggs misses attempt (High, 18-yard box, Left footed, Fast break)" minute="97" period="2" second="11" time="102" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Briggs has shot blocked (Out of box, Left footed, Open play)" minute="96" period="2" second="44" time="101" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Antonio Valencia blocks a shot" minute="96" period="2" second="44" time="101" type="save made" type_id="10"/>
+	<message comment="David de Gea makes a save (Parried into danger, Standing)" minute="96" period="2" second="41" time="101" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="96" period="2" second="41" time="101" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="29" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Cleverley blocks a shot" minute="92" period="2" second="29" time="97" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Free kick)" minute="92" period="2" second="25" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick blocks a shot" minute="92" period="2" second="25" time="97" type="save made" type_id="10"/>
+	<message comment="Chris Baird wins a corner (To the left)" minute="90" period="2" second="51" time="95" type="corner" type_id="6"/>
+	<message comment="Wayne Rooney misses attempt (Out of box, Right footed, Open play)" minute="90" period="2" second="23" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell misses attempt (To the right, Out of box, Right footed, Free kick)" minute="88" period="2" second="0" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Tom Cleverley misses attempt (Out of box, Left footed, Open play)" minute="86" period="2" second="11" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Giggs wins a corner (To the right)" minute="85" period="2" second="3" time="90" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega wins a corner (To the left)" minute="81" period="2" second="53" time="86" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="51" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick blocks a shot" minute="81" period="2" second="51" time="86" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (Out of box, Left footed, Open play)" minute="81" period="2" second="45" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Patrice Evra blocks a shot" minute="81" period="2" second="45" time="86" type="save made" type_id="10"/>
+	<message comment="Mahamadou Diarra is substituted off" minute="81" period="2" second="1" time="86" type="substitution off" type_id="18"/>
+	<message comment="Chris Baird is substituted on" minute="81" period="2" second="1" time="86" type="substitution on" type_id="19"/>
+	<message comment="Anderson is substituted off" minute="80" period="2" second="26" time="85" type="substitution off" type_id="18"/>
+	<message comment="Ryan Giggs is substituted on" minute="80" period="2" second="26" time="85" type="substitution on" type_id="19"/>
+	<message comment="Rafael wins a corner (To the right)" minute="77" period="2" second="16" time="82" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save" minute="77" period="2" second="14" time="82" type="save made" type_id="10"/>
+	<message comment="Rafael has attempt saved (High to the centre, Out of box, Right footed, Set piece)" minute="77" period="2" second="14" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Rooney has shot blocked (Out of box, Right footed, Free kick)" minute="77" period="2" second="9" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Mahamadou Diarra blocks a shot" minute="77" period="2" second="9" time="82" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney misses attempt (To the right, 18-yard box, Head, Set piece)" minute="75" period="2" second="2" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Mladen Petric is substituted off" minute="72" period="2" second="7" time="77" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="72" period="2" second="7" time="77" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the left, 6-yard box, Left footed, Open play)" minute="69" period="2" second="34" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Standing, Parried into danger)" minute="69" period="2" second="34" time="74" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" minute="69" period="2" second="0" time="74" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="68" period="2" second="58" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save" minute="68" period="2" second="58" time="73" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa is substituted off" minute="67" period="2" second="57" time="72" type="substitution off" type_id="18"/>
+	<message comment="Wayne Rooney is substituted on" minute="67" period="2" second="57" time="72" type="substitution on" type_id="19"/>
+	<message comment="Ashley Young is substituted off" minute="67" period="2" second="44" time="72" type="substitution off" type_id="18"/>
+	<message comment="Danny Welbeck is substituted on" minute="67" period="2" second="44" time="72" type="substitution on" type_id="19"/>
+	<message comment="Nemanja Vidic scores an OWN GOAL!  (Low to the centre, 6-yard box, Right footed, Open play)" minute="63" period="2" second="46" time="68" type="goal scored" type_id="16"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="61" period="2" second="46" time="66" type="substitution off" type_id="18"/>
+	<message comment="Steve Sidwell is substituted on" minute="61" period="2" second="46" time="66" type="substitution on" type_id="19"/>
+	<message comment="Rafael misses attempt (High to the left, 18-yard box, Big Chance, Head, From corner)" minute="58" period="2" second="11" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Shinji Kagawa wins a corner (To the left)" minute="57" period="2" second="18" time="62" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" minute="57" period="2" second="17" time="62" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa has shot blocked (Out of box, Left footed, Throw-in)" minute="57" period="2" second="17" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="55" period="2" second="51" time="60" type="save made" type_id="10"/>
+	<message comment="Ashley Young has shot blocked (Out of box, Right footed, Open play)" minute="55" period="2" second="51" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the right)" minute="51" period="2" second="47" time="56" type="corner" type_id="6"/>
+	<message comment="Sascha Riether blocks a shot" minute="50" period="2" second="43" time="55" type="save made" type_id="10"/>
+	<message comment="Ashley Young has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="43" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="2" time="49" type="end" type_id="30"/>
+	<message comment="Rafael misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="47" period="1" second="58" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz misses attempt (High, 18-yard box, Big Chance, Left footed, Open play)" minute="42" period="1" second="38" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Mladen Petric has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="42" period="1" second="36" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried into danger, Feet)" minute="42" period="1" second="36" time="42" type="save made" type_id="10"/>
+	<message comment="Damien Duff has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="42" period="1" second="34" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried into danger, Diving)" minute="42" period="1" second="34" time="42" type="save made" type_id="10"/>
+	<message comment="Patrice Evra blocks a shot" minute="42" period="1" second="32" time="42" type="save made" type_id="10"/>
+	<message comment="Mladen Petric has shot blocked (18-yard box, Left footed, Open play)" minute="42" period="1" second="32" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Rafael scores , Assisted by Ashley Young (High to the right, 6-yard box, Head, Open play)" minute="40" period="1" second="31" time="40" type="goal scored" type_id="16"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" minute="39" period="1" second="46" time="39" type="corner" type_id="6"/>
+	<message comment="Rafael is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Mark Schwarzer makes a save (Standing, Feet, Parried into danger)" minute="37" period="1" second="0" time="37" type="save made" type_id="10"/>
+	<message comment="Ashley Young has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="37" period="1" second="0" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Shinji Kagawa hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="58" time="36" type="woodwork hit" type_id="14"/>
+	<message comment="GOAL! Shinji Kagawa scores  (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="34" period="1" second="57" time="34" type="goal scored" type_id="16"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Parried into danger, Other body part)" minute="34" period="1" second="53" time="34" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has attempt saved (Low to the centre, Out of box, Right footed, From corner)" minute="34" period="1" second="53" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland recieves a yellow card" minute="34" period="1" second="26" time="34" type="card received" type_id="17"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" minute="34" period="1" second="13" time="34" type="corner" type_id="6"/>
+	<message comment="Luis Antonio Valencia misses attempt (Out of box, Right footed, Open play)" minute="29" period="1" second="35" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz wins a corner (To the left)" minute="28" period="1" second="38" time="28" type="corner" type_id="6"/>
+	<message comment="Damien Duff wins a corner (To the left)" minute="28" period="1" second="3" time="28" type="corner" type_id="6"/>
+	<message comment="Ashley Young misses attempt (High, 18-yard box, Right footed, Fast break)" minute="23" period="1" second="50" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="22" period="1" second="33" time="22" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="22" period="1" second="33" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Patrice Evra wins a corner (To the right)" minute="20" period="1" second="0" time="20" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes wins a corner (To the right)" minute="16" period="1" second="9" time="16" type="corner" type_id="6"/>
+	<message comment="Alexander Kacaniklic misses attempt (To the right, Out of box, Left footed, Open play)" minute="12" period="1" second="46" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz wins a corner (To the right)" minute="12" period="1" second="21" time="12" type="corner" type_id="6"/>
+	<message comment="Bryan Ruiz has shot blocked (Out of box, Left footed, Open play)" minute="12" period="1" second="17" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick blocks a shot" minute="12" period="1" second="17" time="12" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="12" type="end" type_id="30"/>
+	<message comment="GOAL! Robin van Persie scores , Assisted by Patrice Evra (Low to the right, 18-yard box, Left footed, Open play)" minute="9" period="1" second="46" time="9" type="goal scored" type_id="16"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="7" period="1" second="37" time="7" type="corner" type_id="6"/>
+	<message comment="Patrice Evra wins a corner (To the left)" minute="7" period="1" second="11" time="7" type="corner" type_id="6"/>
+	<message comment="GOAL! Damien Duff scores , Assisted by Bryan Ruiz (Low to the left, 18-yard box, Left footed, Set piece)" minute="2" period="1" second="19" time="2" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

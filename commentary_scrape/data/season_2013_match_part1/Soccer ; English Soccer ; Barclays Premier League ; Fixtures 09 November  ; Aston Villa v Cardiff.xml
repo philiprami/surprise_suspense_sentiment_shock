@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-11-09 15:00" game_id_2="27093490" game_id_4="111698002" home_team_name="Cardiff" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-09 16:36:31" minute="94" period="2" second="38" team="Cardiff" time="96" type="end" type_id="30"/>
+	<message comment="Peter Whittingham misses attempt (High, Out of box, Left footed, Free kick)" last_modified="2013-11-09 16:36:25" minute="94" period="2" second="32" team="Aston Villa" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Ciaran Clark recieves a yellow card" last_modified="2013-11-09 16:35:55" minute="94" period="2" second="2" team="Cardiff" time="96" type="card received" type_id="17"/>
+	<message comment="Leandro Bacuna wins a corner (To the left)" last_modified="2013-11-09 16:34:03" minute="92" period="2" second="10" team="Cardiff" time="94" type="corner" type_id="6"/>
+	<message comment="Andrew Taylor blocks a shot" last_modified="2013-11-09 16:34:02" minute="92" period="2" second="9" team="Aston Villa" time="94" type="save made" type_id="10"/>
+	<message comment="Leandro Bacuna has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-09 16:34:02" minute="92" period="2" second="9" team="Cardiff" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell is caught offside" last_modified="2013-11-09 16:32:53" minute="91" period="2" team="Aston Villa" time="93" type="offside" type_id="10000"/>
+	<message comment="Jordan Bowery misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-11-09 16:32:08" minute="90" period="2" second="15" team="Cardiff" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Libor Kozák is substituted off" last_modified="2013-11-09 16:29:31" minute="87" period="2" second="38" team="Cardiff" time="89" type="substitution off" type_id="18"/>
+	<message comment="Jordan Bowery is substituted on" last_modified="2013-11-09 16:29:31" minute="87" period="2" second="38" team="Cardiff" time="89" type="substitution on" type_id="19"/>
+	<message comment="Steven Caulker wins a corner (To the right)" last_modified="2013-11-09 16:28:20" minute="86" period="2" second="27" team="Aston Villa" time="88" type="corner" type_id="6"/>
+	<message comment="Libor Kozák blocks a shot" last_modified="2013-11-09 16:28:17" minute="86" period="2" second="24" team="Cardiff" time="88" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has shot blocked (18-yard box, Head, From corner)" last_modified="2013-11-09 16:28:17" minute="86" period="2" second="24" team="Aston Villa" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker is caught offside" last_modified="2013-11-09 16:27:53" minute="86" period="2" team="Aston Villa" time="88" type="offside" type_id="10000"/>
+	<message comment="Jordon Mutch wins a corner (To the left)" last_modified="2013-11-09 16:27:52" minute="85" period="2" second="59" team="Aston Villa" time="87" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-09 16:26:53" minute="85" period="2" second="0" team="Cardiff" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2013-11-09 16:26:53" minute="85" period="2" second="0" team="Aston Villa" time="87" type="save made" type_id="10"/>
+	<message comment="GOAL! Libor Kozák scores , Assisted by Matthew Lowton (Low to the right, 18-yard box, Head, Open play)" last_modified="2013-11-09 16:25:25" minute="83" period="2" second="32" team="Cardiff" time="85" type="goal scored" type_id="16"/>
+	<message comment="Craig Bellamy is substituted off" last_modified="2013-11-09 16:23:05" minute="81" period="2" second="12" team="Aston Villa" time="83" type="substitution off" type_id="18"/>
+	<message comment="Nicky Maynard is substituted on" last_modified="2013-11-09 16:23:05" minute="81" period="2" second="12" team="Aston Villa" time="83" type="substitution on" type_id="19"/>
+	<message comment="Libor Kozák wins a corner (To the left)" last_modified="2013-11-09 16:20:59" minute="79" period="2" second="6" team="Cardiff" time="81" type="corner" type_id="6"/>
+	<message comment="Nathan Baker is caught offside" last_modified="2013-11-09 16:20:53" minute="79" period="2" team="Cardiff" time="81" type="offside" type_id="10000"/>
+	<message comment="Aleksandar Tonev wins a corner (To the left)" last_modified="2013-11-09 16:20:06" minute="78" period="2" second="13" team="Cardiff" time="80" type="corner" type_id="6"/>
+	<message comment="GOAL! Leandro Bacuna scores  (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-11-09 16:17:10" minute="75" period="2" second="17" team="Cardiff" time="77" type="goal scored" type_id="16"/>
+	<message comment="Gary Medel recieves a yellow card" last_modified="2013-11-09 16:16:11" minute="74" period="2" second="18" team="Aston Villa" time="76" type="card received" type_id="17"/>
+	<message comment="Karim El Ahmadi is substituted off" last_modified="2013-11-09 16:15:15" minute="73" period="2" second="22" team="Cardiff" time="75" type="substitution off" type_id="18"/>
+	<message comment="Matthew Lowton is substituted on" last_modified="2013-11-09 16:15:15" minute="73" period="2" second="22" team="Cardiff" time="75" type="substitution on" type_id="19"/>
+	<message comment="Christian Benteke misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-11-09 16:14:11" minute="72" period="2" second="18" team="Cardiff" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Tonev has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-09 16:14:02" minute="72" period="2" second="9" team="Cardiff" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" last_modified="2013-11-09 16:14:02" minute="72" period="2" second="9" team="Aston Villa" time="74" type="save made" type_id="10"/>
+	<message comment="Gary Medel misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-09 16:12:05" minute="70" period="2" second="12" team="Aston Villa" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke misses attempt (18-yard box, Head, Fast break)" last_modified="2013-11-09 16:08:02" minute="66" period="2" second="9" team="Cardiff" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson is substituted off" last_modified="2013-11-09 16:06:14" minute="64" period="2" second="21" team="Aston Villa" time="66" type="substitution off" type_id="18"/>
+	<message comment="Jordon Mutch is substituted on" last_modified="2013-11-09 16:06:14" minute="64" period="2" second="21" team="Aston Villa" time="66" type="substitution on" type_id="19"/>
+	<message comment="Ashley Westwood misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-11-09 16:04:02" minute="62" period="2" second="9" team="Cardiff" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is substituted off" last_modified="2013-11-09 15:56:45" minute="54" period="2" second="52" team="Aston Villa" time="56" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" last_modified="2013-11-09 15:56:45" minute="54" period="2" second="52" team="Aston Villa" time="56" type="substitution on" type_id="19"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" last_modified="2013-11-09 15:53:06" minute="51" period="2" second="13" team="Aston Villa" time="53" type="save made" type_id="10"/>
+	<message comment="Aleksandar Tonev has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-09 15:53:06" minute="51" period="2" second="13" team="Cardiff" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Libor Kozák wins a corner (To the right)" last_modified="2013-11-09 15:51:26" minute="49" period="2" second="33" team="Cardiff" time="51" type="corner" type_id="6"/>
+	<message comment="Libor Kozák has attempt saved (Low to the right, 18-yard box, Head, Open play)" last_modified="2013-11-09 15:51:24" minute="49" period="2" second="31" team="Cardiff" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" last_modified="2013-11-09 15:51:24" minute="49" period="2" second="31" team="Aston Villa" time="51" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-09 15:46:53" minute="45" period="2" team="Aston Villa" time="47" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" last_modified="2013-11-09 15:46:53" minute="45" period="2" second="0" team="Cardiff" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-09 15:48:03" minute="46" period="1" second="10" team="Cardiff" time="46" type="end" type_id="30"/>
+	<message comment="Don Cowie misses attempt (High, 18-yard box, Head, Open play)" last_modified="2013-11-09 15:47:04" minute="45" period="1" second="11" team="Aston Villa" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Tonev misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-11-09 15:45:36" minute="43" period="1" second="43" team="Cardiff" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Karim El Ahmadi misses attempt (Out of box, Right footed, Open play)" last_modified="2013-11-09 15:39:01" minute="37" period="1" second="8" team="Cardiff" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Libor Kozák is caught offside" last_modified="2013-11-09 15:34:53" minute="33" period="1" team="Cardiff" time="33" type="offside" type_id="10000"/>
+	<message comment="Brad Guzan makes a save (Collected, Standing)" last_modified="2013-11-09 15:31:43" minute="29" period="1" second="50" team="Cardiff" time="29" type="save made" type_id="10"/>
+	<message comment="Craig Bellamy has attempt saved (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-11-09 15:31:43" minute="29" period="1" second="50" team="Aston Villa" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-09 15:27:53" minute="26" period="1" team="Aston Villa" time="26" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-09 15:25:53" minute="24" period="1" team="Aston Villa" time="24" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke is caught offside" last_modified="2013-11-09 15:23:53" minute="22" period="1" team="Cardiff" time="22" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke is caught offside" last_modified="2013-11-09 15:15:53" minute="14" period="1" team="Cardiff" time="14" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-09 15:13:53" minute="12" period="1" team="Aston Villa" time="12" type="offside" type_id="10000"/>
+	<message comment="Aron Gunnarsson has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-11-09 15:13:34" minute="11" period="1" second="41" team="Aston Villa" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save (Diving, Parried into danger, Other body part)" last_modified="2013-11-09 15:13:34" minute="11" period="1" second="41" team="Cardiff" time="11" type="save made" type_id="10"/>
+	<message comment="Christian Benteke misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-11-09 15:12:52" minute="10" period="1" second="59" team="Cardiff" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke wins a corner (To the left)" last_modified="2013-11-09 15:12:21" minute="10" period="1" second="28" team="Cardiff" time="10" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" last_modified="2013-11-09 15:12:18" minute="10" period="1" second="25" team="Aston Villa" time="10" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-09 15:12:18" minute="10" period="1" second="25" team="Cardiff" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Medel wins a corner (To the right)" last_modified="2013-11-09 15:11:16" minute="9" period="1" second="23" team="Aston Villa" time="9" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save" last_modified="2013-11-09 15:09:35" minute="7" period="1" second="42" team="Aston Villa" time="7" type="save made" type_id="10"/>
+	<message comment="Yacouba Sylla has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-09 15:09:35" minute="7" period="1" second="42" team="Cardiff" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-09 15:08:09" minute="6" period="1" second="16" team="Aston Villa" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" last_modified="2013-11-09 15:08:07" minute="6" period="1" second="14" team="Aston Villa" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-11-09 15:01:53" minute="0" period="14" second="0" team="Cardiff" time="6" type="end" type_id="30"/>
+	<message comment="David Marshall makes a save (Diving, Parried into danger)" last_modified="2013-11-09 15:06:12" minute="4" period="1" second="19" team="Aston Villa" time="4" type="save made" type_id="10"/>
+	<message comment="Karim El Ahmadi has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-09 15:06:12" minute="4" period="1" second="19" team="Cardiff" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-09 15:02:53" minute="1" period="1" team="Aston Villa" time="1" type="offside" type_id="10000"/>
+	<message comment="Libor Kozák is caught offside" last_modified="2013-11-09 15:01:53" minute="0" period="1" team="Cardiff" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2013-11-09 15:01:53" minute="0" period="1" second="0" team="Cardiff" time="0" type="start" type_id="32"/>
+</Commentary>

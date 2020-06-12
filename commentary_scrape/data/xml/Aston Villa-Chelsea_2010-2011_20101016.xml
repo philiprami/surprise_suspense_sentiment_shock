@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2010-10-16" home_team_name="Chelsea" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="96" type="end" type_id="30"/>
+	<message comment="Nigel Reo-Coker misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="92" period="2" second="35" time="94" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Nathan Delfouneso wins a corner (To the left)" minute="90" period="2" second="8" time="92" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka hits the woodwork (High, 6-yard box, Big Chance, Head, Open play)" minute="88" period="2" second="46" time="90" type="woodwork hit" type_id="14"/>
+	<message comment="Ashley Cole misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="86" period="2" second="42" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Stiliyan Petrov blocks a shot" minute="86" period="2" second="21" time="88" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Open play)" minute="86" period="2" second="21" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Josh McEachran has shot blocked (Out of box, Left footed, Open play)" minute="86" period="2" second="8" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Stephen Ireland is substituted off" minute="83" period="2" second="48" time="85" type="substitution off" type_id="18"/>
+	<message comment="Steve Sidwell is substituted on" minute="83" period="2" second="48" time="85" type="substitution on" type_id="19"/>
+	<message comment="Josh McEachran recieves a yellow card" minute="82" period="2" second="59" time="84" type="card received" type_id="17"/>
+	<message comment="Ashley Young recieves a yellow card" minute="80" period="2" second="2" time="82" type="card received" type_id="17"/>
+	<message comment="Stephen Ireland misses attempt (To the left, 18-yard box, Right footed, Set piece)" minute="79" period="2" second="10" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Ciaran Clark hits the woodwork (To the right, 18-yard box, Head, Set piece)" minute="79" period="2" second="7" time="81" type="woodwork hit" type_id="14"/>
+	<message comment="Branislav Ivanovic hits the woodwork (To the left, 18-yard box, Head, From corner)" minute="76" period="2" second="43" time="78" type="woodwork hit" type_id="14"/>
+	<message comment="José Bosingwa wins a corner (To the left)" minute="76" period="2" second="14" time="78" type="corner" type_id="6"/>
+	<message comment="Ramires is substituted off" minute="75" period="2" second="11" time="77" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="75" period="2" second="11" time="77" type="substitution on" type_id="19"/>
+	<message comment="Paulo Ferreira is substituted off" minute="75" period="2" second="10" time="77" type="substitution off" type_id="18"/>
+	<message comment="José Bosingwa is substituted on" minute="75" period="2" second="10" time="77" type="substitution on" type_id="19"/>
+	<message comment="Ciaran Clark recieves a yellow card" minute="74" period="2" second="44" time="76" type="card received" type_id="17"/>
+	<message comment="John Carew is substituted off" minute="73" period="2" second="32" time="75" type="substitution off" type_id="18"/>
+	<message comment="Nathan Delfouneso is substituted on" minute="73" period="2" second="32" time="75" type="substitution on" type_id="19"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="72" period="2" second="49" time="74" type="corner" type_id="6"/>
+	<message comment="Michael Essien blocks a shot" minute="71" period="2" second="51" time="73" type="save made" type_id="10"/>
+	<message comment="James Collins has shot blocked (18-yard box, Right footed, From corner)" minute="71" period="2" second="51" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Young wins a corner (To the right)" minute="71" period="2" second="32" time="73" type="corner" type_id="6"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="71" period="2" second="2" time="73" type="corner" type_id="6"/>
+	<message comment="Stephen Ireland recieves a yellow card" minute="67" period="2" second="58" time="69" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="67" period="2" second="43" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Warnock recieves a yellow card" minute="64" period="2" second="53" time="66" type="card received" type_id="17"/>
+	<message comment="Brad Friedel makes a save" minute="62" period="2" second="17" time="64" type="save made" type_id="10"/>
+	<message comment="Michael Essien has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="62" period="2" second="17" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry recieves a yellow card" minute="59" period="2" second="25" time="61" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="19" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Diving, Feet, Parried into danger)" minute="53" period="2" second="8" time="55" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="53" period="2" second="8" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Parried safe, Standing)" minute="47" period="2" second="39" time="49" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="47" period="2" second="39" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="Gaël Kakuta is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Yuri Zhirkov is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="James Collins misses attempt (High, 18-yard box, Head, From corner)" minute="44" period="1" second="57" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="44" period="1" second="50" time="44" type="corner" type_id="6"/>
+	<message comment="Ashley Young wins a corner (To the left)" minute="43" period="1" second="57" time="43" type="corner" type_id="6"/>
+	<message comment="John Carew is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Stephen Ireland misses attempt (High, 18-yard box, Head, Open play)" minute="38" period="1" second="43" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ireland has shot blocked (18-yard box, Left footed, Open play)" minute="38" period="1" second="34" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic blocks a shot" minute="38" period="1" second="34" time="38" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka misses attempt (High to the left, Out of box, Left footed, Open play)" minute="34" period="1" second="57" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Brad Friedel makes a save (Standing)" minute="33" period="1" second="49" time="33" type="save made" type_id="10"/>
+	<message comment="Michael Essien has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="33" period="1" second="49" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Kakuta misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="32" period="1" second="22" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="32" period="1" second="3" time="32" type="corner" type_id="6"/>
+	<message comment="Michael Essien misses attempt (To the left, Out of box, Left footed, Open play)" minute="29" period="1" second="52" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="26" period="1" second="33" time="26" type="corner" type_id="6"/>
+	<message comment="Stiliyan Petrov misses attempt (To the left, Out of box, Right footed, Open play)" minute="22" period="1" second="10" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save" minute="19" period="1" second="44" time="19" type="save made" type_id="10"/>
+	<message comment="John Carew has attempt saved (High to the right, 18-yard box, Head, From corner)" minute="19" period="1" second="44" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="19" period="1" second="34" time="19" type="corner" type_id="6"/>
+	<message comment="Stiliyan Petrov wins a corner (To the right)" minute="19" period="1" second="10" time="19" type="corner" type_id="6"/>
+	<message comment="Ramires blocks a shot" minute="19" period="1" second="8" time="19" type="save made" type_id="10"/>
+	<message comment="Stiliyan Petrov has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="8" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Kakuta misses attempt (High to the right, Out of box, Right footed, Open play)" minute="15" period="1" second="47" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien wins a corner (To the left)" minute="15" period="1" second="8" time="15" type="corner" type_id="6"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="13" period="1" second="33" time="13" type="corner" type_id="6"/>
+	<message comment="Richard Dunne is substituted off" minute="12" period="1" second="38" time="12" type="substitution off" type_id="18"/>
+	<message comment="Ciaran Clark is substituted on" minute="12" period="1" second="38" time="12" type="substitution on" type_id="19"/>
+	<message comment="Michael Essien recieves a yellow card" minute="12" period="1" second="9" time="12" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="John Carew wins a corner (To the right)" minute="4" period="1" second="52" time="4" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="4" period="1" second="50" time="4" type="save made" type_id="10"/>
+	<message comment="John Carew has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="4" period="1" second="50" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Ireland misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="2" period="1" second="10" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2014-03-22" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="91" period="2" second="59" time="95" type="end" type_id="30"/>
+	<message comment="Olivier Giroud is caught offside" minute="91" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Carl Jenkinson misses attempt (High, 18-yard box, Right footed, Open play)" minute="90" period="2" second="12" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="90" period="2" second="8" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried into danger, Diving)" minute="90" period="2" second="8" time="94" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" minute="88" period="2" second="18" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel blocks a shot" minute="88" period="2" second="18" time="92" type="save made" type_id="10"/>
+	<message comment="Mohamed Salah is caught offside" minute="85" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="André Schürrle misses attempt (Out of box, Right footed, Open play)" minute="83" period="2" second="19" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Salah misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="82" period="2" second="3" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Carl Jenkinson blocks a shot" minute="78" period="2" second="26" time="82" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="78" period="2" second="26" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz is substituted off" minute="71" period="2" second="10" time="75" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="71" period="2" second="10" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Mohamed Salah scores , Assisted by Nemanja Matic (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="70" period="2" second="22" time="74" type="goal scored" type_id="16"/>
+	<message comment="Wojciech Szczesny makes a save (Parried into danger, Diving)" minute="67" period="2" second="39" time="71" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="67" period="2" second="39" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is substituted off" minute="66" period="2" second="39" time="70" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Salah is substituted on" minute="66" period="2" second="39" time="70" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Oscar scores  (Low to the right, Out of box, Right footed, Open play)" minute="65" period="2" second="28" time="69" type="goal scored" type_id="16"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="64" period="2" second="46" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="64" period="2" second="46" time="68" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini has attempt saved (Low to the right, 18-yard box, Head, Set piece)" minute="63" period="2" second="55" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="63" period="2" second="55" time="67" type="save made" type_id="10"/>
+	<message comment="Oscar misses attempt (18-yard box, Right footed, Open play)" minute="62" period="2" second="25" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="60" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla misses attempt (18-yard box, Left footed, Open play)" minute="60" period="2" second="0" time="64" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle is caught offside" minute="58" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="54" period="2" second="32" time="58" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky recieves a yellow card" minute="51" period="2" second="26" time="55" type="card received" type_id="17"/>
+	<message comment="David Luiz wins a corner (To the right)" minute="46" period="2" second="57" time="50" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving, Other body part)" minute="46" period="2" second="55" time="50" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="46" period="2" second="55" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" minute="46" period="2" second="54" time="50" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="46" period="2" second="54" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" minute="46" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Laurent Koscielny is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Carl Jenkinson is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="7" time="48" type="end" type_id="30"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="47" period="1" second="36" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="47" period="1" second="36" time="47" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="47" period="1" second="3" time="47" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, From corner)" minute="47" period="1" second="3" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain blocks a shot" minute="47" period="1" second="0" time="47" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, From corner)" minute="47" period="1" second="0" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle wins a corner (To the right)" minute="46" period="1" second="30" time="46" type="corner" type_id="6"/>
+	<message comment="André Schürrle wins a corner (To the right)" minute="45" period="1" second="49" time="45" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="45" period="1" second="23" time="45" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Left footed, Open play)" minute="44" period="1" second="30" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save" minute="43" period="1" second="5" time="43" type="save made" type_id="10"/>
+	<message comment="Nemanja Matic has attempt saved (High to the left, Out of box, Left footed, Open play)" minute="43" period="1" second="5" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Oscar scores , Assisted by Fernando Torres (High to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="41" period="1" second="17" time="41" type="goal scored" type_id="16"/>
+	<message comment="Eden Hazard misses attempt (High, Out of box, Right footed, Open play)" minute="40" period="1" second="15" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="38" period="1" second="20" time="38" type="save made" type_id="10"/>
+	<message comment="André Schürrle has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="38" period="1" second="20" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" minute="37" period="1" second="38" time="37" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" minute="35" period="1" second="31" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="César Azpilicueta blocks a shot" minute="35" period="1" second="31" time="35" type="save made" type_id="10"/>
+	<message comment="André Schürrle wins a corner (To the left)" minute="30" period="1" second="40" time="30" type="corner" type_id="6"/>
+	<message comment="André Schürrle wins a corner (To the left)" minute="29" period="1" second="51" time="29" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="29" period="1" second="46" time="29" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="29" period="1" second="46" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Lukas Podolski is substituted off" minute="23" period="1" second="7" time="23" type="substitution off" type_id="18"/>
+	<message comment="Thomas Vermaelen is substituted on" minute="23" period="1" second="7" time="23" type="substitution on" type_id="19"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="19" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="22" period="1" second="19" time="22" type="save made" type_id="10"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the centre, 18-yard box, Penalty, Big Chance, Right footed)" minute="16" period="1" second="31" time="16" type="goal scored" type_id="16"/>
+	<message comment="Kieran Gibbs recieves a red card" minute="14" period="1" second="46" time="14" type="card received" type_id="17"/>
+	<message comment="Eden Hazard misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="14" period="1" second="20" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Samuel Eto'o is substituted off" minute="9" period="1" second="34" time="9" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" minute="9" period="1" second="34" time="9" type="substitution on" type_id="19"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Nemanja Matic (Low to the left, 18-yard box, Right footed, Fast break)" minute="6" period="1" second="34" time="6" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="GOAL! Samuel Eto'o scores , Assisted by André Schürrle (Low to the left, 18-yard box, Left footed, Fast break)" minute="4" period="1" second="21" time="4" type="goal scored" type_id="16"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="3" period="1" second="53" time="3" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="3" period="1" second="53" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="Nemanja Matic blocks a shot" minute="1" period="1" second="41" time="1" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" minute="1" period="1" second="41" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-03-15" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="26" time="97" type="end" type_id="30"/>
+	<message comment="Marvin Emnes is caught offside" minute="91" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="90" period="2" second="22" time="93" type="corner" type_id="6"/>
+	<message comment="Victor Anichebe is substituted off" minute="88" period="2" second="53" time="91" type="substitution off" type_id="18"/>
+	<message comment="Liam O'Neil is substituted on" minute="88" period="2" second="53" time="91" type="substitution on" type_id="19"/>
+	<message comment="Leon Britton is substituted off" minute="86" period="2" second="41" time="89" type="substitution off" type_id="18"/>
+	<message comment="Marvin Emnes is substituted on" minute="86" period="2" second="41" time="89" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Bony is caught offside" minute="85" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="GOAL! Youssouf Mulumbu scores  (Low to the right, Out of box, Right footed, Open play)" minute="84" period="2" second="17" time="87" type="goal scored" type_id="16"/>
+	<message comment="Craig Dawson blocks a shot" minute="82" period="2" second="31" time="85" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="31" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Amat misses attempt (High to the left, Out of box, Right footed, Open play)" minute="80" period="2" second="48" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon is substituted off" minute="78" period="2" second="53" time="81" type="substitution off" type_id="18"/>
+	<message comment="Thievy is substituted on" minute="78" period="2" second="53" time="81" type="substitution on" type_id="19"/>
+	<message comment="Roland Lamah is substituted off" minute="76" period="2" second="16" time="79" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández is substituted on" minute="76" period="2" second="16" time="79" type="substitution on" type_id="19"/>
+	<message comment="Zoltán Gera is substituted on" minute="74" period="2" second="30" time="77" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans is substituted off" minute="74" period="2" second="30" time="77" type="substitution off" type_id="18"/>
+	<message comment="Ben Foster makes a save (Parried safe)" minute="69" period="2" second="53" time="72" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="69" period="2" second="53" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe misses attempt (To the left, Out of box, Right footed, Open play)" minute="67" period="2" second="53" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu misses attempt (To the right, Out of box, Right footed, Open play)" minute="67" period="2" second="3" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies blocks a shot" minute="65" period="2" second="56" time="68" type="save made" type_id="10"/>
+	<message comment="Steven Reid has shot blocked (18-yard box, Right footed, Open play)" minute="65" period="2" second="56" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas is substituted off" minute="62" period="2" second="15" time="65" type="substitution off" type_id="18"/>
+	<message comment="Michu is substituted on" minute="62" period="2" second="15" time="65" type="substitution on" type_id="19"/>
+	<message comment="Roland Lamah wins a corner (To the left)" minute="61" period="2" second="38" time="64" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="60" period="2" second="54" time="63" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (18-yard box, Right footed, Open play)" minute="60" period="2" second="53" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="59" period="2" second="12" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="59" period="2" second="12" time="62" type="save made" type_id="10"/>
+	<message comment="Victor Anichebe misses attempt (High to the right, Out of box, Right footed, Open play)" minute="58" period="2" second="5" time="61" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison has shot blocked (Out of box, Right footed, Open play)" minute="55" period="2" second="56" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Amat blocks a shot" minute="55" period="2" second="56" time="58" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="53" period="2" second="0" time="56" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="53" period="2" second="0" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson recieves a yellow card" minute="52" period="2" second="10" time="55" type="card received" type_id="17"/>
+	<message comment="GOAL! Stéphane Sessegnon scores , Assisted by James Morrison (Low to the left, Out of box, Right footed, Open play)" minute="51" period="2" second="4" time="54" type="goal scored" type_id="16"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Left footed, From corner)" minute="46" period="2" second="14" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Amat blocks a shot" minute="46" period="2" second="14" time="49" type="save made" type_id="10"/>
+	<message comment="Craig Dawson misses attempt (18-yard box, Right footed, From corner)" minute="46" period="2" second="6" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans wins a corner (To the right)" minute="45" period="2" second="44" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Ashley Williams misses attempt (18-yard box, Head, From corner)" minute="43" period="1" second="7" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony wins a corner (To the right)" minute="42" period="1" second="36" time="42" type="corner" type_id="6"/>
+	<message comment="Steven Reid recieves a yellow card" minute="41" period="1" second="56" time="41" type="card received" type_id="17"/>
+	<message comment="Wayne Routledge is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán misses attempt (To the right, 18-yard box, Right footed, Fast break)" minute="35" period="1" second="55" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="35" period="1" second="14" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson blocks a shot" minute="31" period="1" second="44" time="31" type="save made" type_id="10"/>
+	<message comment="José Cañas has shot blocked (Out of box, Right footed, Open play)" minute="31" period="1" second="44" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas misses attempt (High, Out of box, Right footed, Open play)" minute="30" period="1" second="8" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu has shot blocked (Out of box, Right footed, Set piece)" minute="28" period="1" second="40" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot" minute="28" period="1" second="40" time="28" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge recieves a yellow card" minute="28" period="1" second="1" time="28" type="card received" type_id="17"/>
+	<message comment="Victor Anichebe recieves a yellow card" minute="25" period="1" second="34" time="25" type="card received" type_id="17"/>
+	<message comment="Roland Lamah misses attempt (18-yard box, Head, From corner)" minute="22" period="1" second="54" time="22" type="attempt missed" type_id="13"/>
+	<message comment="José Cañas wins a corner (To the left)" minute="22" period="1" second="18" time="22" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="20" period="1" second="2" time="20" type="save made" type_id="10"/>
+	<message comment="Roland Lamah has shot blocked (18-yard box, Left footed, Open play)" minute="20" period="1" second="2" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon misses attempt (High to the right, Out of box, Right footed, Set piece)" minute="18" period="1" second="1" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Standing, Other body part)" minute="17" period="1" second="10" time="17" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="17" period="1" second="10" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="14" period="1" second="29" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger)" minute="14" period="1" second="29" time="14" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Wilfried Bony is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="GOAL! Roland Lamah scores , Assisted by Wilfried Bony (Low to the right, 18-yard box, Right footed, Open play)" minute="1" period="1" second="50" time="1" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

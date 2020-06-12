@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-12-22" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="0" time="99" type="end" type_id="30"/>
+	<message comment="Rickie Lambert misses attempt (High, 18-yard box, Right footed, From corner)" minute="91" period="2" second="5" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="91" period="2" second="2" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="90" period="2" second="39" time="94" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado is substituted off" minute="84" period="2" second="26" time="88" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="84" period="2" second="26" time="88" type="substitution on" type_id="19"/>
+	<message comment="Dejan Lovren misses attempt (To the right, Out of box, Right footed, Open play)" minute="83" period="2" second="42" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Lloris makes a save (Diving)" minute="80" period="2" second="56" time="84" type="save made" type_id="10"/>
+	<message comment="Sam Gallagher has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="80" period="2" second="56" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, From corner)" minute="79" period="2" second="26" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers blocks a shot" minute="79" period="2" second="26" time="83" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="78" period="2" second="58" time="82" type="corner" type_id="6"/>
+	<message comment="Sam Gallagher is substituted on" minute="77" period="2" second="40" time="81" type="substitution on" type_id="19"/>
+	<message comment="Daniel Fox is substituted off" minute="77" period="2" second="40" time="81" type="substitution off" type_id="18"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" minute="76" period="2" second="11" time="80" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="76" period="2" second="11" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez misses attempt (High to the left, Out of box, Left footed, Open play)" minute="75" period="2" second="5" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson blocks a shot" minute="72" period="2" second="46" time="76" type="save made" type_id="10"/>
+	<message comment="Daniel Fox has shot blocked (Out of box, Right footed, Open play)" minute="72" period="2" second="46" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="72" period="2" second="27" time="76" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="72" period="2" second="27" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Nacer Chadli misses attempt (To the left, Out of box, Right footed, Open play)" minute="71" period="2" second="4" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Roberto Soldado misses attempt (18-yard box, Right footed, Open play)" minute="69" period="2" second="1" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" minute="69" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Steven Davis is substituted off" minute="68" period="2" second="40" time="72" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="68" period="2" second="40" time="72" type="substitution on" type_id="19"/>
+	<message comment="Roberto Soldado misses attempt (6-yard box, Big Chance, Right footed, Open play)" minute="67" period="2" second="56" time="71" type="attempt missed" type_id="13"/>
+	<message comment="James Ward-Prowse recieves a yellow card" minute="66" period="2" second="30" time="70" type="card received" type_id="17"/>
+	<message comment="Roberto Soldado misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="65" period="2" second="29" time="69" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Nacer Chadli (Low to the centre, 18-yard box, Left footed, Throw-in)" minute="63" period="2" second="10" time="67" type="goal scored" type_id="16"/>
+	<message comment="Jack Cork is substituted off" minute="62" period="2" second="50" time="66" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" minute="62" period="2" second="50" time="66" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="61" period="2" second="30" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Diving, Parried into danger)" minute="61" period="2" second="30" time="65" type="save made" type_id="10"/>
+	<message comment="Erik Lamela is substituted off" minute="59" period="2" second="40" time="63" type="substitution off" type_id="18"/>
+	<message comment="Nacer Chadli is substituted on" minute="59" period="2" second="40" time="63" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Rickie Lambert scores , Assisted by Adam Lallana (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="59" period="2" second="0" time="63" type="goal scored" type_id="16"/>
+	<message comment="Daniel Fox wins a corner (To the left)" minute="56" period="2" second="26" time="60" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld scores an OWN GOAL!  (Low to the left, 6-yard box, Right footed, Open play)" minute="53" period="2" second="54" time="57" type="goal scored" type_id="16"/>
+	<message comment="Mousa Dembélé is substituted off" minute="49" period="2" second="47" time="53" type="substitution off" type_id="18"/>
+	<message comment="Nabil Bentaleb is substituted on" minute="49" period="2" second="47" time="53" type="substitution on" type_id="19"/>
+	<message comment="Rickie Lambert is caught offside" minute="48" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="5" time="48" type="end" type_id="30"/>
+	<message comment="Erik Lamela is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson recieves a yellow card" minute="38" period="1" second="30" time="38" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, Open play)" minute="38" period="1" second="20" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis blocks a shot" minute="38" period="1" second="20" time="38" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has shot blocked (Out of box, Right footed, Free kick)" minute="38" period="1" second="11" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez blocks a shot" minute="38" period="1" second="11" time="38" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" minute="33" period="1" second="55" time="33" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Right footed, Open play)" minute="33" period="1" second="54" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis blocks a shot" minute="33" period="1" second="54" time="33" type="save made" type_id="10"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Roberto Soldado (High to the centre, 6-yard box, Big Chance, Right footed, Fast break)" minute="24" period="1" second="39" time="24" type="goal scored" type_id="16"/>
+	<message comment="Jay Rodriguez misses attempt (High, 18-yard box, Right footed, Open play)" minute="23" period="1" second="13" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" minute="21" period="1" second="54" time="21" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Erik Lamela has shot blocked (18-yard box, Left footed, Open play)" minute="17" period="1" second="57" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" minute="17" period="1" second="57" time="17" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (High, Out of box, Right footed, Open play)" minute="13" period="1" second="13" time="13" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Daniel Fox (Low to the left, Out of box, Right footed, Open play)" minute="12" period="1" second="12" time="12" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the left)" minute="10" period="1" second="8" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="2" period="1" second="33" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save" minute="2" period="1" second="33" time="2" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" minute="0" period="1" second="40" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

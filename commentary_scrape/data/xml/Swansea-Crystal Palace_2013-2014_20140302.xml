@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-03-02" home_team_name="Crystal Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="6" time="98" type="end" type_id="30"/>
+	<message comment="Yannick Bolasie misses attempt (High, 18-yard box, Left footed, Open play)" minute="92" period="2" second="25" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas recieves a yellow card" minute="91" period="2" second="28" time="95" type="card received" type_id="17"/>
+	<message comment="Kagisho Dikgacoi wins a corner (To the right)" minute="85" period="2" second="15" time="89" type="corner" type_id="6"/>
+	<message comment="Glenn Murray wins a corner (To the left)" minute="83" period="2" second="36" time="87" type="corner" type_id="6"/>
+	<message comment="Jordi Amat blocks a shot" minute="83" period="2" second="35" time="87" type="save made" type_id="10"/>
+	<message comment="Glenn Murray has shot blocked (18-yard box, Right footed, Open play)" minute="83" period="2" second="33" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Glenn Murray scores  (High to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="81" period="2" second="55" time="85" type="goal scored" type_id="16"/>
+	<message comment="Chico Flores recieves a red card" minute="80" period="2" second="56" time="84" type="card received" type_id="17"/>
+	<message comment="Leroy Lita is caught offside" minute="78" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Scott Dann blocks a shot" minute="77" period="2" second="47" time="81" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (18-yard box, Right footed, Open play)" minute="77" period="2" second="45" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="76" period="2" second="55" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="76" period="2" second="55" time="80" type="save made" type_id="10"/>
+	<message comment="Glenn Murray has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="17" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" minute="75" period="2" second="17" time="79" type="save made" type_id="10"/>
+	<message comment="Leon Britton recieves a yellow card" minute="73" period="2" second="58" time="77" type="card received" type_id="17"/>
+	<message comment="Jonathan Parr is substituted off" minute="69" period="2" second="25" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jerome Thomas is substituted on" minute="69" period="2" second="25" time="73" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams is substituted off" minute="69" period="2" second="18" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jordi Amat is substituted on" minute="69" period="2" second="18" time="73" type="substitution on" type_id="19"/>
+	<message comment="Yannick Bolasie misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="65" period="2" second="18" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony is substituted off" minute="62" period="2" second="43" time="66" type="substitution off" type_id="18"/>
+	<message comment="Leroy Lita is substituted on" minute="62" period="2" second="43" time="66" type="substitution on" type_id="19"/>
+	<message comment="Scott Dann recieves a yellow card" minute="62" period="2" second="5" time="66" type="card received" type_id="17"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" minute="55" period="2" second="20" time="59" type="corner" type_id="6"/>
+	<message comment="Julian Speroni makes a save (Collected)" minute="54" period="2" second="26" time="58" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="54" period="2" second="26" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie wins a corner (To the right)" minute="50" period="2" second="36" time="54" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome recieves a yellow card" minute="47" period="2" second="36" time="51" type="card received" type_id="17"/>
+	<message comment="Tom Ince is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Glenn Murray is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="50" time="48" type="end" type_id="30"/>
+	<message comment="Wilfried Bony is caught offside" minute="47" period="1" time="47" type="offside" type_id="10000"/>
+	<message comment="Julian Speroni makes a save" minute="36" period="1" second="11" time="36" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="36" period="1" second="11" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="35" period="1" second="45" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried into danger)" minute="35" period="1" second="45" time="35" type="save made" type_id="10"/>
+	<message comment="Mile Jedinak recieves a yellow card" minute="34" period="1" second="34" time="34" type="card received" type_id="17"/>
+	<message comment="Julian Speroni makes a save (Parried into danger)" minute="32" period="1" second="26" time="32" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="32" period="1" second="26" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Chamakh is substituted off" minute="31" period="1" second="23" time="31" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="31" period="1" second="23" time="31" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jonathan de Guzmán scores , Assisted by Leon Britton (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="24" period="1" second="51" time="24" type="goal scored" type_id="16"/>
+	<message comment="José Cañas is substituted on" minute="21" period="1" second="31" time="21" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández is substituted off" minute="21" period="1" second="31" time="21" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández misses attempt (Out of box, Left footed, Open play)" minute="21" period="1" second="0" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Ben Davies wins a corner (To the left)" minute="7" period="1" second="53" time="7" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

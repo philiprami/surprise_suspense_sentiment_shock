@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2010-10-23" home_team_name="Fulham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="14" time="96" type="end" type_id="30"/>
+	<message comment="Zoltán Gera wins a corner (To the left)" minute="91" period="2" second="28" time="94" type="corner" type_id="6"/>
+	<message comment="Carlos Salcido has shot blocked (Out of box, Right footed, From corner)" minute="87" period="2" second="19" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu blocks a shot" minute="87" period="2" second="19" time="90" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas is substituted off" minute="86" period="2" second="45" time="89" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="86" period="2" second="45" time="89" type="substitution on" type_id="19"/>
+	<message comment="Aaron Hughes wins a corner (To the right)" minute="86" period="2" second="24" time="89" type="corner" type_id="6"/>
+	<message comment="Carlos Salcido wins a corner (To the right)" minute="81" period="2" second="35" time="84" type="corner" type_id="6"/>
+	<message comment="Roman Bednar is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Right footed, Fast break)" minute="75" period="2" second="41" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Bjørn Helge Riise is substituted on" minute="72" period="2" second="48" time="75" type="substitution on" type_id="19"/>
+	<message comment="Chris Baird is substituted off" minute="72" period="2" second="48" time="75" type="substitution off" type_id="18"/>
+	<message comment="Paul Scharner misses attempt (High, Out of box, Right footed, Free kick)" minute="68" period="2" second="34" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Tamas misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="66" period="2" second="58" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="66" period="2" second="29" time="69" type="corner" type_id="6"/>
+	<message comment="Paul Scharner wins a corner (To the left)" minute="65" period="2" second="31" time="68" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Parried safe)" minute="65" period="2" second="30" time="68" type="save made" type_id="10"/>
+	<message comment="Paul Scharner has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="65" period="2" second="30" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu wins a corner (To the right)" minute="63" period="2" second="35" time="66" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Right footed, Open play)" minute="60" period="2" second="57" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="60" period="2" second="57" time="63" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé misses attempt (High to the left, Out of box, Left footed, Open play)" minute="59" period="2" second="46" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Diomansy Kamara is substituted off" minute="58" period="2" second="1" time="61" type="substitution off" type_id="18"/>
+	<message comment="Andrew Johnson is substituted on" minute="58" period="2" second="1" time="61" type="substitution on" type_id="19"/>
+	<message comment="Roman Bednar is caught offside" minute="58" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey is caught offside" minute="55" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Gabriel Tamas misses attempt (High to the left, 6-yard box, Head, From corner)" minute="54" period="2" second="40" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson is substituted off" minute="54" period="2" second="21" time="57" type="substitution off" type_id="18"/>
+	<message comment="Pablo Ibáñez is substituted on" minute="54" period="2" second="21" time="57" type="substitution on" type_id="19"/>
+	<message comment="Roman Bednar is substituted on" minute="54" period="2" second="0" time="57" type="substitution on" type_id="19"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="54" period="2" second="0" time="57" type="substitution off" type_id="18"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="53" period="2" second="22" time="56" type="corner" type_id="6"/>
+	<message comment="Chris Baird wins a corner (To the right)" minute="51" period="2" second="19" time="54" type="corner" type_id="6"/>
+	<message comment="Zoltán Gera wins a corner (To the right)" minute="50" period="2" second="15" time="53" type="corner" type_id="6"/>
+	<message comment="James Morrison misses attempt (High, Out of box, Right footed, Open play)" minute="46" period="2" second="15" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="12" time="47" type="end" type_id="30"/>
+	<message comment="Jerome Thomas misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="47" period="1" second="4" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Diomansy Kamara has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="59" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="45" period="1" second="59" time="45" type="save made" type_id="10"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Paul Scharner misses attempt (6-yard box, Head, From corner)" minute="44" period="1" second="54" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="44" period="1" second="13" time="44" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé misses attempt (To the left, Out of box, Left footed, Open play)" minute="43" period="1" second="27" time="43" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" minute="42" period="1" second="56" time="42" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Marc-Antoine Fortuné scores , Assisted by Jerome Thomas (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="39" period="1" second="47" time="39" type="goal scored" type_id="16"/>
+	<message comment="Stephen Kelly blocks a shot (Last line)" minute="36" period="1" second="33" time="36" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson has shot blocked (18-yard box, Head, From corner)" minute="36" period="1" second="33" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="35" period="1" second="53" time="35" type="corner" type_id="6"/>
+	<message comment="GOAL! Youssouf Mulumbu scores , Assisted by Chris Brunt (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="16" period="1" second="46" time="16" type="goal scored" type_id="16"/>
+	<message comment="Zoltán Gera misses attempt (High to the left, Out of box, Left footed, Open play)" minute="15" period="1" second="34" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="14" period="1" second="24" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save" minute="14" period="1" second="24" time="14" type="save made" type_id="10"/>
+	<message comment="Diomansy Kamara misses attempt (18-yard box, Right footed, Open play)" minute="10" period="1" second="55" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Scott Carson scores an OWN GOAL!  (Low to the left, 6-yard box, Other body part, Open play)" minute="8" period="1" second="9" time="8" type="goal scored" type_id="16"/>
+	<message comment="Scott Carson makes a save (Diving)" minute="8" period="1" second="7" time="8" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="8" period="1" second="7" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Clint Dempsey misses attempt (Out of box, Right footed, Open play)" minute="5" period="1" second="21" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson misses attempt (High to the left, 18-yard box, Head, From corner)" minute="4" period="1" second="46" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the right)" minute="4" period="1" second="14" time="4" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save" minute="2" period="1" second="25" time="2" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="2" period="1" second="25" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Baird blocks a shot" minute="1" period="1" second="9" time="1" type="save made" type_id="10"/>
+	<message comment="Paul Scharner has shot blocked (Out of box, Left footed, Open play)" minute="1" period="1" second="9" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

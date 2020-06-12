@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-11-09" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="15" time="101" type="end" type_id="30"/>
+	<message comment="Jonas Olsson recieves a yellow card" minute="96" period="2" second="35" time="100" type="card received" type_id="17"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="96" period="2" second="32" time="100" type="card received" type_id="17"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="95" period="2" second="18" time="99" type="goal scored" type_id="16"/>
+	<message comment="Liam Ridgewell recieves a yellow card" minute="94" period="2" second="56" time="98" type="card received" type_id="17"/>
+	<message comment="Gareth McAuley recieves a yellow card" minute="94" period="2" second="18" time="98" type="card received" type_id="17"/>
+	<message comment="Chris Brunt recieves a yellow card" minute="94" period="2" second="15" time="98" type="card received" type_id="17"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Fast break)" minute="90" period="2" second="50" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" minute="89" period="2" second="51" time="93" type="corner" type_id="6"/>
+	<message comment="John Terry wins a corner (To the left)" minute="89" period="2" second="13" time="93" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu blocks a shot" minute="89" period="2" second="10" time="93" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="10" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Amalfitano is substituted off" minute="88" period="2" second="3" time="92" type="substitution off" type_id="18"/>
+	<message comment="Goran Popov is substituted on" minute="88" period="2" second="3" time="92" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata wins a corner (To the left)" minute="85" period="2" second="34" time="89" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano recieves a yellow card" minute="82" period="2" second="3" time="86" type="card received" type_id="17"/>
+	<message comment="Stéphane Sessegnon is substituted off" minute="80" period="2" second="26" time="84" type="substitution off" type_id="18"/>
+	<message comment="James Morrison is substituted on" minute="80" period="2" second="26" time="84" type="substitution on" type_id="19"/>
+	<message comment="Willian misses attempt (High, 18-yard box, Big Chance, Head, Open play)" minute="79" period="2" second="46" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is substituted off" minute="78" period="2" second="26" time="82" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" minute="78" period="2" second="26" time="82" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="77" period="2" second="7" time="81" type="corner" type_id="6"/>
+	<message comment="Gareth McAuley blocks a shot" minute="77" period="2" second="1" time="81" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (18-yard box, Left footed, Open play)" minute="77" period="2" second="1" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Parried into danger, Diving)" minute="76" period="2" second="57" time="80" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="76" period="2" second="57" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is substituted off" minute="72" period="2" second="7" time="76" type="substitution off" type_id="18"/>
+	<message comment="Juan Mata is substituted on" minute="72" period="2" second="7" time="76" type="substitution on" type_id="19"/>
+	<message comment="César Azpilicueta is substituted off" minute="72" period="2" second="3" time="76" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="72" period="2" second="3" time="76" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="70" period="2" second="9" time="74" type="corner" type_id="6"/>
+	<message comment="Steven Reid blocks a shot" minute="70" period="2" second="8" time="74" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="8" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Stéphane Sessegnon scores , Assisted by Liam Ridgewell (Low to the centre, 18-yard box, Left footed, Open play)" minute="67" period="2" second="45" time="71" type="goal scored" type_id="16"/>
+	<message comment="Eden Hazard wins a corner (To the right)" minute="66" period="2" second="5" time="70" type="corner" type_id="6"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="65" period="2" second="15" time="69" type="corner" type_id="6"/>
+	<message comment="Frank Lampard is substituted off" minute="63" period="2" second="56" time="67" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" minute="63" period="2" second="56" time="67" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic is caught offside" minute="63" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Jonas Olsson blocks a shot" minute="62" period="2" second="24" time="66" type="save made" type_id="10"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, Open play)" minute="62" period="2" second="24" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Shane Long scores  (High to the centre, 6-yard box, Big Chance, Head, From corner)" minute="59" period="2" second="56" time="63" type="goal scored" type_id="16"/>
+	<message comment="Gareth McAuley has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="59" period="2" second="54" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried into danger)" minute="59" period="2" second="54" time="63" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="59" period="2" second="34" time="63" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="20" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="59" period="2" second="20" time="63" type="save made" type_id="10"/>
+	<message comment="Gareth McAuley misses attempt (High, 6-yard box, Head, Set piece)" minute="58" period="2" second="30" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (High, Out of box, Right footed, Open play)" minute="57" period="2" second="7" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long hits the woodwork (To the left, 18-yard box, Head, Open play)" minute="55" period="2" second="57" time="59" type="woodwork hit" type_id="14"/>
+	<message comment="Jonas Olsson misses attempt (High, 18-yard box, Head, From corner)" minute="51" period="2" second="54" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="51" period="2" second="28" time="55" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="34" time="48" type="end" type_id="30"/>
+	<message comment="Shane Long recieves a yellow card" minute="47" period="1" second="31" time="47" type="card received" type_id="17"/>
+	<message comment="Samuel Eto'o recieves a yellow card" minute="45" period="1" second="30" time="45" type="card received" type_id="17"/>
+	<message comment="GOAL! Samuel Eto'o scores  (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="44" period="1" second="58" time="44" type="goal scored" type_id="16"/>
+	<message comment="Boaz Myhill makes a save (Parried into danger, Diving)" minute="44" period="1" second="55" time="44" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="44" period="1" second="55" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Ramires wins a corner (To the left)" minute="36" period="1" second="58" time="36" type="corner" type_id="6"/>
+	<message comment="Oscar misses attempt (High to the right, Out of box, Right footed, Open play)" minute="35" period="1" second="23" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="31" period="1" second="2" time="31" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, Set piece)" minute="31" period="1" second="2" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" minute="29" period="1" second="10" time="29" type="corner" type_id="6"/>
+	<message comment="Boaz Myhill makes a save (Parried safe)" minute="29" period="1" second="3" time="29" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="29" period="1" second="3" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Claudio Yacob recieves a yellow card" minute="27" period="1" second="55" time="27" type="card received" type_id="17"/>
+	<message comment="Chris Brunt misses attempt (To the right, Out of box, Left footed, From corner)" minute="23" period="1" second="6" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" minute="22" period="1" second="45" time="22" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="22" period="1" second="12" time="22" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o misses attempt (High to the left, 18-yard box, Head, Open play)" minute="17" period="1" second="29" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="14" period="1" second="25" time="14" type="card received" type_id="17"/>
+	<message comment="Youssouf Mulumbu blocks a shot" minute="14" period="1" second="13" time="14" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" minute="14" period="1" second="13" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt misses attempt (High, Out of box, Left footed, Open play)" minute="11" period="1" second="11" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="11" type="end" type_id="30"/>
+	<message comment="Boaz Myhill makes a save (Standing, Collected)" minute="10" period="1" second="23" time="10" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="10" period="1" second="23" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Collected)" minute="9" period="1" second="34" time="9" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="9" period="1" second="34" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Amalfitano misses attempt (To the left, Out of box, Right footed, Open play)" minute="7" period="1" second="33" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Oscar is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

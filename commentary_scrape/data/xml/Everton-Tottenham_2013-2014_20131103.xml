@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2013-11-03" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="99" period="2" second="4" time="101" type="end" type_id="30"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="95" period="2" second="48" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving)" minute="95" period="2" second="48" time="97" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="94" period="2" second="31" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Christian Eriksen has shot blocked (18-yard box, Right footed, Open play)" minute="93" period="2" second="44" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="93" period="2" second="44" time="95" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="89" period="2" second="4" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="88" period="2" second="27" time="90" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried into danger, Other body part)" minute="87" period="2" second="49" time="89" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="87" period="2" second="49" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="86" period="2" second="39" time="88" type="corner" type_id="6"/>
+	<message comment="Lewis Holtby is substituted off" minute="85" period="2" second="47" time="87" type="substitution off" type_id="18"/>
+	<message comment="Christian Eriksen is substituted on" minute="85" period="2" second="47" time="87" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is substituted off" minute="85" period="2" second="11" time="87" type="substitution off" type_id="18"/>
+	<message comment="Nikica Jelavic is substituted on" minute="85" period="2" second="11" time="87" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku recieves a yellow card" minute="77" period="2" second="14" time="79" type="card received" type_id="17"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="21" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="75" period="2" second="21" time="77" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" minute="69" period="2" second="24" time="71" type="corner" type_id="6"/>
+	<message comment="James McCarthy wins a corner (To the right)" minute="68" period="2" second="58" time="70" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson blocks a shot" minute="68" period="2" second="53" time="70" type="save made" type_id="10"/>
+	<message comment="James McCarthy has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="53" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon is substituted off" minute="68" period="2" second="5" time="70" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="68" period="2" second="5" time="70" type="substitution on" type_id="19"/>
+	<message comment="Paulinho recieves a yellow card" minute="67" period="2" second="21" time="69" type="card received" type_id="17"/>
+	<message comment="Séamus Coleman misses attempt (18-yard box, Left footed, Open play)" minute="65" period="2" second="5" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Ross Barkley misses attempt (High, Out of box, Left footed, Open play)" minute="64" period="2" second="9" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman is substituted off" minute="62" period="2" second="46" time="64" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" minute="62" period="2" second="46" time="64" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is substituted off" minute="62" period="2" second="27" time="64" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="62" period="2" second="27" time="64" type="substitution on" type_id="19"/>
+	<message comment="Sandro is substituted off" minute="60" period="2" second="16" time="62" type="substitution off" type_id="18"/>
+	<message comment="Mousa Dembélé is substituted on" minute="60" period="2" second="16" time="62" type="substitution on" type_id="19"/>
+	<message comment="Sylvain Distin blocks a shot" minute="56" period="2" second="10" time="58" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Right footed, Open play)" minute="56" period="2" second="10" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="59" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="53" period="2" second="59" time="55" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="53" period="2" second="8" time="55" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas recieves a yellow card" minute="47" period="2" second="51" time="49" type="card received" type_id="17"/>
+	<message comment="Sylvain Distin blocks a shot" minute="45" period="2" second="55" time="47" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (18-yard box, Left footed, Open play)" minute="45" period="2" second="55" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="3" time="46" type="end" type_id="30"/>
+	<message comment="Roberto Soldado misses attempt (High, Out of box, Right footed, Open play)" minute="44" period="1" second="58" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka blocks a shot" minute="44" period="1" second="45" time="44" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has shot blocked (18-yard box, Left footed, Open play)" minute="44" period="1" second="45" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" minute="42" period="1" second="53" time="42" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas has shot blocked (Out of box, Right footed, Free kick)" minute="42" period="1" second="49" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro blocks a shot" minute="42" period="1" second="49" time="42" type="save made" type_id="10"/>
+	<message comment="Tim Howard makes a save (Standing)" minute="37" period="1" second="29" time="37" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="37" period="1" second="29" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="31" period="1" second="24" time="31" type="corner" type_id="6"/>
+	<message comment="Leon Osman misses attempt (Out of box, Right footed, Open play)" minute="27" period="1" second="51" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Tim Howard makes a save" minute="24" period="1" second="38" time="24" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has attempt saved (Low to the right, 18-yard box, Left footed, From corner)" minute="24" period="1" second="38" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" minute="24" period="1" second="2" time="24" type="corner" type_id="6"/>
+	<message comment="Leon Osman is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Andros Townsend wins a corner (To the right)" minute="18" period="1" second="16" time="18" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Standing, Parried safe)" minute="18" period="1" second="6" time="18" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="18" period="1" second="6" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy recieves a yellow card" minute="16" period="1" second="56" time="16" type="card received" type_id="17"/>
+	<message comment="Andros Townsend wins a corner (To the left)" minute="12" period="1" second="58" time="12" type="corner" type_id="6"/>
+	<message comment="James McCarthy blocks a shot" minute="12" period="1" second="55" time="12" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" minute="12" period="1" second="55" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="11" type="end" type_id="30"/>
+	<message comment="Gareth Barry blocks a shot" minute="10" period="1" second="52" time="10" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="52" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard recieves a yellow card" minute="9" period="1" second="50" time="9" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Roberto Soldado misses attempt (To the right, 18-yard box, Big Chance, Head, Open play)" minute="5" period="1" second="50" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend misses attempt (To the right, Out of box, Left footed, Open play)" minute="3" period="1" second="53" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Sandro wins a corner (To the right)" minute="2" period="1" second="46" time="2" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="2" period="1" second="43" time="2" type="save made" type_id="10"/>
+	<message comment="Sandro has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="2" period="1" second="43" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2011-11-27" home_team_name="Manchester City" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="7" time="95" type="end" type_id="30"/>
+	<message comment="Stewart Downing misses attempt (High, 18-yard box, Left footed, Open play)" minute="92" period="2" second="10" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez has attempt saved (Low to the right, 6-yard box, Right footed, Open play)" minute="92" period="2" second="8" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Feet, Parried safe, Diving)" minute="92" period="2" second="8" time="94" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="92" period="2" second="6" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="92" period="2" second="6" time="94" type="save made" type_id="10"/>
+	<message comment="Andy Carroll misses attempt (To the left, 6-yard box, Head, Open play)" minute="91" period="2" second="11" time="93" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is substituted off" minute="90" period="2" second="0" time="92" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="90" period="2" second="0" time="92" type="substitution on" type_id="19"/>
+	<message comment="Andy Carroll recieves a yellow card" minute="89" period="2" second="10" time="91" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel blocks a shot (Last line)" minute="88" period="2" second="45" time="90" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Big Chance, Left footed, Fast break)" minute="88" period="2" second="45" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="87" period="2" second="54" time="89" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="87" period="2" second="53" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="87" period="2" second="53" time="89" type="save made" type_id="10"/>
+	<message comment="James Milner recieves a yellow card" minute="85" period="2" second="35" time="87" type="card received" type_id="17"/>
+	<message comment="Andy Carroll is substituted on" minute="83" period="2" second="46" time="85" type="substitution on" type_id="19"/>
+	<message comment="Dirk Kuyt is substituted off" minute="83" period="2" second="46" time="85" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli recieves a red card after receiving second yellow card" minute="82" period="2" second="27" time="84" type="card received" type_id="17"/>
+	<message comment="Sergio Agüero is substituted off" minute="81" period="2" second="45" time="83" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="81" period="2" second="45" time="83" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing misses attempt (To the right, 6-yard box, Left footed, Open play)" minute="77" period="2" second="41" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Martin Skrtel has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Set piece)" minute="76" period="2" second="41" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Collected)" minute="76" period="2" second="41" time="78" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli recieves a yellow card" minute="76" period="2" second="3" time="78" type="card received" type_id="17"/>
+	<message comment="José Enrique misses attempt (18-yard box, Left footed, Open play)" minute="75" period="2" second="2" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="72" period="2" second="32" time="74" type="corner" type_id="6"/>
+	<message comment="Daniel Agger misses attempt (High, 18-yard box, Head, From corner)" minute="66" period="2" second="41" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing wins a corner (To the right)" minute="66" period="2" second="21" time="68" type="corner" type_id="6"/>
+	<message comment="Stewart Downing has attempt saved (High to the centre, 18-yard box, Left footed, From corner)" minute="66" period="2" second="19" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="66" period="2" second="19" time="68" type="save made" type_id="10"/>
+	<message comment="Pepe Reina wins a corner (To the left)" minute="65" period="2" second="58" time="67" type="corner" type_id="6"/>
+	<message comment="Stewart Downing is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri is substituted off" minute="64" period="2" second="35" time="66" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="64" period="2" second="35" time="66" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="61" period="2" second="55" time="63" type="corner" type_id="6"/>
+	<message comment="Stewart Downing wins a corner (To the left)" minute="59" period="2" second="45" time="61" type="corner" type_id="6"/>
+	<message comment="Gaël Clichy wins a corner (To the right)" minute="58" period="2" second="25" time="60" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson is caught offside" minute="56" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Dirk Kuyt misses attempt (18-yard box, Head, Open play)" minute="52" period="2" second="7" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="47" period="2" second="57" time="49" type="corner" type_id="6"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Open play)" minute="47" period="2" second="53" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="47" period="2" second="53" time="49" type="save made" type_id="10"/>
+	<message comment="Samir Nasri misses attempt (To the right, Out of box, Right footed, Open play)" minute="45" period="2" second="13" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="10" time="46" type="end" type_id="30"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried into danger)" minute="46" period="1" second="1" time="46" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="46" period="1" second="1" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="29" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="42" period="1" second="29" time="42" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (To the left, Out of box, Right footed, Open play)" minute="40" period="1" second="56" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson misses attempt (Out of box, Left footed, Open play)" minute="37" period="1" second="48" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Right footed, From corner)" minute="36" period="1" second="51" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam wins a corner (To the left)" minute="36" period="1" second="22" time="36" type="corner" type_id="6"/>
+	<message comment="Charlie Adam has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="20" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving, Feet)" minute="36" period="1" second="20" time="36" type="save made" type_id="10"/>
+	<message comment="Joleon Lescott scores an OWN GOAL!  (Low to the centre, 18-yard box, Right footed, Open play)" minute="32" period="1" second="9" time="32" type="goal scored" type_id="16"/>
+	<message comment="Charlie Adam misses attempt (Out of box, Left footed, Open play)" minute="32" period="1" second="8" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="31" period="1" second="26" time="31" type="card received" type_id="17"/>
+	<message comment="GOAL! Vincent Kompany scores , Assisted by David Silva (High to the left, 6-yard box, Other body part, From corner)" minute="30" period="1" second="24" time="30" type="goal scored" type_id="16"/>
+	<message comment="David Silva wins a corner (To the right)" minute="29" period="1" second="58" time="29" type="corner" type_id="6"/>
+	<message comment="Charlie Adam wins a corner (To the left)" minute="27" period="1" second="31" time="27" type="corner" type_id="6"/>
+	<message comment="David Silva misses attempt (High to the left, Out of box, Left footed, Open play)" minute="24" period="1" second="0" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Vincent Kompany recieves a yellow card" minute="12" period="1" second="46" time="12" type="card received" type_id="17"/>
+	<message comment="James Milner wins a corner (To the right)" minute="9" period="1" second="33" time="9" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="5" period="1" second="43" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="5" period="1" second="19" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

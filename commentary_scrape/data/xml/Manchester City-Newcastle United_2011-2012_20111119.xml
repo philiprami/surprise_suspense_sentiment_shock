@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2011-11-19" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="2" time="97" type="end" type_id="30"/>
+	<message comment="Steven Taylor blocks a shot" minute="93" period="2" second="14" time="96" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Left footed, Open play)" minute="93" period="2" second="14" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Dan Gosling scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="88" period="2" second="13" time="91" type="goal scored" type_id="16"/>
+	<message comment="Joe Hart makes a save (Feet, Parried into danger)" minute="88" period="2" second="11" time="91" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="88" period="2" second="11" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye is substituted off" minute="84" period="2" second="51" time="87" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="84" period="2" second="51" time="87" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré is substituted off" minute="84" period="2" second="30" time="87" type="substitution off" type_id="18"/>
+	<message comment="Gareth Barry is substituted on" minute="84" period="2" second="30" time="87" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Head, From corner)" minute="81" period="2" second="9" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="80" period="2" second="46" time="83" type="corner" type_id="6"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="80" period="2" second="44" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="80" period="2" second="44" time="83" type="save made" type_id="10"/>
+	<message comment="Samir Nasri is caught offside" minute="80" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri is caught offside" minute="79" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Sammy Ameobi is substituted off" minute="78" period="2" second="9" time="81" type="substitution off" type_id="18"/>
+	<message comment="Dan Gosling is substituted on" minute="78" period="2" second="9" time="81" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="75" period="2" second="36" time="78" type="substitution off" type_id="18"/>
+	<message comment="Peter Løvenkrands is substituted on" minute="75" period="2" second="36" time="78" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is substituted off" minute="75" period="2" second="15" time="78" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="75" period="2" second="15" time="78" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Sergio Agüero scores  (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="71" period="2" second="3" time="74" type="goal scored" type_id="16"/>
+	<message comment="Mario Balotelli is substituted off" minute="68" period="2" second="55" time="71" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" minute="68" period="2" second="55" time="71" type="substitution on" type_id="19"/>
+	<message comment="Demba Ba is caught offside" minute="68" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="James Milner wins a corner (To the right)" minute="66" period="2" second="51" time="69" type="corner" type_id="6"/>
+	<message comment="Gaël Clichy is caught offside" minute="66" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Danny Guthrie has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="65" period="2" second="55" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="65" period="2" second="55" time="68" type="save made" type_id="10"/>
+	<message comment="Demba Ba misses attempt (To the left, 18-yard box, Head, Open play)" minute="64" period="2" second="1" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="61" period="2" second="41" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Other body part)" minute="61" period="2" second="41" time="64" type="save made" type_id="10"/>
+	<message comment="Fabricio Coloccini misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="60" period="2" second="11" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="59" period="2" second="38" time="62" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="59" period="2" second="36" time="62" type="woodwork hit" type_id="14"/>
+	<message comment="Sammy Ameobi wins a corner (To the right)" minute="57" period="2" second="49" time="60" type="corner" type_id="6"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="51" period="2" second="22" time="54" type="corner" type_id="6"/>
+	<message comment="Sammy Ameobi wins a corner (To the right)" minute="45" period="2" second="30" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Micah Richards scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="43" period="1" second="33" time="43" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Mario Balotelli scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="40" period="1" second="52" time="40" type="goal scored" type_id="16"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="57" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (To the left, 18-yard box, Head, From corner)" minute="37" period="1" second="35" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="37" period="1" second="0" time="37" type="corner" type_id="6"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Free kick)" minute="36" period="1" second="15" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Mario Balotelli blocks a shot" minute="36" period="1" second="15" time="36" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="33" period="1" second="18" time="33" type="corner" type_id="6"/>
+	<message comment="Demba Ba has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="33" period="1" second="15" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="33" period="1" second="15" time="33" type="save made" type_id="10"/>
+	<message comment="Steven Taylor blocks a shot" minute="30" period="1" second="11" time="30" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Open play)" minute="30" period="1" second="11" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Mario Balotelli wins a corner (To the right)" minute="28" period="1" second="38" time="28" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe)" minute="28" period="1" second="34" time="28" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="28" period="1" second="34" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="27" period="1" second="9" time="27" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Right footed, Open play)" minute="27" period="1" second="9" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero misses attempt (High, Out of box, Left footed, Open play)" minute="20" period="1" second="27" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor blocks a shot" minute="8" period="1" second="53" time="8" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Left footed, Open play)" minute="8" period="1" second="53" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Danny Guthrie blocks a shot" minute="4" period="1" second="18" time="4" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="18" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-12-28" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="6" time="96" type="end" type_id="30"/>
+	<message comment="Gabriel Agbonlahor misses attempt (18-yard box, Right footed, Open play)" minute="92" period="2" second="34" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Karim El Ahmadi recieves a yellow card" minute="89" period="2" second="43" time="91" type="card received" type_id="17"/>
+	<message comment="Fabian Delph has attempt saved (High to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="23" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Standing, Parried safe)" minute="89" period="2" second="23" time="91" type="save made" type_id="10"/>
+	<message comment="Libor Kozák is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Ciaran Clark recieves a yellow card" minute="85" period="2" second="5" time="87" type="card received" type_id="17"/>
+	<message comment="Álvaro Vázquez is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Wilfried Bony is substituted off" minute="83" period="2" second="12" time="85" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Vázquez is substituted on" minute="83" period="2" second="12" time="85" type="substitution on" type_id="19"/>
+	<message comment="Andreas Weimann is substituted off" minute="78" period="2" second="41" time="80" type="substitution off" type_id="18"/>
+	<message comment="Marc Albrighton is substituted on" minute="78" period="2" second="41" time="80" type="substitution on" type_id="19"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="76" period="2" second="16" time="78" type="card received" type_id="17"/>
+	<message comment="Nathan Baker blocks a shot" minute="74" period="2" second="59" time="76" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Right footed, Open play)" minute="74" period="2" second="59" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Agbonlahor misses attempt (High to the right, Out of box, Right footed, Open play)" minute="70" period="2" second="35" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Leandro Bacuna is substituted off" minute="69" period="2" second="11" time="71" type="substitution off" type_id="18"/>
+	<message comment="Karim El Ahmadi is substituted on" minute="69" period="2" second="11" time="71" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Bony is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Leandro Bacuna recieves a yellow card" minute="68" period="2" second="38" time="70" type="card received" type_id="17"/>
+	<message comment="Roland Lamah is substituted off" minute="67" period="2" second="38" time="69" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="67" period="2" second="38" time="69" type="substitution on" type_id="19"/>
+	<message comment="Antonio Luna blocks a shot" minute="64" period="2" second="47" time="66" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (18-yard box, Right footed, Open play)" minute="64" period="2" second="47" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Antonio Luna wins a corner (To the left)" minute="63" period="2" second="6" time="65" type="corner" type_id="6"/>
+	<message comment="Aleksandar Tonev is substituted off" minute="60" period="2" second="54" time="62" type="substitution off" type_id="18"/>
+	<message comment="Libor Kozák is substituted on" minute="60" period="2" second="54" time="62" type="substitution on" type_id="19"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="59" period="2" second="54" time="61" type="corner" type_id="6"/>
+	<message comment="Nathan Baker blocks a shot" minute="59" period="2" second="53" time="61" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="53" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Fabian Delph blocks a shot" minute="59" period="2" second="32" time="61" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, Open play)" minute="59" period="2" second="32" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Roland Lamah wins a corner (To the left)" minute="55" period="2" second="47" time="57" type="corner" type_id="6"/>
+	<message comment="Andreas Weimann has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="54" period="2" second="29" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Standing, Collected)" minute="54" period="2" second="29" time="56" type="save made" type_id="10"/>
+	<message comment="Dwight Tiendalli is substituted off" minute="54" period="2" second="9" time="56" type="substitution off" type_id="18"/>
+	<message comment="Angel Rangel is substituted on" minute="54" period="2" second="9" time="56" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Bony misses attempt (High to the right, Out of box, Right footed, Open play)" minute="53" period="2" second="46" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" minute="51" period="2" second="44" time="53" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Parried safe)" minute="51" period="2" second="42" time="53" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="51" period="2" second="42" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Wilfried Bony misses attempt (To the right, 18-yard box, Head, Open play)" minute="43" period="1" second="39" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Roland Lamah misses attempt (To the right, Out of box, Left footed, From corner)" minute="38" period="1" second="15" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony wins a corner (To the right)" minute="37" period="1" second="46" time="37" type="corner" type_id="6"/>
+	<message comment="Ciaran Clark blocks a shot" minute="37" period="1" second="45" time="37" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (Out of box, Left footed, Open play)" minute="37" period="1" second="45" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Roland Lamah recieves a yellow card" minute="36" period="1" second="16" time="36" type="card received" type_id="17"/>
+	<message comment="GOAL! Roland Lamah scores , Assisted by Pablo Hernández (High to the right, 6-yard box, Big Chance, Head, Open play)" minute="35" period="1" second="42" time="35" type="goal scored" type_id="16"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Left footed, Open play)" minute="34" period="1" second="41" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Westwood misses attempt (High to the right, Out of box, Right footed, Open play)" minute="29" period="1" second="40" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Baker blocks a shot" minute="29" period="1" second="4" time="29" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, Open play)" minute="29" period="1" second="4" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Andreas Weimann has shot blocked (Out of box, Right footed, Open play)" minute="28" period="1" second="5" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" minute="28" period="1" second="5" time="28" type="save made" type_id="10"/>
+	<message comment="Nathan Baker blocks a shot" minute="25" period="1" second="55" time="25" type="save made" type_id="10"/>
+	<message comment="Roland Lamah has shot blocked (Out of box, Left footed, Open play)" minute="25" period="1" second="55" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Fabian Delph blocks a shot" minute="22" period="1" second="0" time="22" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, From corner)" minute="22" period="1" second="0" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Davies wins a corner (To the left)" minute="21" period="1" second="42" time="21" type="corner" type_id="6"/>
+	<message comment="Ben Davies misses attempt (High, 18-yard box, Big Chance, Head, From corner)" minute="19" period="1" second="34" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Tiendalli wins a corner (To the right)" minute="19" period="1" second="15" time="19" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Parried safe)" minute="16" period="1" second="40" time="16" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="16" period="1" second="40" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Hernández wins a corner (To the left)" minute="13" period="1" second="53" time="13" type="corner" type_id="6"/>
+	<message comment="Aleksandar Tonev wins a corner (To the left)" minute="10" period="1" second="32" time="10" type="corner" type_id="6"/>
+	<message comment="GOAL! Gabriel Agbonlahor scores , Assisted by Andreas Weimann (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="6" period="1" second="59" time="6" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Dwight Tiendalli wins a corner (To the right)" minute="5" period="1" second="30" time="5" type="corner" type_id="6"/>
+	<message comment="Fabian Delph blocks a shot" minute="5" period="1" second="29" time="5" type="save made" type_id="10"/>
+	<message comment="Dwight Tiendalli has shot blocked (18-yard box, Right footed, Open play)" minute="5" period="1" second="29" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

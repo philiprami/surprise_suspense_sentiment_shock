@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-09-22" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="5" time="98" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="94" period="2" second="0" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="93" period="2" second="34" time="97" type="corner" type_id="6"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="92" period="2" second="54" time="96" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" minute="92" period="2" second="51" time="96" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="92" period="2" second="51" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Ireland recieves a yellow card" minute="90" period="2" second="32" time="94" type="card received" type_id="17"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Left footed, From corner)" minute="82" period="2" second="46" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Nacho Monreal blocks a shot" minute="82" period="2" second="46" time="86" type="save made" type_id="10"/>
+	<message comment="Marc Wilson wins a corner (To the left)" minute="82" period="2" second="21" time="86" type="corner" type_id="6"/>
+	<message comment="Mesut Özil is substituted off" minute="79" period="2" second="42" time="83" type="substitution off" type_id="18"/>
+	<message comment="Mikel Arteta is substituted on" minute="79" period="2" second="42" time="83" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross misses attempt (To the right, 18-yard box, Head, From corner)" minute="76" period="2" second="53" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross wins a corner (To the left)" minute="76" period="2" second="20" time="80" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross has shot blocked (18-yard box, Left footed, From corner)" minute="76" period="2" second="18" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna blocks a shot" minute="76" period="2" second="18" time="80" type="save made" type_id="10"/>
+	<message comment="Marc Wilson wins a corner (To the left)" minute="75" period="2" second="53" time="79" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones is substituted off" minute="74" period="2" second="40" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" minute="74" period="2" second="40" time="78" type="substitution on" type_id="19"/>
+	<message comment="Marko Arnautovic has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="73" period="2" second="38" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="73" period="2" second="38" time="77" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere is substituted off" minute="72" period="2" second="19" time="76" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" minute="72" period="2" second="19" time="76" type="substitution on" type_id="19"/>
+	<message comment="Serge Gnabry is substituted off" minute="72" period="2" second="4" time="76" type="substitution off" type_id="18"/>
+	<message comment="Ryo Miyaichi is substituted on" minute="72" period="2" second="4" time="76" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Bacary Sagna scores , Assisted by Mesut Özil (Low to the left, 18-yard box, Head, Set piece)" minute="71" period="2" second="12" time="75" type="goal scored" type_id="16"/>
+	<message comment="Robert Huth misses attempt (To the left, 18-yard box, Head, From corner)" minute="68" period="2" second="59" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" minute="68" period="2" second="31" time="72" type="corner" type_id="6"/>
+	<message comment="Erik Pieters is substituted off" minute="66" period="2" second="39" time="70" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" minute="66" period="2" second="39" time="70" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross misses attempt (To the left, 18-yard box, Head, From corner)" minute="63" period="2" second="27" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic is caught offside" minute="63" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Marc Wilson wins a corner (To the right)" minute="62" period="2" second="57" time="66" type="corner" type_id="6"/>
+	<message comment="Marc Wilson has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="62" period="2" second="56" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="62" period="2" second="56" time="66" type="save made" type_id="10"/>
+	<message comment="Asmir Begovic makes a save (Diving)" minute="62" period="2" second="25" time="66" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="62" period="2" second="25" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam is substituted off" minute="58" period="2" second="36" time="62" type="substitution off" type_id="18"/>
+	<message comment="Stephen Ireland is substituted on" minute="58" period="2" second="36" time="62" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Left footed, Open play)" minute="56" period="2" second="42" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters blocks a shot" minute="53" period="2" second="40" time="57" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Right footed, Open play)" minute="53" period="2" second="40" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth recieves a yellow card" minute="52" period="2" second="42" time="56" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" minute="52" period="2" second="23" time="56" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" minute="52" period="2" second="20" time="56" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="52" period="2" second="20" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" minute="48" period="2" second="40" time="52" type="save made" type_id="10"/>
+	<message comment="Serge Gnabry has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="48" period="2" second="40" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="Robert Huth blocks a shot" minute="46" period="1" second="1" time="46" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" minute="46" period="1" second="1" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Serge Gnabry misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="39" period="1" second="59" time="39" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Per Mertesacker scores , Assisted by Mesut Özil (Low to the left, 18-yard box, Head, From corner)" minute="35" period="1" second="7" time="35" type="goal scored" type_id="16"/>
+	<message comment="Mesut Özil wins a corner (To the right)" minute="34" period="1" second="28" time="34" type="corner" type_id="6"/>
+	<message comment="Erik Pieters blocks a shot (Last line)" minute="31" period="1" second="36" time="31" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker has shot blocked (6-yard box, Head, From corner)" minute="31" period="1" second="36" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Wilshere wins a corner (To the right)" minute="31" period="1" second="10" time="31" type="corner" type_id="6"/>
+	<message comment="Erik Pieters blocks a shot" minute="31" period="1" second="9" time="31" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere has shot blocked (18-yard box, Right footed, Open play)" minute="31" period="1" second="9" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="29" period="1" second="40" time="29" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" minute="29" period="1" second="40" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" minute="27" period="1" second="34" time="27" type="corner" type_id="6"/>
+	<message comment="GOAL! Geoff Cameron scores  (Low to the right, Out of box, Big Chance, Left footed, Open play)" minute="25" period="1" second="28" time="25" type="goal scored" type_id="16"/>
+	<message comment="Marko Arnautovic hits the woodwork (To the left, 18-yard box, Big Chance, Left footed, Open play)" minute="25" period="1" second="26" time="25" type="woodwork hit" type_id="14"/>
+	<message comment="Kieran Gibbs misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="24" period="1" second="10" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross has shot blocked (18-yard box, Head, From corner)" minute="22" period="1" second="55" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="22" period="1" second="55" time="22" type="save made" type_id="10"/>
+	<message comment="Robert Huth wins a corner (To the right)" minute="22" period="1" second="25" time="22" type="corner" type_id="6"/>
+	<message comment="Serge Gnabry wins a corner (To the right)" minute="13" period="1" second="17" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="GOAL! Aaron Ramsey scores  (Low to the left, 6-yard box, Big Chance, Left footed, Set piece)" minute="4" period="1" second="22" time="4" type="goal scored" type_id="16"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger)" minute="4" period="1" second="21" time="4" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="4" period="1" second="21" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

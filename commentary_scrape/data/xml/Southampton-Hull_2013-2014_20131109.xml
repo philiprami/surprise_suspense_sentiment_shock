@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-11-09" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="14" time="97" type="end" type_id="30"/>
+	<message comment="Jay Rodriguez misses attempt (High, 18-yard box, Right footed, Open play)" minute="92" period="2" second="3" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Schneiderlin wins a corner (To the left)" minute="90" period="2" second="19" time="93" type="corner" type_id="6"/>
+	<message comment="Yannick Sagbo is caught offside" minute="89" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="GOAL! Steven Davis scores , Assisted by Nathaniel Clyne (Low to the right, 18-yard box, Right footed, Open play)" minute="87" period="2" second="51" time="90" type="goal scored" type_id="16"/>
+	<message comment="Jake Livermore misses attempt (High to the right, Out of box, Right footed, Open play)" minute="84" period="2" second="18" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana is substituted off" minute="83" period="2" second="13" time="86" type="substitution off" type_id="18"/>
+	<message comment="Jack Cork is substituted on" minute="83" period="2" second="13" time="86" type="substitution on" type_id="19"/>
+	<message comment="Robert Koren misses attempt (To the left, 18-yard box, Head, Open play)" minute="81" period="2" second="51" time="84" type="attempt missed" type_id="13"/>
+	<message comment="George Boyd is substituted off" minute="79" period="2" second="42" time="82" type="substitution off" type_id="18"/>
+	<message comment="Stephen Quinn is substituted on" minute="79" period="2" second="42" time="82" type="substitution on" type_id="19"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" minute="78" period="2" second="33" time="81" type="card received" type_id="17"/>
+	<message comment="Steve Harper makes a save (Standing)" minute="77" period="2" second="44" time="80" type="save made" type_id="10"/>
+	<message comment="Daniel Osvaldo has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="77" period="2" second="44" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez misses attempt (High to the right, 6-yard box, Head, Open play)" minute="76" period="2" second="46" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert is substituted off" minute="75" period="2" second="17" time="78" type="substitution off" type_id="18"/>
+	<message comment="Daniel Osvaldo is substituted on" minute="75" period="2" second="17" time="78" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="David Meyler is substituted off" minute="72" period="2" second="46" time="75" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="72" period="2" second="46" time="75" type="substitution on" type_id="19"/>
+	<message comment="George Boyd wins a corner (To the right)" minute="72" period="2" second="22" time="75" type="corner" type_id="6"/>
+	<message comment="Liam Rosenior blocks a shot" minute="68" period="2" second="12" time="71" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="68" period="2" second="12" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Sagbo is caught offside" minute="66" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="José Fonte misses attempt (High to the left, 18-yard box, Head, Set piece)" minute="64" period="2" second="36" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone is caught offside" minute="63" period="2" time="66" type="offside" type_id="10000"/>
+	<message comment="Robert Koren wins a corner (To the left)" minute="62" period="2" second="44" time="65" type="corner" type_id="6"/>
+	<message comment="Robert Koren has shot blocked (Out of box, Left footed, Open play)" minute="62" period="2" second="42" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="James Ward-Prowse blocks a shot" minute="62" period="2" second="42" time="65" type="save made" type_id="10"/>
+	<message comment="Victor Wanyama is substituted off" minute="62" period="2" second="24" time="65" type="substitution off" type_id="18"/>
+	<message comment="Steven Davis is substituted on" minute="62" period="2" second="24" time="65" type="substitution on" type_id="19"/>
+	<message comment="David Meyler blocks a shot (Last line)" minute="61" period="2" second="20" time="64" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin has shot blocked (18-yard box, Left footed, From corner)" minute="61" period="2" second="20" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="60" period="2" second="55" time="63" type="corner" type_id="6"/>
+	<message comment="Steve Harper makes a save (Diving, Parried into danger)" minute="60" period="2" second="47" time="63" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="60" period="2" second="47" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Rosenior blocks a shot" minute="60" period="2" second="19" time="63" type="save made" type_id="10"/>
+	<message comment="José Fonte has shot blocked (18-yard box, Right footed, From corner)" minute="60" period="2" second="19" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren has shot blocked (18-yard box, Head, From corner)" minute="60" period="2" second="17" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="60" period="2" second="17" time="63" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="59" period="2" second="49" time="62" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone has attempt saved (Low to the left, Out of box, Left footed, Throw-in)" minute="57" period="2" second="5" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Standing)" minute="57" period="2" second="5" time="60" type="save made" type_id="10"/>
+	<message comment="GOAL! Yannick Sagbo scores , Assisted by Jake Livermore (Low to the right, Out of box, Right footed, Open play)" minute="54" period="2" second="32" time="57" type="goal scored" type_id="16"/>
+	<message comment="Adam Lallana misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="48" period="2" second="23" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez wins a corner (To the left)" minute="47" period="2" second="49" time="50" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Robert Koren is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="7" time="47" type="end" type_id="30"/>
+	<message comment="Maynor Figueroa has shot blocked (6-yard box, Head, From corner)" minute="46" period="1" second="46" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren blocks a shot" minute="46" period="1" second="46" time="46" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone wins a corner (To the right)" minute="46" period="1" second="29" time="46" type="corner" type_id="6"/>
+	<message comment="Curtis Davies recieves a yellow card" minute="43" period="1" second="37" time="43" type="card received" type_id="17"/>
+	<message comment="George Boyd wins a corner (To the left)" minute="41" period="1" second="29" time="41" type="corner" type_id="6"/>
+	<message comment="George Boyd is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="George Boyd is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Rickie Lambert (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="36" period="1" second="24" time="36" type="goal scored" type_id="16"/>
+	<message comment="James Ward-Prowse wins a corner (To the left)" minute="33" period="1" second="15" time="33" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Free kick)" minute="30" period="1" second="42" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana blocks a shot" minute="30" period="1" second="42" time="30" type="save made" type_id="10"/>
+	<message comment="GOAL! Rickie Lambert scores  (High to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="29" period="1" second="19" time="29" type="goal scored" type_id="16"/>
+	<message comment="Steve Harper recieves a yellow card" minute="28" period="1" second="44" time="28" type="card received" type_id="17"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Right footed, Open play)" minute="26" period="1" second="46" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Yannick Sagbo is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert misses attempt (To the left, 18-yard box, Head, Open play)" minute="19" period="1" second="40" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Paul McShane misses attempt (18-yard box, Head, From corner)" minute="17" period="1" second="50" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="17" period="1" second="28" time="17" type="corner" type_id="6"/>
+	<message comment="GOAL! Morgan Schneiderlin scores , Assisted by Rickie Lambert (High to the right, 18-yard box, Head, Open play)" minute="15" period="1" second="7" time="15" type="goal scored" type_id="16"/>
+	<message comment="Rickie Lambert is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Yannick Sagbo has shot blocked (Out of box, Right footed, Open play)" minute="11" period="1" second="34" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte blocks a shot" minute="11" period="1" second="34" time="11" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="James Ward-Prowse wins a corner (To the right)" minute="6" period="1" second="57" time="6" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

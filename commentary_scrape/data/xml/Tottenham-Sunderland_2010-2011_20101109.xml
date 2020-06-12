@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2010-11-09" home_team_name="Sunderland" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="23" time="96" type="end" type_id="30"/>
+	<message comment="Danny Welbeck is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Asamoah Gyan misses attempt (High, 18-yard box, Head, From corner)" minute="90" period="2" second="24" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Boudewijn Zenden wins a corner (To the left)" minute="89" period="2" second="58" time="91" type="corner" type_id="6"/>
+	<message comment="Boudewijn Zenden wins a corner (To the left)" minute="89" period="2" second="6" time="91" type="corner" type_id="6"/>
+	<message comment="Boudewijn Zenden has shot blocked (Out of box, Left footed, Free kick)" minute="89" period="2" second="3" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale blocks a shot" minute="89" period="2" second="3" time="91" type="save made" type_id="10"/>
+	<message comment="Heurelho Gomes recieves a yellow card" minute="88" period="2" second="2" time="90" type="card received" type_id="17"/>
+	<message comment="Steed Malbranque is substituted on" minute="85" period="2" second="56" time="87" type="substitution on" type_id="19"/>
+	<message comment="Kieran Richardson is substituted off" minute="85" period="2" second="56" time="87" type="substitution off" type_id="18"/>
+	<message comment="David Bentley misses attempt (High to the left, Out of box, Left footed, Open play)" minute="84" period="2" second="14" time="86" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley misses attempt (High, Out of box, Right footed, Free kick)" minute="80" period="2" second="20" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Danny Welbeck is caught offside" minute="76" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="75" period="2" second="7" time="77" type="corner" type_id="6"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="72" period="2" second="18" time="74" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley blocks a shot" minute="72" period="2" second="17" time="74" type="save made" type_id="10"/>
+	<message comment="David Bentley has shot blocked (18-yard box, Right footed, Throw-in)" minute="72" period="2" second="17" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gordon makes a save (Standing)" minute="70" period="2" second="13" time="72" type="save made" type_id="10"/>
+	<message comment="Younes Kaboul has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="70" period="2" second="13" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart is caught offside" minute="70" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="69" period="2" second="59" time="71" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole recieves a yellow card" minute="69" period="2" second="1" time="71" type="card received" type_id="17"/>
+	<message comment="GOAL! Asamoah Gyan scores , Assisted by Danny Welbeck (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="66" period="2" second="14" time="68" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Rafael van der Vaart scores , Assisted by Peter Crouch (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="63" period="2" second="58" time="65" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson is caught offside" minute="63" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Boudewijn Zenden blocks a shot" minute="58" period="2" second="7" time="60" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Left footed, From corner)" minute="58" period="2" second="7" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart wins a corner (To the left)" minute="58" period="2" second="0" time="60" type="corner" type_id="6"/>
+	<message comment="Craig Gordon makes a save (Parried safe)" minute="57" period="2" second="52" time="59" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="57" period="2" second="52" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="57" period="2" second="22" time="59" type="corner" type_id="6"/>
+	<message comment="Danny Welbeck misses attempt (High to the right, Out of box, Right footed, Open play)" minute="54" period="2" second="32" time="56" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley recieves a yellow card" minute="51" period="2" second="46" time="53" type="card received" type_id="17"/>
+	<message comment="Rafael van der Vaart misses attempt (18-yard box, Head, Open play)" minute="50" period="2" second="53" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Titus Bramble blocks a shot" minute="49" period="2" second="34" time="51" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (18-yard box, Head, From corner)" minute="49" period="2" second="34" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="49" period="2" second="15" time="51" type="corner" type_id="6"/>
+	<message comment="Rafael van der Vaart misses attempt (To the left, 18-yard box, Head, Open play)" minute="46" period="2" second="23" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Roman Pavlyuchenko is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Peter Crouch is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Cristian Riveros is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Danny Welbeck is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="16" time="46" type="end" type_id="30"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="44" period="1" second="1" time="44" type="corner" type_id="6"/>
+	<message comment="Craig Gordon makes a save (Diving, Parried safe)" minute="43" period="1" second="59" time="43" type="save made" type_id="10"/>
+	<message comment="David Bentley has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="43" period="1" second="59" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="40" period="1" second="0" time="40" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="39" period="1" second="34" time="39" type="corner" type_id="6"/>
+	<message comment="Asamoah Gyan has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="38" period="1" second="0" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Collected)" minute="38" period="1" second="0" time="38" type="save made" type_id="10"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="36" period="1" second="52" time="36" type="corner" type_id="6"/>
+	<message comment="Craig Gordon makes a save (Parried safe, Diving)" minute="36" period="1" second="48" time="36" type="save made" type_id="10"/>
+	<message comment="David Bentley has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="36" period="1" second="48" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Asamoah Gyan is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="33" period="1" second="57" time="33" type="corner" type_id="6"/>
+	<message comment="Craig Gordon makes a save (Diving, Parried safe)" minute="33" period="1" second="55" time="33" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (High to the right, 18-yard box, Right footed, From corner)" minute="33" period="1" second="55" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="33" period="1" second="40" time="33" type="corner" type_id="6"/>
+	<message comment="David Bentley wins a corner (To the right)" minute="33" period="1" second="6" time="33" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson misses attempt (To the right, Out of box, Left footed, Open play)" minute="30" period="1" second="6" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart misses attempt (High, Out of box, Left footed, Open play)" minute="28" period="1" second="19" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="22" period="1" second="2" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Turner blocks a shot" minute="21" period="1" second="45" time="21" type="save made" type_id="10"/>
+	<message comment="Luka Modric has shot blocked (18-yard box, Right footed, Open play)" minute="21" period="1" second="45" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Asamoah Gyan is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="18" period="1" second="50" time="18" type="corner" type_id="6"/>
+	<message comment="Anton Ferdinand is substituted off" minute="17" period="1" second="53" time="17" type="substitution off" type_id="18"/>
+	<message comment="Phil Bardsley is substituted on" minute="17" period="1" second="53" time="17" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone hits the woodwork (High, Out of box, Right footed, From corner)" minute="16" period="1" second="58" time="16" type="woodwork hit" type_id="14"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="16" period="1" second="33" time="16" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole blocks a shot" minute="16" period="1" second="30" time="16" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto has shot blocked (Out of box, Left footed, From corner)" minute="16" period="1" second="30" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="16" period="1" second="5" time="16" type="corner" type_id="6"/>
+	<message comment="Roman Pavlyuchenko is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Anton Ferdinand blocks a shot" minute="11" period="1" second="43" time="11" type="save made" type_id="10"/>
+	<message comment="David Bentley has shot blocked (18-yard box, Right footed, Open play)" minute="11" period="1" second="43" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Right footed, From corner)" minute="11" period="1" second="26" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="11" period="1" second="5" time="11" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" minute="9" period="1" second="32" time="9" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="9" period="1" second="30" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Lee Cattermole misses attempt (To the left, Out of box, Right footed, Open play)" minute="8" period="1" second="45" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Roman Pavlyuchenko misses attempt (Out of box, Right footed, Open play)" minute="5" period="1" second="57" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Younes Kaboul misses attempt (To the right, Out of box, Right footed, Free kick)" minute="4" period="1" second="36" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gordon makes a save (Parried safe, Diving)" minute="2" period="1" second="28" time="2" type="save made" type_id="10"/>
+	<message comment="Luka Modric has attempt saved (Low to the left, Out of box, Right footed, From corner)" minute="2" period="1" second="28" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Roman Pavlyuchenko wins a corner (To the left)" minute="2" period="1" second="3" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

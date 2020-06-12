@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2013-12-21 15:00" game_id_2="27116441" game_id_4="112217457" home_team_name="Aston Villa" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-21 16:34:24" minute="94" period="2" second="15" team="Aston Villa" time="96" type="end" type_id="30"/>
+	<message comment="Andreas Weimann is caught offside" last_modified="2013-12-21 16:31:09" minute="91" period="2" team="Stoke" time="93" type="offside" type_id="10000"/>
+	<message comment="Ciaran Clark wins a corner (To the left)" last_modified="2013-12-21 16:29:18" minute="89" period="2" second="9" team="Stoke" time="91" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood recieves a yellow card" last_modified="2013-12-21 16:24:33" minute="84" period="2" second="24" team="Stoke" time="86" type="card received" type_id="17"/>
+	<message comment="Jermaine Pennant is caught offside" last_modified="2013-12-21 16:23:09" minute="83" period="2" team="Aston Villa" time="85" type="offside" type_id="10000"/>
+	<message comment="Marc Albrighton is substituted off" last_modified="2013-12-21 16:20:47" minute="80" period="2" second="38" team="Stoke" time="82" type="substitution off" type_id="18"/>
+	<message comment="Leandro Bacuna is substituted on" last_modified="2013-12-21 16:20:47" minute="80" period="2" second="38" team="Stoke" time="82" type="substitution on" type_id="19"/>
+	<message comment="Ashley Westwood misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-21 16:19:08" minute="78" period="2" second="59" team="Stoke" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Marc Albrighton has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-21 16:19:01" minute="78" period="2" second="52" team="Stoke" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron blocks a shot" last_modified="2013-12-21 16:19:01" minute="78" period="2" second="52" team="Aston Villa" time="80" type="save made" type_id="10"/>
+	<message comment="Ciaran Clark misses attempt (To the left, 18-yard box, Right footed, From corner)" last_modified="2013-12-21 16:15:21" minute="75" period="2" second="12" team="Stoke" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Libor Kozák wins a corner (To the right)" last_modified="2013-12-21 16:14:52" minute="74" period="2" second="43" team="Stoke" time="76" type="corner" type_id="6"/>
+	<message comment="Libor Kozák has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-21 16:14:49" minute="74" period="2" second="40" team="Stoke" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving)" last_modified="2013-12-21 16:14:49" minute="74" period="2" second="40" team="Aston Villa" time="76" type="save made" type_id="10"/>
+	<message comment="Peter Crouch hits the woodwork (To the left, 6-yard box, Big Chance, Right footed, From corner)" last_modified="2013-12-21 16:12:46" minute="72" period="2" second="37" team="Aston Villa" time="74" type="woodwork hit" type_id="14"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-12-21 16:12:11" minute="72" period="2" second="2" team="Aston Villa" time="74" type="corner" type_id="6"/>
+	<message comment="Oussama Assaidi is substituted off" last_modified="2013-12-21 16:11:25" minute="71" period="2" second="16" team="Aston Villa" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" last_modified="2013-12-21 16:11:25" minute="71" period="2" second="16" team="Aston Villa" time="73" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Geoff Cameron (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-21 16:09:36" minute="69" period="2" second="27" team="Aston Villa" time="71" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Tonev is substituted off" last_modified="2013-12-21 16:06:43" minute="66" period="2" second="34" team="Stoke" time="68" type="substitution off" type_id="18"/>
+	<message comment="Jordan Bowery is substituted on" last_modified="2013-12-21 16:06:43" minute="66" period="2" second="34" team="Stoke" time="68" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Libor Kozák scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-21 16:05:52" minute="65" period="2" second="43" team="Stoke" time="67" type="goal scored" type_id="16"/>
+	<message comment="Andreas Weimann has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-21 16:04:53" minute="64" period="2" second="44" team="Stoke" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2013-12-21 16:04:53" minute="64" period="2" second="44" team="Aston Villa" time="66" type="save made" type_id="10"/>
+	<message comment="Fabian Delph has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-21 16:04:08" minute="63" period="2" second="59" team="Stoke" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-21 16:04:08" minute="63" period="2" second="59" team="Aston Villa" time="65" type="save made" type_id="10"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-12-21 16:01:55" minute="61" period="2" second="46" team="Aston Villa" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Herd recieves a yellow card" last_modified="2013-12-21 16:00:49" minute="60" period="2" second="40" team="Stoke" time="62" type="card received" type_id="17"/>
+	<message comment="Fabian Delph recieves a yellow card" last_modified="2013-12-21 15:59:21" minute="59" period="2" second="12" team="Stoke" time="61" type="card received" type_id="17"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-12-21 15:52:09" minute="52" period="2" team="Aston Villa" time="54" type="offside" type_id="10000"/>
+	<message comment="Marc Albrighton has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-21 15:51:16" minute="51" period="2" second="7" team="Stoke" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-21 15:51:16" minute="51" period="2" second="7" team="Aston Villa" time="53" type="save made" type_id="10"/>
+	<message comment="GOAL! Charlie Adam scores , Assisted by Peter Crouch (Low to the right, 18-yard box, Big Chance, Left footed, Set piece)" last_modified="2013-12-21 15:50:09" minute="50" period="2" second="0" team="Aston Villa" time="52" type="goal scored" type_id="16"/>
+	<message comment="Ciaran Clark recieves a yellow card" last_modified="2013-12-21 15:49:45" minute="49" period="2" second="36" team="Stoke" time="51" type="card received" type_id="17"/>
+	<message comment="Charlie Adam wins a corner (To the right)" last_modified="2013-12-21 15:48:43" minute="48" period="2" second="34" team="Aston Villa" time="50" type="corner" type_id="6"/>
+	<message comment="Erik Pieters misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-21 15:47:06" minute="46" period="2" second="57" team="Aston Villa" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Andreas Weimann is caught offside" last_modified="2013-12-21 15:46:09" minute="46" period="2" team="Stoke" time="48" type="offside" type_id="10000"/>
+	<message comment="Marko Arnautovic is substituted off" last_modified="2013-12-21 15:45:09" minute="45" period="2" second="0" team="Aston Villa" time="47" type="substitution off" type_id="18"/>
+	<message comment="Charlie Adam is substituted on" last_modified="2013-12-21 15:45:09" minute="45" period="2" second="0" team="Aston Villa" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-12-21 15:45:09" minute="45" period="2" second="0" team="Aston Villa" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-21 15:46:21" minute="46" period="1" second="12" team="Aston Villa" time="46" type="end" type_id="30"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-21 15:44:33" minute="44" period="1" second="24" team="Aston Villa" time="44" type="save made" type_id="10"/>
+	<message comment="Andreas Weimann has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-21 15:44:33" minute="44" period="1" second="24" team="Stoke" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-12-21 15:42:41" minute="42" period="1" second="32" team="Aston Villa" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-12-21 15:41:48" minute="41" period="1" second="39" team="Aston Villa" time="41" type="corner" type_id="6"/>
+	<message comment="Nathan Baker blocks a shot" last_modified="2013-12-21 15:41:33" minute="41" period="1" second="24" team="Stoke" time="41" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-21 15:41:33" minute="41" period="1" second="24" team="Aston Villa" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Ciaran Clark blocks a shot" last_modified="2013-12-21 15:41:32" minute="41" period="1" second="23" team="Stoke" time="41" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-21 15:41:32" minute="41" period="1" second="23" team="Aston Villa" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-21 15:40:08" minute="39" period="1" second="59" team="Aston Villa" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Marc Albrighton misses attempt (Out of box, Left footed, Open play)" last_modified="2013-12-21 15:39:26" minute="39" period="1" second="17" team="Stoke" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross misses attempt (To the right, 18-yard box, Head, Set piece)" last_modified="2013-12-21 15:38:59" minute="38" period="1" second="50" team="Aston Villa" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron misses attempt (6-yard box, Head, From corner)" last_modified="2013-12-21 15:37:02" minute="36" period="1" second="53" team="Aston Villa" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the left)" last_modified="2013-12-21 15:36:40" minute="36" period="1" second="31" team="Aston Villa" time="36" type="corner" type_id="6"/>
+	<message comment="Marko Arnautovic wins a corner (To the right)" last_modified="2013-12-21 15:29:28" minute="29" period="1" second="19" team="Aston Villa" time="29" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood wins a corner (To the right)" last_modified="2013-12-21 15:27:10" minute="27" period="1" second="1" team="Stoke" time="27" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-12-21 15:27:08" minute="26" period="1" second="59" team="Stoke" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Marko Arnautovic blocks a shot" last_modified="2013-12-21 15:27:08" minute="26" period="1" second="59" team="Aston Villa" time="26" type="save made" type_id="10"/>
+	<message comment="Marc Wilson recieves a yellow card" last_modified="2013-12-21 15:26:04" minute="25" period="1" second="55" team="Aston Villa" time="25" type="card received" type_id="17"/>
+	<message comment="Ciaran Clark wins a corner (To the right)" last_modified="2013-12-21 15:23:55" minute="23" period="1" second="46" team="Stoke" time="23" type="corner" type_id="6"/>
+	<message comment="Marc Albrighton recieves a yellow card" last_modified="2013-12-21 15:20:21" minute="20" period="1" second="12" team="Stoke" time="20" type="card received" type_id="17"/>
+	<message comment="Ashley Westwood wins a corner (To the right)" last_modified="2013-12-21 15:18:15" minute="18" period="1" second="6" team="Stoke" time="18" type="corner" type_id="6"/>
+	<message comment="Aleksandar Tonev has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-12-21 15:14:17" minute="14" period="1" second="8" team="Stoke" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" last_modified="2013-12-21 15:14:17" minute="14" period="1" second="8" team="Aston Villa" time="14" type="save made" type_id="10"/>
+	<message comment="Libor Kozák is caught offside" last_modified="2013-12-21 15:10:09" minute="10" period="1" team="Stoke" time="10" type="offside" type_id="10000"/>
+	<message comment="Nathan Baker has attempt saved (Low to the left, 18-yard box, Head, From corner)" last_modified="2013-12-21 15:09:43" minute="9" period="1" second="34" team="Stoke" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save" last_modified="2013-12-21 15:09:43" minute="9" period="1" second="34" team="Aston Villa" time="9" type="save made" type_id="10"/>
+	<message comment="Chris Herd wins a corner (To the left)" last_modified="2013-12-21 15:09:17" minute="9" period="1" second="8" team="Stoke" time="9" type="corner" type_id="6"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-12-21 15:08:09" minute="8" period="1" team="Aston Villa" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-12-21 15:00:09" minute="0" period="14" second="0" team="Aston Villa" time="6" type="end" type_id="30"/>
+	<message comment="Matthew Lowton blocks a shot" last_modified="2013-12-21 15:02:43" minute="2" period="1" second="34" team="Stoke" time="2" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Right footed, From corner)" last_modified="2013-12-21 15:02:43" minute="2" period="1" second="34" team="Aston Villa" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-12-21 15:02:13" minute="2" period="1" second="4" team="Aston Villa" time="2" type="corner" type_id="6"/>
+	<message comment="Aleksandar Tonev misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-21 15:00:53" minute="0" period="1" second="44" team="Stoke" time="0" type="attempt missed" type_id="13"/>
+	<message comment="Marc Albrighton wins a corner (To the right)" last_modified="2013-12-21 15:00:23" minute="0" period="1" second="14" team="Stoke" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-21 15:00:09" minute="0" period="1" second="0" team="Aston Villa" time="0" type="start" type_id="32"/>
+</Commentary>

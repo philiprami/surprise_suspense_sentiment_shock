@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-11-23" home_team_name="Norwich" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="97" period="2" second="34" time="99" type="end" type_id="30"/>
+	<message comment="Ryan Bennett recieves a yellow card" minute="95" period="2" second="30" time="97" type="card received" type_id="17"/>
+	<message comment="Michael Turner is caught offside" minute="93" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy wins a corner (To the right)" minute="91" period="2" second="45" time="93" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="91" period="2" second="42" time="93" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has shot blocked (18-yard box, Right footed, Fast break)" minute="91" period="2" second="42" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Hoolahan wins a corner (To the right)" minute="90" period="2" second="8" time="92" type="corner" type_id="6"/>
+	<message comment="Wes Hoolahan has shot blocked (Out of box, Left footed, Free kick)" minute="90" period="2" second="6" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko blocks a shot" minute="90" period="2" second="6" time="92" type="save made" type_id="10"/>
+	<message comment="Nathan Redmond is substituted off" minute="88" period="2" second="28" time="90" type="substitution off" type_id="18"/>
+	<message comment="Josh Murphy is substituted on" minute="88" period="2" second="28" time="90" type="substitution on" type_id="19"/>
+	<message comment="Bradley Johnson is substituted off" minute="88" period="2" second="16" time="90" type="substitution off" type_id="18"/>
+	<message comment="Wes Hoolahan is substituted on" minute="88" period="2" second="16" time="90" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Head, Open play)" minute="84" period="2" second="42" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran is substituted off" minute="82" period="2" second="40" time="84" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" minute="82" period="2" second="40" time="84" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="80" period="2" second="31" time="82" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson blocks a shot" minute="80" period="2" second="28" time="82" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Left footed, Open play)" minute="80" period="2" second="28" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Leroy Fer scores , Assisted by Nathan Redmond (Low to the right, 18-yard box, Head, From corner)" minute="79" period="2" second="3" time="81" type="goal scored" type_id="16"/>
+	<message comment="Nathan Redmond wins a corner (To the right)" minute="78" period="2" second="47" time="80" type="corner" type_id="6"/>
+	<message comment="Nathan Redmond wins a corner (To the right)" minute="78" period="2" second="10" time="80" type="corner" type_id="6"/>
+	<message comment="Ryan Bennett wins a corner (To the left)" minute="77" period="2" second="47" time="79" type="corner" type_id="6"/>
+	<message comment="Ryan Bennett misses attempt (To the right, 18-yard box, Head, From corner)" minute="77" period="2" second="47" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander wins a corner (To the left)" minute="77" period="2" second="25" time="79" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi is substituted off" minute="73" period="2" second="20" time="75" type="substitution off" type_id="18"/>
+	<message comment="Papiss Demba Cissé is substituted on" minute="73" period="2" second="20" time="75" type="substitution on" type_id="19"/>
+	<message comment="Leroy Fer misses attempt (High, 18-yard box, Head, Open play)" minute="72" period="2" second="38" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi misses attempt (High to the right, Out of box, Right footed, Open play)" minute="70" period="2" second="31" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye is substituted off" minute="67" period="2" second="15" time="69" type="substitution off" type_id="18"/>
+	<message comment="Vurnon Anita is substituted on" minute="67" period="2" second="15" time="69" type="substitution on" type_id="19"/>
+	<message comment="Michael Turner blocks a shot" minute="66" period="2" second="21" time="68" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Free kick)" minute="66" period="2" second="21" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Redmond misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="64" period="2" second="26" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Martin Olsson blocks a shot" minute="64" period="2" second="3" time="66" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Fast break)" minute="64" period="2" second="3" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Collected)" minute="52" period="2" second="13" time="54" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="52" period="2" second="13" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Hooper misses attempt (18-yard box, Right footed, Set piece)" minute="49" period="2" second="19" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Redmond has shot blocked (Out of box, Right footed, Free kick)" minute="49" period="2" second="8" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Mike Williamson blocks a shot" minute="49" period="2" second="8" time="51" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington is substituted off" minute="48" period="2" second="38" time="50" type="substitution off" type_id="18"/>
+	<message comment="Johan Elmander is substituted on" minute="48" period="2" second="38" time="50" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Right footed, From corner)" minute="45" period="1" second="37" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="45" period="1" second="11" time="45" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Diving, Parried safe)" minute="45" period="1" second="5" time="45" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="45" period="1" second="5" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Loïc Rémy misses attempt (High to the left, Out of box, Right footed, Open play)" minute="43" period="1" second="17" time="43" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Yoan Gouffran scores  (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="37" period="1" second="9" time="37" type="goal scored" type_id="16"/>
+	<message comment="John Ruddy makes a save (Diving, Parried into danger)" minute="37" period="1" second="8" time="37" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="37" period="1" second="8" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Right footed, Open play)" minute="34" period="1" second="49" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Left footed, Open play)" minute="32" period="1" second="47" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Michael Turner blocks a shot" minute="32" period="1" second="43" time="32" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has shot blocked (18-yard box, Right footed, Open play)" minute="32" period="1" second="43" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Pilkington misses attempt (6-yard box, Head, Open play)" minute="32" period="1" second="14" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="29" period="1" second="58" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="25" period="1" second="39" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy wins a corner (To the right)" minute="20" period="1" second="40" time="20" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye misses attempt (To the right, Out of box, Right footed, Open play)" minute="18" period="1" second="8" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Right footed, Open play)" minute="17" period="1" second="9" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Leroy Fer has attempt saved (Low to the centre, 6-yard box, Left footed, Set piece)" minute="12" period="1" second="51" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Diving, Parried into danger)" minute="12" period="1" second="51" time="12" type="save made" type_id="10"/>
+	<message comment="Nathan Redmond misses attempt (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="10" period="1" second="57" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="GOAL! Loïc Rémy scores , Assisted by Yohan Cabaye (High to the right, 6-yard box, Big Chance, Head, From corner)" minute="1" period="1" second="53" time="1" type="goal scored" type_id="16"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="1" period="1" second="22" time="1" type="corner" type_id="6"/>
+	<message comment="Jonny Howson blocks a shot" minute="0" period="1" second="43" time="0" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, Open play)" minute="0" period="1" second="43" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko wins a corner (To the left)" minute="0" period="1" second="13" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

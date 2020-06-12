@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2013-02-09" home_team_name="Reading" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="15" time="96" type="end" type_id="30"/>
+	<message comment="Geoff Cameron recieves a yellow card" minute="90" period="2" second="36" time="92" type="card received" type_id="17"/>
+	<message comment="Alex Pearce misses attempt (To the right, 18-yard box, Head, Open play)" minute="88" period="2" second="21" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Ian Harte wins a corner (To the right)" minute="86" period="2" second="2" time="88" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Diving, Parried into danger)" minute="85" period="2" second="13" time="87" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="85" period="2" second="13" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Wilkinson is substituted off" minute="83" period="2" second="20" time="85" type="substitution off" type_id="18"/>
+	<message comment="Geoff Cameron is substituted on" minute="83" period="2" second="20" time="85" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Adrian Mariappa scores , Assisted by Ian Harte (High to the right, 6-yard box, Head, From corner)" minute="82" period="2" second="41" time="84" type="goal scored" type_id="16"/>
+	<message comment="Stephen Kelly wins a corner (To the right)" minute="82" period="2" second="13" time="84" type="corner" type_id="6"/>
+	<message comment="Adam Le Fondre has shot blocked (18-yard box, Left footed, Open play)" minute="81" period="2" second="45" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shotton blocks a shot" minute="81" period="2" second="45" time="83" type="save made" type_id="10"/>
+	<message comment="GOAL! Cameron Jerome scores  (Low to the left, 18-yard box, Right footed, Open play)" minute="80" period="2" second="16" time="82" type="goal scored" type_id="16"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="79" period="2" second="48" time="81" type="substitution off" type_id="18"/>
+	<message comment="Noel Hunt is substituted on" minute="79" period="2" second="48" time="81" type="substitution on" type_id="19"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" minute="77" period="2" second="58" time="79" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Collected)" minute="76" period="2" second="31" time="78" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi has attempt saved (High to the centre, 18-yard box, Head, Throw-in)" minute="76" period="2" second="31" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Jobi McAnuff is substituted off" minute="72" period="2" second="58" time="74" type="substitution off" type_id="18"/>
+	<message comment="Garath McCleary is substituted on" minute="72" period="2" second="58" time="74" type="substitution on" type_id="19"/>
+	<message comment="Glenn Whelan recieves a yellow card" minute="72" period="2" second="40" time="74" type="card received" type_id="17"/>
+	<message comment="Matthew Etherington misses attempt (High, 18-yard box, Left footed, Open play)" minute="69" period="2" second="54" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Ian Harte has shot blocked (Out of box, Right footed, Set piece)" minute="68" period="2" second="35" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan blocks a shot" minute="68" period="2" second="35" time="70" type="save made" type_id="10"/>
+	<message comment="Ian Harte has shot blocked (Out of box, Left footed, Free kick)" minute="68" period="2" second="32" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones blocks a shot" minute="68" period="2" second="32" time="70" type="save made" type_id="10"/>
+	<message comment="GOAL! Robert Huth scores , Assisted by Glenn Whelan (High to the right, 6-yard box, Head, From corner)" minute="66" period="2" second="52" time="68" type="goal scored" type_id="16"/>
+	<message comment="Jonathan Walters wins a corner (To the left)" minute="66" period="2" second="28" time="68" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="66" period="2" second="24" time="68" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has shot blocked (18-yard box, Right footed, Set piece)" minute="66" period="2" second="24" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch is substituted off" minute="65" period="2" second="4" time="67" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="65" period="2" second="4" time="67" type="substitution on" type_id="19"/>
+	<message comment="Michael Kightly is substituted off" minute="65" period="2" second="1" time="67" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="65" period="2" second="1" time="67" type="substitution on" type_id="19"/>
+	<message comment="Hope Akpan has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="63" period="2" second="57" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Collected)" minute="63" period="2" second="57" time="65" type="save made" type_id="10"/>
+	<message comment="Jobi McAnuff wins a corner (To the left)" minute="63" period="2" second="24" time="65" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="57" period="2" second="45" time="59" type="corner" type_id="6"/>
+	<message comment="Nick Blackman is substituted off" minute="56" period="2" second="21" time="58" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="56" period="2" second="21" time="58" type="substitution on" type_id="19"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="52" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="6" time="46" type="end" type_id="30"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="40" period="1" second="40" time="40" type="corner" type_id="6"/>
+	<message comment="Robert Huth wins a corner (To the right)" minute="40" period="1" second="14" time="40" type="corner" type_id="6"/>
+	<message comment="Stephen Kelly blocks a shot" minute="40" period="1" second="13" time="40" type="save made" type_id="10"/>
+	<message comment="Robert Huth has shot blocked (18-yard box, Left footed, From corner)" minute="40" period="1" second="13" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="39" period="1" second="57" time="39" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the right)" minute="39" period="1" second="36" time="39" type="corner" type_id="6"/>
+	<message comment="Peter Crouch wins a corner (To the right)" minute="39" period="1" second="8" time="39" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Diving, Parried safe)" minute="39" period="1" second="7" time="39" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="39" period="1" second="7" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch misses attempt (To the right, Out of box, Right footed, Open play)" minute="37" period="1" second="1" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross wins a corner (To the right)" minute="33" period="1" second="3" time="33" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Parried safe, Diving)" minute="33" period="1" second="1" time="33" type="save made" type_id="10"/>
+	<message comment="Ryan Shawcross has attempt saved (High to the centre, 18-yard box, Left footed, From corner)" minute="33" period="1" second="1" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Kightly wins a corner (To the right)" minute="32" period="1" second="25" time="32" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="25" period="1" second="59" time="25" type="save made" type_id="10"/>
+	<message comment="Michael Kightly has shot blocked (18-yard box, Left footed, Open play)" minute="25" period="1" second="59" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="Mikele Leigertwood misses attempt (To the right, Out of box, Left footed, Open play)" minute="20" period="1" second="45" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch misses attempt (To the left, 18-yard box, Head, Open play)" minute="8" period="1" second="5" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Peter Crouch wins a corner (To the right)" minute="2" period="1" second="43" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

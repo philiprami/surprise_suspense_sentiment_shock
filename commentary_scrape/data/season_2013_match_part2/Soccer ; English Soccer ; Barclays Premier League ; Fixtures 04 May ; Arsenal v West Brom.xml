@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2014-05-04 13:30" game_id_2="27174943" game_id_4="113424660" home_team_name="West Brom" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-05-04 15:03:16" minute="93" period="2" second="0" team="West Brom" time="96" type="end" type_id="30"/>
+	<message comment="Olivier Giroud recieves a yellow card" last_modified="2014-05-04 15:01:06" minute="90" period="2" second="50" team="West Brom" time="93" type="card received" type_id="17"/>
+	<message comment="Graham Dorrans recieves a yellow card" last_modified="2014-05-04 15:01:01" minute="90" period="2" second="45" team="Arsenal" time="93" type="card received" type_id="17"/>
+	<message comment="Victor Anichebe wins a corner (To the left)" last_modified="2014-05-04 15:00:46" minute="90" period="2" second="30" team="Arsenal" time="93" type="corner" type_id="6"/>
+	<message comment="Victor Anichebe has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-05-04 15:00:44" minute="90" period="2" second="28" team="Arsenal" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" last_modified="2014-05-04 15:00:44" minute="90" period="2" second="28" team="West Brom" time="93" type="save made" type_id="10"/>
+	<message comment="Kim Källström misses attempt (To the right, 18-yard box, Other body part, Open play)" last_modified="2014-05-04 14:58:39" minute="88" period="2" second="23" team="West Brom" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski wins a corner (To the left)" last_modified="2014-05-04 14:57:38" minute="87" period="2" second="22" team="West Brom" time="90" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-05-04 14:55:54" minute="85" period="2" second="38" team="Arsenal" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson wins a corner (To the right)" last_modified="2014-05-04 14:55:28" minute="85" period="2" second="12" team="Arsenal" time="88" type="corner" type_id="6"/>
+	<message comment="Craig Dawson has shot blocked (18-yard box, Head, From corner)" last_modified="2014-05-04 14:55:26" minute="85" period="2" second="10" team="Arsenal" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna blocks a shot" last_modified="2014-05-04 14:55:26" minute="85" period="2" second="10" team="West Brom" time="88" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu is substituted off" last_modified="2014-05-04 14:55:11" minute="84" period="2" second="55" team="Arsenal" time="87" type="substitution off" type_id="18"/>
+	<message comment="Matej Vydra is substituted on" last_modified="2014-05-04 14:55:11" minute="84" period="2" second="55" team="Arsenal" time="87" type="substitution on" type_id="19"/>
+	<message comment="Saido Berahino wins a corner (To the right)" last_modified="2014-05-04 14:54:47" minute="84" period="2" second="31" team="Arsenal" time="87" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Standing)" last_modified="2014-05-04 14:53:12" minute="82" period="2" second="56" team="Arsenal" time="85" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (High to the left, Out of box, Left footed, Free kick)" last_modified="2014-05-04 14:53:12" minute="82" period="2" second="56" team="West Brom" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt recieves a yellow card" last_modified="2014-05-04 14:52:31" minute="82" period="2" second="15" team="Arsenal" time="85" type="card received" type_id="17"/>
+	<message comment="Morgan Amalfitano is substituted off" last_modified="2014-05-04 14:50:01" minute="79" period="2" second="45" team="Arsenal" time="82" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" last_modified="2014-05-04 14:50:01" minute="79" period="2" second="45" team="Arsenal" time="82" type="substitution on" type_id="19"/>
+	<message comment="Nacho Monreal is substituted off" last_modified="2014-05-04 14:49:51" minute="79" period="2" second="35" team="West Brom" time="82" type="substitution off" type_id="18"/>
+	<message comment="Thomas Vermaelen is substituted on" last_modified="2014-05-04 14:49:51" minute="79" period="2" second="35" team="West Brom" time="82" type="substitution on" type_id="19"/>
+	<message comment="Craig Dawson blocks a shot" last_modified="2014-05-04 14:47:07" minute="76" period="2" second="51" team="Arsenal" time="79" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-05-04 14:47:07" minute="76" period="2" second="51" team="West Brom" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Lukas Podolski hits the woodwork (To the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-05-04 14:45:40" minute="75" period="2" second="24" team="West Brom" time="78" type="woodwork hit" type_id="14"/>
+	<message comment="Mesut Özil misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-05-04 14:43:23" minute="73" period="2" second="7" team="West Brom" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-05-04 14:42:40" minute="72" period="2" second="24" team="Arsenal" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Craig Dawson misses attempt (18-yard box, Head, From corner)" last_modified="2014-05-04 14:41:33" minute="71" period="2" second="17" team="Arsenal" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" last_modified="2014-05-04 14:41:12" minute="70" period="2" second="56" team="Arsenal" time="73" type="corner" type_id="6"/>
+	<message comment="Per Mertesacker blocks a shot" last_modified="2014-05-04 14:41:11" minute="70" period="2" second="55" team="West Brom" time="73" type="save made" type_id="10"/>
+	<message comment="Morgan Amalfitano has shot blocked (18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-05-04 14:41:11" minute="70" period="2" second="55" team="Arsenal" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla is substituted off" last_modified="2014-05-04 14:39:24" minute="69" period="2" second="8" team="West Brom" time="72" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" last_modified="2014-05-04 14:39:24" minute="69" period="2" second="8" team="West Brom" time="72" type="substitution on" type_id="19"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2014-05-04 14:37:42" minute="67" period="2" second="26" team="Arsenal" time="70" type="corner" type_id="6"/>
+	<message comment="Chris Brunt wins a corner (To the left)" last_modified="2014-05-04 14:37:06" minute="66" period="2" second="50" team="Arsenal" time="69" type="corner" type_id="6"/>
+	<message comment="Chris Brunt wins a corner (To the left)" last_modified="2014-05-04 14:34:27" minute="64" period="2" second="11" team="Arsenal" time="67" type="corner" type_id="6"/>
+	<message comment="Nacho Monreal recieves a yellow card" last_modified="2014-05-04 14:33:25" minute="63" period="2" second="9" team="West Brom" time="66" type="card received" type_id="17"/>
+	<message comment="Mikel Arteta is substituted off" last_modified="2014-05-04 14:32:49" minute="62" period="2" second="33" team="West Brom" time="65" type="substitution off" type_id="18"/>
+	<message comment="Kim Källström is substituted on" last_modified="2014-05-04 14:32:49" minute="62" period="2" second="33" team="West Brom" time="65" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski wins a corner (To the left)" last_modified="2014-05-04 14:31:58" minute="61" period="2" second="42" team="West Brom" time="64" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud wins a corner (To the right)" last_modified="2014-05-04 14:30:29" minute="60" period="2" second="13" team="West Brom" time="63" type="corner" type_id="6"/>
+	<message comment="Diego Lugano blocks a shot" last_modified="2014-05-04 14:28:18" minute="58" period="2" second="2" team="Arsenal" time="61" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-05-04 14:28:18" minute="58" period="2" second="2" team="West Brom" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2014-05-04 14:26:39" minute="56" period="2" second="23" team="Arsenal" time="59" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2014-05-04 14:24:49" minute="54" period="2" second="33" team="West Brom" time="57" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" last_modified="2014-05-04 14:23:48" minute="53" period="2" second="32" team="West Brom" time="56" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2014-05-04 14:15:16" minute="45" period="2" second="0" team="West Brom" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-05-04 14:17:18" minute="47" period="1" second="2" team="West Brom" time="47" type="end" type_id="30"/>
+	<message comment="Nacho Monreal wins a corner (To the left)" last_modified="2014-05-04 14:16:46" minute="46" period="1" second="30" team="West Brom" time="46" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save" last_modified="2014-05-04 14:15:50" minute="45" period="1" second="34" team="Arsenal" time="45" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-05-04 14:15:50" minute="45" period="1" second="34" team="West Brom" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Dawson blocks a shot" last_modified="2014-05-04 14:11:42" minute="41" period="1" second="26" team="Arsenal" time="41" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 14:11:42" minute="41" period="1" second="26" team="West Brom" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Dawson misses attempt (High, 18-yard box, Head, From corner)" last_modified="2014-05-04 14:09:22" minute="39" period="1" second="6" team="Arsenal" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2014-05-04 14:08:55" minute="38" period="1" second="39" team="Arsenal" time="38" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" last_modified="2014-05-04 14:03:19" minute="33" period="1" second="3" team="West Brom" time="33" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" last_modified="2014-05-04 14:03:17" minute="33" period="1" second="1" team="Arsenal" time="33" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2014-05-04 14:03:17" minute="33" period="1" second="1" team="West Brom" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino misses attempt (High, Out of box, Right footed, Open play)" last_modified="2014-05-04 14:02:26" minute="32" period="1" second="10" team="Arsenal" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (Parried into danger, Standing)" last_modified="2014-05-04 14:01:49" minute="31" period="1" second="33" team="West Brom" time="31" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2014-05-04 14:01:49" minute="31" period="1" second="33" team="Arsenal" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino is caught offside" last_modified="2014-05-04 14:01:16" minute="31" period="1" team="Arsenal" time="31" type="offside" type_id="10000"/>
+	<message comment="Craig Dawson blocks a shot" last_modified="2014-05-04 13:58:21" minute="28" period="1" second="5" team="Arsenal" time="28" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-05-04 13:58:21" minute="28" period="1" second="5" team="West Brom" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-05-04 13:54:41" minute="24" period="1" second="25" team="West Brom" time="24" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison misses attempt (High to the left, Out of box, Head, Open play)" last_modified="2014-05-04 13:53:19" minute="23" period="1" second="3" team="Arsenal" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Graham Dorrans wins a corner (To the left)" last_modified="2014-05-04 13:52:01" minute="21" period="1" second="45" team="Arsenal" time="21" type="corner" type_id="6"/>
+	<message comment="Lukas Podolski wins a corner (To the right)" last_modified="2014-05-04 13:49:42" minute="19" period="1" second="26" team="West Brom" time="19" type="corner" type_id="6"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Santi Cazorla (Low to the left, 6-yard box, Head, From corner)" last_modified="2014-05-04 13:43:43" minute="13" period="1" second="27" team="West Brom" time="13" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" last_modified="2014-05-04 13:43:01" minute="12" period="1" second="45" team="West Brom" time="12" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu blocks a shot" last_modified="2014-05-04 13:42:59" minute="12" period="1" second="43" team="Arsenal" time="12" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-05-04 13:42:59" minute="12" period="1" second="43" team="West Brom" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Youssouf Mulumbu blocks a shot" last_modified="2014-05-04 13:42:32" minute="12" period="1" second="16" team="Arsenal" time="12" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-05-04 13:42:32" minute="12" period="1" second="16" team="West Brom" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-05-04 13:36:59" minute="6" period="1" second="43" team="Arsenal" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2014-05-04 13:36:59" minute="6" period="1" second="43" team="West Brom" time="6" type="save made" type_id="10"/>
+	<message comment="Formation Set" last_modified="2014-05-04 13:30:16" minute="0" period="14" second="0" team="West Brom" time="6" type="end" type_id="30"/>
+	<message comment="Lukas Podolski misses attempt (18-yard box, Left footed, Open play)" last_modified="2014-05-04 13:34:11" minute="3" period="1" second="55" team="West Brom" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Saido Berahino is caught offside" last_modified="2014-05-04 13:33:16" minute="3" period="1" team="Arsenal" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2014-05-04 13:30:16" minute="0" period="1" second="0" team="West Brom" time="0" type="start" type_id="32"/>
+</Commentary>

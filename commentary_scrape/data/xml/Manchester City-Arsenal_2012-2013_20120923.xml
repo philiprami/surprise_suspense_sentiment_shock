@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-09-23" home_team_name="Arsenal" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="28" time="95" type="end" type_id="30"/>
+	<message comment="Javi García recieves a yellow card" minute="91" period="2" second="46" time="93" type="card received" type_id="17"/>
+	<message comment="Gervinho is substituted off" minute="90" period="2" second="34" time="92" type="substitution off" type_id="18"/>
+	<message comment="Francis Coquelin is substituted on" minute="90" period="2" second="34" time="92" type="substitution on" type_id="19"/>
+	<message comment="Gervinho misses attempt (High to the right, Out of box, Right footed, Open play)" minute="89" period="2" second="49" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is substituted off" minute="84" period="2" second="10" time="86" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="84" period="2" second="10" time="86" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero misses attempt (6-yard box, Big Chance, Right footed, From corner)" minute="83" period="2" second="44" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Parried into danger, Diving)" minute="83" period="2" second="41" time="85" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has attempt saved (Low to the centre, 18-yard box, Right footed, From corner)" minute="83" period="2" second="41" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="83" period="2" second="14" time="85" type="corner" type_id="6"/>
+	<message comment="GOAL! Laurent Koscielny scores  (High to the right, 18-yard box, Right footed, From corner)" minute="81" period="2" second="35" time="83" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="81" period="2" second="8" time="83" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="81" period="2" second="6" time="83" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="81" period="2" second="6" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="79" period="2" second="38" time="81" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="79" period="2" second="35" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe, Diving)" minute="79" period="2" second="35" time="81" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="73" period="2" second="45" time="75" type="corner" type_id="6"/>
+	<message comment="Javi García blocks a shot" minute="73" period="2" second="40" time="75" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" minute="73" period="2" second="40" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Lukas Podolski is substituted off" minute="71" period="2" second="13" time="73" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="71" period="2" second="13" time="73" type="substitution on" type_id="19"/>
+	<message comment="Abou Diaby is substituted off" minute="71" period="2" second="2" time="73" type="substitution off" type_id="18"/>
+	<message comment="Olivier Giroud is substituted on" minute="71" period="2" second="2" time="73" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré misses attempt (To the left, Out of box, Right footed, Fast break)" minute="68" period="2" second="4" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko is substituted off" minute="67" period="2" second="27" time="69" type="substitution off" type_id="18"/>
+	<message comment="Carlos Tevez is substituted on" minute="67" period="2" second="27" time="69" type="substitution on" type_id="19"/>
+	<message comment="Gervinho misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="65" period="2" second="56" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Javi García has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="55" period="2" second="16" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Standing)" minute="55" period="2" second="16" time="57" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="54" period="2" second="41" time="56" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="53" period="2" second="11" time="55" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="9" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Gibbs blocks a shot" minute="53" period="2" second="9" time="55" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta misses attempt (To the right, Out of box, Left footed, From corner)" minute="50" period="2" second="44" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="50" period="2" second="15" time="52" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Right footed, Set piece)" minute="49" period="2" second="5" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Gervinho wins a corner (To the left)" minute="46" period="2" second="46" time="48" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (To the left, Out of box, Right footed, Open play)" minute="45" period="2" second="41" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Gervinho is caught offside" minute="45" period="2" time="47" type="offside" type_id="10000"/>
+	<message comment="Scott Sinclair is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Jack Rodwell is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Santi Cazorla misses attempt (To the right, Out of box, Right footed, Open play)" minute="42" period="1" second="58" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="41" period="1" second="1" time="41" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has attempt saved (High to the centre, Out of box, Left footed, Fast break)" minute="40" period="1" second="54" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Diving)" minute="40" period="1" second="54" time="40" type="save made" type_id="10"/>
+	<message comment="GOAL! Joleon Lescott scores , Assisted by David Silva (High to the left, 18-yard box, Big Chance, Head, From corner)" minute="39" period="1" second="17" time="39" type="goal scored" type_id="16"/>
+	<message comment="Gaël Clichy wins a corner (To the right)" minute="38" period="1" second="51" time="38" type="corner" type_id="6"/>
+	<message comment="Gervinho misses attempt (18-yard box, Right footed, Open play)" minute="35" period="1" second="55" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré has shot blocked (Out of box, Right footed, Open play)" minute="33" period="1" second="34" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Mikel Arteta blocks a shot" minute="33" period="1" second="34" time="33" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="33" period="1" second="3" time="33" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="33" period="1" second="3" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="31" period="1" second="39" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Gibbs blocks a shot" minute="31" period="1" second="39" time="31" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="30" period="1" second="35" time="30" type="corner" type_id="6"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="24" period="1" second="40" time="24" type="corner" type_id="6"/>
+	<message comment="Lukas Podolski misses attempt (High, 18-yard box, Right footed, Fast break)" minute="23" period="1" second="36" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Joleon Lescott blocks a shot" minute="21" period="1" second="48" time="21" type="save made" type_id="10"/>
+	<message comment="Abou Diaby has shot blocked (Out of box, Right footed, Open play)" minute="21" period="1" second="48" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="13" period="1" second="48" time="13" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="13" period="1" second="38" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe, Standing)" minute="13" period="1" second="38" time="13" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (Out of box, Right footed, Open play)" minute="9" period="1" second="28" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Mikel Arteta blocks a shot" minute="9" period="1" second="28" time="9" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="8" period="1" second="38" time="8" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="8" period="1" second="38" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

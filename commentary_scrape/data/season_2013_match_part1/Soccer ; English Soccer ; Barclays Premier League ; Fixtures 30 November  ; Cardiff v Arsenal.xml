@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2013-11-30 15:00" game_id_2="27105795" game_id_4="112055081" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-30 16:35:07" minute="95" period="2" second="3" team="Arsenal" time="100" type="end" type_id="30"/>
+	<message comment="Theo Walcott wins a corner (To the right)" last_modified="2013-11-30 16:34:47" minute="94" period="2" second="43" team="Cardiff" time="99" type="corner" type_id="6"/>
+	<message comment="GOAL! Aaron Ramsey scores , Assisted by Theo Walcott (High to the right, 18-yard box, Big Chance, Right footed, Fast break)" last_modified="2013-11-30 16:32:04" minute="92" period="2" second="0" team="Cardiff" time="97" type="goal scored" type_id="16"/>
+	<message comment="Mesut Özil is substituted off" last_modified="2013-11-30 16:30:29" minute="90" period="2" second="25" team="Cardiff" time="95" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" last_modified="2013-11-30 16:30:29" minute="90" period="2" second="25" team="Cardiff" time="95" type="substitution on" type_id="19"/>
+	<message comment="Aaron Ramsey is caught offside" last_modified="2013-11-30 16:30:04" minute="90" period="2" team="Cardiff" time="95" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey recieves a yellow card" last_modified="2013-11-30 16:28:28" minute="88" period="2" second="24" team="Cardiff" time="93" type="card received" type_id="17"/>
+	<message comment="Andrew Taylor is substituted off" last_modified="2013-11-30 16:26:44" minute="86" period="2" second="40" team="Arsenal" time="91" type="substitution off" type_id="18"/>
+	<message comment="Andreas Cornelius is substituted on" last_modified="2013-11-30 16:26:44" minute="86" period="2" second="40" team="Arsenal" time="91" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Mathieu Flamini scores , Assisted by Mesut Özil (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 16:25:32" minute="85" period="2" second="28" team="Cardiff" time="90" type="goal scored" type_id="16"/>
+	<message comment="Nacho Monreal misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-11-30 16:24:10" minute="84" period="2" second="6" team="Cardiff" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Don Cowie has attempt saved (Low to the right, Out of box, Right footed, Set piece)" last_modified="2013-11-30 16:23:28" minute="83" period="2" second="24" team="Arsenal" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Collected)" last_modified="2013-11-30 16:23:28" minute="83" period="2" second="24" team="Cardiff" time="88" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-11-30 16:20:59" minute="80" period="2" second="55" team="Cardiff" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere is substituted off" last_modified="2013-11-30 16:20:38" minute="80" period="2" second="34" team="Cardiff" time="85" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" last_modified="2013-11-30 16:20:38" minute="80" period="2" second="34" team="Cardiff" time="85" type="substitution on" type_id="19"/>
+	<message comment="Ben Turner is caught offside" last_modified="2013-11-30 16:19:04" minute="79" period="2" team="Arsenal" time="84" type="offside" type_id="10000"/>
+	<message comment="Mikel Arteta recieves a yellow card" last_modified="2013-11-30 16:18:49" minute="78" period="2" second="45" team="Cardiff" time="83" type="card received" type_id="17"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-11-30 16:18:16" minute="78" period="2" second="12" team="Arsenal" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" last_modified="2013-11-30 16:18:16" minute="78" period="2" second="12" team="Cardiff" time="83" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla is substituted off" last_modified="2013-11-30 16:16:42" minute="76" period="2" second="38" team="Cardiff" time="81" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" last_modified="2013-11-30 16:16:42" minute="76" period="2" second="38" team="Cardiff" time="81" type="substitution on" type_id="19"/>
+	<message comment="Kim Bo-Kyung is substituted off" last_modified="2013-11-30 16:15:04" minute="75" period="2" second="0" team="Arsenal" time="80" type="substitution off" type_id="18"/>
+	<message comment="Craig Noone is substituted on" last_modified="2013-11-30 16:15:04" minute="75" period="2" second="0" team="Arsenal" time="80" type="substitution on" type_id="19"/>
+	<message comment="David Marshall makes a save (Collected)" last_modified="2013-11-30 16:07:55" minute="67" period="2" second="51" team="Arsenal" time="72" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-11-30 16:07:55" minute="67" period="2" second="51" team="Cardiff" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" last_modified="2013-11-30 16:07:04" minute="67" period="2" team="Arsenal" time="72" type="offside" type_id="10000"/>
+	<message comment="Fraizer Campbell is substituted off" last_modified="2013-11-30 16:04:14" minute="64" period="2" second="10" team="Arsenal" time="69" type="substitution off" type_id="18"/>
+	<message comment="Peter Odemwingie is substituted on" last_modified="2013-11-30 16:04:14" minute="64" period="2" second="10" team="Arsenal" time="69" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (High to the left, 18-yard box, Left footed, Fast break)" last_modified="2013-11-30 16:03:26" minute="63" period="2" second="22" team="Cardiff" time="68" type="attempt missed" type_id="13"/>
+	<message comment="David Marshall makes a save (Standing)" last_modified="2013-11-30 15:57:29" minute="57" period="2" second="25" team="Arsenal" time="62" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2013-11-30 15:57:29" minute="57" period="2" second="25" team="Cardiff" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-11-30 15:54:32" minute="54" period="2" second="28" team="Arsenal" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Collected)" last_modified="2013-11-30 15:54:32" minute="54" period="2" second="28" team="Cardiff" time="59" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-30 15:53:05" minute="53" period="2" second="1" team="Arsenal" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Mikel Arteta blocks a shot" last_modified="2013-11-30 15:53:05" minute="53" period="2" second="1" team="Cardiff" time="58" type="save made" type_id="10"/>
+	<message comment="Peter Whittingham misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-11-30 15:51:55" minute="51" period="2" second="51" team="Arsenal" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Kévin Théophile-Catherine has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-30 15:51:45" minute="51" period="2" second="41" team="Arsenal" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2013-11-30 15:51:45" minute="51" period="2" second="41" team="Cardiff" time="56" type="save made" type_id="10"/>
+	<message comment="Kim Bo-Kyung wins a corner (To the left)" last_modified="2013-11-30 15:50:36" minute="50" period="2" second="32" team="Arsenal" time="55" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Open play)" last_modified="2013-11-30 15:50:31" minute="50" period="2" second="27" team="Arsenal" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" last_modified="2013-11-30 15:50:31" minute="50" period="2" second="27" team="Cardiff" time="55" type="save made" type_id="10"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" last_modified="2013-11-30 15:47:09" minute="47" period="2" second="5" team="Cardiff" time="52" type="corner" type_id="6"/>
+	<message comment="Ben Turner blocks a shot (Last line)" last_modified="2013-11-30 15:46:14" minute="46" period="2" second="10" team="Arsenal" time="51" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-30 15:46:14" minute="46" period="2" second="10" team="Cardiff" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-11-30 15:45:04" minute="45" period="2" second="0" team="Arsenal" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-30 15:49:08" minute="49" period="1" second="4" team="Arsenal" time="49" type="end" type_id="30"/>
+	<message comment="Peter Whittingham wins a corner (To the left)" last_modified="2013-11-30 15:46:29" minute="46" period="1" second="25" team="Arsenal" time="46" type="corner" type_id="6"/>
+	<message comment="Aaron Ramsey misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 15:45:18" minute="45" period="1" second="14" team="Cardiff" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2013-11-30 15:39:50" minute="39" period="1" second="46" team="Cardiff" time="39" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-11-30 15:39:49" minute="39" period="1" second="45" team="Cardiff" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner blocks a shot" last_modified="2013-11-30 15:39:49" minute="39" period="1" second="45" team="Arsenal" time="39" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch misses attempt (To the right, 6-yard box, Right footed, Set piece)" last_modified="2013-11-30 15:33:24" minute="33" period="1" second="20" team="Arsenal" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Kim Bo-Kyung misses attempt (To the left, 18-yard box, Key pass, Right footed, Set piece)" last_modified="2013-11-30 15:33:22" minute="33" period="1" second="18" team="Arsenal" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Gibbs recieves a yellow card" last_modified="2013-11-30 15:32:42" minute="32" period="1" second="38" team="Cardiff" time="32" type="card received" type_id="17"/>
+	<message comment="GOAL! Aaron Ramsey scores , Assisted by Mesut Özil (High to the right, 18-yard box, Head, Open play)" last_modified="2013-11-30 15:28:29" minute="28" period="1" second="25" team="Cardiff" time="28" type="goal scored" type_id="16"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2013-11-30 15:24:46" minute="24" period="1" second="42" team="Arsenal" time="24" type="save made" type_id="10"/>
+	<message comment="Mikel Arteta has shot blocked (Out of box, Right footed, Set piece)" last_modified="2013-11-30 15:24:46" minute="24" period="1" second="42" team="Cardiff" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Medel blocks a shot" last_modified="2013-11-30 15:22:02" minute="21" period="1" second="58" team="Arsenal" time="21" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-30 15:22:02" minute="21" period="1" second="58" team="Cardiff" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2013-11-30 15:16:34" minute="16" period="1" second="30" team="Arsenal" time="16" type="corner" type_id="6"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2013-11-30 15:14:45" minute="14" period="1" second="41" team="Arsenal" time="14" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-30 15:14:45" minute="14" period="1" second="41" team="Cardiff" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-11-30 15:00:04" minute="0" period="14" second="0" team="Arsenal" time="10" type="end" type_id="30"/>
+	<message comment="Fraizer Campbell misses attempt (18-yard box, Head, Open play)" last_modified="2013-11-30 15:09:43" minute="9" period="1" second="39" team="Arsenal" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere hits the woodwork (High, Out of box, Left footed, Open play)" last_modified="2013-11-30 15:01:07" minute="1" period="1" second="3" team="Cardiff" time="1" type="woodwork hit" type_id="14"/>
+	<message comment="First half begins!" last_modified="2013-11-30 15:00:04" minute="0" period="1" second="0" team="Arsenal" time="0" type="start" type_id="32"/>
+</Commentary>

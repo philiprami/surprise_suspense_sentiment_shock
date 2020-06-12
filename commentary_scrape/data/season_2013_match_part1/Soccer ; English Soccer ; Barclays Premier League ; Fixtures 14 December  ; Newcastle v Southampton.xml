@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle" competition="English Premier League" game_date="2013-12-14 15:00" game_id_2="27112902" game_id_4="112155004" home_team_name="Southampton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-14 16:38:17" minute="97" period="2" second="50" team="Southampton" time="99" type="end" type_id="30"/>
+	<message comment="Mike Williamson misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-12-14 16:38:12" minute="97" period="2" second="45" team="Southampton" time="99" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy wins a corner (To the right)" last_modified="2013-12-14 16:37:57" minute="97" period="2" second="30" team="Southampton" time="99" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez is substituted off" last_modified="2013-12-14 16:36:56" minute="96" period="2" second="29" team="Newcastle" time="98" type="substitution off" type_id="18"/>
+	<message comment="Sam Gallagher is substituted on" last_modified="2013-12-14 16:36:56" minute="96" period="2" second="29" team="Newcastle" time="98" type="substitution on" type_id="19"/>
+	<message comment="Massadio Haidara has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-12-14 16:36:07" minute="95" period="2" second="40" team="Southampton" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Standing)" last_modified="2013-12-14 16:36:07" minute="95" period="2" second="40" team="Newcastle" time="97" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" last_modified="2013-12-14 16:35:43" minute="95" period="2" second="16" team="Southampton" time="97" type="corner" type_id="6"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" last_modified="2013-12-14 16:33:38" minute="93" period="2" second="11" team="Newcastle" time="95" type="card received" type_id="17"/>
+	<message comment="Papiss Demba Cissé is caught offside" last_modified="2013-12-14 16:32:27" minute="92" period="2" team="Southampton" time="94" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-14 16:27:25" minute="86" period="2" second="58" team="Southampton" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren blocks a shot" last_modified="2013-12-14 16:27:25" minute="86" period="2" second="58" team="Newcastle" time="88" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko is caught offside" last_modified="2013-12-14 16:25:27" minute="85" period="2" team="Southampton" time="87" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the left)" last_modified="2013-12-14 16:23:32" minute="83" period="2" second="5" team="Southampton" time="85" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-14 16:20:54" minute="80" period="2" second="27" team="Southampton" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2013-12-14 16:19:27" minute="79" period="2" team="Newcastle" time="81" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" last_modified="2013-12-14 16:19:18" minute="78" period="2" second="51" team="Southampton" time="80" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" last_modified="2013-12-14 16:19:04" minute="78" period="2" second="37" team="Southampton" time="80" type="corner" type_id="6"/>
+	<message comment="Davide Santon is substituted off" last_modified="2013-12-14 16:17:42" minute="77" period="2" second="15" team="Southampton" time="79" type="substitution off" type_id="18"/>
+	<message comment="Massadio Haidara is substituted on" last_modified="2013-12-14 16:17:42" minute="77" period="2" second="15" team="Southampton" time="79" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté blocks a shot" last_modified="2013-12-14 16:15:57" minute="75" period="2" second="30" team="Southampton" time="77" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 16:15:57" minute="75" period="2" second="30" team="Newcastle" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2013-12-14 16:13:27" minute="73" period="2" team="Newcastle" time="75" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-14 16:13:06" minute="72" period="2" second="39" team="Newcastle" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran is substituted off" last_modified="2013-12-14 16:12:37" minute="72" period="2" second="10" team="Southampton" time="74" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" last_modified="2013-12-14 16:12:37" minute="72" period="2" second="10" team="Southampton" time="74" type="substitution on" type_id="19"/>
+	<message comment="Loïc Rémy misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-14 16:12:09" minute="71" period="2" second="42" team="Southampton" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" last_modified="2013-12-14 16:11:41" minute="71" period="2" second="14" team="Southampton" time="73" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the centre, 6-yard box, Head, From corner)" last_modified="2013-12-14 16:11:41" minute="71" period="2" second="14" team="Newcastle" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" last_modified="2013-12-14 16:11:10" minute="70" period="2" second="43" team="Newcastle" time="72" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté blocks a shot" last_modified="2013-12-14 16:11:07" minute="70" period="2" second="40" team="Southampton" time="72" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 16:11:07" minute="70" period="2" second="40" team="Newcastle" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Yoan Gouffran is caught offside" last_modified="2013-12-14 16:09:27" minute="69" period="2" team="Southampton" time="71" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-14 16:09:16" minute="68" period="2" second="49" team="Southampton" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Diving)" last_modified="2013-12-14 16:09:16" minute="68" period="2" second="49" team="Newcastle" time="70" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" last_modified="2013-12-14 16:08:32" minute="68" period="2" second="5" team="Southampton" time="70" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-14 16:06:41" minute="66" period="2" second="14" team="Southampton" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté recieves a yellow card" last_modified="2013-12-14 16:05:47" minute="65" period="2" second="20" team="Southampton" time="67" type="card received" type_id="17"/>
+	<message comment="GOAL! Jay Rodriguez scores , Assisted by Steven Davis (Low to the left, 18-yard box, Big Chance, Right footed, Fast break)" last_modified="2013-12-14 16:05:22" minute="64" period="2" second="55" team="Newcastle" time="66" type="goal scored" type_id="16"/>
+	<message comment="Jack Cork recieves a yellow card" last_modified="2013-12-14 16:04:20" minute="63" period="2" second="53" team="Newcastle" time="65" type="card received" type_id="17"/>
+	<message comment="Steven Davis hits the woodwork (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-14 16:03:37" minute="63" period="2" second="10" team="Newcastle" time="65" type="woodwork hit" type_id="14"/>
+	<message comment="Shola Ameobi is substituted off" last_modified="2013-12-14 16:00:32" minute="60" period="2" second="5" team="Southampton" time="62" type="substitution off" type_id="18"/>
+	<message comment="Papiss Demba Cissé is substituted on" last_modified="2013-12-14 16:00:32" minute="60" period="2" second="5" team="Southampton" time="62" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi misses attempt (To the left, 18-yard box, Head, From corner)" last_modified="2013-12-14 15:57:55" minute="57" period="2" second="28" team="Southampton" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy wins a corner (To the right)" last_modified="2013-12-14 15:57:21" minute="56" period="2" second="54" team="Southampton" time="58" type="corner" type_id="6"/>
+	<message comment="Loïc Rémy has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 15:57:16" minute="56" period="2" second="49" team="Southampton" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers blocks a shot" last_modified="2013-12-14 15:57:16" minute="56" period="2" second="49" team="Newcastle" time="58" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2013-12-14 15:56:27" minute="56" period="2" team="Newcastle" time="58" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy has attempt saved (Low to the right, Out of box, Right footed, Set piece)" last_modified="2013-12-14 15:54:53" minute="54" period="2" second="26" team="Southampton" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Collected)" last_modified="2013-12-14 15:54:53" minute="54" period="2" second="26" team="Newcastle" time="56" type="save made" type_id="10"/>
+	<message comment="Adam Lallana is caught offside" last_modified="2013-12-14 15:48:27" minute="48" period="2" team="Newcastle" time="50" type="offside" type_id="10000"/>
+	<message comment="Moussa Sissoko is caught offside" last_modified="2013-12-14 15:45:27" minute="45" period="2" team="Southampton" time="47" type="offside" type_id="10000"/>
+	<message comment="Daniel Osvaldo is substituted off" last_modified="2013-12-14 15:45:27" minute="45" period="2" second="0" team="Newcastle" time="47" type="substitution off" type_id="18"/>
+	<message comment="Adam Lallana is substituted on" last_modified="2013-12-14 15:45:27" minute="45" period="2" second="0" team="Newcastle" time="47" type="substitution on" type_id="19"/>
+	<message comment="James Ward-Prowse is substituted off" last_modified="2013-12-14 15:45:27" minute="45" period="2" second="0" team="Newcastle" time="47" type="substitution off" type_id="18"/>
+	<message comment="Morgan Schneiderlin is substituted on" last_modified="2013-12-14 15:45:27" minute="45" period="2" second="0" team="Newcastle" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-12-14 15:45:27" minute="45" period="2" second="0" team="Southampton" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-14 15:46:30" minute="46" period="1" second="3" team="Southampton" time="46" type="end" type_id="30"/>
+	<message comment="Daniel Osvaldo is caught offside" last_modified="2013-12-14 15:41:27" minute="41" period="1" team="Newcastle" time="41" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" last_modified="2013-12-14 15:36:19" minute="35" period="1" second="52" team="Newcastle" time="35" type="corner" type_id="6"/>
+	<message comment="Davide Santon misses attempt (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-12-14 15:34:41" minute="34" period="1" second="14" team="Southampton" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi misses attempt (To the left, Out of box, Head, Set piece)" last_modified="2013-12-14 15:32:46" minute="32" period="1" second="19" team="Southampton" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran is caught offside" last_modified="2013-12-14 15:30:27" minute="30" period="1" team="Southampton" time="30" type="offside" type_id="10000"/>
+	<message comment="GOAL! Yoan Gouffran scores  (Low to the centre, 6-yard box, Big Chance, Left footed, Set piece)" last_modified="2013-12-14 15:27:26" minute="26" period="1" second="59" team="Southampton" time="26" type="goal scored" type_id="16"/>
+	<message comment="Shola Ameobi is caught offside" last_modified="2013-12-14 15:25:27" minute="25" period="1" team="Southampton" time="25" type="offside" type_id="10000"/>
+	<message comment="Daniel Osvaldo is caught offside" last_modified="2013-12-14 15:17:27" minute="17" period="1" team="Newcastle" time="17" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" last_modified="2013-12-14 15:16:12" minute="15" period="1" second="45" team="Newcastle" time="15" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save" last_modified="2013-12-14 15:15:40" minute="15" period="1" second="13" team="Southampton" time="15" type="save made" type_id="10"/>
+	<message comment="James Ward-Prowse has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-12-14 15:15:40" minute="15" period="1" second="13" team="Newcastle" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita wins a corner (To the right)" last_modified="2013-12-14 15:12:23" minute="11" period="1" second="56" team="Southampton" time="11" type="corner" type_id="6"/>
+	<message comment="Vurnon Anita has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 15:12:15" minute="11" period="1" second="48" team="Southampton" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis blocks a shot" last_modified="2013-12-14 15:12:15" minute="11" period="1" second="48" team="Newcastle" time="11" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-14 15:12:12" minute="11" period="1" second="45" team="Southampton" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers blocks a shot (Last line)" last_modified="2013-12-14 15:12:12" minute="11" period="1" second="45" team="Newcastle" time="11" type="save made" type_id="10"/>
+	<message comment="Mike Williamson blocks a shot" last_modified="2013-12-14 15:10:59" minute="10" period="1" second="32" team="Southampton" time="10" type="save made" type_id="10"/>
+	<message comment="Daniel Osvaldo has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-14 15:10:59" minute="10" period="1" second="32" team="Newcastle" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-12-14 15:00:27" minute="0" period="14" second="0" team="Southampton" time="9" type="end" type_id="30"/>
+	<message comment="Shola Ameobi is caught offside" last_modified="2013-12-14 15:06:27" minute="6" period="1" team="Southampton" time="6" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy misses attempt (To the right, Out of box, Right footed, From corner)" last_modified="2013-12-14 15:05:11" minute="4" period="1" second="44" team="Southampton" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" last_modified="2013-12-14 15:04:38" minute="4" period="1" second="11" team="Southampton" time="4" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" last_modified="2013-12-14 15:02:59" minute="2" period="1" second="32" team="Southampton" time="2" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko wins a corner (To the right)" last_modified="2013-12-14 15:01:19" minute="0" period="1" second="52" team="Southampton" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-14 15:00:27" minute="0" period="1" second="0" team="Southampton" time="0" type="start" type_id="32"/>
+</Commentary>

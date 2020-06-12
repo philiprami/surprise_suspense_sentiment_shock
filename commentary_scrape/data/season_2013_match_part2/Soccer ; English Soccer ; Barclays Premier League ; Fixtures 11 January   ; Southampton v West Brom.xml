@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2014-01-11 15:00" game_id_2="27123747" game_id_4="112355377" home_team_name="West Brom" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-11 16:33:59" minute="93" period="2" second="42" team="West Brom" time="95" type="end" type_id="30"/>
+	<message comment="Chris Brunt wins a corner (To the left)" last_modified="2014-01-11 16:33:39" minute="93" period="2" second="22" team="Southampton" time="95" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez is substituted off" last_modified="2014-01-11 16:31:17" minute="91" period="2" second="0" team="West Brom" time="93" type="substitution off" type_id="18"/>
+	<message comment="Guly do Prado is substituted on" last_modified="2014-01-11 16:31:17" minute="91" period="2" second="0" team="West Brom" time="93" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Collected, Standing)" last_modified="2014-01-11 16:29:22" minute="89" period="2" second="5" team="Southampton" time="91" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the centre, Out of box, Left footed, Fast break)" last_modified="2014-01-11 16:29:22" minute="89" period="2" second="5" team="West Brom" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Matej Vydra is caught offside" last_modified="2014-01-11 16:29:17" minute="89" period="2" team="Southampton" time="91" type="offside" type_id="10000"/>
+	<message comment="Shane Long has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-11 16:29:10" minute="88" period="2" second="53" team="Southampton" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Parried into danger, Diving)" last_modified="2014-01-11 16:29:10" minute="88" period="2" second="53" team="West Brom" time="90" type="save made" type_id="10"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:28:09" minute="87" period="2" second="52" team="Southampton" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Matej Vydra wins a corner (To the left)" last_modified="2014-01-11 16:27:12" minute="86" period="2" second="55" team="Southampton" time="88" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano is substituted off" last_modified="2014-01-11 16:26:03" minute="85" period="2" second="46" team="Southampton" time="87" type="substitution off" type_id="18"/>
+	<message comment="Matej Vydra is substituted on" last_modified="2014-01-11 16:26:03" minute="85" period="2" second="46" team="Southampton" time="87" type="substitution on" type_id="19"/>
+	<message comment="Adam Lallana is substituted off" last_modified="2014-01-11 16:24:01" minute="83" period="2" second="44" team="West Brom" time="85" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" last_modified="2014-01-11 16:24:01" minute="83" period="2" second="44" team="West Brom" time="85" type="substitution on" type_id="19"/>
+	<message comment="Zoltán Gera wins a corner (To the right)" last_modified="2014-01-11 16:22:52" minute="82" period="2" second="35" team="Southampton" time="84" type="corner" type_id="6"/>
+	<message comment="Gastón Ramírez misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-11 16:22:04" minute="81" period="2" second="47" team="West Brom" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley is substituted off" last_modified="2014-01-11 16:20:34" minute="80" period="2" second="17" team="Southampton" time="82" type="substitution off" type_id="18"/>
+	<message comment="Zoltán Gera is substituted on" last_modified="2014-01-11 16:20:34" minute="80" period="2" second="17" team="Southampton" time="82" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2014-01-11 16:19:17" minute="79" period="2" team="West Brom" time="81" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka is substituted off" last_modified="2014-01-11 16:16:56" minute="76" period="2" second="39" team="Southampton" time="78" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" last_modified="2014-01-11 16:16:56" minute="76" period="2" second="39" team="Southampton" time="78" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2014-01-11 16:14:17" minute="74" period="2" team="Southampton" time="76" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez wins a corner (To the right)" last_modified="2014-01-11 16:13:30" minute="73" period="2" second="13" team="West Brom" time="75" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson recieves a yellow card" last_modified="2014-01-11 16:12:16" minute="71" period="2" second="59" team="Southampton" time="73" type="card received" type_id="17"/>
+	<message comment="Rickie Lambert is caught offside" last_modified="2014-01-11 16:07:17" minute="67" period="2" team="West Brom" time="69" type="offside" type_id="10000"/>
+	<message comment="Shane Long is caught offside" last_modified="2014-01-11 16:07:17" minute="67" period="2" team="Southampton" time="69" type="offside" type_id="10000"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Gastón Ramírez (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-11 16:06:15" minute="65" period="2" second="58" team="West Brom" time="67" type="goal scored" type_id="16"/>
+	<message comment="Ben Foster makes a save (Standing)" last_modified="2014-01-11 16:05:34" minute="65" period="2" second="17" team="Southampton" time="67" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the right, Out of box, Left footed, Free kick)" last_modified="2014-01-11 16:05:34" minute="65" period="2" second="17" team="West Brom" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Cork is substituted off" last_modified="2014-01-11 16:01:27" minute="61" period="2" second="10" team="West Brom" time="63" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" last_modified="2014-01-11 16:01:27" minute="61" period="2" second="10" team="West Brom" time="63" type="substitution on" type_id="19"/>
+	<message comment="Morgan Schneiderlin misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2014-01-11 16:01:06" minute="60" period="2" second="49" team="West Brom" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Gareth McAuley blocks a shot" last_modified="2014-01-11 16:00:27" minute="60" period="2" second="10" team="Southampton" time="62" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-01-11 16:00:27" minute="60" period="2" second="10" team="West Brom" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt is caught offside" last_modified="2014-01-11 15:59:17" minute="59" period="2" team="Southampton" time="61" type="offside" type_id="10000"/>
+	<message comment="Shane Long recieves a yellow card" last_modified="2014-01-11 15:58:08" minute="57" period="2" second="51" team="Southampton" time="59" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2014-01-11 15:55:17" minute="55" period="2" team="Southampton" time="57" type="offside" type_id="10000"/>
+	<message comment="Steven Reid blocks a shot" last_modified="2014-01-11 15:52:30" minute="52" period="2" second="13" team="Southampton" time="54" type="save made" type_id="10"/>
+	<message comment="Steven Davis has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-11 15:52:30" minute="52" period="2" second="13" team="West Brom" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez misses attempt (To the right, Out of box, Right footed, Fast break)" last_modified="2014-01-11 15:50:50" minute="50" period="2" second="33" team="West Brom" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long has attempt saved (Low to the centre, 18-yard box, Head, Open play)" last_modified="2014-01-11 15:48:32" minute="48" period="2" second="15" team="Southampton" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save" last_modified="2014-01-11 15:48:32" minute="48" period="2" second="15" team="West Brom" time="50" type="save made" type_id="10"/>
+	<message comment="Morgan Schneiderlin misses attempt (18-yard box, Head, Open play)" last_modified="2014-01-11 15:46:43" minute="46" period="2" second="26" team="West Brom" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2014-01-11 15:45:17" minute="45" period="2" second="0" team="West Brom" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-11 15:46:26" minute="46" period="1" second="9" team="West Brom" time="46" type="end" type_id="30"/>
+	<message comment="Jay Rodriguez misses attempt (High, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:45:35" minute="45" period="1" second="18" team="West Brom" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (High, 18-yard box, Left footed, Open play)" last_modified="2014-01-11 15:43:18" minute="43" period="1" second="1" team="West Brom" time="43" type="attempt missed" type_id="13"/>
+	<message comment="James Morrison blocks a shot" last_modified="2014-01-11 15:43:00" minute="42" period="1" second="43" team="Southampton" time="42" type="save made" type_id="10"/>
+	<message comment="Jack Cork has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-11 15:43:00" minute="42" period="1" second="43" team="West Brom" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" last_modified="2014-01-11 15:41:20" minute="41" period="1" second="3" team="West Brom" time="41" type="corner" type_id="6"/>
+	<message comment="Shane Long is caught offside" last_modified="2014-01-11 15:40:17" minute="40" period="1" team="Southampton" time="40" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka blocks a shot" last_modified="2014-01-11 15:37:14" minute="36" period="1" second="57" team="Southampton" time="36" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Free kick)" last_modified="2014-01-11 15:37:14" minute="36" period="1" second="57" team="West Brom" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected)" last_modified="2014-01-11 15:34:27" minute="34" period="1" second="10" team="Southampton" time="34" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:34:27" minute="34" period="1" second="10" team="West Brom" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley is caught offside" last_modified="2014-01-11 15:28:17" minute="28" period="1" team="Southampton" time="28" type="offside" type_id="10000"/>
+	<message comment="Dejan Lovren recieves a yellow card" last_modified="2014-01-11 15:27:17" minute="27" period="1" second="0" team="West Brom" time="27" type="card received" type_id="17"/>
+	<message comment="Steven Reid misses attempt (High, Out of box, Right footed, Free kick)" last_modified="2014-01-11 15:26:32" minute="26" period="1" second="15" team="Southampton" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2014-01-11 15:17:17" minute="17" period="1" team="Southampton" time="17" type="offside" type_id="10000"/>
+	<message comment="Jack Cork misses attempt (To the left, Out of box, Right footed, From corner)" last_modified="2014-01-11 15:17:14" minute="16" period="1" second="57" team="West Brom" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the left)" last_modified="2014-01-11 15:17:01" minute="16" period="1" second="44" team="West Brom" time="16" type="corner" type_id="6"/>
+	<message comment="Luke Shaw wins a corner (To the left)" last_modified="2014-01-11 15:16:36" minute="16" period="1" second="19" team="West Brom" time="16" type="corner" type_id="6"/>
+	<message comment="Steven Davis misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:12:55" minute="12" period="1" second="38" team="West Brom" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2014-01-11 15:11:17" minute="11" period="1" team="West Brom" time="11" type="offside" type_id="10000"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2014-01-11 15:10:32" minute="10" period="1" second="15" team="Southampton" time="10" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2014-01-11 15:09:12" minute="8" period="1" second="55" team="West Brom" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-01-11 15:07:46" minute="7" period="1" second="29" team="West Brom" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" last_modified="2014-01-11 15:07:46" minute="7" period="1" second="29" team="Southampton" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" last_modified="2014-01-11 15:00:17" minute="0" period="14" second="0" team="West Brom" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" last_modified="2014-01-11 15:00:17" minute="0" period="1" second="0" team="West Brom" time="0" type="start" type_id="32"/>
+</Commentary>

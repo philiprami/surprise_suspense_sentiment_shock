@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-09-28" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="22" time="97" type="end" type_id="30"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the right, 18-yard box, Head, From corner)" minute="94" period="2" second="34" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="94" period="2" second="16" time="96" type="corner" type_id="6"/>
+	<message comment="Karim El Ahmadi has shot blocked (Out of box, Right footed, Open play)" minute="92" period="2" second="5" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Matija Nastasic blocks a shot" minute="92" period="2" second="5" time="94" type="save made" type_id="10"/>
+	<message comment="Stevan Jovetic has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="81" period="2" second="50" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save" minute="81" period="2" second="50" time="83" type="save made" type_id="10"/>
+	<message comment="Ron Vlaar blocks a shot" minute="81" period="2" second="48" time="83" type="save made" type_id="10"/>
+	<message comment="Stevan Jovetic has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="48" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Andreas Weimann is substituted off" minute="79" period="2" second="5" time="81" type="substitution off" type_id="18"/>
+	<message comment="Jordan Bowery is substituted on" minute="79" period="2" second="5" time="81" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Andreas Weimann scores , Assisted by Brad Guzan (Low to the centre, Out of box, Big Chance, Right footed, Open play)" minute="74" period="2" second="55" time="76" type="goal scored" type_id="16"/>
+	<message comment="Brad Guzan makes a save (Parried into danger)" minute="74" period="2" second="42" time="76" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="74" period="2" second="42" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko is substituted off" minute="73" period="2" second="30" time="75" type="substitution off" type_id="18"/>
+	<message comment="Stevan Jovetic is substituted on" minute="73" period="2" second="30" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Leandro Bacuna scores  (High to the left, Out of box, Right footed, Free kick)" minute="72" period="2" second="36" time="74" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="70" period="2" second="10" time="72" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Ron Vlaar has attempt saved (Low to the centre, 18-yard box, Right footed, Set piece)" minute="67" period="2" second="20" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing, Collected)" minute="67" period="2" second="20" time="69" type="save made" type_id="10"/>
+	<message comment="Samir Nasri is substituted off" minute="65" period="2" second="29" time="67" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="65" period="2" second="29" time="67" type="substitution on" type_id="19"/>
+	<message comment="Pablo Zabaleta has shot blocked (18-yard box, Right footed, Open play)" minute="60" period="2" second="54" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Ciaran Clark blocks a shot" minute="60" period="2" second="54" time="62" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Head, Set piece)" minute="59" period="2" second="51" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Yacouba Sylla recieves a yellow card" minute="59" period="2" second="8" time="61" type="card received" type_id="17"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving)" minute="58" period="2" second="2" time="60" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has attempt saved (Low to the centre, Out of box, Right footed, From corner)" minute="58" period="2" second="2" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="57" period="2" second="16" time="59" type="corner" type_id="6"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Samir Nasri (Low to the right, 6-yard box, Head, From corner)" minute="55" period="2" second="58" time="57" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="55" period="2" second="35" time="57" type="corner" type_id="6"/>
+	<message comment="Fabian Delph wins a corner (To the left)" minute="54" period="2" second="1" time="56" type="corner" type_id="6"/>
+	<message comment="Samir Nasri recieves a yellow card" minute="53" period="2" second="16" time="55" type="card received" type_id="17"/>
+	<message comment="GOAL! Karim El Ahmadi scores , Assisted by Leandro Bacuna (Low to the left, 18-yard box, Right footed, Open play)" minute="50" period="2" second="39" time="52" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov misses attempt (To the right, Out of box, Left footed, Open play)" minute="46" period="2" second="14" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Yaya Touré scores  (Low to the centre, 18-yard box, Right footed, From corner)" minute="44" period="1" second="6" time="44" type="goal scored" type_id="16"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="43" period="1" second="35" time="43" type="corner" type_id="6"/>
+	<message comment="Nathan Baker blocks a shot" minute="43" period="1" second="33" time="43" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (Out of box, Right footed, Open play)" minute="43" period="1" second="33" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the right)" minute="41" period="1" second="26" time="41" type="corner" type_id="6"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="41" period="1" second="3" time="41" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Standing, Parried into danger)" minute="39" period="1" second="12" time="39" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the centre, 6-yard box, Right footed, From corner)" minute="39" period="1" second="12" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="38" period="1" second="43" time="38" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Leandro Bacuna misses attempt (High to the left, Out of box, Left footed, Open play)" minute="31" period="1" second="14" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov misses attempt (To the left, Out of box, Left footed, Open play)" minute="29" period="1" second="4" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="27" period="1" second="2" time="27" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (High to the left, Out of box, Left footed, Open play)" minute="24" period="1" second="58" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Karim El Ahmadi misses attempt (Out of box, Right footed, Free kick)" minute="23" period="1" second="47" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="21" period="1" second="30" time="21" type="corner" type_id="6"/>
+	<message comment="Matija Nastasic misses attempt (To the left, 18-yard box, Head, From corner)" minute="18" period="1" second="36" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Fabian Delph blocks a shot" minute="18" period="1" second="17" time="18" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, From corner)" minute="18" period="1" second="17" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Fernandinho wins a corner (To the left)" minute="17" period="1" second="47" time="17" type="corner" type_id="6"/>
+	<message comment="Karim El Ahmadi blocks a shot" minute="15" period="1" second="12" time="15" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="12" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Head, From corner)" minute="13" period="1" second="49" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the right)" minute="13" period="1" second="24" time="13" type="corner" type_id="6"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="10" period="1" second="5" time="10" type="corner" type_id="6"/>
+	<message comment="Fabian Delph blocks a shot" minute="10" period="1" second="3" time="10" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Fast break)" minute="10" period="1" second="3" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Antonio Luna wins a corner (To the left)" minute="9" period="1" second="16" time="9" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Collected, Diving)" minute="8" period="1" second="2" time="8" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 6-yard box, Left footed, Open play)" minute="8" period="1" second="2" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Samir Nasri is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Leandro Bacuna misses attempt (To the right, Out of box, Left footed, Open play)" minute="4" period="1" second="32" time="4" type="attempt missed" type_id="13"/>
+	<message comment="James Milner misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="2" period="1" second="35" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

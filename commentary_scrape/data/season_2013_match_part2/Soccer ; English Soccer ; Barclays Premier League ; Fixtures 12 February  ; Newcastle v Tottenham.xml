@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle" competition="English Premier League" game_date="2014-02-12 19:45" game_id_2="27144211" game_id_4="112721541" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-12 21:18:35" minute="93" period="2" second="2" team="Tottenham" time="95" type="end" type_id="30"/>
+	<message comment="Andros Townsend wins a corner (To the right)" last_modified="2014-02-12 21:16:44" minute="91" period="2" second="11" team="Newcastle" time="93" type="corner" type_id="6"/>
+	<message comment="Paul Dummett blocks a shot" last_modified="2014-02-12 21:16:42" minute="91" period="2" second="9" team="Tottenham" time="93" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (18-yard box, Big Chance, Right footed, Fast break)" last_modified="2014-02-12 21:16:42" minute="91" period="2" second="9" team="Newcastle" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Nacer Chadli scores , Assisted by Nabil Bentaleb (High to the right, Out of box, Right footed, Open play)" last_modified="2014-02-12 21:12:44" minute="87" period="2" second="11" team="Newcastle" time="89" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save" last_modified="2014-02-12 21:12:09" minute="86" period="2" second="36" team="Tottenham" time="88" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-02-12 21:12:09" minute="86" period="2" second="36" team="Newcastle" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Marveaux has shot blocked (18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-02-12 21:11:42" minute="86" period="2" second="9" team="Tottenham" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen blocks a shot" last_modified="2014-02-12 21:11:42" minute="86" period="2" second="9" team="Newcastle" time="88" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor is substituted off" last_modified="2014-02-12 21:08:44" minute="83" period="2" second="11" team="Newcastle" time="85" type="substitution off" type_id="18"/>
+	<message comment="Roberto Soldado is substituted on" last_modified="2014-02-12 21:08:44" minute="83" period="2" second="11" team="Newcastle" time="85" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Emmanuel Adebayor scores  (High to the left, 18-yard box, Right footed, Open play)" last_modified="2014-02-12 21:07:25" minute="81" period="2" second="52" team="Newcastle" time="83" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Standing, Parried into danger)" last_modified="2014-02-12 21:07:23" minute="81" period="2" second="50" team="Tottenham" time="83" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-12 21:07:23" minute="81" period="2" second="50" team="Newcastle" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Nabil Bentaleb misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-02-12 21:06:17" minute="80" period="2" second="44" team="Newcastle" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Open play)" last_modified="2014-02-12 21:04:37" minute="79" period="2" second="4" team="Tottenham" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2014-02-12 21:04:37" minute="79" period="2" second="4" team="Newcastle" time="81" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko is caught offside" last_modified="2014-02-12 21:04:33" minute="79" period="2" team="Tottenham" time="81" type="offside" type_id="10000"/>
+	<message comment="Paul Dummett wins a corner (To the left)" last_modified="2014-02-12 21:04:24" minute="78" period="2" second="51" team="Tottenham" time="80" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon is substituted off" last_modified="2014-02-12 21:00:01" minute="74" period="2" second="28" team="Newcastle" time="76" type="substitution off" type_id="18"/>
+	<message comment="Nacer Chadli is substituted on" last_modified="2014-02-12 21:00:01" minute="74" period="2" second="28" team="Newcastle" time="76" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" last_modified="2014-02-12 20:58:50" minute="73" period="2" second="17" team="Tottenham" time="75" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy has attempt saved (High to the centre, 18-yard box, Head, From corner)" last_modified="2014-02-12 20:58:44" minute="73" period="2" second="11" team="Tottenham" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2014-02-12 20:58:44" minute="73" period="2" second="11" team="Newcastle" time="75" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" last_modified="2014-02-12 20:58:04" minute="72" period="2" second="31" team="Tottenham" time="74" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:57:56" minute="72" period="2" second="23" team="Tottenham" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" last_modified="2014-02-12 20:57:56" minute="72" period="2" second="23" team="Newcastle" time="74" type="save made" type_id="10"/>
+	<message comment="Sammy Ameobi is substituted off" last_modified="2014-02-12 20:55:48" minute="70" period="2" second="15" team="Tottenham" time="72" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" last_modified="2014-02-12 20:55:48" minute="70" period="2" second="15" team="Tottenham" time="72" type="substitution on" type_id="19"/>
+	<message comment="Paul Dummett misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:54:44" minute="69" period="2" second="11" team="Tottenham" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Debuchy has shot blocked (18-yard box, Head, From corner)" last_modified="2014-02-12 20:50:45" minute="65" period="2" second="12" team="Tottenham" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Etienne Capoue blocks a shot" last_modified="2014-02-12 20:50:45" minute="65" period="2" second="12" team="Newcastle" time="67" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the left)" last_modified="2014-02-12 20:50:17" minute="64" period="2" second="44" team="Tottenham" time="66" type="corner" type_id="6"/>
+	<message comment="Andros Townsend is substituted on" last_modified="2014-02-12 20:48:59" minute="63" period="2" second="26" team="Newcastle" time="65" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé is substituted off" last_modified="2014-02-12 20:48:58" minute="63" period="2" second="25" team="Newcastle" time="65" type="substitution off" type_id="18"/>
+	<message comment="Luuk de Jong is substituted off" last_modified="2014-02-12 20:47:43" minute="62" period="2" second="10" team="Tottenham" time="64" type="substitution off" type_id="18"/>
+	<message comment="Hatem Ben Arfa is substituted on" last_modified="2014-02-12 20:47:43" minute="62" period="2" second="10" team="Tottenham" time="64" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" last_modified="2014-02-12 20:43:03" minute="57" period="2" second="30" team="Tottenham" time="59" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" last_modified="2014-02-12 20:41:07" minute="55" period="2" second="34" team="Newcastle" time="57" type="corner" type_id="6"/>
+	<message comment="Paul Dummett blocks a shot" last_modified="2014-02-12 20:41:02" minute="55" period="2" second="29" team="Tottenham" time="57" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:41:02" minute="55" period="2" second="29" team="Newcastle" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Paulinho scores  (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-02-12 20:38:13" minute="52" period="2" second="40" team="Newcastle" time="54" type="goal scored" type_id="16"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" last_modified="2014-02-12 20:38:11" minute="52" period="2" second="38" team="Tottenham" time="54" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:38:11" minute="52" period="2" second="38" team="Newcastle" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Davide Santon is substituted off" last_modified="2014-02-12 20:30:33" minute="45" period="2" second="0" team="Tottenham" time="47" type="substitution off" type_id="18"/>
+	<message comment="Paul Dummett is substituted on" last_modified="2014-02-12 20:30:33" minute="45" period="2" second="0" team="Tottenham" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-02-12 20:30:33" minute="45" period="2" second="0" team="Tottenham" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-12 20:31:35" minute="46" period="1" second="2" team="Tottenham" time="46" type="end" type_id="30"/>
+	<message comment="Davide Santon has attempt saved (Low to the centre, Out of box, Right footed, From corner)" last_modified="2014-02-12 20:30:45" minute="45" period="1" second="12" team="Tottenham" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" last_modified="2014-02-12 20:30:45" minute="45" period="1" second="12" team="Newcastle" time="45" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" last_modified="2014-02-12 20:30:24" minute="44" period="1" second="51" team="Tottenham" time="44" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:25:02" minute="39" period="1" second="29" team="Tottenham" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" last_modified="2014-02-12 20:22:56" minute="37" period="1" second="23" team="Tottenham" time="37" type="corner" type_id="6"/>
+	<message comment="Sammy Ameobi misses attempt (To the right, 18-yard box, Left footed, Set piece)" last_modified="2014-02-12 20:19:45" minute="34" period="1" second="12" team="Tottenham" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Naughton misses attempt (High, Out of box, Right footed, From corner)" last_modified="2014-02-12 20:16:34" minute="31" period="1" second="1" team="Newcastle" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" last_modified="2014-02-12 20:15:52" minute="30" period="1" second="19" team="Newcastle" time="30" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy blocks a shot" last_modified="2014-02-12 20:15:49" minute="30" period="1" second="16" team="Tottenham" time="30" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-12 20:15:49" minute="30" period="1" second="16" team="Newcastle" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:10:52" minute="25" period="1" second="19" team="Tottenham" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the left)" last_modified="2014-02-12 20:09:01" minute="23" period="1" second="28" team="Newcastle" time="23" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé is caught offside" last_modified="2014-02-12 20:06:33" minute="21" period="1" team="Tottenham" time="21" type="offside" type_id="10000"/>
+	<message comment="Sammy Ameobi has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:05:18" minute="19" period="1" second="45" team="Tottenham" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Younes Kaboul blocks a shot" last_modified="2014-02-12 20:05:18" minute="19" period="1" second="45" team="Newcastle" time="19" type="save made" type_id="10"/>
+	<message comment="GOAL! Emmanuel Adebayor scores  (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-02-12 20:03:47" minute="18" period="1" second="14" team="Newcastle" time="18" type="goal scored" type_id="16"/>
+	<message comment="Jan Vertonghen misses attempt (To the left, 18-yard box, Head, Set piece)" last_modified="2014-02-12 19:59:23" minute="13" period="1" second="50" team="Newcastle" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon wins a corner (To the left)" last_modified="2014-02-12 19:57:27" minute="11" period="1" second="54" team="Tottenham" time="11" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, Set piece)" last_modified="2014-02-12 19:52:49" minute="7" period="1" second="16" team="Tottenham" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried into danger)" last_modified="2014-02-12 19:52:49" minute="7" period="1" second="16" team="Newcastle" time="7" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé is caught offside" last_modified="2014-02-12 19:52:33" minute="7" period="1" team="Tottenham" time="7" type="offside" type_id="10000"/>
+	<message comment="Paulinho wins a corner (To the right)" last_modified="2014-02-12 19:50:47" minute="5" period="1" second="14" team="Newcastle" time="5" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" last_modified="2014-02-12 19:50:45" minute="5" period="1" second="12" team="Tottenham" time="5" type="save made" type_id="10"/>
+	<message comment="Paulinho has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-12 19:50:45" minute="5" period="1" second="12" team="Newcastle" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2014-02-12 19:45:33" minute="0" period="14" second="0" team="Tottenham" time="5" type="end" type_id="30"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the left)" last_modified="2014-02-12 19:49:56" minute="4" period="1" second="23" team="Newcastle" time="4" type="corner" type_id="6"/>
+	<message comment="Vurnon Anita blocks a shot" last_modified="2014-02-12 19:49:54" minute="4" period="1" second="21" team="Tottenham" time="4" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-02-12 19:49:54" minute="4" period="1" second="21" team="Newcastle" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Mathieu Debuchy misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 19:48:36" minute="3" period="1" second="3" team="Tottenham" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2014-02-12 19:45:33" minute="0" period="1" second="0" team="Tottenham" time="0" type="start" type_id="32"/>
+</Commentary>

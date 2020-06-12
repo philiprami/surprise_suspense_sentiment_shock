@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-11-02" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="7" time="95" type="end" type_id="30"/>
+	<message comment="Carl Jenkinson wins a corner (To the right)" minute="92" period="2" second="45" time="94" type="corner" type_id="6"/>
+	<message comment="Carl Jenkinson recieves a yellow card" minute="89" period="2" second="53" time="91" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Other body part)" minute="89" period="2" second="36" time="91" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="89" period="2" second="36" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="87" period="2" second="19" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla is substituted off" minute="83" period="2" second="51" time="85" type="substitution off" type_id="18"/>
+	<message comment="Carl Jenkinson is substituted on" minute="83" period="2" second="51" time="85" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho wins a corner (To the left)" minute="82" period="2" second="22" time="84" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the right, 6-yard box, Left footed, Open play)" minute="82" period="2" second="21" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried into danger, Diving, Other body part)" minute="82" period="2" second="21" time="84" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="81" period="2" second="52" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="81" period="2" second="52" time="83" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="80" period="2" second="44" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez is caught offside" minute="78" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Kieran Gibbs is substituted off" minute="77" period="2" second="49" time="79" type="substitution off" type_id="18"/>
+	<message comment="Thomas Vermaelen is substituted on" minute="77" period="2" second="49" time="79" type="substitution on" type_id="19"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="76" period="2" second="41" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Collected)" minute="76" period="2" second="41" time="78" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Diving, Collected)" minute="75" period="2" second="5" time="77" type="save made" type_id="10"/>
+	<message comment="Mesut Özil has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="75" period="2" second="5" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="72" period="2" second="58" time="74" type="corner" type_id="6"/>
+	<message comment="Kieran Gibbs blocks a shot" minute="72" period="2" second="56" time="74" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="72" period="2" second="56" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Mamadou Sakho wins a corner (To the left)" minute="72" period="2" second="26" time="74" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky is substituted off" minute="71" period="2" second="15" time="73" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" minute="71" period="2" second="15" time="73" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (High to the right, 18-yard box, Big Chance, Head, Open play)" minute="70" period="2" second="25" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Jon Flanagan is substituted off" minute="67" period="2" second="26" time="69" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="67" period="2" second="26" time="69" type="substitution on" type_id="19"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="63" period="2" second="25" time="65" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="63" period="2" second="24" time="65" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs has shot blocked (18-yard box, Right footed, Open play)" minute="63" period="2" second="24" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Mamadou Sakho wins a corner (To the left)" minute="62" period="2" second="22" time="64" type="corner" type_id="6"/>
+	<message comment="GOAL! Aaron Ramsey scores , Assisted by Mesut Özil (High to the left, Out of box, Right footed, Open play)" minute="58" period="2" second="36" time="60" type="goal scored" type_id="16"/>
+	<message comment="Simon Mignolet makes a save (Diving, Collected)" minute="56" period="2" second="49" time="58" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="56" period="2" second="49" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="54" period="2" second="44" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Jordan Henderson misses attempt (18-yard box, Right footed, Open play)" minute="49" period="2" second="27" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="48" period="2" second="26" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Aly Cissokho is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Philippe Coutinho is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Left footed, Open play)" minute="44" period="1" second="39" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is caught offside" minute="41" period="1" time="41" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="30" period="1" second="30" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Collected)" minute="30" period="1" second="30" time="30" type="save made" type_id="10"/>
+	<message comment="Aly Cissokho recieves a yellow card" minute="27" period="1" second="58" time="27" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried into danger)" minute="27" period="1" second="40" time="27" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="27" period="1" second="40" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna recieves a yellow card" minute="25" period="1" second="17" time="25" type="card received" type_id="17"/>
+	<message comment="Kolo Touré is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="Simon Mignolet makes a save (Diving, From shot off target)" minute="20" period="1" second="49" time="20" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Left footed, Open play)" minute="20" period="1" second="46" time="20" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Santi Cazorla scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="18" period="1" second="32" time="18" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla hits the woodwork (To the right, 18-yard box, Head, Open play)" minute="18" period="1" second="30" time="18" type="woodwork hit" type_id="14"/>
+	<message comment="Jordan Henderson has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="40" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky blocks a shot" minute="15" period="1" second="40" time="15" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="13" period="1" second="44" time="13" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="8" period="1" second="47" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky wins a corner (To the left)" minute="5" period="1" second="16" time="5" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="5" period="1" second="14" time="5" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="5" period="1" second="14" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

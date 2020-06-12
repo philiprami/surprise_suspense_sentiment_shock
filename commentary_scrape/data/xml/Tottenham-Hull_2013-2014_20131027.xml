@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-10-27" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="51" time="98" type="end" type_id="30"/>
+	<message comment="Tom Huddlestone misses attempt (Out of box, Right footed, Free kick)" minute="95" period="2" second="16" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend misses attempt (High to the left, Out of box, Left footed, Open play)" minute="92" period="2" second="50" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Robbie Brady has attempt saved (High to the right, Out of box, Left footed, Free kick)" minute="89" period="2" second="35" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Standing)" minute="89" period="2" second="35" time="92" type="save made" type_id="10"/>
+	<message comment="Paulinho recieves a yellow card" minute="89" period="2" second="2" time="92" type="card received" type_id="17"/>
+	<message comment="Yannick Sagbo is substituted off" minute="86" period="2" second="33" time="89" type="substitution off" type_id="18"/>
+	<message comment="Nick Proschwitz is substituted on" minute="86" period="2" second="33" time="89" type="substitution on" type_id="19"/>
+	<message comment="George Boyd is substituted off" minute="83" period="2" second="30" time="86" type="substitution off" type_id="18"/>
+	<message comment="Robbie Brady is substituted on" minute="83" period="2" second="30" time="86" type="substitution on" type_id="19"/>
+	<message comment="Liam Rosenior is substituted off" minute="83" period="2" second="29" time="86" type="substitution off" type_id="18"/>
+	<message comment="Aaron McLean is substituted on" minute="83" period="2" second="29" time="86" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="80" period="2" second="20" time="83" type="corner" type_id="6"/>
+	<message comment="GOAL! Roberto Soldado scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="79" period="2" second="10" time="82" type="goal scored" type_id="16"/>
+	<message comment="David Meyler recieves a yellow card" minute="76" period="2" second="6" time="79" type="card received" type_id="17"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="74" period="2" second="50" time="77" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="74" period="2" second="47" time="77" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Left footed, Open play)" minute="74" period="2" second="47" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho misses attempt (To the right, Out of box, Right footed, Open play)" minute="72" period="2" second="49" time="75" type="attempt missed" type_id="13"/>
+	<message comment="George Boyd recieves a yellow card" minute="71" period="2" second="13" time="74" type="card received" type_id="17"/>
+	<message comment="George Boyd misses attempt (High to the left, 18-yard box, Head, Throw-in)" minute="70" period="2" second="9" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon is substituted off" minute="69" period="2" second="35" time="72" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="69" period="2" second="35" time="72" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend misses attempt (To the left, Out of box, Right footed, Open play)" minute="66" period="2" second="25" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Christian Eriksen wins a corner (To the left)" minute="61" period="2" second="44" time="64" type="corner" type_id="6"/>
+	<message comment="Lewis Holtby is substituted off" minute="59" period="2" second="14" time="62" type="substitution off" type_id="18"/>
+	<message comment="Christian Eriksen is substituted on" minute="59" period="2" second="14" time="62" type="substitution on" type_id="19"/>
+	<message comment="Vlad Chiriches recieves a yellow card" minute="58" period="2" second="34" time="61" type="card received" type_id="17"/>
+	<message comment="Steve Harper makes a save (Diving, Parried safe)" minute="54" period="2" second="46" time="57" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado has attempt saved (Low to the right, 18-yard box, Right footed, Fast break)" minute="54" period="2" second="46" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Collected, Standing)" minute="53" period="2" second="37" time="56" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="53" period="2" second="37" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Mousa Dembélé is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="15" time="47" type="end" type_id="30"/>
+	<message comment="George Boyd has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="46" period="1" second="46" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="46" period="1" second="46" time="46" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado misses attempt (To the left, 18-yard box, Head, Open play)" minute="45" period="1" second="21" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="44" period="1" second="33" time="44" type="corner" type_id="6"/>
+	<message comment="Steve Harper makes a save (Standing, Parried into danger)" minute="38" period="1" second="54" time="38" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="38" period="1" second="54" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Rosenior recieves a yellow card" minute="38" period="1" second="24" time="38" type="card received" type_id="17"/>
+	<message comment="Yannick Sagbo is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Aaron Lennon is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Alex Bruce blocks a shot" minute="33" period="1" second="3" time="33" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" minute="33" period="1" second="3" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone misses attempt (Out of box, Right footed, From corner)" minute="31" period="1" second="23" time="31" type="attempt missed" type_id="13"/>
+	<message comment="David Meyler wins a corner (To the right)" minute="30" period="1" second="59" time="30" type="corner" type_id="6"/>
+	<message comment="Michael Dawson misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="30" period="1" second="16" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho wins a corner (To the left)" minute="29" period="1" second="53" time="29" type="corner" type_id="6"/>
+	<message comment="Steve Harper makes a save (Diving, Collected)" minute="25" period="1" second="36" time="25" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has attempt saved (Low to the right, Out of box, Left footed, Fast break)" minute="25" period="1" second="36" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="24" period="1" second="57" time="24" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="24" period="1" second="2" time="24" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" minute="21" period="1" second="56" time="21" type="corner" type_id="6"/>
+	<message comment="Yannick Sagbo has shot blocked (18-yard box, Right footed, Set piece)" minute="21" period="1" second="14" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro blocks a shot" minute="21" period="1" second="14" time="21" type="save made" type_id="10"/>
+	<message comment="George Boyd has shot blocked (18-yard box, Right footed, Set piece)" minute="21" period="1" second="12" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="21" period="1" second="12" time="21" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="18" period="1" second="24" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="18" period="1" second="24" time="18" type="save made" type_id="10"/>
+	<message comment="George Boyd has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="17" period="1" second="44" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried safe)" minute="17" period="1" second="44" time="17" type="save made" type_id="10"/>
+	<message comment="Sandro recieves a yellow card" minute="16" period="1" second="39" time="16" type="card received" type_id="17"/>
+	<message comment="Andros Townsend wins a corner (To the left)" minute="15" period="1" second="41" time="15" type="corner" type_id="6"/>
+	<message comment="Steve Harper makes a save (Parried safe, Diving)" minute="15" period="1" second="38" time="15" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="15" period="1" second="38" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho misses attempt (18-yard box, Big Chance, Right footed, Set piece)" minute="12" period="1" second="39" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Paul McShane misses attempt (To the right, 18-yard box, Head, Set piece)" minute="6" period="1" second="38" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Curtis Davies blocks a shot" minute="3" period="1" second="1" time="3" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (Out of box, Right footed, Open play)" minute="3" period="1" second="1" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

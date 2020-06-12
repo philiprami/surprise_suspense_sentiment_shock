@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2014-04-13 13:37" game_id_2="27174900" game_id_4="113421177" home_team_name="Man City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-04-13 15:12:58" minute="95" period="2" second="31" team="Man City" time="98" type="end" type_id="30"/>
+	<message comment="Raheem Sterling is substituted off" last_modified="2014-04-13 15:11:58" minute="94" period="2" second="31" team="Man City" time="97" type="substitution off" type_id="18"/>
+	<message comment="Lucas Leiva is substituted on" last_modified="2014-04-13 15:11:58" minute="94" period="2" second="31" team="Man City" time="97" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson recieves a red card" last_modified="2014-04-13 15:10:01" minute="92" period="2" second="34" team="Man City" time="95" type="card received" type_id="17"/>
+	<message comment="David Silva wins a corner (To the left)" last_modified="2014-04-13 15:07:33" minute="90" period="2" second="6" team="Liverpool" time="93" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho is substituted off" last_modified="2014-04-13 15:06:24" minute="88" period="2" second="57" team="Man City" time="91" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" last_modified="2014-04-13 15:06:24" minute="88" period="2" second="57" team="Man City" time="91" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez is caught offside" last_modified="2014-04-13 15:05:27" minute="88" period="2" team="Man City" time="91" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri is caught offside" last_modified="2014-04-13 15:00:27" minute="83" period="2" team="Liverpool" time="86" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" last_modified="2014-04-13 14:59:27" minute="82" period="2" team="Man City" time="85" type="offside" type_id="10000"/>
+	<message comment="Simon Mignolet makes a save (Diving)" last_modified="2014-04-13 14:59:05" minute="81" period="2" second="38" team="Man City" time="84" type="save made" type_id="10"/>
+	<message comment="Martín Demichelis has attempt saved (Low to the left, 18-yard box, Head, From corner)" last_modified="2014-04-13 14:59:05" minute="81" period="2" second="38" team="Liverpool" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" last_modified="2014-04-13 14:58:45" minute="81" period="2" second="18" team="Liverpool" time="84" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" last_modified="2014-04-13 14:58:18" minute="80" period="2" second="51" team="Liverpool" time="83" type="corner" type_id="6"/>
+	<message comment="GOAL! Philippe Coutinho scores  (Low to the right, 18-yard box, Right footed, Throw-in)" last_modified="2014-04-13 14:54:57" minute="77" period="2" second="30" team="Man City" time="80" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" last_modified="2014-04-13 14:54:29" minute="77" period="2" second="2" team="Liverpool" time="80" type="card received" type_id="17"/>
+	<message comment="Raheem Sterling is caught offside" last_modified="2014-04-13 14:52:27" minute="75" period="2" team="Man City" time="78" type="offside" type_id="10000"/>
+	<message comment="David Silva misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-04-13 14:52:18" minute="74" period="2" second="51" team="Liverpool" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Jordan Henderson is caught offside" last_modified="2014-04-13 14:48:27" minute="71" period="2" team="Man City" time="74" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" last_modified="2014-04-13 14:47:27" minute="70" period="2" team="Man City" time="73" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko is substituted off" last_modified="2014-04-13 14:44:57" minute="67" period="2" second="30" team="Liverpool" time="70" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" last_modified="2014-04-13 14:44:57" minute="67" period="2" second="30" team="Liverpool" time="70" type="substitution on" type_id="19"/>
+	<message comment="Samir Nasri misses attempt (Out of box, Right footed, Open play)" last_modified="2014-04-13 14:44:04" minute="66" period="2" second="37" team="Liverpool" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2014-04-13 14:43:26" minute="65" period="2" second="59" team="Liverpool" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" last_modified="2014-04-13 14:43:26" minute="65" period="2" second="59" team="Man City" time="68" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge is substituted off" last_modified="2014-04-13 14:42:42" minute="65" period="2" second="15" team="Man City" time="68" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" last_modified="2014-04-13 14:42:42" minute="65" period="2" second="15" team="Man City" time="68" type="substitution on" type_id="19"/>
+	<message comment="Glen Johnson scores an OWN GOAL!  (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-04-13 14:39:20" minute="61" period="2" second="53" team="Man City" time="64" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" last_modified="2014-04-13 14:37:58" minute="60" period="2" second="31" team="Man City" time="63" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" last_modified="2014-04-13 14:37:21" minute="59" period="2" second="54" team="Liverpool" time="62" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" last_modified="2014-04-13 14:36:50" minute="59" period="2" second="23" team="Man City" time="62" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-04-13 14:36:50" minute="59" period="2" second="23" team="Liverpool" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! David Silva scores , Assisted by James Milner (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-04-13 14:34:12" minute="56" period="2" second="45" team="Liverpool" time="59" type="goal scored" type_id="16"/>
+	<message comment="Jesús Navas is substituted off" last_modified="2014-04-13 14:27:17" minute="49" period="2" second="50" team="Liverpool" time="52" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" last_modified="2014-04-13 14:27:17" minute="49" period="2" second="50" team="Liverpool" time="52" type="substitution on" type_id="19"/>
+	<message comment="Raheem Sterling misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2014-04-13 14:25:24" minute="47" period="2" second="57" team="Man City" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2014-04-13 14:22:27" minute="45" period="2" second="0" team="Man City" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-04-13 14:24:43" minute="47" period="1" second="16" team="Man City" time="47" type="end" type_id="30"/>
+	<message comment="Luis Suárez wins a corner (To the right)" last_modified="2014-04-13 14:24:17" minute="46" period="1" second="50" team="Man City" time="46" type="corner" type_id="6"/>
+	<message comment="Fernandinho recieves a yellow card" last_modified="2014-04-13 14:22:57" minute="45" period="1" second="30" team="Liverpool" time="45" type="card received" type_id="17"/>
+	<message comment="Fernandinho has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-04-13 14:22:28" minute="45" period="1" second="1" team="Liverpool" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" last_modified="2014-04-13 14:22:28" minute="45" period="1" second="1" team="Man City" time="45" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Head, From corner)" last_modified="2014-04-13 14:21:11" minute="43" period="1" second="44" team="Liverpool" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Raheem Sterling blocks a shot (Last line)" last_modified="2014-04-13 14:21:11" minute="43" period="1" second="44" team="Man City" time="43" type="save made" type_id="10"/>
+	<message comment="David Silva wins a corner (To the left)" last_modified="2014-04-13 14:20:48" minute="43" period="1" second="21" team="Liverpool" time="43" type="corner" type_id="6"/>
+	<message comment="David Silva misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2014-04-13 14:20:43" minute="43" period="1" second="16" team="Liverpool" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-04-13 14:18:46" minute="41" period="1" second="19" team="Man City" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Left footed, Throw-in)" last_modified="2014-04-13 14:17:57" minute="40" period="1" second="30" team="Man City" time="40" type="attempt missed" type_id="13"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Free kick)" last_modified="2014-04-13 14:15:09" minute="37" period="1" second="42" team="Liverpool" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge blocks a shot" last_modified="2014-04-13 14:15:09" minute="37" period="1" second="42" team="Man City" time="37" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" last_modified="2014-04-13 14:12:36" minute="35" period="1" second="9" team="Man City" time="35" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" last_modified="2014-04-13 14:08:26" minute="30" period="1" second="59" team="Liverpool" time="30" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-04-13 14:08:24" minute="30" period="1" second="57" team="Liverpool" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard blocks a shot" last_modified="2014-04-13 14:08:24" minute="30" period="1" second="57" team="Man City" time="30" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-04-13 14:06:49" minute="29" period="1" second="22" team="Man City" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" last_modified="2014-04-13 14:06:20" minute="28" period="1" second="53" team="Man City" time="28" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-04-13 14:06:03" minute="28" period="1" second="36" team="Liverpool" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" last_modified="2014-04-13 14:06:03" minute="28" period="1" second="36" team="Man City" time="28" type="save made" type_id="10"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (Low to the right, 6-yard box, Head, From corner)" last_modified="2014-04-13 14:03:24" minute="25" period="1" second="57" team="Man City" time="25" type="goal scored" type_id="16"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" last_modified="2014-04-13 14:02:54" minute="25" period="1" second="27" team="Man City" time="25" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" last_modified="2014-04-13 14:02:51" minute="25" period="1" second="24" team="Liverpool" time="25" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (High to the centre, 18-yard box, Big Chance, Head, From corner)" last_modified="2014-04-13 14:02:51" minute="25" period="1" second="24" team="Man City" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" last_modified="2014-04-13 14:02:20" minute="24" period="1" second="53" team="Man City" time="24" type="corner" type_id="6"/>
+	<message comment="Jesús Navas wins a corner (To the right)" last_modified="2014-04-13 13:58:56" minute="21" period="1" second="29" team="Liverpool" time="21" type="corner" type_id="6"/>
+	<message comment="Javi García recieves a yellow card" last_modified="2014-04-13 13:57:57" minute="20" period="1" second="30" team="Liverpool" time="20" type="card received" type_id="17"/>
+	<message comment="Yaya Touré is substituted off" last_modified="2014-04-13 13:56:07" minute="18" period="1" second="40" team="Liverpool" time="18" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" last_modified="2014-04-13 13:56:07" minute="18" period="1" second="40" team="Liverpool" time="18" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-04-13 13:52:02" minute="14" period="1" second="35" team="Man City" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2014-04-13 13:51:02" minute="13" period="1" second="35" team="Liverpool" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-04-13 13:37:27" minute="0" period="14" second="0" team="Man City" time="8" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" last_modified="2014-04-13 13:44:38" minute="7" period="1" second="11" team="Man City" time="7" type="corner" type_id="6"/>
+	<message comment="GOAL! Raheem Sterling scores , Assisted by Luis Suárez (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-04-13 13:43:14" minute="5" period="1" second="47" team="Man City" time="5" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez recieves a yellow card" last_modified="2014-04-13 13:42:17" minute="4" period="1" second="50" team="Man City" time="4" type="card received" type_id="17"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-04-13 13:41:03" minute="3" period="1" second="36" team="Man City" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2014-04-13 13:37:27" minute="0" period="1" second="0" team="Man City" time="0" type="start" type_id="32"/>
+</Commentary>

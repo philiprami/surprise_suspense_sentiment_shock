@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-08-24" home_team_name="West Ham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="95" type="end" type_id="30"/>
+	<message comment="Yoan Gouffran misses attempt (High to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="91" period="2" second="54" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Ravel Morrison has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="45" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita blocks a shot" minute="88" period="2" second="45" time="90" type="save made" type_id="10"/>
+	<message comment="Modibo Maiga is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Ravel Morrison wins a corner (To the left)" minute="87" period="2" second="46" time="89" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="James Collins blocks a shot" minute="85" period="2" second="36" time="87" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" minute="85" period="2" second="36" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Cole misses attempt (Out of box, Right footed, Open play)" minute="83" period="2" second="19" time="85" type="attempt missed" type_id="13"/>
+	<message comment="James Collins blocks a shot" minute="80" period="2" second="31" time="82" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (18-yard box, Right footed, Open play)" minute="80" period="2" second="31" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Cole wins a corner (To the right)" minute="79" period="2" second="31" time="81" type="corner" type_id="6"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" minute="78" period="2" second="44" time="80" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="77" period="2" second="10" time="79" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé is substituted off" minute="74" period="2" second="46" time="76" type="substitution off" type_id="18"/>
+	<message comment="Ravel Morrison is substituted on" minute="74" period="2" second="46" time="76" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="71" period="2" second="25" time="73" type="substitution off" type_id="18"/>
+	<message comment="Yoan Gouffran is substituted on" minute="71" period="2" second="25" time="73" type="substitution on" type_id="19"/>
+	<message comment="Sylvain Marveaux is substituted off" minute="65" period="2" second="20" time="67" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="65" period="2" second="20" time="67" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing is substituted off" minute="63" period="2" second="11" time="65" type="substitution off" type_id="18"/>
+	<message comment="Joe Cole is substituted on" minute="63" period="2" second="11" time="65" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan misses attempt (High to the right, 18-yard box, Big Chance, Other body part, Open play)" minute="59" period="2" second="6" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="54" period="2" second="35" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Sylvain Marveaux misses attempt (High to the left, Out of box, Left footed, Open play)" minute="48" period="2" second="9" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Stewart Downing has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="47" period="2" second="49" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Standing)" minute="47" period="2" second="49" time="49" type="save made" type_id="10"/>
+	<message comment="Davide Santon misses attempt (To the right, Out of box, Right footed, Open play)" minute="47" period="2" second="16" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Fabricio Coloccini misses attempt (To the left, 18-yard box, Head, From corner)" minute="46" period="2" second="20" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="45" period="2" second="56" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Shola Ameobi misses attempt (To the right, 18-yard box, Head, Set piece)" minute="45" period="1" second="33" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Joey O'Brien recieves a yellow card" minute="43" period="1" second="32" time="43" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the left, Out of box, Left footed, Open play)" minute="42" period="1" second="29" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko misses attempt (To the left, 18-yard box, Head, From corner)" minute="39" period="1" second="11" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="38" period="1" second="43" time="38" type="corner" type_id="6"/>
+	<message comment="Moussa Sissoko misses attempt (High, Out of box, Right footed, Open play)" minute="35" period="1" second="31" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Mapou Yanga-Mbiwa misses attempt (High to the right, 18-yard box, Head, From corner)" minute="33" period="1" second="51" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Sylvain Marveaux wins a corner (To the right)" minute="33" period="1" second="23" time="33" type="corner" type_id="6"/>
+	<message comment="Hatem Ben Arfa misses attempt (To the right, Out of box, Left footed, Open play)" minute="27" period="1" second="57" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the left, Out of box, Left footed, Open play)" minute="24" period="1" second="36" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Modibo Maiga misses attempt (To the left, 18-yard box, Head, Open play)" minute="17" period="1" second="19" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko misses attempt (High to the right, Out of box, Right footed, From corner)" minute="13" period="1" second="17" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Vurnon Anita wins a corner (To the left)" minute="12" period="1" second="32" time="12" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Matthew Jarvis is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa misses attempt (High, Out of box, Left footed, Free kick)" minute="6" period="1" second="43" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Winston Reid has shot blocked (18-yard box, Right footed, From corner)" minute="2" period="1" second="23" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita blocks a shot" minute="2" period="1" second="23" time="2" type="save made" type_id="10"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" minute="1" period="1" second="57" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

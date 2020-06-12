@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-05-13" home_team_name="Queens Park Rangers" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="44" time="99" type="end" type_id="30"/>
+	<message comment="Sergio Agüero recieves a yellow card" minute="93" period="2" second="50" time="97" type="card received" type_id="17"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Mario Balotelli (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="93" period="2" second="20" time="97" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by David Silva (Low to the centre, 6-yard box, Big Chance, Head, From corner)" minute="91" period="2" second="15" time="95" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="91" period="2" second="1" time="95" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli wins a corner (To the left)" minute="90" period="2" second="7" time="94" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save (Diving, Parried into danger)" minute="90" period="2" second="5" time="94" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (High to the left, 6-yard box, Big Chance, Head, From corner)" minute="90" period="2" second="5" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="89" period="2" second="44" time="93" type="corner" type_id="6"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="89" period="2" second="23" time="93" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli wins a corner (To the left)" minute="89" period="2" second="9" time="93" type="corner" type_id="6"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="89" period="2" second="6" time="93" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Left footed, Open play)" minute="89" period="2" second="6" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="86" period="2" second="32" time="90" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save (Diving)" minute="84" period="2" second="8" time="88" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="84" period="2" second="8" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Derry blocks a shot" minute="83" period="2" second="41" time="87" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Set piece)" minute="83" period="2" second="41" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Wright-Phillips blocks a shot" minute="83" period="2" second="37" time="87" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Free kick)" minute="83" period="2" second="37" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="82" period="2" second="41" time="86" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="82" period="2" second="8" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Paddy Kenny makes a save (Diving, Parried safe)" minute="78" period="2" second="39" time="82" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="78" period="2" second="39" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Derry blocks a shot" minute="77" period="2" second="50" time="81" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (18-yard box, Right footed, From corner)" minute="77" period="2" second="50" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="77" period="2" second="48" time="81" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (18-yard box, Head, From corner)" minute="77" period="2" second="48" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="77" period="2" second="31" time="81" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save (Feet, Standing, Parried safe)" minute="77" period="2" second="30" time="81" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="77" period="2" second="30" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Bothroyd blocks a shot" minute="77" period="2" second="10" time="81" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Right footed, Open play)" minute="77" period="2" second="10" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Bothroyd recieves a yellow card" minute="76" period="2" second="48" time="80" type="card received" type_id="17"/>
+	<message comment="Bobby Zamora is substituted off" minute="75" period="2" second="30" time="79" type="substitution off" type_id="18"/>
+	<message comment="Jay Bothroyd is substituted on" minute="75" period="2" second="30" time="79" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez is substituted off" minute="75" period="2" second="10" time="79" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="75" period="2" second="10" time="79" type="substitution on" type_id="19"/>
+	<message comment="Samir Nasri misses attempt (High to the right, Out of box, Right footed, Open play)" minute="74" period="2" second="40" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="73" period="2" second="2" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="72" period="2" second="14" time="76" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Left footed, From corner)" minute="72" period="2" second="14" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="71" period="2" second="56" time="75" type="corner" type_id="6"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="71" period="2" second="54" time="75" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta has shot blocked (18-yard box, Left footed, From corner)" minute="71" period="2" second="54" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="71" period="2" second="27" time="75" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save" minute="71" period="2" second="25" time="75" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="71" period="2" second="25" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="71" period="2" second="5" time="75" type="corner" type_id="6"/>
+	<message comment="Taye Taiwo blocks a shot" minute="71" period="2" second="3" time="75" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta has shot blocked (18-yard box, Right footed, Open play)" minute="71" period="2" second="3" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="69" period="2" second="10" time="73" type="corner" type_id="6"/>
+	<message comment="Shaun Derry blocks a shot" minute="69" period="2" second="6" time="73" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="69" period="2" second="6" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry is substituted off" minute="68" period="2" second="25" time="72" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="68" period="2" second="25" time="72" type="substitution on" type_id="19"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="67" period="2" second="58" time="71" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Throw-in)" minute="67" period="2" second="58" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva misses attempt (High to the left, Out of box, Left footed, Open play)" minute="67" period="2" second="4" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Derry blocks a shot" minute="66" period="2" second="31" time="70" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Right footed, Open play)" minute="66" period="2" second="31" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jamie Mackie scores , Assisted by Armand Traore (High to the centre, 18-yard box, Big Chance, Head, Open play)" minute="65" period="2" second="8" time="69" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero is caught offside" minute="60" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Paddy Kenny makes a save (Collected, Diving)" minute="59" period="2" second="29" time="63" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (High to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="59" period="2" second="29" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Paddy Kenny makes a save (Parried into danger, Diving)" minute="59" period="2" second="24" time="63" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="59" period="2" second="24" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="59" period="2" second="7" time="63" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" minute="58" period="2" second="54" time="62" type="corner" type_id="6"/>
+	<message comment="Djibril Cissé is substituted off" minute="58" period="2" second="26" time="62" type="substitution off" type_id="18"/>
+	<message comment="Armand Traore is substituted on" minute="58" period="2" second="26" time="62" type="substitution on" type_id="19"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="58" period="2" second="0" time="62" type="corner" type_id="6"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="57" period="2" second="36" time="61" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="57" period="2" second="36" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Paddy Kenny makes a save (Parried into danger, Diving, Other body part)" minute="57" period="2" second="27" time="61" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (High to the left, 18-yard box, Left footed, Set piece)" minute="57" period="2" second="27" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="57" period="2" second="24" time="61" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Free kick)" minute="57" period="2" second="24" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton recieves a red card" minute="54" period="2" second="35" time="58" type="card received" type_id="17"/>
+	<message comment="Sergio Agüero misses attempt (High to the right, 6-yard box, Right footed, From corner)" minute="51" period="2" second="3" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta misses attempt (To the left, Out of box, Key pass, Right footed, From corner)" minute="51" period="2" second="2" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jamie Mackie blocks a shot" minute="51" period="2" second="0" time="55" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, From corner)" minute="51" period="2" second="0" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="50" period="2" second="30" time="54" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save (Diving)" minute="49" period="2" second="31" time="53" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="49" period="2" second="31" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Djibril Cissé scores  (Low to the right, 18-yard box, Right footed, Open play)" minute="47" period="2" second="33" time="51" type="goal scored" type_id="16"/>
+	<message comment="Samir Nasri misses attempt (High, Out of box, Left footed, Free kick)" minute="46" period="2" second="33" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="45" period="2" second="37" time="49" type="corner" type_id="6"/>
+	<message comment="Paddy Kenny makes a save (Standing, Parried safe)" minute="45" period="2" second="32" time="49" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (High to the left, 6-yard box, Right footed, Open play)" minute="45" period="2" second="32" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="Yaya Touré is substituted off" minute="44" period="1" second="15" time="44" type="substitution off" type_id="18"/>
+	<message comment="Nigel de Jong is substituted on" minute="44" period="1" second="15" time="44" type="substitution on" type_id="19"/>
+	<message comment="Paddy Kenny makes a save" minute="43" period="1" second="21" time="43" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="43" period="1" second="21" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Pablo Zabaleta scores , Assisted by Yaya Touré (Low to the left, 18-yard box, Right footed, Open play)" minute="38" period="1" second="35" time="38" type="goal scored" type_id="16"/>
+	<message comment="David Silva misses attempt (To the right, Out of box, Left footed, Open play)" minute="32" period="1" second="45" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton blocks a shot" minute="32" period="1" second="16" time="32" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="32" period="1" second="16" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Nedum Onuoha blocks a shot" minute="29" period="1" second="0" time="29" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="29" period="1" second="0" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton blocks a shot" minute="25" period="1" second="43" time="25" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Free kick)" minute="25" period="1" second="43" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Anton Ferdinand blocks a shot" minute="24" period="1" second="44" time="24" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="24" period="1" second="44" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Djibril Cissé has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="23" period="1" second="43" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="23" period="1" second="43" time="23" type="save made" type_id="10"/>
+	<message comment="Jamie Mackie is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Paddy Kenny makes a save" minute="15" period="1" second="28" time="15" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="15" period="1" second="28" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri misses attempt (To the left, Out of box, Right footed, Open play)" minute="10" period="1" second="48" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="6" period="1" second="33" time="6" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (To the right, Out of box, Right footed, Open play)" minute="5" period="1" second="5" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="2" period="1" second="53" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

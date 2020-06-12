@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2010-10-03" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="5" time="99" type="end" type_id="30"/>
+	<message comment="Joleon Lescott misses attempt (18-yard box, Left footed, Open play)" minute="88" period="2" second="17" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez is substituted off" minute="85" period="2" second="29" time="91" type="substitution off" type_id="18"/>
+	<message comment="Patrick Vieira is substituted on" minute="85" period="2" second="29" time="91" type="substitution on" type_id="19"/>
+	<message comment="David Silva misses attempt (18-yard box, Right footed, Open play)" minute="84" period="2" second="55" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (18-yard box, Big Chance, Head, From corner)" minute="82" period="2" second="6" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté wins a corner (To the right)" minute="81" period="2" second="38" time="87" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi wins a corner (To the right)" minute="80" period="2" second="42" time="86" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save" minute="78" period="2" second="1" time="84" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="1" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan is substituted off" minute="76" period="2" second="12" time="82" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" minute="76" period="2" second="12" time="82" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan misses attempt (High, Out of box, Right footed, Open play)" minute="75" period="2" second="44" time="81" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Adam Johnson scores , Assisted by James Milner (Low to the left, 18-yard box, Left footed, Open play)" minute="74" period="2" second="41" time="80" type="goal scored" type_id="16"/>
+	<message comment="Mike Williamson blocks a shot" minute="73" period="2" second="49" time="79" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="73" period="2" second="49" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Jonás Gutiérrez has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="73" period="2" second="16" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="73" period="2" second="16" time="79" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Free kick)" minute="72" period="2" second="19" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner blocks a shot" minute="72" period="2" second="19" time="78" type="save made" type_id="10"/>
+	<message comment="Gareth Barry is substituted off" minute="71" period="2" second="53" time="77" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="71" period="2" second="53" time="77" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="66" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="61" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré is substituted off" minute="56" period="2" second="7" time="62" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="56" period="2" second="7" time="62" type="substitution on" type_id="19"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="54" period="2" second="47" time="60" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="54" period="2" second="47" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="53" period="2" second="27" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Joleon Lescott wins a corner (To the left)" minute="50" period="2" second="10" time="56" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="51" type="start" type_id="32"/>
+	<message comment="First half ends" minute="50" period="1" second="10" time="50" type="end" type_id="30"/>
+	<message comment="Jérôme Boateng misses attempt (Out of box, Left footed, Open play)" minute="49" period="1" second="37" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="46" period="1" second="0" time="46" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" minute="44" period="1" second="33" time="44" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi misses attempt (To the left, Out of box, Right footed, Open play)" minute="41" period="1" second="19" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez recieves a yellow card" minute="40" period="1" second="33" time="40" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Left footed, Fast break)" minute="39" period="1" second="14" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot" minute="39" period="1" second="14" time="39" type="save made" type_id="10"/>
+	<message comment="Jérôme Boateng recieves a yellow card" minute="38" period="1" second="22" time="38" type="card received" type_id="17"/>
+	<message comment="Fabricio Coloccini is substituted off" minute="35" period="1" second="51" time="35" type="substitution off" type_id="18"/>
+	<message comment="Sol Campbell is substituted on" minute="35" period="1" second="51" time="35" type="substitution on" type_id="19"/>
+	<message comment="James Milner misses attempt (Out of box, Right footed, Open play)" minute="28" period="1" second="12" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Kolo Touré recieves a yellow card" minute="25" period="1" second="29" time="25" type="card received" type_id="17"/>
+	<message comment="GOAL! Jonás Gutiérrez scores  (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="23" period="1" second="30" time="23" type="goal scored" type_id="16"/>
+	<message comment="Fabricio Coloccini wins a corner (To the left)" minute="22" period="1" second="14" time="22" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="22" period="1" second="10" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="22" period="1" second="10" time="22" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Fabricio Coloccini recieves a yellow card" minute="22" period="1" second="0" time="22" type="card received" type_id="17"/>
+	<message comment="GOAL! Carlos Tevez scores  (High to the centre, 18-yard box, Penalty, Big Chance, Right footed)" minute="17" period="1" second="17" time="17" type="goal scored" type_id="16"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="16" period="1" second="13" time="16" type="card received" type_id="17"/>
+	<message comment="James Milner wins a corner (To the right)" minute="12" period="1" second="28" time="12" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the right)" minute="12" period="1" second="16" time="12" type="corner" type_id="6"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="10" period="1" second="34" time="10" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (18-yard box, Right footed, Open play)" minute="10" period="1" second="34" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="James Milner is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="7" period="1" second="3" time="7" type="substitution off" type_id="18"/>
+	<message comment="Wayne Routledge is substituted on" minute="7" period="1" second="3" time="7" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Shola Ameobi misses attempt (Out of box, Head, Open play)" minute="1" period="1" second="32" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Joleon Lescott is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

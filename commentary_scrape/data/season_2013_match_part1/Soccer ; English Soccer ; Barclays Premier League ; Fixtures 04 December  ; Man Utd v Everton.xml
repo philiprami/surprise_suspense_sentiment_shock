@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Man Utd" competition="English Premier League" game_date="2013-12-04 19:45" game_id_2="27108216" game_id_4="112117392" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-04 21:27:13" minute="94" period="2" second="45" team="Everton" time="96" type="end" type_id="30"/>
+	<message comment="Ryan Giggs recieves a yellow card" last_modified="2013-12-04 21:25:20" minute="92" period="2" second="52" team="Everton" time="94" type="card received" type_id="17"/>
+	<message comment="Romelu Lukaku misses attempt (Out of box, Left footed, Open play)" last_modified="2013-12-04 21:24:54" minute="92" period="2" second="26" team="Man Utd" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas is substituted off" last_modified="2013-12-04 21:23:42" minute="91" period="2" second="14" team="Man Utd" time="93" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" last_modified="2013-12-04 21:23:42" minute="91" period="2" second="14" team="Man Utd" time="93" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Bryan Oviedo scores , Assisted by Romelu Lukaku (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-04 21:17:33" minute="85" period="2" second="5" team="Man Utd" time="87" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" last_modified="2013-12-04 21:17:30" minute="85" period="2" second="2" team="Man Utd" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas hits the woodwork (To the left, Out of box, Right footed, Free kick)" last_modified="2013-12-04 21:16:59" minute="84" period="2" second="31" team="Man Utd" time="86" type="woodwork hit" type_id="14"/>
+	<message comment="Danny Welbeck is substituted off" last_modified="2013-12-04 21:12:34" minute="80" period="2" second="6" team="Everton" time="82" type="substitution off" type_id="18"/>
+	<message comment="Chicharito is substituted on" last_modified="2013-12-04 21:12:34" minute="80" period="2" second="6" team="Everton" time="82" type="substitution on" type_id="19"/>
+	<message comment="Steven Pienaar is substituted off" last_modified="2013-12-04 21:12:19" minute="79" period="2" second="51" team="Man Utd" time="81" type="substitution off" type_id="18"/>
+	<message comment="Leon Osman is substituted on" last_modified="2013-12-04 21:12:19" minute="79" period="2" second="51" team="Man Utd" time="81" type="substitution on" type_id="19"/>
+	<message comment="Nani misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-12-04 21:05:40" minute="73" period="2" second="12" team="Everton" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Rooney misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-04 21:03:59" minute="71" period="2" second="31" team="Everton" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Danny Welbeck hits the woodwork (High, 6-yard box, Head, From corner)" last_modified="2013-12-04 21:03:45" minute="71" period="2" second="17" team="Everton" time="73" type="woodwork hit" type_id="14"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" last_modified="2013-12-04 21:03:43" minute="71" period="2" second="15" team="Man Utd" time="73" type="save made" type_id="10"/>
+	<message comment="Patrice Evra has attempt saved (High to the centre, 18-yard box, Head, From corner)" last_modified="2013-12-04 21:03:43" minute="71" period="2" second="15" team="Everton" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini wins a corner (To the left)" last_modified="2013-12-04 21:03:22" minute="70" period="2" second="54" team="Everton" time="72" type="corner" type_id="6"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2013-12-04 21:03:21" minute="70" period="2" second="53" team="Man Utd" time="72" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-04 21:03:21" minute="70" period="2" second="53" team="Everton" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Smalling wins a corner (To the right)" last_modified="2013-12-04 21:02:13" minute="69" period="2" second="45" team="Everton" time="71" type="corner" type_id="6"/>
+	<message comment="Gareth Barry blocks a shot" last_modified="2013-12-04 21:02:11" minute="69" period="2" second="43" team="Man Utd" time="71" type="save made" type_id="10"/>
+	<message comment="Chris Smalling has shot blocked (18-yard box, Head, From corner)" last_modified="2013-12-04 21:02:11" minute="69" period="2" second="43" team="Everton" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Adnan Januzaj wins a corner (To the right)" last_modified="2013-12-04 21:01:39" minute="69" period="2" second="11" team="Everton" time="71" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe)" last_modified="2013-12-04 21:01:37" minute="69" period="2" second="9" team="Man Utd" time="71" type="save made" type_id="10"/>
+	<message comment="Adnan Januzaj has attempt saved (High to the centre, Out of box, Left footed, Fast break)" last_modified="2013-12-04 21:01:37" minute="69" period="2" second="9" team="Everton" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-04 21:01:22" minute="68" period="2" second="54" team="Man Utd" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Collected)" last_modified="2013-12-04 21:01:22" minute="68" period="2" second="54" team="Everton" time="70" type="save made" type_id="10"/>
+	<message comment="Ross Barkley is substituted off" last_modified="2013-12-04 21:00:32" minute="68" period="2" second="4" team="Man Utd" time="70" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" last_modified="2013-12-04 21:00:32" minute="68" period="2" second="4" team="Man Utd" time="70" type="substitution on" type_id="19"/>
+	<message comment="Patrice Evra is caught offside" last_modified="2013-12-04 20:59:28" minute="67" period="2" team="Everton" time="69" type="offside" type_id="10000"/>
+	<message comment="Ross Barkley has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-04 20:53:09" minute="60" period="2" second="41" team="Man Utd" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Antonio Valencia blocks a shot" last_modified="2013-12-04 20:53:09" minute="60" period="2" second="41" team="Everton" time="62" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney recieves a yellow card" last_modified="2013-12-04 20:52:33" minute="60" period="2" second="5" team="Everton" time="62" type="card received" type_id="17"/>
+	<message comment="Bryan Oviedo misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:52:18" minute="59" period="2" second="50" team="Man Utd" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Nani misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:50:28" minute="58" period="2" second="0" team="Everton" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Rafael is substituted off" last_modified="2013-12-04 20:49:55" minute="57" period="2" second="27" team="Everton" time="59" type="substitution off" type_id="18"/>
+	<message comment="Adnan Januzaj is substituted on" last_modified="2013-12-04 20:49:55" minute="57" period="2" second="27" team="Everton" time="59" type="substitution on" type_id="19"/>
+	<message comment="Shinji Kagawa is substituted off" last_modified="2013-12-04 20:49:45" minute="57" period="2" second="17" team="Everton" time="59" type="substitution off" type_id="18"/>
+	<message comment="Nani is substituted on" last_modified="2013-12-04 20:49:45" minute="57" period="2" second="17" team="Everton" time="59" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:47:22" minute="54" period="2" second="54" team="Man Utd" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 20:43:48" minute="51" period="2" second="20" team="Man Utd" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Smalling blocks a shot" last_modified="2013-12-04 20:43:48" minute="51" period="2" second="20" team="Everton" time="53" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini wins a corner (To the left)" last_modified="2013-12-04 20:41:58" minute="49" period="2" second="30" team="Everton" time="51" type="corner" type_id="6"/>
+	<message comment="James McCarthy blocks a shot" last_modified="2013-12-04 20:41:55" minute="49" period="2" second="27" team="Man Utd" time="51" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 20:41:55" minute="49" period="2" second="27" team="Everton" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" last_modified="2013-12-04 20:41:38" minute="49" period="2" second="10" team="Man Utd" time="51" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:41:38" minute="49" period="2" second="10" team="Everton" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Ross Barkley wins a corner (To the left)" last_modified="2013-12-04 20:39:48" minute="47" period="2" second="20" team="Man Utd" time="49" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Parried safe)" last_modified="2013-12-04 20:38:24" minute="45" period="2" second="56" team="Man Utd" time="47" type="save made" type_id="10"/>
+	<message comment="Patrice Evra has attempt saved (High to the centre, Out of box, Left footed, Open play)" last_modified="2013-12-04 20:38:24" minute="45" period="2" second="56" team="Everton" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-12-04 20:37:28" minute="45" period="2" second="0" team="Everton" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-04 20:38:37" minute="46" period="1" second="9" team="Everton" time="46" type="end" type_id="30"/>
+	<message comment="Kevin Mirallas is caught offside" last_modified="2013-12-04 20:35:28" minute="43" period="1" team="Man Utd" time="43" type="offside" type_id="10000"/>
+	<message comment="Wayne Rooney has attempt saved (High to the left, 6-yard box, Right footed, Open play)" last_modified="2013-12-04 20:35:01" minute="42" period="1" second="33" team="Everton" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Standing)" last_modified="2013-12-04 20:35:01" minute="42" period="1" second="33" team="Man Utd" time="42" type="save made" type_id="10"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" last_modified="2013-12-04 20:33:38" minute="41" period="1" second="10" team="Everton" time="41" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:32:48" minute="40" period="1" second="20" team="Man Utd" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Smalling blocks a shot" last_modified="2013-12-04 20:32:48" minute="40" period="1" second="20" team="Everton" time="40" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-12-04 20:32:43" minute="40" period="1" second="15" team="Man Utd" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried into danger)" last_modified="2013-12-04 20:32:43" minute="40" period="1" second="15" team="Everton" time="40" type="save made" type_id="10"/>
+	<message comment="Séamus Coleman is caught offside" last_modified="2013-12-04 20:32:28" minute="40" period="1" team="Man Utd" time="40" type="offside" type_id="10000"/>
+	<message comment="Ross Barkley misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-04 20:30:13" minute="37" period="1" second="45" team="Man Utd" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Nemanja Vidic misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-12-04 20:23:37" minute="31" period="1" second="9" team="Everton" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Giggs wins a corner (To the left)" last_modified="2013-12-04 20:23:02" minute="30" period="1" second="34" team="Everton" time="30" type="corner" type_id="6"/>
+	<message comment="Wayne Rooney hits the woodwork (To the right, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:20:55" minute="28" period="1" second="27" team="Everton" time="28" type="woodwork hit" type_id="14"/>
+	<message comment="Chris Smalling misses attempt (To the right, 18-yard box, Right footed, From corner)" last_modified="2013-12-04 20:19:13" minute="26" period="1" second="45" team="Everton" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" last_modified="2013-12-04 20:18:40" minute="26" period="1" second="12" team="Everton" time="26" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku wins a corner (To the right)" last_modified="2013-12-04 20:17:41" minute="25" period="1" second="13" team="Man Utd" time="25" type="corner" type_id="6"/>
+	<message comment="Ryan Giggs misses attempt (18-yard box, Head, Open play)" last_modified="2013-12-04 20:16:14" minute="23" period="1" second="46" team="Everton" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Tim Howard makes a save (Parried safe)" last_modified="2013-12-04 20:13:41" minute="21" period="1" second="13" team="Man Utd" time="21" type="save made" type_id="10"/>
+	<message comment="Shinji Kagawa has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-04 20:13:41" minute="21" period="1" second="13" team="Everton" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" last_modified="2013-12-04 20:07:41" minute="15" period="1" second="13" team="Man Utd" time="15" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:07:41" minute="15" period="1" second="13" team="Everton" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" last_modified="2013-12-04 20:01:08" minute="8" period="1" second="40" team="Man Utd" time="8" type="corner" type_id="6"/>
+	<message comment="David de Gea makes a save (Parried safe)" last_modified="2013-12-04 20:01:05" minute="8" period="1" second="37" team="Everton" time="8" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:01:05" minute="8" period="1" second="37" team="Man Utd" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" last_modified="2013-12-04 19:59:59" minute="7" period="1" second="31" team="Man Utd" time="7" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Fast break)" last_modified="2013-12-04 19:59:58" minute="7" period="1" second="30" team="Man Utd" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Nemanja Vidic blocks a shot" last_modified="2013-12-04 19:59:58" minute="7" period="1" second="30" team="Everton" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" last_modified="2013-12-04 19:52:28" minute="0" period="14" second="0" team="Everton" time="6" type="end" type_id="30"/>
+	<message comment="Romelu Lukaku misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-12-04 19:56:40" minute="4" period="1" second="12" team="Man Utd" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" last_modified="2013-12-04 19:52:28" minute="0" period="1" second="0" team="Everton" time="0" type="start" type_id="32"/>
+</Commentary>

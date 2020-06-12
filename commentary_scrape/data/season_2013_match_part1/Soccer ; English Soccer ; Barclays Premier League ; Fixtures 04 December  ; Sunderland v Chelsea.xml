@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-12-04 19:45" game_id_2="27108218" game_id_4="112117397" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-04 21:21:53" minute="96" period="2" second="16" team="Chelsea" time="99" type="end" type_id="30"/>
+	<message comment="Frank Lampard wins a corner (To the left)" last_modified="2013-12-04 21:21:30" minute="95" period="2" second="53" team="Sunderland" time="98" type="corner" type_id="6"/>
+	<message comment="Jozy Altidore recieves a yellow card" last_modified="2013-12-04 21:20:36" minute="94" period="2" second="59" team="Chelsea" time="97" type="card received" type_id="17"/>
+	<message comment="Fabio Borini misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-04 21:19:02" minute="93" period="2" second="25" team="Chelsea" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Willian is substituted off" last_modified="2013-12-04 21:15:08" minute="89" period="2" second="31" team="Sunderland" time="92" type="substitution off" type_id="18"/>
+	<message comment="André Schürrle is substituted on" last_modified="2013-12-04 21:15:08" minute="89" period="2" second="31" team="Sunderland" time="92" type="substitution on" type_id="19"/>
+	<message comment="Willian recieves a yellow card" last_modified="2013-12-04 21:14:55" minute="89" period="2" second="18" team="Sunderland" time="92" type="card received" type_id="17"/>
+	<message comment="GOAL! Phil Bardsley scores  (Low to the centre, 6-yard box, Big Chance, Left footed, From corner)" last_modified="2013-12-04 21:10:56" minute="85" period="2" second="19" team="Chelsea" time="88" type="goal scored" type_id="16"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" last_modified="2013-12-04 21:10:36" minute="84" period="2" second="59" team="Chelsea" time="87" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley scores an OWN GOAL!  (Low to the left, 6-yard box, Left footed, Open play)" last_modified="2013-12-04 21:08:56" minute="83" period="2" second="19" team="Chelsea" time="86" type="goal scored" type_id="16"/>
+	<message comment="Ki Sung-Yueng misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-04 21:07:10" minute="81" period="2" second="33" team="Chelsea" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is substituted off" last_modified="2013-12-04 21:06:13" minute="80" period="2" second="36" team="Sunderland" time="83" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" last_modified="2013-12-04 21:06:13" minute="80" period="2" second="36" team="Sunderland" time="83" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner is substituted off" last_modified="2013-12-04 21:05:35" minute="79" period="2" second="58" team="Chelsea" time="82" type="substitution off" type_id="18"/>
+	<message comment="Steven Fletcher is substituted on" last_modified="2013-12-04 21:05:35" minute="79" period="2" second="58" team="Chelsea" time="82" type="substitution on" type_id="19"/>
+	<message comment="Ramires misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-04 21:05:10" minute="79" period="2" second="33" team="Sunderland" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (To the right, Out of box, Left footed, Set piece)" last_modified="2013-12-04 21:05:01" minute="79" period="2" second="24" team="Sunderland" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-12-04 21:03:15" minute="77" period="2" second="38" team="Sunderland" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:58:42" minute="73" period="2" second="5" team="Sunderland" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Willian misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:58:00" minute="72" period="2" second="23" team="Sunderland" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba wins a corner (To the right)" last_modified="2013-12-04 20:57:20" minute="71" period="2" second="43" team="Sunderland" time="74" type="corner" type_id="6"/>
+	<message comment="John O'Shea blocks a shot" last_modified="2013-12-04 20:57:18" minute="71" period="2" second="41" team="Chelsea" time="74" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (6-yard box, Right footed, Open play)" last_modified="2013-12-04 20:57:18" minute="71" period="2" second="41" team="Sunderland" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Emanuele Giaccherini is substituted off" last_modified="2013-12-04 20:50:28" minute="64" period="2" second="51" team="Chelsea" time="67" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" last_modified="2013-12-04 20:50:28" minute="64" period="2" second="51" team="Chelsea" time="67" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres is substituted off" last_modified="2013-12-04 20:50:13" minute="64" period="2" second="36" team="Sunderland" time="67" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" last_modified="2013-12-04 20:50:13" minute="64" period="2" second="36" team="Sunderland" time="67" type="substitution on" type_id="19"/>
+	<message comment="Wes Brown blocks a shot" last_modified="2013-12-04 20:49:28" minute="63" period="2" second="51" team="Chelsea" time="66" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-04 20:49:28" minute="63" period="2" second="51" team="Sunderland" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard recieves a yellow card" last_modified="2013-12-04 20:47:30" minute="61" period="2" second="53" team="Sunderland" time="64" type="card received" type_id="17"/>
+	<message comment="GOAL! Eden Hazard scores , Assisted by Frank Lampard (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:46:59" minute="61" period="2" second="22" team="Sunderland" time="64" type="goal scored" type_id="16"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-12-04 20:44:49" minute="59" period="2" second="12" team="Sunderland" time="62" type="save made" type_id="10"/>
+	<message comment="Fabio Borini has shot blocked (Out of box, Right footed, Set piece)" last_modified="2013-12-04 20:44:47" minute="59" period="2" second="10" team="Chelsea" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback is substituted off" last_modified="2013-12-04 20:42:36" minute="56" period="2" second="59" team="Chelsea" time="59" type="substitution off" type_id="18"/>
+	<message comment="Sebastian Larsson is substituted on" last_modified="2013-12-04 20:42:36" minute="56" period="2" second="59" team="Chelsea" time="59" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-04 20:42:05" minute="56" period="2" second="28" team="Sunderland" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Standing, Parried into danger)" last_modified="2013-12-04 20:42:04" minute="56" period="2" second="27" team="Chelsea" time="59" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:42:04" minute="56" period="2" second="27" team="Sunderland" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback recieves a yellow card" last_modified="2013-12-04 20:36:16" minute="50" period="2" second="39" team="Chelsea" time="53" type="card received" type_id="17"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-12-04 20:36:10" minute="50" period="2" second="33" team="Sunderland" time="53" type="corner" type_id="6"/>
+	<message comment="GOAL! John O'Shea scores  (Low to the centre, 18-yard box, Right footed, From corner)" last_modified="2013-12-04 20:34:42" minute="49" period="2" second="5" team="Chelsea" time="52" type="goal scored" type_id="16"/>
+	<message comment="Wes Brown has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-12-04 20:34:41" minute="49" period="2" second="4" team="Chelsea" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic blocks a shot" last_modified="2013-12-04 20:34:41" minute="49" period="2" second="4" team="Sunderland" time="52" type="save made" type_id="10"/>
+	<message comment="Phil Bardsley wins a corner (To the right)" last_modified="2013-12-04 20:34:19" minute="48" period="2" second="42" team="Chelsea" time="51" type="corner" type_id="6"/>
+	<message comment="Ramires recieves a yellow card" last_modified="2013-12-04 20:32:44" minute="47" period="2" second="7" team="Sunderland" time="50" type="card received" type_id="17"/>
+	<message comment="Juan Mata has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-04 20:31:17" minute="45" period="2" second="40" team="Sunderland" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-12-04 20:30:37" minute="45" period="2" second="0" team="Chelsea" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-04 20:32:53" minute="47" period="1" second="16" team="Chelsea" time="47" type="end" type_id="30"/>
+	<message comment="Phil Bardsley recieves a yellow card" last_modified="2013-12-04 20:31:59" minute="46" period="1" second="22" team="Chelsea" time="46" type="card received" type_id="17"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-12-04 20:30:55" minute="45" period="1" second="18" team="Sunderland" time="45" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Standing, Parried safe)" last_modified="2013-12-04 20:30:54" minute="45" period="1" second="17" team="Chelsea" time="45" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" last_modified="2013-12-04 20:30:54" minute="45" period="1" second="17" team="Sunderland" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Andrea Dossena recieves a yellow card" last_modified="2013-12-04 20:24:27" minute="38" period="1" second="50" team="Chelsea" time="38" type="card received" type_id="17"/>
+	<message comment="GOAL! Eden Hazard scores , Assisted by Fernando Torres (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:21:31" minute="35" period="1" second="54" team="Sunderland" time="35" type="goal scored" type_id="16"/>
+	<message comment="Wes Brown has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-12-04 20:20:10" minute="34" period="1" second="33" team="Chelsea" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-12-04 20:20:10" minute="34" period="1" second="33" team="Sunderland" time="34" type="save made" type_id="10"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" last_modified="2013-12-04 20:19:52" minute="34" period="1" second="15" team="Chelsea" time="34" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" last_modified="2013-12-04 20:19:29" minute="33" period="1" second="52" team="Chelsea" time="33" type="corner" type_id="6"/>
+	<message comment="Fernando Torres misses attempt (High to the right, 18-yard box, Right footed, Set piece)" last_modified="2013-12-04 20:18:19" minute="32" period="1" second="42" team="Sunderland" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the right)" last_modified="2013-12-04 20:16:53" minute="31" period="1" second="16" team="Chelsea" time="31" type="corner" type_id="6"/>
+	<message comment="Andrea Dossena wins a corner (To the right)" last_modified="2013-12-04 20:16:33" minute="30" period="1" second="56" team="Chelsea" time="30" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried safe, From shot off target, Diving)" last_modified="2013-12-04 20:16:31" minute="30" period="1" second="54" team="Sunderland" time="30" type="save made" type_id="10"/>
+	<message comment="Andrea Dossena misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-12-04 20:16:30" minute="30" period="1" second="53" team="Chelsea" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (Out of box, Right footed, Open play)" last_modified="2013-12-04 20:11:57" minute="26" period="1" second="20" team="Sunderland" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Ramires misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-04 20:06:10" minute="20" period="1" second="33" team="Sunderland" time="20" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Frank Lampard scores , Assisted by Eden Hazard (Low to the right, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-12-04 20:02:19" minute="16" period="1" second="42" team="Sunderland" time="16" type="goal scored" type_id="16"/>
+	<message comment="Juan Mata wins a corner (To the right)" last_modified="2013-12-04 20:01:54" minute="16" period="1" second="17" team="Sunderland" time="16" type="corner" type_id="6"/>
+	<message comment="GOAL! Jozy Altidore scores , Assisted by Jack Colback (Low to the left, 18-yard box, Left footed, Set piece)" last_modified="2013-12-04 19:59:03" minute="13" period="1" second="26" team="Chelsea" time="13" type="goal scored" type_id="16"/>
+	<message comment="Ramires blocks a shot" last_modified="2013-12-04 19:59:00" minute="13" period="1" second="23" team="Sunderland" time="13" type="save made" type_id="10"/>
+	<message comment="Andrea Dossena has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-12-04 19:59:00" minute="13" period="1" second="23" team="Chelsea" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard misses attempt (Out of box, Right footed, Open play)" last_modified="2013-12-04 19:55:35" minute="9" period="1" second="58" team="Sunderland" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-12-04 19:45:37" minute="0" period="14" second="0" team="Chelsea" time="9" type="end" type_id="30"/>
+	<message comment="Eden Hazard misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-04 19:52:37" minute="7" period="1" second="0" team="Sunderland" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini misses attempt (To the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-04 19:47:26" minute="1" period="1" second="49" team="Chelsea" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Emanuele Giaccherini has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 19:46:32" minute="0" period="1" second="55" team="Chelsea" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="César Azpilicueta blocks a shot" last_modified="2013-12-04 19:46:32" minute="0" period="1" second="55" team="Sunderland" time="0" type="save made" type_id="10"/>
+	<message comment="First half begins!" last_modified="2013-12-04 19:45:37" minute="0" period="1" second="0" team="Chelsea" time="0" type="start" type_id="32"/>
+</Commentary>

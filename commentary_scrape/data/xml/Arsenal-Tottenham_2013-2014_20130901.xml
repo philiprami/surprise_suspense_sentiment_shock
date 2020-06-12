@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-09-01" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="24" time="97" type="end" type_id="30"/>
+	<message comment="Paulinho recieves a yellow card" minute="95" period="2" second="10" time="97" type="card received" type_id="17"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="93" period="2" second="15" time="95" type="corner" type_id="6"/>
+	<message comment="Theo Walcott is substituted off" minute="91" period="2" second="4" time="93" type="substitution off" type_id="18"/>
+	<message comment="Bacary Sagna is substituted on" minute="91" period="2" second="4" time="93" type="substitution on" type_id="19"/>
+	<message comment="Kyle Walker misses attempt (High to the right, Out of box, Right footed, Open play)" minute="90" period="2" second="13" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Sandro blocks a shot" minute="86" period="2" second="47" time="88" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Right footed, Open play)" minute="86" period="2" second="47" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Collected)" minute="85" period="2" second="47" time="87" type="save made" type_id="10"/>
+	<message comment="Erik Lamela has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="85" period="2" second="47" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Nacer Chadli misses attempt (High, Out of box, Right footed, Set piece)" minute="84" period="2" second="36" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe recieves a yellow card" minute="80" period="2" second="18" time="82" type="card received" type_id="17"/>
+	<message comment="Theo Walcott has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="78" period="2" second="49" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="78" period="2" second="49" time="80" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky is substituted off" minute="78" period="2" second="13" time="80" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" minute="78" period="2" second="13" time="80" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is caught offside" minute="76" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Kyle Walker misses attempt (To the left, Out of box, Right footed, Set piece)" minute="75" period="2" second="13" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud blocks a shot (Last line)" minute="75" period="2" second="5" time="77" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado has shot blocked (18-yard box, Right footed, Set piece)" minute="75" period="2" second="5" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, Out of box, Right footed, Set piece)" minute="75" period="2" second="1" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" minute="75" period="2" second="1" time="77" type="save made" type_id="10"/>
+	<message comment="Etienne Capoue is substituted off" minute="74" period="2" second="50" time="76" type="substitution off" type_id="18"/>
+	<message comment="Sandro is substituted on" minute="74" period="2" second="50" time="76" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend is substituted off" minute="74" period="2" second="28" time="76" type="substitution off" type_id="18"/>
+	<message comment="Erik Lamela is substituted on" minute="74" period="2" second="28" time="76" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé is substituted off" minute="68" period="2" second="13" time="70" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="68" period="2" second="13" time="70" type="substitution on" type_id="19"/>
+	<message comment="Paulinho misses attempt (Out of box, Right footed, Open play)" minute="65" period="2" second="50" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="63" period="2" second="11" time="65" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" minute="63" period="2" second="7" time="65" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the left, Out of box, Left footed, Fast break)" minute="63" period="2" second="7" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="7" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="59" period="2" second="7" time="61" type="save made" type_id="10"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="58" period="2" second="33" time="60" type="corner" type_id="6"/>
+	<message comment="Nacer Chadli misses attempt (High to the left, Out of box, Right footed, Free kick)" minute="55" period="2" second="0" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Flamini recieves a yellow card" minute="54" period="2" second="7" time="56" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey misses attempt (To the right, Out of box, Right footed, Open play)" minute="48" period="2" second="50" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey blocks a shot" minute="47" period="2" second="8" time="49" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Left footed, Open play)" minute="47" period="2" second="8" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="46" period="2" second="35" time="48" type="corner" type_id="6"/>
+	<message comment="Paulinho wins a corner (To the right)" minute="46" period="2" second="2" time="48" type="corner" type_id="6"/>
+	<message comment="Mathieu Flamini blocks a shot" minute="45" period="2" second="56" time="47" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (Out of box, Right footed, Open play)" minute="45" period="2" second="56" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Jack Wilshere is substituted off" minute="42" period="1" second="57" time="42" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" minute="42" period="1" second="57" time="42" type="substitution on" type_id="19"/>
+	<message comment="Wojciech Szczesny makes a save" minute="39" period="1" second="31" time="39" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="39" period="1" second="31" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky recieves a yellow card" minute="32" period="1" second="18" time="32" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey misses attempt (High, 18-yard box, Right footed, Open play)" minute="30" period="1" second="12" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="29" period="1" second="23" time="29" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="29" period="1" second="23" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="25" period="1" second="46" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="25" period="1" second="46" time="25" type="save made" type_id="10"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Theo Walcott (Low to the right, 18-yard box, Left footed, Open play)" minute="22" period="1" second="12" time="22" type="goal scored" type_id="16"/>
+	<message comment="Andros Townsend wins a corner (To the left)" minute="18" period="1" second="48" time="18" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere blocks a shot" minute="18" period="1" second="46" time="18" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" minute="18" period="1" second="46" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado has shot blocked (18-yard box, Right footed, Open play)" minute="12" period="1" second="22" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" minute="12" period="1" second="22" time="12" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="9" period="1" second="17" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (To the right, Out of box, Head, Open play)" minute="6" period="1" second="49" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Right footed, Free kick)" minute="5" period="1" second="47" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Head, From corner)" minute="2" period="1" second="42" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="2" period="1" second="23" time="2" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="2" period="1" second="20" time="2" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="2" period="1" second="20" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Andros Townsend wins a corner (To the right)" minute="0" period="1" second="36" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

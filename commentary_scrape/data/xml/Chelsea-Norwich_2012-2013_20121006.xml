@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2012-10-06" home_team_name="Norwich" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="91" period="2" second="56" time="93" type="end" type_id="30"/>
+	<message comment="Oriol Romeu misses attempt (High to the right, Out of box, Right footed, Open play)" minute="91" period="2" second="30" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="90" period="2" second="10" time="92" type="corner" type_id="6"/>
+	<message comment="Ryan Bennett blocks a shot" minute="89" period="2" second="58" time="91" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (18-yard box, Left footed, Open play)" minute="89" period="2" second="58" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" minute="89" period="2" second="15" time="91" type="corner" type_id="6"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, Open play)" minute="88" period="2" second="11" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Tettey blocks a shot" minute="88" period="2" second="11" time="90" type="save made" type_id="10"/>
+	<message comment="Oriol Romeu misses attempt (18-yard box, Other body part, Open play)" minute="85" period="2" second="59" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="85" period="2" second="10" time="87" type="corner" type_id="6"/>
+	<message comment="Oriol Romeu misses attempt (To the right, Out of box, Right footed, Open play)" minute="84" period="2" second="10" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Russell Martin blocks a shot" minute="83" period="2" second="37" time="85" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, Open play)" minute="83" period="2" second="37" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry misses attempt (6-yard box, Head, Set piece)" minute="82" period="2" second="35" time="84" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel is substituted off" minute="82" period="2" second="13" time="84" type="substitution off" type_id="18"/>
+	<message comment="Oriol Romeu is substituted on" minute="82" period="2" second="13" time="84" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic is substituted off" minute="77" period="2" second="59" time="79" type="substitution off" type_id="18"/>
+	<message comment="César Azpilicueta is substituted on" minute="77" period="2" second="59" time="79" type="substitution on" type_id="19"/>
+	<message comment="Sebastien Bassong is substituted off" minute="77" period="2" second="37" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ryan Bennett is substituted on" minute="77" period="2" second="37" time="79" type="substitution on" type_id="19"/>
+	<message comment="Grant Holt is substituted off" minute="76" period="2" second="52" time="78" type="substitution off" type_id="18"/>
+	<message comment="Steve Morison is substituted on" minute="76" period="2" second="52" time="78" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by Juan Mata (Low to the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="43" time="77" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="74" period="2" second="37" time="76" type="corner" type_id="6"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="74" period="2" second="34" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Parried safe, Diving)" minute="74" period="2" second="34" time="76" type="save made" type_id="10"/>
+	<message comment="Ramires wins a corner (To the left)" minute="72" period="2" second="47" time="74" type="corner" type_id="6"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="71" period="2" second="22" time="73" type="save made" type_id="10"/>
+	<message comment="Juan Mata has shot blocked (Out of box, Left footed, Open play)" minute="71" period="2" second="22" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Pilkington misses attempt (To the left, 18-yard box, Head, Open play)" minute="69" period="2" second="47" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Bradley Johnson is substituted off" minute="67" period="2" second="59" time="69" type="substitution off" type_id="18"/>
+	<message comment="Anthony Pilkington is substituted on" minute="67" period="2" second="59" time="69" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard is substituted off" minute="66" period="2" second="45" time="68" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted on" minute="66" period="2" second="45" time="68" type="substitution on" type_id="19"/>
+	<message comment="Jonny Howson has shot blocked (Out of box, Right footed, Open play)" minute="65" period="2" second="26" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole blocks a shot" minute="65" period="2" second="26" time="67" type="save made" type_id="10"/>
+	<message comment="Fernando Torres is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard wins a corner (To the right)" minute="59" period="2" second="9" time="61" type="corner" type_id="6"/>
+	<message comment="Jonny Howson blocks a shot" minute="59" period="2" second="7" time="61" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="59" period="2" second="7" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Diving, Parried into danger, Feet)" minute="57" period="2" second="13" time="59" type="save made" type_id="10"/>
+	<message comment="Juan Mata has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="57" period="2" second="13" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="John Ruddy makes a save (Parried safe, Diving)" minute="55" period="2" second="33" time="57" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="55" period="2" second="33" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Tettey misses attempt (To the left, Out of box, Left footed, Open play)" minute="53" period="2" second="34" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="49" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Leon Barnett blocks a shot" minute="47" period="2" second="45" time="49" type="save made" type_id="10"/>
+	<message comment="Ashley Cole has shot blocked (18-yard box, Left footed, Open play)" minute="47" period="2" second="45" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Grant Holt misses attempt (18-yard box, Head, Open play)" minute="46" period="2" second="39" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Grant Holt misses attempt (18-yard box, Head, Open play)" minute="42" period="1" second="59" time="42" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save (Diving)" minute="39" period="1" second="26" time="39" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="39" period="1" second="26" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel misses attempt (Out of box, Right footed, From corner)" minute="36" period="1" second="51" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard wins a corner (To the left)" minute="36" period="1" second="27" time="36" type="corner" type_id="6"/>
+	<message comment="Grant Holt is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Wes Hoolahan wins a corner (To the left)" minute="34" period="1" second="23" time="34" type="corner" type_id="6"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="33" period="1" second="10" time="33" type="corner" type_id="6"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="31" period="1" second="23" time="31" type="corner" type_id="6"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="31" period="1" second="21" time="31" type="save made" type_id="10"/>
+	<message comment="Ashley Cole has shot blocked (18-yard box, Left footed, Open play)" minute="31" period="1" second="21" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Eden Hazard scores , Assisted by Juan Mata (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="30" period="1" second="13" time="30" type="goal scored" type_id="16"/>
+	<message comment="Javier Garrido wins a corner (To the left)" minute="29" period="1" second="29" time="29" type="corner" type_id="6"/>
+	<message comment="Ashley Cole misses attempt (To the left, 6-yard box, Big Chance, Head, Open play)" minute="24" period="1" second="28" time="24" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Frank Lampard scores  (Low to the left, 18-yard box, Right footed, Open play)" minute="21" period="1" second="20" time="21" type="goal scored" type_id="16"/>
+	<message comment="Russell Martin blocks a shot" minute="21" period="1" second="18" time="21" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="21" period="1" second="18" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="18" period="1" second="44" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="18" period="1" second="44" time="18" type="save made" type_id="10"/>
+	<message comment="Alexander Tettey misses attempt (To the right, 18-yard box, Head, Open play)" minute="18" period="1" second="36" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="17" period="1" second="54" time="17" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Collected)" minute="15" period="1" second="54" time="15" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="15" period="1" second="54" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Branislav Ivanovic (Low to the left, 18-yard box, Big Chance, Head, Open play)" minute="13" period="1" second="36" time="13" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Grant Holt scores , Assisted by Leon Barnett (Low to the right, 18-yard box, Right footed, Open play)" minute="10" period="1" second="6" time="10" type="goal scored" type_id="16"/>
+	<message comment="Javier Garrido blocks a shot" minute="3" period="1" second="12" time="3" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="12" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="3" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

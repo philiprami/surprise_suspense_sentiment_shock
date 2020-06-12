@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-12-29 16:00" game_id_2="27119561" game_id_4="112284190" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-29 17:34:06" minute="93" period="2" second="58" team="Stoke" time="95" type="end" type_id="30"/>
+	<message comment="Erik Lamela recieves a yellow card" last_modified="2013-12-29 17:27:28" minute="87" period="2" second="20" team="Stoke" time="89" type="card received" type_id="17"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 18-yard box, Head, Open play)" last_modified="2013-12-29 17:23:08" minute="83" period="2" second="0" team="Tottenham" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Standing)" last_modified="2013-12-29 17:23:08" minute="83" period="2" second="0" team="Stoke" time="85" type="save made" type_id="10"/>
+	<message comment="Andy Wilkinson is substituted off" last_modified="2013-12-29 17:20:27" minute="80" period="2" second="19" team="Tottenham" time="82" type="substitution off" type_id="18"/>
+	<message comment="Marc Muniesa is substituted on" last_modified="2013-12-29 17:20:27" minute="80" period="2" second="19" team="Tottenham" time="82" type="substitution on" type_id="19"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-12-29 17:20:08" minute="80" period="2" team="Tottenham" time="82" type="offside" type_id="10000"/>
+	<message comment="Emmanuel Adebayor is substituted off" last_modified="2013-12-29 17:20:05" minute="79" period="2" second="57" team="Stoke" time="81" type="substitution off" type_id="18"/>
+	<message comment="Nacer Chadli is substituted on" last_modified="2013-12-29 17:20:05" minute="79" period="2" second="57" team="Stoke" time="81" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-29 17:18:07" minute="77" period="2" second="59" team="Stoke" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Naughton wins a corner (To the right)" last_modified="2013-12-29 17:15:54" minute="75" period="2" second="46" team="Stoke" time="77" type="corner" type_id="6"/>
+	<message comment="Erik Lamela wins a corner (To the right)" last_modified="2013-12-29 17:15:01" minute="74" period="2" second="53" team="Stoke" time="76" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-29 17:15:00" minute="74" period="2" second="52" team="Tottenham" time="76" type="save made" type_id="10"/>
+	<message comment="Erik Lamela has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-29 17:15:00" minute="74" period="2" second="52" team="Stoke" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon is substituted off" last_modified="2013-12-29 17:14:22" minute="74" period="2" second="14" team="Stoke" time="76" type="substitution off" type_id="18"/>
+	<message comment="Erik Lamela is substituted on" last_modified="2013-12-29 17:14:22" minute="74" period="2" second="14" team="Stoke" time="76" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Aaron Lennon scores , Assisted by Emmanuel Adebayor (High to the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-29 17:08:49" minute="68" period="2" second="41" team="Stoke" time="70" type="goal scored" type_id="16"/>
+	<message comment="Wilson Palacios is substituted off" last_modified="2013-12-29 17:08:10" minute="68" period="2" second="2" team="Tottenham" time="70" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" last_modified="2013-12-29 17:08:10" minute="68" period="2" second="2" team="Tottenham" time="70" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Mousa Dembélé scores , Assisted by Roberto Soldado (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-12-29 17:04:24" minute="64" period="2" second="16" team="Stoke" time="66" type="goal scored" type_id="16"/>
+	<message comment="Oussama Assaidi wins a corner (To the left)" last_modified="2013-12-29 17:03:06" minute="62" period="2" second="58" team="Tottenham" time="64" type="corner" type_id="6"/>
+	<message comment="Thomas Sørensen makes a save (Standing, Parried safe)" last_modified="2013-12-29 17:02:13" minute="62" period="2" second="5" team="Tottenham" time="64" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-12-29 17:02:13" minute="62" period="2" second="5" team="Stoke" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho is substituted off" last_modified="2013-12-29 17:01:34" minute="61" period="2" second="26" team="Stoke" time="63" type="substitution off" type_id="18"/>
+	<message comment="Etienne Capoue is substituted on" last_modified="2013-12-29 17:01:34" minute="61" period="2" second="26" team="Stoke" time="63" type="substitution on" type_id="19"/>
+	<message comment="Thomas Sørensen makes a save (Standing, Collected)" last_modified="2013-12-29 16:57:26" minute="57" period="2" second="18" team="Tottenham" time="59" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-29 16:57:26" minute="57" period="2" second="18" team="Stoke" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam misses attempt (To the left, Out of box, Left footed, Free kick)" last_modified="2013-12-29 16:55:04" minute="54" period="2" second="56" team="Tottenham" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-12-29 16:52:08" minute="52" period="2" team="Tottenham" time="54" type="offside" type_id="10000"/>
+	<message comment="Christian Eriksen misses attempt (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-12-29 16:52:04" minute="51" period="2" second="56" team="Stoke" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross recieves a yellow card" last_modified="2013-12-29 16:51:32" minute="51" period="2" second="24" team="Tottenham" time="53" type="card received" type_id="17"/>
+	<message comment="Mousa Dembélé recieves a yellow card" last_modified="2013-12-29 16:51:26" minute="51" period="2" second="18" team="Stoke" time="53" type="card received" type_id="17"/>
+	<message comment="Jonathan Walters recieves a yellow card" last_modified="2013-12-29 16:51:21" minute="51" period="2" second="13" team="Tottenham" time="53" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" last_modified="2013-12-29 16:50:16" minute="50" period="2" second="8" team="Stoke" time="52" type="corner" type_id="6"/>
+	<message comment="Stephen Ireland is substituted off" last_modified="2013-12-29 16:49:30" minute="49" period="2" second="22" team="Tottenham" time="51" type="substitution off" type_id="18"/>
+	<message comment="Charlie Adam is substituted on" last_modified="2013-12-29 16:49:30" minute="49" period="2" second="22" team="Tottenham" time="51" type="substitution on" type_id="19"/>
+	<message comment="Thomas Sørensen makes a save (Collected)" last_modified="2013-12-29 16:47:22" minute="47" period="2" second="14" team="Tottenham" time="49" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-12-29 16:47:22" minute="47" period="2" second="14" team="Stoke" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho misses attempt (To the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-29 16:45:49" minute="45" period="2" second="41" team="Stoke" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2013-12-29 16:45:08" minute="45" period="2" second="0" team="Stoke" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-29 16:46:18" minute="46" period="1" second="10" team="Stoke" time="46" type="end" type_id="30"/>
+	<message comment="Geoff Cameron blocks a shot" last_modified="2013-12-29 16:45:02" minute="44" period="1" second="54" team="Tottenham" time="44" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has shot blocked (18-yard box, Left footed, From corner)" last_modified="2013-12-29 16:45:02" minute="44" period="1" second="54" team="Stoke" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Ezekiel Fryers wins a corner (To the right)" last_modified="2013-12-29 16:44:47" minute="44" period="1" second="39" team="Stoke" time="44" type="corner" type_id="6"/>
+	<message comment="Stephen Ireland is caught offside" last_modified="2013-12-29 16:42:08" minute="42" period="1" team="Tottenham" time="42" type="offside" type_id="10000"/>
+	<message comment="Paulinho misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-29 16:41:16" minute="41" period="1" second="8" team="Stoke" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-12-29 16:41:08" minute="41" period="1" team="Tottenham" time="41" type="offside" type_id="10000"/>
+	<message comment="GOAL! Roberto Soldado scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-12-29 16:36:18" minute="36" period="1" second="10" team="Stoke" time="36" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-29 16:35:15" minute="35" period="1" second="7" team="Stoke" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado misses attempt (18-yard box, Head, Open play)" last_modified="2013-12-29 16:31:52" minute="31" period="1" second="44" team="Stoke" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Vlad Chiriches misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-12-29 16:28:58" minute="28" period="1" second="50" team="Stoke" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" last_modified="2013-12-29 16:18:05" minute="17" period="1" second="57" team="Stoke" time="17" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-29 16:15:41" minute="15" period="1" second="33" team="Stoke" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Thomas Sørensen makes a save (Parried safe, Diving)" last_modified="2013-12-29 16:14:28" minute="14" period="1" second="20" team="Tottenham" time="14" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-29 16:14:28" minute="14" period="1" second="20" team="Stoke" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor misses attempt (To the left, 18-yard box, Big Chance, Key pass, Left footed, Open play)" last_modified="2013-12-29 16:14:27" minute="14" period="1" second="19" team="Stoke" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson misses attempt (High to the right, 18-yard box, Right footed, From corner)" last_modified="2013-12-29 16:11:39" minute="11" period="1" second="31" team="Stoke" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" last_modified="2013-12-29 16:11:01" minute="10" period="1" second="53" team="Stoke" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-12-29 16:00:08" minute="0" period="14" second="0" team="Stoke" time="5" type="end" type_id="30"/>
+	<message comment="Steven Nzonzi blocks a shot" last_modified="2013-12-29 16:02:08" minute="2" period="1" second="0" team="Tottenham" time="2" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-12-29 16:02:08" minute="2" period="1" second="0" team="Stoke" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-12-29 16:00:08" minute="0" period="1" second="0" team="Stoke" time="0" type="start" type_id="32"/>
+</Commentary>

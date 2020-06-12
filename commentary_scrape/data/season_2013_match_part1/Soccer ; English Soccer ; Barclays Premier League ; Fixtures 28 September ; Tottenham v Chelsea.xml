@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-09-28 12:45" game_id_2="27069226" game_id_4="111072788" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-28 14:20:07" minute="94" period="2" second="41" team="Chelsea" time="97" type="end" type_id="30"/>
+	<message comment="Nacer Chadli misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 14:17:26" minute="92" period="2" second="0" team="Chelsea" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe wins a corner (To the right)" last_modified="2013-09-28 14:15:07" minute="89" period="2" second="41" team="Chelsea" time="92" type="corner" type_id="6"/>
+	<message comment="Frank Lampard blocks a shot" last_modified="2013-09-28 14:15:05" minute="89" period="2" second="39" team="Tottenham" time="92" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 14:15:05" minute="89" period="2" second="39" team="Chelsea" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-28 14:12:07" minute="86" period="2" second="41" team="Chelsea" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Diving)" last_modified="2013-09-28 14:10:01" minute="84" period="2" second="35" team="Tottenham" time="87" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-09-28 14:10:01" minute="84" period="2" second="35" team="Chelsea" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" last_modified="2013-09-28 14:08:26" minute="83" period="2" team="Tottenham" time="86" type="offside" type_id="10000"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-28 14:08:06" minute="82" period="2" second="40" team="Chelsea" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" last_modified="2013-09-28 14:08:06" minute="82" period="2" second="40" team="Tottenham" time="85" type="save made" type_id="10"/>
+	<message comment="Oscar is substituted off" last_modified="2013-09-28 14:07:28" minute="82" period="2" second="2" team="Tottenham" time="85" type="substitution off" type_id="18"/>
+	<message comment="César Azpilicueta is substituted on" last_modified="2013-09-28 14:07:28" minute="82" period="2" second="2" team="Tottenham" time="85" type="substitution on" type_id="19"/>
+	<message comment="Fernando Torres recieves a red card after receiving second yellow card" last_modified="2013-09-28 14:06:01" minute="80" period="2" second="35" team="Tottenham" time="83" type="card received" type_id="17"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-09-28 14:03:32" minute="78" period="2" second="6" team="Tottenham" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé blocks a shot" last_modified="2013-09-28 14:03:32" minute="78" period="2" second="6" team="Chelsea" time="81" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé recieves a yellow card" last_modified="2013-09-28 14:02:47" minute="77" period="2" second="21" team="Chelsea" time="80" type="card received" type_id="17"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" last_modified="2013-09-28 14:02:09" minute="76" period="2" second="43" team="Chelsea" time="79" type="save made" type_id="10"/>
+	<message comment="André Schürrle has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-09-28 14:02:09" minute="76" period="2" second="43" team="Tottenham" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado is substituted off" last_modified="2013-09-28 14:01:45" minute="76" period="2" second="19" team="Chelsea" time="79" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" last_modified="2013-09-28 14:01:45" minute="76" period="2" second="19" team="Chelsea" time="79" type="substitution on" type_id="19"/>
+	<message comment="Branislav Ivanovic is caught offside" last_modified="2013-09-28 14:00:26" minute="75" period="2" team="Tottenham" time="78" type="offside" type_id="10000"/>
+	<message comment="Michael Dawson recieves a yellow card" last_modified="2013-09-28 14:00:22" minute="74" period="2" second="56" team="Chelsea" time="77" type="card received" type_id="17"/>
+	<message comment="Jan Vertonghen is caught offside" last_modified="2013-09-28 13:59:26" minute="74" period="2" team="Chelsea" time="77" type="offside" type_id="10000"/>
+	<message comment="André Schürrle is caught offside" last_modified="2013-09-28 13:56:26" minute="71" period="2" team="Tottenham" time="74" type="offside" type_id="10000"/>
+	<message comment="Christian Eriksen is substituted off" last_modified="2013-09-28 13:54:53" minute="69" period="2" second="27" team="Chelsea" time="72" type="substitution off" type_id="18"/>
+	<message comment="Lewis Holtby is substituted on" last_modified="2013-09-28 13:54:53" minute="69" period="2" second="27" team="Chelsea" time="72" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle is substituted on" last_modified="2013-09-28 13:54:24" minute="68" period="2" second="58" team="Tottenham" time="71" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" last_modified="2013-09-28 13:54:23" minute="68" period="2" second="57" team="Tottenham" time="71" type="substitution off" type_id="18"/>
+	<message comment="Kyle Naughton misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-28 13:53:52" minute="68" period="2" second="26" team="Chelsea" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" last_modified="2013-09-28 13:51:54" minute="66" period="2" second="28" team="Tottenham" time="69" type="corner" type_id="6"/>
+	<message comment="GOAL! John Terry scores , Assisted by Juan Mata (Low to the left, 18-yard box, Big Chance, Head, Set piece)" last_modified="2013-09-28 13:50:00" minute="64" period="2" second="34" team="Tottenham" time="67" type="goal scored" type_id="16"/>
+	<message comment="Jan Vertonghen recieves a yellow card" last_modified="2013-09-28 13:49:07" minute="63" period="2" second="41" team="Chelsea" time="66" type="card received" type_id="17"/>
+	<message comment="Nacer Chadli is substituted on" last_modified="2013-09-28 13:47:38" minute="62" period="2" second="12" team="Chelsea" time="65" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend is substituted off" last_modified="2013-09-28 13:47:37" minute="62" period="2" second="11" team="Chelsea" time="65" type="substitution off" type_id="18"/>
+	<message comment="Hugo Lloris makes a save (Collected, Diving)" last_modified="2013-09-28 13:43:42" minute="58" period="2" second="16" team="Chelsea" time="61" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 13:43:42" minute="58" period="2" second="16" team="Tottenham" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard is caught offside" last_modified="2013-09-28 13:43:26" minute="58" period="2" team="Tottenham" time="61" type="offside" type_id="10000"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" last_modified="2013-09-28 13:42:16" minute="56" period="2" second="50" team="Tottenham" time="59" type="card received" type_id="17"/>
+	<message comment="Juan Mata is caught offside" last_modified="2013-09-28 13:41:26" minute="56" period="2" team="Tottenham" time="59" type="offside" type_id="10000"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-09-28 13:40:39" minute="55" period="2" second="13" team="Chelsea" time="58" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2013-09-28 13:39:26" minute="54" period="2" team="Tottenham" time="57" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres wins a corner (To the left)" last_modified="2013-09-28 13:37:46" minute="52" period="2" second="20" team="Tottenham" time="55" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2013-09-28 13:37:44" minute="52" period="2" second="18" team="Chelsea" time="55" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-28 13:37:44" minute="52" period="2" second="18" team="Tottenham" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic is caught offside" last_modified="2013-09-28 13:37:26" minute="52" period="2" team="Tottenham" time="55" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres recieves a yellow card" last_modified="2013-09-28 13:36:01" minute="50" period="2" second="35" team="Tottenham" time="53" type="card received" type_id="17"/>
+	<message comment="Oscar misses attempt (To the left, 18-yard box, Left footed, Open play)" last_modified="2013-09-28 13:33:02" minute="47" period="2" second="36" team="Tottenham" time="50" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel is substituted off" last_modified="2013-09-28 13:30:26" minute="45" period="2" second="0" team="Tottenham" time="48" type="substitution off" type_id="18"/>
+	<message comment="Juan Mata is substituted on" last_modified="2013-09-28 13:30:26" minute="45" period="2" second="0" team="Tottenham" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-09-28 13:30:26" minute="45" period="2" second="0" team="Chelsea" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-28 13:32:55" minute="47" period="1" second="29" team="Chelsea" time="47" type="end" type_id="30"/>
+	<message comment="John Terry misses attempt (To the right, 18-yard box, Head, Set piece)" last_modified="2013-09-28 13:32:20" minute="46" period="1" second="54" team="Tottenham" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Christian Eriksen recieves a yellow card" last_modified="2013-09-28 13:31:54" minute="46" period="1" second="28" team="Chelsea" time="46" type="card received" type_id="17"/>
+	<message comment="Paulinho hits the woodwork (To the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-28 13:30:04" minute="44" period="1" second="38" team="Chelsea" time="44" type="woodwork hit" type_id="14"/>
+	<message comment="Jan Vertonghen misses attempt (High to the right, Out of box, Left footed, Open play)" last_modified="2013-09-28 13:29:17" minute="43" period="1" second="51" team="Chelsea" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 13:28:56" minute="43" period="1" second="30" team="Chelsea" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" last_modified="2013-09-28 13:28:56" minute="43" period="1" second="30" team="Tottenham" time="43" type="save made" type_id="10"/>
+	<message comment="Hugo Lloris makes a save (Collected)" last_modified="2013-09-28 13:28:26" minute="43" period="1" second="0" team="Chelsea" time="43" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-09-28 13:28:26" minute="43" period="1" second="0" team="Tottenham" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Andros Townsend recieves a yellow card" last_modified="2013-09-28 13:28:03" minute="42" period="1" second="37" team="Chelsea" time="42" type="card received" type_id="17"/>
+	<message comment="Roberto Soldado is caught offside" last_modified="2013-09-28 13:26:26" minute="41" period="1" team="Chelsea" time="41" type="offside" type_id="10000"/>
+	<message comment="Mousa Dembélé blocks a shot" last_modified="2013-09-28 13:25:24" minute="39" period="1" second="58" team="Chelsea" time="39" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (18-yard box, Head, From corner)" last_modified="2013-09-28 13:25:24" minute="39" period="1" second="58" team="Tottenham" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Eden Hazard wins a corner (To the right)" last_modified="2013-09-28 13:25:03" minute="39" period="1" second="37" team="Tottenham" time="39" type="corner" type_id="6"/>
+	<message comment="Jan Vertonghen blocks a shot" last_modified="2013-09-28 13:24:59" minute="39" period="1" second="33" team="Chelsea" time="39" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-28 13:24:59" minute="39" period="1" second="33" team="Tottenham" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole wins a corner (To the left)" last_modified="2013-09-28 13:24:19" minute="38" period="1" second="53" team="Tottenham" time="38" type="corner" type_id="6"/>
+	<message comment="Oscar wins a corner (To the left)" last_modified="2013-09-28 13:20:06" minute="34" period="1" second="40" team="Tottenham" time="34" type="corner" type_id="6"/>
+	<message comment="Ramires is caught offside" last_modified="2013-09-28 13:15:26" minute="30" period="1" team="Tottenham" time="30" type="offside" type_id="10000"/>
+	<message comment="Kyle Naughton has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-09-28 13:14:36" minute="29" period="1" second="10" team="Chelsea" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Diving)" last_modified="2013-09-28 13:14:36" minute="29" period="1" second="10" team="Tottenham" time="29" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" last_modified="2013-09-28 13:08:09" minute="22" period="1" second="43" team="Chelsea" time="22" type="corner" type_id="6"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores , Assisted by Roberto Soldado (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-28 13:04:15" minute="18" period="1" second="49" team="Chelsea" time="18" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2013-09-28 12:58:26" minute="13" period="1" team="Tottenham" time="13" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-09-28 12:53:34" minute="8" period="1" second="8" team="Tottenham" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-09-28 12:45:26" minute="0" period="14" second="0" team="Chelsea" time="7" type="end" type_id="30"/>
+	<message comment="Paulinho misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-28 12:52:04" minute="6" period="1" second="38" team="Chelsea" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Christian Eriksen wins a corner (To the left)" last_modified="2013-09-28 12:47:49" minute="2" period="1" second="23" team="Chelsea" time="2" type="corner" type_id="6"/>
+	<message comment="Ramires is caught offside" last_modified="2013-09-28 12:45:26" minute="0" period="1" team="Tottenham" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2013-09-28 12:45:26" minute="0" period="1" second="0" team="Chelsea" time="0" type="start" type_id="32"/>
+</Commentary>

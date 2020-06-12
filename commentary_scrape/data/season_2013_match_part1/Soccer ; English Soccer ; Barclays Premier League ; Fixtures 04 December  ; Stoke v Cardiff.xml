@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2013-12-04 19:45" game_id_2="27108219" game_id_4="112038348" home_team_name="Cardiff" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-04 21:19:20" minute="94" period="2" second="11" team="Cardiff" time="97" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" last_modified="2013-12-04 21:15:43" minute="90" period="2" second="34" team="Stoke" time="93" type="corner" type_id="6"/>
+	<message comment="Declan John has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-12-04 21:15:33" minute="90" period="2" second="24" team="Stoke" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried into danger)" last_modified="2013-12-04 21:15:33" minute="90" period="2" second="24" team="Cardiff" time="93" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch is caught offside" last_modified="2013-12-04 21:14:09" minute="89" period="2" team="Stoke" time="92" type="offside" type_id="10000"/>
+	<message comment="Stephen Ireland misses attempt (High to the right, 18-yard box, Right footed, Set piece)" last_modified="2013-12-04 21:12:15" minute="87" period="2" second="6" team="Cardiff" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Ben Turner recieves a yellow card" last_modified="2013-12-04 21:11:22" minute="86" period="2" second="13" team="Stoke" time="89" type="card received" type_id="17"/>
+	<message comment="Charlie Adam misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-04 21:10:15" minute="85" period="2" second="6" team="Cardiff" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic is caught offside" last_modified="2013-12-04 21:08:09" minute="83" period="2" team="Cardiff" time="86" type="offside" type_id="10000"/>
+	<message comment="Marko Arnautovic misses attempt (To the left, 18-yard box, Left footed, Open play)" last_modified="2013-12-04 21:07:00" minute="81" period="2" second="51" team="Cardiff" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Marc Muniesa misses attempt (High to the right, 18-yard box, Left footed, Open play)" last_modified="2013-12-04 21:05:53" minute="80" period="2" second="44" team="Cardiff" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Steven Nzonzi misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-12-04 21:04:45" minute="79" period="2" second="36" team="Cardiff" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell is substituted off" last_modified="2013-12-04 21:01:43" minute="76" period="2" second="34" team="Stoke" time="79" type="substitution off" type_id="18"/>
+	<message comment="Peter Odemwingie is substituted on" last_modified="2013-12-04 21:01:43" minute="76" period="2" second="34" team="Stoke" time="79" type="substitution on" type_id="19"/>
+	<message comment="Geoff Cameron misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-04 21:00:33" minute="75" period="2" second="24" team="Cardiff" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam misses attempt (High to the right, Out of box, Left footed, Open play)" last_modified="2013-12-04 20:55:35" minute="70" period="2" second="26" team="Cardiff" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jordon Mutch misses attempt (To the right, 18-yard box, Left footed, Set piece)" last_modified="2013-12-04 20:53:54" minute="68" period="2" second="45" team="Stoke" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Don Cowie has shot blocked (18-yard box, Left footed, Set piece)" last_modified="2013-12-04 20:53:53" minute="68" period="2" second="44" team="Stoke" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam blocks a shot" last_modified="2013-12-04 20:53:53" minute="68" period="2" second="44" team="Cardiff" time="71" type="save made" type_id="10"/>
+	<message comment="Peter Crouch misses attempt (High, 18-yard box, Head, Open play)" last_modified="2013-12-04 20:52:49" minute="67" period="2" second="40" team="Cardiff" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan is substituted off" last_modified="2013-12-04 20:49:27" minute="64" period="2" second="18" team="Cardiff" time="67" type="substitution off" type_id="18"/>
+	<message comment="Stephen Ireland is substituted on" last_modified="2013-12-04 20:49:27" minute="64" period="2" second="18" team="Cardiff" time="67" type="substitution on" type_id="19"/>
+	<message comment="Peter Whittingham misses attempt (To the right, 18-yard box, Right footed, Throw-in)" last_modified="2013-12-04 20:46:47" minute="61" period="2" second="38" team="Stoke" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Peter Whittingham has attempt saved (Low to the right, Out of box, Left footed, Free kick)" last_modified="2013-12-04 20:45:12" minute="60" period="2" second="3" team="Stoke" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Collected)" last_modified="2013-12-04 20:45:12" minute="60" period="2" second="3" team="Cardiff" time="63" type="save made" type_id="10"/>
+	<message comment="Peter Crouch recieves a yellow card" last_modified="2013-12-04 20:44:50" minute="59" period="2" second="41" team="Cardiff" time="62" type="card received" type_id="17"/>
+	<message comment="Fraizer Campbell recieves a yellow card" last_modified="2013-12-04 20:44:45" minute="59" period="2" second="36" team="Stoke" time="62" type="card received" type_id="17"/>
+	<message comment="Marko Arnautovic misses attempt (High to the right, Out of box, Right footed, Set piece)" last_modified="2013-12-04 20:38:35" minute="53" period="2" second="26" team="Cardiff" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-12-04 20:37:09" minute="52" period="2" team="Cardiff" time="55" type="offside" type_id="10000"/>
+	<message comment="Gary Medel blocks a shot" last_modified="2013-12-04 20:35:05" minute="49" period="2" second="56" team="Stoke" time="52" type="save made" type_id="10"/>
+	<message comment="Geoff Cameron has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-04 20:35:05" minute="49" period="2" second="56" team="Cardiff" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell is caught offside" last_modified="2013-12-04 20:33:09" minute="48" period="2" team="Stoke" time="51" type="offside" type_id="10000"/>
+	<message comment="Fraizer Campbell misses attempt (To the right, 18-yard box, Left footed, From corner)" last_modified="2013-12-04 20:32:28" minute="47" period="2" second="19" team="Stoke" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Peter Whittingham wins a corner (To the left)" last_modified="2013-12-04 20:32:02" minute="46" period="2" second="53" team="Stoke" time="49" type="corner" type_id="6"/>
+	<message comment="Jordon Mutch has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 20:31:27" minute="46" period="2" second="18" team="Stoke" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-04 20:31:27" minute="46" period="2" second="18" team="Cardiff" time="49" type="save made" type_id="10"/>
+	<message comment="Erik Pieters is substituted off" last_modified="2013-12-04 20:30:09" minute="45" period="2" second="0" team="Cardiff" time="48" type="substitution off" type_id="18"/>
+	<message comment="Marc Muniesa is substituted on" last_modified="2013-12-04 20:30:09" minute="45" period="2" second="0" team="Cardiff" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-12-04 20:30:09" minute="45" period="2" second="0" team="Cardiff" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-04 20:32:13" minute="47" period="1" second="4" team="Cardiff" time="47" type="end" type_id="30"/>
+	<message comment="Oussama Assaidi misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-12-04 20:29:30" minute="44" period="1" second="21" team="Cardiff" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron is caught offside" last_modified="2013-12-04 20:29:09" minute="44" period="1" team="Cardiff" time="44" type="offside" type_id="10000"/>
+	<message comment="Jordon Mutch has attempt saved (Low to the right, 18-yard box, Head, From corner)" last_modified="2013-12-04 20:24:39" minute="39" period="1" second="30" team="Stoke" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Standing)" last_modified="2013-12-04 20:24:39" minute="39" period="1" second="30" team="Cardiff" time="39" type="save made" type_id="10"/>
+	<message comment="Kévin Théophile-Catherine wins a corner (To the right)" last_modified="2013-12-04 20:24:10" minute="39" period="1" second="1" team="Stoke" time="39" type="corner" type_id="6"/>
+	<message comment="Kévin Théophile-Catherine has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-04 20:24:07" minute="38" period="1" second="58" team="Stoke" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Erik Pieters blocks a shot" last_modified="2013-12-04 20:24:07" minute="38" period="1" second="58" team="Cardiff" time="38" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-04 20:23:42" minute="38" period="1" second="33" team="Stoke" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-04 20:23:42" minute="38" period="1" second="33" team="Cardiff" time="38" type="save made" type_id="10"/>
+	<message comment="Charlie Adam recieves a yellow card" last_modified="2013-12-04 20:18:32" minute="33" period="1" second="23" team="Cardiff" time="33" type="card received" type_id="17"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-12-04 20:16:09" minute="31" period="1" team="Cardiff" time="31" type="offside" type_id="10000"/>
+	<message comment="David Marshall makes a save (Parried into danger, Standing, Other body part)" last_modified="2013-12-04 20:15:07" minute="29" period="1" second="58" team="Stoke" time="29" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 6-yard box, Big Chance, Other body part, Open play)" last_modified="2013-12-04 20:15:07" minute="29" period="1" second="58" team="Cardiff" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Parried into danger, Standing)" last_modified="2013-12-04 20:14:27" minute="29" period="1" second="18" team="Stoke" time="29" type="save made" type_id="10"/>
+	<message comment="Oussama Assaidi has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-04 20:14:27" minute="29" period="1" second="18" team="Cardiff" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Whittingham wins a corner (To the right)" last_modified="2013-12-04 20:08:13" minute="23" period="1" second="4" team="Stoke" time="23" type="corner" type_id="6"/>
+	<message comment="Peter Whittingham has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-04 20:08:10" minute="23" period="1" second="1" team="Stoke" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan blocks a shot" last_modified="2013-12-04 20:08:10" minute="23" period="1" second="1" team="Cardiff" time="23" type="save made" type_id="10"/>
+	<message comment="Jordon Mutch is caught offside" last_modified="2013-12-04 20:08:09" minute="23" period="1" team="Stoke" time="23" type="offside" type_id="10000"/>
+	<message comment="Ryan Shawcross misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-12-04 20:04:24" minute="19" period="1" second="15" team="Cardiff" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Erik Pieters wins a corner (To the left)" last_modified="2013-12-04 20:04:06" minute="18" period="1" second="57" team="Cardiff" time="18" type="corner" type_id="6"/>
+	<message comment="Gary Medel has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 20:00:34" minute="15" period="1" second="25" team="Stoke" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2013-12-04 20:00:34" minute="15" period="1" second="25" team="Cardiff" time="15" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan wins a corner (To the left)" last_modified="2013-12-04 19:58:14" minute="13" period="1" second="5" team="Cardiff" time="13" type="corner" type_id="6"/>
+	<message comment="Aron Gunnarsson blocks a shot" last_modified="2013-12-04 19:58:12" minute="13" period="1" second="3" team="Stoke" time="13" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 19:58:12" minute="13" period="1" second="3" team="Cardiff" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-12-04 19:45:09" minute="0" period="14" second="0" team="Cardiff" time="7" type="end" type_id="30"/>
+	<message comment="Peter Whittingham blocks a shot" last_modified="2013-12-04 19:50:27" minute="5" period="1" second="18" team="Stoke" time="5" type="save made" type_id="10"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-12-04 19:50:27" minute="5" period="1" second="18" team="Cardiff" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-12-04 19:50:09" minute="5" period="1" team="Cardiff" time="5" type="offside" type_id="10000"/>
+	<message comment="Steven Caulker blocks a shot" last_modified="2013-12-04 19:48:37" minute="3" period="1" second="28" team="Stoke" time="3" type="save made" type_id="10"/>
+	<message comment="Oussama Assaidi has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-04 19:48:37" minute="3" period="1" second="28" team="Cardiff" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Turner misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-12-04 19:47:23" minute="2" period="1" second="14" team="Stoke" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Jordon Mutch wins a corner (To the right)" last_modified="2013-12-04 19:46:55" minute="1" period="1" second="46" team="Stoke" time="1" type="corner" type_id="6"/>
+	<message comment="Jordon Mutch has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-04 19:46:52" minute="1" period="1" second="43" team="Stoke" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-04 19:46:52" minute="1" period="1" second="43" team="Cardiff" time="1" type="save made" type_id="10"/>
+	<message comment="Ryan Shawcross is caught offside" last_modified="2013-12-04 19:45:09" minute="0" period="1" team="Cardiff" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2013-12-04 19:45:09" minute="0" period="1" second="0" team="Cardiff" time="0" type="start" type_id="32"/>
+</Commentary>

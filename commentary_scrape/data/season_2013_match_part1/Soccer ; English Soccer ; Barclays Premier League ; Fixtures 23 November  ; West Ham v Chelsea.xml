@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2013-11-23 17:30" game_id_2="27099085" game_id_4="111837476" home_team_name="Chelsea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-23 19:03:34" minute="93" period="2" second="2" team="Chelsea" time="96" type="end" type_id="30"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" last_modified="2013-11-23 19:03:31" minute="92" period="2" second="59" team="West Ham" time="95" type="save made" type_id="10"/>
+	<message comment="Joey O'Brien has attempt saved (Low to the right, 18-yard box, Head, Open play)" last_modified="2013-11-23 19:03:31" minute="92" period="2" second="59" team="Chelsea" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba is caught offside" last_modified="2013-11-23 19:02:32" minute="92" period="2" team="West Ham" time="95" type="offside" type_id="10000"/>
+	<message comment="André Schürrle is caught offside" last_modified="2013-11-23 19:01:32" minute="91" period="2" team="West Ham" time="94" type="offside" type_id="10000"/>
+	<message comment="Stewart Downing wins a corner (To the right)" last_modified="2013-11-23 18:59:28" minute="88" period="2" second="56" team="Chelsea" time="91" type="corner" type_id="6"/>
+	<message comment="Modibo Maiga misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-11-23 18:56:18" minute="85" period="2" second="46" team="Chelsea" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe, Diving)" last_modified="2013-11-23 18:55:31" minute="84" period="2" second="59" team="Chelsea" time="87" type="save made" type_id="10"/>
+	<message comment="Michael Essien has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" last_modified="2013-11-23 18:55:31" minute="84" period="2" second="59" team="West Ham" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" last_modified="2013-11-23 18:54:51" minute="84" period="2" second="19" team="Chelsea" time="87" type="corner" type_id="6"/>
+	<message comment="Eden Hazard is substituted off" last_modified="2013-11-23 18:54:31" minute="83" period="2" second="59" team="West Ham" time="86" type="substitution off" type_id="18"/>
+	<message comment="Michael Essien is substituted on" last_modified="2013-11-23 18:54:31" minute="83" period="2" second="59" team="West Ham" time="86" type="substitution on" type_id="19"/>
+	<message comment="Oscar is substituted off" last_modified="2013-11-23 18:52:49" minute="82" period="2" second="17" team="West Ham" time="85" type="substitution off" type_id="18"/>
+	<message comment="André Schürrle is substituted on" last_modified="2013-11-23 18:52:49" minute="82" period="2" second="17" team="West Ham" time="85" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Frank Lampard scores  (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-11-23 18:51:34" minute="81" period="2" second="2" team="West Ham" time="84" type="goal scored" type_id="16"/>
+	<message comment="Joey O'Brien blocks a shot" last_modified="2013-11-23 18:51:33" minute="81" period="2" second="1" team="Chelsea" time="84" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-23 18:51:33" minute="81" period="2" second="1" team="West Ham" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing wins a corner (To the left)" last_modified="2013-11-23 18:50:11" minute="79" period="2" second="39" team="Chelsea" time="82" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o is substituted off" last_modified="2013-11-23 18:49:03" minute="78" period="2" second="31" team="West Ham" time="81" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" last_modified="2013-11-23 18:49:03" minute="78" period="2" second="31" team="West Ham" time="81" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan is substituted off" last_modified="2013-11-23 18:46:04" minute="75" period="2" second="32" team="Chelsea" time="78" type="substitution off" type_id="18"/>
+	<message comment="Matthew Jarvis is substituted on" last_modified="2013-11-23 18:46:04" minute="75" period="2" second="32" team="Chelsea" time="78" type="substitution on" type_id="19"/>
+	<message comment="Modibo Maiga wins a corner (To the right)" last_modified="2013-11-23 18:41:58" minute="71" period="2" second="26" team="Chelsea" time="74" type="corner" type_id="6"/>
+	<message comment="Mark Noble blocks a shot" last_modified="2013-11-23 18:40:25" minute="69" period="2" second="53" team="Chelsea" time="72" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-11-23 18:40:25" minute="69" period="2" second="53" team="West Ham" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Mohamed Diamé wins a corner (To the right)" last_modified="2013-11-23 18:38:54" minute="68" period="2" second="22" team="Chelsea" time="71" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" last_modified="2013-11-23 18:37:38" minute="67" period="2" second="6" team="Chelsea" time="70" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-23 18:37:38" minute="67" period="2" second="6" team="West Ham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Modibo Maiga misses attempt (18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-11-23 18:34:31" minute="63" period="2" second="59" team="Chelsea" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o misses attempt (Out of box, Right footed, Open play)" last_modified="2013-11-23 18:32:32" minute="62" period="2" second="0" team="West Ham" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Modibo Maiga misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2013-11-23 18:30:59" minute="60" period="2" second="27" team="Chelsea" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-23 18:30:57" minute="60" period="2" second="25" team="Chelsea" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" last_modified="2013-11-23 18:30:57" minute="60" period="2" second="25" team="West Ham" time="63" type="save made" type_id="10"/>
+	<message comment="Mark Noble wins a corner (To the left)" last_modified="2013-11-23 18:29:24" minute="58" period="2" second="52" team="Chelsea" time="61" type="corner" type_id="6"/>
+	<message comment="Oscar misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-23 18:26:33" minute="56" period="2" second="1" team="West Ham" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Collected, Diving)" last_modified="2013-11-23 18:25:36" minute="55" period="2" second="4" team="Chelsea" time="58" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-11-23 18:25:36" minute="55" period="2" second="4" team="West Ham" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Noble blocks a shot (Last line)" last_modified="2013-11-23 18:22:41" minute="52" period="2" second="9" team="Chelsea" time="55" type="save made" type_id="10"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Head, From corner)" last_modified="2013-11-23 18:22:41" minute="52" period="2" second="9" team="West Ham" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" last_modified="2013-11-23 18:22:10" minute="51" period="2" second="38" team="West Ham" time="54" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" last_modified="2013-11-23 18:22:08" minute="51" period="2" second="36" team="Chelsea" time="54" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-23 18:22:08" minute="51" period="2" second="36" team="West Ham" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Mohamed Diamé misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-23 18:19:50" minute="49" period="2" second="18" team="Chelsea" time="52" type="attempt missed" type_id="13"/>
+	<message comment="James Tomkins blocks a shot" last_modified="2013-11-23 18:16:10" minute="45" period="2" second="38" team="Chelsea" time="48" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-23 18:16:10" minute="45" period="2" second="38" team="West Ham" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-11-23 18:15:32" minute="45" period="2" second="0" team="Chelsea" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-23 18:17:39" minute="47" period="1" second="7" team="Chelsea" time="47" type="end" type_id="30"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" last_modified="2013-11-23 18:12:25" minute="41" period="1" second="53" team="West Ham" time="41" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe, Diving)" last_modified="2013-11-23 18:12:18" minute="41" period="1" second="46" team="Chelsea" time="41" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-23 18:12:18" minute="41" period="1" second="46" team="West Ham" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Collison is substituted off" last_modified="2013-11-23 18:09:57" minute="39" period="1" second="25" team="Chelsea" time="39" type="substitution off" type_id="18"/>
+	<message comment="Modibo Maiga is substituted on" last_modified="2013-11-23 18:09:57" minute="39" period="1" second="25" team="Chelsea" time="39" type="substitution on" type_id="19"/>
+	<message comment="Joe Cole is substituted off" last_modified="2013-11-23 18:09:49" minute="39" period="1" second="17" team="Chelsea" time="39" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Diamé is substituted on" last_modified="2013-11-23 18:09:49" minute="39" period="1" second="17" team="Chelsea" time="39" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-11-23 18:09:24" minute="38" period="1" second="52" team="West Ham" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Mark Noble wins a corner (To the right)" last_modified="2013-11-23 18:08:04" minute="37" period="1" second="32" team="Chelsea" time="37" type="corner" type_id="6"/>
+	<message comment="GOAL! Oscar scores , Assisted by Eden Hazard (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-11-23 18:03:53" minute="33" period="1" second="21" team="West Ham" time="33" type="goal scored" type_id="16"/>
+	<message comment="Guy Demel wins a corner (To the right)" last_modified="2013-11-23 18:00:47" minute="30" period="1" second="15" team="Chelsea" time="30" type="corner" type_id="6"/>
+	<message comment="Frank Lampard misses attempt (18-yard box, Head, Open play)" last_modified="2013-11-23 18:00:10" minute="29" period="1" second="38" team="West Ham" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Collected)" last_modified="2013-11-23 17:53:22" minute="22" period="1" second="50" team="Chelsea" time="22" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-11-23 17:53:22" minute="22" period="1" second="50" team="West Ham" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan is caught offside" last_modified="2013-11-23 17:51:32" minute="21" period="1" team="Chelsea" time="21" type="offside" type_id="10000"/>
+	<message comment="GOAL! Frank Lampard scores  (High to the centre, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-11-23 17:51:04" minute="20" period="1" second="32" team="West Ham" time="20" type="goal scored" type_id="16"/>
+	<message comment="James Collins blocks a shot" last_modified="2013-11-23 17:49:21" minute="18" period="1" second="49" team="Chelsea" time="18" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-23 17:49:21" minute="18" period="1" second="49" team="West Ham" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Cole has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-23 17:48:43" minute="18" period="1" second="11" team="Chelsea" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" last_modified="2013-11-23 17:48:43" minute="18" period="1" second="11" team="West Ham" time="18" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan has shot blocked (18-yard box, Head, Open play)" last_modified="2013-11-23 17:48:41" minute="18" period="1" second="9" team="Chelsea" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="César Azpilicueta blocks a shot" last_modified="2013-11-23 17:48:41" minute="18" period="1" second="9" team="West Ham" time="18" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan is caught offside" last_modified="2013-11-23 17:46:32" minute="16" period="1" team="Chelsea" time="16" type="offside" type_id="10000"/>
+	<message comment="Oscar misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2013-11-23 17:46:04" minute="15" period="1" second="32" team="West Ham" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-11-23 17:43:02" minute="12" period="1" second="30" team="West Ham" time="12" type="corner" type_id="6"/>
+	<message comment="James Collins is caught offside" last_modified="2013-11-23 17:40:32" minute="10" period="1" team="Chelsea" time="10" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-11-23 17:30:32" minute="0" period="14" second="0" team="Chelsea" time="6" type="end" type_id="30"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-11-23 17:34:52" minute="4" period="1" second="20" team="West Ham" time="4" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" last_modified="2013-11-23 17:33:25" minute="2" period="1" second="53" team="Chelsea" time="2" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-23 17:33:25" minute="2" period="1" second="53" team="West Ham" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-11-23 17:30:32" minute="0" period="1" second="0" team="Chelsea" time="0" type="start" type_id="32"/>
+</Commentary>

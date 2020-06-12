@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2010-09-25" home_team_name="Chelsea" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="29" time="96" type="end" type_id="30"/>
+	<message comment="Alex recieves a yellow card" minute="91" period="2" second="53" time="93" type="card received" type_id="17"/>
+	<message comment="Joe Hart makes a save (Standing, Collected)" minute="89" period="2" second="50" time="91" type="save made" type_id="10"/>
+	<message comment="Michael Essien has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="89" period="2" second="50" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="88" period="2" second="39" time="90" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Throw-in)" minute="88" period="2" second="39" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Dedryck Boyata is substituted off" minute="88" period="2" second="19" time="90" type="substitution off" type_id="18"/>
+	<message comment="Jérôme Boateng is substituted on" minute="88" period="2" second="19" time="90" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Carlos Tevez is substituted off" minute="86" period="2" second="3" time="88" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="86" period="2" second="3" time="88" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Free kick)" minute="83" period="2" second="42" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Ramires is substituted off" minute="80" period="2" second="10" time="82" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="80" period="2" second="10" time="82" type="substitution on" type_id="19"/>
+	<message comment="James Milner is caught offside" minute="80" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Ramires recieves a yellow card" minute="79" period="2" second="28" time="81" type="card received" type_id="17"/>
+	<message comment="Vincent Kompany blocks a shot" minute="79" period="2" second="9" time="81" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (Out of box, Left footed, Open play)" minute="79" period="2" second="9" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole misses attempt (18-yard box, Left footed, Open play)" minute="78" period="2" second="6" time="80" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is substituted off" minute="77" period="2" second="42" time="79" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="77" period="2" second="42" time="79" type="substitution on" type_id="19"/>
+	<message comment="Alex misses attempt (18-yard box, Head, Set piece)" minute="76" period="2" second="45" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Dedryck Boyata recieves a yellow card" minute="76" period="2" second="3" time="78" type="card received" type_id="17"/>
+	<message comment="Didier Drogba is substituted off" minute="74" period="2" second="38" time="76" type="substitution off" type_id="18"/>
+	<message comment="Daniel Sturridge is substituted on" minute="74" period="2" second="38" time="76" type="substitution on" type_id="19"/>
+	<message comment="Michael Essien misses attempt (Out of box, Right footed, Open play)" minute="73" period="2" second="24" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien misses attempt (Out of box, Right footed, Open play)" minute="70" period="2" second="7" time="72" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel is substituted off" minute="68" period="2" second="12" time="70" type="substitution off" type_id="18"/>
+	<message comment="Yuri Zhirkov is substituted on" minute="68" period="2" second="12" time="70" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="67" period="2" second="25" time="69" type="corner" type_id="6"/>
+	<message comment="John Obi Mikel recieves a yellow card" minute="64" period="2" second="19" time="66" type="card received" type_id="17"/>
+	<message comment="Vincent Kompany blocks a shot" minute="62" period="2" second="20" time="64" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (18-yard box, Right footed, Open play)" minute="62" period="2" second="20" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="59" period="2" second="43" time="61" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="59" period="2" second="43" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Carlos Tevez scores , Assisted by Yaya Touré (Low to the left, Out of box, Right footed, Fast break)" minute="58" period="2" second="30" time="60" type="goal scored" type_id="16"/>
+	<message comment="Ashley Cole wins a corner (To the right)" minute="57" period="2" second="27" time="59" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" minute="54" period="2" second="32" time="56" type="corner" type_id="6"/>
+	<message comment="David Silva has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="54" period="2" second="31" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="54" period="2" second="31" time="56" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Right footed, Open play)" minute="50" period="2" second="10" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel blocks a shot" minute="50" period="2" second="10" time="52" type="save made" type_id="10"/>
+	<message comment="Michael Essien misses attempt (High, 18-yard box, Big Chance, Head, From corner)" minute="46" period="2" second="27" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="45" period="2" second="59" time="47" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="45" period="2" second="58" time="47" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="45" period="2" second="58" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Michael Essien misses attempt (High to the left, Out of box, Left footed, Open play)" minute="43" period="1" second="23" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry blocks a shot" minute="42" period="1" second="50" time="42" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="50" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Florent Malouda misses attempt (To the right, Out of box, Left footed, Open play)" minute="42" period="1" second="35" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="34" period="1" second="21" time="34" type="card received" type_id="17"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Free kick)" minute="29" period="1" second="41" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba blocks a shot" minute="29" period="1" second="41" time="29" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="27" period="1" second="41" time="27" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic has attempt saved (Low to the centre, 6-yard box, Head, From corner)" minute="27" period="1" second="0" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="27" period="1" second="0" time="27" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic hits the woodwork (To the right, 18-yard box, Head, From corner)" minute="26" period="1" second="58" time="26" type="woodwork hit" type_id="14"/>
+	<message comment="Ramires wins a corner (To the left)" minute="26" period="1" second="24" time="26" type="corner" type_id="6"/>
+	<message comment="Kolo Touré has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="24" period="1" second="6" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="24" period="1" second="6" time="24" type="save made" type_id="10"/>
+	<message comment="Dedryck Boyata wins a corner (To the right)" minute="23" period="1" second="38" time="23" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="53" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="22" period="1" second="53" time="22" type="save made" type_id="10"/>
+	<message comment="Michael Essien misses attempt (To the left, Out of box, Right footed, Open play)" minute="19" period="1" second="57" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="17" period="1" second="5" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="16" period="1" second="25" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="16" period="1" second="25" time="16" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Open play)" minute="16" period="1" second="22" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien blocks a shot" minute="16" period="1" second="22" time="16" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez misses attempt (To the left, Out of box, Right footed, Open play)" minute="6" period="1" second="36" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

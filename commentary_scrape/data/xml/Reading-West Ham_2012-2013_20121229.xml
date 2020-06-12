@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2012-12-29" home_team_name="West Ham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="8" time="97" type="end" type_id="30"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the right)" minute="89" period="2" second="0" time="92" type="corner" type_id="6"/>
+	<message comment="Carlton Cole is caught offside" minute="84" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the right)" minute="83" period="2" second="11" time="86" type="corner" type_id="6"/>
+	<message comment="Ricardo Vaz Tê misses attempt (6-yard box, Big Chance, Head, Set piece)" minute="82" period="2" second="10" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Nolan recieves a yellow card" minute="80" period="2" second="19" time="83" type="card received" type_id="17"/>
+	<message comment="James Tomkins misses attempt (18-yard box, Right footed, From corner)" minute="80" period="2" second="8" time="83" type="attempt missed" type_id="13"/>
+	<message comment="James Collins has shot blocked (18-yard box, Head, From corner)" minute="80" period="2" second="6" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Ricardo Vaz Tê wins a corner (To the right)" minute="79" period="2" second="41" time="82" type="corner" type_id="6"/>
+	<message comment="Mark Noble is substituted off" minute="79" period="2" second="5" time="82" type="substitution off" type_id="18"/>
+	<message comment="Modibo Maiga is substituted on" minute="79" period="2" second="5" time="82" type="substitution on" type_id="19"/>
+	<message comment="Ian Harte recieves a yellow card" minute="78" period="2" second="47" time="81" type="card received" type_id="17"/>
+	<message comment="Jimmy Kébé is substituted off" minute="76" period="2" second="13" time="79" type="substitution off" type_id="18"/>
+	<message comment="Hal Robson-Kanu is substituted on" minute="76" period="2" second="13" time="79" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="James Tomkins misses attempt (To the right, 18-yard box, Head, Open play)" minute="73" period="2" second="22" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Jack Collison misses attempt (To the left, Out of box, Right footed, Set piece)" minute="68" period="2" second="4" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Gary O'Neil is substituted off" minute="66" period="2" second="25" time="69" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Vaz Tê is substituted on" minute="66" period="2" second="25" time="69" type="substitution on" type_id="19"/>
+	<message comment="James Tomkins recieves a yellow card" minute="66" period="2" second="0" time="69" type="card received" type_id="17"/>
+	<message comment="Jimmy Kébé misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="65" period="2" second="52" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving)" minute="65" period="2" second="45" time="68" type="save made" type_id="10"/>
+	<message comment="Jem Karacan has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="65" period="2" second="45" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Guthrie is substituted off" minute="65" period="2" second="22" time="68" type="substitution off" type_id="18"/>
+	<message comment="Noel Hunt is substituted on" minute="65" period="2" second="22" time="68" type="substitution on" type_id="19"/>
+	<message comment="Adam Federici makes a save (Diving, Parried into danger)" minute="63" period="2" second="53" time="66" type="save made" type_id="10"/>
+	<message comment="Jack Collison has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="63" period="2" second="53" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Pearce recieves a yellow card" minute="60" period="2" second="2" time="63" type="card received" type_id="17"/>
+	<message comment="Matthew Taylor is substituted off" minute="55" period="2" second="14" time="58" type="substitution off" type_id="18"/>
+	<message comment="Jack Collison is substituted on" minute="53" period="2" second="45" time="56" type="substitution on" type_id="19"/>
+	<message comment="Carlton Cole misses attempt (High, 18-yard box, Other body part, Open play)" minute="53" period="2" second="35" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Alex Pearce blocks a shot" minute="50" period="2" second="8" time="53" type="save made" type_id="10"/>
+	<message comment="Matthew Jarvis has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="8" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="50" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="48" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="James Collins recieves a yellow card" minute="46" period="1" second="6" time="46" type="card received" type_id="17"/>
+	<message comment="Gary O'Neil misses attempt (To the left, Out of box, Right footed, Open play)" minute="44" period="1" second="14" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Adam Federici makes a save (Collected, Diving)" minute="42" period="1" second="26" time="42" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="42" period="1" second="26" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak recieves a yellow card" minute="36" period="1" second="0" time="36" type="card received" type_id="17"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Kevin Nolan is caught offside" minute="26" period="1" time="26" type="offside" type_id="10000"/>
+	<message comment="Gary O'Neil misses attempt (To the left, 18-yard box, Head, Open play)" minute="24" period="1" second="55" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Winston Reid wins a corner (To the left)" minute="22" period="1" second="42" time="22" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Parried safe)" minute="22" period="1" second="39" time="22" type="save made" type_id="10"/>
+	<message comment="Winston Reid has attempt saved (High to the centre, 18-yard box, Big Chance, Head, Open play)" minute="22" period="1" second="39" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Mark Noble recieves a yellow card" minute="13" period="1" second="58" time="13" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="GOAL! Pavel Pogrebnyak scores  (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="4" period="1" second="36" time="4" type="goal scored" type_id="16"/>
+	<message comment="Matthew Taylor misses attempt (High, 18-yard box, Left footed, Open play)" minute="3" period="1" second="31" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

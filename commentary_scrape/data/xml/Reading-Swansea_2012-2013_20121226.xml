@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2012-12-26" home_team_name="Swansea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="49" time="96" type="end" type_id="30"/>
+	<message comment="Danny Guthrie wins a corner (To the right)" minute="86" period="2" second="0" time="88" type="corner" type_id="6"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the left)" minute="85" period="2" second="39" time="87" type="corner" type_id="6"/>
+	<message comment="Adam Le Fondre wins a corner (To the right)" minute="84" period="2" second="40" time="86" type="corner" type_id="6"/>
+	<message comment="Chico Flores blocks a shot (Last line)" minute="84" period="2" second="39" time="86" type="save made" type_id="10"/>
+	<message comment="Adam Le Fondre has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="84" period="2" second="39" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Michu is substituted off" minute="80" period="2" second="16" time="82" type="substitution off" type_id="18"/>
+	<message comment="Itay Shechter is substituted on" minute="80" period="2" second="16" time="82" type="substitution on" type_id="19"/>
+	<message comment="Adam Le Fondre wins a corner (To the right)" minute="77" period="2" second="53" time="79" type="corner" type_id="6"/>
+	<message comment="Adam Le Fondre recieves a yellow card" minute="73" period="2" second="26" time="75" type="card received" type_id="17"/>
+	<message comment="Adam Federici makes a save (Diving, Collected)" minute="70" period="2" second="43" time="72" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="70" period="2" second="43" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Moore is substituted off" minute="67" period="2" second="25" time="69" type="substitution off" type_id="18"/>
+	<message comment="Jonathan de Guzmán is substituted on" minute="67" period="2" second="25" time="69" type="substitution on" type_id="19"/>
+	<message comment="Leon Britton is substituted off" minute="67" period="2" second="25" time="69" type="substitution off" type_id="18"/>
+	<message comment="Kemy Agustien is substituted on" minute="67" period="2" second="25" time="69" type="substitution on" type_id="19"/>
+	<message comment="Ki Sung-Yueng wins a corner (To the left)" minute="66" period="2" second="16" time="68" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" minute="65" period="2" second="37" time="67" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Diving)" minute="65" period="2" second="34" time="67" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the left, 18-yard box, Big Chance, Head, Open play)" minute="65" period="2" second="34" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the left)" minute="63" period="2" second="41" time="65" type="corner" type_id="6"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="61" period="2" second="5" time="63" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="61" period="2" second="5" time="63" type="substitution on" type_id="19"/>
+	<message comment="Jobi McAnuff is substituted off" minute="60" period="2" second="59" time="62" type="substitution off" type_id="18"/>
+	<message comment="Hal Robson-Kanu is substituted on" minute="60" period="2" second="59" time="62" type="substitution on" type_id="19"/>
+	<message comment="Pavel Pogrebnyak recieves a yellow card" minute="56" period="2" second="57" time="58" type="card received" type_id="17"/>
+	<message comment="Alex Pearce blocks a shot" minute="56" period="2" second="34" time="58" type="save made" type_id="10"/>
+	<message comment="Ben Davies has shot blocked (18-yard box, Left footed, Open play)" minute="56" period="2" second="34" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Jobi McAnuff wins a corner (To the right)" minute="54" period="2" second="31" time="56" type="corner" type_id="6"/>
+	<message comment="Jobi McAnuff has shot blocked (18-yard box, Right footed, Open play)" minute="54" period="2" second="28" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" minute="54" period="2" second="28" time="56" type="save made" type_id="10"/>
+	<message comment="Dwight Tiendalli recieves a yellow card" minute="53" period="2" second="25" time="55" type="card received" type_id="17"/>
+	<message comment="Ki Sung-Yueng misses attempt (High to the right, Out of box, Right footed, Open play)" minute="50" period="2" second="1" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Luke Moore is caught offside" minute="47" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, Out of box, Right footed, Open play)" minute="45" period="1" second="22" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, Out of box, Right footed, Open play)" minute="38" period="1" second="46" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Michu misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="28" period="1" second="53" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Alex Pearce is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Jimmy Kébé misses attempt (High to the left, Out of box, Left footed, Set piece)" minute="16" period="1" second="33" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies wins a corner (To the left)" minute="10" period="1" second="39" time="10" type="corner" type_id="6"/>
+	<message comment="Dwight Tiendalli wins a corner (To the right)" minute="10" period="1" second="11" time="10" type="corner" type_id="6"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="9" period="1" second="30" time="9" type="save made" type_id="10"/>
+	<message comment="Leon Britton has shot blocked (Out of box, Right footed, Open play)" minute="9" period="1" second="30" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Ki Sung-Yueng misses attempt (High, Out of box, Right footed, Free kick)" minute="7" period="1" second="39" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Ian Harte is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Michu misses attempt (Out of box, Left footed, Open play)" minute="4" period="1" second="32" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

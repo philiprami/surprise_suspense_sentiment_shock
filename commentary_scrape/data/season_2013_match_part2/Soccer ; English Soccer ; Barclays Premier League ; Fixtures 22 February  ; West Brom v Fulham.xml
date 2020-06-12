@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Brom" competition="English Premier League" game_date="2014-02-22 15:00" game_id_2="27149408" game_id_4="112828410" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-22 16:34:23" minute="94" period="2" second="6" team="Fulham" time="97" type="end" type_id="30"/>
+	<message comment="Victor Anichebe misses attempt (High to the right, 18-yard box, Right footed, From corner)" last_modified="2014-02-22 16:31:52" minute="91" period="2" second="35" team="Fulham" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried into danger)" last_modified="2014-02-22 16:31:48" minute="91" period="2" second="31" team="West Brom" time="94" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has attempt saved (Low to the right, 18-yard box, Left footed, From corner)" last_modified="2014-02-22 16:31:48" minute="91" period="2" second="31" team="Fulham" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe wins a corner (To the right)" last_modified="2014-02-22 16:31:22" minute="91" period="2" second="5" team="Fulham" time="94" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson recieves a yellow card" last_modified="2014-02-22 16:30:39" minute="90" period="2" second="22" team="Fulham" time="93" type="card received" type_id="17"/>
+	<message comment="Kostas Mitroglou is caught offside" last_modified="2014-02-22 16:26:17" minute="86" period="2" team="West Brom" time="89" type="offside" type_id="10000"/>
+	<message comment="GOAL! Matej Vydra scores , Assisted by Victor Anichebe (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 16:25:47" minute="85" period="2" second="30" team="Fulham" time="88" type="goal scored" type_id="16"/>
+	<message comment="Scott Parker recieves a yellow card" last_modified="2014-02-22 16:25:29" minute="85" period="2" second="12" team="West Brom" time="88" type="card received" type_id="17"/>
+	<message comment="James Morrison wins a corner (To the right)" last_modified="2014-02-22 16:23:00" minute="82" period="2" second="43" team="Fulham" time="85" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" last_modified="2014-02-22 16:22:59" minute="82" period="2" second="42" team="West Brom" time="85" type="save made" type_id="10"/>
+	<message comment="James Morrison has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 16:22:59" minute="82" period="2" second="42" team="Fulham" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Zoltán Gera wins a corner (To the right)" last_modified="2014-02-22 16:19:44" minute="79" period="2" second="27" team="Fulham" time="82" type="corner" type_id="6"/>
+	<message comment="John Heitinga blocks a shot" last_modified="2014-02-22 16:16:08" minute="75" period="2" second="51" team="West Brom" time="78" type="save made" type_id="10"/>
+	<message comment="Matej Vydra has shot blocked (18-yard box, Right footed, Fast break)" last_modified="2014-02-22 16:16:08" minute="75" period="2" second="51" team="Fulham" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino is substituted off" last_modified="2014-02-22 16:15:04" minute="74" period="2" second="47" team="Fulham" time="77" type="substitution off" type_id="18"/>
+	<message comment="Matej Vydra is substituted on" last_modified="2014-02-22 16:15:04" minute="74" period="2" second="47" team="Fulham" time="77" type="substitution on" type_id="19"/>
+	<message comment="Gareth McAuley recieves a yellow card" last_modified="2014-02-22 16:14:41" minute="74" period="2" second="24" team="Fulham" time="77" type="card received" type_id="17"/>
+	<message comment="Sascha Riether recieves a yellow card" last_modified="2014-02-22 16:11:50" minute="71" period="2" second="33" team="West Brom" time="74" type="card received" type_id="17"/>
+	<message comment="Gareth McAuley misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-02-22 16:10:31" minute="70" period="2" second="14" team="Fulham" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt wins a corner (To the right)" last_modified="2014-02-22 16:10:11" minute="69" period="2" second="54" team="Fulham" time="72" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson is substituted off" last_modified="2014-02-22 16:09:32" minute="69" period="2" second="15" team="West Brom" time="72" type="substitution off" type_id="18"/>
+	<message comment="Dan Burn is substituted on" last_modified="2014-02-22 16:09:32" minute="69" period="2" second="15" team="West Brom" time="72" type="substitution on" type_id="19"/>
+	<message comment="John Heitinga blocks a shot" last_modified="2014-02-22 16:08:03" minute="67" period="2" second="46" team="West Brom" time="70" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-02-22 16:08:03" minute="67" period="2" second="46" team="Fulham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Saido Berahino misses attempt (Out of box, Right footed, Open play)" last_modified="2014-02-22 16:06:45" minute="66" period="2" second="28" team="Fulham" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried safe)" last_modified="2014-02-22 16:04:01" minute="63" period="2" second="44" team="West Brom" time="66" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 16:04:01" minute="63" period="2" second="44" team="Fulham" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega is substituted off" last_modified="2014-02-22 16:00:19" minute="60" period="2" second="2" team="West Brom" time="63" type="substitution off" type_id="18"/>
+	<message comment="Kostas Mitroglou is substituted on" last_modified="2014-02-22 16:00:19" minute="60" period="2" second="2" team="West Brom" time="63" type="substitution on" type_id="19"/>
+	<message comment="Victor Anichebe has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:59:46" minute="59" period="2" second="29" team="Fulham" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="John Heitinga blocks a shot" last_modified="2014-02-22 15:59:46" minute="59" period="2" second="29" team="West Brom" time="62" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-02-22 15:59:06" minute="58" period="2" second="49" team="West Brom" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected)" last_modified="2014-02-22 15:59:06" minute="58" period="2" second="49" team="Fulham" time="61" type="save made" type_id="10"/>
+	<message comment="Chris Brunt wins a corner (To the right)" last_modified="2014-02-22 15:54:21" minute="54" period="2" second="4" team="Fulham" time="57" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" last_modified="2014-02-22 15:54:18" minute="54" period="2" second="1" team="West Brom" time="57" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-02-22 15:54:18" minute="54" period="2" second="1" team="Fulham" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Anichebe wins a corner (To the right)" last_modified="2014-02-22 15:53:14" minute="52" period="2" second="57" team="Fulham" time="55" type="corner" type_id="6"/>
+	<message comment="Fernando Amorebieta is substituted off" last_modified="2014-02-22 15:51:54" minute="51" period="2" second="37" team="West Brom" time="54" type="substitution off" type_id="18"/>
+	<message comment="John Arne Riise is substituted on" last_modified="2014-02-22 15:51:54" minute="51" period="2" second="37" team="West Brom" time="54" type="substitution on" type_id="19"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" last_modified="2014-02-22 15:49:51" minute="49" period="2" second="34" team="Fulham" time="52" type="corner" type_id="6"/>
+	<message comment="John Heitinga blocks a shot" last_modified="2014-02-22 15:49:23" minute="49" period="2" second="6" team="West Brom" time="52" type="save made" type_id="10"/>
+	<message comment="Victor Anichebe has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-02-22 15:49:23" minute="49" period="2" second="6" team="Fulham" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Richardson is caught offside" last_modified="2014-02-22 15:47:17" minute="47" period="2" team="West Brom" time="50" type="offside" type_id="10000"/>
+	<message comment="Kieran Richardson misses attempt (To the left, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:45:40" minute="45" period="2" second="23" team="West Brom" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Thievy is substituted off" last_modified="2014-02-22 15:45:17" minute="45" period="2" second="0" team="Fulham" time="48" type="substitution off" type_id="18"/>
+	<message comment="Zoltán Gera is substituted on" last_modified="2014-02-22 15:45:17" minute="45" period="2" second="0" team="Fulham" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-02-22 15:45:17" minute="45" period="2" second="0" team="Fulham" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-22 15:47:47" minute="47" period="1" second="30" team="Fulham" time="47" type="end" type_id="30"/>
+	<message comment="John Heitinga recieves a yellow card" last_modified="2014-02-22 15:47:19" minute="47" period="1" second="2" team="West Brom" time="47" type="card received" type_id="17"/>
+	<message comment="Chris Brunt recieves a yellow card" last_modified="2014-02-22 15:46:04" minute="45" period="1" second="47" team="Fulham" time="45" type="card received" type_id="17"/>
+	<message comment="Jonas Olsson has shot blocked (18-yard box, Left footed, Set piece)" last_modified="2014-02-22 15:45:14" minute="44" period="1" second="57" team="Fulham" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Ashkan Dejagah blocks a shot" last_modified="2014-02-22 15:45:14" minute="44" period="1" second="57" team="West Brom" time="44" type="save made" type_id="10"/>
+	<message comment="Billy Jones is substituted off" last_modified="2014-02-22 15:43:52" minute="43" period="1" second="35" team="Fulham" time="43" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" last_modified="2014-02-22 15:43:52" minute="43" period="1" second="35" team="Fulham" time="43" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega wins a corner (To the right)" last_modified="2014-02-22 15:40:57" minute="40" period="1" second="40" team="West Brom" time="40" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 15:40:55" minute="40" period="1" second="38" team="West Brom" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" last_modified="2014-02-22 15:40:55" minute="40" period="1" second="38" team="Fulham" time="40" type="save made" type_id="10"/>
+	<message comment="Brede Hangeland blocks a shot" last_modified="2014-02-22 15:36:10" minute="35" period="1" second="53" team="West Brom" time="35" type="save made" type_id="10"/>
+	<message comment="Saido Berahino has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-02-22 15:36:10" minute="35" period="1" second="53" team="Fulham" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Richardson is caught offside" last_modified="2014-02-22 15:28:17" minute="28" period="1" team="West Brom" time="28" type="offside" type_id="10000"/>
+	<message comment="GOAL! Ashkan Dejagah scores , Assisted by Kieran Richardson (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:27:54" minute="27" period="1" second="37" team="West Brom" time="27" type="goal scored" type_id="16"/>
+	<message comment="Thievy has attempt saved (Low to the centre, Out of box, Right footed, Fast break)" last_modified="2014-02-22 15:22:59" minute="22" period="1" second="42" team="Fulham" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Parried safe)" last_modified="2014-02-22 15:22:59" minute="22" period="1" second="42" team="West Brom" time="22" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-02-22 15:21:40" minute="21" period="1" second="23" team="West Brom" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Thievy is caught offside" last_modified="2014-02-22 15:20:17" minute="20" period="1" team="Fulham" time="20" type="offside" type_id="10000"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2014-02-22 15:19:17" minute="19" period="1" second="0" team="Fulham" time="19" type="corner" type_id="6"/>
+	<message comment="Saido Berahino misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:12:41" minute="12" period="1" second="24" team="Fulham" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2014-02-22 15:00:17" minute="0" period="14" second="0" team="Fulham" time="7" type="end" type_id="30"/>
+	<message comment="Lewis Holtby misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2014-02-22 15:06:32" minute="6" period="1" second="15" team="West Brom" time="6" type="attempt missed" type_id="13"/>
+	<message comment="John Heitinga misses attempt (High, 18-yard box, Big Chance, Head, From corner)" last_modified="2014-02-22 15:01:56" minute="1" period="1" second="39" team="West Brom" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Lewis Holtby wins a corner (To the left)" last_modified="2014-02-22 15:01:22" minute="1" period="1" second="5" team="West Brom" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2014-02-22 15:00:17" minute="0" period="1" second="0" team="Fulham" time="0" type="start" type_id="32"/>
+</Commentary>

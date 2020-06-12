@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2011-05-01" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="8" time="96" type="end" type_id="30"/>
+	<message comment="Dirk Kuyt has shot blocked (Out of box, Right footed, Fast break)" minute="94" period="2" second="4" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="94" period="2" second="4" time="96" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="93" period="2" second="33" time="95" type="corner" type_id="6"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="93" period="2" second="22" time="95" type="corner" type_id="6"/>
+	<message comment="José Enrique is substituted off" minute="93" period="2" second="10" time="95" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="93" period="2" second="10" time="95" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="92" period="2" second="28" time="94" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté misses attempt (To the right, Out of box, Right footed, From corner)" minute="88" period="2" second="53" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="88" period="2" second="29" time="90" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is substituted off" minute="86" period="2" second="35" time="88" type="substitution off" type_id="18"/>
+	<message comment="Joe Cole is substituted on" minute="86" period="2" second="35" time="88" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan misses attempt (High, Out of box, Right footed, Open play)" minute="84" period="2" second="47" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi is substituted off" minute="81" period="2" second="58" time="83" type="substitution off" type_id="18"/>
+	<message comment="Shefki Kuqi is substituted on" minute="81" period="2" second="58" time="83" type="substitution on" type_id="19"/>
+	<message comment="Jon Flanagan is substituted off" minute="80" period="2" second="50" time="82" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="80" period="2" second="50" time="82" type="substitution on" type_id="19"/>
+	<message comment="Andy Carroll is caught offside" minute="79" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="78" period="2" second="37" time="80" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté misses attempt (To the left, Out of box, Right footed, From corner)" minute="76" period="2" second="35" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="76" period="2" second="8" time="78" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi blocks a shot" minute="74" period="2" second="42" time="76" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (Out of box, Left footed, From corner)" minute="74" period="2" second="42" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="74" period="2" second="0" time="76" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" minute="73" period="2" second="58" time="75" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (18-yard box, Head, Open play)" minute="73" period="2" second="58" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Løvenkrands is substituted off" minute="73" period="2" second="15" time="75" type="substitution off" type_id="18"/>
+	<message comment="Nile Ranger is substituted on" minute="73" period="2" second="15" time="75" type="substitution on" type_id="19"/>
+	<message comment="Maxi Rodríguez is substituted off" minute="69" period="2" second="35" time="71" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" minute="69" period="2" second="35" time="71" type="substitution on" type_id="19"/>
+	<message comment="Jay Spearing blocks a shot" minute="66" period="2" second="41" time="68" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has shot blocked (Out of box, Right footed, Open play)" minute="66" period="2" second="41" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Luis Suárez scores , Assisted by Dirk Kuyt (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="64" period="2" second="10" time="66" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez misses attempt (High to the right, Out of box, Right footed, Open play)" minute="61" period="2" second="17" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Dirk Kuyt misses attempt (18-yard box, Big Chance, Head, Set piece)" minute="60" period="2" second="11" time="62" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Dirk Kuyt scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="58" period="2" second="33" time="60" type="goal scored" type_id="16"/>
+	<message comment="Mike Williamson recieves a yellow card" minute="57" period="2" second="55" time="59" type="card received" type_id="17"/>
+	<message comment="Luis Suárez misses attempt (High, Out of box, Right footed, Open play)" minute="56" period="2" second="26" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="54" period="2" second="0" time="56" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt is caught offside" minute="52" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="50" period="2" second="13" time="52" type="card received" type_id="17"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="46" period="2" second="18" time="48" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="46" period="2" second="17" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton misses attempt (18-yard box, Right footed, Open play)" minute="45" period="2" second="39" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="8" time="46" type="end" type_id="30"/>
+	<message comment="Shola Ameobi misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="40" period="1" second="8" time="40" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique wins a corner (To the right)" minute="39" period="1" second="3" time="39" type="corner" type_id="6"/>
+	<message comment="Maxi Rodríguez blocks a shot" minute="38" period="1" second="59" time="38" type="save made" type_id="10"/>
+	<message comment="José Enrique has shot blocked (Out of box, Left footed, Free kick)" minute="38" period="1" second="59" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="37" period="1" second="5" time="37" type="save made" type_id="10"/>
+	<message comment="Lucas Leiva has attempt saved (High to the right, 18-yard box, Head, Open play)" minute="37" period="1" second="5" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="35" period="1" second="7" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="34" period="1" second="37" time="34" type="corner" type_id="6"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="32" period="1" second="45" time="32" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="32" period="1" second="9" time="32" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi has shot blocked (18-yard box, Head, From corner)" minute="30" period="1" second="33" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Lucas Leiva blocks a shot" minute="30" period="1" second="33" time="30" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="29" period="1" second="55" time="29" type="corner" type_id="6"/>
+	<message comment="Jon Flanagan recieves a yellow card" minute="28" period="1" second="20" time="28" type="card received" type_id="17"/>
+	<message comment="Shola Ameobi misses attempt (To the right, 18-yard box, Head, Open play)" minute="24" period="1" second="17" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Collected)" minute="23" period="1" second="3" time="23" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="23" period="1" second="3" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="22" period="1" second="20" time="22" type="save made" type_id="10"/>
+	<message comment="Jay Spearing has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="22" period="1" second="20" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="GOAL! Maxi Rodríguez scores  (Low to the centre, 18-yard box, Right footed, Open play)" minute="9" period="1" second="9" time="9" type="goal scored" type_id="16"/>
+	<message comment="Mike Williamson blocks a shot" minute="7" period="1" second="29" time="7" type="save made" type_id="10"/>
+	<message comment="Jay Spearing has shot blocked (Out of box, Left footed, Open play)" minute="7" period="1" second="29" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="6" period="1" second="11" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="2" period="1" second="56" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

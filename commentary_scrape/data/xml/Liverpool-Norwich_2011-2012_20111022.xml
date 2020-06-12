@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2011-10-22" home_team_name="Norwich" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="38" time="96" type="end" type_id="30"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="94" period="2" second="20" time="96" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Parried safe, Diving)" minute="94" period="2" second="17" time="96" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Set piece)" minute="94" period="2" second="17" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll misses attempt (6-yard box, Big Chance, Head, Open play)" minute="93" period="2" second="11" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="92" period="2" second="49" time="94" type="corner" type_id="6"/>
+	<message comment="Anthony Pilkington is substituted off" minute="92" period="2" second="17" time="94" type="substitution off" type_id="18"/>
+	<message comment="Andrew Crofts is substituted on" minute="92" period="2" second="17" time="94" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson wins a corner (To the left)" minute="91" period="2" second="45" time="93" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt is substituted off" minute="90" period="2" second="6" time="92" type="substitution off" type_id="18"/>
+	<message comment="Daniel Agger is substituted on" minute="90" period="2" second="6" time="92" type="substitution on" type_id="19"/>
+	<message comment="Glen Johnson misses attempt (High to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="46" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Grant Holt has shot blocked (Out of box, Right footed, Fast break)" minute="87" period="2" second="17" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher blocks a shot" minute="87" period="2" second="17" time="89" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington wins a corner (To the left)" minute="82" period="2" second="42" time="84" type="corner" type_id="6"/>
+	<message comment="Anthony Pilkington has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="41" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson blocks a shot" minute="82" period="2" second="41" time="84" type="save made" type_id="10"/>
+	<message comment="Leon Barnett blocks a shot" minute="80" period="2" second="35" time="82" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has shot blocked (Out of box, Right footed, Fast break)" minute="80" period="2" second="35" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez is caught offside" minute="80" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Stewart Downing is substituted off" minute="79" period="2" second="32" time="81" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted on" minute="79" period="2" second="32" time="81" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="77" period="2" second="25" time="79" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Diving)" minute="77" period="2" second="20" time="79" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="77" period="2" second="20" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Hoolahan misses attempt (Out of box, Left footed, Open play)" minute="71" period="2" second="47" time="73" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save" minute="68" period="2" second="59" time="70" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="68" period="2" second="59" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Bellamy is substituted off" minute="68" period="2" second="28" time="70" type="substitution off" type_id="18"/>
+	<message comment="Jordan Henderson is substituted on" minute="68" period="2" second="28" time="70" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="66" period="2" second="37" time="68" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Standing, Parried safe, Feet)" minute="66" period="2" second="36" time="68" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="66" period="2" second="36" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Tierney blocks a shot" minute="66" period="2" second="21" time="68" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="21" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" minute="66" period="2" second="12" time="68" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="12" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Grant Holt has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="65" period="2" second="5" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried into danger)" minute="65" period="2" second="5" time="67" type="save made" type_id="10"/>
+	<message comment="Kyle Naughton has shot blocked (Out of box, Left footed, Open play)" minute="64" period="2" second="54" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="64" period="2" second="54" time="66" type="save made" type_id="10"/>
+	<message comment="Luis Suárez is caught offside" minute="61" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="GOAL! Grant Holt scores , Assisted by Anthony Pilkington (High to the right, 18-yard box, Big Chance, Head, Open play)" minute="59" period="2" second="53" time="61" type="goal scored" type_id="16"/>
+	<message comment="David Fox has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="58" period="2" second="5" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Standing)" minute="58" period="2" second="5" time="60" type="save made" type_id="10"/>
+	<message comment="John Ruddy makes a save (Standing)" minute="56" period="2" second="33" time="58" type="save made" type_id="10"/>
+	<message comment="Craig Bellamy has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="56" period="2" second="33" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Elliott Bennett is substituted off" minute="56" period="2" second="3" time="58" type="substitution off" type_id="18"/>
+	<message comment="Grant Holt is substituted on" minute="56" period="2" second="3" time="58" type="substitution on" type_id="19"/>
+	<message comment="John Ruddy makes a save" minute="54" period="2" second="53" time="56" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="54" period="2" second="53" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="50" period="2" second="32" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Russell Martin blocks a shot" minute="50" period="2" second="29" time="52" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="29" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt misses attempt (To the left, 18-yard box, Head, Open play)" minute="47" period="2" second="54" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="46" period="2" second="28" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="46" period="2" second="28" time="48" type="save made" type_id="10"/>
+	<message comment="Luis Suárez is caught offside" minute="45" period="2" time="47" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="48" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Craig Bellamy scores  (Low to the right, 18-yard box, Right footed, Open play)" minute="45" period="1" second="53" time="45" type="goal scored" type_id="16"/>
+	<message comment="Wes Hoolahan wins a corner (To the left)" minute="43" period="1" second="3" time="43" type="corner" type_id="6"/>
+	<message comment="Craig Bellamy misses attempt (To the right, Out of box, Right footed, Open play)" minute="41" period="1" second="37" time="41" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save (Collected)" minute="39" period="1" second="17" time="39" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="39" period="1" second="17" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="36" period="1" second="21" time="36" type="corner" type_id="6"/>
+	<message comment="Glen Johnson misses attempt (High, 18-yard box, Head, From corner)" minute="35" period="1" second="23" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="35" period="1" second="3" time="35" type="corner" type_id="6"/>
+	<message comment="Elliott Bennett blocks a shot" minute="34" period="1" second="9" time="34" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (Out of box, Left footed, Set piece)" minute="34" period="1" second="9" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Morison blocks a shot" minute="34" period="1" second="6" time="34" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (Out of box, Left footed, Free kick)" minute="34" period="1" second="6" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Tierney recieves a yellow card" minute="33" period="1" second="19" time="33" type="card received" type_id="17"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="31" period="1" second="14" time="31" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Dirk Kuyt is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="Leon Barnett blocks a shot" minute="24" period="1" second="43" time="24" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="43" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Elliott Bennett has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="22" period="1" second="54" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="22" period="1" second="54" time="22" type="save made" type_id="10"/>
+	<message comment="Elliott Bennett has shot blocked (Out of box, Left footed, Open play)" minute="22" period="1" second="51" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="22" period="1" second="51" time="22" type="save made" type_id="10"/>
+	<message comment="Steve Morison has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="21" period="1" second="6" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="21" period="1" second="6" time="21" type="save made" type_id="10"/>
+	<message comment="Luis Suárez is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Elliott Bennett wins a corner (To the left)" minute="20" period="1" second="46" time="20" type="corner" type_id="6"/>
+	<message comment="Stewart Downing is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="16" period="1" second="36" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Parried into danger)" minute="15" period="1" second="33" time="15" type="save made" type_id="10"/>
+	<message comment="Wes Hoolahan has attempt saved (Low to the centre, 18-yard box, Left footed, Fast break)" minute="15" period="1" second="33" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez misses attempt (High, Out of box, Right footed, Open play)" minute="13" period="1" second="11" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Marc Tierney blocks a shot" minute="12" period="1" second="47" time="12" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Left footed, Fast break)" minute="12" period="1" second="47" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="10" period="1" second="31" time="10" type="attempt missed" type_id="13"/>
+	<message comment="John Ruddy makes a save (Diving)" minute="10" period="1" second="28" time="10" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="10" period="1" second="28" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Right footed, Throw-in)" minute="4" period="1" second="35" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the right, 6-yard box, Head, From corner)" minute="2" period="1" second="29" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="2" period="1" second="9" time="2" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel hits the woodwork (High, 6-yard box, Head, From corner)" minute="1" period="1" second="59" time="1" type="woodwork hit" type_id="14"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="1" period="1" second="41" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

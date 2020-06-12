@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-09-21" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="42" time="99" type="end" type_id="30"/>
+	<message comment="Moussa Sissoko recieves a yellow card" minute="94" period="2" second="55" time="97" type="card received" type_id="17"/>
+	<message comment="Sone Aluko is caught offside" minute="94" period="2" time="97" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy misses attempt (6-yard box, Big Chance, Right footed, Open play)" minute="90" period="2" second="21" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone recieves a yellow card" minute="89" period="2" second="26" time="92" type="card received" type_id="17"/>
+	<message comment="Tom Huddlestone is caught offside" minute="89" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy is substituted off" minute="85" period="2" second="40" time="88" type="substitution off" type_id="18"/>
+	<message comment="Cheick Tioté is substituted on" minute="85" period="2" second="40" time="88" type="substitution on" type_id="19"/>
+	<message comment="Danny Graham is substituted off" minute="83" period="2" second="59" time="86" type="substitution off" type_id="18"/>
+	<message comment="Yannick Sagbo is substituted on" minute="83" period="2" second="59" time="86" type="substitution on" type_id="19"/>
+	<message comment="Jake Livermore blocks a shot" minute="78" period="2" second="45" time="81" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Free kick)" minute="78" period="2" second="45" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Sone Aluko scores , Assisted by George Boyd (High to the right, 18-yard box, Left footed, Open play)" minute="75" period="2" second="47" time="78" type="goal scored" type_id="16"/>
+	<message comment="Robbie Brady is substituted off" minute="73" period="2" second="23" time="76" type="substitution off" type_id="18"/>
+	<message comment="David Meyler is substituted on" minute="73" period="2" second="23" time="76" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="72" period="2" second="45" time="75" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="72" period="2" second="45" time="75" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the left)" minute="71" period="2" second="32" time="74" type="corner" type_id="6"/>
+	<message comment="Robbie Brady is caught offside" minute="68" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="George Boyd wins a corner (To the right)" minute="67" period="2" second="40" time="70" type="corner" type_id="6"/>
+	<message comment="Danny Graham is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Stephen Quinn is substituted off" minute="63" period="2" second="52" time="66" type="substitution off" type_id="18"/>
+	<message comment="George Boyd is substituted on" minute="63" period="2" second="52" time="66" type="substitution on" type_id="19"/>
+	<message comment="Yohan Cabaye is substituted off" minute="61" period="2" second="20" time="64" type="substitution off" type_id="18"/>
+	<message comment="Yoan Gouffran is substituted on" minute="61" period="2" second="20" time="64" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Debuchy misses attempt (High to the right, Out of box, Right footed, Open play)" minute="54" period="2" second="58" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="54" period="2" second="11" time="57" type="corner" type_id="6"/>
+	<message comment="Davide Santon wins a corner (To the left)" minute="51" period="2" second="25" time="54" type="corner" type_id="6"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Right footed, Open play)" minute="49" period="2" second="59" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="49" period="2" second="59" time="52" type="save made" type_id="10"/>
+	<message comment="GOAL! Ahmed El Mohamady scores , Assisted by Robbie Brady (Low to the right, 18-yard box, Head, Set piece)" minute="47" period="2" second="35" time="50" type="goal scored" type_id="16"/>
+	<message comment="Sone Aluko has shot blocked (18-yard box, Left footed, Open play)" minute="45" period="2" second="32" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Mapou Yanga-Mbiwa blocks a shot" minute="45" period="2" second="32" time="48" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Loïc Rémy scores  (Low to the right, 18-yard box, Right footed, Open play)" minute="43" period="1" second="33" time="43" type="goal scored" type_id="16"/>
+	<message comment="James Chester blocks a shot" minute="43" period="1" second="31" time="43" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Open play)" minute="43" period="1" second="31" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Loïc Rémy misses attempt (To the left, 18-yard box, Head, Open play)" minute="41" period="1" second="0" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye misses attempt (High, Out of box, Right footed, Open play)" minute="39" period="1" second="14" time="39" type="attempt missed" type_id="13"/>
+	<message comment="James Chester misses attempt (To the right, 6-yard box, Right footed, From corner)" minute="36" period="1" second="30" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Jake Livermore wins a corner (To the right)" minute="35" period="1" second="45" time="35" type="corner" type_id="6"/>
+	<message comment="Jake Livermore has shot blocked (18-yard box, Right footed, Open play)" minute="35" period="1" second="43" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="35" period="1" second="43" time="35" type="save made" type_id="10"/>
+	<message comment="James Chester blocks a shot" minute="34" period="1" second="21" time="34" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="34" period="1" second="21" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Sone Aluko has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="29" period="1" second="13" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Collected)" minute="29" period="1" second="13" time="29" type="save made" type_id="10"/>
+	<message comment="GOAL! Robbie Brady scores , Assisted by Sone Aluko (Low to the centre, 18-yard box, Left footed, Open play)" minute="25" period="1" second="47" time="25" type="goal scored" type_id="16"/>
+	<message comment="Danny Graham has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="25" period="1" second="26" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="25" period="1" second="26" time="25" type="save made" type_id="10"/>
+	<message comment="Jake Livermore has shot blocked (18-yard box, Right footed, Open play)" minute="19" period="1" second="46" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="19" period="1" second="46" time="19" type="save made" type_id="10"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="42" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Mapou Yanga-Mbiwa blocks a shot" minute="19" period="1" second="42" time="19" type="save made" type_id="10"/>
+	<message comment="Danny Graham is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Robbie Brady wins a corner (To the right)" minute="15" period="1" second="57" time="15" type="corner" type_id="6"/>
+	<message comment="James Chester blocks a shot" minute="15" period="1" second="29" time="15" type="save made" type_id="10"/>
+	<message comment="Loïc Rémy has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="29" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" minute="15" period="1" second="2" time="15" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (18-yard box, Left footed, Open play)" minute="15" period="1" second="2" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Loïc Rémy scores , Assisted by Papiss Demba Cissé (Low to the right, 6-yard box, Big Chance, Head, Open play)" minute="9" period="1" second="57" time="9" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé misses attempt (To the right, 18-yard box, Key pass, Left footed, Open play)" minute="9" period="1" second="56" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Sone Aluko has shot blocked (Out of box, Left footed, Open play)" minute="7" period="1" second="15" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Mapou Yanga-Mbiwa misses attempt (High to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="14" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy misses attempt (High to the right, Out of box, Right footed, Open play)" minute="2" period="1" second="13" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Curtis Davies blocks a shot" minute="1" period="1" second="3" time="1" type="save made" type_id="10"/>
+	<message comment="Moussa Sissoko has shot blocked (Out of box, Right footed, Open play)" minute="1" period="1" second="3" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

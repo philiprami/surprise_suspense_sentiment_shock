@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2010-09-18" home_team_name="West Ham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="5" time="97" type="end" type_id="30"/>
+	<message comment="Victor Obinna is substituted off" minute="92" period="2" second="35" time="96" type="substitution off" type_id="18"/>
+	<message comment="Luís Boa Morte is substituted on" minute="92" period="2" second="35" time="96" type="substitution on" type_id="19"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="90" period="2" second="22" time="94" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="90" period="2" second="20" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save (Parried safe)" minute="90" period="2" second="20" time="94" type="save made" type_id="10"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Right footed, Set piece)" minute="84" period="2" second="30" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Danny Collins recieves a yellow card" minute="83" period="2" second="5" time="87" type="card received" type_id="17"/>
+	<message comment="Jermaine Pennant is substituted off" minute="82" period="2" second="14" time="86" type="substitution off" type_id="18"/>
+	<message comment="Glenn Whelan is substituted on" minute="82" period="2" second="14" time="86" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Fuller hits the woodwork (High, 18-yard box, Head, Throw-in)" minute="81" period="2" second="33" time="85" type="woodwork hit" type_id="14"/>
+	<message comment="Ryan Shawcross is caught offside" minute="80" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Danny Collins wins a corner (To the right)" minute="79" period="2" second="31" time="83" type="corner" type_id="6"/>
+	<message comment="Victor Obinna misses attempt (To the left, Out of box, Left footed, Fast break)" minute="75" period="2" second="28" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Rory Delap wins a corner (To the right)" minute="74" period="2" second="51" time="78" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne misses attempt (To the right, 18-yard box, Head, Open play)" minute="73" period="2" second="15" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones is substituted off" minute="72" period="2" second="40" time="76" type="substitution off" type_id="18"/>
+	<message comment="Eidur Gudjohnsen is substituted on" minute="72" period="2" second="40" time="76" type="substitution on" type_id="19"/>
+	<message comment="Thomas Sørensen makes a save (Parried safe, Diving)" minute="70" period="2" second="26" time="74" type="save made" type_id="10"/>
+	<message comment="Manuel da Costa has attempt saved (Low to the right, 6-yard box, Head, From corner)" minute="70" period="2" second="26" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Obinna wins a corner (To the left)" minute="70" period="2" second="0" time="74" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="69" period="2" second="59" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Sørensen makes a save (Parried safe, Diving)" minute="69" period="2" second="59" time="73" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones is caught offside" minute="67" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Jonathan Walters is substituted off" minute="65" period="2" second="25" time="69" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Fuller is substituted on" minute="65" period="2" second="25" time="69" type="substitution on" type_id="19"/>
+	<message comment="Mark Noble is caught offside" minute="59" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Dean Whitehead has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="10" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Matt Upson blocks a shot" minute="58" period="2" second="10" time="62" type="save made" type_id="10"/>
+	<message comment="Jermaine Pennant has shot blocked (Out of box, Left footed, Open play)" minute="58" period="2" second="7" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker blocks a shot" minute="58" period="2" second="7" time="62" type="save made" type_id="10"/>
+	<message comment="Robert Green makes a save (Standing)" minute="58" period="2" second="5" time="62" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="58" period="2" second="5" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Valon Behrami is substituted off" minute="51" period="2" second="59" time="55" type="substitution off" type_id="18"/>
+	<message comment="Radoslav Kovac is substituted on" minute="51" period="2" second="59" time="55" type="substitution on" type_id="19"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="49" period="2" second="5" time="53" type="corner" type_id="6"/>
+	<message comment="Lars Jacobsen blocks a shot" minute="49" period="2" second="3" time="53" type="save made" type_id="10"/>
+	<message comment="Matthew Etherington has shot blocked (18-yard box, Left footed, Open play)" minute="49" period="2" second="3" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Kenwyne Jones scores , Assisted by Jermaine Pennant (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="47" period="2" second="37" time="51" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="19" time="48" type="end" type_id="30"/>
+	<message comment="Dean Whitehead recieves a yellow card" minute="44" period="1" second="36" time="44" type="card received" type_id="17"/>
+	<message comment="Carlton Cole recieves a yellow card" minute="38" period="1" second="50" time="38" type="card received" type_id="17"/>
+	<message comment="Thomas Sørensen makes a save" minute="38" period="1" second="35" time="38" type="save made" type_id="10"/>
+	<message comment="Mark Noble has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="38" period="1" second="35" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones misses attempt (High, 6-yard box, Big Chance, Head, Throw-in)" minute="36" period="1" second="51" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Frédéric Piquionne hits the woodwork (High, Out of box, Right footed, Open play)" minute="33" period="1" second="42" time="33" type="woodwork hit" type_id="14"/>
+	<message comment="Manuel da Costa blocks a shot" minute="33" period="1" second="15" time="33" type="save made" type_id="10"/>
+	<message comment="Rory Delap has shot blocked (Out of box, Left footed, Open play)" minute="33" period="1" second="15" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Carlton Cole is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="GOAL! Scott Parker scores  (Low to the right, 6-yard box, Big Chance, Right footed, Set piece)" minute="31" period="1" second="35" time="31" type="goal scored" type_id="16"/>
+	<message comment="Matthew Etherington is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Victor Obinna misses attempt (To the left, Out of box, Right footed, Set piece)" minute="24" period="1" second="8" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Rory Delap recieves a yellow card" minute="23" period="1" second="41" time="23" type="card received" type_id="17"/>
+	<message comment="Thomas Sørensen makes a save" minute="22" period="1" second="31" time="22" type="save made" type_id="10"/>
+	<message comment="Carlton Cole has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="22" period="1" second="31" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones misses attempt (To the left, 18-yard box, Left footed, Set piece)" minute="21" period="1" second="15" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant has shot blocked (Out of box, Right footed, Free kick)" minute="21" period="1" second="12" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Noble blocks a shot" minute="21" period="1" second="12" time="21" type="save made" type_id="10"/>
+	<message comment="Valon Behrami recieves a yellow card" minute="20" period="1" second="11" time="20" type="card received" type_id="17"/>
+	<message comment="Robert Huth hits the woodwork (To the right, 6-yard box, Big Chance, Right footed, Set piece)" minute="18" period="1" second="44" time="18" type="woodwork hit" type_id="14"/>
+	<message comment="Frédéric Piquionne has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="12" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Collins blocks a shot" minute="15" period="1" second="12" time="15" type="save made" type_id="10"/>
+	<message comment="Thomas Sørensen makes a save" minute="14" period="1" second="3" time="14" type="save made" type_id="10"/>
+	<message comment="Victor Obinna has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="14" period="1" second="3" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green wins a corner (To the left)" minute="13" period="1" second="23" time="13" type="corner" type_id="6"/>
+	<message comment="Rory Delap wins a corner (To the left)" minute="10" period="1" second="51" time="10" type="corner" type_id="6"/>
+	<message comment="Robert Huth misses attempt (To the right, 18-yard box, Head, From corner)" minute="10" period="1" second="16" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant wins a corner (To the right)" minute="9" period="1" second="43" time="9" type="corner" type_id="6"/>
+	<message comment="Carlton Cole misses attempt (To the right, Out of box, Left footed, Open play)" minute="9" period="1" second="0" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Valon Behrami wins a corner (To the left)" minute="6" period="1" second="53" time="6" type="corner" type_id="6"/>
+	<message comment="Abdoulaye Diagne-Faye has shot blocked (18-yard box, Head, Throw-in)" minute="6" period="1" second="18" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel da Costa blocks a shot" minute="6" period="1" second="18" time="6" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

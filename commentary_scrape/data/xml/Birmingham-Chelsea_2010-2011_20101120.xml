@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Birmingham" competition="English Premier League" game_date="2010-11-20" home_team_name="Chelsea" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="19" time="98" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="93" period="2" second="49" time="97" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou misses attempt (To the left, 18-yard box, Other body part, Open play)" minute="88" period="2" second="55" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson misses attempt (To the right, Out of box, Right footed, Open play)" minute="88" period="2" second="14" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Keith Fahey blocks a shot" minute="88" period="2" second="7" time="92" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (18-yard box, Right footed, From corner)" minute="88" period="2" second="7" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech wins a corner (To the left)" minute="87" period="2" second="35" time="91" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou misses attempt (18-yard box, Head, Throw-in)" minute="86" period="2" second="9" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Keith Fahey recieves a yellow card" minute="84" period="2" second="45" time="88" type="card received" type_id="17"/>
+	<message comment="Alex misses attempt (High, 18-yard box, Left footed, Open play)" minute="81" period="2" second="56" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell recieves a yellow card" minute="77" period="2" second="39" time="81" type="card received" type_id="17"/>
+	<message comment="Branislav Ivanovic misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="75" period="2" second="45" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Diving)" minute="75" period="2" second="42" time="79" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="75" period="2" second="42" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="75" period="2" second="25" time="79" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" minute="74" period="2" second="52" time="78" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou has shot blocked (Out of box, Right footed, Open play)" minute="74" period="2" second="52" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Ferguson blocks a shot" minute="74" period="2" second="3" time="78" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (Out of box, Right footed, Open play)" minute="74" period="2" second="3" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Florent Malouda wins a corner (To the right)" minute="73" period="2" second="18" time="77" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson blocks a shot" minute="73" period="2" second="16" time="77" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, From corner)" minute="73" period="2" second="16" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Salomon Kalou wins a corner (To the right)" minute="72" period="2" second="42" time="76" type="corner" type_id="6"/>
+	<message comment="Ramires is substituted off" minute="71" period="2" second="50" time="75" type="substitution off" type_id="18"/>
+	<message comment="Daniel Sturridge is substituted on" minute="71" period="2" second="50" time="75" type="substitution on" type_id="19"/>
+	<message comment="Nikola Zigic is substituted off" minute="71" period="2" second="39" time="75" type="substitution off" type_id="18"/>
+	<message comment="Aliaksandr Hleb is substituted on" minute="71" period="2" second="39" time="75" type="substitution on" type_id="19"/>
+	<message comment="Salomon Kalou misses attempt (18-yard box, Head, Open play)" minute="71" period="2" second="0" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="70" period="2" second="0" time="74" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="70" period="2" second="0" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="José Bosingwa misses attempt (To the left, Out of box, Left footed, Open play)" minute="67" period="2" second="58" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Paulo Ferreira is substituted off" minute="64" period="2" second="23" time="68" type="substitution off" type_id="18"/>
+	<message comment="José Bosingwa is substituted on" minute="64" period="2" second="23" time="68" type="substitution on" type_id="19"/>
+	<message comment="Salomon Kalou misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="61" period="2" second="24" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, From corner)" minute="59" period="2" second="54" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" minute="59" period="2" second="54" time="63" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="59" period="2" second="31" time="63" type="corner" type_id="6"/>
+	<message comment="Paulo Ferreira wins a corner (To the right)" minute="57" period="2" second="36" time="61" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" minute="54" period="2" second="38" time="58" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="47" period="2" second="27" time="51" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="12" time="48" type="end" type_id="30"/>
+	<message comment="Nicolas Anelka misses attempt (To the right, Out of box, Right footed, Open play)" minute="47" period="1" second="12" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="44" period="1" second="59" time="44" type="corner" type_id="6"/>
+	<message comment="Ramires wins a corner (To the left)" minute="43" period="1" second="27" time="43" type="corner" type_id="6"/>
+	<message comment="Ramires misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="37" period="1" second="22" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba hits the woodwork (High, 18-yard box, Head, Throw-in)" minute="37" period="1" second="19" time="37" type="woodwork hit" type_id="14"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="36" period="1" second="17" time="36" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="36" period="1" second="14" time="36" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="36" period="1" second="14" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Alex misses attempt (To the left, 18-yard box, Head, From corner)" minute="33" period="1" second="42" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="33" period="1" second="17" time="33" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="32" period="1" second="5" time="32" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell has shot blocked (18-yard box, Left footed, Set piece)" minute="32" period="1" second="2" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba blocks a shot" minute="32" period="1" second="2" time="32" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="30" period="1" second="26" time="30" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="30" period="1" second="26" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic misses attempt (High, 18-yard box, Head, From corner)" minute="28" period="1" second="51" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="28" period="1" second="28" time="28" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe)" minute="28" period="1" second="26" time="28" type="save made" type_id="10"/>
+	<message comment="Ashley Cole has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="28" period="1" second="26" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires wins a corner (To the right)" minute="24" period="1" second="4" time="24" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="23" period="1" second="55" time="23" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Right footed, From corner)" minute="23" period="1" second="55" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Keith Fahey blocks a shot" minute="23" period="1" second="47" time="23" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Head, From corner)" minute="23" period="1" second="47" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="23" period="1" second="23" time="23" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="23" period="1" second="21" time="23" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="23" period="1" second="21" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected, Diving)" minute="21" period="1" second="48" time="21" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="21" period="1" second="48" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Lee Bowyer scores , Assisted by Cameron Jerome (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="16" period="1" second="46" time="16" type="goal scored" type_id="16"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="15" period="1" second="2" time="15" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (18-yard box, Head, Open play)" minute="12" period="1" second="59" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="10" period="1" second="54" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Salomon Kalou wins a corner (To the left)" minute="10" period="1" second="28" time="10" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou has shot blocked (Out of box, Left footed, Open play)" minute="9" period="1" second="4" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, Out of box, Big Chance, Right footed, Open play)" minute="5" period="1" second="17" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Parried safe)" minute="5" period="1" second="17" time="5" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (Low to the right, 6-yard box, Head, Open play)" minute="3" period="1" second="27" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="3" period="1" second="27" time="3" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="2" period="1" second="31" time="2" type="corner" type_id="6"/>
+	<message comment="Salomon Kalou misses attempt (6-yard box, Big Chance, Right footed, Open play)" minute="1" period="1" second="1" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

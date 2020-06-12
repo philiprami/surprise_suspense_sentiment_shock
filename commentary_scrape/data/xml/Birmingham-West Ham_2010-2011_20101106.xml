@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Birmingham" competition="English Premier League" game_date="2010-11-06" home_team_name="West Ham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="52" time="96" type="end" type_id="30"/>
+	<message comment="Victor Obinna is substituted off" minute="90" period="2" second="45" time="92" type="substitution off" type_id="18"/>
+	<message comment="Radoslav Kovac is substituted on" minute="90" period="2" second="45" time="92" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is substituted off" minute="88" period="2" second="45" time="90" type="substitution off" type_id="18"/>
+	<message comment="Lee Bowyer is substituted on" minute="88" period="2" second="45" time="90" type="substitution on" type_id="19"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="83" period="2" second="26" time="85" type="save made" type_id="10"/>
+	<message comment="Jean Beausejour has shot blocked (Out of box, Left footed, Open play)" minute="83" period="2" second="26" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Luís Boa Morte is substituted off" minute="82" period="2" second="40" time="84" type="substitution off" type_id="18"/>
+	<message comment="Kieron Dyer is substituted on" minute="82" period="2" second="40" time="84" type="substitution on" type_id="19"/>
+	<message comment="Frédéric Piquionne misses attempt (18-yard box, Head, Open play)" minute="82" period="2" second="15" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Victor Obinna recieves a yellow card" minute="80" period="2" second="58" time="82" type="card received" type_id="17"/>
+	<message comment="Danny Gabbidon blocks a shot (Last line)" minute="77" period="2" second="18" time="79" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="77" period="2" second="18" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Nikola Zigic misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="76" period="2" second="23" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Valon Behrami misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="75" period="2" second="58" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Valon Behrami has shot blocked (Out of box, Left footed, Open play)" minute="74" period="2" second="37" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="74" period="2" second="37" time="76" type="save made" type_id="10"/>
+	<message comment="GOAL! Liam Ridgewell scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Set piece)" minute="72" period="2" second="39" time="74" type="goal scored" type_id="16"/>
+	<message comment="Robert Green makes a save (Parried into danger, Diving)" minute="72" period="2" second="37" time="74" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="72" period="2" second="37" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Obinna has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="68" period="2" second="9" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Collected)" minute="68" period="2" second="9" time="70" type="save made" type_id="10"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="66" period="2" second="20" time="68" type="save made" type_id="10"/>
+	<message comment="Jean Beausejour has shot blocked (18-yard box, Left footed, Set piece)" minute="66" period="2" second="20" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save (Diving, Parried safe)" minute="66" period="2" second="17" time="68" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="66" period="2" second="17" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="64" period="2" second="30" time="66" type="save made" type_id="10"/>
+	<message comment="Nikola Zigic has shot blocked (18-yard box, Head, Open play)" minute="64" period="2" second="30" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Cameron Jerome scores , Assisted by Nikola Zigic (High to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="63" period="2" second="19" time="65" type="goal scored" type_id="16"/>
+	<message comment="Victor Obinna has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="60" period="2" second="28" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save" minute="60" period="2" second="28" time="62" type="save made" type_id="10"/>
+	<message comment="Carlton Cole is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Keith Fahey is substituted off" minute="58" period="2" second="20" time="60" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" minute="58" period="2" second="20" time="60" type="substitution on" type_id="19"/>
+	<message comment="Aliaksandr Hleb is substituted off" minute="58" period="2" second="5" time="60" type="substitution off" type_id="18"/>
+	<message comment="Jean Beausejour is substituted on" minute="58" period="2" second="5" time="60" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Valon Behrami scores , Assisted by Carlton Cole (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="57" period="2" second="4" time="59" type="goal scored" type_id="16"/>
+	<message comment="Carlton Cole misses attempt (6-yard box, Head, From corner)" minute="56" period="2" second="25" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Luís Boa Morte wins a corner (To the left)" minute="55" period="2" second="50" time="57" type="corner" type_id="6"/>
+	<message comment="Nikola Zigic is caught offside" minute="54" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Victor Obinna misses attempt (High to the right, Out of box, Right footed, Open play)" minute="50" period="2" second="18" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Victor Obinna has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="4" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="49" period="2" second="4" time="51" type="save made" type_id="10"/>
+	<message comment="GOAL! Frédéric Piquionne scores , Assisted by Luís Boa Morte (Low to the left, 18-yard box, Right footed, Open play)" minute="47" period="2" second="48" time="49" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="32" time="46" type="end" type_id="30"/>
+	<message comment="Keith Fahey wins a corner (To the right)" minute="45" period="1" second="12" time="45" type="corner" type_id="6"/>
+	<message comment="Matt Upson blocks a shot" minute="45" period="1" second="10" time="45" type="save made" type_id="10"/>
+	<message comment="Keith Fahey has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="10" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Carlton Cole has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="43" period="1" second="22" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="43" period="1" second="22" time="43" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne wins a corner (To the right)" minute="42" period="1" second="10" time="42" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="39" period="1" second="53" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Collected)" minute="39" period="1" second="53" time="39" type="save made" type_id="10"/>
+	<message comment="Keith Fahey has shot blocked (18-yard box, Left footed, Open play)" minute="28" period="1" second="51" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="28" period="1" second="51" time="28" type="save made" type_id="10"/>
+	<message comment="Victor Obinna misses attempt (To the right, Out of box, Left footed, Open play)" minute="28" period="1" second="19" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Luís Boa Morte has shot blocked (18-yard box, Right footed, Open play)" minute="26" period="1" second="55" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="26" period="1" second="55" time="26" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="Frédéric Piquionne has shot blocked (Out of box, Left footed, Open play)" minute="23" period="1" second="26" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Dann blocks a shot" minute="23" period="1" second="26" time="23" type="save made" type_id="10"/>
+	<message comment="Victor Obinna misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="21" period="1" second="26" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Victor Obinna wins a corner (To the right)" minute="20" period="1" second="39" time="20" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="19" period="1" second="43" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Standing)" minute="19" period="1" second="43" time="19" type="save made" type_id="10"/>
+	<message comment="Scott Parker has shot blocked (Out of box, Right footed, From corner)" minute="17" period="1" second="30" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="17" period="1" second="30" time="17" type="save made" type_id="10"/>
+	<message comment="Carlton Cole wins a corner (To the right)" minute="17" period="1" second="4" time="17" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="17" period="1" second="0" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="17" period="1" second="0" time="17" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="14" period="1" second="30" time="14" type="corner" type_id="6"/>
+	<message comment="Carlton Cole misses attempt (To the right, Out of box, Left footed, Open play)" minute="10" period="1" second="30" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Roger Johnson misses attempt (High to the left, 6-yard box, Head, From corner)" minute="9" period="1" second="50" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="9" period="1" second="16" time="9" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="6" period="1" second="48" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="6" period="1" second="48" time="6" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Frédéric Piquionne misses attempt (To the left, Out of box, Right footed, Free kick)" minute="4" period="1" second="7" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

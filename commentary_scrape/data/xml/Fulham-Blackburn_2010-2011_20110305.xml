@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2011-03-05" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Gaël Givet recieves a red card" minute="94" period="2" second="50" time="98" type="card received" type_id="17"/>
+	<message comment="Second half ends" minute="94" period="2" second="36" time="98" type="end" type_id="30"/>
+	<message comment="Gaël Kakuta misses attempt (High to the right, Out of box, Left footed, Free kick)" minute="92" period="2" second="52" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Míchel Salgado is substituted off" minute="89" period="2" second="30" time="93" type="substitution off" type_id="18"/>
+	<message comment="Brett Emerton is substituted on" minute="89" period="2" second="30" time="93" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Bobby Zamora scores  (High to the centre, 18-yard box, Big Chance, Penalty, Left footed)" minute="88" period="2" second="45" time="92" type="goal scored" type_id="16"/>
+	<message comment="Jermaine Jones recieves a yellow card" minute="88" period="2" second="0" time="92" type="card received" type_id="17"/>
+	<message comment="Grant Hanley recieves a yellow card" minute="87" period="2" second="58" time="91" type="card received" type_id="17"/>
+	<message comment="Andrew Johnson wins a corner (To the right)" minute="87" period="2" second="21" time="91" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="87" period="2" second="17" time="91" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="87" period="2" second="17" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson blocks a shot" minute="86" period="2" second="56" time="90" type="save made" type_id="10"/>
+	<message comment="Chris Baird has shot blocked (Out of box, Left footed, Open play)" minute="86" period="2" second="56" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Jones blocks a shot" minute="86" period="2" second="46" time="90" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Left footed, Open play)" minute="86" period="2" second="44" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Roberts has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="84" period="2" second="42" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="84" period="2" second="42" time="88" type="save made" type_id="10"/>
+	<message comment="Paul Robinson makes a save" minute="84" period="2" second="18" time="88" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="84" period="2" second="18" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff wins a corner (To the left)" minute="83" period="2" second="23" time="87" type="corner" type_id="6"/>
+	<message comment="Martin Olsson blocks a shot" minute="83" period="2" second="19" time="87" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (18-yard box, Left footed, Open play)" minute="83" period="2" second="19" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="David Junior Hoilett is substituted off" minute="81" period="2" second="25" time="85" type="substitution off" type_id="18"/>
+	<message comment="Rubén Rochina is substituted on" minute="81" period="2" second="25" time="85" type="substitution on" type_id="19"/>
+	<message comment="Jason Roberts recieves a yellow card" minute="81" period="2" second="6" time="85" type="card received" type_id="17"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="80" period="2" second="18" time="84" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (Out of box, Left footed, Open play)" minute="79" period="2" second="19" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Dickson Etuhu blocks a shot" minute="79" period="2" second="18" time="83" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi misses attempt (High to the right, 18-yard box, Head, Open play)" minute="78" period="2" second="23" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé is substituted off" minute="77" period="2" second="31" time="81" type="substitution off" type_id="18"/>
+	<message comment="Gaël Kakuta is substituted on" minute="77" period="2" second="31" time="81" type="substitution on" type_id="19"/>
+	<message comment="Jermaine Jones misses attempt (Out of box, Right footed, Fast break)" minute="77" period="2" second="7" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Gaël Givet is substituted off" minute="76" period="2" second="45" time="80" type="substitution off" type_id="18"/>
+	<message comment="Morten Gamst Pedersen is substituted on" minute="76" period="2" second="45" time="80" type="substitution on" type_id="19"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="73" period="2" second="17" time="77" type="corner" type_id="6"/>
+	<message comment="Bobby Zamora wins a corner (To the right)" minute="70" period="2" second="38" time="74" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="70" period="2" second="35" time="74" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="70" period="2" second="35" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Bobby Zamora is substituted on" minute="69" period="2" second="52" time="73" type="substitution on" type_id="19"/>
+	<message comment="Danny Murphy is substituted off" minute="69" period="2" second="51" time="73" type="substitution off" type_id="18"/>
+	<message comment="Brede Hangeland blocks a shot" minute="68" period="2" second="21" time="72" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett has shot blocked (18-yard box, Right footed, Open play)" minute="68" period="2" second="21" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! David Junior Hoilett scores , Assisted by Jason Roberts (High to the left, 18-yard box, Left footed, Throw-in)" minute="64" period="2" second="55" time="68" type="goal scored" type_id="16"/>
+	<message comment="Andrew Johnson is caught offside" minute="63" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Mame Biram Diouf wins a corner (To the right)" minute="62" period="2" second="17" time="66" type="corner" type_id="6"/>
+	<message comment="Chris Baird blocks a shot (Last line)" minute="62" period="2" second="15" time="66" type="save made" type_id="10"/>
+	<message comment="Mame Biram Diouf has shot blocked (18-yard box, Head, Set piece)" minute="62" period="2" second="13" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Baird recieves a yellow card" minute="61" period="2" second="55" time="65" type="card received" type_id="17"/>
+	<message comment="GOAL! Damien Duff scores , Assisted by Mousa Dembélé (Low to the right, Out of box, Left footed, Open play)" minute="58" period="2" second="19" time="62" type="goal scored" type_id="16"/>
+	<message comment="Grant Hanley blocks a shot" minute="54" period="2" second="38" time="58" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" minute="54" period="2" second="36" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="52" period="2" second="58" time="56" type="corner" type_id="6"/>
+	<message comment="Grant Hanley blocks a shot" minute="52" period="2" second="41" time="56" type="save made" type_id="10"/>
+	<message comment="Aaron Hughes has shot blocked (18-yard box, Right footed, From corner)" minute="52" period="2" second="38" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Salcido wins a corner (To the left)" minute="52" period="2" second="0" time="56" type="corner" type_id="6"/>
+	<message comment="Carlos Salcido misses attempt (To the right, Out of box, Left footed, Open play)" minute="51" period="2" second="56" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Grant Hanley blocks a shot" minute="51" period="2" second="51" time="55" type="save made" type_id="10"/>
+	<message comment="Carlos Salcido has shot blocked (18-yard box, Right footed, Open play)" minute="51" period="2" second="51" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="48" period="2" second="16" time="52" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes misses attempt (High to the left, 6-yard box, Left footed, From corner)" minute="47" period="2" second="25" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the left)" minute="46" period="2" second="46" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="7" time="48" type="end" type_id="30"/>
+	<message comment="Andrew Johnson wins a corner (To the right)" minute="47" period="1" second="38" time="47" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland scores an OWN GOAL!  (High to the left, 18-yard box, Head, Open play)" minute="45" period="1" second="50" time="45" type="goal scored" type_id="16"/>
+	<message comment="Grant Hanley has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="49" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="David Junior Hoilett wins a corner (To the right)" minute="44" period="1" second="53" time="44" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett has shot blocked (Out of box, Right footed, Set piece)" minute="44" period="1" second="18" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="44" period="1" second="18" time="44" type="save made" type_id="10"/>
+	<message comment="Mame Biram Diouf is caught offside" minute="37" period="1" time="37" type="offside" type_id="10000"/>
+	<message comment="GOAL! Damien Duff scores , Assisted by Dickson Etuhu (Low to the right, 18-yard box, Left footed, Open play)" minute="36" period="1" second="17" time="36" type="goal scored" type_id="16"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="31" period="1" second="14" time="31" type="save made" type_id="10"/>
+	<message comment="Dickson Etuhu has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="31" period="1" second="14" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Andrew Johnson is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Grant Hanley has attempt saved (Low to the right, 18-yard box, Head, From corner)" minute="25" period="1" second="46" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Standing)" minute="25" period="1" second="46" time="25" type="save made" type_id="10"/>
+	<message comment="Jason Roberts wins a corner (To the right)" minute="25" period="1" second="20" time="25" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Feet, Diving)" minute="24" period="1" second="35" time="24" type="save made" type_id="10"/>
+	<message comment="Mame Biram Diouf has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" minute="24" period="1" second="35" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="22" period="1" second="42" time="22" type="corner" type_id="6"/>
+	<message comment="Martin Olsson wins a corner (To the right)" minute="19" period="1" second="30" time="19" type="corner" type_id="6"/>
+	<message comment="Martin Olsson has shot blocked (Out of box, Left footed, Open play)" minute="19" period="1" second="26" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Dickson Etuhu blocks a shot" minute="19" period="1" second="26" time="19" type="save made" type_id="10"/>
+	<message comment="Jason Roberts misses attempt (High, 18-yard box, Head, Open play)" minute="17" period="1" second="20" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Jason Roberts has shot blocked (Out of box, Right footed, Throw-in)" minute="16" period="1" second="33" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="16" period="1" second="33" time="16" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson misses attempt (18-yard box, Right footed, Open play)" minute="15" period="1" second="39" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff misses attempt (High, Out of box, Left footed, Set piece)" minute="10" period="1" second="27" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Grant Hanley blocks a shot" minute="10" period="1" second="23" time="10" type="save made" type_id="10"/>
+	<message comment="Chris Baird has shot blocked (Out of box, Right footed, Free kick)" minute="10" period="1" second="23" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Dickson Etuhu recieves a yellow card" minute="8" period="1" second="34" time="8" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Jason Roberts wins a corner (To the left)" minute="7" period="1" second="0" time="7" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Standing)" minute="3" period="1" second="12" time="3" type="save made" type_id="10"/>
+	<message comment="Jason Roberts has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="3" period="1" second="12" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba blocks a shot" minute="1" period="1" second="5" time="1" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has shot blocked (Out of box, Left footed, Open play)" minute="1" period="1" second="5" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

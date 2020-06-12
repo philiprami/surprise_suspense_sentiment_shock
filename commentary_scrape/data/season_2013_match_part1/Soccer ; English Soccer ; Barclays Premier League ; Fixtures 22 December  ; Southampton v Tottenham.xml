@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-12-22 13:30" game_id_2="27117074" game_id_4="112237973" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-22 15:05:49" minute="95" period="2" second="0" team="Tottenham" time="99" type="end" type_id="30"/>
+	<message comment="Rickie Lambert misses attempt (High, 18-yard box, Right footed, From corner)" last_modified="2013-12-22 15:01:54" minute="91" period="2" second="5" team="Tottenham" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Left footed, From corner)" last_modified="2013-12-22 15:01:51" minute="91" period="2" second="2" team="Tottenham" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" last_modified="2013-12-22 15:01:28" minute="90" period="2" second="39" team="Tottenham" time="94" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado is substituted off" last_modified="2013-12-22 14:55:15" minute="84" period="2" second="26" team="Southampton" time="88" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" last_modified="2013-12-22 14:55:15" minute="84" period="2" second="26" team="Southampton" time="88" type="substitution on" type_id="19"/>
+	<message comment="Dejan Lovren misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-12-22 14:54:31" minute="83" period="2" second="42" team="Tottenham" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Lloris makes a save (Diving)" last_modified="2013-12-22 14:51:45" minute="80" period="2" second="56" team="Southampton" time="84" type="save made" type_id="10"/>
+	<message comment="Sam Gallagher has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:51:45" minute="80" period="2" second="56" team="Tottenham" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-12-22 14:50:15" minute="79" period="2" second="26" team="Southampton" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers blocks a shot" last_modified="2013-12-22 14:50:15" minute="79" period="2" second="26" team="Tottenham" time="83" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-12-22 14:49:47" minute="78" period="2" second="58" team="Southampton" time="82" type="corner" type_id="6"/>
+	<message comment="Sam Gallagher is substituted on" last_modified="2013-12-22 14:48:29" minute="77" period="2" second="40" team="Tottenham" time="81" type="substitution on" type_id="19"/>
+	<message comment="Daniel Fox is substituted off" last_modified="2013-12-22 14:48:29" minute="77" period="2" second="40" team="Tottenham" time="81" type="substitution off" type_id="18"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2013-12-22 14:47:00" minute="76" period="2" second="11" team="Southampton" time="80" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:47:00" minute="76" period="2" second="11" team="Tottenham" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-12-22 14:45:54" minute="75" period="2" second="5" team="Tottenham" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson blocks a shot" last_modified="2013-12-22 14:43:35" minute="72" period="2" second="46" team="Southampton" time="76" type="save made" type_id="10"/>
+	<message comment="Daniel Fox has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-22 14:43:35" minute="72" period="2" second="46" team="Tottenham" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" last_modified="2013-12-22 14:43:16" minute="72" period="2" second="27" team="Southampton" time="76" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-12-22 14:43:16" minute="72" period="2" second="27" team="Tottenham" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Nacer Chadli misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-22 14:41:53" minute="71" period="2" second="4" team="Southampton" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Roberto Soldado misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:39:50" minute="69" period="2" second="1" team="Southampton" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2013-12-22 14:39:49" minute="69" period="2" team="Tottenham" time="73" type="offside" type_id="10000"/>
+	<message comment="Steven Davis is substituted off" last_modified="2013-12-22 14:39:29" minute="68" period="2" second="40" team="Tottenham" time="72" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" last_modified="2013-12-22 14:39:29" minute="68" period="2" second="40" team="Tottenham" time="72" type="substitution on" type_id="19"/>
+	<message comment="Roberto Soldado misses attempt (6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-22 14:38:45" minute="67" period="2" second="56" team="Southampton" time="71" type="attempt missed" type_id="13"/>
+	<message comment="James Ward-Prowse recieves a yellow card" last_modified="2013-12-22 14:37:19" minute="66" period="2" second="30" team="Tottenham" time="70" type="card received" type_id="17"/>
+	<message comment="Roberto Soldado misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-22 14:36:18" minute="65" period="2" second="29" team="Southampton" time="69" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Nacer Chadli (Low to the centre, 18-yard box, Left footed, Throw-in)" last_modified="2013-12-22 14:33:59" minute="63" period="2" second="10" team="Southampton" time="67" type="goal scored" type_id="16"/>
+	<message comment="Jack Cork is substituted off" last_modified="2013-12-22 14:33:39" minute="62" period="2" second="50" team="Tottenham" time="66" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" last_modified="2013-12-22 14:33:39" minute="62" period="2" second="50" team="Tottenham" time="66" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:32:19" minute="61" period="2" second="30" team="Southampton" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Diving, Parried into danger)" last_modified="2013-12-22 14:32:19" minute="61" period="2" second="30" team="Tottenham" time="65" type="save made" type_id="10"/>
+	<message comment="Erik Lamela is substituted off" last_modified="2013-12-22 14:30:29" minute="59" period="2" second="40" team="Southampton" time="63" type="substitution off" type_id="18"/>
+	<message comment="Nacer Chadli is substituted on" last_modified="2013-12-22 14:30:29" minute="59" period="2" second="40" team="Southampton" time="63" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Rickie Lambert scores , Assisted by Adam Lallana (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-12-22 14:29:49" minute="59" period="2" second="0" team="Tottenham" time="63" type="goal scored" type_id="16"/>
+	<message comment="Daniel Fox wins a corner (To the left)" last_modified="2013-12-22 14:27:15" minute="56" period="2" second="26" team="Tottenham" time="60" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld scores an OWN GOAL!  (Low to the left, 6-yard box, Right footed, Open play)" last_modified="2013-12-22 14:24:43" minute="53" period="2" second="54" team="Tottenham" time="57" type="goal scored" type_id="16"/>
+	<message comment="Mousa Dembélé is substituted off" last_modified="2013-12-22 14:20:36" minute="49" period="2" second="47" team="Southampton" time="53" type="substitution off" type_id="18"/>
+	<message comment="Nabil Bentaleb is substituted on" last_modified="2013-12-22 14:20:36" minute="49" period="2" second="47" team="Southampton" time="53" type="substitution on" type_id="19"/>
+	<message comment="Rickie Lambert is caught offside" last_modified="2013-12-22 14:18:49" minute="48" period="2" team="Tottenham" time="52" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" last_modified="2013-12-22 14:15:49" minute="45" period="2" second="0" team="Tottenham" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-22 14:18:54" minute="48" period="1" second="5" team="Tottenham" time="48" type="end" type_id="30"/>
+	<message comment="Erik Lamela is caught offside" last_modified="2013-12-22 14:09:49" minute="39" period="1" team="Southampton" time="39" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson recieves a yellow card" last_modified="2013-12-22 14:09:19" minute="38" period="1" second="30" team="Southampton" time="38" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:09:09" minute="38" period="1" second="20" team="Southampton" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis blocks a shot" last_modified="2013-12-22 14:09:09" minute="38" period="1" second="20" team="Tottenham" time="38" type="save made" type_id="10"/>
+	<message comment="Christian Eriksen has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-12-22 14:09:00" minute="38" period="1" second="11" team="Southampton" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Rodriguez blocks a shot" last_modified="2013-12-22 14:09:00" minute="38" period="1" second="11" team="Tottenham" time="38" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2013-12-22 14:05:49" minute="35" period="1" team="Southampton" time="35" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is caught offside" last_modified="2013-12-22 14:04:49" minute="34" period="1" team="Tottenham" time="34" type="offside" type_id="10000"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" last_modified="2013-12-22 14:04:44" minute="33" period="1" second="55" team="Southampton" time="33" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-22 14:04:43" minute="33" period="1" second="54" team="Southampton" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Davis blocks a shot" last_modified="2013-12-22 14:04:43" minute="33" period="1" second="54" team="Tottenham" time="33" type="save made" type_id="10"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Roberto Soldado (High to the centre, 6-yard box, Big Chance, Right footed, Fast break)" last_modified="2013-12-22 13:55:28" minute="24" period="1" second="39" team="Southampton" time="24" type="goal scored" type_id="16"/>
+	<message comment="Jay Rodriguez misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2013-12-22 13:54:02" minute="23" period="1" second="13" team="Tottenham" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" last_modified="2013-12-22 13:52:43" minute="21" period="1" second="54" team="Southampton" time="21" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2013-12-22 13:50:49" minute="20" period="1" team="Southampton" time="20" type="offside" type_id="10000"/>
+	<message comment="Erik Lamela has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-22 13:48:46" minute="17" period="1" second="57" team="Southampton" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" last_modified="2013-12-22 13:48:46" minute="17" period="1" second="57" team="Tottenham" time="17" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-12-22 13:44:02" minute="13" period="1" second="13" team="Southampton" time="13" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Adam Lallana scores , Assisted by Daniel Fox (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-12-22 13:43:01" minute="12" period="1" second="12" team="Tottenham" time="12" type="goal scored" type_id="16"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the left)" last_modified="2013-12-22 13:40:57" minute="10" period="1" second="8" team="Southampton" time="10" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-12-22 13:30:49" minute="0" period="14" second="0" team="Tottenham" time="9" type="end" type_id="30"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" last_modified="2013-12-22 13:33:22" minute="2" period="1" second="33" team="Tottenham" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save" last_modified="2013-12-22 13:33:22" minute="2" period="1" second="33" team="Southampton" time="2" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado wins a corner (To the right)" last_modified="2013-12-22 13:31:29" minute="0" period="1" second="40" team="Southampton" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-12-22 13:30:49" minute="0" period="1" second="0" team="Tottenham" time="0" type="start" type_id="32"/>
+</Commentary>

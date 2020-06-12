@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2014-02-09" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="22" time="95" type="end" type_id="30"/>
+	<message comment="Jermain Defoe wins a corner (To the left)" minute="92" period="2" second="46" time="94" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, 18-yard box, Right footed, Fast break)" minute="92" period="2" second="44" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="92" period="2" second="44" time="94" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé recieves a yellow card" minute="86" period="2" second="48" time="88" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon is substituted off" minute="85" period="2" second="2" time="87" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="85" period="2" second="2" time="87" type="substitution on" type_id="19"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="82" period="2" second="8" time="84" type="corner" type_id="6"/>
+	<message comment="Emmanuel Adebayor misses attempt (Out of box, Right footed, Open play)" minute="76" period="2" second="14" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Right footed, Open play)" minute="75" period="2" second="51" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="75" period="2" second="51" time="77" type="save made" type_id="10"/>
+	<message comment="Aiden McGeady is substituted on" minute="72" period="2" second="58" time="74" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman is substituted off" minute="72" period="2" second="58" time="74" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted off" minute="72" period="2" second="40" time="74" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="72" period="2" second="40" time="74" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is caught offside" minute="72" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Paulinho is substituted off" minute="67" period="2" second="24" time="69" type="substitution off" type_id="18"/>
+	<message comment="Etienne Capoue is substituted on" minute="67" period="2" second="24" time="69" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Kyle Walker (Low to the left, 18-yard box, Left footed, Set piece)" minute="64" period="2" second="26" time="66" type="goal scored" type_id="16"/>
+	<message comment="Steven Pienaar is substituted off" minute="63" period="2" second="20" time="65" type="substitution off" type_id="18"/>
+	<message comment="Ross Barkley is substituted on" minute="63" period="2" second="20" time="65" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman wins a corner (To the left)" minute="62" period="2" second="5" time="64" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen is substituted off" minute="58" period="2" second="33" time="60" type="substitution off" type_id="18"/>
+	<message comment="Andros Townsend is substituted on" minute="58" period="2" second="33" time="60" type="substitution on" type_id="19"/>
+	<message comment="Michael Dawson blocks a shot" minute="56" period="2" second="5" time="58" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Right footed, Open play)" minute="56" period="2" second="5" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor misses attempt (High to the right, 18-yard box, Head, From corner)" minute="53" period="2" second="15" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Nabil Bentaleb wins a corner (To the left)" minute="52" period="2" second="54" time="54" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="52" period="2" second="16" time="54" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (High to the right, Out of box, Right footed, Open play)" minute="51" period="2" second="26" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="47" period="2" second="51" time="49" type="corner" type_id="6"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="45" period="2" second="44" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="3" time="46" type="end" type_id="30"/>
+	<message comment="Gareth Barry wins a corner (To the left)" minute="39" period="1" second="33" time="39" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar wins a corner (To the left)" minute="38" period="1" second="51" time="38" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas misses attempt (High, 18-yard box, Right footed, Open play)" minute="35" period="1" second="33" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka wins a corner (To the right)" minute="33" period="1" second="14" time="33" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin misses attempt (To the right, 6-yard box, Head, Set piece)" minute="33" period="1" second="10" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson misses attempt (High, 18-yard box, Head, From corner)" minute="30" period="1" second="53" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="30" period="1" second="27" time="30" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="28" period="1" second="0" time="28" type="corner" type_id="6"/>
+	<message comment="Séamus Coleman has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="24" period="1" second="22" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected, Diving)" minute="24" period="1" second="22" time="24" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen blocks a shot" minute="23" period="1" second="33" time="23" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Left footed, Open play)" minute="23" period="1" second="33" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker misses attempt (To the left, Out of box, Right footed, Open play)" minute="20" period="1" second="46" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Leighton Baines is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" minute="14" period="1" second="41" time="14" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen misses attempt (Out of box, Right footed, Free kick)" minute="12" period="1" second="12" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="7" period="1" second="47" time="7" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="7" period="1" second="47" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman misses attempt (18-yard box, Head, From corner)" minute="6" period="1" second="58" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Leon Osman wins a corner (To the right)" minute="6" period="1" second="35" time="6" type="corner" type_id="6"/>
+	<message comment="Leon Osman has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="34" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="6" period="1" second="34" time="6" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="5" period="1" second="51" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="4" period="1" second="51" time="4" type="corner" type_id="6"/>
+	<message comment="Leon Osman misses attempt (Out of box, Left footed, Open play)" minute="2" period="1" second="27" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

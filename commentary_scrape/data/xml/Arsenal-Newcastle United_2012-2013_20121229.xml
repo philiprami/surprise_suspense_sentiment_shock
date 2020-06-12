@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2012-12-29" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="0" time="97" type="end" type_id="30"/>
+	<message comment="Olivier Giroud hits the woodwork (High, 6-yard box, Big Chance, Left footed, Open play)" minute="94" period="2" second="27" time="96" type="woodwork hit" type_id="14"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Jack Wilshere (Low to the left, 6-yard box, Right footed, Set piece)" minute="91" period="2" second="0" time="93" type="goal scored" type_id="16"/>
+	<message comment="Davide Santon recieves a yellow card" minute="90" period="2" second="30" time="92" type="card received" type_id="17"/>
+	<message comment="Sylvain Marveaux is substituted off" minute="86" period="2" second="45" time="88" type="substitution off" type_id="18"/>
+	<message comment="James Tavernier is substituted on" minute="86" period="2" second="45" time="88" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Theo Walcott (Low to the right, 18-yard box, Right footed, Open play)" minute="86" period="2" second="30" time="88" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla is substituted off" minute="85" period="2" second="10" time="87" type="substitution off" type_id="18"/>
+	<message comment="Francis Coquelin is substituted on" minute="85" period="2" second="10" time="87" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Theo Walcott (Low to the centre, 6-yard box, Big Chance, Head, Fast break)" minute="83" period="2" second="59" time="85" type="goal scored" type_id="16"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="82" period="2" second="29" time="84" type="corner" type_id="6"/>
+	<message comment="Theo Walcott has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="27" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="82" period="2" second="27" time="84" type="save made" type_id="10"/>
+	<message comment="Danny Simpson is substituted off" minute="81" period="2" second="50" time="83" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="81" period="2" second="50" time="83" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski is substituted off" minute="81" period="2" second="40" time="83" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="81" period="2" second="40" time="83" type="substitution on" type_id="19"/>
+	<message comment="Gael Bigirimana is substituted off" minute="81" period="2" second="24" time="83" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="81" period="2" second="24" time="83" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Obertan wins a corner (To the left)" minute="75" period="2" second="17" time="77" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="74" period="2" second="31" time="76" type="save made" type_id="10"/>
+	<message comment="Gael Bigirimana has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="74" period="2" second="31" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="73" period="2" second="8" time="75" type="substitution off" type_id="18"/>
+	<message comment="Olivier Giroud is substituted on" minute="73" period="2" second="8" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Kieran Gibbs (High to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="72" period="2" second="4" time="74" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Demba Ba scores , Assisted by Sylvain Marveaux (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="19" time="70" type="goal scored" type_id="16"/>
+	<message comment="Laurent Koscielny misses attempt (To the left, 6-yard box, Head, From corner)" minute="65" period="2" second="35" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="65" period="2" second="8" time="67" type="corner" type_id="6"/>
+	<message comment="GOAL! Lukas Podolski scores  (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="63" period="2" second="25" time="65" type="goal scored" type_id="16"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" minute="60" period="2" second="50" time="62" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="60" period="2" second="48" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="60" period="2" second="48" time="62" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" minute="60" period="2" second="16" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="60" period="2" second="16" time="62" type="save made" type_id="10"/>
+	<message comment="GOAL! Sylvain Marveaux scores , Assisted by Gabriel Obertan (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="58" period="2" second="38" time="60" type="goal scored" type_id="16"/>
+	<message comment="Theo Walcott misses attempt (To the right, Out of box, Right footed, Fast break)" minute="56" period="2" second="46" time="58" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Alex Oxlade-Chamberlain scores , Assisted by Santi Cazorla (Low to the left, Out of box, Right footed, Open play)" minute="49" period="2" second="58" time="51" type="goal scored" type_id="16"/>
+	<message comment="Kieran Gibbs has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="46" period="2" second="35" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe)" minute="46" period="2" second="35" time="48" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="12" time="46" type="end" type_id="30"/>
+	<message comment="Demba Ba misses attempt (High, 18-yard box, Head, From corner)" minute="46" period="1" second="10" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Sylvain Marveaux wins a corner (To the left)" minute="45" period="1" second="45" time="45" type="corner" type_id="6"/>
+	<message comment="Sylvain Marveaux wins a corner (To the left)" minute="45" period="1" second="10" time="45" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" minute="45" period="1" second="6" time="45" type="save made" type_id="10"/>
+	<message comment="Sylvain Marveaux has attempt saved (High to the centre, Out of box, Left footed, Fast break)" minute="45" period="1" second="6" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Demba Ba scores  (High to the centre, Out of box, Right footed, Free kick)" minute="42" period="1" second="57" time="42" type="goal scored" type_id="16"/>
+	<message comment="Cheick Tioté wins a corner (To the left)" minute="39" period="1" second="18" time="39" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Standing, Parried safe)" minute="39" period="1" second="16" time="39" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="39" period="1" second="16" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Feet, Diving)" minute="36" period="1" second="44" time="36" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="36" period="1" second="44" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="28" period="1" second="19" time="28" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="26" period="1" second="48" time="26" type="corner" type_id="6"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="26" period="1" second="18" time="26" type="corner" type_id="6"/>
+	<message comment="Demba Ba has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="20" period="1" second="59" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" minute="20" period="1" second="59" time="20" type="save made" type_id="10"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Lukas Podolski (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="19" period="1" second="36" time="19" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Open play)" minute="16" period="1" second="59" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Wilshere blocks a shot" minute="16" period="1" second="59" time="16" type="save made" type_id="10"/>
+	<message comment="Demba Ba misses attempt (High, 6-yard box, Head, From corner)" minute="16" period="1" second="9" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="15" period="1" second="41" time="15" type="corner" type_id="6"/>
+	<message comment="Alex Oxlade-Chamberlain is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (To the left, Out of box, Right footed, Fast break)" minute="0" period="1" second="47" time="0" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere blocks a shot" minute="0" period="1" second="39" time="0" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Left footed, Throw-in)" minute="0" period="1" second="39" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

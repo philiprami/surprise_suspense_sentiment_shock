@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2011-12-27" home_team_name="Queens Park Rangers" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="23" time="96" type="end" type_id="30"/>
+	<message comment="Adel Taarabt recieves a yellow card" minute="90" period="2" second="20" time="93" type="card received" type_id="17"/>
+	<message comment="Fitz Hall wins a corner (To the left)" minute="85" period="2" second="43" time="88" type="corner" type_id="6"/>
+	<message comment="Luke Moore has shot blocked (18-yard box, Left footed, Open play)" minute="79" period="2" second="11" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Hill blocks a shot" minute="79" period="2" second="11" time="82" type="save made" type_id="10"/>
+	<message comment="Clint Hill misses attempt (High to the right, 18-yard box, Head, From corner)" minute="77" period="2" second="34" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="77" period="2" second="4" time="80" type="corner" type_id="6"/>
+	<message comment="Alejandro Faurlin misses attempt (High to the left, Out of box, Left footed, Open play)" minute="74" period="2" second="53" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Adel Taarabt wins a corner (To the right)" minute="74" period="2" second="1" time="77" type="corner" type_id="6"/>
+	<message comment="Clint Hill misses attempt (18-yard box, Head, From corner)" minute="73" period="2" second="49" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Adel Taarabt wins a corner (To the right)" minute="73" period="2" second="10" time="76" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="73" period="2" second="5" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" minute="73" period="2" second="5" time="76" type="save made" type_id="10"/>
+	<message comment="Kemy Agustien has shot blocked (Out of box, Right footed, Open play)" minute="70" period="2" second="13" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Hill blocks a shot" minute="70" period="2" second="13" time="73" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Left footed, Open play)" minute="69" period="2" second="23" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="69" period="2" second="23" time="72" type="save made" type_id="10"/>
+	<message comment="Danny Graham misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="68" period="2" second="37" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Luke Moore wins a corner (To the right)" minute="68" period="2" second="6" time="71" type="corner" type_id="6"/>
+	<message comment="Jamie Mackie is caught offside" minute="65" period="2" time="68" type="offside" type_id="10000"/>
+	<message comment="Joey Barton recieves a yellow card" minute="64" period="2" second="3" time="67" type="card received" type_id="17"/>
+	<message comment="GOAL! Jamie Mackie scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="57" period="2" second="14" time="60" type="goal scored" type_id="16"/>
+	<message comment="Angel Rangel is substituted off" minute="56" period="2" second="37" time="59" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="56" period="2" second="37" time="59" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" minute="56" period="2" second="30" time="59" type="substitution off" type_id="18"/>
+	<message comment="Nathan Dyer is substituted on" minute="56" period="2" second="30" time="59" type="substitution on" type_id="19"/>
+	<message comment="Armand Traore wins a corner (To the left)" minute="53" period="2" second="18" time="56" type="corner" type_id="6"/>
+	<message comment="Alejandro Faurlin misses attempt (Out of box, Left footed, Open play)" minute="51" period="2" second="24" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="50" period="2" second="4" time="53" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="1" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="50" period="2" second="1" time="53" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="4" time="47" type="end" type_id="30"/>
+	<message comment="Heidar Helguson misses attempt (High, 6-yard box, Head, Open play)" minute="43" period="1" second="30" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Clint Hill misses attempt (18-yard box, Head, From corner)" minute="42" period="1" second="10" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Fitz Hall wins a corner (To the right)" minute="41" period="1" second="36" time="41" type="corner" type_id="6"/>
+	<message comment="Jazz Richards recieves a yellow card" minute="41" period="1" second="5" time="41" type="card received" type_id="17"/>
+	<message comment="Wayne Routledge is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Paddy Kenny makes a save (Diving)" minute="36" period="1" second="13" time="36" type="save made" type_id="10"/>
+	<message comment="Danny Graham has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="36" period="1" second="13" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Hill recieves a yellow card" minute="34" period="1" second="16" time="34" type="card received" type_id="17"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="33" period="1" second="18" time="33" type="corner" type_id="6"/>
+	<message comment="Heidar Helguson wins a corner (To the right)" minute="32" period="1" second="35" time="32" type="corner" type_id="6"/>
+	<message comment="Alejandro Faurlin wins a corner (To the left)" minute="30" period="1" second="10" time="30" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="27" period="1" second="16" time="27" type="corner" type_id="6"/>
+	<message comment="Danny Graham is caught offside" minute="25" period="1" time="25" type="offside" type_id="10000"/>
+	<message comment="Ashley Williams misses attempt (6-yard box, Head, From corner)" minute="24" period="1" second="9" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Danny Graham wins a corner (To the left)" minute="23" period="1" second="38" time="23" type="corner" type_id="6"/>
+	<message comment="Steven Caulker blocks a shot" minute="22" period="1" second="40" time="22" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (18-yard box, Left footed, From corner)" minute="22" period="1" second="40" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="22" period="1" second="1" time="22" type="corner" type_id="6"/>
+	<message comment="Joey Barton has attempt saved (High to the centre, Out of box, Right footed, Set piece)" minute="21" period="1" second="58" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Standing)" minute="21" period="1" second="58" time="21" type="save made" type_id="10"/>
+	<message comment="Ashley Williams misses attempt (18-yard box, Head, From corner)" minute="15" period="1" second="27" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Jazz Richards wins a corner (To the right)" minute="14" period="1" second="50" time="14" type="corner" type_id="6"/>
+	<message comment="GOAL! Danny Graham scores  (Low to the right, Out of box, Right footed, Open play)" minute="13" period="1" second="36" time="13" type="goal scored" type_id="16"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="36" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="10" period="1" second="36" time="10" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Right footed, From corner)" minute="7" period="1" second="46" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Alejandro Faurlin blocks a shot (Last line)" minute="7" period="1" second="46" time="7" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="7" period="1" second="24" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Michel Vorm makes a save (Parried into danger)" minute="5" period="1" second="49" time="5" type="save made" type_id="10"/>
+	<message comment="Jamie Mackie has attempt saved (Low to the left, 6-yard box, Head, Open play)" minute="5" period="1" second="49" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

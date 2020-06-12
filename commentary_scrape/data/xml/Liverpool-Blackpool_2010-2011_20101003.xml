@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2010-10-03" home_team_name="Blackpool" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="96" type="end" type_id="30"/>
+	<message comment="Matthew Gilks makes a save (Diving, Parried into danger)" minute="92" period="2" second="57" time="95" type="save made" type_id="10"/>
+	<message comment="Sotirios Kyrgiakos has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Open play)" minute="92" period="2" second="57" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Sotirios Kyrgiakos misses attempt (18-yard box, Head, Open play)" minute="90" period="2" second="22" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Joe Cole is substituted off" minute="88" period="2" second="16" time="91" type="substitution off" type_id="18"/>
+	<message comment="Maxi Rodríguez is substituted on" minute="88" period="2" second="16" time="91" type="substitution on" type_id="19"/>
+	<message comment="Dirk Kuyt has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="87" period="2" second="11" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Gilks makes a save (Diving)" minute="87" period="2" second="11" time="90" type="save made" type_id="10"/>
+	<message comment="Charlie Adam wins a corner (To the left)" minute="86" period="2" second="27" time="89" type="corner" type_id="6"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Open play)" minute="86" period="2" second="23" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="86" period="2" second="23" time="89" type="save made" type_id="10"/>
+	<message comment="Luke Varney misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="82" period="2" second="51" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Open play)" minute="78" period="2" second="21" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard blocks a shot" minute="78" period="2" second="21" time="81" type="save made" type_id="10"/>
+	<message comment="Luke Varney has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="78" period="2" second="9" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="78" period="2" second="9" time="81" type="save made" type_id="10"/>
+	<message comment="Jamie Carragher is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Stephen Crainey blocks a shot" minute="70" period="2" second="10" time="73" type="save made" type_id="10"/>
+	<message comment="David N'Gog has shot blocked (18-yard box, Right footed, Open play)" minute="70" period="2" second="10" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Varney is caught offside" minute="68" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Raul Meireles has shot blocked (18-yard box, Right footed, Set piece)" minute="65" period="2" second="45" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam blocks a shot" minute="65" period="2" second="45" time="68" type="save made" type_id="10"/>
+	<message comment="Gary Taylor-Fletcher recieves a yellow card" minute="65" period="2" second="14" time="68" type="card received" type_id="17"/>
+	<message comment="Sotirios Kyrgiakos recieves a yellow card" minute="64" period="2" second="2" time="67" type="card received" type_id="17"/>
+	<message comment="Elliot Grandin is substituted off" minute="63" period="2" second="1" time="66" type="substitution off" type_id="18"/>
+	<message comment="Keith Southern is substituted on" minute="63" period="2" second="1" time="66" type="substitution on" type_id="19"/>
+	<message comment="Steven Gerrard misses attempt (High to the left, Out of box, Left footed, From corner)" minute="61" period="2" second="21" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Milan Jovanovic wins a corner (To the left)" minute="60" period="2" second="59" time="63" type="corner" type_id="6"/>
+	<message comment="Christian Poulsen is substituted off" minute="59" period="2" second="48" time="62" type="substitution off" type_id="18"/>
+	<message comment="Milan Jovanovic is substituted on" minute="59" period="2" second="48" time="62" type="substitution on" type_id="19"/>
+	<message comment="Joe Cole misses attempt (18-yard box, Left footed, Open play)" minute="58" period="2" second="47" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Raul Meireles misses attempt (To the left, Out of box, Right footed, Open play)" minute="58" period="2" second="5" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="57" period="2" second="39" time="60" type="corner" type_id="6"/>
+	<message comment="Dekel Keinan blocks a shot" minute="57" period="2" second="37" time="60" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (Out of box, Left footed, Open play)" minute="57" period="2" second="37" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="53" period="2" second="21" time="56" type="corner" type_id="6"/>
+	<message comment="GOAL! Sotirios Kyrgiakos scores , Assisted by Steven Gerrard (High to the centre, 18-yard box, Big Chance, Head, Set piece)" minute="52" period="2" second="37" time="55" type="goal scored" type_id="16"/>
+	<message comment="Joe Cole is caught offside" minute="51" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Charlie Adam misses attempt (To the right, Out of box, Left footed, Open play)" minute="49" period="2" second="17" time="52" type="attempt missed" type_id="13"/>
+	<message comment="David N'Gog misses attempt (To the right, 18-yard box, Head, Open play)" minute="46" period="2" second="36" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Neal Eardley is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Matt Phillips is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="4" time="47" type="end" type_id="30"/>
+	<message comment="Pepe Reina recieves a yellow card" minute="46" period="1" second="25" time="46" type="card received" type_id="17"/>
+	<message comment="GOAL! Luke Varney scores , Assisted by Gary Taylor-Fletcher (Low to the right, 18-yard box, Right footed, Open play)" minute="45" period="1" second="59" time="45" type="goal scored" type_id="16"/>
+	<message comment="Joe Cole has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="36" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Dekel Keinan blocks a shot" minute="45" period="1" second="36" time="45" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has shot blocked (18-yard box, Head, Open play)" minute="45" period="1" second="14" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Ian Evatt blocks a shot" minute="45" period="1" second="14" time="45" type="save made" type_id="10"/>
+	<message comment="Raul Meireles misses attempt (High, Out of box, Right footed, Open play)" minute="44" period="1" second="15" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Standing)" minute="42" period="1" second="49" time="42" type="save made" type_id="10"/>
+	<message comment="Stephen Crainey has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="42" period="1" second="49" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Standing)" minute="42" period="1" second="21" time="42" type="save made" type_id="10"/>
+	<message comment="DJ Campbell has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="42" period="1" second="21" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Cole has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="40" period="1" second="19" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Gilks makes a save (Diving)" minute="40" period="1" second="19" time="40" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Matthew Gilks makes a save (Standing)" minute="38" period="1" second="30" time="38" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="38" period="1" second="30" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson misses attempt (High, 18-yard box, Right footed, Open play)" minute="35" period="1" second="51" time="35" type="attempt missed" type_id="13"/>
+	<message comment="David N'Gog has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="32" period="1" second="37" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Gilks makes a save" minute="32" period="1" second="37" time="32" type="save made" type_id="10"/>
+	<message comment="Sotirios Kyrgiakos misses attempt (18-yard box, Head, From corner)" minute="31" period="1" second="49" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="31" period="1" second="26" time="31" type="corner" type_id="6"/>
+	<message comment="GOAL! Charlie Adam scores  (Low to the right, 18-yard box, Penalty, Left footed)" minute="28" period="1" second="48" time="28" type="goal scored" type_id="16"/>
+	<message comment="Neal Eardley blocks a shot (Last line)" minute="25" period="1" second="15" time="25" type="save made" type_id="10"/>
+	<message comment="Sotirios Kyrgiakos has shot blocked (18-yard box, Head, From corner)" minute="25" period="1" second="15" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="24" period="1" second="42" time="24" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="24" period="1" second="4" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Gilks makes a save" minute="24" period="1" second="4" time="24" type="save made" type_id="10"/>
+	<message comment="Martin Skrtel blocks a shot" minute="22" period="1" second="40" time="22" type="save made" type_id="10"/>
+	<message comment="Luke Varney has shot blocked (18-yard box, Left footed, Open play)" minute="22" period="1" second="40" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Cathcart is substituted off" minute="20" period="1" second="7" time="20" type="substitution off" type_id="18"/>
+	<message comment="Dekel Keinan is substituted on" minute="20" period="1" second="7" time="20" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam misses attempt (To the left, Out of box, Left footed, Open play)" minute="19" period="1" second="41" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard misses attempt (High, Out of box, Right footed, Open play)" minute="16" period="1" second="49" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="15" period="1" second="45" time="15" type="save made" type_id="10"/>
+	<message comment="Luke Varney has attempt saved (Low to the left, Out of box, Right footed, Throw-in)" minute="15" period="1" second="45" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="DJ Campbell misses attempt (6-yard box, Left footed, Open play)" minute="14" period="1" second="28" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Elliot Grandin wins a corner (To the left)" minute="10" period="1" second="23" time="10" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is substituted off" minute="9" period="1" second="28" time="9" type="substitution off" type_id="18"/>
+	<message comment="David N'Gog is substituted on" minute="9" period="1" second="28" time="9" type="substitution on" type_id="19"/>
+	<message comment="Stephen Crainey misses attempt (To the right, Out of box, Left footed, Set piece)" minute="8" period="1" second="57" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Joe Cole is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Joe Cole misses attempt (6-yard box, Big Chance, Right footed, Open play)" minute="3" period="1" second="3" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Diving)" minute="1" period="1" second="50" time="1" type="save made" type_id="10"/>
+	<message comment="Charlie Adam has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="1" period="1" second="50" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

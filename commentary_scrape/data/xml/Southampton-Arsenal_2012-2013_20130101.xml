@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-01-01" home_team_name="Arsenal" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="3" time="95" type="end" type_id="30"/>
+	<message comment="Jason Puncheon has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="32" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="92" period="2" second="32" time="94" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="87" period="2" second="8" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing, Parried safe)" minute="87" period="2" second="8" time="89" type="save made" type_id="10"/>
+	<message comment="Steve De Ridder recieves a yellow card" minute="85" period="2" second="35" time="87" type="card received" type_id="17"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="84" period="2" second="42" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Collected)" minute="84" period="2" second="42" time="86" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="84" period="2" second="23" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" minute="84" period="2" second="23" time="86" type="save made" type_id="10"/>
+	<message comment="Gervinho misses attempt (18-yard box, Right footed, Open play)" minute="83" period="2" second="18" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Guly do Prado is substituted off" minute="82" period="2" second="40" time="84" type="substitution off" type_id="18"/>
+	<message comment="Steve De Ridder is substituted on" minute="82" period="2" second="40" time="84" type="substitution on" type_id="19"/>
+	<message comment="Mikel Arteta misses attempt (Out of box, Left footed, Open play)" minute="79" period="2" second="38" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez wins a corner (To the left)" minute="76" period="2" second="48" time="78" type="corner" type_id="6"/>
+	<message comment="Gastón Ramírez is substituted off" minute="76" period="2" second="15" time="78" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" minute="76" period="2" second="15" time="78" type="substitution on" type_id="19"/>
+	<message comment="Santi Cazorla is substituted off" minute="73" period="2" second="59" time="75" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="73" period="2" second="59" time="75" type="substitution on" type_id="19"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" minute="73" period="2" second="47" time="75" type="substitution off" type_id="18"/>
+	<message comment="Gervinho is substituted on" minute="73" period="2" second="47" time="75" type="substitution on" type_id="19"/>
+	<message comment="Rickie Lambert is substituted off" minute="73" period="2" second="20" time="75" type="substitution off" type_id="18"/>
+	<message comment="Jay Rodriguez is substituted on" minute="73" period="2" second="20" time="75" type="substitution on" type_id="19"/>
+	<message comment="Artur Boruc makes a save" minute="69" period="2" second="33" time="71" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="69" period="2" second="33" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez misses attempt (High, Out of box, Left footed, Open play)" minute="65" period="2" second="8" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon misses attempt (18-yard box, Right footed, Open play)" minute="63" period="2" second="57" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Schneiderlin recieves a yellow card" minute="62" period="2" second="30" time="64" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud is substituted on" minute="57" period="2" second="58" time="59" type="substitution on" type_id="19"/>
+	<message comment="Lukas Podolski is substituted off" minute="57" period="2" second="58" time="59" type="substitution off" type_id="18"/>
+	<message comment="Maya Yoshida blocks a shot" minute="56" period="2" second="39" time="58" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has shot blocked (Out of box, Right footed, Fast break)" minute="56" period="2" second="39" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save" minute="55" period="2" second="29" time="57" type="save made" type_id="10"/>
+	<message comment="Guly do Prado wins a corner (To the left)" minute="55" period="2" second="5" time="57" type="corner" type_id="6"/>
+	<message comment="Guly do Prado has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="54" period="2" second="59" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" minute="54" period="2" second="59" time="56" type="save made" type_id="10"/>
+	<message comment="Jack Cork is caught offside" minute="53" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert is caught offside" minute="51" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Theo Walcott is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Guly do Prado scores an OWN GOAL!  (Low to the left, 18-yard box, Right footed, Set piece)" minute="40" period="1" second="14" time="40" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Gastón Ramírez scores  (Low to the right, 18-yard box, Right footed, Open play)" minute="34" period="1" second="1" time="34" type="goal scored" type_id="16"/>
+	<message comment="Rickie Lambert is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Bacary Sagna is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="25" period="1" second="9" time="25" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert has shot blocked (Out of box, Right footed, Open play)" minute="17" period="1" second="1" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="17" period="1" second="1" time="17" type="save made" type_id="10"/>
+	<message comment="Theo Walcott is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Lukas Podolski has shot blocked (18-yard box, Left footed, Open play)" minute="12" period="1" second="13" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" minute="12" period="1" second="13" time="12" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Gastón Ramírez wins a corner (To the left)" minute="7" period="1" second="7" time="7" type="corner" type_id="6"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="6" period="1" second="17" time="6" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="4" period="1" second="19" time="4" type="corner" type_id="6"/>
+	<message comment="José Fonte blocks a shot" minute="4" period="1" second="17" time="4" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" minute="4" period="1" second="17" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

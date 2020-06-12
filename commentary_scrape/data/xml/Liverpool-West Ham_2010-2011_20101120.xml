@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2010-11-20" home_team_name="West Ham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="0" time="94" type="end" type_id="30"/>
+	<message comment="Frédéric Piquionne misses attempt (To the left, 18-yard box, Head, Open play)" minute="90" period="2" second="43" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Matt Upson misses attempt (High to the left, 18-yard box, Head, Set piece)" minute="89" period="2" second="3" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Frédéric Piquionne has shot blocked (18-yard box, Right footed, Open play)" minute="86" period="2" second="45" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher blocks a shot" minute="86" period="2" second="45" time="88" type="save made" type_id="10"/>
+	<message comment="Fábio Aurélio misses attempt (High, 18-yard box, Big Chance, Head, Open play)" minute="85" period="2" second="24" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is substituted off" minute="84" period="2" second="18" time="86" type="substitution off" type_id="18"/>
+	<message comment="Ryan Babel is substituted on" minute="84" period="2" second="18" time="86" type="substitution on" type_id="19"/>
+	<message comment="Raul Meireles is substituted off" minute="82" period="2" second="54" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="82" period="2" second="54" time="84" type="substitution on" type_id="19"/>
+	<message comment="Fábio Aurélio misses attempt (Out of box, Left footed, Open play)" minute="82" period="2" second="20" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Fábio Aurélio wins a corner (To the left)" minute="79" period="2" second="49" time="81" type="corner" type_id="6"/>
+	<message comment="James Tomkins is substituted on" minute="75" period="2" second="56" time="77" type="substitution on" type_id="19"/>
+	<message comment="Hérita Ilunga is substituted off" minute="75" period="2" second="56" time="77" type="substitution off" type_id="18"/>
+	<message comment="Frédéric Piquionne is caught offside" minute="74" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="David N'Gog is substituted off" minute="73" period="2" second="8" time="75" type="substitution off" type_id="18"/>
+	<message comment="Fábio Aurélio is substituted on" minute="73" period="2" second="8" time="75" type="substitution on" type_id="19"/>
+	<message comment="Glen Johnson is caught offside" minute="73" period="2" time="75" type="offside" type_id="10000"/>
+	<message comment="Mark Noble recieves a yellow card" minute="71" period="2" second="57" time="73" type="card received" type_id="17"/>
+	<message comment="Christian Poulsen wins a corner (To the right)" minute="71" period="2" second="27" time="73" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Diving, Parried safe)" minute="71" period="2" second="26" time="73" type="save made" type_id="10"/>
+	<message comment="Christian Poulsen has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="71" period="2" second="26" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save (Diving, Parried into danger)" minute="71" period="2" second="17" time="73" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="71" period="2" second="17" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Carlton Cole is substituted off" minute="68" period="2" second="42" time="70" type="substitution off" type_id="18"/>
+	<message comment="Benni McCarthy is substituted on" minute="68" period="2" second="42" time="70" type="substitution on" type_id="19"/>
+	<message comment="Frédéric Piquionne wins a corner (To the right)" minute="66" period="2" second="7" time="68" type="corner" type_id="6"/>
+	<message comment="Maxi Rodríguez wins a corner (To the left)" minute="64" period="2" second="15" time="66" type="corner" type_id="6"/>
+	<message comment="Luís Boa Morte blocks a shot" minute="64" period="2" second="13" time="66" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (Out of box, Right footed, From corner)" minute="64" period="2" second="13" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles wins a corner (To the left)" minute="63" period="2" second="38" time="65" type="corner" type_id="6"/>
+	<message comment="Fernando Torres misses attempt (High to the left, Out of box, Left footed, Open play)" minute="62" period="2" second="20" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="51" period="2" second="32" time="53" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="32" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="David N'Gog wins a corner (To the right)" minute="50" period="2" second="13" time="52" type="corner" type_id="6"/>
+	<message comment="Radoslav Kovac blocks a shot" minute="50" period="2" second="12" time="52" type="save made" type_id="10"/>
+	<message comment="David N'Gog has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="12" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Noble misses attempt (To the left, Out of box, Right footed, Open play)" minute="49" period="2" second="6" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Luís Boa Morte blocks a shot" minute="48" period="2" second="21" time="50" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (Out of box, Right footed, Open play)" minute="48" period="2" second="21" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson misses attempt (To the right, 18-yard box, Head, From corner)" minute="46" period="2" second="19" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Dirk Kuyt wins a corner (To the right)" minute="45" period="2" second="57" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="Victor Obinna is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Pablo Barrera is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="46" period="1" second="30" time="46" type="end" type_id="30"/>
+	<message comment="Victor Obinna misses attempt (High, Out of box, Right footed, From corner)" minute="45" period="1" second="43" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Mark Noble wins a corner (To the right)" minute="45" period="1" second="7" time="45" type="corner" type_id="6"/>
+	<message comment="Raul Meireles misses attempt (To the left, Out of box, Right footed, Open play)" minute="43" period="1" second="30" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="41" period="1" second="28" time="41" type="save made" type_id="10"/>
+	<message comment="David N'Gog has shot blocked (6-yard box, Right footed, Open play)" minute="41" period="1" second="28" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Noble misses attempt (High, Out of box, Right footed, Free kick)" minute="40" period="1" second="2" time="40" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Maxi Rodríguez scores , Assisted by Paul Konchesky (Low to the right, 18-yard box, Big Chance, Head, Open play)" minute="37" period="1" second="39" time="37" type="goal scored" type_id="16"/>
+	<message comment="Robert Green makes a save (Parried safe, Diving, Feet)" minute="37" period="1" second="31" time="37" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="37" period="1" second="31" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt misses attempt (To the left, Out of box, Right footed, Open play)" minute="36" period="1" second="11" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Carlton Cole has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="35" period="1" second="34" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="35" period="1" second="34" time="35" type="save made" type_id="10"/>
+	<message comment="Radoslav Kovac blocks a shot (Last line)" minute="33" period="1" second="55" time="33" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (18-yard box, Right footed, Set piece)" minute="33" period="1" second="55" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Noble has shot blocked (Out of box, Left footed, Open play)" minute="31" period="1" second="52" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="David N'Gog wins a corner (To the left)" minute="28" period="1" second="26" time="28" type="corner" type_id="6"/>
+	<message comment="GOAL! Dirk Kuyt scores  (Low to the centre, 18-yard box, Penalty, Big Chance, Right footed)" minute="26" period="1" second="35" time="26" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Glen Johnson scores , Assisted by Raul Meireles (Low to the centre, 18-yard box, Right footed, From corner)" minute="17" period="1" second="9" time="17" type="goal scored" type_id="16"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="16" period="1" second="44" time="16" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Parried safe)" minute="16" period="1" second="42" time="16" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has attempt saved (High to the left, Out of box, Right footed, From corner)" minute="16" period="1" second="42" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles wins a corner (To the left)" minute="16" period="1" second="19" time="16" type="corner" type_id="6"/>
+	<message comment="Radoslav Kovac blocks a shot" minute="14" period="1" second="31" time="14" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="14" period="1" second="31" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres misses attempt (Out of box, Right footed, Open play)" minute="9" period="1" second="56" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Maxi Rodríguez misses attempt (Out of box, Right footed, Open play)" minute="4" period="1" second="2" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="4" type="end" type_id="30"/>
+	<message comment="Robert Green makes a save (Diving, Parried safe)" minute="2" period="1" second="41" time="2" type="save made" type_id="10"/>
+	<message comment="David N'Gog has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="2" period="1" second="41" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson wins a corner (To the left)" minute="0" period="1" second="55" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

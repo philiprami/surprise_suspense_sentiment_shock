@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-08-17 15:00" game_id_2="27025514" game_id_4="109814972" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-08-17 16:36:34" minute="95" period="2" second="22" team="Fulham" time="97" type="end" type_id="30"/>
+	<message comment="Damien Duff recieves a yellow card" last_modified="2013-08-17 16:33:27" minute="92" period="2" second="15" team="Sunderland" time="94" type="card received" type_id="17"/>
+	<message comment="Dong-Won Ji misses attempt (18-yard box, Head, Open play)" last_modified="2013-08-17 16:30:46" minute="89" period="2" second="34" team="Fulham" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Jozy Altidore has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-08-17 16:26:43" minute="85" period="2" second="31" team="Fulham" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Collected)" last_modified="2013-08-17 16:26:43" minute="85" period="2" second="31" team="Sunderland" time="87" type="save made" type_id="10"/>
+	<message comment="Ondrej Celustka is substituted off" last_modified="2013-08-17 16:26:27" minute="85" period="2" second="15" team="Fulham" time="87" type="substitution off" type_id="18"/>
+	<message comment="Connor Wickham is substituted on" last_modified="2013-08-17 16:26:27" minute="85" period="2" second="15" team="Fulham" time="87" type="substitution on" type_id="19"/>
+	<message comment="Dimitar Berbatov recieves a yellow card" last_modified="2013-08-17 16:25:55" minute="84" period="2" second="43" team="Sunderland" time="86" type="card received" type_id="17"/>
+	<message comment="Maarten Stekelenburg is substituted off" last_modified="2013-08-17 16:16:16" minute="75" period="2" second="4" team="Sunderland" time="77" type="substitution off" type_id="18"/>
+	<message comment="David Stockdale is substituted on" last_modified="2013-08-17 16:16:16" minute="75" period="2" second="4" team="Sunderland" time="77" type="substitution on" type_id="19"/>
+	<message comment="Aaron Hughes blocks a shot" last_modified="2013-08-17 16:13:54" minute="72" period="2" second="42" team="Sunderland" time="74" type="save made" type_id="10"/>
+	<message comment="Emanuele Giaccherini has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-08-17 16:13:54" minute="72" period="2" second="42" team="Fulham" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon is substituted off" last_modified="2013-08-17 16:12:15" minute="71" period="2" second="3" team="Fulham" time="73" type="substitution off" type_id="18"/>
+	<message comment="Dong-Won Ji is substituted on" last_modified="2013-08-17 16:12:15" minute="71" period="2" second="3" team="Fulham" time="73" type="substitution on" type_id="19"/>
+	<message comment="Emanuele Giaccherini is caught offside" last_modified="2013-08-17 16:11:12" minute="70" period="2" team="Fulham" time="72" type="offside" type_id="10000"/>
+	<message comment="Jozy Altidore wins a corner (To the right)" last_modified="2013-08-17 16:06:53" minute="65" period="2" second="41" team="Fulham" time="67" type="corner" type_id="6"/>
+	<message comment="Sascha Riether blocks a shot" last_modified="2013-08-17 16:06:50" minute="65" period="2" second="38" team="Sunderland" time="67" type="save made" type_id="10"/>
+	<message comment="Jozy Altidore has shot blocked (18-yard box, Right footed, Fast break)" last_modified="2013-08-17 16:06:50" minute="65" period="2" second="38" team="Fulham" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Briggs has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-17 16:06:37" minute="65" period="2" second="25" team="Sunderland" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" last_modified="2013-08-17 16:06:37" minute="65" period="2" second="25" team="Fulham" time="67" type="save made" type_id="10"/>
+	<message comment="Derek Boateng is substituted off" last_modified="2013-08-17 16:05:46" minute="64" period="2" second="34" team="Sunderland" time="66" type="substitution off" type_id="18"/>
+	<message comment="Giorgos Karagounis is substituted on" last_modified="2013-08-17 16:05:46" minute="64" period="2" second="34" team="Sunderland" time="66" type="substitution on" type_id="19"/>
+	<message comment="Jozy Altidore misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-17 16:05:07" minute="63" period="2" second="55" team="Fulham" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson has shot blocked (Out of box, Left footed, Set piece)" last_modified="2013-08-17 16:02:53" minute="61" period="2" second="41" team="Fulham" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Dimitar Berbatov blocks a shot" last_modified="2013-08-17 16:02:53" minute="61" period="2" second="41" team="Sunderland" time="63" type="save made" type_id="10"/>
+	<message comment="Brede Hangeland blocks a shot" last_modified="2013-08-17 16:02:52" minute="61" period="2" second="40" team="Sunderland" time="63" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-08-17 16:02:52" minute="61" period="2" second="40" team="Fulham" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Valentin Roberge is caught offside" last_modified="2013-08-17 16:02:12" minute="61" period="2" team="Fulham" time="63" type="offside" type_id="10000"/>
+	<message comment="Adam Johnson misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:57:56" minute="56" period="2" second="44" team="Fulham" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Cabral misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-08-17 15:55:54" minute="54" period="2" second="42" team="Fulham" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Pajtim Kasami scores , Assisted by Damien Duff (High to the left, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-08-17 15:53:08" minute="51" period="2" second="56" team="Sunderland" time="53" type="goal scored" type_id="16"/>
+	<message comment="Dimitar Berbatov wins a corner (To the right)" last_modified="2013-08-17 15:52:37" minute="51" period="2" second="25" team="Sunderland" time="53" type="corner" type_id="6"/>
+	<message comment="Adam Johnson misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-08-17 15:51:39" minute="50" period="2" second="27" team="Fulham" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2013-08-17 15:46:12" minute="45" period="2" second="0" team="Fulham" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-08-17 15:47:12" minute="46" period="1" second="0" team="Fulham" time="46" type="end" type_id="30"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-08-17 15:45:57" minute="44" period="1" second="45" team="Sunderland" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Cabral blocks a shot" last_modified="2013-08-17 15:45:57" minute="44" period="1" second="45" team="Fulham" time="44" type="save made" type_id="10"/>
+	<message comment="Cabral misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-08-17 15:42:54" minute="41" period="1" second="42" team="Fulham" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" last_modified="2013-08-17 15:37:40" minute="36" period="1" second="28" team="Fulham" time="36" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini wins a corner (To the left)" last_modified="2013-08-17 15:37:00" minute="35" period="1" second="48" team="Fulham" time="35" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini misses attempt (To the left, 18-yard box, Right footed, From corner)" last_modified="2013-08-17 15:36:57" minute="35" period="1" second="45" team="Fulham" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Ondrej Celustka wins a corner (To the right)" last_modified="2013-08-17 15:36:24" minute="35" period="1" second="12" team="Fulham" time="35" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving)" last_modified="2013-08-17 15:36:22" minute="35" period="1" second="10" team="Sunderland" time="35" type="save made" type_id="10"/>
+	<message comment="Ondrej Celustka has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2013-08-17 15:36:22" minute="35" period="1" second="10" team="Fulham" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save" last_modified="2013-08-17 15:34:15" minute="33" period="1" second="3" team="Sunderland" time="33" type="save made" type_id="10"/>
+	<message comment="Emanuele Giaccherini has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-08-17 15:34:15" minute="33" period="1" second="3" team="Fulham" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell has shot blocked (Out of box, Left footed, Set piece)" last_modified="2013-08-17 15:27:14" minute="26" period="1" second="2" team="Sunderland" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" last_modified="2013-08-17 15:27:14" minute="26" period="1" second="2" team="Fulham" time="26" type="save made" type_id="10"/>
+	<message comment="Cabral misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:26:09" minute="24" period="1" second="57" team="Fulham" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" last_modified="2013-08-17 15:24:59" minute="23" period="1" second="47" team="Fulham" time="23" type="corner" type_id="6"/>
+	<message comment="Damien Duff blocks a shot" last_modified="2013-08-17 15:24:54" minute="23" period="1" second="42" team="Sunderland" time="23" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-08-17 15:24:54" minute="23" period="1" second="42" team="Fulham" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Derek Boateng recieves a yellow card" last_modified="2013-08-17 15:23:58" minute="22" period="1" second="46" team="Sunderland" time="22" type="card received" type_id="17"/>
+	<message comment="Pajtim Kasami blocks a shot" last_modified="2013-08-17 15:21:35" minute="20" period="1" second="23" team="Sunderland" time="20" type="save made" type_id="10"/>
+	<message comment="Cabral has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-08-17 15:21:35" minute="20" period="1" second="23" team="Fulham" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Richardson is substituted off" last_modified="2013-08-17 15:20:20" minute="19" period="1" second="8" team="Sunderland" time="19" type="substitution off" type_id="18"/>
+	<message comment="Matthew Briggs is substituted on" last_modified="2013-08-17 15:20:20" minute="19" period="1" second="8" team="Sunderland" time="19" type="substitution on" type_id="19"/>
+	<message comment="Stéphane Sessegnon misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-08-17 15:18:36" minute="17" period="1" second="24" team="Fulham" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Valentin Roberge blocks a shot" last_modified="2013-08-17 15:10:01" minute="8" period="1" second="49" team="Fulham" time="8" type="save made" type_id="10"/>
+	<message comment="Pajtim Kasami has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-08-17 15:10:01" minute="8" period="1" second="49" team="Sunderland" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2013-08-17 15:01:12" minute="0" period="14" second="0" team="Fulham" time="7" type="end" type_id="30"/>
+	<message comment="Cabral misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:06:59" minute="5" period="1" second="47" team="Fulham" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon is caught offside" last_modified="2013-08-17 15:05:12" minute="4" period="1" team="Fulham" time="4" type="offside" type_id="10000"/>
+	<message comment="Emanuele Giaccherini misses attempt (High to the right, Out of box, Left footed, From corner)" last_modified="2013-08-17 15:02:37" minute="1" period="1" second="25" team="Fulham" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Jozy Altidore wins a corner (To the right)" last_modified="2013-08-17 15:02:10" minute="0" period="1" second="58" team="Fulham" time="0" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" last_modified="2013-08-17 15:02:07" minute="0" period="1" second="55" team="Sunderland" time="0" type="save made" type_id="10"/>
+	<message comment="Jozy Altidore has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:02:07" minute="0" period="1" second="55" team="Fulham" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-08-17 15:01:12" minute="0" period="1" second="0" team="Fulham" time="0" type="start" type_id="32"/>
+</Commentary>

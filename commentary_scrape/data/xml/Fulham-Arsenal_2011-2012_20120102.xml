@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2012-01-02" home_team_name="Arsenal" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="50" time="95" type="end" type_id="30"/>
+	<message comment="GOAL! Bobby Zamora scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="91" period="2" second="58" time="93" type="goal scored" type_id="16"/>
+	<message comment="Mousa Dembélé misses attempt (High to the left, Out of box, Left footed, Open play)" minute="91" period="2" second="18" time="93" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise misses attempt (To the left, Out of box, Left footed, Open play)" minute="90" period="2" second="21" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky misses attempt (To the right, Out of box, Right footed, Open play)" minute="89" period="2" second="10" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Robin van Persie is caught offside" minute="88" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Bryan Ruiz is caught offside" minute="87" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Kerim Frei is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="GOAL! Steve Sidwell scores , Assisted by Philippe Senderos (High to the centre, 6-yard box, Big Chance, Head, From corner)" minute="84" period="2" second="17" time="86" type="goal scored" type_id="16"/>
+	<message comment="Bobby Zamora wins a corner (To the right)" minute="83" period="2" second="56" time="85" type="corner" type_id="6"/>
+	<message comment="Alexandre Song blocks a shot" minute="83" period="2" second="55" time="85" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="55" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Bobby Zamora is caught offside" minute="82" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey is substituted off" minute="80" period="2" second="45" time="82" type="substitution off" type_id="18"/>
+	<message comment="Sébastien Squillaci is substituted on" minute="80" period="2" second="45" time="82" type="substitution on" type_id="19"/>
+	<message comment="Stephen Kelly wins a corner (To the right)" minute="79" period="2" second="8" time="81" type="corner" type_id="6"/>
+	<message comment="Stephen Kelly has shot blocked (Out of box, Right footed, Free kick)" minute="79" period="2" second="6" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song blocks a shot" minute="79" period="2" second="6" time="81" type="save made" type_id="10"/>
+	<message comment="Johan Djourou recieves a red card after receiving second yellow card" minute="77" period="2" second="32" time="79" type="card received" type_id="17"/>
+	<message comment="Bryan Ruiz has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="74" period="2" second="25" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Feet, Diving)" minute="74" period="2" second="25" time="76" type="save made" type_id="10"/>
+	<message comment="Yossi Benayoun is substituted on" minute="73" period="2" second="52" time="75" type="substitution on" type_id="19"/>
+	<message comment="Gervinho is substituted off" minute="73" period="2" second="50" time="75" type="substitution off" type_id="18"/>
+	<message comment="Gervinho misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="70" period="2" second="35" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Kerim Frei is substituted on" minute="68" period="2" second="51" time="70" type="substitution on" type_id="19"/>
+	<message comment="Danny Murphy is substituted off" minute="68" period="2" second="50" time="70" type="substitution off" type_id="18"/>
+	<message comment="Francis Coquelin is caught offside" minute="67" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey misses attempt (18-yard box, Big Chance, Head, Open play)" minute="65" period="2" second="34" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott is substituted off" minute="64" period="2" second="15" time="66" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="64" period="2" second="15" time="66" type="substitution on" type_id="19"/>
+	<message comment="Philippe Senderos misses attempt (18-yard box, Head, Set piece)" minute="63" period="2" second="4" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Johan Djourou recieves a yellow card" minute="62" period="2" second="27" time="64" type="card received" type_id="17"/>
+	<message comment="Mousa Dembélé misses attempt (To the right, Out of box, Right footed, Open play)" minute="60" period="2" second="58" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell misses attempt (Out of box, Right footed, Set piece)" minute="59" period="2" second="20" time="61" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise blocks a shot" minute="54" period="2" second="9" time="56" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has shot blocked (18-yard box, Right footed, Open play)" minute="54" period="2" second="9" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell misses attempt (High, 18-yard box, Head, Open play)" minute="49" period="2" second="33" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Bobby Zamora is caught offside" minute="48" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Bryan Ruiz has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="46" period="2" second="41" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="46" period="2" second="41" time="48" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="12" time="46" type="end" type_id="30"/>
+	<message comment="Philippe Senderos misses attempt (High, 18-yard box, Head, From corner)" minute="46" period="1" second="8" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell wins a corner (To the right)" minute="45" period="1" second="41" time="45" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="45" period="1" second="8" time="45" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="45" period="1" second="8" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Bobby Zamora misses attempt (To the right, 18-yard box, Big Chance, Head, Open play)" minute="41" period="1" second="11" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott misses attempt (To the left, Out of box, Right footed, Open play)" minute="39" period="1" second="24" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott misses attempt (High to the left, Out of box, Left footed, Open play)" minute="37" period="1" second="18" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (To the left, Out of box, Right footed, Open play)" minute="35" period="1" second="53" time="35" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save (Standing, Collected)" minute="34" period="1" second="25" time="34" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="34" period="1" second="25" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="32" period="1" second="2" time="32" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="32" period="1" second="2" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Bryan Ruiz misses attempt (Out of box, Left footed, Open play)" minute="30" period="1" second="30" time="30" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save (Collected, Standing)" minute="30" period="1" second="0" time="30" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has attempt saved (Low to the right, Out of box, Right footed, Set piece)" minute="30" period="1" second="0" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="28" period="1" second="43" time="28" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has shot blocked (Out of box, Left footed, Open play)" minute="28" period="1" second="43" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Bobby Zamora wins a corner (To the left)" minute="25" period="1" second="51" time="25" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the left)" minute="22" period="1" second="14" time="22" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" minute="22" period="1" second="7" time="22" type="save made" type_id="10"/>
+	<message comment="Robin van Persie has shot blocked (18-yard box, Left footed, Open play)" minute="22" period="1" second="7" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Feet, Standing)" minute="22" period="1" second="5" time="22" type="save made" type_id="10"/>
+	<message comment="Gervinho has attempt saved (Low to the left, 6-yard box, Left footed, Open play)" minute="22" period="1" second="5" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="22" period="1" second="3" time="22" type="save made" type_id="10"/>
+	<message comment="Alexandre Song has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="22" period="1" second="3" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="22" period="1" second="1" time="22" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="22" period="1" second="1" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Laurent Koscielny scores  (Low to the left, 18-yard box, Big Chance, Head, Open play)" minute="20" period="1" second="17" time="20" type="goal scored" type_id="16"/>
+	<message comment="Mikel Arteta has shot blocked (Out of box, Right footed, Open play)" minute="20" period="1" second="7" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="19" period="1" second="42" time="19" type="corner" type_id="6"/>
+	<message comment="Bobby Zamora has shot blocked (Out of box, Right footed, Open play)" minute="17" period="1" second="25" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song blocks a shot" minute="17" period="1" second="25" time="17" type="save made" type_id="10"/>
+	<message comment="Theo Walcott is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Brede Hangeland misses attempt (High, 18-yard box, Head, Set piece)" minute="14" period="1" second="5" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Bobby Zamora has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="9" period="1" second="48" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried into danger)" minute="9" period="1" second="48" time="9" type="save made" type_id="10"/>
+	<message comment="Gervinho misses attempt (6-yard box, Big Chance, Left footed, From corner)" minute="7" period="1" second="55" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="7" period="1" second="30" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="4" period="1" second="40" time="4" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (18-yard box, Left footed, Open play)" minute="4" period="1" second="40" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy misses attempt (High, Out of box, Right footed, Throw-in)" minute="3" period="1" second="48" time="3" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save (Collected)" minute="2" period="1" second="49" time="2" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="2" period="1" second="49" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Gervinho misses attempt (High, 18-yard box, Right footed, Open play)" minute="0" period="1" second="58" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2012-11-24" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="7" time="99" type="end" type_id="30"/>
+	<message comment="GOAL! Marc-Antoine Fortuné scores , Assisted by Romelu Lukaku (Low to the right, 18-yard box, Right footed, Fast break)" minute="94" period="2" second="11" time="98" type="goal scored" type_id="16"/>
+	<message comment="James McClean blocks a shot" minute="92" period="2" second="28" time="96" type="save made" type_id="10"/>
+	<message comment="Claudio Yacob has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="28" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku hits the woodwork (To the left, 18-yard box, Left footed, Open play)" minute="92" period="2" second="20" time="96" type="woodwork hit" type_id="14"/>
+	<message comment="Adam Johnson is caught offside" minute="92" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Carlos Cuellar has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="91" period="2" second="39" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save" minute="91" period="2" second="39" time="95" type="save made" type_id="10"/>
+	<message comment="James Morrison is substituted off" minute="90" period="2" second="55" time="94" type="substitution off" type_id="18"/>
+	<message comment="Gabriel Tamas is substituted on" minute="90" period="2" second="55" time="94" type="substitution on" type_id="19"/>
+	<message comment="Liam Ridgewell recieves a yellow card" minute="89" period="2" second="11" time="93" type="card received" type_id="17"/>
+	<message comment="Claudio Yacob misses attempt (High to the left, Out of box, Right footed, Open play)" minute="88" period="2" second="8" time="92" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Stéphane Sessegnon scores  (High to the right, 6-yard box, Big Chance, Right footed, From corner)" minute="86" period="2" second="38" time="90" type="goal scored" type_id="16"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="86" period="2" second="36" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Parried into danger, Diving)" minute="86" period="2" second="36" time="90" type="save made" type_id="10"/>
+	<message comment="Adam Johnson wins a corner (To the left)" minute="86" period="2" second="19" time="90" type="corner" type_id="6"/>
+	<message comment="Adam Johnson has shot blocked (18-yard box, Left footed, Open play)" minute="86" period="2" second="15" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones blocks a shot" minute="86" period="2" second="15" time="90" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku misses attempt (To the right, 18-yard box, Big Chance, Left footed, Open play)" minute="85" period="2" second="7" time="89" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Romelu Lukaku scores  (Low to the left, 18-yard box, Big Chance, Penalty, Left footed)" minute="80" period="2" second="28" time="84" type="goal scored" type_id="16"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="77" period="2" second="17" time="81" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the left)" minute="74" period="2" second="58" time="78" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon has shot blocked (Out of box, Right footed, Open play)" minute="74" period="2" second="53" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones blocks a shot" minute="74" period="2" second="53" time="78" type="save made" type_id="10"/>
+	<message comment="GOAL! Craig Gardner scores  (Low to the right, Out of box, Right footed, Free kick)" minute="72" period="2" second="55" time="76" type="goal scored" type_id="16"/>
+	<message comment="Jack Colback is substituted off" minute="72" period="2" second="22" time="76" type="substitution off" type_id="18"/>
+	<message comment="Louis Saha is substituted on" minute="72" period="2" second="22" time="76" type="substitution on" type_id="19"/>
+	<message comment="Shane Long is substituted off" minute="69" period="2" second="30" time="73" type="substitution off" type_id="18"/>
+	<message comment="Romelu Lukaku is substituted on" minute="69" period="2" second="30" time="73" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie is substituted off" minute="69" period="2" second="20" time="73" type="substitution off" type_id="18"/>
+	<message comment="Marc-Antoine Fortuné is substituted on" minute="69" period="2" second="20" time="73" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie misses attempt (Out of box, Left footed, Open play)" minute="68" period="2" second="40" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Danny Rose blocks a shot" minute="66" period="2" second="59" time="70" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Right footed, Open play)" minute="66" period="2" second="59" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="James McClean misses attempt (High, 18-yard box, Head, From corner)" minute="63" period="2" second="22" time="67" type="attempt missed" type_id="13"/>
+	<message comment="James McClean wins a corner (To the right)" minute="63" period="2" second="5" time="67" type="corner" type_id="6"/>
+	<message comment="James McClean misses attempt (To the right, Out of box, Left footed, Open play)" minute="63" period="2" second="2" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="60" period="2" second="23" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (18-yard box, Head, Open play)" minute="54" period="2" second="55" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner recieves a yellow card" minute="52" period="2" second="41" time="56" type="card received" type_id="17"/>
+	<message comment="Adam Johnson has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="51" period="2" second="54" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving, Parried into danger)" minute="51" period="2" second="54" time="55" type="save made" type_id="10"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="48" period="2" second="39" time="52" type="corner" type_id="6"/>
+	<message comment="Shane Long has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="48" period="2" second="5" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Standing, Parried safe)" minute="48" period="2" second="5" time="52" type="save made" type_id="10"/>
+	<message comment="John O'Shea is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="James McClean is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="10" time="48" type="end" type_id="30"/>
+	<message comment="Steven Fletcher misses attempt (To the right, Out of box, Left footed, Open play)" minute="47" period="1" second="55" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher has shot blocked (Out of box, Left footed, Open play)" minute="47" period="1" second="54" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth McAuley blocks a shot" minute="47" period="1" second="54" time="47" type="save made" type_id="10"/>
+	<message comment="Carlos Cuellar wins a corner (To the right)" minute="45" period="1" second="7" time="45" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Craig Gardner has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="44" period="1" second="53" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Parried safe, Diving)" minute="44" period="1" second="53" time="44" type="save made" type_id="10"/>
+	<message comment="GOAL! Shane Long scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="43" period="1" second="4" time="43" type="goal scored" type_id="16"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="42" period="1" second="31" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving)" minute="42" period="1" second="31" time="42" type="save made" type_id="10"/>
+	<message comment="James Morrison recieves a yellow card" minute="38" period="1" second="50" time="38" type="card received" type_id="17"/>
+	<message comment="Craig Gardner is substituted on" minute="34" period="1" second="20" time="34" type="substitution on" type_id="19"/>
+	<message comment="Lee Cattermole is substituted off" minute="34" period="1" second="19" time="34" type="substitution off" type_id="18"/>
+	<message comment="John O'Shea misses attempt (18-yard box, Right footed, Open play)" minute="31" period="1" second="47" time="31" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Zoltán Gera scores , Assisted by Peter Odemwingie (Low to the right, Out of box, Left footed, Open play)" minute="29" period="1" second="38" time="29" type="goal scored" type_id="16"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="24" period="1" second="51" time="24" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="24" period="1" second="49" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Parried into danger, Diving)" minute="24" period="1" second="49" time="24" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Shane Long recieves a yellow card" minute="19" period="1" second="50" time="19" type="card received" type_id="17"/>
+	<message comment="Lee Cattermole misses attempt (To the left, Out of box, Right footed, From corner)" minute="17" period="1" second="38" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the left)" minute="17" period="1" second="6" time="17" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="17" period="1" second="5" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Parried safe, Diving)" minute="17" period="1" second="5" time="17" type="save made" type_id="10"/>
+	<message comment="Claudio Yacob misses attempt (6-yard box, Head, From corner)" minute="15" period="1" second="23" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="15" period="1" second="4" time="15" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher misses attempt (To the left, 18-yard box, Head, Open play)" minute="12" period="1" second="41" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="John O'Shea recieves a yellow card" minute="8" period="1" second="27" time="8" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save" minute="7" period="1" second="44" time="7" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="7" period="1" second="44" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="4" period="1" second="6" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Boaz Myhill makes a save (Diving)" minute="4" period="1" second="6" time="4" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

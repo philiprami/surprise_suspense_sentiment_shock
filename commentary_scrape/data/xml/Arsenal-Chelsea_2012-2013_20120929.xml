@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2012-09-29" home_team_name="Chelsea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="39" time="98" type="end" type_id="30"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="93" period="2" second="31" time="97" type="corner" type_id="6"/>
+	<message comment="Ramires recieves a yellow card" minute="92" period="2" second="2" time="96" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="90" period="2" second="35" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="88" period="2" second="32" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses misses attempt (High, 18-yard box, Right footed, Open play)" minute="84" period="2" second="56" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is substituted off" minute="84" period="2" second="3" time="88" type="substitution off" type_id="18"/>
+	<message comment="Ryan Bertrand is substituted on" minute="84" period="2" second="3" time="88" type="substitution on" type_id="19"/>
+	<message comment="Gervinho is caught offside" minute="84" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="83" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Gervinho is caught offside" minute="82" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="David Luiz is substituted off" minute="80" period="2" second="35" time="84" type="substitution off" type_id="18"/>
+	<message comment="Gary Cahill is substituted on" minute="80" period="2" second="35" time="84" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata has shot blocked (Out of box, Left footed, Free kick)" minute="79" period="2" second="59" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud blocks a shot" minute="79" period="2" second="59" time="83" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs misses attempt (High to the right, Out of box, Left footed, Open play)" minute="77" period="2" second="29" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses misses attempt (High to the right, Out of box, Head, From corner)" minute="75" period="2" second="47" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard wins a corner (To the left)" minute="75" period="2" second="20" time="79" type="corner" type_id="6"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="74" period="2" second="43" time="78" type="corner" type_id="6"/>
+	<message comment="Oscar is substituted off" minute="72" period="2" second="59" time="76" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="72" period="2" second="59" time="76" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="72" period="2" second="21" time="76" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried safe)" minute="72" period="2" second="17" time="76" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="72" period="2" second="17" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="71" period="2" second="8" time="75" type="save made" type_id="10"/>
+	<message comment="Theo Walcott has shot blocked (Out of box, Right footed, Open play)" minute="71" period="2" second="8" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen misses attempt (To the right, 18-yard box, Head, From corner)" minute="66" period="2" second="27" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is substituted off" minute="66" period="2" second="12" time="70" type="substitution off" type_id="18"/>
+	<message comment="Olivier Giroud is substituted on" minute="66" period="2" second="12" time="70" type="substitution on" type_id="19"/>
+	<message comment="Aaron Ramsey is substituted off" minute="66" period="2" second="6" time="70" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="66" period="2" second="6" time="70" type="substitution on" type_id="19"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="65" period="2" second="42" time="69" type="corner" type_id="6"/>
+	<message comment="Oscar has shot blocked (Out of box, Right footed, Fast break)" minute="64" period="2" second="4" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="64" period="2" second="4" time="68" type="save made" type_id="10"/>
+	<message comment="Gervinho is caught offside" minute="62" period="2" time="66" type="offside" type_id="10000"/>
+	<message comment="Aaron Ramsey misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="58" period="2" second="49" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Parried safe)" minute="58" period="2" second="40" time="62" type="save made" type_id="10"/>
+	<message comment="Lukas Podolski has attempt saved (High to the right, 18-yard box, Head, Open play)" minute="58" period="2" second="40" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Gibbs is caught offside" minute="56" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="GOAL! Juan Mata scores  (Low to the left, Out of box, Left footed, Free kick)" minute="52" period="2" second="46" time="56" type="goal scored" type_id="16"/>
+	<message comment="Thomas Vermaelen recieves a yellow card" minute="52" period="2" second="8" time="56" type="card received" type_id="17"/>
+	<message comment="Santi Cazorla misses attempt (18-yard box, Left footed, Open play)" minute="49" period="2" second="40" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (To the right, Out of box, Right footed, Open play)" minute="48" period="2" second="15" time="52" type="attempt missed" type_id="13"/>
+	<message comment="David Luiz recieves a yellow card" minute="47" period="2" second="19" time="51" type="card received" type_id="17"/>
+	<message comment="Oscar wins a corner (To the right)" minute="46" period="2" second="39" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="9" time="48" type="end" type_id="30"/>
+	<message comment="Fernando Torres misses attempt (18-yard box, Left footed, Open play)" minute="48" period="1" second="1" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Oscar misses attempt (Out of box, Right footed, Open play)" minute="45" period="1" second="39" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Carl Jenkinson wins a corner (To the right)" minute="43" period="1" second="15" time="43" type="corner" type_id="6"/>
+	<message comment="GOAL! Gervinho scores , Assisted by Alex Oxlade-Chamberlain (High to the right, 18-yard box, Right footed, Open play)" minute="41" period="1" second="59" time="41" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres is caught offside" minute="41" period="1" time="41" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="23" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires blocks a shot" minute="39" period="1" second="23" time="39" type="save made" type_id="10"/>
+	<message comment="Oscar recieves a yellow card" minute="38" period="1" second="33" time="38" type="card received" type_id="17"/>
+	<message comment="John Obi Mikel misses attempt (High to the right, Out of box, Right footed, Open play)" minute="37" period="1" second="4" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey recieves a yellow card" minute="34" period="1" second="49" time="34" type="card received" type_id="17"/>
+	<message comment="Gervinho wins a corner (To the left)" minute="33" period="1" second="35" time="33" type="corner" type_id="6"/>
+	<message comment="Thomas Vermaelen misses attempt (High to the left, Out of box, Left footed, Open play)" minute="31" period="1" second="4" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="23" period="1" second="48" time="23" type="corner" type_id="6"/>
+	<message comment="Thomas Vermaelen has shot blocked (Out of box, Left footed, Open play)" minute="23" period="1" second="43" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole blocks a shot" minute="23" period="1" second="43" time="23" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="22" period="1" second="55" time="22" type="corner" type_id="6"/>
+	<message comment="Ramires wins a corner (To the left)" minute="20" period="1" second="43" time="20" type="corner" type_id="6"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Juan Mata (High to the left, 6-yard box, Right footed, Set piece)" minute="19" period="1" second="24" time="19" type="goal scored" type_id="16"/>
+	<message comment="Abou Diaby is substituted off" minute="16" period="1" second="46" time="16" type="substitution off" type_id="18"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted on" minute="16" period="1" second="46" time="16" type="substitution on" type_id="19"/>
+	<message comment="Abou Diaby has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="11" period="1" second="28" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="11" period="1" second="28" time="11" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla misses attempt (High, Out of box, Right footed, Open play)" minute="9" period="1" second="40" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Aaron Ramsey misses attempt (High to the right, Out of box, Right footed, Open play)" minute="4" period="1" second="37" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Standing)" minute="2" period="1" second="20" time="2" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="2" period="1" second="20" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Blackburn" competition="English Premier League" game_date="2011-02-02" home_team_name="Tottenham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="96" type="end" type_id="30"/>
+	<message comment="Heurelho Gomes makes a save" minute="92" period="2" second="33" time="95" type="save made" type_id="10"/>
+	<message comment="Keith Andrews has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="92" period="2" second="33" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba wins a corner (To the right)" minute="92" period="2" second="0" time="95" type="corner" type_id="6"/>
+	<message comment="Jermaine Jenas blocks a shot" minute="91" period="2" second="58" time="94" type="save made" type_id="10"/>
+	<message comment="Christopher Samba has shot blocked (18-yard box, Head, Open play)" minute="91" period="2" second="58" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro blocks a shot" minute="91" period="2" second="55" time="94" type="save made" type_id="10"/>
+	<message comment="Benjani has shot blocked (Out of box, Right footed, Open play)" minute="91" period="2" second="55" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Nzonzi recieves a yellow card" minute="86" period="2" second="21" time="89" type="card received" type_id="17"/>
+	<message comment="David Junior Hoilett misses attempt (To the left, Out of box, Left footed, Open play)" minute="85" period="2" second="32" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Mame Biram Diouf is substituted off" minute="81" period="2" second="11" time="84" type="substitution off" type_id="18"/>
+	<message comment="Benjani is substituted on" minute="81" period="2" second="11" time="84" type="substitution on" type_id="19"/>
+	<message comment="Vedran Corluka wins a corner (To the right)" minute="76" period="2" second="13" time="79" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe is substituted off" minute="75" period="2" second="40" time="78" type="substitution off" type_id="18"/>
+	<message comment="Sandro is substituted on" minute="75" period="2" second="40" time="78" type="substitution on" type_id="19"/>
+	<message comment="Morten Gamst Pedersen has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="74" period="2" second="53" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Parried into danger, Standing)" minute="74" period="2" second="53" time="77" type="save made" type_id="10"/>
+	<message comment="Mame Biram Diouf has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="72" period="2" second="2" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Parried safe, Diving)" minute="72" period="2" second="2" time="75" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="69" period="2" second="44" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Parried safe, Diving)" minute="69" period="2" second="44" time="72" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen is substituted on" minute="66" period="2" second="41" time="69" type="substitution on" type_id="19"/>
+	<message comment="David Dunn is substituted off" minute="66" period="2" second="41" time="69" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Jenas wins a corner (To the left)" minute="65" period="2" second="27" time="68" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="65" period="2" second="26" time="68" type="save made" type_id="10"/>
+	<message comment="Jermaine Jenas has shot blocked (18-yard box, Left footed, Open play)" minute="65" period="2" second="26" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Jones is substituted off" minute="63" period="2" second="49" time="66" type="substitution off" type_id="18"/>
+	<message comment="Steven Nzonzi is substituted on" minute="63" period="2" second="49" time="66" type="substitution on" type_id="19"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="60" period="2" second="27" time="63" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="60" period="2" second="26" time="63" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="60" period="2" second="26" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Roberts is caught offside" minute="59" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Rafael van der Vaart has shot blocked (18-yard box, Left footed, Open play)" minute="57" period="2" second="9" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba blocks a shot" minute="57" period="2" second="9" time="60" type="save made" type_id="10"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="57" period="2" second="3" time="60" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="57" period="2" second="3" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka recieves a yellow card" minute="53" period="2" second="10" time="56" type="card received" type_id="17"/>
+	<message comment="Vedran Corluka wins a corner (To the right)" minute="50" period="2" second="29" time="53" type="corner" type_id="6"/>
+	<message comment="Mame Biram Diouf has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="2" second="40" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Parried into danger, Diving)" minute="45" period="2" second="40" time="48" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe is caught offside" minute="45" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="12" time="47" type="end" type_id="30"/>
+	<message comment="Ryan Nelsen misses attempt (High to the right, 6-yard box, Other body part, Set piece)" minute="46" period="1" second="38" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Nelsen misses attempt (To the right, 18-yard box, Head, From corner)" minute="37" period="1" second="53" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Jason Roberts wins a corner (To the right)" minute="37" period="1" second="33" time="37" type="corner" type_id="6"/>
+	<message comment="David Dunn misses attempt (18-yard box, Right footed, Open play)" minute="36" period="1" second="34" time="36" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="34" period="1" second="52" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Collected)" minute="34" period="1" second="52" time="34" type="save made" type_id="10"/>
+	<message comment="Jermaine Jones recieves a yellow card" minute="33" period="1" second="13" time="33" type="card received" type_id="17"/>
+	<message comment="Rafael van der Vaart misses attempt (Out of box, Left footed, Free kick)" minute="29" period="1" second="35" time="29" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn misses attempt (Out of box, Right footed, Throw-in)" minute="21" period="1" second="44" time="21" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett has shot blocked (18-yard box, Right footed, From corner)" minute="18" period="1" second="20" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Wilson Palacios blocks a shot" minute="18" period="1" second="20" time="18" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett wins a corner (To the right)" minute="17" period="1" second="58" time="17" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett has attempt saved (High to the right, 18-yard box, Right footed, Set piece)" minute="17" period="1" second="55" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Heurelho Gomes makes a save (Parried safe, Diving)" minute="17" period="1" second="55" time="17" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett has shot blocked (18-yard box, Right footed, From corner)" minute="14" period="1" second="41" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka blocks a shot" minute="14" period="1" second="41" time="14" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett wins a corner (To the left)" minute="14" period="1" second="23" time="14" type="corner" type_id="6"/>
+	<message comment="Mame Biram Diouf has shot blocked (18-yard box, Left footed, Open play)" minute="12" period="1" second="4" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="12" period="1" second="4" time="12" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Rafael van der Vaart (Low to the right, 18-yard box, Head, Open play)" minute="3" period="1" second="1" time="3" type="goal scored" type_id="16"/>
+	<message comment="David Dunn has shot blocked (18-yard box, Right footed, Open play)" minute="2" period="1" second="28" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka blocks a shot" minute="2" period="1" second="28" time="2" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

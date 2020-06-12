@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2012-08-25" home_team_name="West Ham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="97" type="end" type_id="30"/>
+	<message comment="Michu is caught offside" minute="92" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Luke Moore has shot blocked (18-yard box, Left footed, Open play)" minute="90" period="2" second="48" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Winston Reid blocks a shot" minute="90" period="2" second="48" time="94" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer misses attempt (To the left, Out of box, Right footed, Open play)" minute="86" period="2" second="48" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Guy Demel wins a corner (To the right)" minute="85" period="2" second="40" time="89" type="corner" type_id="6"/>
+	<message comment="Neil Taylor is substituted off" minute="83" period="2" second="21" time="87" type="substitution off" type_id="18"/>
+	<message comment="Ben Davies is substituted on" minute="83" period="2" second="21" time="87" type="substitution on" type_id="19"/>
+	<message comment="Winston Reid recieves a yellow card" minute="82" period="2" second="49" time="86" type="card received" type_id="17"/>
+	<message comment="Luke Moore is substituted on" minute="80" period="2" second="38" time="84" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" minute="80" period="2" second="38" time="84" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Vaz Tê misses attempt (High to the left, 18-yard box, Head, Open play)" minute="76" period="2" second="42" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="75" period="2" second="26" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán is substituted off" minute="74" period="2" second="57" time="78" type="substitution off" type_id="18"/>
+	<message comment="Kemy Agustien is substituted on" minute="74" period="2" second="57" time="78" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Vaz Tê has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="54" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="73" period="2" second="54" time="77" type="save made" type_id="10"/>
+	<message comment="Mohamed Diamé is substituted off" minute="69" period="2" second="8" time="73" type="substitution off" type_id="18"/>
+	<message comment="Alou Diarra is substituted on" minute="69" period="2" second="8" time="73" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Vaz Tê has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="68" period="2" second="26" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving)" minute="68" period="2" second="26" time="72" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan is caught offside" minute="68" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="Chico Flores recieves a yellow card" minute="67" period="2" second="46" time="71" type="card received" type_id="17"/>
+	<message comment="Modibo Maiga is caught offside" minute="65" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="GOAL! Danny Graham scores , Assisted by Wayne Routledge (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="63" period="2" second="36" time="67" type="goal scored" type_id="16"/>
+	<message comment="Carlton Cole is substituted off" minute="61" period="2" second="28" time="65" type="substitution off" type_id="18"/>
+	<message comment="Modibo Maiga is substituted on" minute="61" period="2" second="28" time="65" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="60" period="2" second="37" time="64" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge has shot blocked (18-yard box, Right footed, Open play)" minute="60" period="2" second="36" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="James Collins blocks a shot" minute="60" period="2" second="36" time="64" type="save made" type_id="10"/>
+	<message comment="James Collins recieves a yellow card" minute="57" period="2" second="48" time="61" type="card received" type_id="17"/>
+	<message comment="Danny Graham misses attempt (18-yard box, Right footed, Fast break)" minute="55" period="2" second="20" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Nolan recieves a yellow card" minute="52" period="2" second="27" time="56" type="card received" type_id="17"/>
+	<message comment="Michu is caught offside" minute="52" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Danny Graham is caught offside" minute="51" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Carlton Cole misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="50" period="2" second="32" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Danny Graham wins a corner (To the right)" minute="49" period="2" second="26" time="53" type="corner" type_id="6"/>
+	<message comment="Danny Graham has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="49" period="2" second="23" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe, Diving)" minute="49" period="2" second="23" time="53" type="save made" type_id="10"/>
+	<message comment="James Tomkins is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Vaz Tê is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="6" time="48" type="end" type_id="30"/>
+	<message comment="Carlton Cole has shot blocked (18-yard box, Head, From corner)" minute="46" period="1" second="7" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton blocks a shot (Last line)" minute="46" period="1" second="7" time="46" type="save made" type_id="10"/>
+	<message comment="James Tomkins wins a corner (To the left)" minute="45" period="1" second="52" time="45" type="corner" type_id="6"/>
+	<message comment="James Tomkins has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="45" period="1" second="47" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Parried into danger)" minute="45" period="1" second="47" time="45" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="45" period="1" second="18" time="45" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan has shot blocked (6-yard box, Right footed, From corner)" minute="45" period="1" second="17" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel blocks a shot" minute="45" period="1" second="17" time="45" type="save made" type_id="10"/>
+	<message comment="Carlton Cole wins a corner (To the right)" minute="44" period="1" second="44" time="44" type="corner" type_id="6"/>
+	<message comment="Carlton Cole recieves a yellow card" minute="37" period="1" second="43" time="37" type="card received" type_id="17"/>
+	<message comment="Neil Taylor wins a corner (To the left)" minute="36" period="1" second="15" time="36" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save" minute="36" period="1" second="6" time="36" type="save made" type_id="10"/>
+	<message comment="Neil Taylor has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="36" period="1" second="6" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan has attempt saved (Low to the centre, 6-yard box, Right footed, Set piece)" minute="34" period="1" second="12" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving, Other body part)" minute="34" period="1" second="12" time="34" type="save made" type_id="10"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving)" minute="34" period="1" second="11" time="34" type="save made" type_id="10"/>
+	<message comment="Matthew Jarvis has attempt saved (Low to the centre, 18-yard box, Left footed, Set piece)" minute="34" period="1" second="11" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="29" period="1" second="57" time="29" type="card received" type_id="17"/>
+	<message comment="GOAL! Michu scores  (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="28" period="1" second="27" time="28" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Angel Rangel scores , Assisted by Nathan Dyer (High to the left, 18-yard box, Right footed, Open play)" minute="19" period="1" second="49" time="19" type="goal scored" type_id="16"/>
+	<message comment="Neil Taylor wins a corner (To the left)" minute="16" period="1" second="21" time="16" type="corner" type_id="6"/>
+	<message comment="James Collins blocks a shot" minute="16" period="1" second="19" time="16" type="save made" type_id="10"/>
+	<message comment="Neil Taylor has shot blocked (Out of box, Left footed, Open play)" minute="16" period="1" second="19" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="9" period="1" second="17" time="9" type="corner" type_id="6"/>
+	<message comment="George McCartney blocks a shot" minute="9" period="1" second="16" time="9" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Right footed, Open play)" minute="9" period="1" second="16" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Danny Graham is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2012-09-15" home_team_name="Southampton" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="15" time="95" type="end" type_id="30"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="91" period="2" second="56" time="94" type="corner" type_id="6"/>
+	<message comment="José Fonte blocks a shot" minute="91" period="2" second="53" time="94" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" minute="91" period="2" second="53" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" minute="90" period="2" second="56" time="93" type="save made" type_id="10"/>
+	<message comment="Thomas Vermaelen has shot blocked (Out of box, Left footed, From corner)" minute="90" period="2" second="56" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" minute="90" period="2" second="40" time="93" type="corner" type_id="6"/>
+	<message comment="Maya Yoshida blocks a shot" minute="90" period="2" second="39" time="93" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (6-yard box, Left footed, Open play)" minute="90" period="2" second="39" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin misses attempt (To the right, Out of box, Right footed, From corner)" minute="89" period="2" second="56" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="89" period="2" second="21" time="92" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="89" period="2" second="17" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving, Feet)" minute="89" period="2" second="17" time="92" type="save made" type_id="10"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Santi Cazorla (Low to the left, 18-yard box, Left footed, Open play)" minute="87" period="2" second="50" time="90" type="goal scored" type_id="16"/>
+	<message comment="Thomas Vermaelen has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="87" period="2" second="47" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save (Diving, Parried into danger)" minute="87" period="2" second="47" time="90" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez misses attempt (Out of box, Left footed, Open play)" minute="85" period="2" second="8" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (To the left, 18-yard box, Left footed, Fast break)" minute="82" period="2" second="2" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Alex Oxlade-Chamberlain misses attempt (Out of box, Right footed, Open play)" minute="80" period="2" second="28" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott wins a corner (To the left)" minute="77" period="2" second="49" time="80" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert is substituted off" minute="75" period="2" second="20" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jay Rodriguez is substituted on" minute="75" period="2" second="20" time="78" type="substitution on" type_id="19"/>
+	<message comment="Aaron Ramsey misses attempt (High, Out of box, Right footed, From corner)" minute="74" period="2" second="51" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is substituted off" minute="74" period="2" second="32" time="77" type="substitution off" type_id="18"/>
+	<message comment="Olivier Giroud is substituted on" minute="74" period="2" second="32" time="77" type="substitution on" type_id="19"/>
+	<message comment="Gervinho is substituted off" minute="74" period="2" second="22" time="77" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="74" period="2" second="22" time="77" type="substitution on" type_id="19"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the left)" minute="73" period="2" second="25" time="76" type="corner" type_id="6"/>
+	<message comment="Kelvin Davis makes a save (Parried safe, Diving)" minute="73" period="2" second="23" time="76" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="73" period="2" second="23" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Gervinho scores  (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="70" period="2" second="34" time="73" type="goal scored" type_id="16"/>
+	<message comment="Aaron Ramsey hits the woodwork (To the right, 18-yard box, Right footed, Open play)" minute="70" period="2" second="32" time="73" type="woodwork hit" type_id="14"/>
+	<message comment="Francis Coquelin is substituted off" minute="66" period="2" second="54" time="69" type="substitution off" type_id="18"/>
+	<message comment="Aaron Ramsey is substituted on" minute="66" period="2" second="54" time="69" type="substitution on" type_id="19"/>
+	<message comment="Jason Puncheon misses attempt (High to the left, Out of box, Left footed, Open play)" minute="66" period="2" second="11" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="55" period="2" second="59" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the left, 18-yard box, Left footed, Throw-in)" minute="49" period="2" second="28" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save" minute="49" period="2" second="28" time="52" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" minute="45" period="2" second="52" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="Steven Davis is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Daniel Fox scores  (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="45" period="1" second="0" time="45" type="goal scored" type_id="16"/>
+	<message comment="James Ward-Prowse has shot blocked (Out of box, Right footed, Open play)" minute="44" period="1" second="50" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Vermaelen blocks a shot" minute="44" period="1" second="50" time="44" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker misses attempt (High, 18-yard box, Head, From corner)" minute="42" period="1" second="54" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Gervinho wins a corner (To the right)" minute="42" period="1" second="28" time="42" type="corner" type_id="6"/>
+	<message comment="Daniel Fox blocks a shot" minute="41" period="1" second="26" time="41" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker has shot blocked (18-yard box, Head, Set piece)" minute="41" period="1" second="26" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Puncheon misses attempt (Out of box, Left footed, Open play)" minute="38" period="1" second="27" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Nathaniel Clyne scores an OWN GOAL!  (Low to the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="55" time="36" type="goal scored" type_id="16"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="35" period="1" second="46" time="35" type="corner" type_id="6"/>
+	<message comment="GOAL! Gervinho scores , Assisted by Mikel Arteta (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="34" period="1" second="26" time="34" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Lukas Podolski scores  (High to the centre, Out of box, Left footed, Free kick)" minute="30" period="1" second="31" time="30" type="goal scored" type_id="16"/>
+	<message comment="Alex Oxlade-Chamberlain wins a corner (To the right)" minute="28" period="1" second="54" time="28" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld is substituted off" minute="27" period="1" second="45" time="27" type="substitution off" type_id="18"/>
+	<message comment="Maya Yoshida is substituted on" minute="27" period="1" second="45" time="27" type="substitution on" type_id="19"/>
+	<message comment="Gervinho misses attempt (Out of box, Right footed, Throw-in)" minute="24" period="1" second="16" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Gervinho misses attempt (High to the right, 18-yard box, Head, Open play)" minute="23" period="1" second="23" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Kelvin Davis makes a save (Diving)" minute="19" period="1" second="29" time="19" type="save made" type_id="10"/>
+	<message comment="Per Mertesacker has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, From corner)" minute="19" period="1" second="29" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Gervinho wins a corner (To the left)" minute="18" period="1" second="54" time="18" type="corner" type_id="6"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" minute="13" period="1" second="43" time="13" type="corner" type_id="6"/>
+	<message comment="Jos Hooiveld blocks a shot" minute="12" period="1" second="4" time="12" type="save made" type_id="10"/>
+	<message comment="Francis Coquelin has shot blocked (Out of box, Right footed, Open play)" minute="12" period="1" second="4" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Jos Hooiveld scores an OWN GOAL!  (Low to the centre, 6-yard box, Right footed, Open play)" minute="10" period="1" second="15" time="10" type="goal scored" type_id="16"/>
+	<message comment="Kelvin Davis makes a save (Diving, Parried into danger)" minute="10" period="1" second="14" time="10" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="10" period="1" second="14" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Mikel Arteta has shot blocked (18-yard box, Right footed, Open play)" minute="8" period="1" second="46" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Schneiderlin blocks a shot" minute="8" period="1" second="46" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Santi Cazorla misses attempt (High, 18-yard box, Right footed, Open play)" minute="4" period="1" second="11" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="2" period="1" second="12" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save (Parried into danger, Diving)" minute="2" period="1" second="12" time="2" type="save made" type_id="10"/>
+	<message comment="James Ward-Prowse has shot blocked (18-yard box, Left footed, Open play)" minute="1" period="1" second="49" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Carl Jenkinson blocks a shot" minute="1" period="1" second="49" time="1" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

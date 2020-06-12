@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-08-17 15:00" game_id_2="27025507" game_id_4="109814167" home_team_name="Aston Villa" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-08-17 16:36:28" minute="95" period="2" second="27" team="Aston Villa" time="100" type="end" type_id="30"/>
+	<message comment="Tomas Rosicky recieves a yellow card" last_modified="2013-08-17 16:35:46" minute="94" period="2" second="45" team="Aston Villa" time="99" type="card received" type_id="17"/>
+	<message comment="Gabriel Agbonlahor recieves a yellow card" last_modified="2013-08-17 16:35:38" minute="94" period="2" second="37" team="Arsenal" time="99" type="card received" type_id="17"/>
+	<message comment="Bacary Sagna is substituted off" last_modified="2013-08-17 16:34:25" minute="93" period="2" second="24" team="Aston Villa" time="98" type="substitution off" type_id="18"/>
+	<message comment="Lukas Podolski is substituted on" last_modified="2013-08-17 16:34:25" minute="93" period="2" second="24" team="Aston Villa" time="98" type="substitution on" type_id="19"/>
+	<message comment="Leandro Bacuna misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-08-17 16:33:47" minute="92" period="2" second="46" team="Arsenal" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Andreas Weimann is substituted off" last_modified="2013-08-17 16:28:19" minute="87" period="2" second="18" team="Arsenal" time="92" type="substitution off" type_id="18"/>
+	<message comment="Leandro Bacuna is substituted on" last_modified="2013-08-17 16:28:19" minute="87" period="2" second="18" team="Arsenal" time="92" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Antonio Luna scores , Assisted by Andreas Weimann (Low to the right, 18-yard box, Big Chance, Left footed, Fast break)" last_modified="2013-08-17 16:25:54" minute="84" period="2" second="53" team="Arsenal" time="89" type="goal scored" type_id="16"/>
+	<message comment="Antonio Luna blocks a shot" last_modified="2013-08-17 16:25:43" minute="84" period="2" second="42" team="Arsenal" time="89" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, From corner)" last_modified="2013-08-17 16:25:43" minute="84" period="2" second="42" team="Aston Villa" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" last_modified="2013-08-17 16:25:21" minute="84" period="2" second="20" team="Aston Villa" time="89" type="corner" type_id="6"/>
+	<message comment="Brad Guzan makes a save (Diving, Collected)" last_modified="2013-08-17 16:23:25" minute="82" period="2" second="24" team="Arsenal" time="87" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-08-17 16:23:25" minute="82" period="2" second="24" team="Aston Villa" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Benteke misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-08-17 16:21:11" minute="80" period="2" second="10" team="Arsenal" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Andreas Weimann has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-08-17 16:20:12" minute="79" period="2" second="11" team="Arsenal" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Ramsey blocks a shot" last_modified="2013-08-17 16:20:12" minute="79" period="2" second="11" team="Aston Villa" time="84" type="save made" type_id="10"/>
+	<message comment="Christian Benteke is caught offside" last_modified="2013-08-17 16:20:01" minute="79" period="2" team="Arsenal" time="84" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla recieves a yellow card" last_modified="2013-08-17 16:19:28" minute="78" period="2" second="27" team="Aston Villa" time="83" type="card received" type_id="17"/>
+	<message comment="Karim El Ahmadi has attempt saved (High to the left, Out of box, Right footed, Open play)" last_modified="2013-08-17 16:18:44" minute="77" period="2" second="43" team="Arsenal" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Standing)" last_modified="2013-08-17 16:18:44" minute="77" period="2" second="43" team="Aston Villa" time="82" type="save made" type_id="10"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving)" last_modified="2013-08-17 16:18:10" minute="77" period="2" second="9" team="Arsenal" time="82" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-08-17 16:18:10" minute="77" period="2" second="9" team="Aston Villa" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving, Other body part)" last_modified="2013-08-17 16:12:24" minute="71" period="2" second="23" team="Arsenal" time="76" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-08-17 16:12:24" minute="71" period="2" second="23" team="Aston Villa" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott misses attempt (Out of box, Right footed, Free kick)" last_modified="2013-08-17 16:10:04" minute="69" period="2" second="3" team="Aston Villa" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2013-08-17 16:10:01" minute="69" period="2" team="Aston Villa" time="74" type="offside" type_id="10000"/>
+	<message comment="Laurent Koscielny recieves a red card after receiving second yellow card" last_modified="2013-08-17 16:07:07" minute="66" period="2" second="6" team="Aston Villa" time="71" type="card received" type_id="17"/>
+	<message comment="Ashley Westwood recieves a yellow card" last_modified="2013-08-17 16:05:58" minute="64" period="2" second="57" team="Arsenal" time="69" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-08-17 16:04:52" minute="63" period="2" second="51" team="Aston Villa" time="68" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Christian Benteke scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-08-17 16:02:00" minute="60" period="2" second="59" team="Arsenal" time="65" type="goal scored" type_id="16"/>
+	<message comment="Laurent Koscielny recieves a yellow card" last_modified="2013-08-17 16:01:14" minute="60" period="2" second="13" team="Aston Villa" time="65" type="card received" type_id="17"/>
+	<message comment="Christian Benteke recieves a yellow card" last_modified="2013-08-17 16:00:18" minute="59" period="2" second="17" team="Arsenal" time="64" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-08-17 15:57:33" minute="56" period="2" second="32" team="Aston Villa" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Ron Vlaar blocks a shot" last_modified="2013-08-17 15:57:28" minute="56" period="2" second="27" team="Arsenal" time="61" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:57:23" minute="56" period="2" second="22" team="Aston Villa" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Fabian Delph hits the woodwork (To the right, Out of box, Left footed, Open play)" last_modified="2013-08-17 15:53:05" minute="52" period="2" second="4" team="Arsenal" time="57" type="woodwork hit" type_id="14"/>
+	<message comment="Tomas Rosicky misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-08-17 15:52:09" minute="51" period="2" second="8" team="Aston Villa" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Ciaran Clark blocks a shot" last_modified="2013-08-17 15:51:29" minute="50" period="2" second="28" team="Arsenal" time="55" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-08-17 15:51:29" minute="50" period="2" second="28" team="Aston Villa" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" last_modified="2013-08-17 15:46:01" minute="45" period="2" second="0" team="Aston Villa" time="50" type="substitution off" type_id="18"/>
+	<message comment="Santi Cazorla is substituted on" last_modified="2013-08-17 15:46:01" minute="45" period="2" second="0" team="Aston Villa" time="50" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-08-17 15:46:01" minute="45" period="2" second="0" team="Aston Villa" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-08-17 15:50:32" minute="49" period="1" second="31" team="Aston Villa" time="49" type="end" type_id="30"/>
+	<message comment="Antonio Luna recieves a yellow card" last_modified="2013-08-17 15:49:34" minute="48" period="1" second="33" team="Arsenal" time="48" type="card received" type_id="17"/>
+	<message comment="Fabian Delph wins a corner (To the right)" last_modified="2013-08-17 15:48:13" minute="47" period="1" second="12" team="Arsenal" time="47" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood blocks a shot" last_modified="2013-08-17 15:45:20" minute="44" period="1" second="19" team="Arsenal" time="44" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:45:20" minute="44" period="1" second="19" team="Aston Villa" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Benteke wins a corner (To the right)" last_modified="2013-08-17 15:42:53" minute="41" period="1" second="52" team="Arsenal" time="41" type="corner" type_id="6"/>
+	<message comment="Ciaran Clark blocks a shot" last_modified="2013-08-17 15:41:18" minute="40" period="1" second="17" team="Arsenal" time="40" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Head, Open play)" last_modified="2013-08-17 15:41:18" minute="40" period="1" second="17" team="Aston Villa" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker is caught offside" last_modified="2013-08-17 15:39:01" minute="38" period="1" team="Aston Villa" time="38" type="offside" type_id="10000"/>
+	<message comment="Ashley Westwood wins a corner (To the right)" last_modified="2013-08-17 15:36:43" minute="35" period="1" second="42" team="Arsenal" time="35" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood misses attempt (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:36:40" minute="35" period="1" second="39" team="Arsenal" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (From shot off target, Parried safe, Diving)" last_modified="2013-08-17 15:36:40" minute="35" period="1" second="39" team="Aston Villa" time="35" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere recieves a yellow card" last_modified="2013-08-17 15:30:52" minute="29" period="1" second="51" team="Aston Villa" time="29" type="card received" type_id="17"/>
+	<message comment="Ron Vlaar recieves a yellow card" last_modified="2013-08-17 15:30:31" minute="29" period="1" second="30" team="Arsenal" time="29" type="card received" type_id="17"/>
+	<message comment="Kieran Gibbs is substituted off" last_modified="2013-08-17 15:29:09" minute="28" period="1" second="8" team="Aston Villa" time="28" type="substitution off" type_id="18"/>
+	<message comment="Carl Jenkinson is substituted on" last_modified="2013-08-17 15:29:09" minute="28" period="1" second="8" team="Aston Villa" time="28" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Christian Benteke scores  (Low to the centre, 6-yard box, Big Chance, Head, Set piece)" last_modified="2013-08-17 15:22:49" minute="21" period="1" second="48" team="Arsenal" time="21" type="goal scored" type_id="16"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried into danger, Penalty)" last_modified="2013-08-17 15:22:47" minute="21" period="1" second="46" team="Aston Villa" time="21" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has attempt saved (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2013-08-17 15:22:47" minute="21" period="1" second="46" team="Arsenal" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny recieves a yellow card" last_modified="2013-08-17 15:21:53" minute="20" period="1" second="52" team="Aston Villa" time="20" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-08-17 15:20:07" minute="19" period="1" second="6" team="Aston Villa" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Ciaran Clark blocks a shot" last_modified="2013-08-17 15:19:39" minute="18" period="1" second="38" team="Arsenal" time="18" type="save made" type_id="10"/>
+	<message comment="Alex Oxlade-Chamberlain has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-08-17 15:19:39" minute="18" period="1" second="38" team="Aston Villa" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Baker is substituted off" last_modified="2013-08-17 15:17:50" minute="16" period="1" second="49" team="Arsenal" time="16" type="substitution off" type_id="18"/>
+	<message comment="Ciaran Clark is substituted on" last_modified="2013-08-17 15:17:50" minute="16" period="1" second="49" team="Arsenal" time="16" type="substitution on" type_id="19"/>
+	<message comment="Formation Set" last_modified="2013-08-17 15:01:01" minute="0" period="14" second="0" team="Aston Villa" time="10" type="end" type_id="30"/>
+	<message comment="Jack Wilshere is caught offside" last_modified="2013-08-17 15:09:01" minute="8" period="1" team="Aston Villa" time="8" type="offside" type_id="10000"/>
+	<message comment="Theo Walcott wins a corner (To the right)" last_modified="2013-08-17 15:07:46" minute="6" period="1" second="45" team="Aston Villa" time="6" type="corner" type_id="6"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Alex Oxlade-Chamberlain (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" last_modified="2013-08-17 15:06:15" minute="5" period="1" second="14" team="Aston Villa" time="5" type="goal scored" type_id="16"/>
+	<message comment="Jack Wilshere wins a corner (To the left)" last_modified="2013-08-17 15:02:29" minute="1" period="1" second="28" team="Aston Villa" time="1" type="corner" type_id="6"/>
+	<message comment="Kieran Gibbs wins a corner (To the left)" last_modified="2013-08-17 15:02:10" minute="1" period="1" second="9" team="Aston Villa" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-08-17 15:01:01" minute="0" period="1" second="0" team="Aston Villa" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2014-04-19" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="11" time="98" type="end" type_id="30"/>
+	<message comment="Wayne Routledge is substituted off" minute="93" period="2" second="7" time="97" type="substitution off" type_id="18"/>
+	<message comment="Kyle Bartley is substituted on" minute="93" period="2" second="7" time="97" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Wilfried Bony scores  (High to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="91" period="2" second="50" time="95" type="goal scored" type_id="16"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="90" period="2" second="50" time="94" type="card received" type_id="17"/>
+	<message comment="Wayne Routledge is caught offside" minute="89" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (High to the left, Out of box, Right footed, Throw-in)" minute="88" period="2" second="37" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Dan Gosling is substituted off" minute="80" period="2" second="30" time="84" type="substitution off" type_id="18"/>
+	<message comment="Adam Armstrong is substituted on" minute="80" period="2" second="30" time="84" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández is substituted off" minute="80" period="2" second="13" time="84" type="substitution off" type_id="18"/>
+	<message comment="Marvin Emnes is substituted on" minute="80" period="2" second="13" time="84" type="substitution on" type_id="19"/>
+	<message comment="Vurnon Anita misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="79" period="2" second="26" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson misses attempt (To the right, 18-yard box, Key pass, Right footed, Open play)" minute="79" period="2" second="25" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" minute="77" period="2" second="37" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="76" period="2" second="41" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="76" period="2" second="41" time="80" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="74" period="2" second="44" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies wins a corner (To the right)" minute="70" period="2" second="4" time="74" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="69" period="2" second="33" time="73" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="65" period="2" second="33" time="69" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony is caught offside" minute="65" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Loïc Rémy misses attempt (To the right, Out of box, Right footed, Open play)" minute="61" period="2" second="53" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán is caught offside" minute="61" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Vurnon Anita misses attempt (To the right, Out of box, Left footed, Set piece)" minute="60" period="2" second="7" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Dan Gosling misses attempt (To the left, 18-yard box, Head, Open play)" minute="58" period="2" second="28" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="55" period="2" second="51" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Paul Dummett has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="55" period="2" second="3" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="55" period="2" second="3" time="59" type="save made" type_id="10"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="53" period="2" second="48" time="57" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Left footed, Open play)" minute="53" period="2" second="48" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita misses attempt (To the left, Out of box, Right footed, Open play)" minute="48" period="2" second="24" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Dan Gosling wins a corner (To the right)" minute="47" period="2" second="21" time="51" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Diving, From shot off target, Parried safe)" minute="47" period="2" second="19" time="51" type="save made" type_id="10"/>
+	<message comment="Dan Gosling misses attempt (18-yard box, Left footed, Open play)" minute="47" period="2" second="18" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="GOAL! Wilfried Bony scores , Assisted by Ben Davies (High to the left, 6-yard box, Big Chance, Head, From corner)" minute="45" period="1" second="59" time="45" type="goal scored" type_id="16"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="45" period="1" second="34" time="45" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" minute="43" period="1" second="14" time="43" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="43" period="1" second="14" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey misses attempt (To the left, Out of box, Right footed, Free kick)" minute="41" period="1" second="12" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Luuk de Jong is substituted off" minute="39" period="1" second="45" time="39" type="substitution off" type_id="18"/>
+	<message comment="Loïc Rémy is substituted on" minute="39" period="1" second="45" time="39" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Bony misses attempt (To the right, Out of box, Right footed, Open play)" minute="34" period="1" second="12" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Dan Gosling recieves a yellow card" minute="31" period="1" second="30" time="31" type="card received" type_id="17"/>
+	<message comment="Shola Ameobi is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Angel Rangel blocks a shot" minute="29" period="1" second="18" time="29" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has shot blocked (18-yard box, Left footed, Open play)" minute="29" period="1" second="18" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Shola Ameobi scores , Assisted by Luuk de Jong (Low to the right, 18-yard box, Left footed, Set piece)" minute="22" period="1" second="11" time="22" type="goal scored" type_id="16"/>
+	<message comment="Wilfried Bony is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, Open play)" minute="20" period="1" second="44" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi blocks a shot" minute="20" period="1" second="44" time="20" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="20" period="1" second="25" time="20" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Debuchy is substituted on" minute="20" period="1" second="25" time="20" type="substitution on" type_id="19"/>
+	<message comment="Ben Davies wins a corner (To the left)" minute="18" period="1" second="58" time="18" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="18" period="1" second="23" time="18" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" minute="12" period="1" second="35" time="12" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="12" period="1" second="2" time="12" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey wins a corner (To the right)" minute="9" period="1" second="13" time="9" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has shot blocked (18-yard box, Head, Open play)" minute="9" period="1" second="11" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté blocks a shot" minute="9" period="1" second="11" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="0" period="1" second="48" time="0" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, Open play)" minute="0" period="1" second="48" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

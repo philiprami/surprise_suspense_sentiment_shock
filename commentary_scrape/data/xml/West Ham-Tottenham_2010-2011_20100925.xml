@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2010-09-25" home_team_name="Tottenham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="18" time="96" type="end" type_id="30"/>
+	<message comment="Pablo Barrera is caught offside" minute="93" period="2" time="96" type="offside" type_id="10000"/>
+	<message comment="Carlton Cole recieves a yellow card" minute="89" period="2" second="57" time="92" type="card received" type_id="17"/>
+	<message comment="Radoslav Kovac is substituted on" minute="88" period="2" second="49" time="91" type="substitution on" type_id="19"/>
+	<message comment="Victor Obinna is substituted off" minute="88" period="2" second="48" time="91" type="substitution off" type_id="18"/>
+	<message comment="Roman Pavlyuchenko misses attempt (To the right, Out of box, Left footed, Open play)" minute="87" period="2" second="58" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Robert Green makes a save (Standing)" minute="85" period="2" second="44" time="88" type="save made" type_id="10"/>
+	<message comment="Robbie Keane has attempt saved (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="85" period="2" second="44" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel da Costa blocks a shot" minute="84" period="2" second="25" time="87" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has shot blocked (Out of box, Right footed, Set piece)" minute="84" period="2" second="25" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch is substituted off" minute="79" period="2" second="38" time="82" type="substitution off" type_id="18"/>
+	<message comment="Roman Pavlyuchenko is substituted on" minute="79" period="2" second="38" time="82" type="substitution on" type_id="19"/>
+	<message comment="Manuel da Costa misses attempt (To the left, 18-yard box, Head, Set piece)" minute="79" period="2" second="10" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart is substituted off" minute="77" period="2" second="40" time="80" type="substitution off" type_id="18"/>
+	<message comment="Giovani dos Santos is substituted on" minute="77" period="2" second="40" time="80" type="substitution on" type_id="19"/>
+	<message comment="Jermaine Jenas misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="77" period="2" second="6" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Matt Upson has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="76" period="2" second="38" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Standing)" minute="76" period="2" second="38" time="79" type="save made" type_id="10"/>
+	<message comment="Carlton Cole wins a corner (To the left)" minute="76" period="2" second="1" time="79" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has shot blocked (6-yard box, Left footed, Open play)" minute="75" period="2" second="59" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="75" period="2" second="59" time="78" type="save made" type_id="10"/>
+	<message comment="Victor Obinna has shot blocked (Out of box, Left footed, Open play)" minute="75" period="2" second="40" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka blocks a shot" minute="75" period="2" second="40" time="78" type="save made" type_id="10"/>
+	<message comment="Carlton Cole wins a corner (To the right)" minute="74" period="2" second="14" time="77" type="corner" type_id="6"/>
+	<message comment="Carlton Cole has shot blocked (18-yard box, Head, From corner)" minute="74" period="2" second="6" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka blocks a shot" minute="74" period="2" second="6" time="77" type="save made" type_id="10"/>
+	<message comment="Mark Noble wins a corner (To the left)" minute="73" period="2" second="31" time="76" type="corner" type_id="6"/>
+	<message comment="Mark Noble has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="73" period="2" second="28" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Diving)" minute="73" period="2" second="28" time="76" type="save made" type_id="10"/>
+	<message comment="Carlton Cole wins a corner (To the right)" minute="72" period="2" second="45" time="75" type="corner" type_id="6"/>
+	<message comment="Carlton Cole misses attempt (18-yard box, Left footed, Open play)" minute="69" period="2" second="54" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Carlton Cole is caught offside" minute="68" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Aaron Lennon is substituted off" minute="65" period="2" second="45" time="68" type="substitution off" type_id="18"/>
+	<message comment="Robbie Keane is substituted on" minute="65" period="2" second="45" time="68" type="substitution on" type_id="19"/>
+	<message comment="Luís Boa Morte misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="65" period="2" second="20" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Victor Obinna wins a corner (To the left)" minute="64" period="2" second="48" time="67" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="64" period="2" second="45" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Diving, Parried safe)" minute="64" period="2" second="45" time="67" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne is substituted off" minute="63" period="2" second="43" time="66" type="substitution off" type_id="18"/>
+	<message comment="Carlton Cole is substituted on" minute="63" period="2" second="43" time="66" type="substitution on" type_id="19"/>
+	<message comment="Manuel da Costa blocks a shot" minute="62" period="2" second="1" time="65" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Left footed, Open play)" minute="62" period="2" second="1" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel da Costa blocks a shot" minute="61" period="2" second="58" time="64" type="save made" type_id="10"/>
+	<message comment="Jermaine Jenas has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="58" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Obinna wins a corner (To the right)" minute="59" period="2" second="12" time="62" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="11" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Vedran Corluka blocks a shot" minute="59" period="2" second="11" time="62" type="save made" type_id="10"/>
+	<message comment="Jermaine Jenas misses attempt (To the right, Out of box, Right footed, Open play)" minute="57" period="2" second="12" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Matt Upson misses attempt (High, 18-yard box, Head, Set piece)" minute="56" period="2" second="35" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone misses attempt (To the right, 18-yard box, Big Chance, Right footed, Open play)" minute="54" period="2" second="15" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Left footed, Open play)" minute="50" period="2" second="55" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="Mark Noble has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="9" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Jenas blocks a shot" minute="45" period="1" second="9" time="45" type="save made" type_id="10"/>
+	<message comment="Peter Crouch misses attempt (High to the right, 18-yard box, Head, Open play)" minute="44" period="1" second="5" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Manuel da Costa blocks a shot" minute="43" period="1" second="47" time="43" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Left footed, Open play)" minute="43" period="1" second="47" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Manuel da Costa blocks a shot" minute="42" period="1" second="34" time="42" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (18-yard box, Right footed, From corner)" minute="42" period="1" second="34" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart wins a corner (To the left)" minute="42" period="1" second="6" time="42" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="42" period="1" second="2" time="42" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (18-yard box, Right footed, Open play)" minute="42" period="1" second="2" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Kieron Dyer is substituted off" minute="41" period="1" second="12" time="41" type="substitution off" type_id="18"/>
+	<message comment="Pablo Barrera is substituted on" minute="41" period="1" second="12" time="41" type="substitution on" type_id="19"/>
+	<message comment="Victor Obinna misses attempt (Out of box, Right footed, Fast break)" minute="40" period="1" second="52" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Robert Green makes a save (Diving, Parried into danger, Feet)" minute="39" period="1" second="12" time="39" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (Low to the left, 6-yard box, Head, From corner)" minute="39" period="1" second="12" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="38" period="1" second="35" time="38" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Diving)" minute="38" period="1" second="33" time="38" type="save made" type_id="10"/>
+	<message comment="Luka Modric has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="38" period="1" second="33" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Luís Boa Morte recieves a yellow card" minute="37" period="1" second="52" time="37" type="card received" type_id="17"/>
+	<message comment="Victor Obinna wins a corner (To the right)" minute="35" period="1" second="38" time="35" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has shot blocked (18-yard box, Left footed, Open play)" minute="35" period="1" second="36" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="35" period="1" second="36" time="35" type="save made" type_id="10"/>
+	<message comment="Scott Parker misses attempt (To the left, Out of box, Left footed, Open play)" minute="35" period="1" second="15" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker wins a corner (To the left)" minute="34" period="1" second="46" time="34" type="corner" type_id="6"/>
+	<message comment="Rafael van der Vaart wins a corner (To the left)" minute="31" period="1" second="59" time="31" type="corner" type_id="6"/>
+	<message comment="Lars Jacobsen misses attempt (Out of box, Right footed, Open play)" minute="31" period="1" second="20" time="31" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Frédéric Piquionne scores , Assisted by Mark Noble (High to the right, 18-yard box, Head, From corner)" minute="28" period="1" second="23" time="28" type="goal scored" type_id="16"/>
+	<message comment="Kieron Dyer wins a corner (To the left)" minute="27" period="1" second="56" time="27" type="corner" type_id="6"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="27" period="1" second="4" time="27" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="25" period="1" second="38" time="25" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone misses attempt (To the right, 18-yard box, Head, Open play)" minute="23" period="1" second="6" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart misses attempt (Out of box, Left footed, Open play)" minute="21" period="1" second="58" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="20" period="1" second="10" time="20" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save (Parried safe, Diving)" minute="20" period="1" second="8" time="20" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="20" period="1" second="8" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Obinna is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Robert Green makes a save (Parried safe, Diving)" minute="14" period="1" second="9" time="14" type="save made" type_id="10"/>
+	<message comment="Jermaine Jenas has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="14" period="1" second="9" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Luís Boa Morte wins a corner (To the left)" minute="13" period="1" second="11" time="13" type="corner" type_id="6"/>
+	<message comment="Victor Obinna has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="12" period="1" second="6" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Collected)" minute="12" period="1" second="6" time="12" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="10" period="1" second="52" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Parried into danger, Diving)" minute="10" period="1" second="52" time="10" type="save made" type_id="10"/>
+	<message comment="Kieron Dyer has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="9" period="1" second="6" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Collected, Diving)" minute="9" period="1" second="6" time="9" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne wins a corner (To the left)" minute="8" period="1" second="37" time="8" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne has shot blocked (Out of box, Right footed, Open play)" minute="8" period="1" second="34" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Rafael van der Vaart blocks a shot" minute="8" period="1" second="34" time="8" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne wins a corner (To the left)" minute="7" period="1" second="36" time="7" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon has shot blocked (18-yard box, Head, From corner)" minute="7" period="1" second="35" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Hutton blocks a shot" minute="7" period="1" second="35" time="7" type="save made" type_id="10"/>
+	<message comment="Manuel da Costa has shot blocked (18-yard box, Head, From corner)" minute="7" period="1" second="34" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch blocks a shot" minute="7" period="1" second="34" time="7" type="save made" type_id="10"/>
+	<message comment="Kieron Dyer wins a corner (To the left)" minute="7" period="1" second="26" time="7" type="corner" type_id="6"/>
+	<message comment="Kieron Dyer has shot blocked (18-yard box, Left footed, Open play)" minute="7" period="1" second="14" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="7" period="1" second="14" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="5" period="1" second="31" time="5" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne blocks a shot" minute="5" period="1" second="28" time="5" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Left footed, Free kick)" minute="5" period="1" second="28" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Matt Upson wins a corner (To the left)" minute="3" period="1" second="40" time="3" type="corner" type_id="6"/>
+	<message comment="Victor Obinna misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="0" period="1" second="35" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

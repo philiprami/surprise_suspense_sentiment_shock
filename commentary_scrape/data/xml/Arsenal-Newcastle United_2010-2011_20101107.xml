@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2010-11-07" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="20" time="97" type="end" type_id="30"/>
+	<message comment="Jonás Gutiérrez recieves a yellow card" minute="92" period="2" second="6" time="95" type="card received" type_id="17"/>
+	<message comment="Laurent Koscielny recieves a red card" minute="91" period="2" second="55" time="94" type="card received" type_id="17"/>
+	<message comment="Nile Ranger misses attempt (High to the left, 18-yard box, Right footed, Open play)" minute="86" period="2" second="25" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Andrey Arshavin misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="83" period="2" second="22" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="82" period="2" second="24" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Standing)" minute="82" period="2" second="24" time="85" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi is substituted off" minute="82" period="2" second="2" time="85" type="substitution off" type_id="18"/>
+	<message comment="Nile Ranger is substituted on" minute="82" period="2" second="2" time="85" type="substitution on" type_id="19"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="80" period="2" second="52" time="83" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="80" period="2" second="52" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Andrey Arshavin wins a corner (To the left)" minute="80" period="2" second="31" time="83" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan blocks a shot" minute="78" period="2" second="17" time="81" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has shot blocked (Out of box, Right footed, Open play)" minute="78" period="2" second="17" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="77" period="2" second="13" time="80" type="corner" type_id="6"/>
+	<message comment="Nicklas Bendtner is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Andrey Arshavin wins a corner (To the left)" minute="73" period="2" second="19" time="76" type="corner" type_id="6"/>
+	<message comment="Andrey Arshavin wins a corner (To the left)" minute="73" period="2" second="7" time="76" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere is substituted off" minute="72" period="2" second="25" time="75" type="substitution off" type_id="18"/>
+	<message comment="Nicklas Bendtner is substituted on" minute="72" period="2" second="25" time="75" type="substitution on" type_id="19"/>
+	<message comment="Theo Walcott is caught offside" minute="71" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Andy Carroll misses attempt (High to the left, Out of box, Left footed, Open play)" minute="70" period="2" second="21" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Cesc Fàbregas recieves a yellow card" minute="67" period="2" second="58" time="70" type="card received" type_id="17"/>
+	<message comment="Mike Williamson misses attempt (To the left, 18-yard box, Head, From corner)" minute="67" period="2" second="26" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll wins a corner (To the left)" minute="67" period="2" second="7" time="70" type="corner" type_id="6"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Left footed, From corner)" minute="66" period="2" second="58" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="66" period="2" second="58" time="69" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="66" period="2" second="16" time="69" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Marouane Chamakh is substituted off" minute="57" period="2" second="20" time="60" type="substitution off" type_id="18"/>
+	<message comment="Robin van Persie is substituted on" minute="57" period="2" second="20" time="60" type="substitution on" type_id="19"/>
+	<message comment="Samir Nasri is substituted off" minute="55" period="2" second="25" time="58" type="substitution off" type_id="18"/>
+	<message comment="Andrey Arshavin is substituted on" minute="55" period="2" second="25" time="58" type="substitution on" type_id="19"/>
+	<message comment="Joey Barton misses attempt (To the left, Out of box, Right footed, Open play)" minute="53" period="2" second="28" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="47" period="2" second="50" time="50" type="woodwork hit" type_id="14"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="46" period="2" second="41" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="11" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Andy Carroll scores , Assisted by Joey Barton (Low to the left, 18-yard box, Big Chance, Head, Set piece)" minute="44" period="1" second="36" time="44" type="goal scored" type_id="16"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="39" period="1" second="57" time="39" type="corner" type_id="6"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="39" period="1" second="0" time="39" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="38" period="1" second="58" time="38" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (High to the right, 18-yard box, Right footed, From corner)" minute="38" period="1" second="58" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Cesc Fàbregas wins a corner (To the right)" minute="38" period="1" second="27" time="38" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Parried safe, Feet, Diving)" minute="38" period="1" second="26" time="38" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="38" period="1" second="26" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Chamakh is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="31" period="1" second="55" time="31" type="card received" type_id="17"/>
+	<message comment="Kevin Nolan is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="24" period="1" second="25" time="24" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="25" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Clichy recieves a yellow card" minute="22" period="1" second="12" time="22" type="card received" type_id="17"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="19" period="1" second="8" time="19" type="corner" type_id="6"/>
+	<message comment="Laurent Koscielny wins a corner (To the right)" minute="17" period="1" second="47" time="17" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi blocks a shot" minute="17" period="1" second="46" time="17" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny has shot blocked (18-yard box, Right footed, From corner)" minute="17" period="1" second="46" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Cesc Fàbregas wins a corner (To the left)" minute="17" period="1" second="32" time="17" type="corner" type_id="6"/>
+	<message comment="José Enrique blocks a shot" minute="17" period="1" second="28" time="17" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has shot blocked (18-yard box, Right footed, Open play)" minute="17" period="1" second="28" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Cesc Fàbregas has shot blocked (Out of box, Right footed, From corner)" minute="12" period="1" second="31" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Simpson blocks a shot" minute="12" period="1" second="31" time="12" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas wins a corner (To the left)" minute="12" period="1" second="7" time="12" type="corner" type_id="6"/>
+	<message comment="Andy Carroll blocks a shot" minute="12" period="1" second="2" time="12" type="save made" type_id="10"/>
+	<message comment="Cesc Fàbregas has shot blocked (Out of box, Right footed, Free kick)" minute="12" period="1" second="2" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

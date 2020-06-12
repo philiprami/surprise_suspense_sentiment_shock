@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2013-08-25" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="21" time="96" type="end" type_id="30"/>
+	<message comment="Paulinho misses attempt (High to the left, 18-yard box, Left footed, Fast break)" minute="90" period="2" second="43" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Standing)" minute="90" period="2" second="40" time="92" type="save made" type_id="10"/>
+	<message comment="Paulinho has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="90" period="2" second="40" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro is substituted on" minute="87" period="2" second="47" time="89" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend is substituted off" minute="87" period="2" second="47" time="89" type="substitution off" type_id="18"/>
+	<message comment="Michu is caught offside" minute="84" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Roberto Soldado is substituted off" minute="80" period="2" second="11" time="82" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" minute="80" period="2" second="11" time="82" type="substitution on" type_id="19"/>
+	<message comment="Michael Dawson misses attempt (To the right, 18-yard box, Head, From corner)" minute="78" period="2" second="18" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend wins a corner (To the right)" minute="77" period="2" second="56" time="79" type="corner" type_id="6"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="77" period="2" second="31" time="79" type="corner" type_id="6"/>
+	<message comment="Roberto Soldado recieves a yellow card" minute="75" period="2" second="27" time="77" type="card received" type_id="17"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="72" period="2" second="25" time="74" type="card received" type_id="17"/>
+	<message comment="Chico Flores wins a corner (To the left)" minute="71" period="2" second="1" time="73" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe)" minute="70" period="2" second="59" time="72" type="save made" type_id="10"/>
+	<message comment="Chico Flores has attempt saved (High to the right, 18-yard box, Right footed, Set piece)" minute="70" period="2" second="59" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="68" period="2" second="51" time="70" type="substitution off" type_id="18"/>
+	<message comment="Wilfried Bony is substituted on" minute="68" period="2" second="51" time="70" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández misses attempt (Out of box, Right footed, Open play)" minute="68" period="2" second="14" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Andros Townsend misses attempt (To the left, Out of box, Left footed, Set piece)" minute="66" period="2" second="54" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé is substituted off" minute="63" period="2" second="59" time="65" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="63" period="2" second="59" time="65" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="62" period="2" second="22" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="62" period="2" second="22" time="64" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is substituted off" minute="58" period="2" second="49" time="60" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="58" period="2" second="49" time="60" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Roberto Soldado scores  (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="57" period="2" second="35" time="59" type="goal scored" type_id="16"/>
+	<message comment="Andros Townsend misses attempt (Out of box, Left footed, Open play)" minute="53" period="2" second="5" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey blocks a shot" minute="52" period="2" second="57" time="54" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has shot blocked (Out of box, Right footed, Open play)" minute="52" period="2" second="57" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Right footed, From corner)" minute="51" period="2" second="9" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Davies blocks a shot" minute="51" period="2" second="9" time="53" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="50" period="2" second="50" time="52" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="48" period="2" second="11" time="50" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé has shot blocked (18-yard box, Right footed, Open play)" minute="48" period="2" second="6" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="48" period="2" second="6" time="50" type="save made" type_id="10"/>
+	<message comment="Andros Townsend wins a corner (To the right)" minute="45" period="2" second="49" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="9" time="46" type="end" type_id="30"/>
+	<message comment="Chico Flores has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="43" period="1" second="6" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="43" period="1" second="6" time="43" type="save made" type_id="10"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" minute="42" period="1" second="18" time="42" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="42" period="1" second="18" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas blocks a shot" minute="41" period="1" second="46" time="41" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="46" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Michu recieves a yellow card" minute="39" period="1" second="46" time="39" type="card received" type_id="17"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" minute="37" period="1" second="47" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="36" period="1" second="57" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Michael Dawson misses attempt (18-yard box, Right footed, From corner)" minute="34" period="1" second="56" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="34" period="1" second="14" time="34" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Diving, Parried safe)" minute="34" period="1" second="12" time="34" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="34" period="1" second="12" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="31" period="1" second="23" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Etienne Capoue misses attempt (To the left, 18-yard box, Right footed, Set piece)" minute="30" period="1" second="40" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Michel Vorm recieves a yellow card" minute="29" period="1" second="59" time="29" type="card received" type_id="17"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" minute="25" period="1" second="34" time="25" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the left, 18-yard box, Right footed, Throw-in)" minute="25" period="1" second="32" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="25" period="1" second="32" time="25" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen misses attempt (To the right, Out of box, Left footed, Free kick)" minute="23" period="1" second="59" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams blocks a shot (Last line)" minute="20" period="1" second="50" time="20" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="20" period="1" second="50" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="17" period="1" second="52" time="17" type="corner" type_id="6"/>
+	<message comment="Nacer Chadli misses attempt (High, Out of box, Right footed, Open play)" minute="16" period="1" second="45" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies recieves a yellow card" minute="15" period="1" second="46" time="15" type="card received" type_id="17"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="10" period="1" second="0" time="10" type="save made" type_id="10"/>
+	<message comment="Etienne Capoue has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="10" period="1" second="0" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="8" period="1" second="49" time="8" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="8" period="1" second="49" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Michu is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="7" period="1" second="3" time="7" type="save made" type_id="10"/>
+	<message comment="Paulinho has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="7" period="1" second="3" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="1" period="1" second="10" time="1" type="corner" type_id="6"/>
+	<message comment="Danny Rose wins a corner (To the left)" minute="0" period="1" second="49" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

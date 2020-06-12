@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2013-11-23" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="30" time="96" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" minute="93" period="2" second="41" time="95" type="corner" type_id="6"/>
+	<message comment="Alejandro Pozuelo is substituted off" minute="92" period="2" second="27" time="94" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Vázquez is substituted on" minute="92" period="2" second="27" time="94" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="91" period="2" second="11" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Diving)" minute="91" period="2" second="11" time="93" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="88" period="2" second="36" time="90" type="corner" type_id="6"/>
+	<message comment="Roland Lamah is substituted off" minute="85" period="2" second="50" time="87" type="substitution off" type_id="18"/>
+	<message comment="Dwight Tiendalli is substituted on" minute="85" period="2" second="50" time="87" type="substitution on" type_id="19"/>
+	<message comment="Adel Taarabt is substituted on" minute="85" period="2" second="10" time="87" type="substitution on" type_id="19"/>
+	<message comment="Scott Parker is substituted off" minute="85" period="2" second="10" time="87" type="substitution off" type_id="18"/>
+	<message comment="Steve Sidwell has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="20" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="84" period="2" second="20" time="86" type="save made" type_id="10"/>
+	<message comment="GOAL! Jonjo Shelvey scores , Assisted by Roland Lamah (High to the right, Out of box, Right footed, Open play)" minute="79" period="2" second="33" time="81" type="goal scored" type_id="16"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="78" period="2" second="20" time="80" type="corner" type_id="6"/>
+	<message comment="Bryan Ruiz is substituted off" minute="76" period="2" second="12" time="78" type="substitution off" type_id="18"/>
+	<message comment="Alexander Kacaniklic is substituted on" minute="76" period="2" second="12" time="78" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="25" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Standing)" minute="75" period="2" second="25" time="77" type="save made" type_id="10"/>
+	<message comment="Ben Davies recieves a yellow card" minute="71" period="2" second="4" time="73" type="card received" type_id="17"/>
+	<message comment="Scott Parker blocks a shot" minute="70" period="2" second="49" time="72" type="save made" type_id="10"/>
+	<message comment="Alejandro Pozuelo has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="49" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony misses attempt (18-yard box, Right footed, Open play)" minute="69" period="2" second="35" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent wins a corner (To the right)" minute="68" period="2" second="4" time="70" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Diving, Collected)" minute="65" period="2" second="44" time="67" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="65" period="2" second="44" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Scott Parker scores , Assisted by Bryan Ruiz (High to the left, 18-yard box, Right footed, From corner)" minute="63" period="2" second="10" time="65" type="goal scored" type_id="16"/>
+	<message comment="Darren Bent wins a corner (To the right)" minute="62" period="2" second="48" time="64" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes recieves a yellow card" minute="61" period="2" second="46" time="63" type="card received" type_id="17"/>
+	<message comment="Derek Boateng is substituted off" minute="59" period="2" second="30" time="61" type="substitution off" type_id="18"/>
+	<message comment="Steve Sidwell is substituted on" minute="59" period="2" second="30" time="61" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer is substituted off" minute="58" period="2" second="54" time="60" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="58" period="2" second="54" time="60" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" minute="58" period="2" second="21" time="60" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson blocks a shot" minute="58" period="2" second="19" time="60" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (18-yard box, Left footed, Fast break)" minute="58" period="2" second="19" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="57" period="2" second="38" time="59" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes scores an OWN GOAL!  (Low to the right, 6-yard box, Left footed, Set piece)" minute="55" period="2" second="18" time="57" type="goal scored" type_id="16"/>
+	<message comment="Scott Parker blocks a shot" minute="54" period="2" second="36" time="56" type="save made" type_id="10"/>
+	<message comment="Ben Davies has shot blocked (Out of box, Left footed, Open play)" minute="54" period="2" second="36" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="53" period="2" second="45" time="55" type="save made" type_id="10"/>
+	<message comment="Ben Davies has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="45" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="52" period="2" second="32" time="54" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="52" period="2" second="32" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Roland Lamah misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="48" period="2" second="12" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony misses attempt (To the right, 6-yard box, Left footed, Open play)" minute="46" period="2" second="40" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer wins a corner (To the left)" minute="45" period="2" second="47" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="16" time="46" type="end" type_id="30"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="42" period="1" second="28" time="42" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="42" period="1" second="28" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony misses attempt (To the left, 18-yard box, Head, Open play)" minute="41" period="1" second="37" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="38" period="1" second="44" time="38" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony wins a corner (To the left)" minute="38" period="1" second="16" time="38" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes blocks a shot" minute="38" period="1" second="13" time="38" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Head, Open play)" minute="38" period="1" second="12" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Roland Lamah misses attempt (To the right, Out of box, Left footed, Open play)" minute="36" period="1" second="43" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Dimitar Berbatov misses attempt (18-yard box, Head, From corner)" minute="33" period="1" second="12" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Pajtim Kasami wins a corner (To the right)" minute="32" period="1" second="45" time="32" type="corner" type_id="6"/>
+	<message comment="Pajtim Kasami has shot blocked (Out of box, Left footed, Open play)" minute="32" period="1" second="43" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel blocks a shot" minute="32" period="1" second="43" time="32" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer misses attempt (High, 18-yard box, Head, Open play)" minute="31" period="1" second="31" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent hits the woodwork (To the right, 18-yard box, Big Chance, Right footed, Open play)" minute="30" period="1" second="58" time="30" type="woodwork hit" type_id="14"/>
+	<message comment="Pajtim Kasami recieves a yellow card" minute="29" period="1" second="2" time="29" type="card received" type_id="17"/>
+	<message comment="Darren Bent misses attempt (18-yard box, Big Chance, Head, Open play)" minute="27" period="1" second="8" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams misses attempt (High to the left, 18-yard box, Head, From corner)" minute="24" period="1" second="34" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Roland Lamah wins a corner (To the left)" minute="24" period="1" second="6" time="24" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes blocks a shot" minute="24" period="1" second="4" time="24" type="save made" type_id="10"/>
+	<message comment="Roland Lamah has shot blocked (Out of box, Left footed, Open play)" minute="24" period="1" second="4" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Derek Boateng recieves a yellow card" minute="18" period="1" second="40" time="18" type="card received" type_id="17"/>
+	<message comment="Fernando Amorebieta misses attempt (18-yard box, Left footed, From corner)" minute="13" period="1" second="32" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="13" period="1" second="8" time="13" type="corner" type_id="6"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="12" period="1" second="47" time="12" type="corner" type_id="6"/>
+	<message comment="Scott Parker blocks a shot" minute="10" period="1" second="29" time="10" type="save made" type_id="10"/>
+	<message comment="Roland Lamah has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="29" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Derek Boateng blocks a shot" minute="10" period="1" second="25" time="10" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (Out of box, Right footed, Open play)" minute="10" period="1" second="25" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="9" period="1" second="48" time="9" type="save made" type_id="10"/>
+	<message comment="Scott Parker has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="9" period="1" second="48" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="7" period="1" second="1" time="7" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, Free kick)" minute="6" period="1" second="59" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="6" period="1" second="59" time="6" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Scott Parker wins a corner (To the right)" minute="3" period="1" second="6" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

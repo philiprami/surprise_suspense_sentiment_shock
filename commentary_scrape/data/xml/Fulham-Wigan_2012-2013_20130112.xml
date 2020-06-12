@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2013-01-12" home_team_name="Wigan" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="19" time="98" type="end" type_id="30"/>
+	<message comment="Bryan Ruiz misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="95" period="2" second="39" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Maynor Figueroa blocks a shot (Last line)" minute="95" period="2" second="15" time="97" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (18-yard box, Left footed, Open play)" minute="95" period="2" second="15" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Emmerson Boyce misses attempt (High to the right, Out of box, Right footed, Open play)" minute="92" period="2" second="54" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Iván Ramis is substituted off" minute="91" period="2" second="53" time="93" type="substitution off" type_id="18"/>
+	<message comment="Ronnie Stam is substituted on" minute="91" period="2" second="53" time="93" type="substitution on" type_id="19"/>
+	<message comment="Ashkan Dejagah misses attempt (Out of box, Right footed, Open play)" minute="88" period="2" second="22" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="87" period="2" second="9" time="89" type="corner" type_id="6"/>
+	<message comment="Ashkan Dejagah is substituted on" minute="86" period="2" second="53" time="88" type="substitution on" type_id="19"/>
+	<message comment="Alexander Kacaniklic is substituted off" minute="86" period="2" second="53" time="88" type="substitution off" type_id="18"/>
+	<message comment="Franco Di Santo wins a corner (To the left)" minute="84" period="2" second="22" time="86" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Diving)" minute="84" period="2" second="20" time="86" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="84" period="2" second="20" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Jean Beausejour wins a corner (To the left)" minute="83" period="2" second="34" time="85" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="25" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Caldwell blocks a shot" minute="82" period="2" second="25" time="84" type="save made" type_id="10"/>
+	<message comment="Damien Duff is substituted off" minute="81" period="2" second="14" time="83" type="substitution off" type_id="18"/>
+	<message comment="Chris Baird is substituted on" minute="81" period="2" second="14" time="83" type="substitution on" type_id="19"/>
+	<message comment="Jean Beausejour wins a corner (To the left)" minute="79" period="2" second="18" time="81" type="corner" type_id="6"/>
+	<message comment="Shaun Maloney wins a corner (To the left)" minute="78" period="2" second="28" time="80" type="corner" type_id="6"/>
+	<message comment="Maynor Figueroa misses attempt (To the right, Out of box, Left footed, Open play)" minute="76" period="2" second="12" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Hughes blocks a shot" minute="73" period="2" second="52" time="75" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has shot blocked (Out of box, Left footed, Open play)" minute="73" period="2" second="52" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="73" period="2" second="12" time="75" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="73" period="2" second="7" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger)" minute="73" period="2" second="7" time="75" type="save made" type_id="10"/>
+	<message comment="GOAL! Franco Di Santo scores , Assisted by Shaun Maloney (High to the right, Out of box, Right footed, Open play)" minute="70" period="2" second="51" time="72" type="goal scored" type_id="16"/>
+	<message comment="Jordi Gómez misses attempt (To the right, Out of box, Left footed, Open play)" minute="66" period="2" second="40" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="65" period="2" second="44" time="67" type="corner" type_id="6"/>
+	<message comment="David Jones is substituted off" minute="65" period="2" second="6" time="67" type="substitution off" type_id="18"/>
+	<message comment="Jordi Gómez is substituted on" minute="65" period="2" second="6" time="67" type="substitution on" type_id="19"/>
+	<message comment="Mladen Petric is substituted off" minute="64" period="2" second="51" time="66" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="64" period="2" second="51" time="66" type="substitution on" type_id="19"/>
+	<message comment="Franco Di Santo misses attempt (Out of box, Right footed, Open play)" minute="61" period="2" second="58" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Mladen Petric misses attempt (Out of box, Left footed, Free kick)" minute="60" period="2" second="48" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Maloney has attempt saved (Low to the left, Out of box, Right footed, From corner)" minute="56" period="2" second="28" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Diving, Collected)" minute="56" period="2" second="28" time="58" type="save made" type_id="10"/>
+	<message comment="James McCarthy wins a corner (To the left)" minute="55" period="2" second="57" time="57" type="corner" type_id="6"/>
+	<message comment="Shaun Maloney wins a corner (To the right)" minute="54" period="2" second="42" time="56" type="corner" type_id="6"/>
+	<message comment="Shaun Maloney has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="54" period="2" second="39" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" minute="54" period="2" second="39" time="56" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="5" time="46" type="end" type_id="30"/>
+	<message comment="Iván Ramis blocks a shot" minute="45" period="1" second="24" time="45" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic has shot blocked (18-yard box, Left footed, Fast break)" minute="45" period="1" second="24" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="43" period="1" second="42" time="43" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo misses attempt (High to the left, 6-yard box, Big Chance, Right footed, Throw-in)" minute="40" period="1" second="42" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson misses attempt (High, Out of box, Left footed, Free kick)" minute="35" period="1" second="30" time="35" type="attempt missed" type_id="13"/>
+	<message comment="James McArthur recieves a yellow card" minute="34" period="1" second="16" time="34" type="card received" type_id="17"/>
+	<message comment="Alexander Kacaniklic misses attempt (High to the left, Out of box, Left footed, Set piece)" minute="32" period="1" second="32" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz wins a corner (To the left)" minute="32" period="1" second="11" time="32" type="corner" type_id="6"/>
+	<message comment="Mladen Petric is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Franco Di Santo has shot blocked (18-yard box, Right footed, Set piece)" minute="27" period="1" second="37" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="27" period="1" second="37" time="27" type="save made" type_id="10"/>
+	<message comment="James McArthur has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="25" period="1" second="47" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Standing)" minute="25" period="1" second="47" time="25" type="save made" type_id="10"/>
+	<message comment="GOAL! Giorgos Karagounis scores , Assisted by Sascha Riether (Low to the left, Out of box, Right footed, Open play)" minute="21" period="1" second="51" time="21" type="goal scored" type_id="16"/>
+	<message comment="Dimitar Berbatov has shot blocked (18-yard box, Right footed, Open play)" minute="21" period="1" second="21" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="21" period="1" second="21" time="21" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="20" period="1" second="32" time="20" type="corner" type_id="6"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="19" period="1" second="53" time="19" type="corner" type_id="6"/>
+	<message comment="Mladen Petric misses attempt (High to the left, Out of box, Left footed, Open play)" minute="14" period="1" second="16" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the left)" minute="10" period="1" second="26" time="10" type="corner" type_id="6"/>
+	<message comment="Mladen Petric misses attempt (Out of box, Left footed, Free kick)" minute="8" period="1" second="0" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="James McArthur misses attempt (High, Out of box, Right footed, Fast break)" minute="5" period="1" second="38" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="3" period="1" second="15" time="3" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="3" period="1" second="15" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Maloney misses attempt (18-yard box, Key pass, Right footed, Open play)" minute="3" period="1" second="14" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

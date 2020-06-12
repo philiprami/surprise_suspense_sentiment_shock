@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-11-10" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="26" time="95" type="end" type_id="30"/>
+	<message comment="Joleon Lescott misses attempt (High to the left, 6-yard box, Head, From corner)" minute="93" period="2" second="2" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the right)" minute="92" period="2" second="45" time="94" type="corner" type_id="6"/>
+	<message comment="Ondrej Celustka blocks a shot" minute="92" period="2" second="4" time="94" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Head, Open play)" minute="92" period="2" second="4" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Jesús Navas wins a corner (To the left)" minute="88" period="2" second="21" time="90" type="corner" type_id="6"/>
+	<message comment="Adam Johnson is substituted off" minute="86" period="2" second="54" time="88" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" minute="86" period="2" second="54" time="88" type="substitution on" type_id="19"/>
+	<message comment="Phil Bardsley blocks a shot" minute="86" period="2" second="5" time="88" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" minute="86" period="2" second="5" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" minute="83" period="2" second="37" time="85" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="37" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="82" period="2" second="46" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Costel Pantilimon makes a save" minute="82" period="2" second="46" time="84" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov misses attempt (Out of box, Left footed, Open play)" minute="81" period="2" second="59" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Head, From corner)" minute="79" period="2" second="49" time="81" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the left)" minute="79" period="2" second="30" time="81" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="77" period="2" second="53" time="79" type="corner" type_id="6"/>
+	<message comment="Joleon Lescott misses attempt (To the left, 18-yard box, Head, Open play)" minute="77" period="2" second="47" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="77" period="2" second="29" time="79" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher is substituted off" minute="76" period="2" second="32" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jozy Altidore is substituted on" minute="76" period="2" second="32" time="78" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is caught offside" minute="74" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Emanuele Giaccherini is substituted off" minute="71" period="2" second="43" time="73" type="substitution off" type_id="18"/>
+	<message comment="Craig Gardner is substituted on" minute="71" period="2" second="43" time="73" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" minute="71" period="2" second="4" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried into danger)" minute="71" period="2" second="2" time="73" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (High to the left, Out of box, Left footed, Open play)" minute="71" period="2" second="2" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards is substituted off" minute="70" period="2" second="15" time="72" type="substitution off" type_id="18"/>
+	<message comment="Pablo Zabaleta is substituted on" minute="70" period="2" second="15" time="72" type="substitution on" type_id="19"/>
+	<message comment="Álvaro Negredo is substituted off" minute="70" period="2" second="10" time="72" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="70" period="2" second="10" time="72" type="substitution on" type_id="19"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the right, 18-yard box, Head, From corner)" minute="69" period="2" second="51" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="69" period="2" second="19" time="71" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="67" period="2" second="32" time="69" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Diving)" minute="67" period="2" second="30" time="69" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="67" period="2" second="30" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the left, Out of box, Left footed, From corner)" minute="66" period="2" second="21" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Micah Richards wins a corner (To the right)" minute="65" period="2" second="57" time="67" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Collected)" minute="65" period="2" second="12" time="67" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="65" period="2" second="12" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="John O'Shea blocks a shot" minute="64" period="2" second="33" time="66" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="33" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="64" period="2" second="12" time="66" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is caught offside" minute="62" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="James Milner misses attempt (High to the right, Out of box, Right footed, Open play)" minute="61" period="2" second="19" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="58" period="2" second="43" time="60" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng misses attempt (Out of box, Right footed, Open play)" minute="57" period="2" second="16" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Ki Sung-Yueng blocks a shot" minute="49" period="2" second="30" time="51" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (18-yard box, Right footed, Open play)" minute="49" period="2" second="30" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley blocks a shot" minute="49" period="2" second="28" time="51" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="49" period="2" second="28" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo misses attempt (To the left, 18-yard box, Head, Open play)" minute="45" period="2" second="58" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Javi García is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="8" time="46" type="end" type_id="30"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="44" period="1" second="57" time="44" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng has shot blocked (Out of box, Left footed, Open play)" minute="35" period="1" second="53" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Martín Demichelis blocks a shot" minute="35" period="1" second="53" time="35" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo misses attempt (To the right, Out of box, Left footed, Open play)" minute="33" period="1" second="36" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (6-yard box, Big Chance, Head, Open play)" minute="31" period="1" second="52" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Wes Brown blocks a shot" minute="29" period="1" second="15" time="29" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" minute="29" period="1" second="15" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Brown blocks a shot" minute="28" period="1" second="40" time="28" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, From corner)" minute="28" period="1" second="40" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Negredo wins a corner (To the left)" minute="28" period="1" second="17" time="28" type="corner" type_id="6"/>
+	<message comment="James Milner wins a corner (To the right)" minute="27" period="1" second="15" time="27" type="corner" type_id="6"/>
+	<message comment="Javi García recieves a yellow card" minute="25" period="1" second="5" time="25" type="card received" type_id="17"/>
+	<message comment="GOAL! Phil Bardsley scores , Assisted by Wes Brown (Low to the right, 18-yard box, Right footed, Open play)" minute="20" period="1" second="42" time="20" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov misses attempt (To the right, Out of box, Left footed, Open play)" minute="19" period="1" second="31" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (To the left, 18-yard box, Head, Open play)" minute="12" period="1" second="56" time="12" type="attempt missed" type_id="13"/>
+	<message comment="James Milner has attempt saved (High to the left, Out of box, Left footed, Open play)" minute="7" period="1" second="30" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried safe)" minute="7" period="1" second="30" time="7" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="6" period="1" second="38" time="6" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

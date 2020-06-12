@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Blackburn" competition="English Premier League" game_date="2012-01-14" home_team_name="Fulham" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="3" time="98" type="end" type_id="30"/>
+	<message comment="Gaël Givet blocks a shot" minute="90" period="2" second="34" time="95" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Right footed, Open play)" minute="90" period="2" second="34" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Nzonzi misses attempt (To the left, Out of box, Right footed, Open play)" minute="90" period="2" second="6" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy misses attempt (Out of box, Right footed, Free kick)" minute="88" period="2" second="50" time="93" type="attempt missed" type_id="13"/>
+	<message comment="David Goodwillie is caught offside" minute="87" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Kerim Frei is substituted off" minute="86" period="2" second="20" time="91" type="substitution off" type_id="18"/>
+	<message comment="Simon Davies is substituted on" minute="86" period="2" second="20" time="91" type="substitution on" type_id="19"/>
+	<message comment="Philippe Senderos recieves a yellow card" minute="85" period="2" second="57" time="90" type="card received" type_id="17"/>
+	<message comment="Andrew Johnson wins a corner (To the left)" minute="84" period="2" second="16" time="89" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried into danger)" minute="84" period="2" second="13" time="89" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="84" period="2" second="13" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Kelly wins a corner (To the right)" minute="80" period="2" second="44" time="85" type="corner" type_id="6"/>
+	<message comment="GOAL! Mauro Formica scores , Assisted by Steven Nzonzi (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="78" period="2" second="38" time="83" type="goal scored" type_id="16"/>
+	<message comment="David Goodwillie misses attempt (Out of box, Right footed, Open play)" minute="76" period="2" second="38" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Morten Gamst Pedersen recieves a yellow card" minute="74" period="2" second="49" time="79" type="card received" type_id="17"/>
+	<message comment="John Arne Riise is substituted off" minute="73" period="2" second="2" time="78" type="substitution off" type_id="18"/>
+	<message comment="Andrew Johnson is substituted on" minute="73" period="2" second="2" time="78" type="substitution on" type_id="19"/>
+	<message comment="John Arne Riise misses attempt (High to the right, Out of box, Left footed, Open play)" minute="72" period="2" second="34" time="77" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn is substituted off" minute="68" period="2" second="53" time="73" type="substitution off" type_id="18"/>
+	<message comment="Mauro Formica is substituted on" minute="68" period="2" second="53" time="73" type="substitution on" type_id="19"/>
+	<message comment="Kerim Frei wins a corner (To the left)" minute="67" period="2" second="2" time="72" type="corner" type_id="6"/>
+	<message comment="David Junior Hoilett has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="64" period="2" second="9" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="64" period="2" second="9" time="69" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey misses attempt (18-yard box, Right footed, Open play)" minute="60" period="2" second="21" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (Out of box, Left footed, Open play)" minute="58" period="2" second="3" time="63" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett blocks a shot" minute="57" period="2" second="15" time="62" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (Out of box, Right footed, Open play)" minute="57" period="2" second="15" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Damien Duff scores , Assisted by Danny Murphy (Low to the left, 18-yard box, Right footed, Open play)" minute="55" period="2" second="16" time="60" type="goal scored" type_id="16"/>
+	<message comment="Kerim Frei wins a corner (To the left)" minute="54" period="2" second="4" time="59" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen misses attempt (To the right, Out of box, Right footed, Open play)" minute="53" period="2" second="26" time="58" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett has shot blocked (18-yard box, Right footed, Fast break)" minute="53" period="2" second="23" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos blocks a shot" minute="53" period="2" second="23" time="58" type="save made" type_id="10"/>
+	<message comment="Damien Duff misses attempt (To the left, Out of box, Left footed, Open play)" minute="52" period="2" second="41" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="51" period="2" second="37" time="56" type="corner" type_id="6"/>
+	<message comment="Martin Olsson blocks a shot" minute="51" period="2" second="36" time="56" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (18-yard box, Right footed, Fast break)" minute="51" period="2" second="36" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried into danger)" minute="50" period="2" second="29" time="55" type="save made" type_id="10"/>
+	<message comment="John Arne Riise has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="50" period="2" second="29" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey is caught offside" minute="50" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="John Arne Riise misses attempt (High, 18-yard box, Left footed, Open play)" minute="48" period="2" second="54" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save (Collected)" minute="47" period="2" second="57" time="52" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="47" period="2" second="57" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Kerim Frei wins a corner (To the left)" minute="47" period="2" second="18" time="52" type="corner" type_id="6"/>
+	<message comment="GOAL! David Dunn scores  (Low to the left, 18-yard box, Right footed, Open play)" minute="45" period="2" second="56" time="50" type="goal scored" type_id="16"/>
+	<message comment="David Goodwillie has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="2" second="54" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise blocks a shot" minute="45" period="2" second="54" time="50" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="8" time="49" type="end" type_id="30"/>
+	<message comment="GOAL! Morten Gamst Pedersen scores  (Low to the left, Out of box, Left footed, Free kick)" minute="48" period="1" second="18" time="48" type="goal scored" type_id="16"/>
+	<message comment="Clint Dempsey misses attempt (High to the right, Out of box, Right footed, Open play)" minute="46" period="1" second="9" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey misses attempt (To the left, 18-yard box, Head, Open play)" minute="43" period="1" second="14" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Morten Gamst Pedersen misses attempt (To the left, Out of box, Right footed, Open play)" minute="42" period="1" second="12" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy misses attempt (To the left, Out of box, Right footed, Open play)" minute="38" period="1" second="40" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Senderos wins a corner (To the left)" minute="38" period="1" second="15" time="38" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="38" period="1" second="13" time="38" type="save made" type_id="10"/>
+	<message comment="Philippe Senderos has attempt saved (High to the left, 18-yard box, Head, Set piece)" minute="38" period="1" second="13" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Lowe has shot blocked (Out of box, Right footed, Open play)" minute="36" period="1" second="57" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé is substituted off" minute="35" period="1" second="43" time="35" type="substitution off" type_id="18"/>
+	<message comment="Kerim Frei is substituted on" minute="35" period="1" second="43" time="35" type="substitution on" type_id="19"/>
+	<message comment="Radosav Petrovic is substituted off" minute="29" period="1" second="25" time="29" type="substitution off" type_id="18"/>
+	<message comment="David Goodwillie is substituted on" minute="29" period="1" second="25" time="29" type="substitution on" type_id="19"/>
+	<message comment="David Stockdale makes a save (Collected, Diving)" minute="25" period="1" second="52" time="25" type="save made" type_id="10"/>
+	<message comment="David Dunn has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="25" period="1" second="52" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Yakubu recieves a red card" minute="22" period="1" second="32" time="22" type="card received" type_id="17"/>
+	<message comment="Bobby Zamora hits the woodwork (To the right, 18-yard box, Head, Open play)" minute="21" period="1" second="48" time="21" type="woodwork hit" type_id="14"/>
+	<message comment="Stephen Kelly wins a corner (To the left)" minute="20" period="1" second="0" time="20" type="corner" type_id="6"/>
+	<message comment="Yakubu is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="David Junior Hoilett has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="7" period="1" second="18" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Collected, Standing)" minute="7" period="1" second="18" time="7" type="save made" type_id="10"/>
+	<message comment="David Dunn has shot blocked (18-yard box, Left footed, Open play)" minute="7" period="1" second="13" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Kelly blocks a shot" minute="7" period="1" second="13" time="7" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora wins a corner (To the right)" minute="3" period="1" second="58" time="3" type="corner" type_id="6"/>
+	<message comment="Yakubu is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

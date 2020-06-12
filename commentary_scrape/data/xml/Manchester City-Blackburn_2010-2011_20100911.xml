@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2010-09-11" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="12" time="99" type="end" type_id="30"/>
+	<message comment="Pascal Chimbonda misses attempt (High, Out of box, Right footed, Set piece)" minute="94" period="2" second="57" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré recieves a yellow card" minute="94" period="2" second="26" time="98" type="card received" type_id="17"/>
+	<message comment="Jô wins a corner (To the right)" minute="91" period="2" second="0" time="95" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot (Last line)" minute="90" period="2" second="58" time="94" type="save made" type_id="10"/>
+	<message comment="Jô has shot blocked (6-yard box, Big Chance, Right footed, Open play)" minute="90" period="2" second="58" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Givet blocks a shot (Last line)" minute="90" period="2" second="56" time="94" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (6-yard box, Big Chance, Right footed, Open play)" minute="90" period="2" second="56" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" minute="85" period="2" second="21" time="89" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen blocks a shot" minute="85" period="2" second="18" time="89" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="85" period="2" second="18" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson is substituted off" minute="84" period="2" second="20" time="88" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" minute="84" period="2" second="20" time="88" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré misses attempt (High, 18-yard box, Head, From corner)" minute="83" period="2" second="46" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="83" period="2" second="19" time="87" type="corner" type_id="6"/>
+	<message comment="Pascal Chimbonda recieves a yellow card" minute="80" period="2" second="56" time="84" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez misses attempt (18-yard box, Right footed, Fast break)" minute="79" period="2" second="56" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Nikola Kalinic has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="78" period="2" second="48" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Feet, Parried safe, Diving)" minute="78" period="2" second="48" time="82" type="save made" type_id="10"/>
+	<message comment="Jô wins a corner (To the left)" minute="76" period="2" second="52" time="80" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="76" period="2" second="46" time="80" type="save made" type_id="10"/>
+	<message comment="Jô has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="76" period="2" second="46" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the left)" minute="73" period="2" second="51" time="77" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Head, From corner)" minute="71" period="2" second="59" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry wins a corner (To the right)" minute="71" period="2" second="39" time="75" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="71" period="2" second="33" time="75" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="71" period="2" second="33" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Patrick Vieira is substituted off" minute="66" period="2" second="2" time="70" type="substitution off" type_id="18"/>
+	<message comment="Gareth Barry is substituted on" minute="66" period="2" second="2" time="70" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="65" period="2" second="15" time="69" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="65" period="2" second="13" time="69" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="65" period="2" second="13" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="63" period="2" second="0" time="67" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="62" period="2" second="56" time="66" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Left footed, Set piece)" minute="62" period="2" second="56" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Vince Grella is substituted off" minute="57" period="2" second="9" time="61" type="substitution off" type_id="18"/>
+	<message comment="Steven Nzonzi is substituted on" minute="57" period="2" second="9" time="61" type="substitution on" type_id="19"/>
+	<message comment="Christopher Samba has attempt saved (Low to the left, 18-yard box, Head, Set piece)" minute="56" period="2" second="32" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="56" period="2" second="32" time="60" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips is substituted off" minute="55" period="2" second="30" time="59" type="substitution off" type_id="18"/>
+	<message comment="Jô is substituted on" minute="55" period="2" second="30" time="59" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Patrick Vieira scores , Assisted by Carlos Tevez (High to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="55" period="2" second="1" time="59" type="goal scored" type_id="16"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried into danger)" minute="54" period="2" second="24" time="58" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="54" period="2" second="24" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is caught offside" minute="46" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Míchel Salgado is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Pascal Chimbonda is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="Adam Johnson wins a corner (To the left)" minute="45" period="1" second="41" time="45" type="corner" type_id="6"/>
+	<message comment="Ryan Nelsen is substituted off" minute="39" period="1" second="47" time="39" type="substitution off" type_id="18"/>
+	<message comment="Martin Olsson is substituted on" minute="39" period="1" second="47" time="39" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez misses attempt (High, Out of box, Right footed, Open play)" minute="39" period="1" second="8" time="39" type="attempt missed" type_id="13"/>
+	<message comment="El Hadji Diouf misses attempt (High to the right, Out of box, Right footed, Open play)" minute="37" period="1" second="23" time="37" type="attempt missed" type_id="13"/>
+	<message comment="El Hadji Diouf has shot blocked (Out of box, Right footed, Open play)" minute="37" period="1" second="21" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="37" period="1" second="21" time="37" type="save made" type_id="10"/>
+	<message comment="Nikola Kalinic misses attempt (To the right, 18-yard box, Head, Open play)" minute="31" period="1" second="18" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Patrick Vieira wins a corner (To the right)" minute="30" period="1" second="33" time="30" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="30" period="1" second="2" time="30" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has attempt saved (High to the centre, 18-yard box, Right footed, From corner)" minute="30" period="1" second="2" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Wright-Phillips wins a corner (To the left)" minute="29" period="1" second="45" time="29" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried safe, Diving)" minute="29" period="1" second="43" time="29" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="29" period="1" second="43" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Mame Biram Diouf misses attempt (18-yard box, Left footed, Throw-in)" minute="29" period="1" second="7" time="29" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Nikola Kalinic scores , Assisted by Morten Gamst Pedersen (Low to the centre, Out of box, Big Chance, Left footed, Open play)" minute="24" period="1" second="8" time="24" type="goal scored" type_id="16"/>
+	<message comment="Vincent Kompany wins a corner (To the left)" minute="23" period="1" second="15" time="23" type="corner" type_id="6"/>
+	<message comment="Gaël Givet blocks a shot" minute="23" period="1" second="10" time="23" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Head, From corner)" minute="23" period="1" second="10" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="22" period="1" second="46" time="22" type="corner" type_id="6"/>
+	<message comment="Adam Johnson misses attempt (18-yard box, Left footed, Open play)" minute="14" period="1" second="34" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save" minute="12" period="1" second="33" time="12" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="12" period="1" second="33" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Carlos Tevez is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Patrick Vieira recieves a yellow card" minute="6" period="1" second="17" time="6" type="card received" type_id="17"/>
+	<message comment="Shaun Wright-Phillips misses attempt (Out of box, Right footed, Open play)" minute="4" period="1" second="52" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Micah Richards misses attempt (High to the right, 18-yard box, Head, From corner)" minute="2" period="1" second="20" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson wins a corner (To the right)" minute="1" period="1" second="50" time="1" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried safe)" minute="1" period="1" second="46" time="1" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" minute="1" period="1" second="46" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="El Hadji Diouf has shot blocked (Out of box, Right footed, From corner)" minute="1" period="1" second="35" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré blocks a shot" minute="1" period="1" second="35" time="1" type="save made" type_id="10"/>
+	<message comment="Phil Jones wins a corner (To the right)" minute="0" period="1" second="58" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

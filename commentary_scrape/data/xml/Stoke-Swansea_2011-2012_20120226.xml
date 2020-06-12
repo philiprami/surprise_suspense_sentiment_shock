@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2012-02-26" home_team_name="Swansea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="9" time="96" type="end" type_id="30"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger)" minute="91" period="2" second="23" time="94" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has attempt saved (High to the centre, 18-yard box, Big Chance, Head, Set piece)" minute="91" period="2" second="23" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shotton is substituted off" minute="87" period="2" second="30" time="90" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" minute="87" period="2" second="30" time="90" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch is substituted off" minute="87" period="2" second="12" time="90" type="substitution off" type_id="18"/>
+	<message comment="Rory Delap is substituted on" minute="87" period="2" second="12" time="90" type="substitution on" type_id="19"/>
+	<message comment="Andy Wilkinson wins a corner (To the right)" minute="84" period="2" second="30" time="87" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan wins a corner (To the left)" minute="83" period="2" second="15" time="86" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson misses attempt (18-yard box, Left footed, Open play)" minute="81" period="2" second="3" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Collected)" minute="79" period="2" second="11" time="82" type="save made" type_id="10"/>
+	<message comment="Luke Moore has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="79" period="2" second="11" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="77" period="2" second="39" time="80" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson misses attempt (To the right, Out of box, Right footed, Open play)" minute="72" period="2" second="37" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters misses attempt (6-yard box, Head, Open play)" minute="71" period="2" second="17" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Scott Sinclair is substituted off" minute="70" period="2" second="37" time="73" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="70" period="2" second="37" time="73" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer is substituted off" minute="70" period="2" second="16" time="73" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="70" period="2" second="16" time="73" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters wins a corner (To the left)" minute="68" period="2" second="35" time="71" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters has shot blocked (18-yard box, Head, From corner)" minute="68" period="2" second="34" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="68" period="2" second="34" time="71" type="save made" type_id="10"/>
+	<message comment="Marc Wilson wins a corner (To the right)" minute="68" period="2" second="7" time="71" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington is substituted off" minute="67" period="2" second="40" time="70" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="67" period="2" second="40" time="70" type="substitution on" type_id="19"/>
+	<message comment="Ashley Williams wins a corner (To the right)" minute="64" period="2" second="42" time="67" type="corner" type_id="6"/>
+	<message comment="Angel Rangel wins a corner (To the left)" minute="64" period="2" second="12" time="67" type="corner" type_id="6"/>
+	<message comment="Matt Upson blocks a shot" minute="64" period="2" second="10" time="67" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="10" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters misses attempt (High, 6-yard box, Head, Throw-in)" minute="54" period="2" second="24" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (Out of box, Left footed, Open play)" minute="52" period="2" second="55" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="48" period="2" second="1" time="51" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="52" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Ryan Shotton (Low to the right, 18-yard box, Head, Throw-in)" minute="38" period="1" second="24" time="38" type="goal scored" type_id="16"/>
+	<message comment="Dean Whitehead blocks a shot" minute="35" period="1" second="27" time="35" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (18-yard box, Right footed, Open play)" minute="35" period="1" second="27" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the right)" minute="30" period="1" second="14" time="30" type="corner" type_id="6"/>
+	<message comment="Neil Taylor wins a corner (To the left)" minute="29" period="1" second="32" time="29" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson misses attempt (Out of box, Right footed, Free kick)" minute="27" period="1" second="4" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross recieves a yellow card" minute="26" period="1" second="5" time="26" type="card received" type_id="17"/>
+	<message comment="GOAL! Matt Upson scores , Assisted by Matthew Etherington (Low to the right, 6-yard box, Big Chance, Head, From corner)" minute="23" period="1" second="51" time="23" type="goal scored" type_id="16"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="23" period="1" second="21" time="23" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters has shot blocked (18-yard box, Left footed, Open play)" minute="11" period="1" second="46" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Allen blocks a shot" minute="11" period="1" second="46" time="11" type="save made" type_id="10"/>
+	<message comment="Matt Upson misses attempt (High to the left, 6-yard box, Head, From corner)" minute="9" period="1" second="6" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan wins a corner (To the left)" minute="8" period="1" second="42" time="8" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Peter Crouch has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="15" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="3" period="1" second="15" time="3" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan has shot blocked (Out of box, Key pass, Left footed, Throw-in)" minute="3" period="1" second="13" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Sinclair misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="1" period="1" second="54" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

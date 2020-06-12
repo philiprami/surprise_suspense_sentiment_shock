@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-11-09" home_team_name="Cardiff" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="38" time="96" type="end" type_id="30"/>
+	<message comment="Peter Whittingham misses attempt (High, Out of box, Left footed, Free kick)" minute="94" period="2" second="32" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Ciaran Clark recieves a yellow card" minute="94" period="2" second="2" time="96" type="card received" type_id="17"/>
+	<message comment="Leandro Bacuna wins a corner (To the left)" minute="92" period="2" second="10" time="94" type="corner" type_id="6"/>
+	<message comment="Andrew Taylor blocks a shot" minute="92" period="2" second="9" time="94" type="save made" type_id="10"/>
+	<message comment="Leandro Bacuna has shot blocked (Out of box, Left footed, Open play)" minute="92" period="2" second="9" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Fraizer Campbell is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Jordan Bowery misses attempt (18-yard box, Right footed, Open play)" minute="90" period="2" second="15" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Libor Kozák is substituted off" minute="87" period="2" second="38" time="89" type="substitution off" type_id="18"/>
+	<message comment="Jordan Bowery is substituted on" minute="87" period="2" second="38" time="89" type="substitution on" type_id="19"/>
+	<message comment="Steven Caulker wins a corner (To the right)" minute="86" period="2" second="27" time="88" type="corner" type_id="6"/>
+	<message comment="Libor Kozák blocks a shot" minute="86" period="2" second="24" time="88" type="save made" type_id="10"/>
+	<message comment="Steven Caulker has shot blocked (18-yard box, Head, From corner)" minute="86" period="2" second="24" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker is caught offside" minute="86" period="2" time="88" type="offside" type_id="10000"/>
+	<message comment="Jordon Mutch wins a corner (To the left)" minute="85" period="2" second="59" time="87" type="corner" type_id="6"/>
+	<message comment="Ashley Westwood has shot blocked (Out of box, Right footed, Open play)" minute="85" period="2" second="0" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="85" period="2" second="0" time="87" type="save made" type_id="10"/>
+	<message comment="GOAL! Libor Kozák scores , Assisted by Matthew Lowton (Low to the right, 18-yard box, Head, Open play)" minute="83" period="2" second="32" time="85" type="goal scored" type_id="16"/>
+	<message comment="Craig Bellamy is substituted off" minute="81" period="2" second="12" time="83" type="substitution off" type_id="18"/>
+	<message comment="Nicky Maynard is substituted on" minute="81" period="2" second="12" time="83" type="substitution on" type_id="19"/>
+	<message comment="Libor Kozák wins a corner (To the left)" minute="79" period="2" second="6" time="81" type="corner" type_id="6"/>
+	<message comment="Nathan Baker is caught offside" minute="79" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Aleksandar Tonev wins a corner (To the left)" minute="78" period="2" second="13" time="80" type="corner" type_id="6"/>
+	<message comment="GOAL! Leandro Bacuna scores  (High to the right, Out of box, Right footed, Free kick)" minute="75" period="2" second="17" time="77" type="goal scored" type_id="16"/>
+	<message comment="Gary Medel recieves a yellow card" minute="74" period="2" second="18" time="76" type="card received" type_id="17"/>
+	<message comment="Karim El Ahmadi is substituted off" minute="73" period="2" second="22" time="75" type="substitution off" type_id="18"/>
+	<message comment="Matthew Lowton is substituted on" minute="73" period="2" second="22" time="75" type="substitution on" type_id="19"/>
+	<message comment="Christian Benteke misses attempt (To the right, 18-yard box, Head, Open play)" minute="72" period="2" second="18" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Tonev has shot blocked (Out of box, Right footed, Open play)" minute="72" period="2" second="9" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" minute="72" period="2" second="9" time="74" type="save made" type_id="10"/>
+	<message comment="Gary Medel misses attempt (High to the right, Out of box, Right footed, Open play)" minute="70" period="2" second="12" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke misses attempt (18-yard box, Head, Fast break)" minute="66" period="2" second="9" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson is substituted off" minute="64" period="2" second="21" time="66" type="substitution off" type_id="18"/>
+	<message comment="Jordon Mutch is substituted on" minute="64" period="2" second="21" time="66" type="substitution on" type_id="19"/>
+	<message comment="Ashley Westwood misses attempt (To the right, Out of box, Right footed, Open play)" minute="62" period="2" second="9" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is substituted off" minute="54" period="2" second="52" time="56" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" minute="54" period="2" second="52" time="56" type="substitution on" type_id="19"/>
+	<message comment="Kévin Théophile-Catherine blocks a shot" minute="51" period="2" second="13" time="53" type="save made" type_id="10"/>
+	<message comment="Aleksandar Tonev has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="13" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Libor Kozák wins a corner (To the right)" minute="49" period="2" second="33" time="51" type="corner" type_id="6"/>
+	<message comment="Libor Kozák has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="49" period="2" second="31" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" minute="49" period="2" second="31" time="51" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie is caught offside" minute="45" period="2" time="47" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="10" time="46" type="end" type_id="30"/>
+	<message comment="Don Cowie misses attempt (High, 18-yard box, Head, Open play)" minute="45" period="1" second="11" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Tonev misses attempt (High to the left, Out of box, Left footed, Open play)" minute="43" period="1" second="43" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Karim El Ahmadi misses attempt (Out of box, Right footed, Open play)" minute="37" period="1" second="8" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Libor Kozák is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Brad Guzan makes a save (Collected, Standing)" minute="29" period="1" second="50" time="29" type="save made" type_id="10"/>
+	<message comment="Craig Bellamy has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="29" period="1" second="50" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" minute="26" period="1" time="26" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Aron Gunnarsson has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="11" period="1" second="41" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save (Diving, Parried into danger, Other body part)" minute="11" period="1" second="41" time="11" type="save made" type_id="10"/>
+	<message comment="Christian Benteke misses attempt (To the right, 18-yard box, Head, From corner)" minute="10" period="1" second="59" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke wins a corner (To the left)" minute="10" period="1" second="28" time="10" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save (Parried safe, Diving)" minute="10" period="1" second="25" time="10" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="10" period="1" second="25" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Medel wins a corner (To the right)" minute="9" period="1" second="23" time="9" type="corner" type_id="6"/>
+	<message comment="David Marshall makes a save" minute="7" period="1" second="42" time="7" type="save made" type_id="10"/>
+	<message comment="Yacouba Sylla has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="7" period="1" second="42" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="6" period="1" second="16" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Aron Gunnarsson misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" minute="6" period="1" second="14" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="David Marshall makes a save (Diving, Parried into danger)" minute="4" period="1" second="19" time="4" type="save made" type_id="10"/>
+	<message comment="Karim El Ahmadi has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="4" period="1" second="19" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="Libor Kozák is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

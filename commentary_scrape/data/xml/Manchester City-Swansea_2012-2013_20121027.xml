@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-10-27" home_team_name="Swansea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="102" period="2" second="42" time="105" type="end" type_id="30"/>
+	<message comment="Mario Balotelli misses attempt (18-yard box, Right footed, Fast break)" minute="102" period="2" second="40" time="105" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="98" period="2" second="46" time="101" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli wins a corner (To the right)" minute="98" period="2" second="12" time="101" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng misses attempt (High to the left, Out of box, Left footed, Open play)" minute="96" period="2" second="32" time="99" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is substituted off" minute="95" period="2" second="41" time="98" type="substitution off" type_id="18"/>
+	<message comment="Joleon Lescott is substituted on" minute="95" period="2" second="41" time="98" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is caught offside" minute="90" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Nathan Dyer recieves a yellow card" minute="84" period="2" second="51" time="87" type="card received" type_id="17"/>
+	<message comment="Micah Richards is substituted off" minute="84" period="2" second="9" time="87" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="84" period="2" second="9" time="87" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge has shot blocked (18-yard box, Right footed, Open play)" minute="78" period="2" second="55" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="78" period="2" second="55" time="81" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández is substituted off" minute="77" period="2" second="12" time="80" type="substitution off" type_id="18"/>
+	<message comment="Nathan Dyer is substituted on" minute="77" period="2" second="12" time="80" type="substitution on" type_id="19"/>
+	<message comment="Chico Flores misses attempt (High, Out of box, Right footed, Open play)" minute="76" period="2" second="42" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" minute="73" period="2" second="43" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Leon Britton is substituted off" minute="71" period="2" second="47" time="74" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="71" period="2" second="47" time="74" type="substitution on" type_id="19"/>
+	<message comment="Michu has shot blocked (18-yard box, Head, Open play)" minute="70" period="2" second="24" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="70" period="2" second="24" time="73" type="save made" type_id="10"/>
+	<message comment="Michel Vorm is substituted off" minute="65" period="2" second="30" time="68" type="substitution off" type_id="18"/>
+	<message comment="Gerhard Tremmel is substituted on" minute="65" period="2" second="30" time="68" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Carlos Tevez scores , Assisted by Gaël Clichy (Low to the left, Out of box, Right footed, Open play)" minute="60" period="2" second="34" time="63" type="goal scored" type_id="16"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="59" period="2" second="27" time="62" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="59" period="2" second="27" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Ki Sung-Yueng has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="53" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="58" period="2" second="53" time="61" type="save made" type_id="10"/>
+	<message comment="Michu has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="58" period="2" second="49" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="58" period="2" second="49" time="61" type="save made" type_id="10"/>
+	<message comment="Michel Vorm makes a save (Collected, Standing)" minute="56" period="2" second="40" time="59" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="56" period="2" second="40" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards misses attempt (High to the right, 18-yard box, Head, From corner)" minute="53" period="2" second="25" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="53" period="2" second="1" time="56" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli is caught offside" minute="51" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Mario Balotelli misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="49" period="2" second="41" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Hernández is caught offside" minute="46" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Ki Sung-Yueng blocks a shot" minute="45" period="2" second="56" time="48" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Left footed, Open play)" minute="45" period="2" second="56" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero misses attempt (To the right, Out of box, Right footed, Open play)" minute="45" period="2" second="28" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="32" time="47" type="end" type_id="30"/>
+	<message comment="Aleksandar Kolarov misses attempt (High, Out of box, Left footed, Free kick)" minute="47" period="1" second="28" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="44" period="1" second="44" time="44" type="corner" type_id="6"/>
+	<message comment="Michu has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Fast break)" minute="39" period="1" second="52" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe, Feet)" minute="39" period="1" second="52" time="39" type="save made" type_id="10"/>
+	<message comment="Micah Richards recieves a yellow card" minute="38" period="1" second="31" time="38" type="card received" type_id="17"/>
+	<message comment="Michel Vorm makes a save (Collected)" minute="37" period="1" second="53" time="37" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="37" period="1" second="53" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Michu is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Michu is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Angel Rangel recieves a yellow card" minute="16" period="1" second="39" time="16" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="15" type="end" type_id="30"/>
+	<message comment="Ki Sung-Yueng has shot blocked (Out of box, Right footed, Open play)" minute="14" period="1" second="49" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré blocks a shot" minute="14" period="1" second="49" time="14" type="save made" type_id="10"/>
+	<message comment="Ashley Williams is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

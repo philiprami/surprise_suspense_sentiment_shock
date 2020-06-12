@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2010-12-26" home_team_name="Manchester City" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="97" type="end" type_id="30"/>
+	<message comment="Andy Carroll is caught offside" minute="92" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Head, From corner)" minute="91" period="2" second="28" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="91" period="2" second="4" time="94" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="91" period="2" second="1" time="94" type="save made" type_id="10"/>
+	<message comment="Joey Barton has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="91" period="2" second="1" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Nile Ranger misses attempt (18-yard box, Head, Open play)" minute="89" period="2" second="6" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson recieves a yellow card" minute="87" period="2" second="55" time="90" type="card received" type_id="17"/>
+	<message comment="Adam Johnson wins a corner (To the right)" minute="87" period="2" second="2" time="90" type="corner" type_id="6"/>
+	<message comment="Adam Johnson is caught offside" minute="87" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Adam Johnson has shot blocked (Out of box, Right footed, Fast break)" minute="86" period="2" second="59" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique blocks a shot" minute="86" period="2" second="59" time="89" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli recieves a yellow card" minute="86" period="2" second="30" time="89" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez is substituted off" minute="85" period="2" second="8" time="88" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="85" period="2" second="8" time="88" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré is substituted off" minute="81" period="2" second="58" time="84" type="substitution off" type_id="18"/>
+	<message comment="Patrick Vieira is substituted on" minute="81" period="2" second="58" time="84" type="substitution on" type_id="19"/>
+	<message comment="Fabricio Coloccini scores an OWN GOAL!  (Low to the left, 18-yard box, Other body part, Open play)" minute="80" period="2" second="51" time="83" type="goal scored" type_id="16"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="80" period="2" second="50" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan misses attempt (6-yard box, Right footed, Open play)" minute="79" period="2" second="7" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Nile Ranger misses attempt (To the left, 18-yard box, Head, From corner)" minute="73" period="2" second="57" time="76" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique wins a corner (To the right)" minute="73" period="2" second="21" time="76" type="corner" type_id="6"/>
+	<message comment="Joe Hart recieves a yellow card" minute="71" period="2" second="25" time="74" type="card received" type_id="17"/>
+	<message comment="GOAL! Andy Carroll scores , Assisted by Joey Barton (Low to the left, 6-yard box, Head, From corner)" minute="71" period="2" second="17" time="74" type="goal scored" type_id="16"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="70" period="2" second="56" time="73" type="corner" type_id="6"/>
+	<message comment="David Silva is substituted off" minute="69" period="2" second="19" time="72" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="69" period="2" second="19" time="72" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="68" period="2" second="10" time="71" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save" minute="67" period="2" second="1" time="70" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="67" period="2" second="1" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Jonás Gutiérrez misses attempt (High to the right, 18-yard box, Right footed, Throw-in)" minute="64" period="2" second="13" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Joleon Lescott recieves a yellow card" minute="60" period="2" second="48" time="63" type="card received" type_id="17"/>
+	<message comment="Nile Ranger is substituted on" minute="59" period="2" second="35" time="62" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" minute="59" period="2" second="35" time="62" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="58" period="2" second="24" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry blocks a shot" minute="53" period="2" second="45" time="56" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="45" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott has shot blocked (18-yard box, Left footed, From corner)" minute="51" period="2" second="14" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="51" period="2" second="14" time="54" type="save made" type_id="10"/>
+	<message comment="James Milner wins a corner (To the right)" minute="50" period="2" second="35" time="53" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Right footed, From corner)" minute="49" period="2" second="2" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Left footed, From corner)" minute="48" period="2" second="50" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="48" period="2" second="13" time="51" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov misses attempt (Out of box, Left footed, From corner)" minute="45" period="2" second="50" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="45" period="2" second="14" time="48" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="25" time="47" type="end" type_id="30"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Head, Open play)" minute="46" period="1" second="52" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="43" period="1" second="27" time="43" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Left footed, Set piece)" minute="43" period="1" second="27" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner blocks a shot" minute="41" period="1" second="9" time="41" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Right footed, Open play)" minute="41" period="1" second="9" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Aleksandar Kolarov misses attempt (Out of box, Left footed, Open play)" minute="37" period="1" second="4" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Jérôme Boateng blocks a shot" minute="36" period="1" second="4" time="36" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Right footed, Open play)" minute="36" period="1" second="4" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="32" period="1" second="54" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll misses attempt (Out of box, Left footed, Open play)" minute="32" period="1" second="2" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Joe Hart makes a save" minute="31" period="1" second="0" time="31" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has attempt saved (High to the right, 18-yard box, Head, Set piece)" minute="31" period="1" second="0" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva recieves a yellow card" minute="29" period="1" second="56" time="29" type="card received" type_id="17"/>
+	<message comment="James Milner is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Kevin Nolan recieves a yellow card" minute="23" period="1" second="41" time="23" type="card received" type_id="17"/>
+	<message comment="Yaya Touré misses attempt (To the right, Out of box, Right footed, Open play)" minute="21" period="1" second="11" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="17" period="1" second="19" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing, Parried safe)" minute="17" period="1" second="19" time="17" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan misses attempt (To the left, 18-yard box, Head, Open play)" minute="15" period="1" second="40" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez misses attempt (To the left, 18-yard box, Head, Open play)" minute="14" period="1" second="41" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Open play)" minute="13" period="1" second="55" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor misses attempt (High, 18-yard box, Left footed, From corner)" minute="13" period="1" second="13" time="13" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="12" period="1" second="38" time="12" type="corner" type_id="6"/>
+	<message comment="Andy Carroll misses attempt (To the left, Out of box, Left footed, Open play)" minute="9" period="1" second="14" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="5" period="1" second="57" time="5" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Open play)" minute="5" period="1" second="57" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Carlos Tevez scores , Assisted by James Milner (High to the left, 18-yard box, Left footed, Open play)" minute="4" period="1" second="42" time="4" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Gareth Barry scores , Assisted by Carlos Tevez (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="1" period="1" second="10" time="1" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

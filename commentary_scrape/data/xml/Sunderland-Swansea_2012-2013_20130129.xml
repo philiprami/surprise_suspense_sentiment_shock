@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-01-29" home_team_name="Swansea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="94" type="end" type_id="30"/>
+	<message comment="Titus Bramble blocks a shot" minute="92" period="2" second="24" time="93" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="92" period="2" second="24" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Dwight Tiendalli misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="89" period="2" second="33" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save" minute="86" period="2" second="8" time="87" type="save made" type_id="10"/>
+	<message comment="Chico Flores has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="86" period="2" second="8" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson is substituted off" minute="83" period="2" second="45" time="84" type="substitution off" type_id="18"/>
+	<message comment="Connor Wickham is substituted on" minute="83" period="2" second="45" time="84" type="substitution on" type_id="19"/>
+	<message comment="Danny Graham is caught offside" minute="81" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Nathan Dyer misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="80" period="2" second="11" time="81" type="attempt missed" type_id="13"/>
+	<message comment="James McClean has shot blocked (18-yard box, Left footed, Set piece)" minute="78" period="2" second="27" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Dwight Tiendalli blocks a shot" minute="78" period="2" second="27" time="79" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng misses attempt (High to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="59" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Leon Britton is substituted off" minute="74" period="2" second="24" time="75" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="74" period="2" second="24" time="75" type="substitution on" type_id="19"/>
+	<message comment="James McClean recieves a yellow card" minute="73" period="2" second="40" time="74" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save" minute="68" period="2" second="34" time="69" type="save made" type_id="10"/>
+	<message comment="Ki Sung-Yueng has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="68" period="2" second="34" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Alfred N'Diaye is substituted off" minute="66" period="2" second="5" time="67" type="substitution off" type_id="18"/>
+	<message comment="James McClean is substituted on" minute="66" period="2" second="5" time="67" type="substitution on" type_id="19"/>
+	<message comment="Pablo Hernández is substituted off" minute="65" period="2" second="59" time="66" type="substitution off" type_id="18"/>
+	<message comment="Roland Lamah is substituted on" minute="65" period="2" second="59" time="66" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner misses attempt (Out of box, Right footed, Free kick)" minute="63" period="2" second="23" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Itay Shechter is substituted off" minute="60" period="2" second="18" time="61" type="substitution off" type_id="18"/>
+	<message comment="Ki Sung-Yueng is substituted on" minute="60" period="2" second="18" time="61" type="substitution on" type_id="19"/>
+	<message comment="Leon Britton recieves a yellow card" minute="56" period="2" second="12" time="57" type="card received" type_id="17"/>
+	<message comment="Jack Colback wins a corner (To the left)" minute="51" period="2" second="27" time="52" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the left)" minute="48" period="2" second="16" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" minute="45" period="1" second="58" time="45" type="end" type_id="30"/>
+	<message comment="Nathan Dyer misses attempt (To the left, Out of box, Right footed, From corner)" minute="43" period="1" second="24" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Michu wins a corner (To the right)" minute="42" period="1" second="42" time="42" type="corner" type_id="6"/>
+	<message comment="John O'Shea blocks a shot" minute="42" period="1" second="40" time="42" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" minute="42" period="1" second="40" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Craig Gardner misses attempt (High, Out of box, Right footed, Free kick)" minute="39" period="1" second="25" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (To the left, Out of box, Right footed, Open play)" minute="35" period="1" second="21" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Chico Flores misses attempt (High, Out of box, Right footed, Open play)" minute="31" period="1" second="27" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Tiendalli recieves a yellow card" minute="19" period="1" second="30" time="19" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="18" period="1" second="49" time="18" type="save made" type_id="10"/>
+	<message comment="Dwight Tiendalli has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="18" period="1" second="49" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores wins a corner (To the left)" minute="16" period="1" second="7" time="16" type="corner" type_id="6"/>
+	<message comment="Chico Flores has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="16" period="1" second="5" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="16" period="1" second="5" time="16" type="save made" type_id="10"/>
+	<message comment="David Vaughan blocks a shot" minute="15" period="1" second="58" time="15" type="save made" type_id="10"/>
+	<message comment="Itay Shechter has shot blocked (18-yard box, Right footed, Open play)" minute="15" period="1" second="58" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="15" period="1" second="2" time="15" type="corner" type_id="6"/>
+	<message comment="Alfred N'Diaye blocks a shot" minute="14" period="1" second="59" time="14" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has shot blocked (Out of box, Right footed, Open play)" minute="14" period="1" second="59" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Michu wins a corner (To the left)" minute="13" period="1" second="10" time="13" type="corner" type_id="6"/>
+	<message comment="Craig Gardner blocks a shot" minute="13" period="1" second="8" time="13" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (18-yard box, Left footed, Open play)" minute="13" period="1" second="8" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="12" period="1" second="29" time="12" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer misses attempt (High to the right, Out of box, Right footed, Open play)" minute="10" period="1" second="51" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies misses attempt (High, Out of box, Left footed, Open play)" minute="7" period="1" second="2" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="4" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

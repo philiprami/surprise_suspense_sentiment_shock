@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2013-11-30 15:00" game_id_2="27105794" game_id_4="112055083" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-11-30 16:34:47" minute="94" period="2" second="11" team="Stoke" time="96" type="end" type_id="30"/>
+	<message comment="Asmir Begovic makes a save (Collected, Standing)" last_modified="2013-11-30 16:32:28" minute="91" period="2" second="52" team="Everton" time="93" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 16:32:28" minute="91" period="2" second="52" team="Stoke" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" last_modified="2013-11-30 16:30:15" minute="89" period="2" second="39" team="Everton" time="91" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-11-30 16:30:15" minute="89" period="2" second="39" team="Stoke" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 16:29:32" minute="88" period="2" second="56" team="Everton" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Collected)" last_modified="2013-11-30 16:29:32" minute="88" period="2" second="56" team="Stoke" time="90" type="save made" type_id="10"/>
+	<message comment="Séamus Coleman is caught offside" last_modified="2013-11-30 16:28:36" minute="88" period="2" team="Stoke" time="90" type="offside" type_id="10000"/>
+	<message comment="Asmir Begovic makes a save (Diving)" last_modified="2013-11-30 16:26:20" minute="85" period="2" second="44" team="Everton" time="87" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 16:26:20" minute="85" period="2" second="44" team="Stoke" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-11-30 16:24:36" minute="84" period="2" team="Everton" time="86" type="offside" type_id="10000"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-11-30 16:24:27" minute="83" period="2" second="51" team="Everton" time="85" type="save made" type_id="10"/>
+	<message comment="Nikica Jelavic has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-30 16:24:27" minute="83" period="2" second="51" team="Stoke" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar is substituted off" last_modified="2013-11-30 16:23:07" minute="82" period="2" second="31" team="Stoke" time="84" type="substitution off" type_id="18"/>
+	<message comment="Kevin Mirallas is substituted on" last_modified="2013-11-30 16:23:07" minute="82" period="2" second="31" team="Stoke" time="84" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku is substituted off" last_modified="2013-11-30 16:19:40" minute="79" period="2" second="4" team="Stoke" time="81" type="substitution off" type_id="18"/>
+	<message comment="Nikica Jelavic is substituted on" last_modified="2013-11-30 16:19:40" minute="79" period="2" second="4" team="Stoke" time="81" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Bryan Oviedo (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-11-30 16:18:48" minute="78" period="2" second="12" team="Stoke" time="80" type="goal scored" type_id="16"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-11-30 16:16:36" minute="76" period="2" team="Everton" time="78" type="offside" type_id="10000"/>
+	<message comment="Bryan Oviedo wins a corner (To the left)" last_modified="2013-11-30 16:15:03" minute="74" period="2" second="27" team="Stoke" time="76" type="corner" type_id="6"/>
+	<message comment="James McCarthy is substituted off" last_modified="2013-11-30 16:14:33" minute="73" period="2" second="57" team="Stoke" time="75" type="substitution off" type_id="18"/>
+	<message comment="John Stones is substituted on" last_modified="2013-11-30 16:14:33" minute="73" period="2" second="57" team="Stoke" time="75" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-11-30 16:12:55" minute="72" period="2" second="19" team="Stoke" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-11-30 16:10:15" minute="69" period="2" second="39" team="Everton" time="71" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-30 16:10:15" minute="69" period="2" second="39" team="Stoke" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Erik Pieters recieves a yellow card" last_modified="2013-11-30 16:04:06" minute="63" period="2" second="30" team="Everton" time="65" type="card received" type_id="17"/>
+	<message comment="Peter Crouch wins a corner (To the left)" last_modified="2013-11-30 16:02:37" minute="62" period="2" second="1" team="Everton" time="64" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones is caught offside" last_modified="2013-11-30 16:02:36" minute="62" period="2" team="Everton" time="64" type="offside" type_id="10000"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-11-30 16:02:35" minute="61" period="2" second="59" team="Everton" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" last_modified="2013-11-30 16:02:35" minute="61" period="2" second="59" team="Stoke" time="63" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi wins a corner (To the left)" last_modified="2013-11-30 15:59:31" minute="58" period="2" second="55" team="Everton" time="60" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters is substituted off" last_modified="2013-11-30 15:59:18" minute="58" period="2" second="42" team="Everton" time="60" type="substitution off" type_id="18"/>
+	<message comment="Brek Shea is substituted on" last_modified="2013-11-30 15:59:18" minute="58" period="2" second="42" team="Everton" time="60" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam is substituted off" last_modified="2013-11-30 15:59:10" minute="58" period="2" second="34" team="Everton" time="60" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" last_modified="2013-11-30 15:59:10" minute="58" period="2" second="34" team="Everton" time="60" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Bryan Oviedo scores , Assisted by Gerard Deulofeu (Low to the left, Out of box, Right footed, From corner)" last_modified="2013-11-30 15:58:08" minute="57" period="2" second="32" team="Stoke" time="59" type="goal scored" type_id="16"/>
+	<message comment="Gareth Barry wins a corner (To the left)" last_modified="2013-11-30 15:57:40" minute="57" period="2" second="4" team="Stoke" time="59" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger)" last_modified="2013-11-30 15:54:51" minute="54" period="2" second="15" team="Everton" time="56" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-11-30 15:54:51" minute="54" period="2" second="15" team="Stoke" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" last_modified="2013-11-30 15:54:48" minute="54" period="2" second="12" team="Stoke" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger)" last_modified="2013-11-30 15:54:48" minute="54" period="2" second="12" team="Everton" time="56" type="save made" type_id="10"/>
+	<message comment="Charlie Adam wins a corner (To the left)" last_modified="2013-11-30 15:54:15" minute="53" period="2" second="39" team="Everton" time="55" type="corner" type_id="6"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-11-30 15:52:24" minute="51" period="2" second="48" team="Everton" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" last_modified="2013-11-30 15:52:24" minute="51" period="2" second="48" team="Stoke" time="53" type="save made" type_id="10"/>
+	<message comment="GOAL! Séamus Coleman scores , Assisted by Gareth Barry (High to the left, 18-yard box, Left footed, Open play)" last_modified="2013-11-30 15:49:17" minute="48" period="2" second="41" team="Stoke" time="50" type="goal scored" type_id="16"/>
+	<message comment="Bryan Oviedo wins a corner (To the left)" last_modified="2013-11-30 15:47:17" minute="46" period="2" second="41" team="Stoke" time="48" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan recieves a yellow card" last_modified="2013-11-30 15:46:07" minute="45" period="2" second="31" team="Everton" time="47" type="card received" type_id="17"/>
+	<message comment="Second half begins!" last_modified="2013-11-30 15:45:36" minute="45" period="2" second="0" team="Stoke" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-11-30 15:46:46" minute="46" period="1" second="10" team="Stoke" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Gerard Deulofeu scores , Assisted by Gareth Barry (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" last_modified="2013-11-30 15:44:58" minute="44" period="1" second="22" team="Stoke" time="44" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" last_modified="2013-11-30 15:43:51" minute="43" period="1" second="15" team="Stoke" time="43" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Collected)" last_modified="2013-11-30 15:43:18" minute="42" period="1" second="42" team="Stoke" time="42" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 15:43:18" minute="42" period="1" second="42" team="Everton" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Geoff Cameron recieves a yellow card" last_modified="2013-11-30 15:42:18" minute="41" period="1" second="42" team="Everton" time="41" type="card received" type_id="17"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-11-30 15:42:09" minute="41" period="1" second="33" team="Everton" time="41" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-11-30 15:42:09" minute="41" period="1" second="33" team="Stoke" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" last_modified="2013-11-30 15:40:37" minute="40" period="1" second="1" team="Stoke" time="40" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-11-30 15:40:36" minute="40" period="1" second="0" team="Stoke" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Muniesa blocks a shot" last_modified="2013-11-30 15:40:36" minute="40" period="1" second="0" team="Everton" time="40" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-11-30 15:39:41" minute="39" period="1" second="5" team="Stoke" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-11-30 15:26:36" minute="26" period="1" team="Everton" time="26" type="offside" type_id="10000"/>
+	<message comment="Leon Osman has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2013-11-30 15:26:03" minute="25" period="1" second="27" team="Stoke" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" last_modified="2013-11-30 15:26:03" minute="25" period="1" second="27" team="Everton" time="25" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2013-11-30 15:25:36" minute="25" period="1" team="Stoke" time="25" type="offside" type_id="10000"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" last_modified="2013-11-30 15:25:22" minute="24" period="1" second="46" team="Stoke" time="24" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu wins a corner (To the left)" last_modified="2013-11-30 15:21:52" minute="21" period="1" second="16" team="Stoke" time="21" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" last_modified="2013-11-30 15:21:00" minute="20" period="1" second="24" team="Stoke" time="20" type="corner" type_id="6"/>
+	<message comment="James McCarthy misses attempt (Out of box, Left footed, Open play)" last_modified="2013-11-30 15:17:24" minute="16" period="1" second="48" team="Stoke" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku is caught offside" last_modified="2013-11-30 15:15:36" minute="15" period="1" team="Stoke" time="15" type="offside" type_id="10000"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-11-30 15:15:01" minute="14" period="1" second="25" team="Stoke" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger, Diving)" last_modified="2013-11-30 15:15:01" minute="14" period="1" second="25" team="Everton" time="14" type="save made" type_id="10"/>
+	<message comment="Bryan Oviedo misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-11-30 15:11:57" minute="11" period="1" second="21" team="Stoke" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Oviedo misses attempt (To the left, Out of box, Left footed, Open play)" last_modified="2013-11-30 15:09:21" minute="8" period="1" second="45" team="Stoke" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-11-30 15:00:36" minute="0" period="14" second="0" team="Stoke" time="6" type="end" type_id="30"/>
+	<message comment="Peter Crouch blocks a shot" last_modified="2013-11-30 15:03:30" minute="2" period="1" second="54" team="Everton" time="2" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has shot blocked (18-yard box, Left footed, From corner)" last_modified="2013-11-30 15:03:30" minute="2" period="1" second="54" team="Stoke" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Gerard Deulofeu wins a corner (To the left)" last_modified="2013-11-30 15:03:02" minute="2" period="1" second="26" team="Stoke" time="2" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" last_modified="2013-11-30 15:03:00" minute="2" period="1" second="24" team="Stoke" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Diving)" last_modified="2013-11-30 15:03:00" minute="2" period="1" second="24" team="Everton" time="2" type="save made" type_id="10"/>
+	<message comment="First half begins!" last_modified="2013-11-30 15:00:36" minute="0" period="1" second="0" team="Stoke" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2011-12-26" home_team_name="Fulham" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="95" type="end" type_id="30"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="91" period="2" second="46" time="93" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried safe)" minute="91" period="2" second="42" time="93" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="91" period="2" second="42" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="90" period="2" second="36" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Collected)" minute="90" period="2" second="36" time="92" type="save made" type_id="10"/>
+	<message comment="Florent Malouda wins a corner (To the right)" minute="88" period="2" second="55" time="90" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried safe, Standing)" minute="88" period="2" second="51" time="90" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="88" period="2" second="51" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save" minute="88" period="2" second="23" time="90" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="88" period="2" second="23" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="87" period="2" second="14" time="89" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the centre, 6-yard box, Head, From corner)" minute="87" period="2" second="14" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="86" period="2" second="58" time="88" type="corner" type_id="6"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="86" period="2" second="36" time="88" type="corner" type_id="6"/>
+	<message comment="David Stockdale makes a save (Parried safe, Diving)" minute="86" period="2" second="33" time="88" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="86" period="2" second="33" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami is substituted on" minute="82" period="2" second="17" time="84" type="substitution on" type_id="19"/>
+	<message comment="Orlando Sá is substituted off" minute="82" period="2" second="16" time="84" type="substitution off" type_id="18"/>
+	<message comment="José Bosingwa is substituted off" minute="80" period="2" second="27" time="82" type="substitution off" type_id="18"/>
+	<message comment="Paulo Ferreira is substituted on" minute="80" period="2" second="27" time="82" type="substitution on" type_id="19"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Diving)" minute="79" period="2" second="45" time="81" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="79" period="2" second="45" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles misses attempt (18-yard box, Right footed, Open play)" minute="78" period="2" second="28" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="75" period="2" second="34" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Parried safe)" minute="75" period="2" second="34" time="77" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge is substituted off" minute="70" period="2" second="17" time="72" type="substitution off" type_id="18"/>
+	<message comment="Didier Drogba is substituted on" minute="70" period="2" second="17" time="72" type="substitution on" type_id="19"/>
+	<message comment="José Bosingwa recieves a yellow card" minute="67" period="2" second="28" time="69" type="card received" type_id="17"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Feet)" minute="64" period="2" second="28" time="66" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the centre, 6-yard box, Big Chance, Right footed, From corner)" minute="64" period="2" second="28" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry misses attempt (18-yard box, Key pass, Head, From corner)" minute="64" period="2" second="27" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="64" period="2" second="7" time="66" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="64" period="2" second="4" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried safe)" minute="64" period="2" second="4" time="66" type="save made" type_id="10"/>
+	<message comment="Frank Lampard is substituted off" minute="61" period="2" second="10" time="63" type="substitution off" type_id="18"/>
+	<message comment="Florent Malouda is substituted on" minute="61" period="2" second="10" time="63" type="substitution on" type_id="19"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="60" period="2" second="3" time="62" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="60" period="2" second="3" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" minute="56" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="GOAL! Clint Dempsey scores , Assisted by Bryan Ruiz (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="55" period="2" second="9" time="57" type="goal scored" type_id="16"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="52" period="2" second="49" time="54" type="corner" type_id="6"/>
+	<message comment="Juan Mata wins a corner (To the right)" minute="50" period="2" second="56" time="52" type="corner" type_id="6"/>
+	<message comment="John Arne Riise blocks a shot" minute="50" period="2" second="51" time="52" type="save made" type_id="10"/>
+	<message comment="John Terry has shot blocked (18-yard box, Right footed, From corner)" minute="50" period="2" second="51" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres wins a corner (To the left)" minute="50" period="2" second="29" time="52" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland misses attempt (To the right, 18-yard box, Head, From corner)" minute="49" period="2" second="12" time="51" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="48" period="2" second="46" time="50" type="corner" type_id="6"/>
+	<message comment="GOAL! Juan Mata scores , Assisted by Fernando Torres (Low to the right, 18-yard box, Left footed, Open play)" minute="46" period="2" second="48" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Brede Hangeland blocks a shot" minute="45" period="1" second="41" time="45" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="41" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, Out of box, Left footed, Open play)" minute="44" period="1" second="56" time="44" type="attempt missed" type_id="13"/>
+	<message comment="David Stockdale makes a save" minute="43" period="1" second="42" time="43" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="43" period="1" second="42" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing, Collected)" minute="42" period="1" second="44" time="42" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="42" period="1" second="44" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Cole has shot blocked (Out of box, Left footed, Open play)" minute="39" period="1" second="14" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos blocks a shot" minute="39" period="1" second="14" time="39" type="save made" type_id="10"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="37" period="1" second="56" time="37" type="corner" type_id="6"/>
+	<message comment="Raul Meireles misses attempt (High to the left, Out of box, Left footed, Open play)" minute="32" period="1" second="35" time="32" type="attempt missed" type_id="13"/>
+	<message comment="John Terry misses attempt (To the left, 18-yard box, Head, From corner)" minute="31" period="1" second="20" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="30" period="1" second="58" time="30" type="corner" type_id="6"/>
+	<message comment="Oriol Romeu misses attempt (High to the left, Out of box, Left footed, Open play)" minute="30" period="1" second="6" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé misses attempt (To the right, Out of box, Left footed, Open play)" minute="25" period="1" second="1" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="18" period="1" second="44" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge misses attempt (To the left, Out of box, Left footed, Open play)" minute="16" period="1" second="10" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="14" period="1" second="57" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving)" minute="14" period="1" second="57" time="14" type="save made" type_id="10"/>
+	<message comment="Orlando Sá misses attempt (High, 18-yard box, Big Chance, Head, Open play)" minute="14" period="1" second="0" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="12" period="1" second="51" time="12" type="attempt missed" type_id="13"/>
+	<message comment="David Luiz blocks a shot" minute="12" period="1" second="1" time="12" type="save made" type_id="10"/>
+	<message comment="Orlando Sá has shot blocked (18-yard box, Right footed, Open play)" minute="12" period="1" second="1" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey wins a corner (To the left)" minute="8" period="1" second="35" time="8" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="8" period="1" second="32" time="8" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the left, Out of box, Right footed, Throw-in)" minute="8" period="1" second="32" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey recieves a yellow card" minute="6" period="1" second="15" time="6" type="card received" type_id="17"/>
+	<message comment="Fernando Torres misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="5" period="1" second="3" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

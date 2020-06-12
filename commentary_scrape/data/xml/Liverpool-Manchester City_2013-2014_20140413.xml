@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2014-04-13" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="31" time="98" type="end" type_id="30"/>
+	<message comment="Raheem Sterling is substituted off" minute="94" period="2" second="31" time="97" type="substitution off" type_id="18"/>
+	<message comment="Lucas Leiva is substituted on" minute="94" period="2" second="31" time="97" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson recieves a red card" minute="92" period="2" second="34" time="95" type="card received" type_id="17"/>
+	<message comment="David Silva wins a corner (To the left)" minute="90" period="2" second="6" time="93" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho is substituted off" minute="88" period="2" second="57" time="91" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="88" period="2" second="57" time="91" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri is caught offside" minute="83" period="2" time="86" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" minute="82" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="81" period="2" second="38" time="84" type="save made" type_id="10"/>
+	<message comment="Martín Demichelis has attempt saved (Low to the left, 18-yard box, Head, From corner)" minute="81" period="2" second="38" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" minute="81" period="2" second="18" time="84" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="80" period="2" second="51" time="83" type="corner" type_id="6"/>
+	<message comment="GOAL! Philippe Coutinho scores  (Low to the right, 18-yard box, Right footed, Throw-in)" minute="77" period="2" second="30" time="80" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="77" period="2" second="2" time="80" type="card received" type_id="17"/>
+	<message comment="Raheem Sterling is caught offside" minute="75" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="David Silva misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="74" period="2" second="51" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Jordan Henderson is caught offside" minute="71" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez is caught offside" minute="70" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko is substituted off" minute="67" period="2" second="30" time="70" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="67" period="2" second="30" time="70" type="substitution on" type_id="19"/>
+	<message comment="Samir Nasri misses attempt (Out of box, Right footed, Open play)" minute="66" period="2" second="37" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="65" period="2" second="59" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="65" period="2" second="59" time="68" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge is substituted off" minute="65" period="2" second="15" time="68" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="65" period="2" second="15" time="68" type="substitution on" type_id="19"/>
+	<message comment="Glen Johnson scores an OWN GOAL!  (Low to the left, 18-yard box, Right footed, Open play)" minute="61" period="2" second="53" time="64" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="60" period="2" second="31" time="63" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="59" period="2" second="54" time="62" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="59" period="2" second="23" time="62" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="23" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! David Silva scores , Assisted by James Milner (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="56" period="2" second="45" time="59" type="goal scored" type_id="16"/>
+	<message comment="Jesús Navas is substituted off" minute="49" period="2" second="50" time="52" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="49" period="2" second="50" time="52" type="substitution on" type_id="19"/>
+	<message comment="Raheem Sterling misses attempt (To the right, Out of box, Right footed, Open play)" minute="47" period="2" second="57" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="16" time="47" type="end" type_id="30"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="46" period="1" second="50" time="46" type="corner" type_id="6"/>
+	<message comment="Fernandinho recieves a yellow card" minute="45" period="1" second="30" time="45" type="card received" type_id="17"/>
+	<message comment="Fernandinho has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="45" period="1" second="1" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="45" period="1" second="1" time="45" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Head, From corner)" minute="43" period="1" second="44" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Raheem Sterling blocks a shot (Last line)" minute="43" period="1" second="44" time="43" type="save made" type_id="10"/>
+	<message comment="David Silva wins a corner (To the left)" minute="43" period="1" second="21" time="43" type="corner" type_id="6"/>
+	<message comment="David Silva misses attempt (To the left, 18-yard box, Head, Open play)" minute="43" period="1" second="16" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="41" period="1" second="19" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (To the right, Out of box, Left footed, Throw-in)" minute="40" period="1" second="30" time="40" type="attempt missed" type_id="13"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Free kick)" minute="37" period="1" second="42" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge blocks a shot" minute="37" period="1" second="42" time="37" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho wins a corner (To the right)" minute="35" period="1" second="9" time="35" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="30" period="1" second="59" time="30" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="30" period="1" second="57" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard blocks a shot" minute="30" period="1" second="57" time="30" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (To the right, 18-yard box, Head, From corner)" minute="29" period="1" second="22" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="28" period="1" second="53" time="28" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="28" period="1" second="36" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="28" period="1" second="36" time="28" type="save made" type_id="10"/>
+	<message comment="GOAL! Martin Skrtel scores , Assisted by Steven Gerrard (Low to the right, 6-yard box, Head, From corner)" minute="25" period="1" second="57" time="25" type="goal scored" type_id="16"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="25" period="1" second="27" time="25" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="25" period="1" second="24" time="25" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (High to the centre, 18-yard box, Big Chance, Head, From corner)" minute="25" period="1" second="24" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="24" period="1" second="53" time="24" type="corner" type_id="6"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="21" period="1" second="29" time="21" type="corner" type_id="6"/>
+	<message comment="Javi García recieves a yellow card" minute="20" period="1" second="30" time="20" type="card received" type_id="17"/>
+	<message comment="Yaya Touré is substituted off" minute="18" period="1" second="40" time="18" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="18" period="1" second="40" time="18" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (To the left, 18-yard box, Big Chance, Left footed, Open play)" minute="14" period="1" second="35" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (High to the right, Out of box, Right footed, Open play)" minute="13" period="1" second="35" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="7" period="1" second="11" time="7" type="corner" type_id="6"/>
+	<message comment="GOAL! Raheem Sterling scores , Assisted by Luis Suárez (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="5" period="1" second="47" time="5" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="4" period="1" second="50" time="4" type="card received" type_id="17"/>
+	<message comment="Philippe Coutinho misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="36" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

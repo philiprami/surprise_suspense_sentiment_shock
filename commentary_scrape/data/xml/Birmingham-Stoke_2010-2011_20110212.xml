@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Birmingham" competition="English Premier League" game_date="2011-02-12" home_team_name="Stoke" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="3" time="97" type="end" type_id="30"/>
+	<message comment="GOAL! Nikola Zigic scores  (Low to the centre, 6-yard box, Big Chance, Head, Set piece)" minute="92" period="2" second="36" time="94" type="goal scored" type_id="16"/>
+	<message comment="Asmir Begovic makes a save (Parried into danger, Diving)" minute="92" period="2" second="30" time="94" type="save made" type_id="10"/>
+	<message comment="David Bentley has attempt saved (Low to the left, 18-yard box, Right footed, Set piece)" minute="92" period="2" second="30" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Rory Delap wins a corner (To the right)" minute="89" period="2" second="9" time="91" type="corner" type_id="6"/>
+	<message comment="Ricardo Fuller misses attempt (High to the right, Out of box, Right footed, Open play)" minute="81" period="2" second="37" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones is substituted off" minute="80" period="2" second="56" time="82" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Fuller is substituted on" minute="80" period="2" second="56" time="82" type="substitution on" type_id="19"/>
+	<message comment="Roger Johnson misses attempt (To the left, Out of box, Right footed, Open play)" minute="79" period="2" second="59" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant is substituted off" minute="78" period="2" second="9" time="80" type="substitution off" type_id="18"/>
+	<message comment="Glenn Whelan is substituted on" minute="78" period="2" second="9" time="80" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome misses attempt (To the left, Out of box, Right footed, Open play)" minute="77" period="2" second="31" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Obafemi Martins is substituted off" minute="75" period="2" second="13" time="77" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="75" period="2" second="13" time="77" type="substitution on" type_id="19"/>
+	<message comment="Jermaine Pennant wins a corner (To the left)" minute="73" period="2" second="56" time="75" type="corner" type_id="6"/>
+	<message comment="Martin Jiranek recieves a yellow card" minute="73" period="2" second="38" time="75" type="card received" type_id="17"/>
+	<message comment="John Carew has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="71" period="2" second="14" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Collected)" minute="71" period="2" second="14" time="73" type="save made" type_id="10"/>
+	<message comment="Jermaine Pennant misses attempt (High, Out of box, Right footed, Free kick)" minute="69" period="2" second="47" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Marc Wilson misses attempt (High, Out of box, Right footed, Open play)" minute="67" period="2" second="18" time="69" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley wins a corner (To the left)" minute="66" period="2" second="10" time="68" type="corner" type_id="6"/>
+	<message comment="Robert Huth blocks a shot" minute="66" period="2" second="7" time="68" type="save made" type_id="10"/>
+	<message comment="David Bentley has shot blocked (18-yard box, Right footed, Open play)" minute="66" period="2" second="7" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth misses attempt (18-yard box, Left footed, Throw-in)" minute="64" period="2" second="2" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones misses attempt (High to the right, Out of box, Right footed, Open play)" minute="62" period="2" second="37" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones has shot blocked (18-yard box, Right footed, Open play)" minute="62" period="2" second="36" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="62" period="2" second="36" time="64" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="59" period="2" second="0" time="61" type="corner" type_id="6"/>
+	<message comment="John Carew misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="58" period="2" second="24" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jermaine Pennant wins a corner (To the right)" minute="55" period="2" second="41" time="57" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson misses attempt (Out of box, Left footed, Fast break)" minute="54" period="2" second="6" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="Ben Foster makes a save" minute="45" period="1" second="26" time="45" type="save made" type_id="10"/>
+	<message comment="John Carew has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="45" period="1" second="26" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters wins a corner (To the right)" minute="44" period="1" second="26" time="44" type="corner" type_id="6"/>
+	<message comment="David Bentley misses attempt (Out of box, Right footed, Open play)" minute="40" period="1" second="26" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="36" period="1" second="47" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Collected, Diving)" minute="36" period="1" second="47" time="36" type="save made" type_id="10"/>
+	<message comment="Robert Huth misses attempt (High, 18-yard box, Head, Throw-in)" minute="35" period="1" second="11" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Rory Delap misses attempt (High, Out of box, Right footed, Open play)" minute="33" period="1" second="3" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Collected)" minute="31" period="1" second="1" time="31" type="save made" type_id="10"/>
+	<message comment="Craig Gardner has attempt saved (Low to the centre, Out of box, Right footed, Fast break)" minute="31" period="1" second="1" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Pennant misses attempt (Out of box, Right footed, Free kick)" minute="29" period="1" second="17" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" minute="27" period="1" second="30" time="27" type="corner" type_id="6"/>
+	<message comment="Kenwyne Jones has shot blocked (Out of box, Left footed, Open play)" minute="27" period="1" second="28" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="27" period="1" second="28" time="27" type="save made" type_id="10"/>
+	<message comment="John Carew has shot blocked (18-yard box, Left footed, Open play)" minute="26" period="1" second="57" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="26" period="1" second="57" time="26" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="16" period="1" second="43" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="16" period="1" second="43" time="16" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="16" period="1" second="3" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Collected, Standing)" minute="16" period="1" second="3" time="16" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="5" period="1" second="58" time="5" type="corner" type_id="6"/>
+	<message comment="Nikola Zigic misses attempt (High to the left, 18-yard box, Head, Open play)" minute="2" period="1" second="58" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

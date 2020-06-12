@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2012-03-24" home_team_name="Manchester City" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="22" time="99" type="end" type_id="30"/>
+	<message comment="Yaya Touré recieves a yellow card" minute="94" period="2" second="2" time="98" type="card received" type_id="17"/>
+	<message comment="Marc Wilson wins a corner (To the left)" minute="92" period="2" second="23" time="96" type="corner" type_id="6"/>
+	<message comment="Peter Crouch is substituted off" minute="91" period="2" second="37" time="95" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="91" period="2" second="37" time="95" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré misses attempt (High, Out of box, Left footed, Open play)" minute="91" period="2" second="6" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Wilson Palacios misses attempt (Out of box, Right footed, Open play)" minute="89" period="2" second="37" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Andy Wilkinson blocks a shot" minute="88" period="2" second="2" time="92" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="88" period="2" second="2" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth blocks a shot" minute="87" period="2" second="59" time="91" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="87" period="2" second="59" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Wilkinson wins a corner (To the right)" minute="85" period="2" second="43" time="89" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross misses attempt (High, 6-yard box, Head, From corner)" minute="83" period="2" second="56" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta is substituted off" minute="83" period="2" second="45" time="87" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="83" period="2" second="45" time="87" type="substitution on" type_id="19"/>
+	<message comment="Wilson Palacios wins a corner (To the left)" minute="83" period="2" second="13" time="87" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington is substituted off" minute="80" period="2" second="32" time="84" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" minute="80" period="2" second="32" time="84" type="substitution on" type_id="19"/>
+	<message comment="Glenn Whelan misses attempt (High to the right, Out of box, Right footed, Open play)" minute="78" period="2" second="31" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save (Standing)" minute="76" period="2" second="55" time="80" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="76" period="2" second="55" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by Gaël Clichy (High to the left, Out of box, Right footed, Open play)" minute="75" period="2" second="34" time="79" type="goal scored" type_id="16"/>
+	<message comment="Gareth Barry is substituted off" minute="73" period="2" second="30" time="77" type="substitution off" type_id="18"/>
+	<message comment="Carlos Tevez is substituted on" minute="73" period="2" second="30" time="77" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters misses attempt (High to the right, Out of box, Right footed, Open play)" minute="72" period="2" second="47" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save" minute="71" period="2" second="16" time="75" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="71" period="2" second="16" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Johnson wins a corner (To the left)" minute="68" period="2" second="59" time="72" type="corner" type_id="6"/>
+	<message comment="Marc Wilson recieves a yellow card" minute="64" period="2" second="25" time="68" type="card received" type_id="17"/>
+	<message comment="David Silva is substituted off" minute="61" period="2" second="55" time="65" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="61" period="2" second="55" time="65" type="substitution on" type_id="19"/>
+	<message comment="David Silva misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="59" period="2" second="52" time="63" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Peter Crouch scores , Assisted by Jermaine Pennant (High to the left, Out of box, Right footed, Open play)" minute="58" period="2" second="1" time="62" type="goal scored" type_id="16"/>
+	<message comment="Mario Balotelli wins a corner (To the left)" minute="55" period="2" second="13" time="59" type="corner" type_id="6"/>
+	<message comment="Dean Whitehead blocks a shot" minute="55" period="2" second="9" time="59" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (Out of box, Right footed, Free kick)" minute="55" period="2" second="9" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Jermaine Pennant is caught offside" minute="53" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome is substituted off" minute="50" period="2" second="36" time="54" type="substitution off" type_id="18"/>
+	<message comment="Jermaine Pennant is substituted on" minute="50" period="2" second="36" time="54" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross has attempt saved (High to the centre, 6-yard box, Head, From corner)" minute="50" period="2" second="3" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing, Parried safe)" minute="50" period="2" second="3" time="54" type="save made" type_id="10"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="49" period="2" second="32" time="53" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Diving, Collected)" minute="46" period="2" second="59" time="50" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="46" period="2" second="59" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="45" period="2" second="42" time="49" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Feet, Diving)" minute="45" period="2" second="36" time="49" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="45" period="2" second="36" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="10" time="48" type="end" type_id="30"/>
+	<message comment="Asmir Begovic makes a save (Collected, Diving)" minute="43" period="1" second="42" time="43" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="43" period="1" second="42" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="40" period="1" second="19" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross has shot blocked (6-yard box, Big Chance, Head, From corner)" minute="40" period="1" second="13" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot (Last line)" minute="40" period="1" second="13" time="40" type="save made" type_id="10"/>
+	<message comment="Peter Crouch wins a corner (To the right)" minute="39" period="1" second="42" time="39" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington has shot blocked (Out of box, Left footed, Set piece)" minute="38" period="1" second="44" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="37" period="1" second="59" time="37" type="card received" type_id="17"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="34" period="1" second="25" time="34" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (High to the right, 18-yard box, Big Chance, Head, Open play)" minute="32" period="1" second="44" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome misses attempt (High to the right, 18-yard box, Head, Open play)" minute="31" period="1" second="7" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Head, Open play)" minute="27" period="1" second="33" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (High, Out of box, Right footed, Open play)" minute="20" period="1" second="27" time="20" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the right)" minute="19" period="1" second="20" time="19" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="18" period="1" second="50" time="18" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan blocks a shot" minute="18" period="1" second="48" time="18" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta has shot blocked (18-yard box, Left footed, Open play)" minute="18" period="1" second="48" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters misses attempt (To the left, Out of box, Right footed, Open play)" minute="15" period="1" second="59" time="15" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the left)" minute="14" period="1" second="19" time="14" type="corner" type_id="6"/>
+	<message comment="Dean Whitehead blocks a shot" minute="14" period="1" second="16" time="14" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="14" period="1" second="16" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

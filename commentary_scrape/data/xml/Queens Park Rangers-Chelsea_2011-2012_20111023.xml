@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Queens Park Rangers" competition="English Premier League" game_date="2011-10-23" home_team_name="Chelsea2" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="8" time="98" type="end" type_id="30"/>
+	<message comment="John Terry recieves a yellow card" minute="89" period="2" second="7" time="92" type="card received" type_id="17"/>
+	<message comment="Heidar Helguson is caught offside" minute="88" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Shaun Wright-Phillips misses attempt (High to the right, Out of box, Right footed, Open play)" minute="86" period="2" second="21" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (18-yard box, Right footed, Open play)" minute="86" period="2" second="8" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="86" period="2" second="8" time="89" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (18-yard box, Right footed, Open play)" minute="82" period="2" second="18" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Mackie is substituted on" minute="81" period="2" second="28" time="84" type="substitution on" type_id="19"/>
+	<message comment="Shaun Derry is substituted off" minute="81" period="2" second="28" time="84" type="substitution off" type_id="18"/>
+	<message comment="Paddy Kenny makes a save (Standing)" minute="79" period="2" second="28" time="82" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has attempt saved (High to the centre, 6-yard box, Big Chance, Head, Open play)" minute="79" period="2" second="28" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Heidar Helguson misses attempt (High, 6-yard box, Big Chance, Left footed, Set piece)" minute="76" period="2" second="1" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole recieves a yellow card" minute="75" period="2" second="27" time="78" type="card received" type_id="17"/>
+	<message comment="Raul Meireles is substituted off" minute="71" period="2" second="58" time="74" type="substitution off" type_id="18"/>
+	<message comment="Florent Malouda is substituted on" minute="71" period="2" second="58" time="74" type="substitution on" type_id="19"/>
+	<message comment="Raul Meireles recieves a yellow card" minute="71" period="2" second="24" time="74" type="card received" type_id="17"/>
+	<message comment="Joey Barton misses attempt (Out of box, Right footed, Fast break)" minute="71" period="2" second="21" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Paddy Kenny makes a save (Standing)" minute="71" period="2" second="7" time="74" type="save made" type_id="10"/>
+	<message comment="John Terry has attempt saved (High to the right, 18-yard box, Left footed, Throw-in)" minute="71" period="2" second="7" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz recieves a yellow card" minute="69" period="2" second="10" time="72" type="card received" type_id="17"/>
+	<message comment="Tommy Smith is caught offside" minute="67" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Fitz Hall blocks a shot" minute="66" period="2" second="47" time="69" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (Out of box, Left footed, Open play)" minute="66" period="2" second="47" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="66" period="2" second="4" time="69" type="save made" type_id="10"/>
+	<message comment="Tommy Smith has shot blocked (18-yard box, Right footed, Open play)" minute="66" period="2" second="4" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Tommy Smith is caught offside" minute="62" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Adel Taarabt is substituted off" minute="61" period="2" second="6" time="64" type="substitution off" type_id="18"/>
+	<message comment="Tommy Smith is substituted on" minute="61" period="2" second="6" time="64" type="substitution on" type_id="19"/>
+	<message comment="Ashley Cole wins a corner (To the left)" minute="60" period="2" second="13" time="63" type="corner" type_id="6"/>
+	<message comment="Joey Barton recieves a yellow card" minute="58" period="2" second="48" time="61" type="card received" type_id="17"/>
+	<message comment="Heidar Helguson is caught offside" minute="58" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="57" period="2" second="36" time="60" type="card received" type_id="17"/>
+	<message comment="John Terry misses attempt (High to the right, Out of box, Right footed, Open play)" minute="55" period="2" second="50" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Luke Young misses attempt (18-yard box, Right footed, Open play)" minute="53" period="2" second="55" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Derry recieves a yellow card" minute="52" period="2" second="4" time="55" type="card received" type_id="17"/>
+	<message comment="Shaun Wright-Phillips is caught offside" minute="52" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="51" period="2" second="57" time="54" type="card received" type_id="17"/>
+	<message comment="Alejandro Faurlin has shot blocked (Out of box, Left footed, Free kick)" minute="50" period="2" second="27" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard blocks a shot" minute="50" period="2" second="27" time="53" type="save made" type_id="10"/>
+	<message comment="John Obi Mikel recieves a yellow card" minute="49" period="2" second="39" time="52" type="card received" type_id="17"/>
+	<message comment="Frank Lampard wins a corner (To the right)" minute="48" period="2" second="59" time="51" type="corner" type_id="6"/>
+	<message comment="Luke Young blocks a shot" minute="48" period="2" second="57" time="51" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (18-yard box, Right footed, Open play)" minute="48" period="2" second="57" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard wins a corner (To the left)" minute="46" period="2" second="24" time="49" type="corner" type_id="6"/>
+	<message comment="Luke Young blocks a shot" minute="46" period="2" second="22" time="49" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (18-yard box, Head, Open play)" minute="46" period="2" second="22" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="27" time="47" type="end" type_id="30"/>
+	<message comment="Juan Mata is substituted off" minute="46" period="1" second="29" time="46" type="substitution off" type_id="18"/>
+	<message comment="Nicolas Anelka is substituted on" minute="46" period="1" second="29" time="46" type="substitution on" type_id="19"/>
+	<message comment="Shaun Wright-Phillips is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Didier Drogba recieves a red card" minute="40" period="1" second="38" time="40" type="card received" type_id="17"/>
+	<message comment="Raul Meireles misses attempt (Out of box, Right footed, Open play)" minute="38" period="1" second="22" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is substituted off" minute="35" period="1" second="47" time="35" type="substitution off" type_id="18"/>
+	<message comment="Branislav Ivanovic is substituted on" minute="35" period="1" second="47" time="35" type="substitution on" type_id="19"/>
+	<message comment="Adel Taarabt has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="33" period="1" second="26" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Standing)" minute="33" period="1" second="26" time="33" type="save made" type_id="10"/>
+	<message comment="José Bosingwa recieves a red card" minute="32" period="1" second="18" time="32" type="card received" type_id="17"/>
+	<message comment="Shaun Wright-Phillips misses attempt (High to the right, Out of box, Right footed, Open play)" minute="31" period="1" second="8" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba misses attempt (To the right, Out of box, Right footed, Open play)" minute="23" period="1" second="49" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Alejandro Faurlin blocks a shot" minute="22" period="1" second="41" time="22" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (18-yard box, Head, From corner)" minute="22" period="1" second="41" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="22" period="1" second="15" time="22" type="corner" type_id="6"/>
+	<message comment="Ashley Cole misses attempt (Out of box, Left footed, Open play)" minute="19" period="1" second="56" time="19" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="16" period="1" second="23" time="16" type="corner" type_id="6"/>
+	<message comment="Frank Lampard misses attempt (High, Out of box, Right footed, From corner)" minute="14" period="1" second="9" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="13" period="1" second="44" time="13" type="corner" type_id="6"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" minute="13" period="1" second="43" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Hill blocks a shot" minute="13" period="1" second="43" time="13" type="save made" type_id="10"/>
+	<message comment="GOAL! Heidar Helguson scores  (High to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="9" period="1" second="3" time="9" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="0" period="1" second="59" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

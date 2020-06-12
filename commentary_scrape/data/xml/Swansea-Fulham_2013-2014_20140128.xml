@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-01-28" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="5" time="96" type="end" type_id="30"/>
+	<message comment="Muamer Tankovic misses attempt (High, 18-yard box, Head, From corner)" minute="93" period="2" second="31" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Kacaniklic wins a corner (To the right)" minute="93" period="2" second="10" time="95" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony recieves a yellow card" minute="90" period="2" second="49" time="92" type="card received" type_id="17"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="89" period="2" second="39" time="91" type="corner" type_id="6"/>
+	<message comment="Darren Bent has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="37" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" minute="89" period="2" second="37" time="91" type="save made" type_id="10"/>
+	<message comment="Alexander Kacaniklic is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán is substituted off" minute="87" period="2" second="12" time="89" type="substitution off" type_id="18"/>
+	<message comment="Alejandro Pozuelo is substituted on" minute="87" period="2" second="12" time="89" type="substitution on" type_id="19"/>
+	<message comment="Dan Burn misses attempt (To the right, 18-yard box, Head, From corner)" minute="86" period="2" second="0" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Muamer Tankovic wins a corner (To the left)" minute="85" period="2" second="39" time="87" type="corner" type_id="6"/>
+	<message comment="Alexander Kacaniklic misses attempt (High, Out of box, Left footed, Open play)" minute="84" period="2" second="23" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is substituted off" minute="82" period="2" second="21" time="84" type="substitution off" type_id="18"/>
+	<message comment="Muamer Tankovic is substituted on" minute="82" period="2" second="21" time="84" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="79" period="2" second="43" time="81" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="78" period="2" second="54" time="80" type="substitution off" type_id="18"/>
+	<message comment="Jordi Amat is substituted on" minute="78" period="2" second="54" time="80" type="substitution on" type_id="19"/>
+	<message comment="Dimitar Berbatov misses attempt (High, 6-yard box, Head, Set piece)" minute="78" period="2" second="8" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Dan Burn wins a corner (To the left)" minute="77" period="2" second="2" time="79" type="corner" type_id="6"/>
+	<message comment="GOAL! Chico Flores scores , Assisted by Jonathan de Guzmán (Low to the right, 6-yard box, Head, Set piece)" minute="74" period="2" second="59" time="76" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson recieves a yellow card" minute="74" period="2" second="32" time="76" type="card received" type_id="17"/>
+	<message comment="Clint Dempsey is substituted off" minute="70" period="2" second="12" time="72" type="substitution off" type_id="18"/>
+	<message comment="Damien Duff is substituted on" minute="70" period="2" second="12" time="72" type="substitution on" type_id="19"/>
+	<message comment="Darren Bent is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" minute="68" period="2" second="2" time="70" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="68" period="2" second="0" time="70" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="68" period="2" second="0" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey misses attempt (High to the left, Out of box, Left footed, Open play)" minute="64" period="2" second="24" time="66" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonjo Shelvey scores , Assisted by Nathan Dyer (Low to the right, Out of box, Right footed, Open play)" minute="60" period="2" second="29" time="62" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey misses attempt (Out of box, Right footed, Open play)" minute="58" period="2" second="56" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is substituted on" minute="58" period="2" second="4" time="60" type="substitution on" type_id="19"/>
+	<message comment="Ashkan Dejagah is substituted off" minute="58" period="2" second="3" time="60" type="substitution off" type_id="18"/>
+	<message comment="Pablo Hernández is substituted off" minute="57" period="2" second="32" time="59" type="substitution off" type_id="18"/>
+	<message comment="Nathan Dyer is substituted on" minute="57" period="2" second="32" time="59" type="substitution on" type_id="19"/>
+	<message comment="Alexander Kacaniklic has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="56" period="2" second="35" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Standing)" minute="56" period="2" second="35" time="58" type="save made" type_id="10"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected, Diving)" minute="56" period="2" second="4" time="58" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="56" period="2" second="4" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" minute="54" period="2" second="56" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Chico Flores has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="51" period="2" second="50" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="51" period="2" second="50" time="53" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="51" period="2" second="29" time="53" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Dan Burn has shot blocked (18-yard box, Head, From corner)" minute="43" period="1" second="35" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony blocks a shot" minute="43" period="1" second="35" time="43" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="43" period="1" second="4" time="43" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="43" period="1" second="2" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried safe, Diving)" minute="43" period="1" second="2" time="43" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="41" period="1" second="17" time="41" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="40" period="1" second="24" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected, Standing)" minute="40" period="1" second="24" time="40" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="39" period="1" second="53" time="39" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" minute="39" period="1" second="50" time="39" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (Out of box, Right footed, Open play)" minute="39" period="1" second="50" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey hits the woodwork (High, Out of box, Right footed, Open play)" minute="39" period="1" second="43" time="39" type="woodwork hit" type_id="14"/>
+	<message comment="Clint Dempsey misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="35" period="1" second="5" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" minute="34" period="1" second="39" time="34" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="32" period="1" second="18" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried into danger, Standing)" minute="32" period="1" second="18" time="32" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="31" period="1" second="46" time="31" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has shot blocked (18-yard box, Right footed, Open play)" minute="31" period="1" second="45" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="31" period="1" second="45" time="31" type="save made" type_id="10"/>
+	<message comment="Ashkan Dejagah has attempt saved (Low to the centre, 18-yard box, Big Chance, Head, Fast break)" minute="30" period="1" second="23" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Collected, Diving)" minute="30" period="1" second="23" time="30" type="save made" type_id="10"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="24" period="1" second="11" time="24" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="24" period="1" second="11" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Kieran Richardson misses attempt (To the left, Out of box, Left footed, From corner)" minute="21" period="1" second="3" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah wins a corner (To the right)" minute="20" period="1" second="38" time="20" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland misses attempt (High, 18-yard box, Big Chance, Head, Set piece)" minute="19" period="1" second="47" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams misses attempt (To the left, 6-yard box, Right footed, Set piece)" minute="17" period="1" second="10" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (High, 18-yard box, Right footed, Open play)" minute="13" period="1" second="3" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony misses attempt (18-yard box, Head, Open play)" minute="10" period="1" second="59" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

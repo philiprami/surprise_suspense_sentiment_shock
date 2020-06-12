@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-01-19" home_team_name="Fulham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="7" time="96" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Big Chance, Right footed, Fast break)" minute="92" period="2" second="46" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero misses attempt (18-yard box, Right footed, Fast break)" minute="90" period="2" second="3" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Gaël Clichy is caught offside" minute="90" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="David Silva is substituted off" minute="88" period="2" second="9" time="90" type="substitution off" type_id="18"/>
+	<message comment="Joleon Lescott is substituted on" minute="88" period="2" second="9" time="90" type="substitution on" type_id="19"/>
+	<message comment="James Milner misses attempt (Out of box, Right footed, Open play)" minute="87" period="2" second="32" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="41" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Big Chance, Left footed, Open play)" minute="85" period="2" second="10" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot (Last line)" minute="85" period="2" second="10" time="87" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (Out of box, Right footed, Open play)" minute="83" period="2" second="12" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez is substituted off" minute="80" period="2" second="54" time="82" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="80" period="2" second="54" time="82" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Left footed, Fast break)" minute="77" period="2" second="51" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Mark Schwarzer makes a save (Diving, From shot off target, Collected)" minute="75" period="2" second="20" time="77" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Open play)" minute="75" period="2" second="19" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah is substituted off" minute="72" period="2" second="24" time="74" type="substitution off" type_id="18"/>
+	<message comment="Mladen Petric is substituted on" minute="72" period="2" second="24" time="74" type="substitution on" type_id="19"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="71" period="2" second="59" time="73" type="corner" type_id="6"/>
+	<message comment="Gaël Clichy is caught offside" minute="70" period="2" time="72" type="offside" type_id="10000"/>
+	<message comment="David Silva misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="69" period="2" second="41" time="71" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! David Silva scores , Assisted by Carlos Tevez (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="68" period="2" second="24" time="70" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson is substituted off" minute="66" period="2" second="34" time="68" type="substitution off" type_id="18"/>
+	<message comment="Matthew Briggs is substituted on" minute="66" period="2" second="34" time="68" type="substitution on" type_id="19"/>
+	<message comment="Javi García recieves a yellow card" minute="64" period="2" second="14" time="66" type="card received" type_id="17"/>
+	<message comment="Pablo Zabaleta is substituted off" minute="63" period="2" second="3" time="65" type="substitution off" type_id="18"/>
+	<message comment="Samir Nasri is substituted on" minute="63" period="2" second="3" time="65" type="substitution on" type_id="19"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Key pass, Head, From corner)" minute="59" period="2" second="16" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 6-yard box, Right footed, From corner)" minute="59" period="2" second="15" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Standing, Parried safe)" minute="59" period="2" second="15" time="61" type="save made" type_id="10"/>
+	<message comment="David Silva wins a corner (To the right)" minute="57" period="2" second="32" time="59" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson recieves a yellow card" minute="55" period="2" second="49" time="57" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez misses attempt (High, Out of box, Right footed, Open play)" minute="52" period="2" second="49" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell misses attempt (To the left, Out of box, Left footed, Open play)" minute="46" period="2" second="57" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="3" time="46" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (18-yard box, Right footed, Open play)" minute="45" period="1" second="28" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell hits the woodwork (To the left, 6-yard box, Other body part, Open play)" minute="30" period="1" second="45" time="30" type="woodwork hit" type_id="14"/>
+	<message comment="Brede Hangeland blocks a shot" minute="30" period="1" second="11" time="30" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="30" period="1" second="11" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="24" period="1" second="29" time="24" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Free kick)" minute="24" period="1" second="29" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Giorgos Karagounis recieves a yellow card" minute="23" period="1" second="4" time="23" type="card received" type_id="17"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="20" period="1" second="36" time="20" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="19" period="1" second="49" time="19" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="19" period="1" second="49" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="15" period="1" second="36" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Standing, Collected)" minute="15" period="1" second="36" time="15" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! David Silva scores  (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="1" period="1" second="36" time="1" type="goal scored" type_id="16"/>
+	<message comment="Mark Schwarzer makes a save (Parried into danger, Diving)" minute="1" period="1" second="33" time="1" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="1" period="1" second="33" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

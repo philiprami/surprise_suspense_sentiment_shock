@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2011-02-06" home_team_name="Liverpool" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="30" time="96" type="end" type_id="30"/>
+	<message comment="Salomon Kalou misses attempt (High, 18-yard box, Head, Open play)" minute="86" period="2" second="31" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (High to the right, Out of box, Right footed, Open play)" minute="84" period="2" second="45" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Raul Meireles is substituted off" minute="83" period="2" second="15" time="85" type="substitution off" type_id="18"/>
+	<message comment="Christian Poulsen is substituted on" minute="83" period="2" second="15" time="85" type="substitution on" type_id="19"/>
+	<message comment="Dirk Kuyt is caught offside" minute="82" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Fábio Aurélio wins a corner (To the left)" minute="80" period="2" second="32" time="82" type="corner" type_id="6"/>
+	<message comment="Fábio Aurélio has attempt saved (High to the centre, 18-yard box, Right footed, Fast break)" minute="80" period="2" second="28" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="80" period="2" second="28" time="82" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard blocks a shot" minute="76" period="2" second="59" time="78" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Throw-in)" minute="76" period="2" second="59" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez is substituted off" minute="74" period="2" second="39" time="76" type="substitution off" type_id="18"/>
+	<message comment="Fábio Aurélio is substituted on" minute="74" period="2" second="39" time="76" type="substitution on" type_id="19"/>
+	<message comment="Salomon Kalou is caught offside" minute="74" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Raul Meireles blocks a shot" minute="73" period="2" second="58" time="75" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="58" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Lucas Leiva recieves a yellow card" minute="73" period="2" second="17" time="75" type="card received" type_id="17"/>
+	<message comment="Raul Meireles has shot blocked (18-yard box, Right footed, Open play)" minute="73" period="2" second="5" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz blocks a shot" minute="73" period="2" second="5" time="75" type="save made" type_id="10"/>
+	<message comment="José Bosingwa is substituted off" minute="72" period="2" second="30" time="74" type="substitution off" type_id="18"/>
+	<message comment="David Luiz is substituted on" minute="72" period="2" second="30" time="74" type="substitution on" type_id="19"/>
+	<message comment="José Bosingwa misses attempt (High to the right, Out of box, Right footed, Open play)" minute="72" period="2" second="4" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="71" period="2" second="58" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Pepe Reina makes a save (Standing, Parried into danger)" minute="71" period="2" second="54" time="73" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="71" period="2" second="54" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel is substituted off" minute="71" period="2" second="0" time="73" type="substitution off" type_id="18"/>
+	<message comment="Florent Malouda is substituted on" minute="71" period="2" second="0" time="73" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Raul Meireles scores , Assisted by Steven Gerrard (High to the left, 18-yard box, Left footed, Open play)" minute="68" period="2" second="28" time="70" type="goal scored" type_id="16"/>
+	<message comment="Michael Essien misses attempt (Out of box, Left footed, Open play)" minute="66" period="2" second="37" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is substituted off" minute="65" period="2" second="17" time="67" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="65" period="2" second="17" time="67" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka misses attempt (Out of box, Right footed, Open play)" minute="64" period="2" second="40" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Cole misses attempt (Out of box, Left footed, Open play)" minute="57" period="2" second="23" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic misses attempt (High, 18-yard box, Head, From corner)" minute="54" period="2" second="56" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="54" period="2" second="37" time="56" type="corner" type_id="6"/>
+	<message comment="Lucas Leiva blocks a shot" minute="54" period="2" second="33" time="56" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="33" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Nicolas Anelka misses attempt (6-yard box, Head, From corner)" minute="53" period="2" second="43" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="53" period="2" second="24" time="55" type="corner" type_id="6"/>
+	<message comment="Jamie Carragher blocks a shot" minute="53" period="2" second="22" time="55" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Left footed, Open play)" minute="53" period="2" second="22" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Glen Johnson misses attempt (Out of box, Right footed, Open play)" minute="52" period="2" second="42" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba misses attempt (18-yard box, Right footed, Open play)" minute="46" period="2" second="19" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="1" time="46" type="end" type_id="30"/>
+	<message comment="Branislav Ivanovic misses attempt (To the left, 18-yard box, Head, From corner)" minute="35" period="1" second="26" time="35" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="34" period="1" second="22" time="34" type="corner" type_id="6"/>
+	<message comment="Maxi Rodríguez hits the woodwork (High, 6-yard box, Big Chance, Right footed, Open play)" minute="32" period="1" second="19" time="32" type="woodwork hit" type_id="14"/>
+	<message comment="Steven Gerrard misses attempt (To the right, 18-yard box, Key pass, Left footed, Open play)" minute="32" period="1" second="18" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson has shot blocked (18-yard box, Right footed, Open play)" minute="32" period="1" second="16" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien blocks a shot" minute="32" period="1" second="16" time="32" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="31" period="1" second="19" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected)" minute="31" period="1" second="19" time="31" type="save made" type_id="10"/>
+	<message comment="Jamie Carragher blocks a shot" minute="30" period="1" second="27" time="30" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="30" period="1" second="27" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard wins a corner (To the left)" minute="28" period="1" second="42" time="28" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic misses attempt (To the right, 6-yard box, Head, From corner)" minute="26" period="1" second="49" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="26" period="1" second="28" time="26" type="corner" type_id="6"/>
+	<message comment="Dirk Kuyt wins a corner (To the right)" minute="17" period="1" second="58" time="17" type="corner" type_id="6"/>
+	<message comment="Didier Drogba has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="28" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Dirk Kuyt is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Nicolas Anelka is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres misses attempt (High, Out of box, Right footed, Open play)" minute="1" period="1" second="30" time="1" type="attempt missed" type_id="13"/>
+	<message comment="John Obi Mikel recieves a yellow card" minute="0" period="1" second="32" time="0" type="card received" type_id="17"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

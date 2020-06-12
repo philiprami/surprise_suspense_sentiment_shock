@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2010-08-14" home_team_name="Manchester City" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="96" type="end" type_id="30"/>
+	<message comment="Roman Pavlyuchenko is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Roman Pavlyuchenko misses attempt (Out of box, Left footed, From corner)" minute="87" period="2" second="51" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Luka Modric wins a corner (To the right)" minute="87" period="2" second="31" time="89" type="corner" type_id="6"/>
+	<message comment="Luka Modric has shot blocked (Out of box, Right footed, Open play)" minute="87" period="2" second="29" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="87" period="2" second="29" time="89" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has shot blocked (18-yard box, Right footed, Fast break)" minute="85" period="2" second="26" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot (Last line)" minute="85" period="2" second="26" time="87" type="save made" type_id="10"/>
+	<message comment="Gareth Bale misses attempt (To the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="83" period="2" second="23" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez is substituted off" minute="82" period="2" second="47" time="84" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Adebayor is substituted on" minute="82" period="2" second="47" time="84" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Open play)" minute="79" period="2" second="48" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Ledley King blocks a shot" minute="79" period="2" second="48" time="81" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon is substituted off" minute="76" period="2" second="47" time="78" type="substitution off" type_id="18"/>
+	<message comment="Giovani dos Santos is substituted on" minute="76" period="2" second="47" time="78" type="substitution on" type_id="19"/>
+	<message comment="Aaron Lennon has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="75" period="2" second="57" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="75" period="2" second="57" time="77" type="save made" type_id="10"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="73" period="2" second="43" time="75" type="corner" type_id="6"/>
+	<message comment="Adam Johnson misses attempt (High, Out of box, Left footed, Open play)" minute="72" period="2" second="35" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Roman Pavlyuchenko has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="71" period="2" second="45" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Collected, Diving)" minute="71" period="2" second="45" time="73" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="71" period="2" second="34" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Collected, Diving)" minute="71" period="2" second="34" time="73" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="70" period="2" second="53" time="72" type="corner" type_id="6"/>
+	<message comment="Ledley King blocks a shot" minute="70" period="2" second="51" time="72" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Open play)" minute="70" period="2" second="51" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="68" period="2" second="24" time="70" type="corner" type_id="6"/>
+	<message comment="Robbie Keane is substituted on" minute="67" period="2" second="50" time="69" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch is substituted off" minute="67" period="2" second="49" time="69" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted off" minute="67" period="2" second="38" time="69" type="substitution off" type_id="18"/>
+	<message comment="Roman Pavlyuchenko is substituted on" minute="67" period="2" second="38" time="69" type="substitution on" type_id="19"/>
+	<message comment="Shaun Wright-Phillips is substituted off" minute="67" period="2" second="13" time="69" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="67" period="2" second="13" time="69" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch misses attempt (18-yard box, Head, Open play)" minute="61" period="2" second="50" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Heurelho Gomes makes a save (Standing)" minute="61" period="2" second="21" time="63" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="61" period="2" second="21" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Ledley King blocks a shot" minute="61" period="2" second="2" time="63" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Left footed, Open play)" minute="61" period="2" second="2" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="59" period="2" second="49" time="61" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="55" period="2" second="31" time="57" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" minute="53" period="2" second="42" time="55" type="corner" type_id="6"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="53" period="2" second="40" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" minute="53" period="2" second="40" time="55" type="save made" type_id="10"/>
+	<message comment="Ledley King blocks a shot" minute="50" period="2" second="51" time="52" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="51" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="50" period="2" second="48" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Ledley King blocks a shot" minute="50" period="2" second="48" time="52" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Pablo Zabaleta is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="9" time="46" type="end" type_id="30"/>
+	<message comment="Benoit Assou-Ekotto blocks a shot" minute="43" period="1" second="21" time="43" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="43" period="1" second="21" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov misses attempt (To the right, Out of box, Left footed, Open play)" minute="42" period="1" second="12" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Heurelho Gomes makes a save (Diving, Collected)" minute="37" period="1" second="30" time="37" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="37" period="1" second="30" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="36" period="1" second="31" time="36" type="corner" type_id="6"/>
+	<message comment="Shaun Wright-Phillips is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe misses attempt (To the left, 6-yard box, Left footed, Fast break)" minute="31" period="1" second="53" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="31" period="1" second="51" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="31" period="1" second="51" time="31" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (To the right, Out of box, Right footed, Fast break)" minute="31" period="1" second="24" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="31" period="1" second="11" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="31" period="1" second="11" time="31" type="save made" type_id="10"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="30" period="1" second="27" time="30" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Left footed, Open play)" minute="30" period="1" second="25" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="30" period="1" second="25" time="30" type="save made" type_id="10"/>
+	<message comment="Gareth Bale hits the woodwork (To the right, 18-yard box, Left footed, Open play)" minute="30" period="1" second="22" time="30" type="woodwork hit" type_id="14"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="27" period="1" second="42" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Feet, Parried safe)" minute="27" period="1" second="42" time="27" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany recieves a yellow card" minute="23" period="1" second="3" time="23" type="card received" type_id="17"/>
+	<message comment="Ledley King blocks a shot" minute="22" period="1" second="4" time="22" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="22" period="1" second="4" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the right)" minute="17" period="1" second="7" time="17" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="17" period="1" second="5" time="17" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto has attempt saved (High to the right, Out of box, Left footed, From corner)" minute="17" period="1" second="5" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="16" period="1" second="42" time="16" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="15" period="1" second="55" time="15" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="15" period="1" second="53" time="15" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone has attempt saved (Low to the left, Out of box, Right footed, From corner)" minute="15" period="1" second="53" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone wins a corner (To the right)" minute="15" period="1" second="30" time="15" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone has shot blocked (Out of box, Right footed, Open play)" minute="15" period="1" second="27" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany blocks a shot" minute="15" period="1" second="27" time="15" type="save made" type_id="10"/>
+	<message comment="Luka Modric has shot blocked (Out of box, Right footed, Open play)" minute="14" period="1" second="16" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="14" period="1" second="16" time="14" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="10" period="1" second="43" time="10" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, 18-yard box, Right footed, Set piece)" minute="10" period="1" second="43" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch hits the woodwork (To the left, 6-yard box, Head, Set piece)" minute="8" period="1" second="27" time="8" type="woodwork hit" type_id="14"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="6" period="1" second="59" time="6" type="corner" type_id="6"/>
+	<message comment="Shaun Wright-Phillips misses attempt (High, 18-yard box, Left footed, Open play)" minute="6" period="1" second="0" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Vincent Kompany blocks a shot" minute="0" period="1" second="17" time="0" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has shot blocked (Out of box, Right footed, Open play)" minute="0" period="1" second="17" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

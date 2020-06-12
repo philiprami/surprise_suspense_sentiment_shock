@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-12-07" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="5" time="98" type="end" type_id="30"/>
+	<message comment="Andros Townsend wins a corner (To the right)" minute="93" period="2" second="2" time="96" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Parried safe)" minute="92" period="2" second="59" time="95" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="92" period="2" second="59" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Bardsley misses attempt (High, 18-yard box, Head, Open play)" minute="91" period="2" second="35" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (High, 18-yard box, Head, Open play)" minute="90" period="2" second="20" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini wins a corner (To the right)" minute="89" period="2" second="37" time="92" type="corner" type_id="6"/>
+	<message comment="Jozy Altidore recieves a yellow card" minute="86" period="2" second="51" time="89" type="card received" type_id="17"/>
+	<message comment="Phil Bardsley has shot blocked (Out of box, Right footed, Set piece)" minute="85" period="2" second="57" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker blocks a shot" minute="85" period="2" second="57" time="88" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli is substituted off" minute="83" period="2" second="40" time="86" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="83" period="2" second="40" time="86" type="substitution on" type_id="19"/>
+	<message comment="Paulinho misses attempt (18-yard box, Head, Open play)" minute="82" period="2" second="23" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini has attempt saved (Low to the centre, 18-yard box, Right footed, From corner)" minute="81" period="2" second="24" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="81" period="2" second="24" time="84" type="save made" type_id="10"/>
+	<message comment="Jozy Altidore wins a corner (To the left)" minute="80" period="2" second="43" time="83" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="78" period="2" second="45" time="81" type="woodwork hit" type_id="14"/>
+	<message comment="Lewis Holtby is substituted off" minute="78" period="2" second="18" time="81" type="substitution off" type_id="18"/>
+	<message comment="Andros Townsend is substituted on" minute="78" period="2" second="18" time="81" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher is caught offside" minute="77" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Ondrej Celustka is substituted off" minute="76" period="2" second="44" time="79" type="substitution off" type_id="18"/>
+	<message comment="Emanuele Giaccherini is substituted on" minute="76" period="2" second="44" time="79" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher is caught offside" minute="74" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Fabio Borini wins a corner (To the left)" minute="73" period="2" second="30" time="76" type="corner" type_id="6"/>
+	<message comment="Fabio Borini wins a corner (To the left)" minute="73" period="2" second="17" time="76" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Collected)" minute="73" period="2" second="0" time="76" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="73" period="2" second="0" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé is substituted off" minute="72" period="2" second="33" time="75" type="substitution off" type_id="18"/>
+	<message comment="Sandro is substituted on" minute="72" period="2" second="33" time="75" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher misses attempt (18-yard box, Head, Open play)" minute="70" period="2" second="7" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jozy Altidore has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="66" period="2" second="42" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Collected)" minute="66" period="2" second="42" time="69" type="save made" type_id="10"/>
+	<message comment="Jack Colback is substituted off" minute="66" period="2" second="10" time="69" type="substitution off" type_id="18"/>
+	<message comment="Lee Cattermole is substituted on" minute="66" period="2" second="10" time="69" type="substitution on" type_id="19"/>
+	<message comment="Adam Johnson is substituted off" minute="66" period="2" second="1" time="69" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" minute="66" period="2" second="1" time="69" type="substitution on" type_id="19"/>
+	<message comment="Jermain Defoe misses attempt (18-yard box, Right footed, Open play)" minute="65" period="2" second="38" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Phil Bardsley blocks a shot" minute="59" period="2" second="9" time="62" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="9" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="John O'Shea blocks a shot" minute="59" period="2" second="6" time="62" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="6" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Parried into danger)" minute="58" period="2" second="11" time="61" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="58" period="2" second="11" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe hits the woodwork (To the right, 18-yard box, Head, Open play)" minute="56" period="2" second="27" time="59" type="woodwork hit" type_id="14"/>
+	<message comment="Lewis Holtby wins a corner (To the left)" minute="55" period="2" second="45" time="58" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng blocks a shot" minute="55" period="2" second="43" time="58" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Left footed, Open play)" minute="55" period="2" second="43" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Brown blocks a shot" minute="55" period="2" second="23" time="58" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (18-yard box, Left footed, Open play)" minute="55" period="2" second="23" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Nacer Chadli wins a corner (To the right)" minute="52" period="2" second="46" time="55" type="corner" type_id="6"/>
+	<message comment="John O'Shea scores an OWN GOAL!  (Low to the left, 6-yard box, Left footed, Open play)" minute="49" period="2" second="1" time="52" type="goal scored" type_id="16"/>
+	<message comment="Aaron Lennon is caught offside" minute="47" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="7" time="47" type="end" type_id="30"/>
+	<message comment="Nacer Chadli misses attempt (18-yard box, Head, From corner)" minute="46" period="1" second="37" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho wins a corner (To the left)" minute="46" period="1" second="4" time="46" type="corner" type_id="6"/>
+	<message comment="Wes Brown blocks a shot" minute="46" period="1" second="3" time="46" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (Out of box, Right footed, Open play)" minute="46" period="1" second="3" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Ondrej Celustka has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="44" period="1" second="43" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" minute="44" period="1" second="43" time="44" type="save made" type_id="10"/>
+	<message comment="GOAL! Paulinho scores , Assisted by Nacer Chadli (Low to the left, 6-yard box, Right footed, Set piece)" minute="42" period="1" second="43" time="42" type="goal scored" type_id="16"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" minute="39" period="1" second="31" time="39" type="corner" type_id="6"/>
+	<message comment="Ondrej Celustka recieves a yellow card" minute="38" period="1" second="42" time="38" type="card received" type_id="17"/>
+	<message comment="GOAL! Adam Johnson scores  (High to the right, 18-yard box, Right footed, Open play)" minute="36" period="1" second="43" time="36" type="goal scored" type_id="16"/>
+	<message comment="Phil Bardsley blocks a shot" minute="35" period="1" second="50" time="35" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby has shot blocked (18-yard box, Left footed, Open play)" minute="35" period="1" second="50" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe wins a corner (To the right)" minute="33" period="1" second="30" time="33" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley blocks a shot" minute="33" period="1" second="28" time="33" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" minute="33" period="1" second="28" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Vito Mannone makes a save (Standing)" minute="32" period="1" second="42" time="32" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="32" period="1" second="42" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Paulinho wins a corner (To the right)" minute="32" period="1" second="14" time="32" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley has shot blocked (Out of box, Right footed, Open play)" minute="27" period="1" second="47" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon blocks a shot" minute="27" period="1" second="47" time="27" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe misses attempt (Out of box, Left footed, Open play)" minute="26" period="1" second="5" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Lewis Holtby misses attempt (To the right, Out of box, Left footed, Open play)" minute="22" period="1" second="32" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Etienne Capoue wins a corner (To the right)" minute="21" period="1" second="54" time="21" type="corner" type_id="6"/>
+	<message comment="Paulinho wins a corner (To the right)" minute="21" period="1" second="23" time="21" type="corner" type_id="6"/>
+	<message comment="Wes Brown blocks a shot" minute="21" period="1" second="22" time="21" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (6-yard box, Right footed, Open play)" minute="21" period="1" second="22" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback misses attempt (High, 18-yard box, Left footed, Open play)" minute="18" period="1" second="41" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Lewis Holtby wins a corner (To the right)" minute="17" period="1" second="14" time="17" type="corner" type_id="6"/>
+	<message comment="Vito Mannone makes a save (Diving, Parried safe, From shot off target)" minute="17" period="1" second="12" time="17" type="save made" type_id="10"/>
+	<message comment="Lewis Holtby misses attempt (Out of box, Right footed, Open play)" minute="17" period="1" second="12" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="16" period="1" second="30" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Paulinho misses attempt (Out of box, Right footed, Open play)" minute="12" period="1" second="15" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

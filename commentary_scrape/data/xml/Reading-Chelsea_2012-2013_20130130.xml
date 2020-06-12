@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2013-01-30" home_team_name="Chelsea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="8" time="98" type="end" type_id="30"/>
+	<message comment="César Azpilicueta recieves a yellow card" minute="95" period="2" second="21" time="97" type="card received" type_id="17"/>
+	<message comment="GOAL! Adam Le Fondre scores , Assisted by Hope Akpan (High to the right, 18-yard box, Right footed, Set piece)" minute="94" period="2" second="7" time="96" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres is substituted off" minute="91" period="2" second="45" time="93" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" minute="91" period="2" second="45" time="93" type="substitution on" type_id="19"/>
+	<message comment="Adam Federici makes a save (Diving, Parried into danger)" minute="90" period="2" second="20" time="92" type="save made" type_id="10"/>
+	<message comment="Ramires has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="90" period="2" second="20" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="GOAL! Adam Le Fondre scores , Assisted by Hope Akpan (Low to the left, 18-yard box, Left footed, Open play)" minute="86" period="2" second="49" time="88" type="goal scored" type_id="16"/>
+	<message comment="Adam Federici makes a save (Parried safe, Other body part)" minute="85" period="2" second="0" time="87" type="save made" type_id="10"/>
+	<message comment="Oscar has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="85" period="2" second="0" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Le Fondre misses attempt (Out of box, Right footed, Open play)" minute="83" period="2" second="39" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Hope Akpan misses attempt (Out of box, Right footed, Open play)" minute="80" period="2" second="43" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Adam Le Fondre misses attempt (High to the right, 18-yard box, Head, Set piece)" minute="78" period="2" second="13" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is substituted off" minute="76" period="2" second="47" time="78" type="substitution off" type_id="18"/>
+	<message comment="Yossi Benayoun is substituted on" minute="76" period="2" second="47" time="78" type="substitution on" type_id="19"/>
+	<message comment="Jem Karacan is substituted off" minute="76" period="2" second="20" time="78" type="substitution off" type_id="18"/>
+	<message comment="Hope Akpan is substituted on" minute="76" period="2" second="20" time="78" type="substitution on" type_id="19"/>
+	<message comment="Ryan Bertrand is caught offside" minute="75" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Right footed, Open play)" minute="74" period="2" second="39" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Bertrand wins a corner (To the left)" minute="74" period="2" second="3" time="76" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is caught offside" minute="71" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="Frank Lampard misses attempt (To the left, Out of box, Right footed, Open play)" minute="66" period="2" second="36" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Jobi McAnuff is substituted off" minute="65" period="2" second="50" time="67" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="65" period="2" second="50" time="67" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Frank Lampard scores , Assisted by Juan Mata (High to the left, 18-yard box, Head, From corner)" minute="65" period="2" second="1" time="67" type="goal scored" type_id="16"/>
+	<message comment="Oscar wins a corner (To the left)" minute="64" period="2" second="34" time="66" type="corner" type_id="6"/>
+	<message comment="Danny Guthrie is substituted off" minute="57" period="2" second="54" time="59" type="substitution off" type_id="18"/>
+	<message comment="Garath McCleary is substituted on" minute="57" period="2" second="54" time="59" type="substitution on" type_id="19"/>
+	<message comment="Adrian Mariappa is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Oscar misses attempt (To the left, 18-yard box, Big Chance, Right footed, Open play)" minute="54" period="2" second="47" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="51" period="2" second="3" time="53" type="save made" type_id="10"/>
+	<message comment="Ryan Bertrand has shot blocked (18-yard box, Left footed, Open play)" minute="51" period="2" second="3" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Mikele Leigertwood blocks a shot" minute="49" period="2" second="33" time="51" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Free kick)" minute="49" period="2" second="33" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="39" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Juan Mata scores , Assisted by Fernando Torres (Low to the centre, 18-yard box, Left footed, Open play)" minute="45" period="1" second="42" time="45" type="goal scored" type_id="16"/>
+	<message comment="Juan Mata is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Ashley Cole misses attempt (Out of box, Left footed, Open play)" minute="42" period="1" second="3" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="40" period="1" second="37" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Ramires recieves a yellow card" minute="39" period="1" second="39" time="39" type="card received" type_id="17"/>
+	<message comment="Ryan Bertrand misses attempt (To the right, Out of box, Left footed, Open play)" minute="37" period="1" second="0" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Jem Karacan is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Gary Cahill misses attempt (18-yard box, Head, Set piece)" minute="28" period="1" second="44" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Jobi McAnuff recieves a yellow card" minute="28" period="1" second="16" time="28" type="card received" type_id="17"/>
+	<message comment="Alex Pearce blocks a shot" minute="22" period="1" second="8" time="22" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="8" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Juan Mata wins a corner (To the left)" minute="21" period="1" second="2" time="21" type="corner" type_id="6"/>
+	<message comment="Fernando Torres is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Ashley Cole misses attempt (High to the right, Out of box, Left footed, Open play)" minute="13" period="1" second="33" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="César Azpilicueta wins a corner (To the right)" minute="5" period="1" second="36" time="5" type="corner" type_id="6"/>
+	<message comment="César Azpilicueta wins a corner (To the left)" minute="4" period="1" second="18" time="4" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="3" period="1" second="37" time="3" type="corner" type_id="6"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

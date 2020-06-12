@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Queens Park Rangers" competition="English Premier League" game_date="2012-05-06" home_team_name="Stoke" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="37" time="97" type="end" type_id="30"/>
+	<message comment="Peter Crouch misses attempt (18-yard box, Big Chance, Right footed, Throw-in)" minute="93" period="2" second="28" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Thomas Sørensen makes a save (Collected)" minute="92" period="2" second="28" time="95" type="save made" type_id="10"/>
+	<message comment="Jay Bothroyd has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="92" period="2" second="28" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Djibril Cissé scores , Assisted by Anton Ferdinand (Low to the left, 6-yard box, Big Chance, Right footed, From corner)" minute="88" period="2" second="12" time="91" type="goal scored" type_id="16"/>
+	<message comment="Anton Ferdinand misses attempt (To the left, 18-yard box, Key pass, Head, From corner)" minute="88" period="2" second="10" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Wright-Phillips wins a corner (To the right)" minute="87" period="2" second="49" time="90" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="87" period="2" second="47" time="90" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (Out of box, Right footed, Open play)" minute="87" period="2" second="47" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch misses attempt (18-yard box, Head, From corner)" minute="87" period="2" second="31" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Rory Delap wins a corner (To the right)" minute="87" period="2" second="1" time="90" type="corner" type_id="6"/>
+	<message comment="Anton Ferdinand misses attempt (18-yard box, Head, From corner)" minute="84" period="2" second="22" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Jay Bothroyd wins a corner (To the left)" minute="84" period="2" second="6" time="87" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="82" period="2" second="20" time="85" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan blocks a shot" minute="82" period="2" second="18" time="85" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="18" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Derry is substituted off" minute="81" period="2" second="17" time="84" type="substitution off" type_id="18"/>
+	<message comment="Shaun Wright-Phillips is substituted on" minute="81" period="2" second="17" time="84" type="substitution on" type_id="19"/>
+	<message comment="Bobby Zamora is substituted off" minute="81" period="2" second="5" time="84" type="substitution off" type_id="18"/>
+	<message comment="Jay Bothroyd is substituted on" minute="81" period="2" second="5" time="84" type="substitution on" type_id="19"/>
+	<message comment="Taye Taiwo wins a corner (To the left)" minute="80" period="2" second="42" time="83" type="corner" type_id="6"/>
+	<message comment="Djibril Cissé is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Ricardo Fuller is substituted off" minute="77" period="2" second="40" time="80" type="substitution off" type_id="18"/>
+	<message comment="Dean Whitehead is substituted on" minute="77" period="2" second="40" time="80" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome is substituted off" minute="77" period="2" second="29" time="80" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="77" period="2" second="29" time="80" type="substitution on" type_id="19"/>
+	<message comment="Joey Barton misses attempt (High, Out of box, Left footed, Open play)" minute="76" period="2" second="57" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Thomas Sørensen makes a save (Parried safe, Diving)" minute="76" period="2" second="44" time="79" type="save made" type_id="10"/>
+	<message comment="Djibril Cissé has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="76" period="2" second="44" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Thomas Sørensen makes a save (Standing, Collected)" minute="76" period="2" second="10" time="79" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="76" period="2" second="10" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shotton blocks a shot" minute="74" period="2" second="49" time="77" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (18-yard box, Right footed, Open play)" minute="74" period="2" second="49" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Bobby Zamora misses attempt (To the right, 18-yard box, Head, From corner)" minute="74" period="2" second="36" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Adel Taarabt wins a corner (To the left)" minute="74" period="2" second="20" time="77" type="corner" type_id="6"/>
+	<message comment="Nedum Onuoha wins a corner (To the left)" minute="74" period="2" second="2" time="77" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt misses attempt (High, Out of box, Right footed, Open play)" minute="68" period="2" second="27" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Taye Taiwo has shot blocked (Out of box, Left footed, Set piece)" minute="68" period="2" second="12" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch blocks a shot" minute="68" period="2" second="10" time="71" type="save made" type_id="10"/>
+	<message comment="Taye Taiwo has shot blocked (Out of box, Left footed, Free kick)" minute="68" period="2" second="10" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Mackie wins a corner (To the right)" minute="65" period="2" second="14" time="68" type="corner" type_id="6"/>
+	<message comment="Robert Huth has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="51" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton blocks a shot" minute="63" period="2" second="51" time="66" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan misses attempt (High to the right, Out of box, Right footed, Open play)" minute="60" period="2" second="16" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan blocks a shot" minute="54" period="2" second="39" time="57" type="save made" type_id="10"/>
+	<message comment="Djibril Cissé has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="39" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Ákos Buzsáky is substituted off" minute="50" period="2" second="5" time="53" type="substitution off" type_id="18"/>
+	<message comment="Djibril Cissé is substituted on" minute="50" period="2" second="5" time="53" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Fuller misses attempt (Out of box, Left footed, Open play)" minute="49" period="2" second="40" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch misses attempt (To the right, 18-yard box, Head, Open play)" minute="46" period="2" second="14" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Marc Wilson is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Ryan Shotton is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="4" time="47" type="end" type_id="30"/>
+	<message comment="Thomas Sørensen makes a save" minute="35" period="1" second="9" time="35" type="save made" type_id="10"/>
+	<message comment="Joey Barton has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="35" period="1" second="9" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton misses attempt (Out of box, Right footed, Open play)" minute="31" period="1" second="35" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Robert Huth blocks a shot" minute="30" period="1" second="13" time="30" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Open play)" minute="30" period="1" second="13" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Huth blocks a shot" minute="22" period="1" second="37" time="22" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="37" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross misses attempt (High to the right, 18-yard box, Right footed, Throw-in)" minute="13" period="1" second="16" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton misses attempt (6-yard box, Left footed, Set piece)" minute="11" period="1" second="54" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Thomas Sørensen makes a save (Diving, Parried into danger)" minute="11" period="1" second="50" time="11" type="save made" type_id="10"/>
+	<message comment="Adel Taarabt has attempt saved (Low to the left, Out of box, Right footed, Free kick)" minute="11" period="1" second="50" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="9" period="1" second="10" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Peter Crouch wins a corner (To the right)" minute="6" period="1" second="48" time="6" type="corner" type_id="6"/>
+	<message comment="Adel Taarabt misses attempt (To the right, Out of box, Right footed, Open play)" minute="3" period="1" second="51" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="3" period="1" second="3" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

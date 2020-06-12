@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-12-28" home_team_name="Crystal Palace" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="26" time="99" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (6-yard box, Big Chance, Head, Fast break)" minute="89" period="2" second="36" time="95" type="attempt missed" type_id="13"/>
+	<message comment="David Silva recieves a yellow card" minute="88" period="2" second="18" time="94" type="card received" type_id="17"/>
+	<message comment="Jason Puncheon misses attempt (To the right, Out of box, Left footed, Set piece)" minute="84" period="2" second="51" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan is substituted off" minute="80" period="2" second="34" time="86" type="substitution off" type_id="18"/>
+	<message comment="Dwight Gayle is substituted on" minute="80" period="2" second="34" time="86" type="substitution on" type_id="19"/>
+	<message comment="Damien Delaney recieves a yellow card" minute="80" period="2" second="4" time="86" type="card received" type_id="17"/>
+	<message comment="Julian Speroni makes a save (Standing, Collected)" minute="77" period="2" second="46" time="83" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="77" period="2" second="46" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie is substituted off" minute="75" period="2" second="33" time="81" type="substitution off" type_id="18"/>
+	<message comment="Jonathan Williams is substituted on" minute="75" period="2" second="33" time="81" type="substitution on" type_id="19"/>
+	<message comment="James Milner is substituted off" minute="74" period="2" second="7" time="80" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="74" period="2" second="7" time="80" type="substitution on" type_id="19"/>
+	<message comment="Joel Ward misses attempt (18-yard box, Big Chance, Head, From corner)" minute="67" period="2" second="26" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Joel Ward wins a corner (To the right)" minute="67" period="2" second="0" time="73" type="corner" type_id="6"/>
+	<message comment="Joel Ward has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="66" period="2" second="57" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="66" period="2" second="57" time="72" type="save made" type_id="10"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Jesús Navas (High to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="65" period="2" second="42" time="71" type="goal scored" type_id="16"/>
+	<message comment="Mile Jedinak wins a corner (To the left)" minute="63" period="2" second="47" time="69" type="corner" type_id="6"/>
+	<message comment="Mile Jedinak has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="63" period="2" second="39" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="63" period="2" second="39" time="69" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon misses attempt (Out of box, Left footed, Open play)" minute="61" period="2" second="49" time="67" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the left)" minute="59" period="2" second="50" time="65" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie wins a corner (To the left)" minute="57" period="2" second="11" time="63" type="corner" type_id="6"/>
+	<message comment="Dedryck Boyata is substituted off" minute="54" period="2" second="34" time="60" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Negredo is substituted on" minute="54" period="2" second="34" time="60" type="substitution on" type_id="19"/>
+	<message comment="Fernandinho is substituted off" minute="54" period="2" second="3" time="60" type="substitution off" type_id="18"/>
+	<message comment="Samir Nasri is substituted on" minute="54" period="2" second="3" time="60" type="substitution on" type_id="19"/>
+	<message comment="James Milner wins a corner (To the left)" minute="52" period="2" second="20" time="58" type="corner" type_id="6"/>
+	<message comment="Marouane Chamakh misses attempt (18-yard box, Head, From corner)" minute="50" period="2" second="16" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="49" period="2" second="50" time="55" type="corner" type_id="6"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="49" period="2" second="44" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="49" period="2" second="44" time="55" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has shot blocked (18-yard box, Right footed, Open play)" minute="48" period="2" second="58" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Joel Ward blocks a shot" minute="48" period="2" second="58" time="54" type="save made" type_id="10"/>
+	<message comment="Javi García misses attempt (High, 18-yard box, Head, From corner)" minute="46" period="2" second="52" time="52" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the right)" minute="46" period="2" second="30" time="52" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="51" type="start" type_id="32"/>
+	<message comment="First half ends" minute="50" period="1" second="4" time="50" type="end" type_id="30"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="48" period="1" second="35" time="48" type="save made" type_id="10"/>
+	<message comment="Fernandinho has shot blocked (18-yard box, Right footed, Open play)" minute="48" period="1" second="35" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Puncheon blocks a shot" minute="47" period="1" second="29" time="47" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Right footed, From corner)" minute="47" period="1" second="29" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="47" period="1" second="24" time="47" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Right footed, From corner)" minute="47" period="1" second="24" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Fernandinho wins a corner (To the right)" minute="47" period="1" second="1" time="47" type="corner" type_id="6"/>
+	<message comment="Julian Speroni makes a save (Diving, Parried safe)" minute="46" period="1" second="58" time="46" type="save made" type_id="10"/>
+	<message comment="Fernandinho has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="46" period="1" second="58" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Chamakh wins a corner (To the right)" minute="44" period="1" second="22" time="44" type="corner" type_id="6"/>
+	<message comment="Fernandinho misses attempt (High, 18-yard box, Left footed, Open play)" minute="43" period="1" second="37" time="43" type="attempt missed" type_id="13"/>
+	<message comment="David Silva misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="39" period="1" second="44" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Dedryck Boyata wins a corner (To the right)" minute="38" period="1" second="53" time="38" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the right)" minute="36" period="1" second="54" time="36" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome is substituted off" minute="34" period="1" second="8" time="34" type="substitution off" type_id="18"/>
+	<message comment="Marouane Chamakh is substituted on" minute="34" period="1" second="8" time="34" type="substitution on" type_id="19"/>
+	<message comment="David Silva wins a corner (To the left)" minute="27" period="1" second="52" time="27" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="27" period="1" second="33" time="27" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Fast break)" minute="27" period="1" second="33" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Bolasie has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="27" period="1" second="18" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="27" period="1" second="18" time="27" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="23" period="1" second="47" time="23" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the right)" minute="23" period="1" second="35" time="23" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="23" period="1" second="22" time="23" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (18-yard box, Right footed, Open play)" minute="23" period="1" second="22" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Julian Speroni makes a save (Diving)" minute="22" period="1" second="21" time="22" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany has attempt saved (Low to the centre, Out of box, Right footed, From corner)" minute="22" period="1" second="21" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="21" period="1" second="41" time="21" type="corner" type_id="6"/>
+	<message comment="Barry Bannan blocks a shot" minute="21" period="1" second="13" time="21" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Left footed, Open play)" minute="21" period="1" second="13" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner misses attempt (High, Out of box, Left footed, Open play)" minute="19" period="1" second="59" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Yannick Bolasie blocks a shot" minute="19" period="1" second="33" time="19" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Right footed, From corner)" minute="19" period="1" second="33" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the left)" minute="19" period="1" second="1" time="19" type="corner" type_id="6"/>
+	<message comment="Yannick Bolasie misses attempt (Out of box, Right footed, Open play)" minute="14" period="1" second="55" time="14" type="attempt missed" type_id="13"/>
+	<message comment="David Silva misses attempt (Out of box, Left footed, Open play)" minute="10" period="1" second="21" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Damien Delaney blocks a shot" minute="7" period="1" second="55" time="7" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Left footed, From corner)" minute="7" period="1" second="55" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Dedryck Boyata wins a corner (To the left)" minute="7" period="1" second="18" time="7" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="7" period="1" second="14" time="7" type="save made" type_id="10"/>
+	<message comment="Dedryck Boyata has shot blocked (18-yard box, Head, From corner)" minute="7" period="1" second="14" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Fernandinho wins a corner (To the left)" minute="6" period="1" second="47" time="6" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="6" period="1" second="44" time="6" type="save made" type_id="10"/>
+	<message comment="Fernandinho has shot blocked (Out of box, Right footed, Open play)" minute="6" period="1" second="44" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="4" period="1" second="25" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

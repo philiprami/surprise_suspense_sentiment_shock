@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2012-08-19" home_team_name="Chelsea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="3" time="96" type="end" type_id="30"/>
+	<message comment="Emmerson Boyce misses attempt (High to the right, 18-yard box, Head, Throw-in)" minute="92" period="2" second="15" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Jordi Gómez misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="89" period="2" second="33" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="88" period="2" second="24" time="91" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="86" period="2" second="39" time="89" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, 18-yard box, Head, Set piece)" minute="86" period="2" second="39" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried into danger, Standing, Feet)" minute="84" period="2" second="30" time="87" type="save made" type_id="10"/>
+	<message comment="Jordi Gómez misses attempt (18-yard box, Left footed, Open play)" minute="84" period="2" second="30" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Arouna Koné misses attempt (To the right, 6-yard box, Big Chance, Head, From corner)" minute="83" period="2" second="32" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Antolín Alcaraz wins a corner (To the right)" minute="83" period="2" second="14" time="86" type="corner" type_id="6"/>
+	<message comment="Juan Mata is substituted off" minute="82" period="2" second="14" time="85" type="substitution off" type_id="18"/>
+	<message comment="Raul Meireles is substituted on" minute="82" period="2" second="14" time="85" type="substitution on" type_id="19"/>
+	<message comment="James McArthur is substituted off" minute="79" period="2" second="52" time="82" type="substitution off" type_id="18"/>
+	<message comment="Ben Watson is substituted on" minute="79" period="2" second="52" time="82" type="substitution on" type_id="19"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="79" period="2" second="40" time="82" type="card received" type_id="17"/>
+	<message comment="Jordi Gómez has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="73" period="2" second="56" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="73" period="2" second="56" time="76" type="save made" type_id="10"/>
+	<message comment="Jordi Gómez misses attempt (To the left, 18-yard box, Big Chance, Head, Open play)" minute="69" period="2" second="47" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Oscar misses attempt (Out of box, Right footed, Open play)" minute="67" period="2" second="56" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Franco Di Santo is substituted off" minute="66" period="2" second="27" time="69" type="substitution off" type_id="18"/>
+	<message comment="Arouna Koné is substituted on" minute="66" period="2" second="27" time="69" type="substitution on" type_id="19"/>
+	<message comment="Gary Caldwell misses attempt (To the left, 6-yard box, Head, From corner)" minute="64" period="2" second="12" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Eden Hazard is substituted off" minute="63" period="2" second="43" time="66" type="substitution off" type_id="18"/>
+	<message comment="Oscar is substituted on" minute="63" period="2" second="43" time="66" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses wins a corner (To the right)" minute="63" period="2" second="15" time="66" type="corner" type_id="6"/>
+	<message comment="Iván Ramis blocks a shot (Last line)" minute="62" period="2" second="54" time="65" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="62" period="2" second="54" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="60" period="2" second="3" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Franco Di Santo misses attempt (18-yard box, Right footed, Open play)" minute="59" period="2" second="5" time="62" type="attempt missed" type_id="13"/>
+	<message comment="James McArthur recieves a yellow card" minute="56" period="2" second="14" time="59" type="card received" type_id="17"/>
+	<message comment="Ashley Cole misses attempt (High to the right, 18-yard box, Left footed, Open play)" minute="51" period="2" second="58" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Maloney is substituted off" minute="48" period="2" second="12" time="51" type="substitution off" type_id="18"/>
+	<message comment="Jordi Gómez is substituted on" minute="48" period="2" second="12" time="51" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="6" time="47" type="end" type_id="30"/>
+	<message comment="Petr Cech makes a save (Standing, Collected)" minute="46" period="1" second="52" time="46" type="save made" type_id="10"/>
+	<message comment="Shaun Maloney has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="46" period="1" second="52" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" minute="45" period="1" second="23" time="45" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Fast break)" minute="45" period="1" second="23" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="44" period="1" second="2" time="44" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="37" period="1" second="54" time="37" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic blocks a shot" minute="37" period="1" second="51" time="37" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo has shot blocked (6-yard box, Head, From corner)" minute="37" period="1" second="51" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses wins a corner (To the left)" minute="37" period="1" second="29" time="37" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="37" period="1" second="26" time="37" type="save made" type_id="10"/>
+	<message comment="Victor Moses has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="37" period="1" second="26" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Torres is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="David Luiz recieves a yellow card" minute="34" period="1" second="9" time="34" type="card received" type_id="17"/>
+	<message comment="Fernando Torres is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="23" period="1" second="59" time="23" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo misses attempt (18-yard box, Head, Open play)" minute="18" period="1" second="58" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Antolín Alcaraz wins a corner (To the right)" minute="15" period="1" second="7" time="15" type="corner" type_id="6"/>
+	<message comment="Gary Caldwell recieves a yellow card" minute="10" period="1" second="22" time="10" type="card received" type_id="17"/>
+	<message comment="Maynor Figueroa misses attempt (To the right, Out of box, Left footed, Open play)" minute="8" period="1" second="53" time="8" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Frank Lampard scores  (Low to the centre, 18-yard box, Penalty, Big Chance, Right footed)" minute="6" period="1" second="4" time="6" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by Eden Hazard (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="1" period="1" second="48" time="1" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

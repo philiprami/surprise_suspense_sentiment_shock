@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2011-11-19" home_team_name="Fulham" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="95" type="end" type_id="30"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Diving, Feet)" minute="92" period="2" second="0" time="94" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="92" period="2" second="0" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey is substituted off" minute="90" period="2" second="48" time="92" type="substitution off" type_id="18"/>
+	<message comment="Matthew Briggs is substituted on" minute="90" period="2" second="48" time="92" type="substitution on" type_id="19"/>
+	<message comment="Stéphane Sessegnon has shot blocked (Out of box, Right footed, Open play)" minute="87" period="2" second="55" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Ahmed El Mohamady is substituted off" minute="87" period="2" second="28" time="89" type="substitution off" type_id="18"/>
+	<message comment="Ryan Noble is substituted on" minute="87" period="2" second="28" time="89" type="substitution on" type_id="19"/>
+	<message comment="Damien Duff is substituted off" minute="86" period="2" second="31" time="88" type="substitution off" type_id="18"/>
+	<message comment="Bryan Ruiz is substituted on" minute="86" period="2" second="31" time="88" type="substitution on" type_id="19"/>
+	<message comment="Clint Dempsey misses attempt (18-yard box, Big Chance, Right footed, Fast break)" minute="85" period="2" second="53" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the left)" minute="85" period="2" second="17" time="87" type="corner" type_id="6"/>
+	<message comment="Nicklas Bendtner has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="83" period="2" second="33" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="83" period="2" second="33" time="85" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson wins a corner (To the left)" minute="82" period="2" second="0" time="84" type="corner" type_id="6"/>
+	<message comment="Wes Brown blocks a shot" minute="81" period="2" second="55" time="83" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has shot blocked (18-yard box, Right footed, Open play)" minute="81" period="2" second="55" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Senderos misses attempt (18-yard box, Head, From corner)" minute="81" period="2" second="0" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" minute="80" period="2" second="34" time="82" type="corner" type_id="6"/>
+	<message comment="Lee Cattermole blocks a shot" minute="80" period="2" second="32" time="82" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Left footed, Open play)" minute="80" period="2" second="32" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="John O'Shea is caught offside" minute="79" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Stéphane Sessegnon misses attempt (High to the right, Out of box, Right footed, Open play)" minute="77" period="2" second="1" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Dong-Won Ji is caught offside" minute="75" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="John O'Shea blocks a shot" minute="74" period="2" second="9" time="76" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Left footed, Open play)" minute="74" period="2" second="9" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback is substituted off" minute="72" period="2" second="23" time="74" type="substitution off" type_id="18"/>
+	<message comment="Dong-Won Ji is substituted on" minute="72" period="2" second="23" time="74" type="substitution on" type_id="19"/>
+	<message comment="Clint Dempsey misses attempt (High to the left, 18-yard box, Right footed, From corner)" minute="70" period="2" second="5" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="69" period="2" second="31" time="71" type="corner" type_id="6"/>
+	<message comment="Andrew Johnson is caught offside" minute="68" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Bobby Zamora is substituted off" minute="67" period="2" second="48" time="69" type="substitution off" type_id="18"/>
+	<message comment="Andrew Johnson is substituted on" minute="67" period="2" second="48" time="69" type="substitution on" type_id="19"/>
+	<message comment="Jack Colback blocks a shot" minute="66" period="2" second="50" time="68" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (18-yard box, Left footed, Open play)" minute="66" period="2" second="50" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Keiren Westwood makes a save" minute="64" period="2" second="13" time="66" type="save made" type_id="10"/>
+	<message comment="Danny Murphy has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="64" period="2" second="13" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon misses attempt (6-yard box, Left footed, From corner)" minute="63" period="2" second="6" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Wes Brown wins a corner (To the right)" minute="62" period="2" second="35" time="64" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon wins a corner (To the right)" minute="61" period="2" second="59" time="63" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson wins a corner (To the left)" minute="57" period="2" second="55" time="59" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson has shot blocked (18-yard box, Left footed, From corner)" minute="57" period="2" second="51" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé blocks a shot" minute="57" period="2" second="51" time="59" type="save made" type_id="10"/>
+	<message comment="Aaron Hughes blocks a shot" minute="57" period="2" second="48" time="59" type="save made" type_id="10"/>
+	<message comment="Wes Brown has shot blocked (18-yard box, Head, From corner)" minute="57" period="2" second="48" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Nicklas Bendtner wins a corner (To the right)" minute="57" period="2" second="15" time="59" type="corner" type_id="6"/>
+	<message comment="Kieran Richardson is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Danny Murphy wins a corner (To the left)" minute="50" period="2" second="42" time="52" type="corner" type_id="6"/>
+	<message comment="Aaron Hughes wins a corner (To the left)" minute="50" period="2" second="15" time="52" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Parried safe, Diving)" minute="50" period="2" second="5" time="52" type="save made" type_id="10"/>
+	<message comment="Chris Baird has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="50" period="2" second="5" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="2" second="35" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Hughes blocks a shot" minute="45" period="2" second="35" time="47" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="22" time="46" type="end" type_id="30"/>
+	<message comment="Lee Cattermole blocks a shot (Last line)" minute="46" period="1" second="3" time="46" type="save made" type_id="10"/>
+	<message comment="Dickson Etuhu has shot blocked (6-yard box, Big Chance, Head, From corner)" minute="46" period="1" second="3" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Bobby Zamora wins a corner (To the right)" minute="45" period="1" second="41" time="45" type="corner" type_id="6"/>
+	<message comment="Phil Bardsley blocks a shot" minute="45" period="1" second="39" time="45" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora has shot blocked (18-yard box, Head, From corner)" minute="45" period="1" second="39" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy misses attempt (To the right, Out of box, Right footed, Open play)" minute="45" period="1" second="31" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Damien Duff wins a corner (To the right)" minute="45" period="1" second="5" time="45" type="corner" type_id="6"/>
+	<message comment="Michael Turner is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="Phil Bardsley has shot blocked (Out of box, Right footed, Free kick)" minute="37" period="1" second="54" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="37" period="1" second="54" time="37" type="save made" type_id="10"/>
+	<message comment="Dickson Etuhu recieves a yellow card" minute="35" period="1" second="51" time="35" type="card received" type_id="17"/>
+	<message comment="Bobby Zamora is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Mousa Dembélé misses attempt (High, Out of box, Left footed, Open play)" minute="33" period="1" second="36" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Bobby Zamora is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Bobby Zamora is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Lee Cattermole recieves a yellow card" minute="27" period="1" second="54" time="27" type="card received" type_id="17"/>
+	<message comment="Nicklas Bendtner is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="22" period="1" second="36" time="22" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="22" period="1" second="36" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Colback hits the woodwork (High, 18-yard box, Left footed, Open play)" minute="15" period="1" second="48" time="15" type="woodwork hit" type_id="14"/>
+	<message comment="Danny Murphy has shot blocked (Out of box, Right footed, Open play)" minute="11" period="1" second="10" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Brown blocks a shot" minute="11" period="1" second="10" time="11" type="save made" type_id="10"/>
+	<message comment="Kieran Richardson hits the woodwork (High, 18-yard box, Head, From corner)" minute="8" period="1" second="53" time="8" type="woodwork hit" type_id="14"/>
+	<message comment="Lee Cattermole wins a corner (To the right)" minute="8" period="1" second="4" time="8" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Parried into danger, Standing)" minute="6" period="1" second="12" time="6" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="6" period="1" second="12" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Phil Bardsley misses attempt (To the left, Out of box, Right footed, Open play)" minute="3" period="1" second="23" time="3" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

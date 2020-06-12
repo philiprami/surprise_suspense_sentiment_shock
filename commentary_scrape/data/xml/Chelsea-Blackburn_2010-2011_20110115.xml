@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2011-01-15" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="28" time="97" type="end" type_id="30"/>
+	<message comment="Daniel Sturridge misses attempt (High, Out of box, Right footed, Open play)" minute="91" period="2" second="36" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Left footed, From corner)" minute="87" period="2" second="45" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge wins a corner (To the right)" minute="87" period="2" second="9" time="91" type="corner" type_id="6"/>
+	<message comment="Florent Malouda is substituted off" minute="86" period="2" second="27" time="90" type="substitution off" type_id="18"/>
+	<message comment="Daniel Sturridge is substituted on" minute="86" period="2" second="27" time="90" type="substitution on" type_id="19"/>
+	<message comment="Didier Drogba misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="55" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save (Parried safe)" minute="85" period="2" second="8" time="89" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="85" period="2" second="5" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="84" period="2" second="48" time="88" type="save made" type_id="10"/>
+	<message comment="Salomon Kalou has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="48" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba blocks a shot" minute="83" period="2" second="53" time="87" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (Out of box, Right footed, Free kick)" minute="83" period="2" second="53" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba blocks a shot" minute="82" period="2" second="10" time="86" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="82" period="2" second="10" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Essien is substituted off" minute="79" period="2" second="37" time="83" type="substitution off" type_id="18"/>
+	<message comment="Josh McEachran is substituted on" minute="79" period="2" second="37" time="83" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka is substituted off" minute="79" period="2" second="11" time="83" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="79" period="2" second="11" time="83" type="substitution on" type_id="19"/>
+	<message comment="Florent Malouda has shot blocked (Out of box, Left footed, Open play)" minute="77" period="2" second="41" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Christopher Samba blocks a shot" minute="77" period="2" second="41" time="81" type="save made" type_id="10"/>
+	<message comment="GOAL! Nicolas Anelka scores , Assisted by Branislav Ivanovic (Low to the right, 6-yard box, Big Chance, Left footed, From corner)" minute="75" period="2" second="46" time="79" type="goal scored" type_id="16"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Key pass, Head, From corner)" minute="75" period="2" second="44" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="75" period="2" second="12" time="79" type="corner" type_id="6"/>
+	<message comment="Paul Robinson makes a save (Parried into danger, Feet, Diving)" minute="75" period="2" second="9" time="79" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="75" period="2" second="9" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard has attempt saved (High to the centre, 18-yard box, Right footed, Set piece)" minute="67" period="2" second="56" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save" minute="67" period="2" second="56" time="71" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett is substituted off" minute="67" period="2" second="24" time="71" type="substitution off" type_id="18"/>
+	<message comment="Jason Roberts is substituted on" minute="67" period="2" second="24" time="71" type="substitution on" type_id="19"/>
+	<message comment="John Terry misses attempt (18-yard box, Head, From corner)" minute="66" period="2" second="50" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard misses attempt (Out of box, Key pass, Right footed, From corner)" minute="66" period="2" second="48" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" minute="66" period="2" second="21" time="70" type="corner" type_id="6"/>
+	<message comment="Míchel Salgado blocks a shot" minute="66" period="2" second="18" time="70" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka has shot blocked (18-yard box, Right footed, Open play)" minute="66" period="2" second="18" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save" minute="59" period="2" second="42" time="63" type="save made" type_id="10"/>
+	<message comment="Florent Malouda has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="59" period="2" second="41" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Branislav Ivanovic scores  (Low to the centre, 6-yard box, Right footed, From corner)" minute="56" period="2" second="17" time="60" type="goal scored" type_id="16"/>
+	<message comment="Florent Malouda wins a corner (To the left)" minute="55" period="2" second="54" time="59" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (High, 18-yard box, Head, From corner)" minute="54" period="2" second="31" time="58" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the left)" minute="54" period="2" second="10" time="58" type="corner" type_id="6"/>
+	<message comment="Mame Biram Diouf misses attempt (High to the left, 6-yard box, Head, From corner)" minute="53" period="2" second="0" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Míchel Salgado wins a corner (To the right)" minute="52" period="2" second="33" time="56" type="corner" type_id="6"/>
+	<message comment="Florent Malouda recieves a yellow card" minute="49" period="2" second="30" time="53" type="card received" type_id="17"/>
+	<message comment="Nicolas Anelka misses attempt (18-yard box, Right footed, Open play)" minute="46" period="2" second="14" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="Nikola Kalinic is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Roque Santa Cruz is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="48" period="1" second="7" time="48" type="end" type_id="30"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="45" period="1" second="53" time="45" type="corner" type_id="6"/>
+	<message comment="Nikola Kalinic is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Nikola Kalinic is caught offside" minute="43" period="1" time="43" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="41" period="1" second="58" time="41" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka hits the woodwork (To the left, 6-yard box, Right footed, Open play)" minute="41" period="1" second="33" time="41" type="woodwork hit" type_id="14"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="40" period="1" second="59" time="40" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen blocks a shot" minute="40" period="1" second="57" time="40" type="save made" type_id="10"/>
+	<message comment="José Bosingwa has shot blocked (Out of box, Left footed, Open play)" minute="40" period="1" second="57" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires misses attempt (To the left, 18-yard box, Head, Open play)" minute="40" period="1" second="29" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="37" period="1" second="49" time="37" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (18-yard box, Right footed, Open play)" minute="37" period="1" second="49" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson blocks a shot" minute="37" period="1" second="47" time="37" type="save made" type_id="10"/>
+	<message comment="José Bosingwa has shot blocked (18-yard box, Right footed, Open play)" minute="37" period="1" second="47" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Frank Lampard misses attempt (High, 6-yard box, Head, Open play)" minute="36" period="1" second="10" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Nicolas Anelka misses attempt (Out of box, Left footed, Open play)" minute="34" period="1" second="19" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Jason Lowe has shot blocked (18-yard box, Right footed, Open play)" minute="33" period="1" second="12" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="33" period="1" second="12" time="33" type="save made" type_id="10"/>
+	<message comment="David Junior Hoilett has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="33" period="1" second="9" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried into danger, Feet, Diving)" minute="33" period="1" second="9" time="33" type="save made" type_id="10"/>
+	<message comment="Jason Lowe blocks a shot" minute="32" period="1" second="45" time="32" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Head, From corner)" minute="32" period="1" second="45" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="32" period="1" second="24" time="32" type="corner" type_id="6"/>
+	<message comment="José Bosingwa misses attempt (High to the left, Out of box, Right footed, From corner)" minute="29" period="1" second="26" time="29" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="28" period="1" second="54" time="28" type="corner" type_id="6"/>
+	<message comment="David Dunn is substituted off" minute="23" period="1" second="26" time="23" type="substitution off" type_id="18"/>
+	<message comment="Jason Lowe is substituted on" minute="23" period="1" second="26" time="23" type="substitution on" type_id="19"/>
+	<message comment="Didier Drogba misses attempt (High to the right, Out of box, Right footed, Open play)" minute="22" period="1" second="59" time="22" type="attempt missed" type_id="13"/>
+	<message comment="David Junior Hoilett is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Nicolas Anelka wins a corner (To the right)" minute="19" period="1" second="6" time="19" type="corner" type_id="6"/>
+	<message comment="Michael Essien misses attempt (To the right, 18-yard box, Head, From corner)" minute="17" period="1" second="34" time="17" type="attempt missed" type_id="13"/>
+	<message comment="José Bosingwa wins a corner (To the right)" minute="17" period="1" second="10" time="17" type="corner" type_id="6"/>
+	<message comment="Florent Malouda is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Frank Lampard wins a corner (To the left)" minute="5" period="1" second="19" time="5" type="corner" type_id="6"/>
+	<message comment="Martin Olsson has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="3" period="1" second="22" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe)" minute="3" period="1" second="22" time="3" type="save made" type_id="10"/>
+	<message comment="Ramires hits the woodwork (High, 18-yard box, Right footed, From corner)" minute="1" period="1" second="40" time="1" type="woodwork hit" type_id="14"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="1" period="1" second="7" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

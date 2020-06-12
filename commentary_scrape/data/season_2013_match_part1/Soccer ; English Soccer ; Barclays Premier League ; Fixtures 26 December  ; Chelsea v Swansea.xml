@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-12-26 15:00" game_id_2="27118642" game_id_4="112264456" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-26 16:34:47" minute="94" period="2" second="37" team="Swansea" time="96" type="end" type_id="30"/>
+	<message comment="Ramires blocks a shot" last_modified="2013-12-26 16:32:58" minute="92" period="2" second="48" team="Swansea" time="94" type="save made" type_id="10"/>
+	<message comment="Leon Britton has shot blocked (Out of box, Right footed, From corner)" last_modified="2013-12-26 16:32:58" minute="92" period="2" second="48" team="Chelsea" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" last_modified="2013-12-26 16:32:38" minute="92" period="2" second="28" team="Chelsea" time="94" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-12-26 16:27:06" minute="86" period="2" second="56" team="Chelsea" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Ramires recieves a yellow card" last_modified="2013-12-26 16:25:40" minute="85" period="2" second="30" team="Swansea" time="87" type="card received" type_id="17"/>
+	<message comment="Ashley Cole wins a corner (To the left)" last_modified="2013-12-26 16:24:52" minute="84" period="2" second="42" team="Swansea" time="86" type="corner" type_id="6"/>
+	<message comment="Eden Hazard is substituted off" last_modified="2013-12-26 16:22:09" minute="81" period="2" second="59" team="Swansea" time="83" type="substitution off" type_id="18"/>
+	<message comment="Willian is substituted on" last_modified="2013-12-26 16:22:09" minute="81" period="2" second="59" team="Swansea" time="83" type="substitution on" type_id="19"/>
+	<message comment="Álvaro Vázquez is caught offside" last_modified="2013-12-26 16:21:10" minute="81" period="2" team="Chelsea" time="83" type="offside" type_id="10000"/>
+	<message comment="Neil Taylor wins a corner (To the left)" last_modified="2013-12-26 16:18:45" minute="78" period="2" second="35" team="Chelsea" time="80" type="corner" type_id="6"/>
+	<message comment="Pablo Hernández wins a corner (To the left)" last_modified="2013-12-26 16:17:30" minute="77" period="2" second="20" team="Chelsea" time="79" type="corner" type_id="6"/>
+	<message comment="Ramires wins a corner (To the right)" last_modified="2013-12-26 16:16:28" minute="76" period="2" second="18" team="Swansea" time="78" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony is substituted on" last_modified="2013-12-26 16:15:37" minute="75" period="2" second="27" team="Chelsea" time="77" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" last_modified="2013-12-26 16:15:37" minute="75" period="2" second="27" team="Chelsea" time="77" type="substitution off" type_id="18"/>
+	<message comment="Branislav Ivanovic misses attempt (High, 18-yard box, Right footed, Set piece)" last_modified="2013-12-26 16:14:36" minute="74" period="2" second="26" team="Swansea" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard wins a corner (To the left)" last_modified="2013-12-26 16:12:26" minute="72" period="2" second="16" team="Swansea" time="74" type="corner" type_id="6"/>
+	<message comment="Frank Lampard has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-12-26 16:12:23" minute="72" period="2" second="13" team="Swansea" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried safe, Diving)" last_modified="2013-12-26 16:12:23" minute="72" period="2" second="13" team="Chelsea" time="74" type="save made" type_id="10"/>
+	<message comment="Juan Mata is substituted off" last_modified="2013-12-26 16:11:36" minute="71" period="2" second="26" team="Swansea" time="73" type="substitution off" type_id="18"/>
+	<message comment="André Schürrle is substituted on" last_modified="2013-12-26 16:11:36" minute="71" period="2" second="26" team="Swansea" time="73" type="substitution on" type_id="19"/>
+	<message comment="Angel Rangel wins a corner (To the left)" last_modified="2013-12-26 16:10:40" minute="70" period="2" second="30" team="Chelsea" time="72" type="corner" type_id="6"/>
+	<message comment="Oscar is substituted off" last_modified="2013-12-26 16:06:54" minute="66" period="2" second="44" team="Swansea" time="68" type="substitution off" type_id="18"/>
+	<message comment="Frank Lampard is substituted on" last_modified="2013-12-26 16:06:54" minute="66" period="2" second="44" team="Swansea" time="68" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" last_modified="2013-12-26 16:04:19" minute="64" period="2" second="9" team="Chelsea" time="66" type="corner" type_id="6"/>
+	<message comment="David Luiz blocks a shot" last_modified="2013-12-26 16:04:18" minute="64" period="2" second="8" team="Swansea" time="66" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-26 16:04:18" minute="64" period="2" second="8" team="Chelsea" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Samuel Eto'o is caught offside" last_modified="2013-12-26 16:03:10" minute="63" period="2" team="Swansea" time="65" type="offside" type_id="10000"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" last_modified="2013-12-26 16:01:30" minute="61" period="2" second="20" team="Chelsea" time="63" type="corner" type_id="6"/>
+	<message comment="José Cañas is substituted off" last_modified="2013-12-26 16:00:37" minute="60" period="2" second="27" team="Chelsea" time="62" type="substitution off" type_id="18"/>
+	<message comment="Jonathan de Guzmán is substituted on" last_modified="2013-12-26 16:00:37" minute="60" period="2" second="27" team="Chelsea" time="62" type="substitution on" type_id="19"/>
+	<message comment="David Luiz wins a corner (To the right)" last_modified="2013-12-26 15:58:28" minute="58" period="2" second="18" team="Swansea" time="60" type="corner" type_id="6"/>
+	<message comment="Eden Hazard wins a corner (To the left)" last_modified="2013-12-26 15:57:53" minute="57" period="2" second="43" team="Swansea" time="59" type="corner" type_id="6"/>
+	<message comment="Oscar misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-26 15:54:21" minute="54" period="2" second="11" team="Swansea" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Samuel Eto'o misses attempt (Out of box, Right footed, Open play)" last_modified="2013-12-26 15:49:35" minute="49" period="2" second="25" team="Swansea" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Gerhard Tremmel makes a save (Parried into danger, Diving)" last_modified="2013-12-26 15:45:23" minute="45" period="2" second="13" team="Chelsea" time="47" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-26 15:45:23" minute="45" period="2" second="13" team="Swansea" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Hernández is substituted on" last_modified="2013-12-26 15:45:10" minute="45" period="2" second="0" team="Chelsea" time="47" type="substitution on" type_id="19"/>
+	<message comment="Alejandro Pozuelo is substituted off" last_modified="2013-12-26 15:45:10" minute="45" period="2" second="0" team="Chelsea" time="47" type="substitution off" type_id="18"/>
+	<message comment="Second half begins!" last_modified="2013-12-26 15:45:10" minute="45" period="2" second="0" team="Swansea" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-26 15:46:15" minute="46" period="1" second="5" team="Swansea" time="46" type="end" type_id="30"/>
+	<message comment="Samuel Eto'o wins a corner (To the left)" last_modified="2013-12-26 15:44:37" minute="44" period="1" second="27" team="Swansea" time="44" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:44:35" minute="44" period="1" second="25" team="Swansea" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Amat blocks a shot" last_modified="2013-12-26 15:44:35" minute="44" period="1" second="25" team="Chelsea" time="44" type="save made" type_id="10"/>
+	<message comment="Samuel Eto'o has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-12-26 15:41:20" minute="41" period="1" second="10" team="Swansea" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Diving, Parried into danger)" last_modified="2013-12-26 15:41:20" minute="41" period="1" second="10" team="Chelsea" time="41" type="save made" type_id="10"/>
+	<message comment="Juan Mata misses attempt (Out of box, Left footed, Open play)" last_modified="2013-12-26 15:38:55" minute="38" period="1" second="45" team="Swansea" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (High, Out of box, Right footed, Free kick)" last_modified="2013-12-26 15:37:14" minute="37" period="1" second="4" team="Chelsea" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Gerhard Tremmel makes a save (Diving, Collected)" last_modified="2013-12-26 15:34:11" minute="34" period="1" second="1" team="Chelsea" time="34" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2013-12-26 15:34:11" minute="34" period="1" second="1" team="Swansea" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Álvaro Vázquez wins a corner (To the right)" last_modified="2013-12-26 15:32:53" minute="32" period="1" second="43" team="Chelsea" time="32" type="corner" type_id="6"/>
+	<message comment="Álvaro Vázquez has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:32:51" minute="32" period="1" second="41" team="Chelsea" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" last_modified="2013-12-26 15:32:51" minute="32" period="1" second="41" team="Swansea" time="32" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, 18-yard box, Key pass, Head, Open play)" last_modified="2013-12-26 15:32:50" minute="32" period="1" second="40" team="Chelsea" time="32" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Eden Hazard scores , Assisted by Ashley Cole (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:28:58" minute="28" period="1" second="48" team="Swansea" time="28" type="goal scored" type_id="16"/>
+	<message comment="Eden Hazard wins a corner (To the right)" last_modified="2013-12-26 15:25:57" minute="25" period="1" second="47" team="Swansea" time="25" type="corner" type_id="6"/>
+	<message comment="Samuel Eto'o wins a corner (To the right)" last_modified="2013-12-26 15:24:56" minute="24" period="1" second="46" team="Swansea" time="24" type="corner" type_id="6"/>
+	<message comment="David Luiz misses attempt (18-yard box, Head, Set piece)" last_modified="2013-12-26 15:23:30" minute="23" period="1" second="20" team="Swansea" time="23" type="attempt missed" type_id="13"/>
+	<message comment="John Terry misses attempt (To the right, 6-yard box, Right footed, From corner)" last_modified="2013-12-26 15:21:05" minute="20" period="1" second="55" team="Swansea" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" last_modified="2013-12-26 15:20:16" minute="20" period="1" second="6" team="Swansea" time="20" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Right footed, From corner)" last_modified="2013-12-26 15:20:11" minute="20" period="1" second="1" team="Swansea" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas blocks a shot" last_modified="2013-12-26 15:20:11" minute="20" period="1" second="1" team="Chelsea" time="20" type="save made" type_id="10"/>
+	<message comment="John Terry wins a corner (To the right)" last_modified="2013-12-26 15:19:47" minute="19" period="1" second="37" team="Swansea" time="19" type="corner" type_id="6"/>
+	<message comment="John Terry has shot blocked (18-yard box, Head, From corner)" last_modified="2013-12-26 15:19:42" minute="19" period="1" second="32" team="Swansea" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2013-12-26 15:19:42" minute="19" period="1" second="32" team="Chelsea" time="19" type="save made" type_id="10"/>
+	<message comment="John Terry wins a corner (To the left)" last_modified="2013-12-26 15:19:22" minute="19" period="1" second="12" team="Swansea" time="19" type="corner" type_id="6"/>
+	<message comment="John Terry has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:19:18" minute="19" period="1" second="8" team="Swansea" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried safe)" last_modified="2013-12-26 15:19:18" minute="19" period="1" second="8" team="Chelsea" time="19" type="save made" type_id="10"/>
+	<message comment="Eden Hazard wins a corner (To the right)" last_modified="2013-12-26 15:18:44" minute="18" period="1" second="34" team="Swansea" time="18" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2013-12-26 15:17:10" minute="17" period="1" team="Chelsea" time="17" type="offside" type_id="10000"/>
+	<message comment="Ramires has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-12-26 15:16:54" minute="16" period="1" second="44" team="Swansea" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Parried safe)" last_modified="2013-12-26 15:16:54" minute="16" period="1" second="44" team="Chelsea" time="16" type="save made" type_id="10"/>
+	<message comment="Eden Hazard misses attempt (18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:15:08" minute="14" period="1" second="58" team="Swansea" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-26 15:14:26" minute="14" period="1" second="16" team="Chelsea" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-26 15:13:47" minute="13" period="1" second="37" team="Swansea" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Jordi Amat blocks a shot" last_modified="2013-12-26 15:13:47" minute="13" period="1" second="37" team="Chelsea" time="13" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" last_modified="2013-12-26 15:11:33" minute="11" period="1" second="23" team="Swansea" time="11" type="corner" type_id="6"/>
+	<message comment="Branislav Ivanovic has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-12-26 15:11:30" minute="11" period="1" second="20" team="Swansea" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2013-12-26 15:11:30" minute="11" period="1" second="20" team="Chelsea" time="11" type="save made" type_id="10"/>
+	<message comment="Jordi Amat misses attempt (High, 18-yard box, Head, Set piece)" last_modified="2013-12-26 15:07:14" minute="7" period="1" second="4" team="Chelsea" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-12-26 15:00:10" minute="0" period="14" second="0" team="Swansea" time="6" type="end" type_id="30"/>
+	<message comment="First half begins!" last_modified="2013-12-26 15:00:10" minute="0" period="1" second="0" team="Swansea" time="0" type="start" type_id="32"/>
+</Commentary>

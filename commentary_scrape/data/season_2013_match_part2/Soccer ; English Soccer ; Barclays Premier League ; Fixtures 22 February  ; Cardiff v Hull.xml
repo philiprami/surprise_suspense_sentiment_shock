@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Cardiff" competition="English Premier League" game_date="2014-02-22 15:00" game_id_2="27149405" game_id_4="112828014" home_team_name="Hull" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-22 16:33:52" minute="93" period="2" second="19" team="Hull" time="97" type="end" type_id="30"/>
+	<message comment="Juan Cala has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-02-22 16:33:30" minute="92" period="2" second="57" team="Hull" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker misses attempt (To the left, 18-yard box, Head, Set piece)" last_modified="2014-02-22 16:30:38" minute="90" period="2" second="5" team="Hull" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic is caught offside" last_modified="2014-02-22 16:30:33" minute="90" period="2" team="Cardiff" time="94" type="offside" type_id="10000"/>
+	<message comment="James Chester blocks a shot" last_modified="2014-02-22 16:29:39" minute="89" period="2" second="6" team="Cardiff" time="93" type="save made" type_id="10"/>
+	<message comment="Jo Inge Berget has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 16:29:39" minute="89" period="2" second="6" team="Hull" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="George Boyd recieves a yellow card" last_modified="2014-02-22 16:26:22" minute="85" period="2" second="49" team="Cardiff" time="89" type="card received" type_id="17"/>
+	<message comment="Fabio misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-22 16:21:47" minute="81" period="2" second="14" team="Hull" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Nikica Jelavic misses attempt (18-yard box, Left footed, Open play)" last_modified="2014-02-22 16:21:11" minute="80" period="2" second="38" team="Cardiff" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker misses attempt (High to the left, 6-yard box, Head, From corner)" last_modified="2014-02-22 16:19:46" minute="79" period="2" second="13" team="Hull" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Steven Caulker wins a corner (To the left)" last_modified="2014-02-22 16:19:29" minute="78" period="2" second="56" team="Hull" time="82" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell is substituted off" last_modified="2014-02-22 16:19:14" minute="78" period="2" second="41" team="Hull" time="82" type="substitution off" type_id="18"/>
+	<message comment="Jo Inge Berget is substituted on" last_modified="2014-02-22 16:19:14" minute="78" period="2" second="41" team="Hull" time="82" type="substitution on" type_id="19"/>
+	<message comment="Declan John wins a corner (To the right)" last_modified="2014-02-22 16:18:45" minute="78" period="2" second="12" team="Hull" time="82" type="corner" type_id="6"/>
+	<message comment="Shane Long is substituted off" last_modified="2014-02-22 16:16:02" minute="75" period="2" second="29" team="Cardiff" time="79" type="substitution off" type_id="18"/>
+	<message comment="Stephen Quinn is substituted on" last_modified="2014-02-22 16:16:02" minute="75" period="2" second="29" team="Cardiff" time="79" type="substitution on" type_id="19"/>
+	<message comment="Craig Noone misses attempt (To the left, 18-yard box, Left footed, From corner)" last_modified="2014-02-22 16:15:25" minute="74" period="2" second="52" team="Hull" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Taylor is substituted off" last_modified="2014-02-22 16:15:08" minute="74" period="2" second="35" team="Hull" time="78" type="substitution off" type_id="18"/>
+	<message comment="Declan John is substituted on" last_modified="2014-02-22 16:15:08" minute="74" period="2" second="35" team="Hull" time="78" type="substitution on" type_id="19"/>
+	<message comment="Craig Noone wins a corner (To the left)" last_modified="2014-02-22 16:14:46" minute="74" period="2" second="13" team="Hull" time="78" type="corner" type_id="6"/>
+	<message comment="Allan McGregor makes a save (Parried safe, Diving)" last_modified="2014-02-22 16:14:43" minute="74" period="2" second="10" team="Cardiff" time="78" type="save made" type_id="10"/>
+	<message comment="Craig Noone has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2014-02-22 16:14:43" minute="74" period="2" second="10" team="Hull" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic misses attempt (Out of box, Right footed, Open play)" last_modified="2014-02-22 16:14:04" minute="73" period="2" second="31" team="Cardiff" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Juan Cala misses attempt (18-yard box, Head, Set piece)" last_modified="2014-02-22 16:11:55" minute="71" period="2" second="22" team="Hull" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long blocks a shot" last_modified="2014-02-22 16:11:51" minute="71" period="2" second="18" team="Cardiff" time="75" type="save made" type_id="10"/>
+	<message comment="Magnus Wolff Eikrem has shot blocked (Out of box, Right footed, Free kick)" last_modified="2014-02-22 16:11:51" minute="71" period="2" second="18" team="Hull" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Bruce is substituted off" last_modified="2014-02-22 16:10:35" minute="70" period="2" second="2" team="Cardiff" time="74" type="substitution off" type_id="18"/>
+	<message comment="James Chester is substituted on" last_modified="2014-02-22 16:10:35" minute="70" period="2" second="2" team="Cardiff" time="74" type="substitution on" type_id="19"/>
+	<message comment="Steven Caulker misses attempt (To the right, 6-yard box, Head, From corner)" last_modified="2014-02-22 16:09:48" minute="69" period="2" second="15" team="Hull" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Fraizer Campbell wins a corner (To the left)" last_modified="2014-02-22 16:09:25" minute="68" period="2" second="52" team="Hull" time="72" type="corner" type_id="6"/>
+	<message comment="GOAL! Jake Livermore scores , Assisted by Ahmed El Mohamady (Low to the right, Out of box, Right footed, Fast break)" last_modified="2014-02-22 16:07:11" minute="66" period="2" second="38" team="Cardiff" time="70" type="goal scored" type_id="16"/>
+	<message comment="Craig Noone is caught offside" last_modified="2014-02-22 16:03:33" minute="63" period="2" team="Hull" time="67" type="offside" type_id="10000"/>
+	<message comment="Liam Rosenior misses attempt (Out of box, Right footed, From corner)" last_modified="2014-02-22 16:03:33" minute="63" period="2" second="0" team="Cardiff" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Jake Livermore wins a corner (To the right)" last_modified="2014-02-22 16:03:09" minute="62" period="2" second="36" team="Cardiff" time="66" type="corner" type_id="6"/>
+	<message comment="Tom Huddlestone is substituted off" last_modified="2014-02-22 16:02:46" minute="62" period="2" second="13" team="Cardiff" time="66" type="substitution off" type_id="18"/>
+	<message comment="George Boyd is substituted on" last_modified="2014-02-22 16:02:46" minute="62" period="2" second="13" team="Cardiff" time="66" type="substitution on" type_id="19"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 16:01:28" minute="60" period="2" second="55" team="Cardiff" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Collected, Standing)" last_modified="2014-02-22 16:01:28" minute="60" period="2" second="55" team="Hull" time="64" type="save made" type_id="10"/>
+	<message comment="Curtis Davies blocks a shot" last_modified="2014-02-22 16:01:17" minute="60" period="2" second="44" team="Cardiff" time="64" type="save made" type_id="10"/>
+	<message comment="Craig Noone has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-22 16:01:17" minute="60" period="2" second="44" team="Hull" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Nikica Jelavic scores , Assisted by Liam Rosenior (Low to the right, 18-yard box, Big Chance, Head, Open play)" last_modified="2014-02-22 15:56:52" minute="56" period="2" second="19" team="Cardiff" time="60" type="goal scored" type_id="16"/>
+	<message comment="Juan Cala misses attempt (High, 18-yard box, Head, From corner)" last_modified="2014-02-22 15:50:50" minute="50" period="2" second="17" team="Hull" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones wins a corner (To the left)" last_modified="2014-02-22 15:49:26" minute="48" period="2" second="53" team="Hull" time="52" type="corner" type_id="6"/>
+	<message comment="Nikica Jelavic misses attempt (18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-02-22 15:47:13" minute="46" period="2" second="40" team="Cardiff" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Mats Møller Dæhli is substituted on" last_modified="2014-02-22 15:45:33" minute="45" period="2" second="0" team="Hull" time="49" type="substitution on" type_id="19"/>
+	<message comment="Wilfried Zaha is substituted off" last_modified="2014-02-22 15:45:33" minute="45" period="2" second="0" team="Hull" time="49" type="substitution off" type_id="18"/>
+	<message comment="Second half begins!" last_modified="2014-02-22 15:45:33" minute="45" period="2" second="0" team="Hull" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-22 15:48:54" minute="48" period="1" second="21" team="Hull" time="48" type="end" type_id="30"/>
+	<message comment="Craig Noone wins a corner (To the right)" last_modified="2014-02-22 15:46:57" minute="46" period="1" second="24" team="Hull" time="46" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell wins a corner (To the right)" last_modified="2014-02-22 15:46:41" minute="46" period="1" second="8" team="Hull" time="46" type="corner" type_id="6"/>
+	<message comment="Jake Livermore blocks a shot" last_modified="2014-02-22 15:39:55" minute="39" period="1" second="22" team="Cardiff" time="39" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-22 15:39:55" minute="39" period="1" second="22" team="Hull" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Nikica Jelavic scores , Assisted by Shane Long (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:37:56" minute="37" period="1" second="23" team="Cardiff" time="37" type="goal scored" type_id="16"/>
+	<message comment="Kenwyne Jones misses attempt (18-yard box, Head, Open play)" last_modified="2014-02-22 15:36:04" minute="35" period="1" second="31" team="Hull" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Maynor Figueroa blocks a shot" last_modified="2014-02-22 15:36:03" minute="35" period="1" second="30" team="Cardiff" time="35" type="save made" type_id="10"/>
+	<message comment="Magnus Wolff Eikrem has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:36:03" minute="35" period="1" second="30" team="Hull" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Zaha recieves a yellow card" last_modified="2014-02-22 15:33:11" minute="32" period="1" second="38" team="Hull" time="32" type="card received" type_id="17"/>
+	<message comment="Fraizer Campbell misses attempt (High to the right, 18-yard box, Head, Open play)" last_modified="2014-02-22 15:30:13" minute="29" period="1" second="40" team="Hull" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Tom Huddlestone blocks a shot" last_modified="2014-02-22 15:30:02" minute="29" period="1" second="29" team="Cardiff" time="29" type="save made" type_id="10"/>
+	<message comment="Magnus Wolff Eikrem has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-22 15:30:02" minute="29" period="1" second="29" team="Hull" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Curtis Davies blocks a shot" last_modified="2014-02-22 15:26:06" minute="25" period="1" second="33" team="Cardiff" time="25" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-22 15:26:06" minute="25" period="1" second="33" team="Hull" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Bruce blocks a shot" last_modified="2014-02-22 15:25:57" minute="25" period="1" second="24" team="Cardiff" time="25" type="save made" type_id="10"/>
+	<message comment="Magnus Wolff Eikrem has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-22 15:25:57" minute="25" period="1" second="24" team="Hull" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Allan McGregor makes a save (Standing)" last_modified="2014-02-22 15:21:38" minute="21" period="1" second="5" team="Cardiff" time="21" type="save made" type_id="10"/>
+	<message comment="Fraizer Campbell has attempt saved (High to the right, 18-yard box, Other body part, From corner)" last_modified="2014-02-22 15:21:38" minute="21" period="1" second="5" team="Hull" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Noone wins a corner (To the right)" last_modified="2014-02-22 15:21:14" minute="20" period="1" second="41" team="Hull" time="20" type="corner" type_id="6"/>
+	<message comment="GOAL! Tom Huddlestone scores , Assisted by Jake Livermore (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-02-22 15:18:00" minute="17" period="1" second="27" team="Cardiff" time="17" type="goal scored" type_id="16"/>
+	<message comment="Nikica Jelavic has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-02-22 15:17:51" minute="17" period="1" second="18" team="Cardiff" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="David Marshall makes a save (Diving, Parried into danger, Other body part)" last_modified="2014-02-22 15:17:51" minute="17" period="1" second="18" team="Hull" time="17" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones wins a corner (To the right)" last_modified="2014-02-22 15:12:32" minute="11" period="1" second="59" team="Hull" time="11" type="corner" type_id="6"/>
+	<message comment="Allan McGregor makes a save (Parried into danger, Diving)" last_modified="2014-02-22 15:12:29" minute="11" period="1" second="56" team="Cardiff" time="11" type="save made" type_id="10"/>
+	<message comment="Kenwyne Jones has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-22 15:12:29" minute="11" period="1" second="56" team="Hull" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Allan McGregor makes a save (Parried safe, Standing)" last_modified="2014-02-22 15:11:56" minute="11" period="1" second="23" team="Cardiff" time="11" type="save made" type_id="10"/>
+	<message comment="Wilfried Zaha has attempt saved (High to the centre, 18-yard box, Key pass, Right footed, Open play)" last_modified="2014-02-22 15:11:56" minute="11" period="1" second="23" team="Hull" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic is caught offside" last_modified="2014-02-22 15:07:33" minute="7" period="1" team="Cardiff" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2014-02-22 15:00:33" minute="0" period="14" second="0" team="Hull" time="7" type="end" type_id="30"/>
+	<message comment="Nikica Jelavic is caught offside" last_modified="2014-02-22 15:06:33" minute="6" period="1" team="Cardiff" time="6" type="offside" type_id="10000"/>
+	<message comment="Allan McGregor makes a save (Collected)" last_modified="2014-02-22 15:06:30" minute="5" period="1" second="57" team="Cardiff" time="5" type="save made" type_id="10"/>
+	<message comment="Wilfried Zaha has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-02-22 15:06:30" minute="5" period="1" second="57" team="Hull" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Nikica Jelavic misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2014-02-22 15:05:15" minute="4" period="1" second="42" team="Cardiff" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long wins a corner (To the right)" last_modified="2014-02-22 15:04:46" minute="4" period="1" second="13" team="Cardiff" time="4" type="corner" type_id="6"/>
+	<message comment="Fraizer Campbell is caught offside" last_modified="2014-02-22 15:03:33" minute="3" period="1" team="Hull" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" last_modified="2014-02-22 15:00:33" minute="0" period="1" second="0" team="Hull" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2013-01-12" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="94" type="end" type_id="30"/>
+	<message comment="Anthony Pilkington misses attempt (6-yard box, Big Chance, Head, Open play)" minute="92" period="2" second="43" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Grant Holt misses attempt (6-yard box, Key pass, Head, Open play)" minute="92" period="2" second="42" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Wes Hoolahan wins a corner (To the right)" minute="89" period="2" second="37" time="90" type="corner" type_id="6"/>
+	<message comment="Mike Williamson blocks a shot" minute="89" period="2" second="35" time="90" type="save made" type_id="10"/>
+	<message comment="Wes Hoolahan has shot blocked (Out of box, Left footed, Open play)" minute="89" period="2" second="35" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="84" period="2" second="2" time="85" type="save made" type_id="10"/>
+	<message comment="Russell Martin has shot blocked (18-yard box, Head, Set piece)" minute="84" period="2" second="2" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Vurnon Anita is substituted off" minute="83" period="2" second="37" time="84" type="substitution off" type_id="18"/>
+	<message comment="Gael Bigirimana is substituted on" minute="83" period="2" second="37" time="84" type="substitution on" type_id="19"/>
+	<message comment="Mathieu Debuchy recieves a yellow card" minute="83" period="2" second="3" time="84" type="card received" type_id="17"/>
+	<message comment="Fabricio Coloccini misses attempt (High, 18-yard box, Right footed, From corner)" minute="79" period="2" second="55" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="79" period="2" second="23" time="80" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="76" period="2" second="56" time="77" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass is substituted off" minute="76" period="2" second="18" time="77" type="substitution off" type_id="18"/>
+	<message comment="Elliott Bennett is substituted on" minute="76" period="2" second="18" time="77" type="substitution on" type_id="19"/>
+	<message comment="Bradley Johnson misses attempt (High, 18-yard box, Right footed, Open play)" minute="75" period="2" second="32" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" minute="75" period="2" second="29" time="76" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="75" period="2" second="29" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Pilkington wins a corner (To the left)" minute="70" period="2" second="42" time="71" type="corner" type_id="6"/>
+	<message comment="Simeon Jackson is substituted off" minute="67" period="2" second="29" time="68" type="substitution off" type_id="18"/>
+	<message comment="Grant Holt is substituted on" minute="67" period="2" second="29" time="68" type="substitution on" type_id="19"/>
+	<message comment="Russell Martin hits the woodwork (To the right, Out of box, Right footed, Open play)" minute="66" period="2" second="39" time="67" type="woodwork hit" type_id="14"/>
+	<message comment="Sylvain Marveaux misses attempt (High, Out of box, Left footed, Open play)" minute="62" period="2" second="52" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington misses attempt (High, Out of box, Right footed, Open play)" minute="62" period="2" second="2" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Simeon Jackson is caught offside" minute="61" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Gabriel Obertan is substituted off" minute="56" period="2" second="22" time="57" type="substitution off" type_id="18"/>
+	<message comment="Yohan Cabaye is substituted on" minute="56" period="2" second="22" time="57" type="substitution on" type_id="19"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="53" period="2" second="22" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Alexander Tettey blocks a shot" minute="53" period="2" second="22" time="54" type="save made" type_id="10"/>
+	<message comment="Wes Hoolahan is caught offside" minute="52" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Wes Hoolahan wins a corner (To the left)" minute="46" period="2" second="51" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" minute="45" period="1" second="4" time="45" type="end" type_id="30"/>
+	<message comment="Sylvain Marveaux wins a corner (To the left)" minute="43" period="1" second="36" time="43" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson blocks a shot" minute="43" period="1" second="34" time="43" type="save made" type_id="10"/>
+	<message comment="Sylvain Marveaux has shot blocked (Out of box, Left footed, Open play)" minute="43" period="1" second="34" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Obertan misses attempt (High, 18-yard box, Right footed, Open play)" minute="42" period="1" second="17" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Anthony Pilkington misses attempt (High to the right, Out of box, Right footed, Throw-in)" minute="39" period="1" second="34" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon wins a corner (To the left)" minute="35" period="1" second="17" time="35" type="corner" type_id="6"/>
+	<message comment="Simeon Jackson is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Robert Snodgrass is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Tim Krul makes a save (Standing, Collected)" minute="27" period="1" second="21" time="27" type="save made" type_id="10"/>
+	<message comment="Robert Snodgrass has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="27" period="1" second="21" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Snodgrass wins a corner (To the right)" minute="25" period="1" second="50" time="25" type="corner" type_id="6"/>
+	<message comment="James Perch has shot blocked (Out of box, Right footed, Open play)" minute="23" period="1" second="25" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Bradley Johnson blocks a shot" minute="23" period="1" second="25" time="23" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="22" period="1" second="17" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Bunn makes a save (Collected)" minute="22" period="1" second="17" time="22" type="save made" type_id="10"/>
+	<message comment="Sebastien Bassong misses attempt (To the left, 6-yard box, Head, From corner)" minute="21" period="1" second="13" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Wes Hoolahan wins a corner (To the right)" minute="20" period="1" second="34" time="20" type="corner" type_id="6"/>
+	<message comment="Simeon Jackson misses attempt (High to the right, Out of box, Right footed, Open play)" minute="18" period="1" second="13" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Obertan has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="16" period="1" second="32" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Bunn makes a save (Parried safe, Diving)" minute="16" period="1" second="32" time="16" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="4" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

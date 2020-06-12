@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-12-14" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="5" time="101" type="end" type_id="30"/>
+	<message comment="GOAL! Yaya Touré scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="95" period="2" second="11" time="100" type="goal scored" type_id="16"/>
+	<message comment="Wojciech Szczesny recieves a yellow card" minute="94" period="2" second="27" time="99" type="card received" type_id="17"/>
+	<message comment="GOAL! Per Mertesacker scores , Assisted by Bacary Sagna (Low to the right, 18-yard box, Big Chance, Head, From corner)" minute="93" period="2" second="22" time="98" type="goal scored" type_id="16"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="93" period="2" second="6" time="98" type="corner" type_id="6"/>
+	<message comment="Theo Walcott has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="93" period="2" second="4" time="98" type="attempt blocked" type_id="15"/>
+	<message comment="Costel Pantilimon makes a save (Parried safe, Standing, Other body part)" minute="93" period="2" second="4" time="98" type="save made" type_id="10"/>
+	<message comment="Theo Walcott misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="91" period="2" second="36" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Serge Gnabry wins a corner (To the right)" minute="91" period="2" second="11" time="96" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="90" period="2" second="47" time="95" type="corner" type_id="6"/>
+	<message comment="Theo Walcott has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="90" period="2" second="44" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Costel Pantilimon makes a save (Diving, Parried safe)" minute="90" period="2" second="44" time="95" type="save made" type_id="10"/>
+	<message comment="Samir Nasri is substituted off" minute="89" period="2" second="9" time="94" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="89" period="2" second="9" time="94" type="substitution on" type_id="19"/>
+	<message comment="Nicklas Bendtner is caught offside" minute="88" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="GOAL! Fernandinho scores , Assisted by Samir Nasri (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="87" period="2" second="8" time="92" type="goal scored" type_id="16"/>
+	<message comment="Samir Nasri misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="86" period="2" second="31" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Fernandinho wins a corner (To the left)" minute="83" period="2" second="46" time="88" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="83" period="2" second="43" time="88" type="save made" type_id="10"/>
+	<message comment="Fernandinho has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="83" period="2" second="43" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Left footed, Open play)" minute="83" period="2" second="17" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" minute="83" period="2" second="17" time="88" type="save made" type_id="10"/>
+	<message comment="Vincent Kompany recieves a yellow card" minute="79" period="2" second="42" time="84" type="card received" type_id="17"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Other body part, From corner)" minute="78" period="2" second="45" time="83" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the left)" minute="78" period="2" second="22" time="83" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (Out of box, Right footed, Open play)" minute="76" period="2" second="28" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud is substituted off" minute="75" period="2" second="27" time="80" type="substitution off" type_id="18"/>
+	<message comment="Nicklas Bendtner is substituted on" minute="75" period="2" second="27" time="80" type="substitution on" type_id="19"/>
+	<message comment="Álvaro Negredo is caught offside" minute="75" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="74" period="2" second="32" time="79" type="corner" type_id="6"/>
+	<message comment="Jesús Navas misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="73" period="2" second="0" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Flamini is substituted off" minute="71" period="2" second="10" time="76" type="substitution off" type_id="18"/>
+	<message comment="Serge Gnabry is substituted on" minute="71" period="2" second="10" time="76" type="substitution on" type_id="19"/>
+	<message comment="David Silva is substituted off" minute="71" period="2" second="0" time="76" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="71" period="2" second="0" time="76" type="substitution on" type_id="19"/>
+	<message comment="Jack Wilshere wins a corner (To the right)" minute="68" period="2" second="0" time="73" type="corner" type_id="6"/>
+	<message comment="Costel Pantilimon makes a save (Parried safe, Diving)" minute="67" period="2" second="56" time="72" type="save made" type_id="10"/>
+	<message comment="Jack Wilshere has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="67" period="2" second="56" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud is caught offside" minute="66" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="GOAL! David Silva scores , Assisted by Jesús Navas (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="65" period="2" second="14" time="70" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Aaron Ramsey (High to the right, 18-yard box, Right footed, Open play)" minute="62" period="2" second="10" time="67" type="goal scored" type_id="16"/>
+	<message comment="Jack Wilshere wins a corner (To the left)" minute="58" period="2" second="10" time="63" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Big Chance, Head, Open play)" minute="55" period="2" second="7" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere wins a corner (To the right)" minute="52" period="2" second="59" time="57" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud misses attempt (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="51" period="2" second="51" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Fernandinho scores  (Low to the right, Out of box, Right footed, Open play)" minute="49" period="2" second="57" time="54" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero is substituted off" minute="49" period="2" second="1" time="54" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="49" period="2" second="1" time="54" type="substitution on" type_id="19"/>
+	<message comment="David Silva recieves a yellow card" minute="48" period="2" second="41" time="53" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="5" time="49" type="end" type_id="30"/>
+	<message comment="David Silva misses attempt (High, Out of box, Left footed, Open play)" minute="48" period="1" second="21" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Martín Demichelis misses attempt (18-yard box, Head, From corner)" minute="45" period="1" second="12" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="44" period="1" second="38" time="44" type="corner" type_id="6"/>
+	<message comment="Theo Walcott wins a corner (To the right)" minute="41" period="1" second="36" time="41" type="corner" type_id="6"/>
+	<message comment="Laurent Koscielny is substituted off" minute="41" period="1" second="4" time="41" type="substitution off" type_id="18"/>
+	<message comment="Thomas Vermaelen is substituted on" minute="41" period="1" second="4" time="41" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Álvaro Negredo scores , Assisted by Pablo Zabaleta (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="38" period="1" second="6" time="38" type="goal scored" type_id="16"/>
+	<message comment="Nacho Monreal is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (18-yard box, Big Chance, Left footed, Open play)" minute="33" period="1" second="48" time="33" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Theo Walcott scores , Assisted by Mesut Özil (Low to the right, Out of box, Right footed, Open play)" minute="30" period="1" second="54" time="30" type="goal scored" type_id="16"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="29" period="1" second="45" time="29" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has shot blocked (Out of box, Left footed, Open play)" minute="29" period="1" second="45" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré misses attempt (High, Out of box, Right footed, Open play)" minute="26" period="1" second="19" time="26" type="attempt missed" type_id="13"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="26" period="1" second="12" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="26" period="1" second="12" time="26" type="save made" type_id="10"/>
+	<message comment="Samir Nasri misses attempt (To the left, Out of box, Right footed, Open play)" minute="23" period="1" second="48" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Flamini has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="53" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Clichy blocks a shot" minute="22" period="1" second="53" time="22" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo misses attempt (18-yard box, Right footed, Open play)" minute="20" period="1" second="9" time="20" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Martín Demichelis (High to the centre, 6-yard box, Right footed, From corner)" minute="13" period="1" second="7" time="13" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="12" period="1" second="40" time="12" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="11" type="end" type_id="30"/>
+	<message comment="Vincent Kompany blocks a shot" minute="10" period="1" second="54" time="10" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (6-yard box, Head, Open play)" minute="10" period="1" second="54" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Jack Wilshere misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="10" period="1" second="50" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Mesut Özil wins a corner (To the right)" minute="8" period="1" second="42" time="8" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (To the right, 18-yard box, Head, From corner)" minute="3" period="1" second="59" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="3" period="1" second="47" time="3" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="3" period="1" second="27" time="3" type="corner" type_id="6"/>
+	<message comment="Mathieu Flamini blocks a shot" minute="2" period="1" second="23" time="2" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has shot blocked (18-yard box, Head, From corner)" minute="2" period="1" second="23" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="2" period="1" second="3" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

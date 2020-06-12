@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2012-04-01" home_team_name="Liverpool" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="21" time="97" type="end" type_id="30"/>
+	<message comment="Dirk Kuyt is caught offside" minute="91" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="90" period="2" second="26" time="93" type="substitution off" type_id="18"/>
+	<message comment="Davide Santon is substituted on" minute="90" period="2" second="26" time="93" type="substitution on" type_id="19"/>
+	<message comment="Jay Spearing wins a corner (To the right)" minute="88" period="2" second="18" time="91" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="84" period="2" second="27" time="87" type="corner" type_id="6"/>
+	<message comment="Pepe Reina recieves a red card" minute="82" period="2" second="2" time="85" type="card received" type_id="17"/>
+	<message comment="James Perch recieves a yellow card" minute="81" period="2" second="50" time="84" type="card received" type_id="17"/>
+	<message comment="Mike Williamson has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="80" period="2" second="46" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried into danger, Standing)" minute="80" period="2" second="46" time="83" type="save made" type_id="10"/>
+	<message comment="Jordan Henderson is substituted on" minute="79" period="2" second="30" time="82" type="substitution on" type_id="19"/>
+	<message comment="Craig Bellamy is substituted off" minute="79" period="2" second="30" time="82" type="substitution off" type_id="18"/>
+	<message comment="Andy Carroll is substituted off" minute="79" period="2" second="7" time="82" type="substitution off" type_id="18"/>
+	<message comment="Dirk Kuyt is substituted on" minute="79" period="2" second="7" time="82" type="substitution on" type_id="19"/>
+	<message comment="Mike Williamson blocks a shot" minute="78" period="2" second="11" time="81" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Right footed, Open play)" minute="78" period="2" second="11" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot" minute="78" period="2" second="8" time="81" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (Out of box, Right footed, Open play)" minute="78" period="2" second="8" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Jonjo Shelvey is substituted off" minute="75" period="2" second="11" time="78" type="substitution off" type_id="18"/>
+	<message comment="Stewart Downing is substituted on" minute="75" period="2" second="11" time="78" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is substituted off" minute="73" period="2" second="44" time="76" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="73" period="2" second="44" time="76" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="71" period="2" time="74" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel blocks a shot" minute="66" period="2" second="31" time="69" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Open play)" minute="66" period="2" second="31" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Guthrie is substituted off" minute="64" period="2" second="59" time="67" type="substitution off" type_id="18"/>
+	<message comment="Dan Gosling is substituted on" minute="64" period="2" second="59" time="67" type="substitution on" type_id="19"/>
+	<message comment="Andy Carroll is caught offside" minute="63" period="2" time="66" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel has shot blocked (18-yard box, Right footed, From corner)" minute="61" period="2" second="40" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot" minute="61" period="2" second="40" time="64" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="61" period="2" second="22" time="64" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="61" period="2" second="20" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch blocks a shot (Last line)" minute="61" period="2" second="20" time="64" type="save made" type_id="10"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Demba Ba (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="58" period="2" second="44" time="61" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="57" period="2" second="0" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="57" period="2" second="0" time="60" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté recieves a yellow card" minute="47" period="2" second="56" time="50" type="card received" type_id="17"/>
+	<message comment="Mike Williamson hits the woodwork (To the right, 18-yard box, Head, Set piece)" minute="46" period="2" second="58" time="49" type="woodwork hit" type_id="14"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="12" time="47" type="end" type_id="30"/>
+	<message comment="Steven Gerrard is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Jon Flanagan recieves a yellow card" minute="44" period="1" second="47" time="44" type="card received" type_id="17"/>
+	<message comment="Jamie Carragher blocks a shot" minute="43" period="1" second="2" time="43" type="save made" type_id="10"/>
+	<message comment="Danny Guthrie has shot blocked (Out of box, Right footed, Open play)" minute="43" period="1" second="2" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="43" period="1" time="43" type="offside" type_id="10000"/>
+	<message comment="Craig Bellamy is caught offside" minute="41" period="1" time="41" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Head, From corner)" minute="40" period="1" second="51" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson wins a corner (To the left)" minute="40" period="1" second="15" time="40" type="corner" type_id="6"/>
+	<message comment="Mike Williamson misses attempt (High to the left, 18-yard box, Head, From corner)" minute="34" period="1" second="14" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="33" period="1" second="41" time="33" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Fast break)" minute="33" period="1" second="38" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="33" period="1" second="38" time="33" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the right)" minute="32" period="1" second="23" time="32" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé recieves a yellow card" minute="29" period="1" second="20" time="29" type="card received" type_id="17"/>
+	<message comment="Andy Carroll misses attempt (6-yard box, Head, Open play)" minute="27" period="1" second="12" time="27" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Hatem Ben Arfa (Low to the right, 6-yard box, Head, Open play)" minute="18" period="1" second="32" time="18" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="16" period="1" second="52" time="16" type="card received" type_id="17"/>
+	<message comment="Andy Carroll misses attempt (To the left, 18-yard box, Head, From corner)" minute="15" period="1" second="48" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Craig Bellamy wins a corner (To the right)" minute="15" period="1" second="23" time="15" type="corner" type_id="6"/>
+	<message comment="Craig Bellamy wins a corner (To the left)" minute="14" period="1" second="46" time="14" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé misses attempt (18-yard box, Head, Set piece)" minute="10" period="1" second="24" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll recieves a yellow card" minute="9" period="1" second="37" time="9" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel misses attempt (High, 6-yard box, Head, Set piece)" minute="7" period="1" second="45" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey wins a corner (To the left)" minute="3" period="1" second="13" time="3" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Right footed, Open play)" minute="3" period="1" second="12" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye blocks a shot" minute="3" period="1" second="12" time="3" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

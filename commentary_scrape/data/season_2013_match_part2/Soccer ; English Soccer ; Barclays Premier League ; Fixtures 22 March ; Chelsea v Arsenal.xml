@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2014-03-22 12:45" game_id_2="27167342" game_id_4="113227556" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-03-22 14:17:05" minute="91" period="2" second="59" team="Arsenal" time="95" type="end" type_id="30"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2014-03-22 14:16:06" minute="91" period="2" team="Chelsea" time="95" type="offside" type_id="10000"/>
+	<message comment="Carl Jenkinson misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2014-03-22 14:15:18" minute="90" period="2" second="12" team="Chelsea" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2014-03-22 14:15:14" minute="90" period="2" second="8" team="Chelsea" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried into danger, Diving)" last_modified="2014-03-22 14:15:14" minute="90" period="2" second="8" team="Arsenal" time="94" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-03-22 14:13:24" minute="88" period="2" second="18" team="Chelsea" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="John Obi Mikel blocks a shot" last_modified="2014-03-22 14:13:24" minute="88" period="2" second="18" team="Arsenal" time="92" type="save made" type_id="10"/>
+	<message comment="Mohamed Salah is caught offside" last_modified="2014-03-22 14:10:06" minute="85" period="2" team="Arsenal" time="89" type="offside" type_id="10000"/>
+	<message comment="André Schürrle misses attempt (Out of box, Right footed, Open play)" last_modified="2014-03-22 14:08:25" minute="83" period="2" second="19" team="Arsenal" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Salah misses attempt (High to the left, 18-yard box, Left footed, Open play)" last_modified="2014-03-22 14:07:09" minute="82" period="2" second="3" team="Arsenal" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Carl Jenkinson blocks a shot" last_modified="2014-03-22 14:03:32" minute="78" period="2" second="26" team="Chelsea" time="82" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-22 14:03:32" minute="78" period="2" second="26" team="Arsenal" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="David Luiz is substituted off" last_modified="2014-03-22 13:56:16" minute="71" period="2" second="10" team="Arsenal" time="75" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" last_modified="2014-03-22 13:56:16" minute="71" period="2" second="10" team="Arsenal" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Mohamed Salah scores , Assisted by Nemanja Matic (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-03-22 13:55:28" minute="70" period="2" second="22" team="Arsenal" time="74" type="goal scored" type_id="16"/>
+	<message comment="Wojciech Szczesny makes a save (Parried into danger, Diving)" last_modified="2014-03-22 13:52:45" minute="67" period="2" second="39" team="Chelsea" time="71" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-03-22 13:52:45" minute="67" period="2" second="39" team="Arsenal" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is substituted off" last_modified="2014-03-22 13:51:45" minute="66" period="2" second="39" team="Arsenal" time="70" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Salah is substituted on" last_modified="2014-03-22 13:51:45" minute="66" period="2" second="39" team="Arsenal" time="70" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Oscar scores  (Low to the right, Out of box, Right footed, Open play)" last_modified="2014-03-22 13:50:34" minute="65" period="2" second="28" team="Arsenal" time="69" type="goal scored" type_id="16"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-03-22 13:49:52" minute="64" period="2" second="46" team="Chelsea" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" last_modified="2014-03-22 13:49:52" minute="64" period="2" second="46" team="Arsenal" time="68" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini has attempt saved (Low to the right, 18-yard box, Head, Set piece)" last_modified="2014-03-22 13:49:01" minute="63" period="2" second="55" team="Chelsea" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" last_modified="2014-03-22 13:49:01" minute="63" period="2" second="55" team="Arsenal" time="67" type="save made" type_id="10"/>
+	<message comment="Oscar misses attempt (18-yard box, Right footed, Open play)" last_modified="2014-03-22 13:47:31" minute="62" period="2" second="25" team="Arsenal" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" last_modified="2014-03-22 13:45:06" minute="60" period="2" team="Arsenal" time="64" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla misses attempt (18-yard box, Left footed, Open play)" last_modified="2014-03-22 13:45:06" minute="60" period="2" second="0" team="Chelsea" time="64" type="attempt missed" type_id="13"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-22 13:43:06" minute="58" period="2" team="Arsenal" time="62" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2014-03-22 13:39:38" minute="54" period="2" second="32" team="Chelsea" time="58" type="corner" type_id="6"/>
+	<message comment="Tomas Rosicky recieves a yellow card" last_modified="2014-03-22 13:36:32" minute="51" period="2" second="26" team="Chelsea" time="55" type="card received" type_id="17"/>
+	<message comment="David Luiz wins a corner (To the right)" last_modified="2014-03-22 13:32:03" minute="46" period="2" second="57" team="Arsenal" time="50" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving, Other body part)" last_modified="2014-03-22 13:32:01" minute="46" period="2" second="55" team="Chelsea" time="50" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-22 13:32:01" minute="46" period="2" second="55" team="Arsenal" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" last_modified="2014-03-22 13:32:00" minute="46" period="2" second="54" team="Chelsea" time="50" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-03-22 13:32:00" minute="46" period="2" second="54" team="Arsenal" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-22 13:31:06" minute="46" period="2" team="Arsenal" time="50" type="offside" type_id="10000"/>
+	<message comment="Laurent Koscielny is substituted off" last_modified="2014-03-22 13:30:06" minute="45" period="2" second="0" team="Chelsea" time="49" type="substitution off" type_id="18"/>
+	<message comment="Carl Jenkinson is substituted on" last_modified="2014-03-22 13:30:06" minute="45" period="2" second="0" team="Chelsea" time="49" type="substitution on" type_id="19"/>
+	<message comment="Alex Oxlade-Chamberlain is substituted off" last_modified="2014-03-22 13:30:06" minute="45" period="2" second="0" team="Chelsea" time="49" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" last_modified="2014-03-22 13:30:06" minute="45" period="2" second="0" team="Chelsea" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2014-03-22 13:30:06" minute="45" period="2" second="0" team="Arsenal" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-03-22 13:33:13" minute="48" period="1" second="7" team="Arsenal" time="48" type="end" type_id="30"/>
+	<message comment="Tomas Rosicky has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-03-22 13:32:42" minute="47" period="1" second="36" team="Chelsea" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" last_modified="2014-03-22 13:32:42" minute="47" period="1" second="36" team="Arsenal" time="47" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2014-03-22 13:32:09" minute="47" period="1" second="3" team="Chelsea" time="47" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (18-yard box, Right footed, From corner)" last_modified="2014-03-22 13:32:09" minute="47" period="1" second="3" team="Arsenal" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Oxlade-Chamberlain blocks a shot" last_modified="2014-03-22 13:32:06" minute="47" period="1" second="0" team="Chelsea" time="47" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, From corner)" last_modified="2014-03-22 13:32:06" minute="47" period="1" second="0" team="Arsenal" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle wins a corner (To the right)" last_modified="2014-03-22 13:31:36" minute="46" period="1" second="30" team="Arsenal" time="46" type="corner" type_id="6"/>
+	<message comment="André Schürrle wins a corner (To the right)" last_modified="2014-03-22 13:30:55" minute="45" period="1" second="49" team="Arsenal" time="45" type="corner" type_id="6"/>
+	<message comment="Fernando Torres wins a corner (To the right)" last_modified="2014-03-22 13:30:29" minute="45" period="1" second="23" team="Arsenal" time="45" type="corner" type_id="6"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Left footed, Open play)" last_modified="2014-03-22 13:29:36" minute="44" period="1" second="30" team="Chelsea" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save" last_modified="2014-03-22 13:28:11" minute="43" period="1" second="5" team="Chelsea" time="43" type="save made" type_id="10"/>
+	<message comment="Nemanja Matic has attempt saved (High to the left, Out of box, Left footed, Open play)" last_modified="2014-03-22 13:28:11" minute="43" period="1" second="5" team="Arsenal" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Oscar scores , Assisted by Fernando Torres (High to the right, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-22 13:26:23" minute="41" period="1" second="17" team="Arsenal" time="41" type="goal scored" type_id="16"/>
+	<message comment="Eden Hazard misses attempt (High, Out of box, Right footed, Open play)" last_modified="2014-03-22 13:25:21" minute="40" period="1" second="15" team="Arsenal" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" last_modified="2014-03-22 13:23:26" minute="38" period="1" second="20" team="Chelsea" time="38" type="save made" type_id="10"/>
+	<message comment="André Schürrle has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2014-03-22 13:23:26" minute="38" period="1" second="20" team="Arsenal" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar wins a corner (To the right)" last_modified="2014-03-22 13:22:44" minute="37" period="1" second="38" team="Arsenal" time="37" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-03-22 13:20:37" minute="35" period="1" second="31" team="Chelsea" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="César Azpilicueta blocks a shot" last_modified="2014-03-22 13:20:37" minute="35" period="1" second="31" team="Arsenal" time="35" type="save made" type_id="10"/>
+	<message comment="André Schürrle wins a corner (To the left)" last_modified="2014-03-22 13:15:46" minute="30" period="1" second="40" team="Arsenal" time="30" type="corner" type_id="6"/>
+	<message comment="André Schürrle wins a corner (To the left)" last_modified="2014-03-22 13:14:57" minute="29" period="1" second="51" team="Arsenal" time="29" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" last_modified="2014-03-22 13:14:52" minute="29" period="1" second="46" team="Chelsea" time="29" type="save made" type_id="10"/>
+	<message comment="David Luiz has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-03-22 13:14:52" minute="29" period="1" second="46" team="Arsenal" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-22 13:13:06" minute="28" period="1" team="Arsenal" time="28" type="offside" type_id="10000"/>
+	<message comment="Lukas Podolski is substituted off" last_modified="2014-03-22 13:08:13" minute="23" period="1" second="7" team="Chelsea" time="23" type="substitution off" type_id="18"/>
+	<message comment="Thomas Vermaelen is substituted on" last_modified="2014-03-22 13:08:13" minute="23" period="1" second="7" team="Chelsea" time="23" type="substitution on" type_id="19"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-03-22 13:07:25" minute="22" period="1" second="19" team="Arsenal" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" last_modified="2014-03-22 13:07:25" minute="22" period="1" second="19" team="Chelsea" time="22" type="save made" type_id="10"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the centre, 18-yard box, Penalty, Big Chance, Right footed)" last_modified="2014-03-22 13:01:37" minute="16" period="1" second="31" team="Arsenal" time="16" type="goal scored" type_id="16"/>
+	<message comment="Kieran Gibbs recieves a red card" last_modified="2014-03-22 12:59:52" minute="14" period="1" second="46" team="Chelsea" time="14" type="card received" type_id="17"/>
+	<message comment="Eden Hazard misses attempt (18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-03-22 12:59:26" minute="14" period="1" second="20" team="Arsenal" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Lukas Podolski is caught offside" last_modified="2014-03-22 12:57:06" minute="12" period="1" team="Chelsea" time="12" type="offside" type_id="10000"/>
+	<message comment="Samuel Eto'o is substituted off" last_modified="2014-03-22 12:54:40" minute="9" period="1" second="34" team="Arsenal" time="9" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" last_modified="2014-03-22 12:54:40" minute="9" period="1" second="34" team="Arsenal" time="9" type="substitution on" type_id="19"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Nemanja Matic (Low to the left, 18-yard box, Right footed, Fast break)" last_modified="2014-03-22 12:51:40" minute="6" period="1" second="34" team="Arsenal" time="6" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" last_modified="2014-03-22 12:45:06" minute="0" period="14" second="0" team="Arsenal" time="5" type="end" type_id="30"/>
+	<message comment="GOAL! Samuel Eto'o scores , Assisted by André Schürrle (Low to the left, 18-yard box, Left footed, Fast break)" last_modified="2014-03-22 12:49:27" minute="4" period="1" second="21" team="Arsenal" time="4" type="goal scored" type_id="16"/>
+	<message comment="Petr Cech makes a save (Diving, Parried safe)" last_modified="2014-03-22 12:48:59" minute="3" period="1" second="53" team="Arsenal" time="3" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2014-03-22 12:48:59" minute="3" period="1" second="53" team="Chelsea" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle is caught offside" last_modified="2014-03-22 12:48:06" minute="3" period="1" team="Arsenal" time="3" type="offside" type_id="10000"/>
+	<message comment="Nemanja Matic blocks a shot" last_modified="2014-03-22 12:46:47" minute="1" period="1" second="41" team="Arsenal" time="1" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-03-22 12:46:47" minute="1" period="1" second="41" team="Chelsea" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2014-03-22 12:45:06" minute="0" period="1" second="0" team="Arsenal" time="0" type="start" type_id="32"/>
+</Commentary>

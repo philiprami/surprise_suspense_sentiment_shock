@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2011-08-15" home_team_name="Swansea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="6" time="95" type="end" type_id="30"/>
+	<message comment="Danny Graham has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="91" period="2" second="44" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="91" period="2" second="44" time="93" type="save made" type_id="10"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Yaya Touré (Low to the left, Out of box, Right footed, Open play)" minute="90" period="2" second="34" time="92" type="goal scored" type_id="16"/>
+	<message comment="James Milner has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="89" period="2" second="58" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" minute="89" period="2" second="58" time="91" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="87" period="2" second="14" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry blocks a shot" minute="84" period="2" second="12" time="86" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge has shot blocked (Out of box, Right footed, Open play)" minute="84" period="2" second="12" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Left footed, Open play)" minute="81" period="2" second="49" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel blocks a shot" minute="81" period="2" second="49" time="83" type="save made" type_id="10"/>
+	<message comment="David Silva is substituted off" minute="81" period="2" second="25" time="83" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="81" period="2" second="25" time="83" type="substitution on" type_id="19"/>
+	<message comment="Nathan Dyer is substituted off" minute="80" period="2" second="59" time="82" type="substitution off" type_id="18"/>
+	<message comment="Leroy Lita is substituted on" minute="80" period="2" second="59" time="82" type="substitution on" type_id="19"/>
+	<message comment="Joe Hart makes a save (Diving, Collected)" minute="80" period="2" second="19" time="82" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="80" period="2" second="19" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré has attempt saved (Low to the centre, 18-yard box, Right footed, Set piece)" minute="76" period="2" second="6" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving)" minute="76" period="2" second="6" time="78" type="save made" type_id="10"/>
+	<message comment="Adam Johnson is substituted off" minute="74" period="2" second="5" time="76" type="substitution off" type_id="18"/>
+	<message comment="Stefan Savic is substituted on" minute="74" period="2" second="5" time="76" type="substitution on" type_id="19"/>
+	<message comment="Scott Sinclair wins a corner (To the left)" minute="71" period="2" second="9" time="73" type="corner" type_id="6"/>
+	<message comment="GOAL! David Silva scores , Assisted by Sergio Agüero (High to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="70" period="2" second="9" time="72" type="goal scored" type_id="16"/>
+	<message comment="Wayne Routledge misses attempt (To the right, Out of box, Right footed, From corner)" minute="69" period="2" second="27" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Joe Allen wins a corner (To the left)" minute="69" period="2" second="2" time="71" type="corner" type_id="6"/>
+	<message comment="Vincent Kompany blocks a shot" minute="69" period="2" second="1" time="71" type="save made" type_id="10"/>
+	<message comment="Joe Allen has shot blocked (Out of box, Right footed, Open play)" minute="69" period="2" second="1" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Micah Richards (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="67" period="2" second="37" time="69" type="goal scored" type_id="16"/>
+	<message comment="Danny Graham wins a corner (To the right)" minute="66" period="2" second="12" time="68" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge is substituted on" minute="64" period="2" second="51" time="66" type="substitution on" type_id="19"/>
+	<message comment="Stephen Dobbie is substituted off" minute="64" period="2" second="51" time="66" type="substitution off" type_id="18"/>
+	<message comment="Leon Britton is substituted off" minute="64" period="2" second="36" time="66" type="substitution off" type_id="18"/>
+	<message comment="Joe Allen is substituted on" minute="64" period="2" second="36" time="66" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Left footed, Open play)" minute="61" period="2" second="30" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="60" period="2" second="46" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving)" minute="60" period="2" second="46" time="62" type="save made" type_id="10"/>
+	<message comment="Yaya Touré is caught offside" minute="60" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Nigel de Jong is substituted off" minute="59" period="2" second="16" time="61" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="59" period="2" second="16" time="61" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Edin Dzeko scores  (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="56" period="2" second="55" time="58" type="goal scored" type_id="16"/>
+	<message comment="Adam Johnson has attempt saved (Low to the left, 18-yard box, Left footed, Fast break)" minute="56" period="2" second="53" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried into danger, Diving)" minute="56" period="2" second="53" time="58" type="save made" type_id="10"/>
+	<message comment="Joe Hart makes a save (Diving, Parried into danger)" minute="52" period="2" second="39" time="54" type="save made" type_id="10"/>
+	<message comment="Stephen Dobbie has attempt saved (Low to the right, Out of box, Right footed, Fast break)" minute="52" period="2" second="39" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="51" period="2" second="48" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving)" minute="51" period="2" second="48" time="53" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="48" period="2" second="37" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson wins a corner (To the right)" minute="47" period="2" second="44" time="49" type="corner" type_id="6"/>
+	<message comment="Adam Johnson has shot blocked (18-yard box, Left footed, Open play)" minute="47" period="2" second="43" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Tate blocks a shot" minute="47" period="2" second="43" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="31" time="46" type="end" type_id="30"/>
+	<message comment="Gareth Barry hits the woodwork (High, Out of box, Left footed, From corner)" minute="46" period="1" second="23" time="46" type="woodwork hit" type_id="14"/>
+	<message comment="Gareth Barry wins a corner (To the left)" minute="46" period="1" second="5" time="46" type="corner" type_id="6"/>
+	<message comment="Gareth Barry has shot blocked (Out of box, Left footed, Open play)" minute="45" period="1" second="56" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="45" period="1" second="56" time="45" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="1" second="4" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Diving, Feet)" minute="45" period="1" second="4" time="45" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="44" period="1" second="6" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="44" period="1" second="6" time="44" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="42" period="1" second="58" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" minute="42" period="1" second="58" time="42" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="41" period="1" second="22" time="41" type="attempt missed" type_id="13"/>
+	<message comment="David Silva misses attempt (High, 18-yard box, Right footed, From corner)" minute="38" period="1" second="23" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="38" period="1" second="9" time="38" type="corner" type_id="6"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Diving, From shot off target)" minute="38" period="1" second="7" time="38" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Right footed, Open play)" minute="38" period="1" second="2" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="34" period="1" second="17" time="34" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is caught offside" minute="32" period="1" time="32" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko wins a corner (To the right)" minute="30" period="1" second="55" time="30" type="corner" type_id="6"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="29" period="1" second="28" time="29" type="corner" type_id="6"/>
+	<message comment="David Silva hits the woodwork (High, 18-yard box, Left footed, Open play)" minute="29" period="1" second="16" time="29" type="woodwork hit" type_id="14"/>
+	<message comment="Yaya Touré has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="27" period="1" second="23" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" minute="27" period="1" second="23" time="27" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, From corner)" minute="26" period="1" second="3" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Collected)" minute="26" period="1" second="3" time="26" type="save made" type_id="10"/>
+	<message comment="Micah Richards wins a corner (To the right)" minute="25" period="1" second="44" time="25" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Left footed, Throw-in)" minute="23" period="1" second="36" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" minute="23" period="1" second="36" time="23" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (High to the left, Out of box, Left footed, From corner)" minute="23" period="1" second="13" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe, Diving)" minute="23" period="1" second="13" time="23" type="save made" type_id="10"/>
+	<message comment="Adam Johnson wins a corner (To the right)" minute="22" period="1" second="35" time="22" type="corner" type_id="6"/>
+	<message comment="Adam Johnson has shot blocked (18-yard box, Left footed, Open play)" minute="22" period="1" second="32" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Tate blocks a shot" minute="22" period="1" second="32" time="22" type="save made" type_id="10"/>
+	<message comment="David Silva is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Scott Sinclair is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Stephen Dobbie misses attempt (High to the right, Out of box, Right footed, Throw-in)" minute="11" period="1" second="30" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Dobbie wins a corner (To the right)" minute="8" period="1" second="1" time="8" type="corner" type_id="6"/>
+	<message comment="Stephen Dobbie misses attempt (To the left, Out of box, Right footed, Open play)" minute="5" period="1" second="25" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="18" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Tate blocks a shot" minute="1" period="1" second="18" time="1" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

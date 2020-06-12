@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Queens Park Rangers" competition="English Premier League" game_date="2011-11-05" home_team_name="Manchester City" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="21" time="95" type="end" type_id="30"/>
+	<message comment="Heidar Helguson misses attempt (To the right, 18-yard box, Head, From corner)" minute="92" period="2" second="56" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Tommy Smith wins a corner (To the left)" minute="92" period="2" second="30" time="94" type="corner" type_id="6"/>
+	<message comment="Armand Traore is substituted off" minute="90" period="2" second="55" time="92" type="substitution off" type_id="18"/>
+	<message comment="Clint Hill is substituted on" minute="90" period="2" second="55" time="92" type="substitution on" type_id="19"/>
+	<message comment="Alejandro Faurlin misses attempt (High to the left, Out of box, Left footed, Open play)" minute="90" period="2" second="31" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli misses attempt (High to the right, Out of box, Right footed, Open play)" minute="89" period="2" second="20" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko is substituted off" minute="87" period="2" second="50" time="89" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="87" period="2" second="50" time="89" type="substitution on" type_id="19"/>
+	<message comment="Jamie Mackie is substituted off" minute="83" period="2" second="34" time="85" type="substitution off" type_id="18"/>
+	<message comment="Tommy Smith is substituted on" minute="83" period="2" second="34" time="85" type="substitution on" type_id="19"/>
+	<message comment="Heidar Helguson hits the woodwork (To the left, 18-yard box, Head, Set piece)" minute="81" period="2" second="46" time="83" type="woodwork hit" type_id="14"/>
+	<message comment="Joey Barton recieves a yellow card" minute="80" period="2" second="29" time="82" type="card received" type_id="17"/>
+	<message comment="David Silva misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="79" period="2" second="1" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli recieves a yellow card" minute="77" period="2" second="27" time="79" type="card received" type_id="17"/>
+	<message comment="Jay Bothroyd is substituted off" minute="76" period="2" second="16" time="78" type="substitution off" type_id="18"/>
+	<message comment="Jason Puncheon is substituted on" minute="76" period="2" second="16" time="78" type="substitution on" type_id="19"/>
+	<message comment="Luke Young blocks a shot" minute="75" period="2" second="33" time="77" type="save made" type_id="10"/>
+	<message comment="Mario Balotelli has shot blocked (18-yard box, Right footed, Open play)" minute="75" period="2" second="33" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry is substituted off" minute="74" period="2" second="25" time="76" type="substitution off" type_id="18"/>
+	<message comment="Mario Balotelli is substituted on" minute="74" period="2" second="25" time="76" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by Aleksandar Kolarov (High to the left, 18-yard box, Head, Open play)" minute="73" period="2" second="22" time="75" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Heidar Helguson scores , Assisted by Jay Bothroyd (High to the right, 6-yard box, Big Chance, Other body part, Open play)" minute="68" period="2" second="5" time="70" type="goal scored" type_id="16"/>
+	<message comment="Jay Bothroyd has shot blocked (18-yard box, Big Chance, Key pass, Head, Open play)" minute="68" period="2" second="3" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero is substituted off" minute="67" period="2" second="10" time="69" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="67" period="2" second="10" time="69" type="substitution on" type_id="19"/>
+	<message comment="Jamie Mackie misses attempt (High, 18-yard box, Left footed, Open play)" minute="66" period="2" second="22" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Open play)" minute="66" period="2" second="9" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="66" period="2" second="9" time="68" type="save made" type_id="10"/>
+	<message comment="Heidar Helguson has shot blocked (Out of box, Left footed, Open play)" minute="65" period="2" second="24" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="65" period="2" second="24" time="67" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero misses attempt (Out of box, Right footed, Throw-in)" minute="59" period="2" second="36" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Paddy Kenny makes a save (Diving, Parried safe)" minute="59" period="2" second="19" time="61" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="59" period="2" second="19" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Bothroyd misses attempt (High, Out of box, Left footed, Open play)" minute="58" period="2" second="48" time="60" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Open play)" minute="57" period="2" second="22" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="57" period="2" second="22" time="59" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips is caught offside" minute="56" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="54" period="2" second="51" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="54" period="2" second="1" time="56" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! David Silva scores , Assisted by Edin Dzeko (Low to the left, 18-yard box, Left footed, Open play)" minute="51" period="2" second="31" time="53" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko is caught offside" minute="49" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Joey Barton misses attempt (High, Out of box, Right footed, Set piece)" minute="46" period="2" second="48" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="45" period="2" second="18" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving, Parried safe)" minute="45" period="2" second="18" time="47" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="37" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Stefan Savic blocks a shot" minute="45" period="1" second="37" time="45" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero hits the woodwork (To the left, Out of box, Right footed, Open play)" minute="44" period="1" second="36" time="44" type="woodwork hit" type_id="14"/>
+	<message comment="Luke Young blocks a shot" minute="43" period="1" second="59" time="43" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (18-yard box, Left footed, Open play)" minute="43" period="1" second="59" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by James Milner (Low to the left, 18-yard box, Right footed, Open play)" minute="42" period="1" second="30" time="42" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov misses attempt (Out of box, Left footed, Free kick)" minute="40" period="1" second="51" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Jay Bothroyd hits the woodwork (To the right, 18-yard box, Big Chance, Head, Open play)" minute="39" period="1" second="9" time="39" type="woodwork hit" type_id="14"/>
+	<message comment="David Silva misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="35" period="1" second="30" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Paddy Kenny makes a save (Feet, Standing, Parried safe)" minute="33" period="1" second="58" time="33" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="33" period="1" second="58" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Mackie has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="33" period="1" second="18" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Standing)" minute="33" period="1" second="18" time="33" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (Out of box, Right footed, Fast break)" minute="33" period="1" second="14" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Stefan Savic blocks a shot" minute="33" period="1" second="14" time="33" type="save made" type_id="10"/>
+	<message comment="Heidar Helguson is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré misses attempt (To the right, Out of box, Right footed, Open play)" minute="28" period="1" second="38" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="28" period="1" second="36" time="28" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Left footed, Open play)" minute="28" period="1" second="36" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jay Bothroyd scores , Assisted by Joey Barton (Low to the right, 18-yard box, Big Chance, Head, Set piece)" minute="27" period="1" second="27" time="27" type="goal scored" type_id="16"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (Out of box, Right footed, Open play)" minute="26" period="1" second="35" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="26" period="1" second="35" time="26" type="save made" type_id="10"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="22" period="1" second="51" time="22" type="corner" type_id="6"/>
+	<message comment="Heidar Helguson has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="14" period="1" second="45" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="14" period="1" second="45" time="14" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="13" period="1" second="36" time="13" type="corner" type_id="6"/>
+	<message comment="Heidar Helguson misses attempt (To the left, 18-yard box, Head, From corner)" minute="8" period="1" second="12" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Armand Traore wins a corner (To the left)" minute="7" period="1" second="34" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="48" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="3" period="1" second="48" time="3" type="save made" type_id="10"/>
+	<message comment="Heidar Helguson misses attempt (18-yard box, Right footed, Open play)" minute="2" period="1" second="55" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry misses attempt (To the right, Out of box, Left footed, Open play)" minute="0" period="1" second="30" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

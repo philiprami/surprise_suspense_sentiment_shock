@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Hull" competition="English Premier League" game_date="2013-12-14 17:30" game_id_2="27112899" game_id_4="112154869" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-12-14 19:04:03" minute="92" period="2" second="58" team="Stoke" time="94" type="end" type_id="30"/>
+	<message comment="Marko Arnautovic is substituted off" last_modified="2013-12-14 19:00:29" minute="89" period="2" second="24" team="Hull" time="91" type="substitution off" type_id="18"/>
+	<message comment="Charlie Adam is substituted on" last_modified="2013-12-14 19:00:29" minute="89" period="2" second="24" team="Hull" time="91" type="substitution on" type_id="19"/>
+	<message comment="George Boyd is caught offside" last_modified="2013-12-14 18:54:05" minute="83" period="2" team="Stoke" time="85" type="offside" type_id="10000"/>
+	<message comment="Danny Graham is substituted off" last_modified="2013-12-14 18:52:45" minute="81" period="2" second="40" team="Stoke" time="83" type="substitution off" type_id="18"/>
+	<message comment="George Boyd is substituted on" last_modified="2013-12-14 18:52:45" minute="81" period="2" second="40" team="Stoke" time="83" type="substitution on" type_id="19"/>
+	<message comment="Glenn Whelan is substituted off" last_modified="2013-12-14 18:48:50" minute="77" period="2" second="45" team="Hull" time="79" type="substitution off" type_id="18"/>
+	<message comment="Wilson Palacios is substituted on" last_modified="2013-12-14 18:48:50" minute="77" period="2" second="45" team="Hull" time="79" type="substitution on" type_id="19"/>
+	<message comment="David Meyler is substituted off" last_modified="2013-12-14 18:48:35" minute="77" period="2" second="30" team="Stoke" time="79" type="substitution off" type_id="18"/>
+	<message comment="Liam Rosenior is substituted on" last_modified="2013-12-14 18:48:35" minute="77" period="2" second="30" team="Stoke" time="79" type="substitution on" type_id="19"/>
+	<message comment="Glenn Whelan misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-14 18:47:10" minute="76" period="2" second="5" team="Hull" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron misses attempt (High, 18-yard box, Left footed, From corner)" last_modified="2013-12-14 18:45:53" minute="74" period="2" second="48" team="Hull" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross hits the woodwork (High, 18-yard box, Head, From corner)" last_modified="2013-12-14 18:45:52" minute="74" period="2" second="47" team="Hull" time="76" type="woodwork hit" type_id="14"/>
+	<message comment="Peter Crouch wins a corner (To the right)" last_modified="2013-12-14 18:45:23" minute="74" period="2" second="18" team="Hull" time="76" type="corner" type_id="6"/>
+	<message comment="Allan McGregor makes a save (Parried safe, Diving)" last_modified="2013-12-14 18:45:22" minute="74" period="2" second="17" team="Stoke" time="76" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-14 18:45:22" minute="74" period="2" second="17" team="Hull" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Crouch has attempt saved (Low to the centre, 6-yard box, Big Chance, Head, Open play)" last_modified="2013-12-14 18:41:35" minute="70" period="2" second="30" team="Hull" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Allan McGregor makes a save (Diving, Parried into danger)" last_modified="2013-12-14 18:41:35" minute="70" period="2" second="30" team="Stoke" time="72" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone blocks a shot" last_modified="2013-12-14 18:41:22" minute="70" period="2" second="17" team="Stoke" time="72" type="save made" type_id="10"/>
+	<message comment="Steven Nzonzi has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 18:41:22" minute="70" period="2" second="17" team="Hull" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Ireland is caught offside" last_modified="2013-12-14 18:41:05" minute="70" period="2" team="Hull" time="72" type="offside" type_id="10000"/>
+	<message comment="Stephen Ireland misses attempt (To the right, 18-yard box, Right footed, From corner)" last_modified="2013-12-14 18:38:48" minute="67" period="2" second="43" team="Hull" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch wins a corner (To the right)" last_modified="2013-12-14 18:38:21" minute="67" period="2" second="16" team="Hull" time="69" type="corner" type_id="6"/>
+	<message comment="Alex Bruce is substituted off" last_modified="2013-12-14 18:37:20" minute="66" period="2" second="15" team="Stoke" time="68" type="substitution off" type_id="18"/>
+	<message comment="Robbie Brady is substituted on" last_modified="2013-12-14 18:37:20" minute="66" period="2" second="15" team="Stoke" time="68" type="substitution on" type_id="19"/>
+	<message comment="Marc Muniesa is substituted off" last_modified="2013-12-14 18:36:49" minute="65" period="2" second="44" team="Hull" time="67" type="substitution off" type_id="18"/>
+	<message comment="Erik Pieters is substituted on" last_modified="2013-12-14 18:36:49" minute="65" period="2" second="44" team="Hull" time="67" type="substitution on" type_id="19"/>
+	<message comment="Jake Livermore wins a corner (To the right)" last_modified="2013-12-14 18:34:53" minute="63" period="2" second="48" team="Stoke" time="65" type="corner" type_id="6"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2013-12-14 18:34:45" minute="63" period="2" second="40" team="Hull" time="65" type="save made" type_id="10"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 18:34:45" minute="63" period="2" second="40" team="Stoke" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" last_modified="2013-12-14 18:31:19" minute="60" period="2" second="14" team="Stoke" time="62" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" last_modified="2013-12-14 18:30:56" minute="59" period="2" second="51" team="Stoke" time="61" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady has attempt saved (High to the centre, 18-yard box, Big Chance, Head, Open play)" last_modified="2013-12-14 18:30:53" minute="59" period="2" second="48" team="Stoke" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Diving)" last_modified="2013-12-14 18:30:53" minute="59" period="2" second="48" team="Hull" time="61" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo recieves a yellow card" last_modified="2013-12-14 18:29:30" minute="58" period="2" second="25" team="Stoke" time="60" type="card received" type_id="17"/>
+	<message comment="James Chester wins a corner (To the right)" last_modified="2013-12-14 18:28:54" minute="57" period="2" second="49" team="Stoke" time="59" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross misses attempt (To the left, 6-yard box, Right footed, From corner)" last_modified="2013-12-14 18:26:45" minute="55" period="2" second="40" team="Hull" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" last_modified="2013-12-14 18:26:24" minute="55" period="2" second="19" team="Hull" time="57" type="corner" type_id="6"/>
+	<message comment="Jake Livermore misses attempt (To the right, 18-yard box, Left footed, Open play)" last_modified="2013-12-14 18:25:39" minute="54" period="2" second="34" team="Stoke" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-12-14 18:24:29" minute="53" period="2" second="24" team="Hull" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Jake Livermore has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 18:21:58" minute="50" period="2" second="53" team="Stoke" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2013-12-14 18:21:58" minute="50" period="2" second="53" team="Hull" time="52" type="save made" type_id="10"/>
+	<message comment="Glenn Whelan misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-12-14 18:21:07" minute="50" period="2" second="2" team="Hull" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is caught offside" last_modified="2013-12-14 18:16:05" minute="45" period="2" team="Hull" time="47" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" last_modified="2013-12-14 18:16:05" minute="45" period="2" second="0" team="Stoke" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-12-14 18:17:28" minute="46" period="1" second="23" team="Stoke" time="46" type="end" type_id="30"/>
+	<message comment="Yannick Sagbo misses attempt (High to the left, 18-yard box, Left footed, Open play)" last_modified="2013-12-14 18:13:23" minute="42" period="1" second="18" team="Stoke" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-12-14 18:07:05" minute="36" period="1" team="Hull" time="36" type="offside" type_id="10000"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-12-14 18:06:27" minute="35" period="1" second="22" team="Stoke" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yannick Sagbo is caught offside" last_modified="2013-12-14 18:05:05" minute="34" period="1" team="Stoke" time="34" type="offside" type_id="10000"/>
+	<message comment="Oussama Assaidi is caught offside" last_modified="2013-12-14 17:57:05" minute="26" period="1" team="Hull" time="26" type="offside" type_id="10000"/>
+	<message comment="Curtis Davies misses attempt (To the left, 18-yard box, Big Chance, Head, Set piece)" last_modified="2013-12-14 17:56:12" minute="25" period="1" second="7" team="Stoke" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Oussama Assaidi misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-12-14 17:54:13" minute="23" period="1" second="8" team="Hull" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan blocks a shot" last_modified="2013-12-14 17:53:28" minute="22" period="1" second="23" team="Hull" time="22" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-12-14 17:53:28" minute="22" period="1" second="23" team="Stoke" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Sagbo wins a corner (To the right)" last_modified="2013-12-14 17:51:57" minute="20" period="1" second="52" team="Stoke" time="20" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Diving)" last_modified="2013-12-14 17:51:54" minute="20" period="1" second="49" team="Hull" time="20" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2013-12-14 17:51:54" minute="20" period="1" second="49" team="Stoke" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-12-14 17:50:04" minute="18" period="1" second="59" team="Hull" time="18" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-12-14 17:50:04" minute="18" period="1" second="59" team="Stoke" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Oussama Assaidi wins a corner (To the right)" last_modified="2013-12-14 17:46:39" minute="15" period="1" second="34" team="Hull" time="15" type="corner" type_id="6"/>
+	<message comment="Stephen Ireland wins a corner (To the right)" last_modified="2013-12-14 17:46:05" minute="15" period="1" second="0" team="Hull" time="15" type="corner" type_id="6"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" last_modified="2013-12-14 17:43:02" minute="11" period="1" second="57" team="Stoke" time="11" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Diving)" last_modified="2013-12-14 17:43:01" minute="11" period="1" second="56" team="Hull" time="11" type="save made" type_id="10"/>
+	<message comment="Ahmed El Mohamady has attempt saved (High to the right, Out of box, Right footed, From corner)" last_modified="2013-12-14 17:43:01" minute="11" period="1" second="56" team="Stoke" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Graham wins a corner (To the right)" last_modified="2013-12-14 17:42:20" minute="11" period="1" second="15" team="Stoke" time="11" type="corner" type_id="6"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2013-12-14 17:42:19" minute="11" period="1" second="14" team="Hull" time="11" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-12-14 17:42:19" minute="11" period="1" second="14" team="Stoke" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-12-14 17:38:40" minute="7" period="1" second="35" team="Stoke" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Collected, Diving)" last_modified="2013-12-14 17:38:40" minute="7" period="1" second="35" team="Hull" time="7" type="save made" type_id="10"/>
+	<message comment="Formation Set" last_modified="2013-12-14 17:31:05" minute="0" period="14" second="0" team="Stoke" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" last_modified="2013-12-14 17:31:05" minute="0" period="1" second="0" team="Stoke" time="0" type="start" type_id="32"/>
+</Commentary>

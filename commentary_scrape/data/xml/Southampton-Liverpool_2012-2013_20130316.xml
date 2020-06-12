@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-03-16" home_team_name="Liverpool" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="32" time="96" type="end" type_id="30"/>
+	<message comment="Brad Jones makes a save (Collected)" minute="92" period="2" second="9" time="95" type="save made" type_id="10"/>
+	<message comment="Jack Cork has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="92" period="2" second="9" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez is caught offside" minute="92" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="91" period="2" second="37" time="94" type="card received" type_id="17"/>
+	<message comment="José Enrique misses attempt (6-yard box, Big Chance, Left footed, Open play)" minute="90" period="2" second="17" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="86" period="2" second="35" time="89" type="corner" type_id="6"/>
+	<message comment="Adam Lallana is substituted off" minute="83" period="2" second="35" time="86" type="substitution off" type_id="18"/>
+	<message comment="Guly do Prado is substituted on" minute="83" period="2" second="35" time="86" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge is substituted off" minute="83" period="2" second="11" time="86" type="substitution off" type_id="18"/>
+	<message comment="Jordan Henderson is substituted on" minute="83" period="2" second="11" time="86" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jay Rodriguez scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="23" time="82" type="goal scored" type_id="16"/>
+	<message comment="Brad Jones makes a save (Parried into danger, Diving)" minute="79" period="2" second="22" time="82" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="79" period="2" second="22" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Jones makes a save (Parried into danger, Diving)" minute="76" period="2" second="58" time="79" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="76" period="2" second="58" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="76" period="2" second="12" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving)" minute="76" period="2" second="12" time="79" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" minute="76" period="2" second="7" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Shaw blocks a shot" minute="76" period="2" second="7" time="79" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez wins a corner (To the left)" minute="73" period="2" second="30" time="76" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="73" period="2" second="25" time="76" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="25" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique wins a corner (To the right)" minute="72" period="2" second="20" time="75" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="68" period="2" second="57" time="71" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="68" period="2" second="56" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte blocks a shot" minute="68" period="2" second="56" time="71" type="save made" type_id="10"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" minute="66" period="2" second="47" time="69" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="64" period="2" second="48" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save" minute="64" period="2" second="48" time="67" type="save made" type_id="10"/>
+	<message comment="Luke Shaw wins a corner (To the left)" minute="60" period="2" second="17" time="63" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez wins a corner (To the right)" minute="58" period="2" second="29" time="61" type="corner" type_id="6"/>
+	<message comment="Gastón Ramírez is substituted off" minute="54" period="2" second="45" time="57" type="substitution off" type_id="18"/>
+	<message comment="Steven Davis is substituted on" minute="54" period="2" second="45" time="57" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (To the right, 18-yard box, Left footed, From corner)" minute="53" period="2" second="56" time="56" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="53" period="2" second="9" time="56" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho is caught offside" minute="49" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="Joe Allen is substituted off" minute="45" period="2" second="0" time="48" type="substitution off" type_id="18"/>
+	<message comment="Lucas Leiva is substituted on" minute="45" period="2" second="0" time="48" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="GOAL! Philippe Coutinho scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="1" second="33" time="45" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="31" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="José Fonte blocks a shot" minute="45" period="1" second="31" time="45" type="save made" type_id="10"/>
+	<message comment="Adam Lallana misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="42" period="1" second="25" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Head, Open play)" minute="41" period="1" second="38" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="39" period="1" second="36" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving, Parried into danger, Feet)" minute="39" period="1" second="36" time="39" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez misses attempt (Out of box, Right footed, Open play)" minute="38" period="1" second="1" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="GOAL! Rickie Lambert scores  (Low to the right, Out of box, Right footed, Free kick)" minute="32" period="1" second="37" time="32" type="goal scored" type_id="16"/>
+	<message comment="Jos Hooiveld is substituted off" minute="31" period="1" second="15" time="31" type="substitution off" type_id="18"/>
+	<message comment="José Fonte is substituted on" minute="31" period="1" second="15" time="31" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge is caught offside" minute="29" period="1" time="29" type="offside" type_id="10000"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="28" period="1" second="24" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Artur Boruc makes a save (Diving)" minute="28" period="1" second="24" time="28" type="save made" type_id="10"/>
+	<message comment="Artur Boruc makes a save (Diving)" minute="24" period="1" second="58" time="24" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez wins a corner (To the right)" minute="21" period="1" second="50" time="21" type="corner" type_id="6"/>
+	<message comment="Jay Rodriguez misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="20" period="1" second="31" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Brad Jones makes a save (Parried into danger)" minute="20" period="1" second="29" time="20" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="20" period="1" second="29" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Jones makes a save (Diving, Parried safe)" minute="17" period="1" second="5" time="17" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="17" period="1" second="5" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Jones makes a save" minute="14" period="1" second="58" time="14" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="14" period="1" second="58" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Nathaniel Clyne wins a corner (To the right)" minute="14" period="1" second="16" time="14" type="corner" type_id="6"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="9" period="1" second="43" time="9" type="corner" type_id="6"/>
+	<message comment="Brad Jones makes a save (Standing, Parried into danger)" minute="9" period="1" second="34" time="9" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="9" period="1" second="34" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana misses attempt (High to the right, 18-yard box, Left footed, Throw-in)" minute="8" period="1" second="54" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Morgan Schneiderlin scores , Assisted by Jay Rodriguez (Low to the right, 18-yard box, Right footed, Open play)" minute="5" period="1" second="16" time="5" type="goal scored" type_id="16"/>
+	<message comment="Brad Jones makes a save (Diving)" minute="4" period="1" second="12" time="4" type="save made" type_id="10"/>
+	<message comment="Gastón Ramírez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="4" period="1" second="12" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel blocks a shot" minute="3" period="1" second="31" time="3" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="3" period="1" second="31" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Sturridge is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="1" period="1" second="35" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

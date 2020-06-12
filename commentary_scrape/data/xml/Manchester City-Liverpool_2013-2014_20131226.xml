@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-12-26" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="15" time="96" type="end" type_id="30"/>
+	<message comment="Luis Suárez is caught offside" minute="92" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel blocks a shot" minute="90" period="2" second="53" time="92" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Right footed, Open play)" minute="90" period="2" second="53" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="90" period="2" second="18" time="92" type="card received" type_id="17"/>
+	<message comment="Yaya Touré misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="89" period="2" second="5" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Aly Cissokho wins a corner (To the left)" minute="87" period="2" second="38" time="89" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save" minute="87" period="2" second="5" time="89" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="87" period="2" second="5" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva is substituted off" minute="86" period="2" second="45" time="88" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="86" period="2" second="45" time="88" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses recieves a yellow card" minute="85" period="2" second="50" time="87" type="card received" type_id="17"/>
+	<message comment="Luis Suárez misses attempt (High, Out of box, Right footed, Free kick)" minute="84" period="2" second="9" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Lucas Leiva is substituted off" minute="81" period="2" second="16" time="83" type="substitution off" type_id="18"/>
+	<message comment="Iago Aspas is substituted on" minute="81" period="2" second="16" time="83" type="substitution on" type_id="19"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="80" period="2" second="5" time="82" type="card received" type_id="17"/>
+	<message comment="Álvaro Negredo is substituted off" minute="76" period="2" second="55" time="78" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="76" period="2" second="55" time="78" type="substitution on" type_id="19"/>
+	<message comment="Raheem Sterling misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="72" period="2" second="14" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri is substituted off" minute="71" period="2" second="55" time="73" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="71" period="2" second="55" time="73" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="70" period="2" second="8" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="70" period="2" second="8" time="72" type="save made" type_id="10"/>
+	<message comment="Mamadou Sakho has shot blocked (18-yard box, Head, From corner)" minute="69" period="2" second="59" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="69" period="2" second="59" time="71" type="save made" type_id="10"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="69" period="2" second="32" time="71" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="69" period="2" second="5" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="69" period="2" second="5" time="71" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="68" period="2" second="30" time="70" type="corner" type_id="6"/>
+	<message comment="Philippe Coutinho is substituted off" minute="67" period="2" second="35" time="69" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="67" period="2" second="35" time="69" type="substitution on" type_id="19"/>
+	<message comment="Glen Johnson recieves a yellow card" minute="67" period="2" second="12" time="69" type="card received" type_id="17"/>
+	<message comment="Lucas Leiva blocks a shot" minute="63" period="2" second="48" time="65" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="63" period="2" second="48" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save" minute="58" period="2" second="12" time="60" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="58" period="2" second="12" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Vincent Kompany misses attempt (18-yard box, Head, From corner)" minute="55" period="2" second="32" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="55" period="2" second="8" time="57" type="corner" type_id="6"/>
+	<message comment="Mamadou Sakho blocks a shot" minute="52" period="2" second="19" time="54" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" minute="52" period="2" second="19" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Right footed, Open play)" minute="50" period="2" second="5" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Jordan Henderson is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="48" period="2" second="57" time="50" type="corner" type_id="6"/>
+	<message comment="Luis Suárez has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="48" period="2" second="54" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing, Parried safe)" minute="48" period="2" second="54" time="50" type="save made" type_id="10"/>
+	<message comment="Glen Johnson wins a corner (To the right)" minute="48" period="2" second="12" time="50" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson misses attempt (High to the left, Out of box, Right footed, Open play)" minute="47" period="2" second="3" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri is caught offside" minute="47" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="23" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Álvaro Negredo scores , Assisted by Jesús Navas (Low to the centre, Out of box, Big Chance, Left footed, Fast break)" minute="45" period="1" second="9" time="45" type="goal scored" type_id="16"/>
+	<message comment="Álvaro Negredo wins a corner (To the right)" minute="42" period="1" second="3" time="42" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="42" period="1" second="0" time="42" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has shot blocked (18-yard box, Right footed, Open play)" minute="42" period="1" second="0" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Coutinho has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="39" period="1" second="31" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="39" period="1" second="31" time="39" type="save made" type_id="10"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="36" period="1" second="35" time="36" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has attempt saved (Low to the left, Out of box, Right footed, Fast break)" minute="36" period="1" second="35" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="35" period="1" second="11" time="35" type="corner" type_id="6"/>
+	<message comment="Jesús Navas misses attempt (High to the right, 18-yard box, Right footed, Fast break)" minute="32" period="1" second="51" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="32" period="1" second="9" time="32" type="corner" type_id="6"/>
+	<message comment="GOAL! Vincent Kompany scores , Assisted by David Silva (High to the right, 18-yard box, Head, From corner)" minute="30" period="1" second="11" time="30" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="29" period="1" second="49" time="29" type="corner" type_id="6"/>
+	<message comment="Jordan Henderson blocks a shot" minute="29" period="1" second="29" time="29" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Set piece)" minute="29" period="1" second="29" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="26" period="1" second="50" time="26" type="corner" type_id="6"/>
+	<message comment="Martin Skrtel blocks a shot" minute="26" period="1" second="45" time="26" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Left footed, Open play)" minute="26" period="1" second="45" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Philippe Coutinho scores , Assisted by Raheem Sterling (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="23" period="1" second="49" time="23" type="goal scored" type_id="16"/>
+	<message comment="Raheem Sterling is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Álvaro Negredo misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="17" period="1" second="17" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="16" period="1" second="26" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="16" period="1" second="26" time="16" type="save made" type_id="10"/>
+	<message comment="Luis Suárez misses attempt (To the left, 18-yard box, Head, From corner)" minute="13" period="1" second="9" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Aly Cissokho wins a corner (To the right)" minute="12" period="1" second="41" time="12" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (To the right, Out of box, Left footed, Open play)" minute="11" period="1" second="21" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Vincent Kompany misses attempt (18-yard box, Head, From corner)" minute="9" period="1" second="45" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas wins a corner (To the right)" minute="9" period="1" second="27" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Jesús Navas hits the woodwork (To the left, 18-yard box, Head, Open play)" minute="4" period="1" second="30" time="4" type="woodwork hit" type_id="14"/>
+	<message comment="Martin Skrtel blocks a shot" minute="4" period="1" second="15" time="4" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Left footed, Open play)" minute="4" period="1" second="15" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Coutinho misses attempt (Out of box, Right footed, Open play)" minute="2" period="1" second="3" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

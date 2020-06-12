@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2013-05-14" home_team_name="Manchester City" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="92" period="2" second="5" time="95" type="end" type_id="30"/>
+	<message comment="Alex McCarthy makes a save (Diving, Parried safe)" minute="90" period="2" second="36" time="93" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="90" period="2" second="36" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="90" period="2" second="0" time="93" type="corner" type_id="6"/>
+	<message comment="Stephen Kelly has shot blocked (18-yard box, Head, Open play)" minute="88" period="2" second="59" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Maicon blocks a shot" minute="88" period="2" second="59" time="91" type="save made" type_id="10"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by David Silva (Low to the right, 18-yard box, Left footed, Open play)" minute="87" period="2" second="26" time="90" type="goal scored" type_id="16"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="85" period="2" second="26" time="88" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Parried safe)" minute="85" period="2" second="19" time="88" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (High to the right, Out of box, Right footed, From corner)" minute="85" period="2" second="19" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="84" period="2" second="46" time="87" type="corner" type_id="6"/>
+	<message comment="Yaya Touré misses attempt (High, 18-yard box, Right footed, Open play)" minute="83" period="2" second="26" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Jem Karacan has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="82" period="2" second="18" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="82" period="2" second="18" time="85" type="save made" type_id="10"/>
+	<message comment="Adam Le Fondre wins a corner (To the right)" minute="80" period="2" second="3" time="83" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (High, Out of box, Right footed, Open play)" minute="79" period="2" second="9" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Adrian Mariappa is caught offside" minute="78" period="2" time="81" type="offside" type_id="10000"/>
+	<message comment="Adrian Mariappa wins a corner (To the right)" minute="77" period="2" second="35" time="80" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa has shot blocked (18-yard box, Head, From corner)" minute="77" period="2" second="32" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez blocks a shot (Last line)" minute="77" period="2" second="32" time="80" type="save made" type_id="10"/>
+	<message comment="Garath McCleary has shot blocked (Out of box, Right footed, Open play)" minute="77" period="2" second="9" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="77" period="2" second="9" time="80" type="save made" type_id="10"/>
+	<message comment="Garath McCleary wins a corner (To the left)" minute="77" period="2" second="9" time="80" type="corner" type_id="6"/>
+	<message comment="Sean Morrison misses attempt (To the left, 18-yard box, Head, Set piece)" minute="75" period="2" second="34" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Jem Karacan blocks a shot" minute="73" period="2" second="23" time="76" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="73" period="2" second="23" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="72" period="2" second="46" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="71" period="2" second="56" time="74" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Parried safe, Standing)" minute="71" period="2" second="49" time="74" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="71" period="2" second="49" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Alex McCarthy makes a save (Collected)" minute="70" period="2" second="30" time="73" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="70" period="2" second="30" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Adrian Mariappa has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="69" period="2" second="47" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="69" period="2" second="47" time="72" type="save made" type_id="10"/>
+	<message comment="Nick Blackman wins a corner (To the right)" minute="69" period="2" second="12" time="72" type="corner" type_id="6"/>
+	<message comment="Jobi McAnuff is substituted off" minute="68" period="2" second="48" time="71" type="substitution off" type_id="18"/>
+	<message comment="Nick Blackman is substituted on" minute="68" period="2" second="48" time="71" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez is caught offside" minute="66" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko is substituted on" minute="62" period="2" second="38" time="65" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is substituted off" minute="62" period="2" second="37" time="65" type="substitution off" type_id="18"/>
+	<message comment="Pavel Pogrebnyak is substituted off" minute="61" period="2" second="52" time="64" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="61" period="2" second="52" time="64" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="61" period="2" second="20" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Barry is substituted off" minute="57" period="2" second="45" time="60" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="57" period="2" second="45" time="60" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="56" period="2" second="25" time="59" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Diving)" minute="56" period="2" second="15" time="59" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="56" period="2" second="15" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Sean Morrison blocks a shot" minute="53" period="2" second="27" time="56" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" minute="53" period="2" second="27" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Kelly blocks a shot" minute="52" period="2" second="38" time="55" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Right footed, Open play)" minute="52" period="2" second="38" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="50" period="2" second="29" time="53" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="50" period="2" second="23" time="53" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="50" period="2" second="23" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Pavel Pogrebnyak has attempt saved (High to the centre, 18-yard box, Big Chance, Head, Open play)" minute="49" period="2" second="50" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="49" period="2" second="50" time="52" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="20" time="47" type="end" type_id="30"/>
+	<message comment="David Silva misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="46" period="1" second="47" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="44" period="1" second="34" time="44" type="save made" type_id="10"/>
+	<message comment="James Milner has shot blocked (Out of box, Left footed, Open play)" minute="44" period="1" second="34" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Gaël Clichy misses attempt (18-yard box, Left footed, Open play)" minute="43" period="1" second="47" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="43" period="1" second="42" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Sean Morrison blocks a shot" minute="43" period="1" second="42" time="43" type="save made" type_id="10"/>
+	<message comment="Gaël Clichy wins a corner (To the left)" minute="41" period="1" second="36" time="41" type="corner" type_id="6"/>
+	<message comment="Alex McCarthy makes a save (Parried safe, Diving)" minute="41" period="1" second="18" time="41" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="41" period="1" second="18" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by James Milner (Low to the right, 18-yard box, Right footed, From corner)" minute="39" period="1" second="27" time="39" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="39" period="1" second="3" time="39" type="corner" type_id="6"/>
+	<message comment="Sean Morrison blocks a shot" minute="39" period="1" second="1" time="39" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="39" period="1" second="1" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="36" period="1" second="48" time="36" type="card received" type_id="17"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="34" period="1" second="14" time="34" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" minute="34" period="1" second="14" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe, Standing)" minute="33" period="1" second="43" time="33" type="save made" type_id="10"/>
+	<message comment="Hal Robson-Kanu has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="33" period="1" second="43" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="33" period="1" second="27" time="33" type="save made" type_id="10"/>
+	<message comment="Maicon has shot blocked (18-yard box, Right footed, Open play)" minute="33" period="1" second="27" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is caught offside" minute="31" period="1" time="31" type="offside" type_id="10000"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="30" period="1" second="39" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Garath McCleary has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="28" period="1" second="27" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="28" period="1" second="27" time="28" type="save made" type_id="10"/>
+	<message comment="Hal Robson-Kanu misses attempt (High to the left, Out of box, Left footed, Open play)" minute="27" period="1" second="13" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Hal Robson-Kanu has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="18" period="1" second="21" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="18" period="1" second="21" time="18" type="save made" type_id="10"/>
+	<message comment="Kolo Touré is substituted off" minute="14" period="1" second="24" time="14" type="substitution off" type_id="18"/>
+	<message comment="Maicon is substituted on" minute="14" period="1" second="24" time="14" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="6" period="1" second="42" time="6" type="corner" type_id="6"/>
+	<message comment="Sean Morrison blocks a shot" minute="6" period="1" second="35" time="6" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="6" period="1" second="35" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Alex McCarthy makes a save (Feet, Diving, Parried into danger)" minute="6" period="1" second="33" time="6" type="save made" type_id="10"/>
+	<message comment="James Milner has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="6" period="1" second="33" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Garath McCleary misses attempt (High to the right, Out of box, Right footed, Open play)" minute="5" period="1" second="13" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Alex McCarthy makes a save (Collected)" minute="3" period="1" second="46" time="3" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="3" period="1" second="46" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Kelly blocks a shot" minute="3" period="1" second="14" time="3" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="14" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Alex McCarthy makes a save (Parried into danger, Diving)" minute="3" period="1" second="12" time="3" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="3" period="1" second="12" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner misses attempt (High, Out of box, Right footed, From corner)" minute="1" period="1" second="11" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="0" period="1" second="40" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

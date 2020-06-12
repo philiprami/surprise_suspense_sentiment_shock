@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2012-12-09" home_team_name="Liverpool" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="28" time="100" type="end" type_id="30"/>
+	<message comment="Modibo Maiga misses attempt (High to the left, Out of box, Left footed, Free kick)" minute="88" period="2" second="51" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Joe Allen is substituted off" minute="85" period="2" second="50" time="89" type="substitution off" type_id="18"/>
+	<message comment="Sebastián Coates is substituted on" minute="85" period="2" second="50" time="89" type="substitution on" type_id="19"/>
+	<message comment="Matthew Taylor is substituted off" minute="85" period="2" second="31" time="89" type="substitution off" type_id="18"/>
+	<message comment="Modibo Maiga is substituted on" minute="85" period="2" second="31" time="89" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing misses attempt (High to the right, Out of box, Right footed, Open play)" minute="85" period="2" second="15" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Joe Cole misses attempt (High to the right, Out of box, Right footed, Open play)" minute="81" period="2" second="6" time="85" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonjo Shelvey scores , Assisted by Jordan Henderson (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="78" period="2" second="43" time="82" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Joe Cole scores , Assisted by Raheem Sterling (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="75" period="2" second="15" time="79" type="goal scored" type_id="16"/>
+	<message comment="Mohamed Diamé is substituted off" minute="72" period="2" second="30" time="76" type="substitution off" type_id="18"/>
+	<message comment="James Tomkins is substituted on" minute="72" period="2" second="30" time="76" type="substitution on" type_id="19"/>
+	<message comment="Lucas Leiva is substituted off" minute="70" period="2" second="16" time="74" type="substitution off" type_id="18"/>
+	<message comment="Jordan Henderson is substituted on" minute="70" period="2" second="16" time="74" type="substitution on" type_id="19"/>
+	<message comment="Jonjo Shelvey misses attempt (18-yard box, Head, Open play)" minute="69" period="2" second="43" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Taylor has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="68" period="2" second="28" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="68" period="2" second="28" time="72" type="save made" type_id="10"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="66" period="2" second="54" time="70" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save" minute="66" period="2" second="53" time="70" type="save made" type_id="10"/>
+	<message comment="Raheem Sterling has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="66" period="2" second="53" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger misses attempt (High, Out of box, Right footed, Open play)" minute="64" period="2" second="55" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Taylor is caught offside" minute="60" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="James Collins blocks a shot" minute="58" period="2" second="14" time="62" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has shot blocked (Out of box, Left footed, Open play)" minute="58" period="2" second="14" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Taylor is caught offside" minute="58" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="James Collins misses attempt (High to the left, 18-yard box, Head, From corner)" minute="57" period="2" second="21" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Jarvis wins a corner (To the left)" minute="56" period="2" second="44" time="60" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor has shot blocked (Out of box, Left footed, Open play)" minute="54" period="2" second="46" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Stewart Downing blocks a shot" minute="54" period="2" second="46" time="58" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan has shot blocked (18-yard box, Right footed, Open play)" minute="54" period="2" second="35" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger blocks a shot" minute="54" period="2" second="35" time="58" type="save made" type_id="10"/>
+	<message comment="Carlton Cole is caught offside" minute="53" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Kevin Nolan is caught offside" minute="47" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Guy Demel is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="George McCartney is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="9" time="48" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey is caught offside" minute="47" period="1" time="47" type="offside" type_id="10000"/>
+	<message comment="Raheem Sterling wins a corner (To the left)" minute="45" period="1" second="31" time="45" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey misses attempt (18-yard box, Left footed, Fast break)" minute="44" period="1" second="40" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Steven Gerrard scores an OWN GOAL!  (Low to the left, 18-yard box, Head, Set piece)" minute="42" period="1" second="41" time="42" type="goal scored" type_id="16"/>
+	<message comment="Matthew Taylor misses attempt (High, 6-yard box, Head, Open play)" minute="39" period="1" second="34" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey wins a corner (To the right)" minute="38" period="1" second="42" time="38" type="corner" type_id="6"/>
+	<message comment="Matthew Taylor recieves a yellow card" minute="37" period="1" second="24" time="37" type="card received" type_id="17"/>
+	<message comment="GOAL! Mark Noble scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="35" period="1" second="52" time="35" type="goal scored" type_id="16"/>
+	<message comment="Guy Demel has shot blocked (Out of box, Right footed, Open play)" minute="35" period="1" second="10" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Taylor has attempt saved (Low to the right, Out of box, Left footed, Free kick)" minute="34" period="1" second="2" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="34" period="1" second="2" time="34" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="32" period="1" second="58" time="32" type="card received" type_id="17"/>
+	<message comment="Kevin Nolan blocks a shot" minute="32" period="1" second="44" time="32" type="save made" type_id="10"/>
+	<message comment="Daniel Agger has shot blocked (18-yard box, Left footed, From corner)" minute="32" period="1" second="44" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Cole wins a corner (To the right)" minute="31" period="1" second="56" time="31" type="corner" type_id="6"/>
+	<message comment="Jonjo Shelvey recieves a yellow card" minute="30" period="1" second="58" time="30" type="card received" type_id="17"/>
+	<message comment="Raheem Sterling misses attempt (High to the left, Out of box, Left footed, Open play)" minute="28" period="1" second="31" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Guy Demel blocks a shot" minute="28" period="1" second="30" time="28" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has shot blocked (18-yard box, Right footed, Fast break)" minute="28" period="1" second="30" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique is substituted off" minute="26" period="1" second="58" time="26" type="substitution off" type_id="18"/>
+	<message comment="Joe Cole is substituted on" minute="26" period="1" second="58" time="26" type="substitution on" type_id="19"/>
+	<message comment="Carlton Cole has attempt saved (Low to the centre, 6-yard box, Head, Set piece)" minute="17" period="1" second="22" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="17" period="1" second="22" time="17" type="save made" type_id="10"/>
+	<message comment="Raheem Sterling misses attempt (18-yard box, Right footed, Open play)" minute="14" period="1" second="0" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling misses attempt (18-yard box, Right footed, Open play)" minute="12" period="1" second="26" time="12" type="attempt missed" type_id="13"/>
+	<message comment="James Collins blocks a shot" minute="12" period="1" second="19" time="12" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (Out of box, Left footed, Open play)" minute="12" period="1" second="19" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Nolan is caught offside" minute="11" period="1" time="11" type="offside" type_id="10000"/>
+	<message comment="GOAL! Glen Johnson scores , Assisted by Steven Gerrard (High to the left, Out of box, Right footed, Open play)" minute="10" period="1" second="20" time="10" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="7" period="1" second="57" time="7" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé has shot blocked (Out of box, Right footed, Open play)" minute="6" period="1" second="12" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="1" period="1" second="9" time="1" type="corner" type_id="6"/>
+	<message comment="Joey O'Brien blocks a shot" minute="1" period="1" second="7" time="1" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="7" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

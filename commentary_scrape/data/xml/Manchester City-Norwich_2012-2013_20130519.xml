@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2013-05-19" home_team_name="Norwich" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="33" time="95" type="end" type_id="30"/>
+	<message comment="James Milner is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Alexander Tettey misses attempt (18-yard box, Right footed, Open play)" minute="90" period="2" second="56" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Grant Holt is substituted off" minute="89" period="2" second="39" time="91" type="substitution off" type_id="18"/>
+	<message comment="Luciano Becchio is substituted on" minute="89" period="2" second="39" time="91" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="88" period="2" second="13" time="90" type="corner" type_id="6"/>
+	<message comment="Alexander Tettey blocks a shot" minute="88" period="2" second="11" time="90" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Fast break)" minute="88" period="2" second="10" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin blocks a shot" minute="87" period="2" second="22" time="89" type="save made" type_id="10"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="87" period="2" second="22" time="89" type="corner" type_id="6"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Head, From corner)" minute="87" period="2" second="20" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" minute="87" period="2" second="1" time="89" type="corner" type_id="6"/>
+	<message comment="Joleon Lescott recieves a yellow card" minute="83" period="2" second="29" time="85" type="card received" type_id="17"/>
+	<message comment="Anthony Pilkington is substituted off" minute="81" period="2" second="11" time="83" type="substitution off" type_id="18"/>
+	<message comment="Elliott Bennett is substituted on" minute="81" period="2" second="11" time="83" type="substitution on" type_id="19"/>
+	<message comment="Steven Whittaker misses attempt (To the right, Out of box, Right footed, Open play)" minute="79" period="2" second="16" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="78" period="2" second="7" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Russell Martin blocks a shot" minute="73" period="2" second="35" time="75" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="34" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin misses attempt (High to the right, Out of box, Right footed, From corner)" minute="67" period="2" second="12" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass wins a corner (To the right)" minute="66" period="2" second="56" time="68" type="corner" type_id="6"/>
+	<message comment="James Milner misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="66" period="2" second="0" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Bradley Johnson is substituted off" minute="65" period="2" second="25" time="67" type="substitution off" type_id="18"/>
+	<message comment="Alexander Tettey is substituted on" minute="65" period="2" second="25" time="67" type="substitution on" type_id="19"/>
+	<message comment="Jack Rodwell is substituted off" minute="64" period="2" second="59" time="66" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" minute="64" period="2" second="59" time="66" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Jonny Howson scores , Assisted by Grant Holt (Low to the right, 18-yard box, Left footed, Open play)" minute="64" period="2" second="5" time="66" type="goal scored" type_id="16"/>
+	<message comment="Javier Garrido blocks a shot" minute="60" period="2" second="21" time="62" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (High to the right, Out of box, Right footed, Open play)" minute="60" period="2" second="21" time="62" type="attempt missed" type_id="13"/>
+	<message comment="James Milner has shot blocked (18-yard box, Left footed, Open play)" minute="60" period="2" second="18" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jack Rodwell scores , Assisted by Yaya Touré (Low to the right, 18-yard box, Left footed, Fast break)" minute="58" period="2" second="36" time="60" type="goal scored" type_id="16"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="55" period="2" second="21" time="57" type="corner" type_id="6"/>
+	<message comment="GOAL! Grant Holt scores , Assisted by Robert Snodgrass (Low to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="53" period="2" second="48" time="55" type="goal scored" type_id="16"/>
+	<message comment="Carlos Tevez is substituted off" minute="49" period="2" second="56" time="51" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="49" period="2" second="56" time="51" type="substitution on" type_id="19"/>
+	<message comment="Bradley Johnson wins a corner (To the right)" minute="48" period="2" second="5" time="50" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson has attempt saved (High to the right, 18-yard box, Big Chance, Head, Set piece)" minute="48" period="2" second="3" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger, Diving)" minute="48" period="2" second="2" time="50" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="30" time="46" type="end" type_id="30"/>
+	<message comment="Bradley Johnson has shot blocked (18-yard box, Head, Set piece)" minute="45" period="1" second="32" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="45" period="1" second="32" time="45" type="save made" type_id="10"/>
+	<message comment="Russell Martin misses attempt (6-yard box, Right footed, Open play)" minute="41" period="1" second="40" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass misses attempt (18-yard box, Key pass, Left footed, Open play)" minute="41" period="1" second="39" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Wes Hoolahan wins a corner (To the left)" minute="40" period="1" second="45" time="40" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="40" period="1" second="4" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Big Chance, Head, From corner)" minute="36" period="1" second="9" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the left)" minute="35" period="1" second="40" time="35" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="35" period="1" second="38" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Bennett blocks a shot" minute="35" period="1" second="38" time="35" type="save made" type_id="10"/>
+	<message comment="Bradley Johnson misses attempt (High to the left, 18-yard box, Head, From corner)" minute="31" period="1" second="44" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Robert Snodgrass wins a corner (To the left)" minute="31" period="1" second="5" time="31" type="corner" type_id="6"/>
+	<message comment="Robert Snodgrass has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="31" period="1" second="2" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried safe)" minute="31" period="1" second="2" time="31" type="save made" type_id="10"/>
+	<message comment="GOAL! Jack Rodwell scores , Assisted by Edin Dzeko (Low to the right, 18-yard box, Left footed, Open play)" minute="28" period="1" second="40" time="28" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Anthony Pilkington scores , Assisted by Wes Hoolahan (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="25" period="1" second="18" time="25" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko blocks a shot" minute="21" period="1" second="28" time="21" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington has shot blocked (Out of box, Right footed, From corner)" minute="21" period="1" second="28" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot (Last line)" minute="21" period="1" second="25" time="21" type="save made" type_id="10"/>
+	<message comment="Ryan Bennett has shot blocked (18-yard box, Head, From corner)" minute="21" period="1" second="25" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Anthony Pilkington wins a corner (To the right)" minute="20" period="1" second="44" time="20" type="corner" type_id="6"/>
+	<message comment="Anthony Pilkington wins a corner (To the left)" minute="20" period="1" second="7" time="20" type="corner" type_id="6"/>
+	<message comment="John Ruddy makes a save (Standing)" minute="15" period="1" second="6" time="15" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="15" period="1" second="6" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Grant Holt misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="12" period="1" second="50" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="10" period="1" second="56" time="10" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Grant Holt is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Robert Snodgrass has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="8" period="1" second="53" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save" minute="8" period="1" second="53" time="8" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (High, 18-yard box, Head, From corner)" minute="6" period="1" second="25" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="5" period="1" second="50" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Robert Snodgrass wins a corner (To the left)" minute="4" period="1" second="50" time="4" type="corner" type_id="6"/>
+	<message comment="Bradley Johnson has shot blocked (Out of box, Left footed, Open play)" minute="4" period="1" second="31" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="4" period="1" second="31" time="4" type="save made" type_id="10"/>
+	<message comment="Grant Holt is caught offside" minute="2" period="1" time="2" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

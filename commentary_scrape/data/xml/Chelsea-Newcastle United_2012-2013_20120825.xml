@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2012-08-25" home_team_name="Newcastle United" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="7" time="101" type="end" type_id="30"/>
+	<message comment="Raul Meireles is substituted off" minute="87" period="2" second="10" time="93" type="substitution off" type_id="18"/>
+	<message comment="Frank Lampard is substituted on" minute="87" period="2" second="10" time="93" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="84" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Demba Ba has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="83" period="2" second="51" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="83" period="2" second="51" time="89" type="save made" type_id="10"/>
+	<message comment="Ryan Bertrand wins a corner (To the right)" minute="79" period="2" second="38" time="85" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Diving, Parried safe)" minute="79" period="2" second="32" time="85" type="save made" type_id="10"/>
+	<message comment="Ryan Bertrand has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="79" period="2" second="32" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye is substituted off" minute="76" period="2" second="37" time="82" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="76" period="2" second="37" time="82" type="substitution on" type_id="19"/>
+	<message comment="Raul Meireles misses attempt (High to the left, Out of box, Right footed, Free kick)" minute="76" period="2" second="13" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Davide Santon is substituted off" minute="73" period="2" second="52" time="79" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="73" period="2" second="52" time="79" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="70" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="David Luiz misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="69" period="2" second="16" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Papiss Demba Cissé misses attempt (High, 18-yard box, Head, Set piece)" minute="67" period="2" second="13" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata is substituted off" minute="66" period="2" second="49" time="72" type="substitution off" type_id="18"/>
+	<message comment="Ramires is substituted on" minute="66" period="2" second="49" time="72" type="substitution on" type_id="19"/>
+	<message comment="Danny Simpson is substituted off" minute="63" period="2" second="29" time="69" type="substitution off" type_id="18"/>
+	<message comment="Ryan Taylor is substituted on" minute="63" period="2" second="29" time="69" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa wins a corner (To the left)" minute="62" period="2" second="58" time="68" type="corner" type_id="6"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="58" period="2" second="39" time="64" type="corner" type_id="6"/>
+	<message comment="Demba Ba has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="58" period="2" second="36" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Other body part)" minute="58" period="2" second="36" time="64" type="save made" type_id="10"/>
+	<message comment="Gary Cahill blocks a shot" minute="58" period="2" second="32" time="64" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (Out of box, Right footed, Open play)" minute="58" period="2" second="32" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the left, 18-yard box, Head, Open play)" minute="53" period="2" second="47" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Jonás Gutiérrez misses attempt (High to the right, Out of box, Right footed, Open play)" minute="52" period="2" second="19" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="51" period="2" second="21" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="51" type="start" type_id="32"/>
+	<message comment="First half ends" minute="50" period="1" second="30" time="50" type="end" type_id="30"/>
+	<message comment="GOAL! Fernando Torres scores , Assisted by Eden Hazard (High to the right, 18-yard box, Right footed, Open play)" minute="47" period="1" second="10" time="47" type="goal scored" type_id="16"/>
+	<message comment="Juan Mata wins a corner (To the left)" minute="45" period="1" second="54" time="45" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="43" period="1" second="37" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="43" period="1" second="37" time="43" type="save made" type_id="10"/>
+	<message comment="Raul Meireles is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Demba Ba misses attempt (High to the left, 18-yard box, Head, Open play)" minute="39" period="1" second="48" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres recieves a yellow card" minute="38" period="1" second="59" time="38" type="card received" type_id="17"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" minute="36" period="1" second="15" time="36" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Bertrand blocks a shot" minute="36" period="1" second="15" time="36" type="save made" type_id="10"/>
+	<message comment="Eden Hazard misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="35" period="1" second="32" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Diving)" minute="30" period="1" second="29" time="30" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="30" period="1" second="29" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="GOAL! Eden Hazard scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="21" period="1" second="33" time="21" type="goal scored" type_id="16"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="19" period="1" second="4" time="19" type="corner" type_id="6"/>
+	<message comment="Tim Krul makes a save (Standing)" minute="17" period="1" second="34" time="17" type="save made" type_id="10"/>
+	<message comment="Ryan Bertrand has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="17" period="1" second="34" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Collected)" minute="13" period="1" second="44" time="13" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="13" period="1" second="44" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (High, 18-yard box, Right footed, Open play)" minute="12" period="1" second="35" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="11" type="end" type_id="30"/>
+	<message comment="John Obi Mikel misses attempt (High, Out of box, Right footed, Open play)" minute="8" period="1" second="36" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor blocks a shot" minute="5" period="1" second="36" time="5" type="save made" type_id="10"/>
+	<message comment="Eden Hazard has shot blocked (Out of box, Right footed, Open play)" minute="5" period="1" second="36" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles misses attempt (To the right, Out of box, Right footed, Open play)" minute="4" period="1" second="12" time="4" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2010-09-11" home_team_name="Tottenham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="36" time="97" type="end" type_id="30"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="93" period="2" second="36" time="96" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="93" period="2" second="4" time="96" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas misses attempt (Out of box, Right footed, Open play)" minute="91" period="2" second="59" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Scott Carson makes a save" minute="91" period="2" second="44" time="94" type="save made" type_id="10"/>
+	<message comment="Robbie Keane has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="91" period="2" second="44" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="89" period="2" second="33" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie wins a corner (To the right)" minute="88" period="2" second="29" time="91" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the right, Out of box, Right footed, Throw-in)" minute="88" period="2" second="25" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Diving)" minute="88" period="2" second="25" time="91" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson wins a corner (To the left)" minute="86" period="2" second="17" time="89" type="corner" type_id="6"/>
+	<message comment="Carlo Cudicini makes a save (Parried into danger, Diving)" minute="86" period="2" second="13" time="89" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="86" period="2" second="13" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné is substituted off" minute="85" period="2" second="51" time="88" type="substitution off" type_id="18"/>
+	<message comment="Somen Tchoyi is substituted on" minute="85" period="2" second="51" time="88" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie wins a corner (To the left)" minute="85" period="2" second="9" time="88" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, Open play)" minute="85" period="2" second="8" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="85" period="2" second="8" time="88" type="save made" type_id="10"/>
+	<message comment="Steven Reid has shot blocked (18-yard box, Head, From corner)" minute="82" period="2" second="52" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="82" period="2" second="52" time="85" type="save made" type_id="10"/>
+	<message comment="Giles Barnes wins a corner (To the right)" minute="82" period="2" second="26" time="85" type="corner" type_id="6"/>
+	<message comment="Rafael van der Vaart wins a corner (To the right)" minute="80" period="2" second="8" time="83" type="corner" type_id="6"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="80" period="2" second="5" time="83" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has shot blocked (Out of box, Left footed, Open play)" minute="80" period="2" second="5" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone misses attempt (Out of box, Left footed, Open play)" minute="78" period="2" second="2" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt is substituted off" minute="77" period="2" second="30" time="80" type="substitution off" type_id="18"/>
+	<message comment="Giles Barnes is substituted on" minute="77" period="2" second="30" time="80" type="substitution on" type_id="19"/>
+	<message comment="Aaron Lennon is substituted off" minute="77" period="2" second="12" time="80" type="substitution off" type_id="18"/>
+	<message comment="Peter Crouch is substituted on" minute="77" period="2" second="12" time="80" type="substitution on" type_id="19"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="73" period="2" second="27" time="76" type="corner" type_id="6"/>
+	<message comment="Paul Scharner is substituted off" minute="72" period="2" second="42" time="75" type="substitution off" type_id="18"/>
+	<message comment="Steven Reid is substituted on" minute="72" period="2" second="42" time="75" type="substitution on" type_id="19"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Right footed, Fast break)" minute="72" period="2" second="7" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="67" period="2" second="16" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Roman Pavlyuchenko is substituted off" minute="63" period="2" second="50" time="66" type="substitution off" type_id="18"/>
+	<message comment="Robbie Keane is substituted on" minute="63" period="2" second="50" time="66" type="substitution on" type_id="19"/>
+	<message comment="William Gallas misses attempt (High to the right, 6-yard box, Right footed, From corner)" minute="63" period="2" second="8" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Nicky Shorey blocks a shot" minute="59" period="2" second="50" time="62" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Left footed, Open play)" minute="59" period="2" second="50" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt recieves a yellow card" minute="59" period="2" second="27" time="62" type="card received" type_id="17"/>
+	<message comment="Rafael van der Vaart misses attempt (High, Out of box, Left footed, Free kick)" minute="56" period="2" second="51" time="59" type="attempt missed" type_id="13"/>
+	<message comment="William Gallas recieves a yellow card" minute="54" period="2" second="12" time="57" type="card received" type_id="17"/>
+	<message comment="Peter Odemwingie misses attempt (High, 18-yard box, Big Chance, Head, From corner)" minute="53" period="2" second="3" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Marc-Antoine Fortuné wins a corner (To the right)" minute="52" period="2" second="43" time="55" type="corner" type_id="6"/>
+	<message comment="Marc-Antoine Fortuné has shot blocked (18-yard box, Right footed, Open play)" minute="52" period="2" second="41" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="52" period="2" second="41" time="55" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Free kick)" minute="52" period="2" second="35" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Tom Huddlestone blocks a shot" minute="52" period="2" second="35" time="55" type="save made" type_id="10"/>
+	<message comment="Scott Carson makes a save (Standing, Parried safe)" minute="50" period="2" second="44" time="53" type="save made" type_id="10"/>
+	<message comment="Younes Kaboul has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="50" period="2" second="44" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas is caught offside" minute="50" period="2" time="53" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale wins a corner (To the right)" minute="49" period="2" second="5" time="52" type="corner" type_id="6"/>
+	<message comment="Scott Carson makes a save (Diving, Parried safe)" minute="49" period="2" second="1" time="52" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="49" period="2" second="1" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Odemwingie misses attempt (High to the left, Out of box, Left footed, Open play)" minute="46" period="2" second="47" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="4" time="47" type="end" type_id="30"/>
+	<message comment="Rafael van der Vaart misses attempt (High to the left, Out of box, Left footed, Open play)" minute="46" period="1" second="26" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Scott Carson makes a save (Collected, Standing)" minute="45" period="1" second="10" time="45" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (Low to the centre, Out of box, Left footed, Free kick)" minute="45" period="1" second="10" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Gonzalo Jara recieves a yellow card" minute="44" period="1" second="36" time="44" type="card received" type_id="17"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="42" period="1" second="32" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Diving)" minute="42" period="1" second="32" time="42" type="save made" type_id="10"/>
+	<message comment="GOAL! Chris Brunt scores , Assisted by Peter Odemwingie (Low to the right, 6-yard box, Head, Open play)" minute="40" period="1" second="9" time="40" type="goal scored" type_id="16"/>
+	<message comment="Peter Odemwingie has shot blocked (6-yard box, Key pass, Head, Open play)" minute="40" period="1" second="7" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Marc-Antoine Fortuné has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="40" period="1" second="4" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save (Diving, Parried into danger, Other body part)" minute="40" period="1" second="4" time="40" type="save made" type_id="10"/>
+	<message comment="Paul Scharner misses attempt (Out of box, Right footed, Open play)" minute="39" period="1" second="10" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Scott Carson makes a save" minute="33" period="1" second="34" time="33" type="save made" type_id="10"/>
+	<message comment="Niko Kranjcar has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="33" period="1" second="34" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Luka Modric is substituted off" minute="31" period="1" second="53" time="31" type="substitution off" type_id="18"/>
+	<message comment="Niko Kranjcar is substituted on" minute="31" period="1" second="53" time="31" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Tamas misses attempt (To the right, 18-yard box, Head, From corner)" minute="30" period="1" second="55" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="29" period="1" second="39" time="29" type="corner" type_id="6"/>
+	<message comment="GOAL! Luka Modric scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="26" period="1" second="31" time="26" type="goal scored" type_id="16"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="26" period="1" second="29" time="26" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has shot blocked (18-yard box, Head, Open play)" minute="26" period="1" second="29" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Nicky Shorey is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Marc-Antoine Fortuné is caught offside" minute="11" period="1" time="11" type="offside" type_id="10000"/>
+	<message comment="Paul Scharner has attempt saved (Low to the left, 6-yard box, Head, Set piece)" minute="10" period="1" second="27" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Carlo Cudicini makes a save" minute="10" period="1" second="27" time="10" type="save made" type_id="10"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="7" period="1" second="52" time="7" type="save made" type_id="10"/>
+	<message comment="Roman Pavlyuchenko has shot blocked (Out of box, Left footed, Open play)" minute="7" period="1" second="52" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Aaron Lennon misses attempt (High to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="6" period="1" second="17" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="4" period="1" second="33" time="4" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="4" period="1" second="5" time="4" type="corner" type_id="6"/>
+	<message comment="Luka Modric misses attempt (High, 18-yard box, Right footed, Open play)" minute="1" period="1" second="21" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

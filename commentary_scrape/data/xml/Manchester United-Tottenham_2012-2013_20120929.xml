@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester United" competition="English Premier League" game_date="2012-09-29" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="31" time="98" type="end" type_id="30"/>
+	<message comment="Nani wins a corner (To the right)" minute="93" period="2" second="39" time="97" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe is substituted off" minute="91" period="2" second="58" time="95" type="substitution off" type_id="18"/>
+	<message comment="Michael Dawson is substituted on" minute="91" period="2" second="58" time="95" type="substitution on" type_id="19"/>
+	<message comment="Rio Ferdinand is substituted off" minute="91" period="2" second="43" time="95" type="substitution off" type_id="18"/>
+	<message comment="Chicharito is substituted on" minute="91" period="2" second="43" time="95" type="substitution on" type_id="19"/>
+	<message comment="Nani misses attempt (High to the left, Out of box, Left footed, Open play)" minute="91" period="2" second="14" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" minute="89" period="2" second="53" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Jonny Evans blocks a shot" minute="89" period="2" second="53" time="93" type="save made" type_id="10"/>
+	<message comment="Steven Caulker blocks a shot" minute="88" period="2" second="1" time="92" type="save made" type_id="10"/>
+	<message comment="Paul Scholes has shot blocked (Out of box, Right footed, Open play)" minute="88" period="2" second="1" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Patrice Evra has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="85" period="2" second="59" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Friedel makes a save (Diving)" minute="85" period="2" second="59" time="89" type="save made" type_id="10"/>
+	<message comment="Michael Carrick hits the woodwork (High, 18-yard box, Head, From corner)" minute="84" period="2" second="6" time="88" type="woodwork hit" type_id="14"/>
+	<message comment="Rio Ferdinand wins a corner (To the right)" minute="83" period="2" second="47" time="87" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé is substituted off" minute="83" period="2" second="3" time="87" type="substitution off" type_id="18"/>
+	<message comment="Tom Huddlestone is substituted on" minute="83" period="2" second="3" time="87" type="substitution on" type_id="19"/>
+	<message comment="Wayne Rooney misses attempt (High to the right, Out of box, Right footed, Open play)" minute="82" period="2" second="9" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Brad Friedel makes a save (Parried into danger, Standing)" minute="81" period="2" second="32" time="85" type="save made" type_id="10"/>
+	<message comment="Paul Scholes has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="81" period="2" second="32" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Nani wins a corner (To the right)" minute="80" period="2" second="42" time="84" type="corner" type_id="6"/>
+	<message comment="Nani wins a corner (To the left)" minute="79" period="2" second="39" time="83" type="corner" type_id="6"/>
+	<message comment="Shinji Kagawa is substituted off" minute="78" period="2" second="17" time="82" type="substitution off" type_id="18"/>
+	<message comment="Danny Welbeck is substituted on" minute="78" period="2" second="17" time="82" type="substitution on" type_id="19"/>
+	<message comment="Brad Friedel makes a save (Collected, Diving)" minute="77" period="2" second="19" time="81" type="save made" type_id="10"/>
+	<message comment="Nani has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="77" period="2" second="19" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie misses attempt (To the left, 18-yard box, Head, Open play)" minute="73" period="2" second="5" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Sandro blocks a shot" minute="72" period="2" second="35" time="76" type="save made" type_id="10"/>
+	<message comment="Paul Scholes has shot blocked (18-yard box, Head, Open play)" minute="72" period="2" second="35" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey is substituted off" minute="69" period="2" second="20" time="73" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="69" period="2" second="20" time="73" type="substitution on" type_id="19"/>
+	<message comment="Robin van Persie misses attempt (To the right, 18-yard box, Big Chance, Left footed, Open play)" minute="68" period="2" second="44" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Shinji Kagawa wins a corner (To the right)" minute="66" period="2" second="42" time="70" type="corner" type_id="6"/>
+	<message comment="Wayne Rooney misses attempt (18-yard box, Right footed, Open play)" minute="65" period="2" second="29" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Paul Scholes wins a corner (To the left)" minute="63" period="2" second="32" time="67" type="corner" type_id="6"/>
+	<message comment="Robin van Persie is caught offside" minute="62" period="2" time="66" type="offside" type_id="10000"/>
+	<message comment="Wayne Rooney hits the woodwork (To the left, Out of box, Right footed, Free kick)" minute="60" period="2" second="54" time="64" type="woodwork hit" type_id="14"/>
+	<message comment="Brad Friedel makes a save (Collected)" minute="57" period="2" second="0" time="61" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="57" period="2" second="0" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale misses attempt (To the right, Out of box, Left footed, From corner)" minute="54" period="2" second="46" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="54" period="2" second="8" time="58" type="corner" type_id="6"/>
+	<message comment="GOAL! Shinji Kagawa scores , Assisted by Robin van Persie (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="52" period="2" second="59" time="56" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Clint Dempsey scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="51" period="2" second="50" time="55" type="goal scored" type_id="16"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="51" period="2" second="47" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Anders Lindegaard makes a save (Parried into danger, Diving)" minute="51" period="2" second="47" time="55" type="save made" type_id="10"/>
+	<message comment="GOAL! Nani scores , Assisted by Wayne Rooney (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="50" period="2" second="40" time="54" type="goal scored" type_id="16"/>
+	<message comment="Ryan Giggs is substituted off" minute="45" period="2" second="0" time="49" type="substitution off" type_id="18"/>
+	<message comment="Wayne Rooney is substituted on" minute="45" period="2" second="0" time="49" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="3" time="48" type="end" type_id="30"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="46" period="1" second="55" time="46" type="corner" type_id="6"/>
+	<message comment="Brad Friedel makes a save" minute="43" period="1" second="10" time="43" type="save made" type_id="10"/>
+	<message comment="Nani has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="43" period="1" second="10" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Scholes wins a corner (To the right)" minute="42" period="1" second="33" time="42" type="corner" type_id="6"/>
+	<message comment="Robin van Persie wins a corner (To the left)" minute="38" period="1" second="16" time="38" type="corner" type_id="6"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Mousa Dembélé (Low to the left, 18-yard box, Right footed, Fast break)" minute="31" period="1" second="19" time="31" type="goal scored" type_id="16"/>
+	<message comment="Patrice Evra is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="William Gallas is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Robin van Persie wins a corner (To the right)" minute="22" period="1" second="44" time="22" type="corner" type_id="6"/>
+	<message comment="Jan Vertonghen misses attempt (High to the left, 18-yard box, Head, Open play)" minute="20" period="1" second="51" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Gareth Bale wins a corner (To the left)" minute="17" period="1" second="17" time="17" type="corner" type_id="6"/>
+	<message comment="Jan Vertonghen wins a corner (To the left)" minute="16" period="1" second="33" time="16" type="corner" type_id="6"/>
+	<message comment="Steven Caulker misses attempt (High, 18-yard box, Head, From corner)" minute="8" period="1" second="49" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Lennon wins a corner (To the left)" minute="8" period="1" second="13" time="8" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon has shot blocked (18-yard box, Left footed, Open play)" minute="8" period="1" second="11" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Rio Ferdinand blocks a shot" minute="8" period="1" second="11" time="8" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Clint Dempsey misses attempt (Out of box, Left footed, Open play)" minute="7" period="1" second="40" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Jonny Evans scores an OWN GOAL!  (Low to the left, 18-yard box, Other body part, Open play)" minute="1" period="1" second="53" time="1" type="goal scored" type_id="16"/>
+	<message comment="Jan Vertonghen has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="52" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Jonny Evans blocks a shot" minute="1" period="1" second="52" time="1" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

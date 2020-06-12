@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Bolton" competition="English Premier League" game_date="2010-12-12" home_team_name="Blackburn" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="14" time="98" type="end" type_id="30"/>
+	<message comment="Matthew Taylor misses attempt (Out of box, Left footed, Open play)" minute="96" period="2" second="0" time="98" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Nelsen has shot blocked (18-yard box, Right footed, Set piece)" minute="94" period="2" second="49" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="94" period="2" second="49" time="96" type="save made" type_id="10"/>
+	<message comment="Brett Emerton has shot blocked (Out of box, Left footed, Open play)" minute="91" period="2" second="53" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Zat Knight blocks a shot" minute="91" period="2" second="53" time="93" type="save made" type_id="10"/>
+	<message comment="Ryan Nelsen recieves a yellow card" minute="90" period="2" second="4" time="92" type="card received" type_id="17"/>
+	<message comment="GOAL! Stuart Holden scores , Assisted by Kevin Davies (Low to the right, 18-yard box, Left footed, Open play)" minute="87" period="2" second="29" time="89" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Mame Biram Diouf scores , Assisted by Jason Roberts (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="86" period="2" second="42" time="88" type="goal scored" type_id="16"/>
+	<message comment="Mame Biram Diouf has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="85" period="2" second="32" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save" minute="85" period="2" second="32" time="87" type="save made" type_id="10"/>
+	<message comment="Kevin Davies blocks a shot" minute="85" period="2" second="27" time="87" type="save made" type_id="10"/>
+	<message comment="Brett Emerton has shot blocked (Out of box, Right footed, From corner)" minute="85" period="2" second="27" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Brett Emerton wins a corner (To the right)" minute="85" period="2" second="5" time="87" type="corner" type_id="6"/>
+	<message comment="Brett Emerton misses attempt (18-yard box, Right footed, Throw-in)" minute="85" period="2" second="3" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save (Collected)" minute="82" period="2" second="52" time="84" type="save made" type_id="10"/>
+	<message comment="Matthew Taylor has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="82" period="2" second="52" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="82" period="2" second="13" time="84" type="corner" type_id="6"/>
+	<message comment="Paul Robinson blocks a shot" minute="82" period="2" second="11" time="84" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (18-yard box, Left footed, From corner)" minute="82" period="2" second="11" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jones misses attempt (To the right, Out of box, Left footed, From corner)" minute="82" period="2" second="8" time="84" type="attempt missed" type_id="13"/>
+	<message comment="David Dunn wins a corner (To the right)" minute="81" period="2" second="45" time="83" type="corner" type_id="6"/>
+	<message comment="Gary Cahill recieves a yellow card" minute="79" period="2" second="21" time="81" type="card received" type_id="17"/>
+	<message comment="David Dunn has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="78" period="2" second="3" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Parried safe, Other body part)" minute="78" period="2" second="3" time="80" type="save made" type_id="10"/>
+	<message comment="El Hadji Diouf is substituted off" minute="76" period="2" second="50" time="78" type="substitution off" type_id="18"/>
+	<message comment="David Junior Hoilett is substituted on" minute="76" period="2" second="50" time="78" type="substitution on" type_id="19"/>
+	<message comment="Matthew Taylor is substituted on" minute="76" period="2" second="36" time="78" type="substitution on" type_id="19"/>
+	<message comment="Martin Petrov is substituted off" minute="76" period="2" second="35" time="78" type="substitution off" type_id="18"/>
+	<message comment="Stuart Holden misses attempt (High, Out of box, Right footed, Open play)" minute="75" period="2" second="35" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Míchel Salgado is substituted off" minute="71" period="2" second="7" time="73" type="substitution off" type_id="18"/>
+	<message comment="David Dunn is substituted on" minute="71" period="2" second="7" time="73" type="substitution on" type_id="19"/>
+	<message comment="Phil Jones has shot blocked (18-yard box, Right footed, Open play)" minute="70" period="2" second="44" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Sam Ricketts blocks a shot" minute="70" period="2" second="44" time="72" type="save made" type_id="10"/>
+	<message comment="Phil Jones misses attempt (18-yard box, Head, Open play)" minute="68" period="2" second="58" time="70" type="attempt missed" type_id="13"/>
+	<message comment="El Hadji Diouf is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="GOAL! Fabrice Muamba scores  (Low to the right, 18-yard box, Left footed, Set piece)" minute="64" period="2" second="35" time="66" type="goal scored" type_id="16"/>
+	<message comment="Gaël Givet misses attempt (High, 6-yard box, Big Chance, Left footed, From corner)" minute="63" period="2" second="17" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Mame Biram Diouf has shot blocked (18-yard box, Head, From corner)" minute="63" period="2" second="15" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Johan Elmander blocks a shot" minute="63" period="2" second="15" time="65" type="save made" type_id="10"/>
+	<message comment="Christopher Samba wins a corner (To the right)" minute="62" period="2" second="50" time="64" type="corner" type_id="6"/>
+	<message comment="Christopher Samba has shot blocked (6-yard box, Big Chance, Head, Open play)" minute="62" period="2" second="47" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Davies blocks a shot (Last line)" minute="62" period="2" second="47" time="64" type="save made" type_id="10"/>
+	<message comment="Johan Elmander recieves a yellow card" minute="61" period="2" second="52" time="63" type="card received" type_id="17"/>
+	<message comment="Martin Olsson is substituted off" minute="61" period="2" second="15" time="63" type="substitution off" type_id="18"/>
+	<message comment="Mame Biram Diouf is substituted on" minute="61" period="2" second="15" time="63" type="substitution on" type_id="19"/>
+	<message comment="Martin Olsson recieves a yellow card" minute="59" period="2" second="58" time="61" type="card received" type_id="17"/>
+	<message comment="Chung-Yong Lee is substituted off" minute="57" period="2" second="53" time="59" type="substitution off" type_id="18"/>
+	<message comment="Fabrice Muamba is substituted on" minute="57" period="2" second="53" time="59" type="substitution on" type_id="19"/>
+	<message comment="Mark Davies recieves a red card after receiving second yellow card" minute="55" period="2" second="46" time="57" type="card received" type_id="17"/>
+	<message comment="Paul Robinson makes a save (Diving, Parried into danger)" minute="54" period="2" second="27" time="56" type="save made" type_id="10"/>
+	<message comment="Stuart Holden has attempt saved (High to the right, Out of box, Right footed, Free kick)" minute="54" period="2" second="27" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Olsson blocks a shot" minute="53" period="2" second="47" time="55" type="save made" type_id="10"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Right footed, From corner)" minute="53" period="2" second="47" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson wins a corner (To the left)" minute="53" period="2" second="33" time="55" type="corner" type_id="6"/>
+	<message comment="Christopher Samba blocks a shot" minute="53" period="2" second="8" time="55" type="save made" type_id="10"/>
+	<message comment="Johan Elmander has shot blocked (Out of box, Right footed, Free kick)" minute="53" period="2" second="8" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill misses attempt (To the right, Out of box, Right footed, Open play)" minute="49" period="2" second="9" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Johan Elmander wins a corner (To the left)" minute="45" period="2" second="14" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="32" time="46" type="end" type_id="30"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the left)" minute="46" period="1" second="3" time="46" type="corner" type_id="6"/>
+	<message comment="Mark Davies recieves a yellow card" minute="44" period="1" second="16" time="44" type="card received" type_id="17"/>
+	<message comment="Christopher Samba blocks a shot" minute="42" period="1" second="44" time="42" type="save made" type_id="10"/>
+	<message comment="Johan Elmander has shot blocked (18-yard box, Right footed, Set piece)" minute="42" period="1" second="44" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Petrov misses attempt (To the left, Out of box, Left footed, Open play)" minute="41" period="1" second="45" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Christopher Samba misses attempt (High to the left, 18-yard box, Head, From corner)" minute="40" period="1" second="32" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="40" period="1" second="8" time="40" type="corner" type_id="6"/>
+	<message comment="Martin Olsson has shot blocked (Out of box, Left footed, Open play)" minute="39" period="1" second="23" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Sam Ricketts blocks a shot" minute="39" period="1" second="23" time="39" type="save made" type_id="10"/>
+	<message comment="Jason Roberts wins a corner (To the left)" minute="36" period="1" second="32" time="36" type="corner" type_id="6"/>
+	<message comment="Gaël Givet misses attempt (To the right, 18-yard box, Big Chance, Right footed, Set piece)" minute="34" period="1" second="55" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Jussi Jääskeläinen makes a save (Diving, Parried into danger)" minute="34" period="1" second="52" time="34" type="save made" type_id="10"/>
+	<message comment="Morten Gamst Pedersen has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="34" period="1" second="52" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Zat Knight recieves a yellow card" minute="33" period="1" second="28" time="33" type="card received" type_id="17"/>
+	<message comment="Morten Gamst Pedersen wins a corner (To the right)" minute="30" period="1" second="28" time="30" type="corner" type_id="6"/>
+	<message comment="Morten Gamst Pedersen has shot blocked (18-yard box, Left footed, From corner)" minute="30" period="1" second="26" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Johan Elmander blocks a shot" minute="30" period="1" second="26" time="30" type="save made" type_id="10"/>
+	<message comment="Paul Robinson wins a corner (To the left)" minute="29" period="1" second="55" time="29" type="corner" type_id="6"/>
+	<message comment="Christopher Samba has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="26" period="1" second="24" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save" minute="26" period="1" second="24" time="26" type="save made" type_id="10"/>
+	<message comment="Phil Jones recieves a yellow card" minute="24" period="1" second="10" time="24" type="card received" type_id="17"/>
+	<message comment="Martin Olsson wins a corner (To the left)" minute="22" period="1" second="58" time="22" type="corner" type_id="6"/>
+	<message comment="Martin Petrov misses attempt (Out of box, Right footed, Open play)" minute="21" period="1" second="4" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Paul Robinson makes a save" minute="19" period="1" second="36" time="19" type="save made" type_id="10"/>
+	<message comment="Martin Petrov has attempt saved (Low to the left, Out of box, Left footed, Free kick)" minute="19" period="1" second="36" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Jason Roberts is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Martin Petrov wins a corner (To the left)" minute="6" period="1" second="40" time="6" type="corner" type_id="6"/>
+	<message comment="Mark Davies has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="1" period="1" second="11" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Paul Robinson makes a save (Diving)" minute="1" period="1" second="11" time="1" type="save made" type_id="10"/>
+	<message comment="Jason Roberts misses attempt (18-yard box, Head, Open play)" minute="0" period="1" second="43" time="0" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

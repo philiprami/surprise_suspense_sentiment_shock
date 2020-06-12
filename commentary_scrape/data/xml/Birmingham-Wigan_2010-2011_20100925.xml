@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Birmingham" competition="English Premier League" game_date="2010-09-25" home_team_name="Wigan" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="15" time="98" type="end" type_id="30"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" minute="93" period="2" second="9" time="96" type="corner" type_id="6"/>
+	<message comment="Ben Watson has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="90" period="2" second="42" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="90" period="2" second="42" time="93" type="save made" type_id="10"/>
+	<message comment="Franco Di Santo is substituted off" minute="90" period="2" second="32" time="93" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="90" period="2" second="32" time="93" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner recieves a red card" minute="88" period="2" second="34" time="91" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo has shot blocked (Out of box, Right footed, Open play)" minute="85" period="2" second="1" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="85" period="2" second="1" time="88" type="save made" type_id="10"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="84" period="2" second="11" time="87" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="84" period="2" second="11" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Charles N'Zogbia misses attempt (High, Out of box, Left footed, Free kick)" minute="82" period="2" second="10" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé is substituted off" minute="82" period="2" second="0" time="85" type="substitution off" type_id="18"/>
+	<message comment="Ben Watson is substituted on" minute="82" period="2" second="0" time="85" type="substitution on" type_id="19"/>
+	<message comment="Ali Al Habsi makes a save (Collected)" minute="80" period="2" second="30" time="83" type="save made" type_id="10"/>
+	<message comment="Craig Gardner has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="80" period="2" second="30" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Free kick)" minute="79" period="2" second="59" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Ferguson blocks a shot" minute="79" period="2" second="59" time="82" type="save made" type_id="10"/>
+	<message comment="Mohamed Diamé blocks a shot" minute="78" period="2" second="52" time="81" type="save made" type_id="10"/>
+	<message comment="Kevin Phillips has shot blocked (Out of box, Right footed, Open play)" minute="78" period="2" second="52" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome is substituted off" minute="77" period="2" second="47" time="80" type="substitution off" type_id="18"/>
+	<message comment="Kevin Phillips is substituted on" minute="77" period="2" second="47" time="80" type="substitution on" type_id="19"/>
+	<message comment="Franco Di Santo has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="76" period="2" second="26" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Collected)" minute="76" period="2" second="26" time="79" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson is caught offside" minute="73" period="2" time="76" type="offside" type_id="10000"/>
+	<message comment="Scott Dann recieves a yellow card" minute="67" period="2" second="37" time="70" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Aliaksandr Hleb is substituted off" minute="61" period="2" second="32" time="64" type="substitution off" type_id="18"/>
+	<message comment="Jean Beausejour is substituted on" minute="61" period="2" second="32" time="64" type="substitution on" type_id="19"/>
+	<message comment="Lee Bowyer is substituted off" minute="61" period="2" second="22" time="64" type="substitution off" type_id="18"/>
+	<message comment="Nikola Zigic is substituted on" minute="61" period="2" second="22" time="64" type="substitution on" type_id="19"/>
+	<message comment="Ronnie Stam is substituted off" minute="59" period="2" second="9" time="62" type="substitution off" type_id="18"/>
+	<message comment="Franco Di Santo is substituted on" minute="59" period="2" second="9" time="62" type="substitution on" type_id="19"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="56" period="2" second="44" time="59" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="56" period="2" second="44" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster wins a corner (To the right)" minute="55" period="2" second="52" time="58" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega misses attempt (To the right, Out of box, Left footed, Open play)" minute="55" period="2" second="39" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega is caught offside" minute="54" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Liam Ridgewell misses attempt (To the right, 6-yard box, Big Chance, Head, Set piece)" minute="52" period="2" second="58" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="51" period="2" second="37" time="54" type="corner" type_id="6"/>
+	<message comment="James McCarthy has shot blocked (Out of box, Right footed, From corner)" minute="51" period="2" second="7" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="51" period="2" second="7" time="54" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="50" period="2" second="28" time="53" type="corner" type_id="6"/>
+	<message comment="James McCarthy wins a corner (To the right)" minute="50" period="2" second="1" time="53" type="corner" type_id="6"/>
+	<message comment="Charles N'Zogbia misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="45" period="2" second="47" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="42" time="47" type="end" type_id="30"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Collected)" minute="47" period="1" second="39" time="47" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the left, 6-yard box, Big Chance, Right footed, Set piece)" minute="47" period="1" second="39" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Parried into danger)" minute="47" period="1" second="36" time="47" type="save made" type_id="10"/>
+	<message comment="Sebastian Larsson has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="47" period="1" second="36" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Gohouri recieves a yellow card" minute="47" period="1" second="0" time="47" type="card received" type_id="17"/>
+	<message comment="Roger Johnson misses attempt (18-yard box, Head, Set piece)" minute="45" period="1" second="22" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson misses attempt (To the left, Out of box, Right footed, Throw-in)" minute="43" period="1" second="44" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Charles N'Zogbia has shot blocked (18-yard box, Right footed, Open play)" minute="41" period="1" second="9" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Carr blocks a shot" minute="41" period="1" second="9" time="41" type="save made" type_id="10"/>
+	<message comment="Ronnie Stam recieves a yellow card" minute="39" period="1" second="52" time="39" type="card received" type_id="17"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="37" period="1" second="40" time="37" type="corner" type_id="6"/>
+	<message comment="Steve Gohouri blocks a shot" minute="37" period="1" second="37" time="37" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has shot blocked (18-yard box, Right footed, Fast break)" minute="37" period="1" second="37" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Rodallega recieves a yellow card" minute="30" period="1" second="52" time="30" type="card received" type_id="17"/>
+	<message comment="Roger Johnson recieves a yellow card" minute="30" period="1" second="50" time="30" type="card received" type_id="17"/>
+	<message comment="Craig Gardner wins a corner (To the left)" minute="26" period="1" second="26" time="26" type="corner" type_id="6"/>
+	<message comment="Cameron Jerome misses attempt (To the left, 6-yard box, Head, Open play)" minute="25" period="1" second="17" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Lee Bowyer misses attempt (To the left, Out of box, Right footed, Open play)" minute="18" period="1" second="26" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Ronnie Stam has shot blocked (Out of box, Right footed, Open play)" minute="16" period="1" second="35" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="16" period="1" second="35" time="16" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia wins a corner (To the right)" minute="14" period="1" second="47" time="14" type="corner" type_id="6"/>
+	<message comment="Charles N'Zogbia wins a corner (To the right)" minute="14" period="1" second="9" time="14" type="corner" type_id="6"/>
+	<message comment="Charles N'Zogbia wins a corner (To the right)" minute="13" period="1" second="40" time="13" type="corner" type_id="6"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="13" period="1" second="37" time="13" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="13" period="1" second="37" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Charles N'Zogbia wins a corner (To the left)" minute="11" period="1" second="20" time="11" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" minute="11" period="1" second="18" time="11" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia has shot blocked (Out of box, Left footed, Open play)" minute="11" period="1" second="18" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="10" period="1" second="31" time="10" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce has shot blocked (Out of box, Right footed, Open play)" minute="10" period="1" second="31" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Dann blocks a shot" minute="9" period="1" second="51" time="9" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="9" period="1" second="51" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Cameron Jerome is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="Aliaksandr Hleb misses attempt (18-yard box, Left footed, Open play)" minute="2" period="1" second="22" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-09-01 16:00" game_id_2="27055699" game_id_4="110674675" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-01 17:35:38" minute="95" period="2" second="24" team="Tottenham" time="97" type="end" type_id="30"/>
+	<message comment="Paulinho recieves a yellow card" last_modified="2013-09-01 17:35:24" minute="95" period="2" second="10" team="Arsenal" time="97" type="card received" type_id="17"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-09-01 17:33:29" minute="93" period="2" second="15" team="Arsenal" time="95" type="corner" type_id="6"/>
+	<message comment="Theo Walcott is substituted off" last_modified="2013-09-01 17:31:18" minute="91" period="2" second="4" team="Tottenham" time="93" type="substitution off" type_id="18"/>
+	<message comment="Bacary Sagna is substituted on" last_modified="2013-09-01 17:31:18" minute="91" period="2" second="4" team="Tottenham" time="93" type="substitution on" type_id="19"/>
+	<message comment="Kyle Walker misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-01 17:30:27" minute="90" period="2" second="13" team="Arsenal" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Sandro blocks a shot" last_modified="2013-09-01 17:27:01" minute="86" period="2" second="47" team="Arsenal" time="88" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-01 17:27:01" minute="86" period="2" second="47" team="Tottenham" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Collected)" last_modified="2013-09-01 17:26:01" minute="85" period="2" second="47" team="Tottenham" time="87" type="save made" type_id="10"/>
+	<message comment="Erik Lamela has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2013-09-01 17:26:01" minute="85" period="2" second="47" team="Arsenal" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Nacer Chadli misses attempt (High, Out of box, Right footed, Set piece)" last_modified="2013-09-01 17:24:50" minute="84" period="2" second="36" team="Arsenal" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe recieves a yellow card" last_modified="2013-09-01 17:20:32" minute="80" period="2" second="18" team="Arsenal" time="82" type="card received" type_id="17"/>
+	<message comment="Theo Walcott has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-09-01 17:19:03" minute="78" period="2" second="49" team="Tottenham" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" last_modified="2013-09-01 17:19:03" minute="78" period="2" second="49" team="Arsenal" time="80" type="save made" type_id="10"/>
+	<message comment="Tomas Rosicky is substituted off" last_modified="2013-09-01 17:18:27" minute="78" period="2" second="13" team="Tottenham" time="80" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" last_modified="2013-09-01 17:18:27" minute="78" period="2" second="13" team="Tottenham" time="80" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is caught offside" last_modified="2013-09-01 17:16:14" minute="76" period="2" team="Tottenham" time="78" type="offside" type_id="10000"/>
+	<message comment="Kyle Walker misses attempt (To the left, Out of box, Right footed, Set piece)" last_modified="2013-09-01 17:15:27" minute="75" period="2" second="13" team="Arsenal" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud blocks a shot (Last line)" last_modified="2013-09-01 17:15:19" minute="75" period="2" second="5" team="Tottenham" time="77" type="save made" type_id="10"/>
+	<message comment="Roberto Soldado has shot blocked (18-yard box, Right footed, Set piece)" last_modified="2013-09-01 17:15:19" minute="75" period="2" second="5" team="Arsenal" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the right, Out of box, Right footed, Set piece)" last_modified="2013-09-01 17:15:15" minute="75" period="2" second="1" team="Arsenal" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" last_modified="2013-09-01 17:15:15" minute="75" period="2" second="1" team="Tottenham" time="77" type="save made" type_id="10"/>
+	<message comment="Etienne Capoue is substituted off" last_modified="2013-09-01 17:15:04" minute="74" period="2" second="50" team="Arsenal" time="76" type="substitution off" type_id="18"/>
+	<message comment="Sandro is substituted on" last_modified="2013-09-01 17:15:04" minute="74" period="2" second="50" team="Arsenal" time="76" type="substitution on" type_id="19"/>
+	<message comment="Andros Townsend is substituted off" last_modified="2013-09-01 17:14:42" minute="74" period="2" second="28" team="Arsenal" time="76" type="substitution off" type_id="18"/>
+	<message comment="Erik Lamela is substituted on" last_modified="2013-09-01 17:14:42" minute="74" period="2" second="28" team="Arsenal" time="76" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé is substituted off" last_modified="2013-09-01 17:08:27" minute="68" period="2" second="13" team="Arsenal" time="70" type="substitution off" type_id="18"/>
+	<message comment="Jermain Defoe is substituted on" last_modified="2013-09-01 17:08:27" minute="68" period="2" second="13" team="Arsenal" time="70" type="substitution on" type_id="19"/>
+	<message comment="Paulinho misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-01 17:06:04" minute="65" period="2" second="50" team="Arsenal" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud wins a corner (To the left)" last_modified="2013-09-01 17:03:25" minute="63" period="2" second="11" team="Tottenham" time="65" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Parried safe, Diving)" last_modified="2013-09-01 17:03:21" minute="63" period="2" second="7" team="Arsenal" time="65" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the left, Out of box, Left footed, Fast break)" last_modified="2013-09-01 17:03:21" minute="63" period="2" second="7" team="Tottenham" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Olivier Giroud has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-01 16:59:21" minute="59" period="2" second="7" team="Tottenham" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Dawson blocks a shot" last_modified="2013-09-01 16:59:21" minute="59" period="2" second="7" team="Arsenal" time="61" type="save made" type_id="10"/>
+	<message comment="Theo Walcott wins a corner (To the right)" last_modified="2013-09-01 16:58:47" minute="58" period="2" second="33" team="Tottenham" time="60" type="corner" type_id="6"/>
+	<message comment="Nacer Chadli misses attempt (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-09-01 16:55:14" minute="55" period="2" second="0" team="Arsenal" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Flamini recieves a yellow card" last_modified="2013-09-01 16:54:21" minute="54" period="2" second="7" team="Tottenham" time="56" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-09-01 16:49:04" minute="48" period="2" second="50" team="Tottenham" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey blocks a shot" last_modified="2013-09-01 16:47:22" minute="47" period="2" second="8" team="Tottenham" time="49" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-01 16:47:22" minute="47" period="2" second="8" team="Arsenal" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker wins a corner (To the right)" last_modified="2013-09-01 16:46:49" minute="46" period="2" second="35" team="Arsenal" time="48" type="corner" type_id="6"/>
+	<message comment="Paulinho wins a corner (To the right)" last_modified="2013-09-01 16:46:16" minute="46" period="2" second="2" team="Arsenal" time="48" type="corner" type_id="6"/>
+	<message comment="Mathieu Flamini blocks a shot" last_modified="2013-09-01 16:46:10" minute="45" period="2" second="56" team="Tottenham" time="47" type="save made" type_id="10"/>
+	<message comment="Paulinho has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-01 16:46:10" minute="45" period="2" second="56" team="Arsenal" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" last_modified="2013-09-01 16:45:14" minute="45" period="2" second="0" team="Tottenham" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-01 16:46:16" minute="46" period="1" second="2" team="Tottenham" time="46" type="end" type_id="30"/>
+	<message comment="Jack Wilshere is substituted off" last_modified="2013-09-01 16:43:11" minute="42" period="1" second="57" team="Tottenham" time="42" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" last_modified="2013-09-01 16:43:11" minute="42" period="1" second="57" team="Tottenham" time="42" type="substitution on" type_id="19"/>
+	<message comment="Wojciech Szczesny makes a save" last_modified="2013-09-01 16:39:45" minute="39" period="1" second="31" team="Tottenham" time="39" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the centre, Out of box, Left footed, Open play)" last_modified="2013-09-01 16:39:45" minute="39" period="1" second="31" team="Arsenal" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky recieves a yellow card" last_modified="2013-09-01 16:32:32" minute="32" period="1" second="18" team="Tottenham" time="32" type="card received" type_id="17"/>
+	<message comment="Aaron Ramsey misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2013-09-01 16:30:26" minute="30" period="1" second="12" team="Tottenham" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" last_modified="2013-09-01 16:29:37" minute="29" period="1" second="23" team="Tottenham" time="29" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has attempt saved (Low to the right, Out of box, Left footed, Open play)" last_modified="2013-09-01 16:29:37" minute="29" period="1" second="23" team="Arsenal" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Theo Walcott has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-09-01 16:26:00" minute="25" period="1" second="46" team="Tottenham" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" last_modified="2013-09-01 16:26:00" minute="25" period="1" second="46" team="Arsenal" time="25" type="save made" type_id="10"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Theo Walcott (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-09-01 16:22:26" minute="22" period="1" second="12" team="Tottenham" time="22" type="goal scored" type_id="16"/>
+	<message comment="Andros Townsend wins a corner (To the left)" last_modified="2013-09-01 16:19:02" minute="18" period="1" second="48" team="Arsenal" time="18" type="corner" type_id="6"/>
+	<message comment="Jack Wilshere blocks a shot" last_modified="2013-09-01 16:19:00" minute="18" period="1" second="46" team="Tottenham" time="18" type="save made" type_id="10"/>
+	<message comment="Andros Townsend has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-01 16:19:00" minute="18" period="1" second="46" team="Arsenal" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Roberto Soldado has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-09-01 16:12:36" minute="12" period="1" second="22" team="Arsenal" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Per Mertesacker blocks a shot" last_modified="2013-09-01 16:12:36" minute="12" period="1" second="22" team="Tottenham" time="12" type="save made" type_id="10"/>
+	<message comment="Nacer Chadli wins a corner (To the left)" last_modified="2013-09-01 16:09:31" minute="9" period="1" second="17" team="Arsenal" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" last_modified="2013-09-01 16:00:14" minute="0" period="14" second="0" team="Tottenham" time="7" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (To the right, Out of box, Head, Open play)" last_modified="2013-09-01 16:07:03" minute="6" period="1" second="49" team="Tottenham" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla misses attempt (Out of box, Right footed, Free kick)" last_modified="2013-09-01 16:06:01" minute="5" period="1" second="47" team="Tottenham" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Olivier Giroud misses attempt (High, 18-yard box, Head, From corner)" last_modified="2013-09-01 16:02:56" minute="2" period="1" second="42" team="Tottenham" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the left)" last_modified="2013-09-01 16:02:37" minute="2" period="1" second="23" team="Tottenham" time="2" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" last_modified="2013-09-01 16:02:34" minute="2" period="1" second="20" team="Arsenal" time="2" type="save made" type_id="10"/>
+	<message comment="Santi Cazorla has attempt saved (High to the left, Out of box, Right footed, Free kick)" last_modified="2013-09-01 16:02:34" minute="2" period="1" second="20" team="Tottenham" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Andros Townsend wins a corner (To the right)" last_modified="2013-09-01 16:00:50" minute="0" period="1" second="36" team="Arsenal" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-09-01 16:00:14" minute="0" period="1" second="0" team="Tottenham" time="0" type="start" type_id="32"/>
+</Commentary>

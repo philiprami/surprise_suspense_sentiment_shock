@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Stoke" competition="English Premier League" game_date="2014-02-12 19:45" game_id_2="27144212" game_id_4="112721696" home_team_name="Swansea" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-02-12 21:35:38" minute="95" period="2" second="21" team="Swansea" time="98" type="end" type_id="30"/>
+	<message comment="Leon Britton is substituted off" last_modified="2014-02-12 21:29:25" minute="89" period="2" second="8" team="Stoke" time="92" type="substitution off" type_id="18"/>
+	<message comment="Jordi Amat is substituted on" last_modified="2014-02-12 21:29:25" minute="89" period="2" second="8" team="Stoke" time="92" type="substitution on" type_id="19"/>
+	<message comment="Oussama Assaidi misses attempt (High to the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 21:28:42" minute="88" period="2" second="25" team="Swansea" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch recieves a yellow card" last_modified="2014-02-12 21:27:57" minute="87" period="2" second="40" team="Swansea" time="90" type="card received" type_id="17"/>
+	<message comment="Oussama Assaidi wins a corner (To the left)" last_modified="2014-02-12 21:27:42" minute="87" period="2" second="25" team="Swansea" time="90" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony misses attempt (To the left, 6-yard box, Big Chance, Head, From corner)" last_modified="2014-02-12 21:25:59" minute="85" period="2" second="42" team="Stoke" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams misses attempt (To the right, 18-yard box, Key pass, Head, From corner)" last_modified="2014-02-12 21:25:58" minute="85" period="2" second="41" team="Stoke" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" last_modified="2014-02-12 21:25:31" minute="85" period="2" second="14" team="Stoke" time="88" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe)" last_modified="2014-02-12 21:25:25" minute="85" period="2" second="8" team="Swansea" time="88" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (High to the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 21:25:25" minute="85" period="2" second="8" team="Stoke" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer is substituted off" last_modified="2014-02-12 21:22:10" minute="81" period="2" second="53" team="Stoke" time="84" type="substitution off" type_id="18"/>
+	<message comment="Marvin Emnes is substituted on" last_modified="2014-02-12 21:22:10" minute="81" period="2" second="53" team="Stoke" time="84" type="substitution on" type_id="19"/>
+	<message comment="Ryan Shawcross blocks a shot (Last line)" last_modified="2014-02-12 21:16:54" minute="76" period="2" second="37" team="Swansea" time="79" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-02-12 21:16:54" minute="76" period="2" second="37" team="Stoke" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Hernández is substituted off" last_modified="2014-02-12 21:15:04" minute="74" period="2" second="47" team="Stoke" time="77" type="substitution off" type_id="18"/>
+	<message comment="Jonathan de Guzmán is substituted on" last_modified="2014-02-12 21:15:04" minute="74" period="2" second="47" team="Stoke" time="77" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam misses attempt (High to the right, Out of box, Left footed, Free kick)" last_modified="2014-02-12 21:11:38" minute="71" period="2" second="21" team="Swansea" time="74" type="attempt missed" type_id="13"/>
+	<message comment="Leon Britton recieves a yellow card" last_modified="2014-02-12 21:10:47" minute="70" period="2" second="30" team="Stoke" time="73" type="card received" type_id="17"/>
+	<message comment="Glenn Whelan is substituted off" last_modified="2014-02-12 21:07:20" minute="67" period="2" second="3" team="Swansea" time="70" type="substitution off" type_id="18"/>
+	<message comment="John Guidetti is substituted on" last_modified="2014-02-12 21:07:20" minute="67" period="2" second="3" team="Swansea" time="70" type="substitution on" type_id="19"/>
+	<message comment="Marko Arnautovic is substituted off" last_modified="2014-02-12 20:55:35" minute="55" period="2" second="18" team="Swansea" time="58" type="substitution off" type_id="18"/>
+	<message comment="Oussama Assaidi is substituted on" last_modified="2014-02-12 20:55:35" minute="55" period="2" second="18" team="Swansea" time="58" type="substitution on" type_id="19"/>
+	<message comment="Jonathan Walters is substituted off" last_modified="2014-02-12 20:55:32" minute="55" period="2" second="15" team="Swansea" time="58" type="substitution off" type_id="18"/>
+	<message comment="Steven Nzonzi is substituted on" last_modified="2014-02-12 20:55:32" minute="55" period="2" second="15" team="Swansea" time="58" type="substitution on" type_id="19"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2014-02-12 20:53:24" minute="53" period="2" second="7" team="Swansea" time="56" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (Out of box, Right footed, Open play)" last_modified="2014-02-12 20:53:24" minute="53" period="2" second="7" team="Stoke" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Chico Flores scores , Assisted by Pablo Hernández (Low to the right, 18-yard box, Head, From corner)" last_modified="2014-02-12 20:51:50" minute="51" period="2" second="33" team="Stoke" time="54" type="goal scored" type_id="16"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" last_modified="2014-02-12 20:51:11" minute="50" period="2" second="54" team="Stoke" time="53" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony misses attempt (High to the right, 18-yard box, Right footed, Open play)" last_modified="2014-02-12 20:46:54" minute="46" period="2" second="37" team="Stoke" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2014-02-12 20:46:25" minute="46" period="2" second="8" team="Swansea" time="49" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:46:25" minute="46" period="2" second="8" team="Stoke" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="José Cañas misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:45:44" minute="45" period="2" second="27" team="Stoke" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" last_modified="2014-02-12 20:45:17" minute="45" period="2" second="0" team="Swansea" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-02-12 20:47:26" minute="47" period="1" second="9" team="Swansea" time="47" type="end" type_id="30"/>
+	<message comment="Wilfried Bony wins a corner (To the left)" last_modified="2014-02-12 20:46:23" minute="46" period="1" second="6" team="Stoke" time="46" type="corner" type_id="6"/>
+	<message comment="Marc Wilson blocks a shot" last_modified="2014-02-12 20:46:20" minute="46" period="1" second="3" team="Swansea" time="46" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-12 20:46:20" minute="46" period="1" second="3" team="Stoke" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" last_modified="2014-02-12 20:43:37" minute="43" period="1" second="20" team="Stoke" time="43" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer misses attempt (Out of box, Right footed, Open play)" last_modified="2014-02-12 20:37:49" minute="37" period="1" second="32" team="Stoke" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam recieves a yellow card" last_modified="2014-02-12 20:36:13" minute="35" period="1" second="56" team="Swansea" time="35" type="card received" type_id="17"/>
+	<message comment="Ashley Williams recieves a yellow card" last_modified="2014-02-12 20:35:55" minute="35" period="1" second="38" team="Stoke" time="35" type="card received" type_id="17"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2014-02-12 20:31:17" minute="31" period="1" team="Stoke" time="31" type="offside" type_id="10000"/>
+	<message comment="Jonathan Walters has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:29:55" minute="29" period="1" second="38" team="Swansea" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing, Parried into danger, Other body part)" last_modified="2014-02-12 20:29:55" minute="29" period="1" second="38" team="Stoke" time="29" type="save made" type_id="10"/>
+	<message comment="José Cañas misses attempt (High to the left, 18-yard box, Left footed, Open play)" last_modified="2014-02-12 20:25:42" minute="25" period="1" second="25" team="Stoke" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Dyer misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-02-12 20:21:40" minute="21" period="1" second="23" team="Stoke" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2014-02-12 20:21:06" minute="20" period="1" second="49" team="Swansea" time="20" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (18-yard box, Right footed, Open play)" last_modified="2014-02-12 20:21:06" minute="20" period="1" second="49" team="Stoke" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Marko Arnautovic wins a corner (To the right)" last_modified="2014-02-12 20:19:31" minute="19" period="1" second="14" team="Swansea" time="19" type="corner" type_id="6"/>
+	<message comment="Marko Arnautovic has attempt saved (High to the centre, Out of box, Right footed, Open play)" last_modified="2014-02-12 20:19:29" minute="19" period="1" second="12" team="Swansea" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Parried safe)" last_modified="2014-02-12 20:19:29" minute="19" period="1" second="12" team="Stoke" time="19" type="save made" type_id="10"/>
+	<message comment="GOAL! Peter Crouch scores  (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2014-02-12 20:17:08" minute="16" period="1" second="51" team="Swansea" time="16" type="goal scored" type_id="16"/>
+	<message comment="Peter Odemwingie hits the woodwork (To the left, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-02-12 20:17:06" minute="16" period="1" second="49" team="Swansea" time="16" type="woodwork hit" type_id="14"/>
+	<message comment="Charlie Adam has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2014-02-12 20:09:53" minute="9" period="1" second="36" team="Swansea" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Diving)" last_modified="2014-02-12 20:09:53" minute="9" period="1" second="36" team="Stoke" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" last_modified="2014-02-12 20:00:17" minute="0" period="14" second="0" team="Swansea" time="8" type="end" type_id="30"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" last_modified="2014-02-12 20:02:36" minute="2" period="1" second="19" team="Stoke" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2014-02-12 20:00:17" minute="0" period="1" second="0" team="Swansea" time="0" type="start" type_id="32"/>
+</Commentary>

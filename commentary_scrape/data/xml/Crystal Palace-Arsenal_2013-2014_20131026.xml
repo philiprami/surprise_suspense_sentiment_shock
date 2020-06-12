@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Crystal Palace" competition="English Premier League" game_date="2013-10-26" home_team_name="Arsenal" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="2" time="96" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (High to the left, Out of box, Left footed, Open play)" minute="92" period="2" second="48" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Dwight Gayle misses attempt (To the left, 18-yard box, Head, From corner)" minute="88" period="2" second="47" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Kagisho Dikgacoi wins a corner (To the right)" minute="88" period="2" second="26" time="90" type="corner" type_id="6"/>
+	<message comment="GOAL! Olivier Giroud scores , Assisted by Aaron Ramsey (Low to the right, 18-yard box, Big Chance, Head, Open play)" minute="86" period="2" second="55" time="88" type="goal scored" type_id="16"/>
+	<message comment="Mesut Özil misses attempt (To the right, 18-yard box, Big Chance, Left footed, Open play)" minute="86" period="2" second="27" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Damien Delaney blocks a shot" minute="81" period="2" second="2" time="83" type="save made" type_id="10"/>
+	<message comment="Nacho Monreal has shot blocked (6-yard box, Right footed, Open play)" minute="81" period="2" second="2" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Bannan is substituted off" minute="76" period="2" second="36" time="78" type="substitution off" type_id="18"/>
+	<message comment="Dwight Gayle is substituted on" minute="76" period="2" second="36" time="78" type="substitution on" type_id="19"/>
+	<message comment="Mile Jedinak wins a corner (To the left)" minute="74" period="2" second="5" time="76" type="corner" type_id="6"/>
+	<message comment="Mile Jedinak has attempt saved (High to the left, Out of box, Right footed, From corner)" minute="74" period="2" second="2" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save (Diving, Parried safe)" minute="74" period="2" second="2" time="76" type="save made" type_id="10"/>
+	<message comment="Joel Ward wins a corner (To the left)" minute="73" period="2" second="51" time="75" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save" minute="73" period="2" second="44" time="75" type="save made" type_id="10"/>
+	<message comment="Joel Ward has attempt saved (High to the left, Out of box, Right footed, Open play)" minute="73" period="2" second="44" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla is substituted off" minute="71" period="2" second="28" time="73" type="substitution off" type_id="18"/>
+	<message comment="Nacho Monreal is substituted on" minute="71" period="2" second="28" time="73" type="substitution on" type_id="19"/>
+	<message comment="Adlène Guédioura is substituted off" minute="71" period="2" second="5" time="73" type="substitution off" type_id="18"/>
+	<message comment="Jimmy Kébé is substituted on" minute="71" period="2" second="5" time="73" type="substitution on" type_id="19"/>
+	<message comment="Serge Gnabry is substituted off" minute="68" period="2" second="47" time="70" type="substitution off" type_id="18"/>
+	<message comment="Jack Wilshere is substituted on" minute="68" period="2" second="47" time="70" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud is caught offside" minute="66" period="2" time="68" type="offside" type_id="10000"/>
+	<message comment="Mikel Arteta recieves a red card" minute="64" period="2" second="44" time="66" type="card received" type_id="17"/>
+	<message comment="Bacary Sagna wins a corner (To the left)" minute="63" period="2" second="55" time="65" type="corner" type_id="6"/>
+	<message comment="Adlène Guédioura misses attempt (To the left, Out of box, Right footed, Throw-in)" minute="60" period="2" second="11" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Jerome Thomas is substituted off" minute="57" period="2" second="8" time="59" type="substitution off" type_id="18"/>
+	<message comment="Yannick Bolasie is substituted on" minute="57" period="2" second="8" time="59" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (6-yard box, Big Chance, Head, Open play)" minute="53" period="2" second="4" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Adlène Guédioura has shot blocked (Out of box, Right footed, Free kick)" minute="51" period="2" second="25" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Mesut Özil blocks a shot" minute="51" period="2" second="25" time="53" type="save made" type_id="10"/>
+	<message comment="GOAL! Mikel Arteta scores  (High to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="46" period="2" second="44" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="10" time="46" type="end" type_id="30"/>
+	<message comment="Julian Speroni makes a save (Standing)" minute="43" period="1" second="49" time="43" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="43" period="1" second="49" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Adlène Guédioura misses attempt (To the right, Out of box, Right footed, Open play)" minute="38" period="1" second="15" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Julian Speroni makes a save (Parried safe)" minute="37" period="1" second="37" time="37" type="save made" type_id="10"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="37" period="1" second="37" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Kagisho Dikgacoi misses attempt (6-yard box, Head, From corner)" minute="36" period="1" second="49" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Damien Delaney wins a corner (To the right)" minute="36" period="1" second="27" time="36" type="corner" type_id="6"/>
+	<message comment="Santi Cazorla misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="34" period="1" second="6" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan misses attempt (18-yard box, Left footed, Open play)" minute="32" period="1" second="18" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="32" period="1" second="16" time="32" type="save made" type_id="10"/>
+	<message comment="Danny Gabbidon has shot blocked (18-yard box, Left footed, Set piece)" minute="32" period="1" second="16" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Adlène Guédioura has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="29" period="1" second="49" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Wojciech Szczesny makes a save" minute="29" period="1" second="49" time="29" type="save made" type_id="10"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="27" period="1" second="5" time="27" type="save made" type_id="10"/>
+	<message comment="Marouane Chamakh has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="27" period="1" second="5" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas misses attempt (Out of box, Right footed, Open play)" minute="24" period="1" second="31" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Chamakh is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Jerome Thomas is caught offside" minute="19" period="1" time="19" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Mesut Özil wins a corner (To the right)" minute="16" period="1" second="59" time="16" type="corner" type_id="6"/>
+	<message comment="Barry Bannan misses attempt (High, 18-yard box, Head, Open play)" minute="13" period="1" second="18" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Mesut Özil wins a corner (To the left)" minute="7" period="1" second="22" time="7" type="corner" type_id="6"/>
+	<message comment="Mathieu Flamini is substituted off" minute="7" period="1" second="7" time="7" type="substitution off" type_id="18"/>
+	<message comment="Serge Gnabry is substituted on" minute="7" period="1" second="7" time="7" type="substitution on" type_id="19"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Olivier Giroud misses attempt (18-yard box, Head, Open play)" minute="2" period="1" second="46" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

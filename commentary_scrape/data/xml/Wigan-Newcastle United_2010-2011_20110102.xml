@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2011-01-02" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="35" time="95" type="end" type_id="30"/>
+	<message comment="José Enrique misses attempt (18-yard box, Right footed, Set piece)" minute="91" period="2" second="12" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best misses attempt (To the left, 18-yard box, Right footed, Fast break)" minute="89" period="2" second="28" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Ben Watson wins a corner (To the left)" minute="88" period="2" second="4" time="90" type="corner" type_id="6"/>
+	<message comment="Joey Barton recieves a yellow card" minute="87" period="2" second="20" time="89" type="card received" type_id="17"/>
+	<message comment="Kevin Nolan is substituted off" minute="85" period="2" second="50" time="87" type="substitution off" type_id="18"/>
+	<message comment="Alan Smith is substituted on" minute="85" period="2" second="50" time="87" type="substitution on" type_id="19"/>
+	<message comment="Ronnie Stam is substituted off" minute="83" period="2" second="47" time="85" type="substitution off" type_id="18"/>
+	<message comment="Callum McManaman is substituted on" minute="83" period="2" second="47" time="85" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="83" period="2" second="0" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Steven Taylor blocks a shot" minute="82" period="2" second="4" time="84" type="save made" type_id="10"/>
+	<message comment="Mauro Boselli has shot blocked (Out of box, Left footed, Open play)" minute="82" period="2" second="4" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi is substituted off" minute="76" period="2" second="49" time="78" type="substitution off" type_id="18"/>
+	<message comment="Leon Best is substituted on" minute="76" period="2" second="49" time="78" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi is caught offside" minute="76" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Peter Løvenkrands is substituted off" minute="69" period="2" second="14" time="71" type="substitution off" type_id="18"/>
+	<message comment="Wayne Routledge is substituted on" minute="69" period="2" second="14" time="71" type="substitution on" type_id="19"/>
+	<message comment="Steven Taylor hits the woodwork (High, 6-yard box, Big Chance, Head, Set piece)" minute="67" period="2" second="25" time="69" type="woodwork hit" type_id="14"/>
+	<message comment="Shola Ameobi is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Jordi Gómez is substituted off" minute="59" period="2" second="3" time="61" type="substitution off" type_id="18"/>
+	<message comment="Mauro Boselli is substituted on" minute="59" period="2" second="3" time="61" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Hugo Rodallega misses attempt (Out of box, Right footed, Open play)" minute="54" period="2" second="5" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega misses attempt (18-yard box, Left footed, Throw-in)" minute="53" period="2" second="18" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Hendry Thomas is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="James McArthur is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="45" time="46" type="end" type_id="30"/>
+	<message comment="Joey Barton misses attempt (Out of box, Right footed, Free kick)" minute="46" period="1" second="40" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Gary Caldwell recieves a yellow card" minute="45" period="1" second="35" time="45" type="card received" type_id="17"/>
+	<message comment="Jonás Gutiérrez has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="42" period="1" second="47" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Diving, Parried safe, Feet)" minute="42" period="1" second="47" time="42" type="save made" type_id="10"/>
+	<message comment="Fabricio Coloccini hits the woodwork (High, 18-yard box, Head, From corner)" minute="39" period="1" second="21" time="39" type="woodwork hit" type_id="14"/>
+	<message comment="Peter Løvenkrands wins a corner (To the left)" minute="38" period="1" second="47" time="38" type="corner" type_id="6"/>
+	<message comment="Peter Løvenkrands has shot blocked (6-yard box, Left footed, Set piece)" minute="38" period="1" second="46" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="38" period="1" second="46" time="38" type="save made" type_id="10"/>
+	<message comment="Ben Watson recieves a yellow card" minute="37" period="1" second="59" time="37" type="card received" type_id="17"/>
+	<message comment="Hugo Rodallega misses attempt (6-yard box, Big Chance, Right footed, From corner)" minute="35" period="1" second="28" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Gary Caldwell hits the woodwork (High, 18-yard box, Head, From corner)" minute="35" period="1" second="26" time="35" type="woodwork hit" type_id="14"/>
+	<message comment="Tom Cleverley wins a corner (To the right)" minute="35" period="1" second="0" time="35" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan blocks a shot" minute="34" period="1" second="52" time="34" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has shot blocked (Out of box, Right footed, Throw-in)" minute="34" period="1" second="52" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté misses attempt (High to the right, Out of box, Right footed, From corner)" minute="30" period="1" second="52" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Peter Løvenkrands wins a corner (To the right)" minute="30" period="1" second="17" time="30" type="corner" type_id="6"/>
+	<message comment="Peter Løvenkrands is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Peter Løvenkrands misses attempt (To the right, 18-yard box, Head, Open play)" minute="22" period="1" second="24" time="22" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Shola Ameobi scores  (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="18" period="1" second="42" time="18" type="goal scored" type_id="16"/>
+	<message comment="Peter Løvenkrands hits the woodwork (To the left, 6-yard box, Big Chance, Left footed, Open play)" minute="18" period="1" second="41" time="18" type="woodwork hit" type_id="14"/>
+	<message comment="Ali Al Habsi makes a save (Parried into danger, Diving)" minute="18" period="1" second="39" time="18" type="save made" type_id="10"/>
+	<message comment="Joey Barton has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="18" period="1" second="39" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="17" period="1" second="41" time="17" type="corner" type_id="6"/>
+	<message comment="Peter Løvenkrands has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="16" period="1" second="33" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Collected)" minute="16" period="1" second="33" time="16" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley misses attempt (18-yard box, Left footed, Open play)" minute="14" period="1" second="35" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Danny Simpson recieves a yellow card" minute="8" period="1" second="50" time="8" type="card received" type_id="17"/>
+	<message comment="Antolín Alcaraz has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="5" period="1" second="18" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Collected, Standing)" minute="5" period="1" second="18" time="5" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Tom Cleverley wins a corner (To the right)" minute="4" period="1" second="50" time="4" type="corner" type_id="6"/>
+	<message comment="Steve Harper makes a save (Diving, Parried safe)" minute="4" period="1" second="48" time="4" type="save made" type_id="10"/>
+	<message comment="Tom Cleverley has attempt saved (High to the right, Out of box, Right footed, Set piece)" minute="4" period="1" second="48" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi misses attempt (6-yard box, Big Chance, Head, Open play)" minute="1" period="1" second="35" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

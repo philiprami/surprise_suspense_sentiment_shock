@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Hull" competition="English Premier League" game_date="2013-12-28" home_team_name="Fulham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="4" time="95" type="end" type_id="30"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="88" period="2" second="20" time="90" type="corner" type_id="6"/>
+	<message comment="George Boyd misses attempt (18-yard box, Left footed, Set piece)" minute="86" period="2" second="32" time="88" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Robert Koren scores  (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="83" period="2" second="53" time="85" type="goal scored" type_id="16"/>
+	<message comment="Danny Graham has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="83" period="2" second="51" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Parried into danger, Diving)" minute="83" period="2" second="51" time="85" type="save made" type_id="10"/>
+	<message comment="Elsad Zverotic misses attempt (High to the left, Out of box, Left footed, Open play)" minute="80" period="2" second="9" time="82" type="attempt missed" type_id="13"/>
+	<message comment="James Chester blocks a shot" minute="80" period="2" second="0" time="82" type="save made" type_id="10"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Free kick)" minute="80" period="2" second="0" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Ahmed El Mohamady is substituted off" minute="76" period="2" second="17" time="78" type="substitution off" type_id="18"/>
+	<message comment="Paul McShane is substituted on" minute="76" period="2" second="17" time="78" type="substitution on" type_id="19"/>
+	<message comment="Giorgos Karagounis is substituted off" minute="74" period="2" second="0" time="76" type="substitution off" type_id="18"/>
+	<message comment="Kieran Richardson is substituted on" minute="74" period="2" second="0" time="76" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Matty Fryatt scores  (Low to the right, 6-yard box, Big Chance, Right footed, Set piece)" minute="73" period="2" second="15" time="75" type="goal scored" type_id="16"/>
+	<message comment="Tom Huddlestone has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="73" period="2" second="11" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="73" period="2" second="11" time="75" type="save made" type_id="10"/>
+	<message comment="Jake Livermore is substituted off" minute="72" period="2" second="29" time="74" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="72" period="2" second="29" time="74" type="substitution on" type_id="19"/>
+	<message comment="Elsad Zverotic wins a corner (To the right)" minute="68" period="2" second="57" time="70" type="corner" type_id="6"/>
+	<message comment="Allan McGregor makes a save (Parried into danger, Standing)" minute="68" period="2" second="53" time="70" type="save made" type_id="10"/>
+	<message comment="Elsad Zverotic has attempt saved (High to the right, Out of box, Left footed, Open play)" minute="68" period="2" second="53" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Yannick Sagbo is substituted off" minute="67" period="2" second="0" time="69" type="substitution off" type_id="18"/>
+	<message comment="Matty Fryatt is substituted on" minute="67" period="2" second="0" time="69" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Tom Huddlestone scores  (Low to the right, Out of box, Left footed, Open play)" minute="66" period="2" second="2" time="68" type="goal scored" type_id="16"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="65" period="2" second="57" time="67" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="65" period="2" second="57" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ashkan Dejagah is substituted off" minute="63" period="2" second="3" time="65" type="substitution off" type_id="18"/>
+	<message comment="Darren Bent is substituted on" minute="63" period="2" second="3" time="65" type="substitution on" type_id="19"/>
+	<message comment="GOAL! George Boyd scores , Assisted by Jake Livermore (Low to the right, Out of box, Left footed, Open play)" minute="62" period="2" second="7" time="64" type="goal scored" type_id="16"/>
+	<message comment="Yannick Sagbo has shot blocked (Out of box, Right footed, Open play)" minute="61" period="2" second="3" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="61" period="2" second="3" time="63" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz is substituted off" minute="59" period="2" second="52" time="61" type="substitution off" type_id="18"/>
+	<message comment="Alexander Kacaniklic is substituted on" minute="59" period="2" second="52" time="61" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Robert Koren scores , Assisted by Yannick Sagbo (High to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="59" period="2" second="4" time="61" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Ahmed El Mohamady scores  (High to the right, 18-yard box, Right footed, From corner)" minute="48" period="2" second="38" time="50" type="goal scored" type_id="16"/>
+	<message comment="Robert Koren wins a corner (To the right)" minute="48" period="2" second="5" time="50" type="corner" type_id="6"/>
+	<message comment="Robert Koren has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="48" period="2" second="1" time="50" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Standing, Parried safe)" minute="48" period="2" second="1" time="50" type="save made" type_id="10"/>
+	<message comment="Yannick Sagbo has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="47" period="2" second="57" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Diving, Parried into danger)" minute="47" period="2" second="57" time="49" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone misses attempt (Out of box, Right footed, Open play)" minute="46" period="2" second="12" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="13" time="46" type="end" type_id="30"/>
+	<message comment="Tom Huddlestone misses attempt (To the left, Out of box, Right footed, Open play)" minute="41" period="1" second="57" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Ashkan Dejagah misses attempt (To the right, Out of box, Right footed, Open play)" minute="36" period="1" second="12" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady wins a corner (To the right)" minute="34" period="1" second="11" time="34" type="corner" type_id="6"/>
+	<message comment="Bryan Ruiz blocks a shot" minute="31" period="1" second="56" time="31" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has shot blocked (18-yard box, Head, From corner)" minute="31" period="1" second="56" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Koren wins a corner (To the right)" minute="31" period="1" second="30" time="31" type="corner" type_id="6"/>
+	<message comment="Yannick Sagbo misses attempt (18-yard box, Right footed, Open play)" minute="29" period="1" second="12" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Ahmed El Mohamady has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="26" period="1" second="5" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Collected, Diving)" minute="26" period="1" second="5" time="26" type="save made" type_id="10"/>
+	<message comment="Robert Koren has shot blocked (Out of box, Left footed, Open play)" minute="26" period="1" second="2" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta blocks a shot" minute="26" period="1" second="2" time="26" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone wins a corner (To the left)" minute="20" period="1" second="25" time="20" type="corner" type_id="6"/>
+	<message comment="George Boyd wins a corner (To the right)" minute="18" period="1" second="46" time="18" type="corner" type_id="6"/>
+	<message comment="George Boyd has attempt saved (High to the centre, 18-yard box, Left footed, Open play)" minute="18" period="1" second="44" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="David Stockdale makes a save (Parried safe)" minute="18" period="1" second="44" time="18" type="save made" type_id="10"/>
+	<message comment="Tom Huddlestone hits the woodwork (To the right, Out of box, Right footed, Free kick)" minute="18" period="1" second="16" time="18" type="woodwork hit" type_id="14"/>
+	<message comment="Allan McGregor makes a save (Parried into danger, Diving)" minute="6" period="1" second="6" time="6" type="save made" type_id="10"/>
+	<message comment="John Arne Riise has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="6" period="1" second="6" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

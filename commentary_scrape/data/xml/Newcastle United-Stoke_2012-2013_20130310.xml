@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2013-03-10" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="5" time="97" type="end" type_id="30"/>
+	<message comment="Adam Campbell wins a corner (To the right)" minute="94" period="2" second="40" time="96" type="corner" type_id="6"/>
+	<message comment="GOAL! Papiss Demba Cissé scores , Assisted by Sylvain Marveaux (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="91" period="2" second="49" time="93" type="goal scored" type_id="16"/>
+	<message comment="Cameron Jerome is substituted off" minute="87" period="2" second="36" time="89" type="substitution off" type_id="18"/>
+	<message comment="Dean Whitehead is substituted on" minute="87" period="2" second="36" time="89" type="substitution on" type_id="19"/>
+	<message comment="Yoan Gouffran is substituted off" minute="85" period="2" second="51" time="87" type="substitution off" type_id="18"/>
+	<message comment="Adam Campbell is substituted on" minute="85" period="2" second="51" time="87" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the left)" minute="85" period="2" second="20" time="87" type="corner" type_id="6"/>
+	<message comment="Asmir Begovic makes a save (Parried safe, Standing)" minute="85" period="2" second="18" time="87" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé has attempt saved (High to the left, 18-yard box, Head, Open play)" minute="85" period="2" second="18" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Wilkinson misses attempt (To the right, Out of box, Right footed, Throw-in)" minute="84" period="2" second="40" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch is substituted off" minute="84" period="2" second="13" time="86" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="84" period="2" second="13" time="86" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the left)" minute="82" period="2" second="26" time="84" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="82" period="2" second="7" time="84" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye misses attempt (High to the left, Out of box, Right footed, Free kick)" minute="79" period="2" second="52" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="78" period="2" second="5" time="80" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Elliot makes a save (Collected, Diving)" minute="78" period="2" second="5" time="80" type="save made" type_id="10"/>
+	<message comment="Massadio Haidara wins a corner (To the left)" minute="76" period="2" second="56" time="78" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters wins a corner (To the left)" minute="76" period="2" second="16" time="78" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters has shot blocked (18-yard box, Right footed, Throw-in)" minute="76" period="2" second="15" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot" minute="76" period="2" second="15" time="78" type="save made" type_id="10"/>
+	<message comment="Davide Santon is substituted off" minute="73" period="2" second="10" time="75" type="substitution off" type_id="18"/>
+	<message comment="Massadio Haidara is substituted on" minute="73" period="2" second="10" time="75" type="substitution on" type_id="19"/>
+	<message comment="Cheick Tioté is substituted off" minute="73" period="2" second="1" time="75" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="73" period="2" second="1" time="75" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Yohan Cabaye scores  (High to the right, Out of box, Right footed, Free kick)" minute="72" period="2" second="0" time="74" type="goal scored" type_id="16"/>
+	<message comment="Steven Nzonzi blocks a shot" minute="68" period="2" second="9" time="70" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran has shot blocked (Out of box, Right footed, Open play)" minute="68" period="2" second="9" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jonathan Walters scores  (Low to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="66" period="2" second="57" time="68" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé recieves a yellow card" minute="63" period="2" second="46" time="65" type="card received" type_id="17"/>
+	<message comment="Marc Wilson recieves a yellow card" minute="63" period="2" second="43" time="65" type="card received" type_id="17"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="55" period="2" second="56" time="57" type="corner" type_id="6"/>
+	<message comment="Glenn Whelan blocks a shot" minute="55" period="2" second="55" time="57" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Right footed, Open play)" minute="55" period="2" second="55" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Shawcross blocks a shot" minute="54" period="2" second="22" time="56" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="54" period="2" second="22" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="52" period="2" second="52" time="54" type="corner" type_id="6"/>
+	<message comment="Steven Nzonzi blocks a shot" minute="51" period="2" second="23" time="53" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="23" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Moussa Sissoko misses attempt (To the right, Out of box, Right footed, Open play)" minute="50" period="2" second="12" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="48" period="2" second="53" time="50" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye misses attempt (To the right, Out of box, Right footed, Open play)" minute="46" period="2" second="46" time="48" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Cameron Jerome is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Glenn Whelan has shot blocked (18-yard box, Right footed, Open play)" minute="42" period="1" second="56" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Mathieu Debuchy blocks a shot" minute="42" period="1" second="56" time="42" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="41" period="1" second="16" time="41" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, Out of box, Right footed, Open play)" minute="41" period="1" second="13" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="36" period="1" second="3" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters misses attempt (To the right, Out of box, Right footed, Throw-in)" minute="34" period="1" second="26" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Asmir Begovic makes a save" minute="32" period="1" second="27" time="32" type="save made" type_id="10"/>
+	<message comment="Davide Santon has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="32" period="1" second="27" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Mathieu Debuchy wins a corner (To the left)" minute="22" period="1" second="32" time="22" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" minute="21" period="1" second="11" time="21" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez misses attempt (To the right, Out of box, Right footed, From corner)" minute="20" period="1" second="1" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="19" period="1" second="30" time="19" type="corner" type_id="6"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" minute="17" period="1" second="34" time="17" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, Out of box, Right footed, Open play)" minute="15" period="1" second="47" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko misses attempt (High to the right, Out of box, Right footed, Open play)" minute="13" period="1" second="32" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Shotton has attempt saved (High to the centre, Out of box, Right footed, From corner)" minute="11" period="1" second="14" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Elliot makes a save" minute="11" period="1" second="14" time="11" type="save made" type_id="10"/>
+	<message comment="Ryan Shotton wins a corner (To the right)" minute="10" period="1" second="31" time="10" type="corner" type_id="6"/>
+	<message comment="Yoan Gouffran wins a corner (To the left)" minute="9" period="1" second="10" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Yohan Cabaye wins a corner (To the right)" minute="5" period="1" second="31" time="5" type="corner" type_id="6"/>
+	<message comment="Mathieu Debuchy wins a corner (To the right)" minute="5" period="1" second="4" time="5" type="corner" type_id="6"/>
+	<message comment="Robert Elliot makes a save (Standing, Collected)" minute="2" period="1" second="12" time="2" type="save made" type_id="10"/>
+	<message comment="Peter Crouch has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="2" period="1" second="12" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

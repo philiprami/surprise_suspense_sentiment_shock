@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Birmingham" competition="English Premier League" game_date="2011-02-15" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="58" time="99" type="end" type_id="30"/>
+	<message comment="Joey Barton misses attempt (High, Out of box, Right footed, Free kick)" minute="94" period="2" second="25" time="99" type="attempt missed" type_id="13"/>
+	<message comment="Nile Ranger recieves a yellow card" minute="93" period="2" second="6" time="98" type="card received" type_id="17"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="89" period="2" second="42" time="94" type="corner" type_id="6"/>
+	<message comment="Jonás Gutiérrez is substituted off" minute="86" period="2" second="36" time="91" type="substitution off" type_id="18"/>
+	<message comment="Sol Campbell is substituted on" minute="86" period="2" second="36" time="91" type="substitution on" type_id="19"/>
+	<message comment="David Murphy recieves a yellow card" minute="85" period="2" second="42" time="90" type="card received" type_id="17"/>
+	<message comment="Cameron Jerome misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="84" period="2" second="9" time="89" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley wins a corner (To the left)" minute="82" period="2" second="20" time="87" type="corner" type_id="6"/>
+	<message comment="David Bentley has shot blocked (18-yard box, Right footed, Fast break)" minute="82" period="2" second="19" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté blocks a shot" minute="82" period="2" second="19" time="87" type="save made" type_id="10"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="81" period="2" second="28" time="86" type="corner" type_id="6"/>
+	<message comment="David Murphy wins a corner (To the left)" minute="78" period="2" second="43" time="83" type="corner" type_id="6"/>
+	<message comment="Roger Johnson has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="77" period="2" second="50" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Collected)" minute="77" period="2" second="50" time="82" type="save made" type_id="10"/>
+	<message comment="Stephen Carr wins a corner (To the right)" minute="77" period="2" second="27" time="82" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson is substituted off" minute="75" period="2" second="25" time="80" type="substitution off" type_id="18"/>
+	<message comment="Kevin Phillips is substituted on" minute="75" period="2" second="25" time="80" type="substitution on" type_id="19"/>
+	<message comment="Leon Best is substituted off" minute="75" period="2" second="2" time="80" type="substitution off" type_id="18"/>
+	<message comment="Danny Guthrie is substituted on" minute="75" period="2" second="2" time="80" type="substitution on" type_id="19"/>
+	<message comment="Martin Jiranek is substituted off" minute="72" period="2" second="49" time="77" type="substitution off" type_id="18"/>
+	<message comment="David Murphy is substituted on" minute="72" period="2" second="49" time="77" type="substitution on" type_id="19"/>
+	<message comment="Nikola Zigic misses attempt (High, 18-yard box, Big Chance, Head, Open play)" minute="72" period="2" second="12" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="71" period="2" second="31" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save" minute="71" period="2" second="31" time="76" type="save made" type_id="10"/>
+	<message comment="Roger Johnson misses attempt (18-yard box, Right footed, Open play)" minute="70" period="2" second="48" time="75" type="attempt missed" type_id="13"/>
+	<message comment="David Bentley wins a corner (To the left)" minute="70" period="2" second="9" time="75" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté blocks a shot" minute="68" period="2" second="4" time="73" type="save made" type_id="10"/>
+	<message comment="David Bentley has shot blocked (Out of box, Left footed, Open play)" minute="68" period="2" second="4" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Standing, Collected)" minute="65" period="2" second="44" time="70" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="65" period="2" second="44" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Peter Løvenkrands is substituted off" minute="64" period="2" second="22" time="69" type="substitution off" type_id="18"/>
+	<message comment="Nile Ranger is substituted on" minute="64" period="2" second="22" time="69" type="substitution on" type_id="19"/>
+	<message comment="David Bentley misses attempt (Out of box, Right footed, Open play)" minute="63" period="2" second="2" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton recieves a yellow card" minute="61" period="2" second="42" time="66" type="card received" type_id="17"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="59" period="2" second="27" time="64" type="corner" type_id="6"/>
+	<message comment="José Enrique has shot blocked (Out of box, Left footed, Open play)" minute="59" period="2" second="23" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="59" period="2" second="23" time="64" type="save made" type_id="10"/>
+	<message comment="Obafemi Martins is substituted off" minute="57" period="2" second="21" time="62" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="57" period="2" second="21" time="62" type="substitution on" type_id="19"/>
+	<message comment="Kevin Nolan is caught offside" minute="57" period="2" time="62" type="offside" type_id="10000"/>
+	<message comment="Obafemi Martins is caught offside" minute="56" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Leon Best is caught offside" minute="54" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Joey Barton misses attempt (18-yard box, Left footed, Open play)" minute="51" period="2" second="20" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Mike Williamson is caught offside" minute="51" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Jonás Gutiérrez wins a corner (To the right)" minute="50" period="2" second="38" time="55" type="corner" type_id="6"/>
+	<message comment="GOAL! Leon Best scores , Assisted by Jonás Gutiérrez (High to the right, 6-yard box, Big Chance, Head, Open play)" minute="49" period="2" second="30" time="54" type="goal scored" type_id="16"/>
+	<message comment="Peter Løvenkrands is caught offside" minute="47" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Nikola Zigic is caught offside" minute="45" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="14" time="49" type="end" type_id="30"/>
+	<message comment="Leon Best misses attempt (To the left, Out of box, Left footed, Open play)" minute="42" period="1" second="57" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best misses attempt (High to the right, 18-yard box, Head, Open play)" minute="40" period="1" second="41" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner misses attempt (Out of box, Right footed, Open play)" minute="38" period="1" second="10" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Nolan recieves a yellow card" minute="35" period="1" second="38" time="35" type="card received" type_id="17"/>
+	<message comment="Leon Best has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="35" period="1" second="22" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save" minute="35" period="1" second="22" time="35" type="save made" type_id="10"/>
+	<message comment="Obafemi Martins is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Leon Best is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="24" period="1" second="46" time="24" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan wins a corner (To the left)" minute="21" period="1" second="31" time="21" type="corner" type_id="6"/>
+	<message comment="Barry Ferguson blocks a shot" minute="21" period="1" second="30" time="21" type="save made" type_id="10"/>
+	<message comment="Kevin Nolan has shot blocked (Out of box, Right footed, Open play)" minute="21" period="1" second="30" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Harper makes a save (Parried into danger, Diving)" minute="20" period="1" second="11" time="20" type="save made" type_id="10"/>
+	<message comment="Nikola Zigic has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="20" period="1" second="11" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson misses attempt (6-yard box, Head, Set piece)" minute="18" period="1" second="6" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Nolan blocks a shot" minute="16" period="1" second="3" time="16" type="save made" type_id="10"/>
+	<message comment="Craig Gardner has shot blocked (Out of box, Left footed, Open play)" minute="16" period="1" second="3" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Nikola Zigic is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Nikola Zigic is caught offside" minute="9" period="1" time="9" type="offside" type_id="10000"/>
+	<message comment="Liam Ridgewell is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Nikola Zigic is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="GOAL! Peter Løvenkrands scores , Assisted by Jonás Gutiérrez (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="1" period="1" second="34" time="1" type="goal scored" type_id="16"/>
+	<message comment="Peter Løvenkrands has shot blocked (18-yard box, Left footed, Open play)" minute="1" period="1" second="31" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Roger Johnson blocks a shot" minute="1" period="1" second="31" time="1" type="save made" type_id="10"/>
+	<message comment="Liam Ridgewell is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

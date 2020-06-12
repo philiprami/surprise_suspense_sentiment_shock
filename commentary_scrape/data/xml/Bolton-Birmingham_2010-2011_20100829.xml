@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Bolton" competition="English Premier League" game_date="2010-08-29" home_team_name="Birmingham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="0" time="99" type="end" type_id="30"/>
+	<message comment="Roger Johnson misses attempt (High, 18-yard box, Head, From corner)" minute="92" period="2" second="32" time="96" type="attempt missed" type_id="13"/>
+	<message comment="Lee Bowyer wins a corner (To the right)" minute="92" period="2" second="6" time="96" type="corner" type_id="6"/>
+	<message comment="Craig Gardner misses attempt (Out of box, Right footed, Open play)" minute="90" period="2" second="53" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="90" period="2" second="36" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Bogdan makes a save (Parried safe, Feet, Diving)" minute="90" period="2" second="36" time="94" type="save made" type_id="10"/>
+	<message comment="Matt Derbyshire is caught offside" minute="89" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Fabrice Muamba recieves a yellow card" minute="88" period="2" second="28" time="92" type="card received" type_id="17"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Right footed, Set piece)" minute="87" period="2" second="46" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Davies misses attempt (18-yard box, Right footed, Open play)" minute="85" period="2" second="57" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Keith Fahey misses attempt (Out of box, Right footed, Throw-in)" minute="85" period="2" second="23" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies recieves a yellow card" minute="82" period="2" second="41" time="86" type="card received" type_id="17"/>
+	<message comment="GOAL! Robbie Blake scores  (High to the right, Out of box, Right footed, Free kick)" minute="80" period="2" second="23" time="84" type="goal scored" type_id="16"/>
+	<message comment="Stuart Holden is substituted off" minute="77" period="2" second="23" time="81" type="substitution off" type_id="18"/>
+	<message comment="Mark Davies is substituted on" minute="77" period="2" second="23" time="81" type="substitution on" type_id="19"/>
+	<message comment="Sebastian Larsson is substituted off" minute="75" period="2" second="30" time="79" type="substitution off" type_id="18"/>
+	<message comment="Keith Fahey is substituted on" minute="75" period="2" second="30" time="79" type="substitution on" type_id="19"/>
+	<message comment="Sebastian Larsson recieves a yellow card" minute="71" period="2" second="35" time="75" type="card received" type_id="17"/>
+	<message comment="GOAL! Kevin Davies scores  (High to the right, 18-yard box, Penalty, Right footed)" minute="70" period="2" second="1" time="74" type="goal scored" type_id="16"/>
+	<message comment="James McFadden is substituted off" minute="67" period="2" second="8" time="71" type="substitution off" type_id="18"/>
+	<message comment="Matt Derbyshire is substituted on" minute="67" period="2" second="8" time="71" type="substitution on" type_id="19"/>
+	<message comment="Johan Elmander is substituted off" minute="66" period="2" second="44" time="70" type="substitution off" type_id="18"/>
+	<message comment="Robbie Blake is substituted on" minute="66" period="2" second="44" time="70" type="substitution on" type_id="19"/>
+	<message comment="Kevin Davies wins a corner (To the right)" minute="62" period="2" second="26" time="66" type="corner" type_id="6"/>
+	<message comment="Kevin Davies misses attempt (High, Out of box, Right footed, Open play)" minute="61" period="2" second="34" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Cameron Jerome misses attempt (To the right, 18-yard box, Left footed, Fast break)" minute="55" period="2" second="1" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="54" period="2" second="45" time="58" type="save made" type_id="10"/>
+	<message comment="Johan Elmander has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="54" period="2" second="45" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Craig Gardner scores , Assisted by Cameron Jerome (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="49" period="2" second="59" time="53" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="0" time="48" type="end" type_id="30"/>
+	<message comment="Liam Ridgewell is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Kevin Davies misses attempt (To the right, 6-yard box, Head, From corner)" minute="41" period="1" second="45" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Stuart Holden wins a corner (To the left)" minute="41" period="1" second="13" time="41" type="corner" type_id="6"/>
+	<message comment="Roger Johnson blocks a shot" minute="41" period="1" second="12" time="41" type="save made" type_id="10"/>
+	<message comment="Stuart Holden has shot blocked (Out of box, Left footed, Open play)" minute="41" period="1" second="12" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="40" period="1" second="47" time="40" type="save made" type_id="10"/>
+	<message comment="Stuart Holden has shot blocked (Out of box, Right footed, Free kick)" minute="40" period="1" second="47" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Petrov is substituted off" minute="38" period="1" second="44" time="38" type="substitution off" type_id="18"/>
+	<message comment="Adam Bogdan is substituted on" minute="38" period="1" second="44" time="38" type="substitution on" type_id="19"/>
+	<message comment="Roger Johnson recieves a yellow card" minute="37" period="1" second="33" time="37" type="card received" type_id="17"/>
+	<message comment="Jussi Jääskeläinen recieves a red card" minute="35" period="1" second="52" time="35" type="card received" type_id="17"/>
+	<message comment="James McFadden has attempt saved (Low to the centre, 18-yard box, Left footed, Fast break)" minute="33" period="1" second="53" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried into danger)" minute="33" period="1" second="53" time="33" type="save made" type_id="10"/>
+	<message comment="Chung-Yong Lee wins a corner (To the right)" minute="32" period="1" second="29" time="32" type="corner" type_id="6"/>
+	<message comment="Martin Petrov misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="30" period="1" second="32" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Grétar Steinsson wins a corner (To the right)" minute="30" period="1" second="4" time="30" type="corner" type_id="6"/>
+	<message comment="Stuart Holden wins a corner (To the left)" minute="21" period="1" second="6" time="21" type="corner" type_id="6"/>
+	<message comment="Stuart Holden has attempt saved (High to the centre, Out of box, Right footed, Free kick)" minute="21" period="1" second="4" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried safe)" minute="21" period="1" second="4" time="21" type="save made" type_id="10"/>
+	<message comment="Lee Bowyer recieves a yellow card" minute="20" period="1" second="14" time="20" type="card received" type_id="17"/>
+	<message comment="Roger Johnson has shot blocked (18-yard box, Head, Set piece)" minute="19" period="1" second="58" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="19" period="1" second="58" time="19" type="save made" type_id="10"/>
+	<message comment="Martin Petrov has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="17" period="1" second="23" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried safe, Diving)" minute="17" period="1" second="23" time="17" type="save made" type_id="10"/>
+	<message comment="Johan Elmander has shot blocked (Out of box, Right footed, Free kick)" minute="16" period="1" second="48" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Bowyer blocks a shot" minute="16" period="1" second="48" time="16" type="save made" type_id="10"/>
+	<message comment="Paul Robinson wins a corner (To the left)" minute="14" period="1" second="4" time="14" type="corner" type_id="6"/>
+	<message comment="Martin Petrov has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="28" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Carr blocks a shot" minute="10" period="1" second="28" time="10" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="Johan Elmander misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="5" period="1" second="11" time="5" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Roger Johnson scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="3" period="1" second="39" time="3" type="goal scored" type_id="16"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

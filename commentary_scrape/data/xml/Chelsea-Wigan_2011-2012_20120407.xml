@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2012-04-07" home_team_name="Wigan" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="47" time="97" type="end" type_id="30"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="94" period="2" second="57" time="96" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save (Parried safe, Other body part)" minute="93" period="2" second="42" time="95" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="93" period="2" second="42" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Juan Mata scores  (Low to the centre, 6-yard box, Left footed, Open play)" minute="92" period="2" second="3" time="94" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres hits the woodwork (To the left, 18-yard box, Right footed, Open play)" minute="92" period="2" second="1" time="94" type="woodwork hit" type_id="14"/>
+	<message comment="Salomon Kalou misses attempt (18-yard box, Right footed, Open play)" minute="85" period="2" second="49" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="83" period="2" second="19" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge is substituted off" minute="82" period="2" second="55" time="84" type="substitution off" type_id="18"/>
+	<message comment="Salomon Kalou is substituted on" minute="82" period="2" second="55" time="84" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Mohamed Diamé scores , Assisted by Ben Watson (Low to the left, Out of box, Left footed, Open play)" minute="81" period="2" second="57" time="83" type="goal scored" type_id="16"/>
+	<message comment="Raul Meireles misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="80" period="2" second="2" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Franco Di Santo is substituted off" minute="79" period="2" second="24" time="81" type="substitution off" type_id="18"/>
+	<message comment="Conor Sammon is substituted on" minute="79" period="2" second="24" time="81" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (18-yard box, Left footed, Open play)" minute="77" period="2" second="33" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Juan Mata misses attempt (High, 18-yard box, Left footed, Open play)" minute="75" period="2" second="34" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Michael Essien is substituted off" minute="73" period="2" second="48" time="75" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="73" period="2" second="48" time="75" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata is caught offside" minute="71" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="James McArthur is substituted off" minute="70" period="2" second="39" time="72" type="substitution off" type_id="18"/>
+	<message comment="Mohamed Diamé is substituted on" minute="70" period="2" second="39" time="72" type="substitution on" type_id="19"/>
+	<message comment="Jean Beausejour is substituted off" minute="70" period="2" second="26" time="72" type="substitution off" type_id="18"/>
+	<message comment="Ben Watson is substituted on" minute="70" period="2" second="26" time="72" type="substitution on" type_id="19"/>
+	<message comment="Shaun Maloney misses attempt (To the left, Out of box, Right footed, Open play)" minute="67" period="2" second="5" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres is caught offside" minute="65" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Maynor Figueroa recieves a yellow card" minute="64" period="2" second="30" time="66" type="card received" type_id="17"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="63" period="2" second="17" time="65" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="63" period="2" second="16" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Branislav Ivanovic blocks a shot (Last line)" minute="63" period="2" second="16" time="65" type="save made" type_id="10"/>
+	<message comment="GOAL! Branislav Ivanovic scores , Assisted by Raul Meireles (Low to the left, 18-yard box, Big Chance, Right footed, Set piece)" minute="61" period="2" second="17" time="63" type="goal scored" type_id="16"/>
+	<message comment="Shaun Maloney recieves a yellow card" minute="60" period="2" second="26" time="62" type="card received" type_id="17"/>
+	<message comment="Florent Malouda is substituted off" minute="58" period="2" second="51" time="60" type="substitution off" type_id="18"/>
+	<message comment="Fernando Torres is substituted on" minute="58" period="2" second="51" time="60" type="substitution on" type_id="19"/>
+	<message comment="Daniel Sturridge misses attempt (High to the left, Out of box, Left footed, Open play)" minute="56" period="2" second="40" time="58" type="attempt missed" type_id="13"/>
+	<message comment="James McCarthy blocks a shot" minute="55" period="2" second="9" time="57" type="save made" type_id="10"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" minute="55" period="2" second="9" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Didier Drogba wins a corner (To the right)" minute="54" period="2" second="34" time="56" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save (Parried safe, Feet)" minute="54" period="2" second="18" time="56" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="54" period="2" second="18" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles misses attempt (To the right, Out of box, Left footed, Open play)" minute="54" period="2" second="13" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Florent Malouda recieves a yellow card" minute="52" period="2" second="18" time="54" type="card received" type_id="17"/>
+	<message comment="Juan Mata is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Emmerson Boyce misses attempt (To the right, 18-yard box, Head, Open play)" minute="49" period="2" second="21" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses is caught offside" minute="49" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="18" time="46" type="end" type_id="30"/>
+	<message comment="Didier Drogba wins a corner (To the left)" minute="45" period="1" second="56" time="45" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save" minute="45" period="1" second="55" time="45" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="45" period="1" second="55" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa blocks a shot" minute="43" period="1" second="24" time="43" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" minute="43" period="1" second="24" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Jean Beausejour is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Maynor Figueroa has shot blocked (Out of box, Left footed, Free kick)" minute="40" period="1" second="9" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa blocks a shot" minute="37" period="1" second="33" time="37" type="save made" type_id="10"/>
+	<message comment="Didier Drogba has shot blocked (18-yard box, Head, Open play)" minute="37" period="1" second="33" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Parried into danger)" minute="37" period="1" second="31" time="37" type="save made" type_id="10"/>
+	<message comment="Juan Mata has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="37" period="1" second="31" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Franco Di Santo is caught offside" minute="33" period="1" time="33" type="offside" type_id="10000"/>
+	<message comment="Antolín Alcaraz misses attempt (18-yard box, Head, From corner)" minute="27" period="1" second="42" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Shaun Maloney wins a corner (To the left)" minute="27" period="1" second="8" time="27" type="corner" type_id="6"/>
+	<message comment="Didier Drogba misses attempt (Out of box, Right footed, Open play)" minute="25" period="1" second="48" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Victor Moses has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="23" period="1" second="52" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected)" minute="23" period="1" second="52" time="23" type="save made" type_id="10"/>
+	<message comment="Maynor Figueroa has attempt saved (Low to the centre, Out of box, Left footed, Set piece)" minute="22" period="1" second="29" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Collected, Standing)" minute="22" period="1" second="29" time="22" type="save made" type_id="10"/>
+	<message comment="Michael Essien recieves a yellow card" minute="21" period="1" second="49" time="21" type="card received" type_id="17"/>
+	<message comment="Gary Cahill wins a corner (To the right)" minute="18" period="1" second="59" time="18" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save" minute="18" period="1" second="57" time="18" type="save made" type_id="10"/>
+	<message comment="Gary Cahill has attempt saved (High to the centre, Out of box, Right footed, From corner)" minute="18" period="1" second="57" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="Raul Meireles wins a corner (To the left)" minute="18" period="1" second="38" time="18" type="corner" type_id="6"/>
+	<message comment="Florent Malouda misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="12" period="1" second="50" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Didier Drogba has shot blocked (6-yard box, Head, Set piece)" minute="9" period="1" second="9" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Caldwell blocks a shot" minute="9" period="1" second="9" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Franco Di Santo wins a corner (To the right)" minute="6" period="1" second="0" time="6" type="corner" type_id="6"/>
+	<message comment="Franco Di Santo has shot blocked (Out of box, Right footed, Open play)" minute="5" period="1" second="54" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="5" period="1" second="54" time="5" type="save made" type_id="10"/>
+	<message comment="Jean Beausejour is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Shaun Maloney misses attempt (To the left, Out of box, Right footed, Open play)" minute="1" period="1" second="8" time="1" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

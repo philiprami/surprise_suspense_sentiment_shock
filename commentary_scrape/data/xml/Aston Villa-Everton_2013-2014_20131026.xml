@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2013-10-26" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="97" type="end" type_id="30"/>
+	<message comment="Leighton Baines misses attempt (To the right, Out of box, Left footed, Open play)" minute="92" period="2" second="8" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" minute="91" period="2" second="32" time="94" type="corner" type_id="6"/>
+	<message comment="Kevin Mirallas is substituted off" minute="90" period="2" second="0" time="93" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="90" period="2" second="0" time="93" type="substitution on" type_id="19"/>
+	<message comment="Kevin Mirallas is caught offside" minute="89" period="2" time="92" type="offside" type_id="10000"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="88" period="2" second="9" time="91" type="corner" type_id="6"/>
+	<message comment="Tim Howard recieves a yellow card" minute="86" period="2" second="21" time="89" type="card received" type_id="17"/>
+	<message comment="Steven Naismith misses attempt (Out of box, Right footed, Set piece)" minute="83" period="2" second="43" time="86" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Leon Osman scores , Assisted by Gareth Barry (Low to the left, Out of box, Left footed, From corner)" minute="80" period="2" second="4" time="83" type="goal scored" type_id="16"/>
+	<message comment="Steven Pienaar is substituted off" minute="79" period="2" second="42" time="82" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" minute="79" period="2" second="42" time="82" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="78" period="2" second="53" time="81" type="corner" type_id="6"/>
+	<message comment="Ciaran Clark blocks a shot" minute="78" period="2" second="52" time="81" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" minute="78" period="2" second="52" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Tonev is substituted off" minute="76" period="2" second="27" time="79" type="substitution off" type_id="18"/>
+	<message comment="Nicklas Helenius is substituted on" minute="76" period="2" second="27" time="79" type="substitution on" type_id="19"/>
+	<message comment="Gabriel Agbonlahor has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="74" period="2" second="42" time="77" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe)" minute="74" period="2" second="42" time="77" type="save made" type_id="10"/>
+	<message comment="Andreas Weimann misses attempt (High to the right, Out of box, Right footed, Open play)" minute="72" period="2" second="37" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Baker wins a corner (To the left)" minute="70" period="2" second="18" time="73" type="corner" type_id="6"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Leon Osman (Low to the left, 18-yard box, Left footed, Open play)" minute="67" period="2" second="57" time="70" type="goal scored" type_id="16"/>
+	<message comment="Andreas Weimann has shot blocked (Out of box, Right footed, Open play)" minute="64" period="2" second="32" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry blocks a shot" minute="64" period="2" second="32" time="67" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="James McCarthy recieves a yellow card" minute="61" period="2" second="56" time="64" type="card received" type_id="17"/>
+	<message comment="Ross Barkley is substituted off" minute="59" period="2" second="12" time="62" type="substitution off" type_id="18"/>
+	<message comment="Leon Osman is substituted on" minute="59" period="2" second="12" time="62" type="substitution on" type_id="19"/>
+	<message comment="Andreas Weimann misses attempt (To the right, Out of box, Right footed, Open play)" minute="58" period="2" second="42" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Leandro Bacuna misses attempt (To the left, Out of box, Right footed, Open play)" minute="58" period="2" second="23" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Tonev wins a corner (To the right)" minute="57" period="2" second="48" time="60" type="corner" type_id="6"/>
+	<message comment="Fabian Delph wins a corner (To the left)" minute="56" period="2" second="2" time="59" type="corner" type_id="6"/>
+	<message comment="Fabian Delph misses attempt (To the right, Out of box, Right footed, Open play)" minute="56" period="2" second="0" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke wins a corner (To the left)" minute="52" period="2" second="3" time="55" type="corner" type_id="6"/>
+	<message comment="Christian Benteke has shot blocked (Out of box, Left footed, Open play)" minute="52" period="2" second="0" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Phil Jagielka blocks a shot" minute="52" period="2" second="0" time="55" type="save made" type_id="10"/>
+	<message comment="Ross Barkley misses attempt (To the right, Out of box, Right footed, Open play)" minute="50" period="2" second="51" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku misses attempt (High, 18-yard box, Head, From corner)" minute="47" period="2" second="53" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="47" period="2" second="24" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="2" time="47" type="end" type_id="30"/>
+	<message comment="Kevin Mirallas is caught offside" minute="46" period="1" time="46" type="offside" type_id="10000"/>
+	<message comment="Antonio Luna is substituted off" minute="45" period="1" second="59" time="45" type="substitution off" type_id="18"/>
+	<message comment="Ciaran Clark is substituted on" minute="45" period="1" second="59" time="45" type="substitution on" type_id="19"/>
+	<message comment="Aleksandar Tonev wins a corner (To the right)" minute="39" period="1" second="26" time="39" type="corner" type_id="6"/>
+	<message comment="Aleksandar Tonev wins a corner (To the left)" minute="38" period="1" second="27" time="38" type="corner" type_id="6"/>
+	<message comment="Ron Vlaar misses attempt (To the right, Out of box, Right footed, Open play)" minute="37" period="1" second="8" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Nathan Baker blocks a shot" minute="34" period="1" second="34" time="34" type="save made" type_id="10"/>
+	<message comment="Sylvain Distin has shot blocked (18-yard box, Head, From corner)" minute="34" period="1" second="34" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="34" period="1" second="5" time="34" type="corner" type_id="6"/>
+	<message comment="Nathan Baker blocks a shot" minute="34" period="1" second="2" time="34" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" minute="34" period="1" second="2" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Baker blocks a shot" minute="31" period="1" second="27" time="31" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has shot blocked (Out of box, Left footed, Open play)" minute="31" period="1" second="27" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving)" minute="30" period="1" second="37" time="30" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="30" period="1" second="37" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Ross Barkley wins a corner (To the right)" minute="29" period="1" second="3" time="29" type="corner" type_id="6"/>
+	<message comment="Ross Barkley hits the woodwork (High, Out of box, Right footed, Open play)" minute="29" period="1" second="0" time="29" type="woodwork hit" type_id="14"/>
+	<message comment="Brad Guzan makes a save (Parried into danger, Diving)" minute="25" period="1" second="59" time="25" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="25" period="1" second="59" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Tonev misses attempt (High to the left, Out of box, Left footed, Open play)" minute="24" period="1" second="25" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Andreas Weimann has shot blocked (18-yard box, Left footed, Open play)" minute="24" period="1" second="22" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman blocks a shot" minute="24" period="1" second="22" time="24" type="save made" type_id="10"/>
+	<message comment="Antonio Luna blocks a shot" minute="24" period="1" second="0" time="24" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Open play)" minute="24" period="1" second="0" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Christian Benteke has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="22" period="1" second="35" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried into danger, Diving)" minute="22" period="1" second="35" time="22" type="save made" type_id="10"/>
+	<message comment="Gareth Barry blocks a shot" minute="16" period="1" second="7" time="16" type="save made" type_id="10"/>
+	<message comment="Christian Benteke has shot blocked (18-yard box, Head, From corner)" minute="16" period="1" second="7" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Leandro Bacuna wins a corner (To the right)" minute="15" period="1" second="37" time="15" type="corner" type_id="6"/>
+	<message comment="Leandro Bacuna has shot blocked (Out of box, Left footed, Open play)" minute="15" period="1" second="35" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Leighton Baines blocks a shot" minute="15" period="1" second="35" time="15" type="save made" type_id="10"/>
+	<message comment="Aleksandar Tonev is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke wins a corner (To the left)" minute="7" period="1" second="26" time="7" type="corner" type_id="6"/>
+	<message comment="Christian Benteke has attempt saved (High to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="7" period="1" second="18" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving, Penalty)" minute="7" period="1" second="18" time="7" type="save made" type_id="10"/>
+	<message comment="Christian Benteke is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Antonio Luna blocks a shot" minute="5" period="1" second="4" time="5" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Right footed, Open play)" minute="5" period="1" second="4" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

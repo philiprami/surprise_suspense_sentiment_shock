@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2011-01-15" home_team_name="Blackpool" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="10" time="96" type="end" type_id="30"/>
+	<message comment="Somen Tchoyi is caught offside" minute="92" period="2" time="94" type="offside" type_id="10000"/>
+	<message comment="Ian Evatt misses attempt (18-yard box, Right footed, Open play)" minute="90" period="2" second="55" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Marek Cech recieves a yellow card" minute="90" period="2" second="34" time="92" type="card received" type_id="17"/>
+	<message comment="Youssouf Mulumbu is substituted off" minute="89" period="2" second="19" time="91" type="substitution off" type_id="18"/>
+	<message comment="Nicky Shorey is substituted on" minute="89" period="2" second="19" time="91" type="substitution on" type_id="19"/>
+	<message comment="Brett Ormerod misses attempt (6-yard box, Right footed, Open play)" minute="87" period="2" second="19" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Gonzalo Jara blocks a shot" minute="87" period="2" second="15" time="89" type="save made" type_id="10"/>
+	<message comment="DJ Campbell has shot blocked (18-yard box, Left footed, Open play)" minute="87" period="2" second="15" time="89" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Peter Odemwingie scores , Assisted by Paul Scharner (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="86" period="2" second="6" time="88" type="goal scored" type_id="16"/>
+	<message comment="Chris Brunt misses attempt (High to the left, Out of box, Left footed, Throw-in)" minute="85" period="2" second="2" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Somen Tchoyi is substituted on" minute="84" period="2" second="48" time="86" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans is substituted off" minute="84" period="2" second="48" time="86" type="substitution off" type_id="18"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="81" period="2" second="42" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Cathcart blocks a shot" minute="81" period="2" second="42" time="83" type="save made" type_id="10"/>
+	<message comment="Richard Kingson makes a save (Standing, Parried into danger, Feet)" minute="81" period="2" second="12" time="83" type="save made" type_id="10"/>
+	<message comment="Simon Cox has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="81" period="2" second="12" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Gary Taylor-Fletcher scores , Assisted by Matt Phillips (High to the left, 18-yard box, Right footed, Open play)" minute="79" period="2" second="44" time="81" type="goal scored" type_id="16"/>
+	<message comment="Alex Baptiste misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="78" period="2" second="0" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Luke Varney is substituted off" minute="76" period="2" second="22" time="78" type="substitution off" type_id="18"/>
+	<message comment="Alex Baptiste is substituted on" minute="76" period="2" second="22" time="78" type="substitution on" type_id="19"/>
+	<message comment="Craig Cathcart recieves a yellow card" minute="75" period="2" second="11" time="77" type="card received" type_id="17"/>
+	<message comment="Craig Cathcart misses attempt (High to the right, 18-yard box, Head, From corner)" minute="73" period="2" second="19" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Ian Evatt wins a corner (To the left)" minute="72" period="2" second="58" time="74" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas is caught offside" minute="71" period="2" time="73" type="offside" type_id="10000"/>
+	<message comment="James Morrison is substituted off" minute="69" period="2" second="18" time="71" type="substitution off" type_id="18"/>
+	<message comment="Simon Cox is substituted on" minute="69" period="2" second="18" time="71" type="substitution on" type_id="19"/>
+	<message comment="James Morrison misses attempt (High, 18-yard box, Big Chance, Right footed, Fast break)" minute="68" period="2" second="30" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Ian Evatt misses attempt (To the right, 18-yard box, Head, From corner)" minute="67" period="2" second="33" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Luke Varney wins a corner (To the left)" minute="67" period="2" second="8" time="69" type="corner" type_id="6"/>
+	<message comment="Neal Eardley is substituted off" minute="66" period="2" second="30" time="68" type="substitution off" type_id="18"/>
+	<message comment="Brett Ormerod is substituted on" minute="66" period="2" second="30" time="68" type="substitution on" type_id="19"/>
+	<message comment="Peter Odemwingie has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="62" period="2" second="27" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Richard Kingson makes a save (Feet, Parried safe, Standing)" minute="62" period="2" second="27" time="64" type="save made" type_id="10"/>
+	<message comment="Chris Brunt misses attempt (18-yard box, Right footed, Open play)" minute="61" period="2" second="55" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam blocks a shot" minute="58" period="2" second="57" time="60" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (Out of box, Left footed, Open play)" minute="58" period="2" second="57" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Varney is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Head, Open play)" minute="55" period="2" second="41" time="57" type="attempt missed" type_id="13"/>
+	<message comment="David Vaughan recieves a yellow card" minute="55" period="2" second="8" time="57" type="card received" type_id="17"/>
+	<message comment="Elliot Grandin is substituted off" minute="53" period="2" second="44" time="55" type="substitution off" type_id="18"/>
+	<message comment="Matt Phillips is substituted on" minute="53" period="2" second="44" time="55" type="substitution on" type_id="19"/>
+	<message comment="James Morrison is caught offside" minute="53" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Richard Kingson makes a save" minute="52" period="2" second="33" time="54" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="52" period="2" second="33" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! James Morrison scores  (High to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="51" period="2" second="20" time="53" type="goal scored" type_id="16"/>
+	<message comment="DJ Campbell misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="49" period="2" second="44" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Richard Kingson makes a save" minute="49" period="2" second="21" time="51" type="save made" type_id="10"/>
+	<message comment="James Morrison has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="49" period="2" second="21" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas is caught offside" minute="48" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Peter Odemwingie is caught offside" minute="46" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Luke Varney is caught offside" minute="46" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="7" time="46" type="end" type_id="30"/>
+	<message comment="Peter Odemwingie misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="44" period="1" second="22" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Charlie Adam has shot blocked (Out of box, Left footed, Open play)" minute="44" period="1" second="5" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Tamas blocks a shot" minute="44" period="1" second="5" time="44" type="save made" type_id="10"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="41" period="1" second="5" time="41" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="39" period="1" time="39" type="offside" type_id="10000"/>
+	<message comment="GOAL! Peter Odemwingie scores , Assisted by Graham Dorrans (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="36" period="1" second="56" time="36" type="goal scored" type_id="16"/>
+	<message comment="Graham Dorrans wins a corner (To the left)" minute="35" period="1" second="57" time="35" type="corner" type_id="6"/>
+	<message comment="Chris Brunt wins a corner (To the left)" minute="33" period="1" second="6" time="33" type="corner" type_id="6"/>
+	<message comment="Peter Odemwingie is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="James Morrison misses attempt (High, Out of box, Right footed, Open play)" minute="27" period="1" second="49" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Chris Brunt wins a corner (To the right)" minute="25" period="1" second="37" time="25" type="corner" type_id="6"/>
+	<message comment="Stephen Crainey blocks a shot" minute="25" period="1" second="34" time="25" type="save made" type_id="10"/>
+	<message comment="Chris Brunt has shot blocked (6-yard box, Big Chance, Right footed, Open play)" minute="25" period="1" second="34" time="25" type="attempt blocked" type_id="15"/>
+	<message comment="Luke Varney misses attempt (High, Out of box, Left footed, Open play)" minute="24" period="1" second="50" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu has shot blocked (18-yard box, Right footed, Open play)" minute="24" period="1" second="1" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Ian Evatt blocks a shot" minute="24" period="1" second="1" time="24" type="save made" type_id="10"/>
+	<message comment="Luke Varney is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="GOAL! David Vaughan scores  (High to the left, Out of box, Left footed, From corner)" minute="10" period="1" second="15" time="10" type="goal scored" type_id="16"/>
+	<message comment="Neal Eardley wins a corner (To the left)" minute="9" period="1" second="49" time="9" type="corner" type_id="6"/>
+	<message comment="Charlie Adam wins a corner (To the right)" minute="7" period="1" second="16" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Charlie Adam misses attempt (To the right, Out of box, Left footed, Open play)" minute="5" period="1" second="40" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Peter Odemwingie misses attempt (Out of box, Left footed, Open play)" minute="5" period="1" second="8" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Ian Evatt blocks a shot" minute="4" period="1" second="51" time="4" type="save made" type_id="10"/>
+	<message comment="Graham Dorrans has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="51" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Brunt misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="3" period="1" second="34" time="3" type="attempt missed" type_id="13"/>
+	<message comment="DJ Campbell misses attempt (18-yard box, Right footed, Open play)" minute="1" period="1" second="4" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Craig Cathcart blocks a shot" minute="0" period="1" second="19" time="0" type="save made" type_id="10"/>
+	<message comment="Peter Odemwingie has shot blocked (Out of box, Left footed, Open play)" minute="0" period="1" second="19" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

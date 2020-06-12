@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Brom" competition="English Premier League" game_date="2013-09-21 15:00" game_id_2="27065050" game_id_4="110945860" home_team_name="Sunderland" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-21 16:35:28" minute="95" period="2" second="19" team="Sunderland" time="97" type="end" type_id="30"/>
+	<message comment="James Morrison misses attempt (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-09-21 16:35:25" minute="95" period="2" second="16" team="Sunderland" time="97" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Morgan Amalfitano scores , Assisted by Victor Anichebe (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-09-21 16:32:39" minute="92" period="2" second="30" team="Sunderland" time="94" type="goal scored" type_id="16"/>
+	<message comment="Stéphane Sessegnon is substituted off" last_modified="2013-09-21 16:28:50" minute="88" period="2" second="41" team="Sunderland" time="90" type="substitution off" type_id="18"/>
+	<message comment="Saido Berahino is substituted on" last_modified="2013-09-21 16:28:50" minute="88" period="2" second="41" team="Sunderland" time="90" type="substitution on" type_id="19"/>
+	<message comment="James Morrison misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-09-21 16:28:01" minute="87" period="2" second="52" team="Sunderland" time="89" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Liam Ridgewell scores  (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-21 16:15:29" minute="75" period="2" second="20" team="Sunderland" time="77" type="goal scored" type_id="16"/>
+	<message comment="Steven Fletcher misses attempt (High, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-09-21 16:11:23" minute="71" period="2" second="14" team="West Brom" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner is substituted off" last_modified="2013-09-21 16:09:02" minute="68" period="2" second="53" team="West Brom" time="70" type="substitution off" type_id="18"/>
+	<message comment="Lee Cattermole is substituted on" last_modified="2013-09-21 16:09:02" minute="68" period="2" second="53" team="West Brom" time="70" type="substitution on" type_id="19"/>
+	<message comment="Scott Sinclair is substituted off" last_modified="2013-09-21 16:08:40" minute="68" period="2" second="31" team="Sunderland" time="70" type="substitution off" type_id="18"/>
+	<message comment="Claudio Yacob is substituted on" last_modified="2013-09-21 16:08:40" minute="68" period="2" second="31" team="Sunderland" time="70" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka is substituted off" last_modified="2013-09-21 16:08:27" minute="68" period="2" second="18" team="Sunderland" time="70" type="substitution off" type_id="18"/>
+	<message comment="Victor Anichebe is substituted on" last_modified="2013-09-21 16:08:27" minute="68" period="2" second="18" team="Sunderland" time="70" type="substitution on" type_id="19"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" last_modified="2013-09-21 16:07:10" minute="67" period="2" second="1" team="Sunderland" time="69" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka misses attempt (To the left, 18-yard box, Big Chance, Head, Open play)" last_modified="2013-09-21 16:07:09" minute="67" period="2" second="0" team="Sunderland" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Scott Sinclair misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-09-21 16:06:10" minute="66" period="2" second="1" team="Sunderland" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Jozy Altidore wins a corner (To the right)" last_modified="2013-09-21 16:04:37" minute="64" period="2" second="28" team="West Brom" time="66" type="corner" type_id="6"/>
+	<message comment="Jozy Altidore has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-09-21 16:04:35" minute="64" period="2" second="26" team="West Brom" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" last_modified="2013-09-21 16:04:35" minute="64" period="2" second="26" team="Sunderland" time="66" type="save made" type_id="10"/>
+	<message comment="Craig Gardner misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-21 16:01:24" minute="61" period="2" second="15" team="West Brom" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Stéphane Sessegnon misses attempt (18-yard box, Right footed, Throw-in)" last_modified="2013-09-21 15:59:59" minute="59" period="2" second="50" team="Sunderland" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Fabio Borini is substituted off" last_modified="2013-09-21 15:58:45" minute="58" period="2" second="36" team="West Brom" time="60" type="substitution off" type_id="18"/>
+	<message comment="Jozy Altidore is substituted on" last_modified="2013-09-21 15:58:45" minute="58" period="2" second="36" team="West Brom" time="60" type="substitution on" type_id="19"/>
+	<message comment="Craig Gardner wins a corner (To the right)" last_modified="2013-09-21 15:50:50" minute="50" period="2" second="41" team="West Brom" time="52" type="corner" type_id="6"/>
+	<message comment="Charalampos Mavrias wins a corner (To the left)" last_modified="2013-09-21 15:49:31" minute="49" period="2" second="22" team="West Brom" time="51" type="corner" type_id="6"/>
+	<message comment="Jack Colback wins a corner (To the left)" last_modified="2013-09-21 15:49:13" minute="49" period="2" second="4" team="West Brom" time="51" type="corner" type_id="6"/>
+	<message comment="Emanuele Giaccherini is substituted off" last_modified="2013-09-21 15:45:09" minute="45" period="2" second="0" team="West Brom" time="47" type="substitution off" type_id="18"/>
+	<message comment="Charalampos Mavrias is substituted on" last_modified="2013-09-21 15:45:09" minute="45" period="2" second="0" team="West Brom" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-09-21 15:45:09" minute="45" period="2" second="0" team="Sunderland" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-21 15:46:12" minute="46" period="1" second="3" team="Sunderland" time="46" type="end" type_id="30"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2013-09-21 15:41:09" minute="41" period="1" team="Sunderland" time="41" type="offside" type_id="10000"/>
+	<message comment="Ki Sung-Yueng recieves a yellow card" last_modified="2013-09-21 15:34:51" minute="34" period="1" second="42" team="West Brom" time="34" type="card received" type_id="17"/>
+	<message comment="Gareth McAuley misses attempt (To the left, 6-yard box, Head, From corner)" last_modified="2013-09-21 15:29:18" minute="29" period="1" second="9" team="Sunderland" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Morgan Amalfitano wins a corner (To the right)" last_modified="2013-09-21 15:28:48" minute="28" period="1" second="39" team="Sunderland" time="28" type="corner" type_id="6"/>
+	<message comment="Morgan Amalfitano has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-21 15:28:45" minute="28" period="1" second="36" team="Sunderland" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Modibo Diakité blocks a shot" last_modified="2013-09-21 15:28:45" minute="28" period="1" second="36" team="West Brom" time="28" type="save made" type_id="10"/>
+	<message comment="James Morrison wins a corner (To the right)" last_modified="2013-09-21 15:27:58" minute="27" period="1" second="49" team="Sunderland" time="27" type="corner" type_id="6"/>
+	<message comment="James Morrison has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-21 15:27:56" minute="27" period="1" second="47" team="Sunderland" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" last_modified="2013-09-21 15:27:56" minute="27" period="1" second="47" team="West Brom" time="27" type="save made" type_id="10"/>
+	<message comment="Jack Colback recieves a yellow card" last_modified="2013-09-21 15:27:35" minute="27" period="1" second="26" team="West Brom" time="27" type="card received" type_id="17"/>
+	<message comment="Emanuele Giaccherini has shot blocked (Out of box, Left footed, From corner)" last_modified="2013-09-21 15:27:13" minute="27" period="1" second="4" team="West Brom" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Morgan Amalfitano blocks a shot" last_modified="2013-09-21 15:27:13" minute="27" period="1" second="4" team="Sunderland" time="27" type="save made" type_id="10"/>
+	<message comment="Adam Johnson wins a corner (To the right)" last_modified="2013-09-21 15:26:47" minute="26" period="1" second="38" team="West Brom" time="26" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell blocks a shot" last_modified="2013-09-21 15:26:44" minute="26" period="1" second="35" team="Sunderland" time="26" type="save made" type_id="10"/>
+	<message comment="Adam Johnson has shot blocked (18-yard box, Left footed, Open play)" last_modified="2013-09-21 15:26:44" minute="26" period="1" second="35" team="West Brom" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2013-09-21 15:25:09" minute="25" period="1" team="Sunderland" time="25" type="offside" type_id="10000"/>
+	<message comment="Craig Gardner blocks a shot" last_modified="2013-09-21 15:22:44" minute="22" period="1" second="35" team="West Brom" time="22" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon has shot blocked (Out of box, Right footed, Set piece)" last_modified="2013-09-21 15:22:44" minute="22" period="1" second="35" team="Sunderland" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Stéphane Sessegnon scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-21 15:19:22" minute="19" period="1" second="13" team="Sunderland" time="19" type="goal scored" type_id="16"/>
+	<message comment="Keiren Westwood makes a save (Parried into danger)" last_modified="2013-09-21 15:19:20" minute="19" period="1" second="11" team="West Brom" time="19" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has attempt saved (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-21 15:19:20" minute="19" period="1" second="11" team="Sunderland" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Modibo Diakité wins a corner (To the left)" last_modified="2013-09-21 15:14:40" minute="14" period="1" second="31" team="West Brom" time="14" type="corner" type_id="6"/>
+	<message comment="Billy Jones blocks a shot" last_modified="2013-09-21 15:14:23" minute="14" period="1" second="14" team="Sunderland" time="14" type="save made" type_id="10"/>
+	<message comment="Emanuele Giaccherini has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-09-21 15:14:23" minute="14" period="1" second="14" team="West Brom" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Fletcher has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-21 15:12:39" minute="12" period="1" second="30" team="West Brom" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Billy Jones blocks a shot" last_modified="2013-09-21 15:12:39" minute="12" period="1" second="30" team="Sunderland" time="12" type="save made" type_id="10"/>
+	<message comment="Nicolas Anelka is caught offside" last_modified="2013-09-21 15:09:09" minute="9" period="1" team="Sunderland" time="9" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-09-21 15:00:09" minute="0" period="14" second="0" team="Sunderland" time="7" type="end" type_id="30"/>
+	<message comment="Morgan Amalfitano is caught offside" last_modified="2013-09-21 15:04:09" minute="4" period="1" team="Sunderland" time="4" type="offside" type_id="10000"/>
+	<message comment="Morgan Amalfitano wins a corner (To the left)" last_modified="2013-09-21 15:03:46" minute="3" period="1" second="37" team="Sunderland" time="3" type="corner" type_id="6"/>
+	<message comment="Nicolas Anelka wins a corner (To the left)" last_modified="2013-09-21 15:03:22" minute="3" period="1" second="13" team="Sunderland" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-09-21 15:00:09" minute="0" period="1" second="0" team="Sunderland" time="0" type="start" type_id="32"/>
+</Commentary>

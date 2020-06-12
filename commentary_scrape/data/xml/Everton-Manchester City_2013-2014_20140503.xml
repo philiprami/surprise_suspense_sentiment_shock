@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2014-05-03" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="53" time="100" type="end" type_id="30"/>
+	<message comment="David Silva wins a corner (To the left)" minute="91" period="2" second="10" time="95" type="corner" type_id="6"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Open play)" minute="91" period="2" second="9" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="John Stones blocks a shot" minute="91" period="2" second="9" time="95" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu wins a corner (To the right)" minute="86" period="2" second="43" time="90" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" minute="86" period="2" second="42" time="90" type="save made" type_id="10"/>
+	<message comment="Gerard Deulofeu has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="86" period="2" second="42" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman is substituted off" minute="82" period="2" second="47" time="86" type="substitution off" type_id="18"/>
+	<message comment="Aiden McGeady is substituted on" minute="82" period="2" second="47" time="86" type="substitution on" type_id="19"/>
+	<message comment="Edin Dzeko recieves a yellow card" minute="82" period="2" second="25" time="86" type="card received" type_id="17"/>
+	<message comment="Samir Nasri is substituted off" minute="74" period="2" second="0" time="78" type="substitution off" type_id="18"/>
+	<message comment="David Silva is substituted on" minute="74" period="2" second="0" time="78" type="substitution on" type_id="19"/>
+	<message comment="Martín Demichelis has shot blocked (Out of box, Right footed, From corner)" minute="71" period="2" second="18" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman blocks a shot" minute="71" period="2" second="18" time="75" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Head, From corner)" minute="71" period="2" second="16" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Fernandinho misses attempt (To the right, 18-yard box, Head, From corner)" minute="71" period="2" second="6" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="70" period="2" second="31" time="74" type="corner" type_id="6"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="70" period="2" second="29" time="74" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" minute="70" period="2" second="29" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="70" period="2" second="21" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="70" period="2" second="21" time="74" type="save made" type_id="10"/>
+	<message comment="Phil Jagielka is substituted off" minute="65" period="2" second="59" time="69" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="65" period="2" second="59" time="69" type="substitution on" type_id="19"/>
+	<message comment="Martín Demichelis recieves a yellow card" minute="65" period="2" second="50" time="69" type="card received" type_id="17"/>
+	<message comment="Yaya Touré is substituted off" minute="65" period="2" second="15" time="69" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="65" period="2" second="15" time="69" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by Leighton Baines (Low to the left, 18-yard box, Big Chance, Head, Open play)" minute="64" period="2" second="23" time="68" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku is caught offside" minute="61" period="2" time="65" type="offside" type_id="10000"/>
+	<message comment="Ross Barkley wins a corner (To the right)" minute="53" period="2" second="9" time="57" type="corner" type_id="6"/>
+	<message comment="Vincent Kompany blocks a shot" minute="53" period="2" second="7" time="57" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has shot blocked (Out of box, Right footed, Open play)" minute="53" period="2" second="7" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="50" period="2" second="7" time="54" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Open play)" minute="50" period="2" second="7" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku is caught offside" minute="48" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Samir Nasri (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="47" period="2" second="17" time="51" type="goal scored" type_id="16"/>
+	<message comment="Steven Naismith wins a corner (To the right)" minute="45" period="2" second="50" time="49" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="45" period="2" second="49" time="49" type="save made" type_id="10"/>
+	<message comment="Steven Naismith has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="45" period="2" second="49" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner has shot blocked (Out of box, Left footed, Open play)" minute="45" period="2" second="38" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="45" period="2" second="38" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="1" time="48" type="end" type_id="30"/>
+	<message comment="Romelu Lukaku misses attempt (High, 18-yard box, Right footed, Open play)" minute="47" period="1" second="3" time="47" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by James Milner (Low to the right, 18-yard box, Head, Open play)" minute="42" period="1" second="48" time="42" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="42" period="1" second="40" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" minute="42" period="1" second="40" time="42" type="save made" type_id="10"/>
+	<message comment="Steven Naismith misses attempt (To the left, Out of box, Right footed, Open play)" minute="42" period="1" second="5" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Javi García recieves a yellow card" minute="38" period="1" second="50" time="38" type="card received" type_id="17"/>
+	<message comment="Romelu Lukaku is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri misses attempt (High to the right, Out of box, Right footed, Open play)" minute="35" period="1" second="8" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, Open play)" minute="31" period="1" second="49" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="John Stones blocks a shot" minute="31" period="1" second="49" time="31" type="save made" type_id="10"/>
+	<message comment="Leighton Baines wins a corner (To the left)" minute="27" period="1" second="55" time="27" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero is substituted off" minute="27" period="1" second="25" time="27" type="substitution off" type_id="18"/>
+	<message comment="Fernandinho is substituted on" minute="27" period="1" second="25" time="27" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Yaya Touré (Low to the right, 18-yard box, Right footed, Open play)" minute="21" period="1" second="33" time="21" type="goal scored" type_id="16"/>
+	<message comment="Yaya Touré misses attempt (High, 18-yard box, Right footed, Open play)" minute="15" period="1" second="52" time="15" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (18-yard box, Head, Open play)" minute="13" period="1" second="10" time="13" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Ross Barkley scores , Assisted by Steven Naismith (High to the right, Out of box, Right footed, Open play)" minute="10" period="1" second="6" time="10" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="10" type="end" type_id="30"/>
+	<message comment="Pablo Zabaleta misses attempt (High, 18-yard box, Right footed, Open play)" minute="9" period="1" second="15" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Javi García has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="8" period="1" second="30" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Standing)" minute="8" period="1" second="30" time="8" type="save made" type_id="10"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="8" period="1" second="5" time="8" type="corner" type_id="6"/>
+	<message comment="Steven Naismith misses attempt (To the left, Out of box, Left footed, Open play)" minute="5" period="1" second="4" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Javi García has shot blocked (Out of box, Right footed, Open play)" minute="3" period="1" second="23" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="3" period="1" second="23" time="3" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

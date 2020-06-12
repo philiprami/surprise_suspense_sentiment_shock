@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2012-09-22" home_team_name="Aston Villa" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="50" time="96" type="end" type_id="30"/>
+	<message comment="GOAL! Rickie Lambert scores  (Low to the left, 18-yard box, Penalty, Big Chance, Right footed)" minute="94" period="2" second="6" time="96" type="goal scored" type_id="16"/>
+	<message comment="Brad Guzan recieves a yellow card" minute="93" period="2" second="33" time="95" type="card received" type_id="17"/>
+	<message comment="Darren Bent misses attempt (18-yard box, Head, Open play)" minute="92" period="2" second="48" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (High to the right, Out of box, Right footed, Open play)" minute="92" period="2" second="1" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Gastón Ramírez misses attempt (High to the left, Out of box, Left footed, Free kick)" minute="91" period="2" second="14" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Westwood wins a corner (To the left)" minute="88" period="2" second="29" time="90" type="corner" type_id="6"/>
+	<message comment="Emmanuel Mayuka is caught offside" minute="87" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke misses attempt (18-yard box, Head, Open play)" minute="86" period="2" second="27" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Brad Guzan makes a save (Collected)" minute="84" period="2" second="49" time="86" type="save made" type_id="10"/>
+	<message comment="Emmanuel Mayuka has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="84" period="2" second="49" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Westwood misses attempt (To the right, Out of box, Right footed, Open play)" minute="83" period="2" second="42" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent misses attempt (Out of box, Right footed, Free kick)" minute="80" period="2" second="52" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Steven Davis is substituted off" minute="78" period="2" second="45" time="80" type="substitution off" type_id="18"/>
+	<message comment="James Ward-Prowse is substituted on" minute="78" period="2" second="45" time="80" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Mayuka misses attempt (Out of box, Right footed, Open play)" minute="77" period="2" second="14" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon is substituted off" minute="73" period="2" second="40" time="75" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Mayuka is substituted on" minute="73" period="2" second="40" time="75" type="substitution on" type_id="19"/>
+	<message comment="Ciaran Clark scores an OWN GOAL!  (High to the right, 6-yard box, Other body part, Open play)" minute="71" period="2" second="20" time="73" type="goal scored" type_id="16"/>
+	<message comment="Jason Puncheon misses attempt (18-yard box, Right footed, Open play)" minute="71" period="2" second="19" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Christian Benteke has shot blocked (18-yard box, Head, From corner)" minute="70" period="2" second="11" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Rickie Lambert blocks a shot" minute="70" period="2" second="11" time="72" type="save made" type_id="10"/>
+	<message comment="Brad Guzan wins a corner (To the left)" minute="69" period="2" second="47" time="71" type="corner" type_id="6"/>
+	<message comment="Adam Lallana is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Jason Puncheon misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="68" period="2" second="17" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Barry Bannan is substituted off" minute="67" period="2" second="44" time="69" type="substitution off" type_id="18"/>
+	<message comment="Gabriel Agbonlahor is substituted on" minute="67" period="2" second="44" time="69" type="substitution on" type_id="19"/>
+	<message comment="Eric Lichaj is substituted off" minute="67" period="2" second="28" time="69" type="substitution off" type_id="18"/>
+	<message comment="Joe Bennett is substituted on" minute="67" period="2" second="28" time="69" type="substitution on" type_id="19"/>
+	<message comment="Nathaniel Clyne recieves a yellow card" minute="63" period="2" second="20" time="65" type="card received" type_id="17"/>
+	<message comment="GOAL! Nathaniel Clyne scores , Assisted by Gastón Ramírez (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="62" period="2" second="50" time="64" type="goal scored" type_id="16"/>
+	<message comment="Adam Lallana misses attempt (High, Out of box, Left footed, Open play)" minute="59" period="2" second="13" time="61" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Rickie Lambert scores , Assisted by Adam Lallana (Low to the left, 18-yard box, Right footed, Open play)" minute="57" period="2" second="9" time="59" type="goal scored" type_id="16"/>
+	<message comment="Eric Lichaj recieves a yellow card" minute="52" period="2" second="40" time="54" type="card received" type_id="17"/>
+	<message comment="Christian Benteke is caught offside" minute="50" period="2" time="52" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke misses attempt (18-yard box, Head, From corner)" minute="48" period="2" second="11" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon is caught offside" minute="48" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Christian Benteke wins a corner (To the left)" minute="47" period="2" second="48" time="49" type="corner" type_id="6"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="47" period="2" second="12" time="49" type="corner" type_id="6"/>
+	<message comment="Paulo Gazzaniga makes a save (Diving, Parried safe)" minute="47" period="2" second="10" time="49" type="save made" type_id="10"/>
+	<message comment="Darren Bent has attempt saved (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="47" period="2" second="10" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Brad Guzan makes a save (Diving, Collected)" minute="45" period="2" second="32" time="47" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="45" period="2" second="32" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Fox is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Frazer Richardson is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Stephen Ireland is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Ashley Westwood is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="4" time="46" type="end" type_id="30"/>
+	<message comment="Ron Vlaar recieves a yellow card" minute="42" period="1" second="35" time="42" type="card received" type_id="17"/>
+	<message comment="Darren Bent is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Jason Puncheon misses attempt (To the right, Out of box, Left footed, Open play)" minute="36" period="1" second="18" time="36" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Darren Bent scores , Assisted by Stephen Ireland (Low to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="35" period="1" second="8" time="35" type="goal scored" type_id="16"/>
+	<message comment="Stephen Ireland misses attempt (Out of box, Key pass, Right footed, Open play)" minute="35" period="1" second="7" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Stephen Ireland has shot blocked (18-yard box, Right footed, Open play)" minute="34" period="1" second="55" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Maya Yoshida blocks a shot" minute="34" period="1" second="55" time="34" type="save made" type_id="10"/>
+	<message comment="Adam Lallana is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Rickie Lambert wins a corner (To the left)" minute="32" period="1" second="36" time="32" type="corner" type_id="6"/>
+	<message comment="Barry Bannan misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="31" period="1" second="45" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Brad Guzan makes a save (Standing, Collected)" minute="31" period="1" second="2" time="31" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="31" period="1" second="2" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Gastón Ramírez misses attempt (To the right, Out of box, Left footed, Open play)" minute="18" period="1" second="53" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Steven Davis misses attempt (To the right, Out of box, Right footed, Open play)" minute="14" period="1" second="25" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (High to the right, 18-yard box, Right footed, Fast break)" minute="10" period="1" second="17" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Rickie Lambert is caught offside" minute="0" period="1" time="0" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

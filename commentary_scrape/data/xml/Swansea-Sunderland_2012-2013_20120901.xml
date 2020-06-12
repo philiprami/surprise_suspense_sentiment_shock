@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2012-09-01" home_team_name="Sunderland" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="4" time="102" type="end" type_id="30"/>
+	<message comment="Fraizer Campbell has shot blocked (18-yard box, Left footed, Open play)" minute="92" period="2" second="33" time="100" type="attempt blocked" type_id="15"/>
+	<message comment="Alan Tate blocks a shot" minute="92" period="2" second="33" time="100" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the left)" minute="89" period="2" second="57" time="97" type="corner" type_id="6"/>
+	<message comment="Michel Vorm wins a corner (To the left)" minute="89" period="2" second="9" time="97" type="corner" type_id="6"/>
+	<message comment="Nathan Dyer misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="85" period="2" second="13" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan de Guzmán misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="10" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Cuellar blocks a shot" minute="85" period="2" second="5" time="93" type="save made" type_id="10"/>
+	<message comment="Danny Graham has shot blocked (18-yard box, Left footed, Open play)" minute="85" period="2" second="5" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon is substituted off" minute="83" period="2" second="26" time="91" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" minute="83" period="2" second="26" time="91" type="substitution on" type_id="19"/>
+	<message comment="Jonathan de Guzmán wins a corner (To the right)" minute="82" period="2" second="58" time="90" type="corner" type_id="6"/>
+	<message comment="Michu is substituted off" minute="78" period="2" second="11" time="86" type="substitution off" type_id="18"/>
+	<message comment="Ki Sung-Yueng is substituted on" minute="78" period="2" second="11" time="86" type="substitution on" type_id="19"/>
+	<message comment="Alan Tate is substituted on" minute="72" period="2" second="34" time="80" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is substituted off" minute="72" period="2" second="33" time="80" type="substitution off" type_id="18"/>
+	<message comment="Chico Flores recieves a red card" minute="70" period="2" second="19" time="78" type="card received" type_id="17"/>
+	<message comment="Steven Fletcher is substituted off" minute="66" period="2" second="48" time="74" type="substitution off" type_id="18"/>
+	<message comment="Louis Saha is substituted on" minute="66" period="2" second="48" time="74" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Michu scores , Assisted by Jonathan de Guzmán (Low to the right, 18-yard box, Head, Open play)" minute="65" period="2" second="50" time="73" type="goal scored" type_id="16"/>
+	<message comment="Danny Graham wins a corner (To the left)" minute="63" period="2" second="23" time="71" type="corner" type_id="6"/>
+	<message comment="Michu misses attempt (High, 18-yard box, Head, Open play)" minute="62" period="2" second="32" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" minute="61" period="2" second="59" time="69" type="corner" type_id="6"/>
+	<message comment="Carlos Cuellar blocks a shot (Last line)" minute="59" period="2" second="13" time="67" type="save made" type_id="10"/>
+	<message comment="Angel Rangel has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="13" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Diving, Parried safe)" minute="59" period="2" second="10" time="67" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has attempt saved (Low to the right, Out of box, Right footed, Free kick)" minute="59" period="2" second="10" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams recieves a yellow card" minute="54" period="2" second="35" time="62" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="52" period="2" second="28" time="60" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="52" period="2" second="28" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Britton misses attempt (High, 18-yard box, Left footed, Open play)" minute="48" period="2" second="54" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="48" period="2" second="31" time="56" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="53" type="start" type_id="32"/>
+	<message comment="First half ends" minute="52" period="1" second="35" time="52" type="end" type_id="30"/>
+	<message comment="GOAL! Steven Fletcher scores  (Low to the centre, 6-yard box, Left footed, Set piece)" minute="51" period="1" second="22" time="51" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Wayne Routledge scores , Assisted by Nathan Dyer (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="45" period="1" second="20" time="45" type="goal scored" type_id="16"/>
+	<message comment="James McClean misses attempt (18-yard box, Left footed, Open play)" minute="42" period="1" second="58" time="42" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Steven Fletcher scores  (Low to the left, 18-yard box, Left footed, Open play)" minute="39" period="1" second="59" time="39" type="goal scored" type_id="16"/>
+	<message comment="Lee Cattermole is substituted off" minute="38" period="1" second="11" time="38" type="substitution off" type_id="18"/>
+	<message comment="David Meyler is substituted on" minute="38" period="1" second="11" time="38" type="substitution on" type_id="19"/>
+	<message comment="John O'Shea blocks a shot" minute="37" period="1" second="24" time="37" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (Out of box, Left footed, Open play)" minute="37" period="1" second="24" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="31" period="1" second="21" time="31" type="corner" type_id="6"/>
+	<message comment="Craig Gardner recieves a yellow card" minute="23" period="1" second="1" time="23" type="card received" type_id="17"/>
+	<message comment="Simon Mignolet makes a save (Standing)" minute="21" period="1" second="55" time="21" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="21" period="1" second="55" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Cuellar blocks a shot" minute="21" period="1" second="4" time="21" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, Open play)" minute="21" period="1" second="4" time="21" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor is substituted off" minute="19" period="1" second="55" time="19" type="substitution off" type_id="18"/>
+	<message comment="Ben Davies is substituted on" minute="19" period="1" second="55" time="19" type="substitution on" type_id="19"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="12" type="end" type_id="30"/>
+	<message comment="Neil Taylor misses attempt (To the right, Out of box, Left footed, Open play)" minute="9" period="1" second="41" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save (Collected, Diving)" minute="7" period="1" second="23" time="7" type="save made" type_id="10"/>
+	<message comment="Nathan Dyer has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="7" period="1" second="23" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Nathan Dyer wins a corner (To the right)" minute="1" period="1" second="24" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

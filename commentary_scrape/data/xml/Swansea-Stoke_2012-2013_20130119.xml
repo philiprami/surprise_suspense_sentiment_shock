@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2013-01-19" home_team_name="Stoke" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="25" time="94" type="end" type_id="30"/>
+	<message comment="Robert Huth has shot blocked (6-yard box, Head, From corner)" minute="92" period="2" second="34" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Ki Sung-Yueng blocks a shot" minute="92" period="2" second="34" time="93" type="save made" type_id="10"/>
+	<message comment="Cameron Jerome wins a corner (To the left)" minute="92" period="2" second="15" time="93" type="corner" type_id="6"/>
+	<message comment="GOAL! Michael Owen scores , Assisted by Cameron Jerome (Low to the right, 18-yard box, Big Chance, Head, From corner)" minute="90" period="2" second="54" time="91" type="goal scored" type_id="16"/>
+	<message comment="Geoff Cameron wins a corner (To the right)" minute="90" period="2" second="16" time="91" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross misses attempt (18-yard box, Head, From corner)" minute="87" period="2" second="16" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Dean Whitehead wins a corner (To the left)" minute="86" period="2" second="39" time="87" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington is substituted off" minute="84" period="2" second="42" time="85" type="substitution off" type_id="18"/>
+	<message comment="Michael Owen is substituted on" minute="84" period="2" second="42" time="85" type="substitution on" type_id="19"/>
+	<message comment="Robert Huth misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="84" period="2" second="20" time="85" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jonathan de Guzmán scores , Assisted by Danny Graham (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="28" time="80" type="goal scored" type_id="16"/>
+	<message comment="Ashley Williams wins a corner (To the right)" minute="78" period="2" second="10" time="79" type="corner" type_id="6"/>
+	<message comment="Michu is substituted off" minute="77" period="2" second="20" time="78" type="substitution off" type_id="18"/>
+	<message comment="Leon Britton is substituted on" minute="77" period="2" second="20" time="78" type="substitution on" type_id="19"/>
+	<message comment="Itay Shechter is substituted off" minute="73" period="2" second="24" time="74" type="substitution off" type_id="18"/>
+	<message comment="Danny Graham is substituted on" minute="73" period="2" second="24" time="74" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome misses attempt (High, 6-yard box, Big Chance, Right footed, Open play)" minute="68" period="2" second="51" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Hernández is substituted off" minute="63" period="2" second="21" time="64" type="substitution off" type_id="18"/>
+	<message comment="Roland Lamah is substituted on" minute="63" period="2" second="21" time="64" type="substitution on" type_id="19"/>
+	<message comment="Charlie Adam is substituted off" minute="62" period="2" second="55" time="63" type="substitution off" type_id="18"/>
+	<message comment="Cameron Jerome is substituted on" minute="62" period="2" second="55" time="63" type="substitution on" type_id="19"/>
+	<message comment="Peter Crouch is substituted off" minute="62" period="2" second="33" time="63" type="substitution off" type_id="18"/>
+	<message comment="Kenwyne Jones is substituted on" minute="62" period="2" second="33" time="63" type="substitution on" type_id="19"/>
+	<message comment="Dean Whitehead wins a corner (To the right)" minute="61" period="2" second="19" time="62" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross has shot blocked (18-yard box, Left footed, From corner)" minute="61" period="2" second="11" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Michu blocks a shot" minute="61" period="2" second="11" time="62" type="save made" type_id="10"/>
+	<message comment="Robert Huth misses attempt (To the right, 18-yard box, Head, From corner)" minute="61" period="2" second="10" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="60" period="2" second="45" time="61" type="corner" type_id="6"/>
+	<message comment="GOAL! Jonathan de Guzmán scores  (High to the left, Out of box, Right footed, Free kick)" minute="56" period="2" second="16" time="57" type="goal scored" type_id="16"/>
+	<message comment="Dean Whitehead blocks a shot" minute="51" period="2" second="13" time="52" type="save made" type_id="10"/>
+	<message comment="Michu has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="51" period="2" second="13" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Ben Davies scores , Assisted by Ki Sung-Yueng (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="48" period="2" second="12" time="49" type="goal scored" type_id="16"/>
+	<message comment="Jonathan de Guzmán misses attempt (High, Out of box, Left footed, Open play)" minute="46" period="2" second="43" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="46" type="start" type_id="32"/>
+	<message comment="First half ends" minute="45" period="1" second="5" time="45" type="end" type_id="30"/>
+	<message comment="Michu wins a corner (To the left)" minute="43" period="1" second="22" time="43" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington has attempt saved (Low to the right, Out of box, Left footed, Fast break)" minute="43" period="1" second="4" time="43" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Diving)" minute="43" period="1" second="4" time="43" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández wins a corner (To the right)" minute="42" period="1" second="22" time="42" type="corner" type_id="6"/>
+	<message comment="Jonathan de Guzmán misses attempt (To the right, 18-yard box, Big Chance, Right footed, Open play)" minute="38" period="1" second="47" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Itay Shechter wins a corner (To the right)" minute="38" period="1" second="6" time="38" type="corner" type_id="6"/>
+	<message comment="Michu misses attempt (18-yard box, Big Chance, Head, Open play)" minute="36" period="1" second="20" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Ki Sung-Yueng misses attempt (6-yard box, Right footed, From corner)" minute="33" period="1" second="38" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Ben Davies wins a corner (To the right)" minute="33" period="1" second="15" time="33" type="corner" type_id="6"/>
+	<message comment="Robert Huth blocks a shot" minute="33" period="1" second="11" time="33" type="save made" type_id="10"/>
+	<message comment="Ben Davies has shot blocked (18-yard box, Left footed, Open play)" minute="33" period="1" second="10" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan blocks a shot" minute="32" period="1" second="9" time="32" type="save made" type_id="10"/>
+	<message comment="Jonathan de Guzmán has shot blocked (Out of box, Right footed, From corner)" minute="32" period="1" second="9" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Hernández wins a corner (To the left)" minute="31" period="1" second="39" time="31" type="corner" type_id="6"/>
+	<message comment="Charlie Adam blocks a shot" minute="31" period="1" second="38" time="31" type="save made" type_id="10"/>
+	<message comment="Pablo Hernández has shot blocked (Out of box, Right footed, From corner)" minute="31" period="1" second="38" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Angel Rangel wins a corner (To the right)" minute="30" period="1" second="59" time="30" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington misses attempt (18-yard box, Left footed, Open play)" minute="29" period="1" second="30" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Peter Crouch misses attempt (High, Out of box, Right footed, Set piece)" minute="25" period="1" second="46" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Michu misses attempt (18-yard box, Left footed, Open play)" minute="24" period="1" second="51" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Itay Shechter is caught offside" minute="20" period="1" time="20" type="offside" type_id="10000"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="18" period="1" second="55" time="18" type="corner" type_id="6"/>
+	<message comment="Ki Sung-Yueng misses attempt (High to the right, Out of box, Right footed, Open play)" minute="18" period="1" second="7" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Williams misses attempt (To the right, 18-yard box, Left footed, Set piece)" minute="4" period="1" second="25" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="4" type="end" type_id="30"/>
+	<message comment="Michu misses attempt (High to the left, Out of box, Left footed, Open play)" minute="2" period="1" second="28" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Itay Shechter is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

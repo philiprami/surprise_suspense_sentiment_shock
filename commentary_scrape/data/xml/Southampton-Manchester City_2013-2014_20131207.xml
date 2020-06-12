@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2013-12-07" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="4" time="96" type="end" type_id="30"/>
+	<message comment="Sergio Agüero recieves a yellow card" minute="92" period="2" second="55" time="94" type="card received" type_id="17"/>
+	<message comment="Steven Davis is substituted off" minute="89" period="2" second="36" time="91" type="substitution off" type_id="18"/>
+	<message comment="Harrison Reed is substituted on" minute="89" period="2" second="36" time="91" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is caught offside" minute="87" period="2" time="89" type="offside" type_id="10000"/>
+	<message comment="Sergio Agüero misses attempt (To the left, 18-yard box, Head, Open play)" minute="85" period="2" second="0" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana is substituted off" minute="84" period="2" second="31" time="86" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="84" period="2" second="31" time="86" type="substitution on" type_id="19"/>
+	<message comment="Rickie Lambert is caught offside" minute="83" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is caught offside" minute="82" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Edin Dzeko has shot blocked (Out of box, Left footed, Open play)" minute="80" period="2" second="47" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren blocks a shot" minute="80" period="2" second="47" time="82" type="save made" type_id="10"/>
+	<message comment="Yaya Touré is substituted off" minute="78" period="2" second="30" time="80" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" minute="78" period="2" second="30" time="80" type="substitution on" type_id="19"/>
+	<message comment="Jay Rodriguez is caught offside" minute="78" period="2" time="80" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri recieves a yellow card" minute="77" period="2" second="9" time="79" type="card received" type_id="17"/>
+	<message comment="Sergio Agüero is caught offside" minute="77" period="2" time="79" type="offside" type_id="10000"/>
+	<message comment="Daniel Osvaldo is substituted off" minute="76" period="2" second="16" time="78" type="substitution off" type_id="18"/>
+	<message comment="Rickie Lambert is substituted on" minute="76" period="2" second="16" time="78" type="substitution on" type_id="19"/>
+	<message comment="Adam Lallana is caught offside" minute="76" period="2" time="78" type="offside" type_id="10000"/>
+	<message comment="Aleksandar Kolarov misses attempt (18-yard box, Left footed, Open play)" minute="74" period="2" second="25" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="69" period="2" second="41" time="71" type="corner" type_id="6"/>
+	<message comment="James Ward-Prowse misses attempt (High to the right, Out of box, Right footed, Open play)" minute="67" period="2" second="18" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (18-yard box, Left footed, Open play)" minute="66" period="2" second="38" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Jay Rodriguez misses attempt (To the left, 18-yard box, Head, From corner)" minute="64" period="2" second="43" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Osvaldo wins a corner (To the right)" minute="64" period="2" second="14" time="66" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo is substituted off" minute="61" period="2" second="39" time="63" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="61" period="2" second="39" time="63" type="substitution on" type_id="19"/>
+	<message comment="James Milner is substituted off" minute="61" period="2" second="37" time="63" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" minute="61" period="2" second="37" time="63" type="substitution on" type_id="19"/>
+	<message comment="Costel Pantilimon makes a save (Standing)" minute="59" period="2" second="0" time="61" type="save made" type_id="10"/>
+	<message comment="Steven Davis has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="59" period="2" second="0" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Osvaldo misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="57" period="2" second="41" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="53" period="2" second="19" time="55" type="corner" type_id="6"/>
+	<message comment="Daniel Osvaldo misses attempt (High, 18-yard box, Right footed, Open play)" minute="52" period="2" second="14" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (Out of box, Right footed, Open play)" minute="50" period="2" second="23" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="49" period="2" second="55" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Parried safe, Diving)" minute="49" period="2" second="55" time="51" type="save made" type_id="10"/>
+	<message comment="Daniel Osvaldo is caught offside" minute="46" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="11" time="46" type="end" type_id="30"/>
+	<message comment="Samir Nasri misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="45" period="1" second="45" time="45" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Osvaldo scores , Assisted by Steven Davis (High to the right, 18-yard box, Right footed, Open play)" minute="41" period="1" second="28" time="41" type="goal scored" type_id="16"/>
+	<message comment="Costel Pantilimon makes a save (Diving)" minute="37" period="1" second="57" time="37" type="save made" type_id="10"/>
+	<message comment="James Ward-Prowse has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="37" period="1" second="57" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Calum Chambers misses attempt (6-yard box, Big Chance, Head, Open play)" minute="36" period="1" second="39" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="34" period="1" second="13" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Paulo Gazzaniga makes a save (Collected)" minute="34" period="1" second="13" time="34" type="save made" type_id="10"/>
+	<message comment="Adam Lallana misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="33" period="1" second="33" time="33" type="attempt missed" type_id="13"/>
+	<message comment="Dejan Lovren wins a corner (To the right)" minute="32" period="1" second="58" time="32" type="corner" type_id="6"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="32" period="1" second="23" time="32" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero misses attempt (High, 18-yard box, Right footed, Open play)" minute="30" period="1" second="33" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Costel Pantilimon makes a save (Diving)" minute="29" period="1" second="0" time="29" type="save made" type_id="10"/>
+	<message comment="Jack Cork has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="29" period="1" second="0" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="27" period="1" second="42" time="27" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Left footed, Open play)" minute="27" period="1" second="42" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="27" period="1" second="2" time="27" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="27" period="1" second="2" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Osvaldo is caught offside" minute="23" period="1" time="23" type="offside" type_id="10000"/>
+	<message comment="James Ward-Prowse wins a corner (To the left)" minute="22" period="1" second="26" time="22" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov blocks a shot" minute="22" period="1" second="23" time="22" type="save made" type_id="10"/>
+	<message comment="James Ward-Prowse has shot blocked (Out of box, Right footed, Free kick)" minute="22" period="1" second="23" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Dejan Lovren misses attempt (To the left, 18-yard box, Head, From corner)" minute="19" period="1" second="39" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Adam Lallana wins a corner (To the right)" minute="19" period="1" second="11" time="19" type="corner" type_id="6"/>
+	<message comment="James Milner misses attempt (To the right, Out of box, Left footed, Set piece)" minute="16" period="1" second="6" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov misses attempt (18-yard box, Head, From corner)" minute="12" period="1" second="47" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the left)" minute="12" period="1" second="29" time="12" type="corner" type_id="6"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Aleksandar Kolarov (Low to the right, 18-yard box, Left footed, Open play)" minute="9" period="1" second="21" time="9" type="goal scored" type_id="16"/>
+	<message comment="Fernandinho misses attempt (To the left, Out of box, Right footed, From corner)" minute="7" period="1" second="1" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" minute="6" period="1" second="37" time="6" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Steven Davis misses attempt (To the left, Out of box, Right footed, Open play)" minute="5" period="1" second="56" time="5" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

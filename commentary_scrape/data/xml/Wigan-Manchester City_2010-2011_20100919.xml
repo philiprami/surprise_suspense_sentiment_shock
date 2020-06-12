@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2010-09-19" home_team_name="Manchester City" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="8" time="95" type="end" type_id="30"/>
+	<message comment="Pablo Zabaleta wins a corner (To the left)" minute="92" period="2" second="53" time="94" type="corner" type_id="6"/>
+	<message comment="Ali Al Habsi makes a save (Diving)" minute="91" period="2" second="2" time="93" type="save made" type_id="10"/>
+	<message comment="Shaun Wright-Phillips is caught offside" minute="91" period="2" time="93" type="offside" type_id="10000"/>
+	<message comment="Victor Moses is caught offside" minute="89" period="2" time="91" type="offside" type_id="10000"/>
+	<message comment="Shaun Wright-Phillips is substituted on" minute="87" period="2" second="42" time="89" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez is substituted off" minute="87" period="2" second="42" time="89" type="substitution off" type_id="18"/>
+	<message comment="Maynor Figueroa wins a corner (To the right)" minute="86" period="2" second="13" time="88" type="corner" type_id="6"/>
+	<message comment="Mohamed Diamé is substituted off" minute="85" period="2" second="53" time="87" type="substitution off" type_id="18"/>
+	<message comment="Ben Watson is substituted on" minute="85" period="2" second="53" time="87" type="substitution on" type_id="19"/>
+	<message comment="Charles N'Zogbia is substituted off" minute="85" period="2" second="40" time="87" type="substitution off" type_id="18"/>
+	<message comment="Victor Moses is substituted on" minute="85" period="2" second="40" time="87" type="substitution on" type_id="19"/>
+	<message comment="James Milner is caught offside" minute="85" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Mohamed Diamé misses attempt (18-yard box, Big Chance, Head, From corner)" minute="82" period="2" second="13" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega wins a corner (To the left)" minute="81" period="2" second="47" time="83" type="corner" type_id="6"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Free kick)" minute="81" period="2" second="45" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Jô blocks a shot" minute="81" period="2" second="45" time="83" type="save made" type_id="10"/>
+	<message comment="Charles N'Zogbia misses attempt (Out of box, Left footed, Open play)" minute="78" period="2" second="49" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (High to the right, Out of box, Right footed, Open play)" minute="77" period="2" second="49" time="79" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Rodallega has shot blocked (18-yard box, Right footed, Open play)" minute="76" period="2" second="2" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Nigel de Jong blocks a shot" minute="76" period="2" second="2" time="78" type="save made" type_id="10"/>
+	<message comment="Mohamed Diamé misses attempt (High, 18-yard box, Left footed, Set piece)" minute="74" period="2" second="45" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré is substituted off" minute="74" period="2" second="2" time="76" type="substitution off" type_id="18"/>
+	<message comment="Jô is substituted on" minute="74" period="2" second="2" time="76" type="substitution on" type_id="19"/>
+	<message comment="Carlos Tevez misses attempt (18-yard box, Left footed, Open play)" minute="73" period="2" second="21" time="75" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is substituted off" minute="71" period="2" second="49" time="73" type="substitution off" type_id="18"/>
+	<message comment="Adam Johnson is substituted on" minute="71" period="2" second="49" time="73" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré recieves a yellow card" minute="69" period="2" second="49" time="71" type="card received" type_id="17"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by Carlos Tevez (High to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="69" period="2" second="23" time="71" type="goal scored" type_id="16"/>
+	<message comment="Franco Di Santo has shot blocked (Out of box, Right footed, Open play)" minute="67" period="2" second="14" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="67" period="2" second="14" time="69" type="save made" type_id="10"/>
+	<message comment="Ali Al Habsi makes a save (Standing)" minute="66" period="2" second="56" time="68" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="66" period="2" second="56" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="Emmerson Boyce is substituted off" minute="64" period="2" second="32" time="66" type="substitution off" type_id="18"/>
+	<message comment="Ronnie Stam is substituted on" minute="64" period="2" second="32" time="66" type="substitution on" type_id="19"/>
+	<message comment="Micah Richards is caught offside" minute="62" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="Gareth Barry is caught offside" minute="58" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="Steve Gohouri recieves a yellow card" minute="56" period="2" second="39" time="58" type="card received" type_id="17"/>
+	<message comment="Pablo Zabaleta misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="55" period="2" second="49" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Mohamed Diamé misses attempt (High to the left, Out of box, Left footed, Open play)" minute="53" period="2" second="12" time="55" type="attempt missed" type_id="13"/>
+	<message comment="David Silva is caught offside" minute="52" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Antolín Alcaraz blocks a shot" minute="50" period="2" second="48" time="52" type="save made" type_id="10"/>
+	<message comment="Nigel de Jong has shot blocked (Out of box, Right footed, Open play)" minute="50" period="2" second="48" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Maynor Figueroa misses attempt (High to the left, Out of box, Left footed, Open play)" minute="49" period="2" second="40" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="6" time="46" type="end" type_id="30"/>
+	<message comment="Franco Di Santo wins a corner (To the left)" minute="43" period="1" second="30" time="43" type="corner" type_id="6"/>
+	<message comment="GOAL! Carlos Tevez scores  (Low to the centre, Out of box, Big Chance, Right footed, Open play)" minute="42" period="1" second="9" time="42" type="goal scored" type_id="16"/>
+	<message comment="Nigel de Jong recieves a yellow card" minute="38" period="1" second="23" time="38" type="card received" type_id="17"/>
+	<message comment="Carlos Tevez is caught offside" minute="36" period="1" time="36" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta misses attempt (High to the left, Out of box, Right footed, Open play)" minute="31" period="1" second="17" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Franco Di Santo misses attempt (To the left, Out of box, Right footed, Throw-in)" minute="16" period="1" second="15" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez misses attempt (Out of box, Right footed, Open play)" minute="13" period="1" second="10" time="13" type="attempt missed" type_id="13"/>
+	<message comment="David Silva misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="8" period="1" second="4" time="8" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Carlos Tevez is caught offside" minute="3" period="1" time="3" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

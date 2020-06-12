@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Reading" competition="English Premier League" game_date="2013-01-12" home_team_name="West Bromwich Albion" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="7" time="96" type="end" type_id="30"/>
+	<message comment="Jonas Olsson misses attempt (Out of box, Left footed, Open play)" minute="92" period="2" second="1" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Markus Rosenberg misses attempt (To the right, 18-yard box, Right footed, Set piece)" minute="91" period="2" second="17" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Pavel Pogrebnyak recieves a yellow card" minute="90" period="2" second="18" time="92" type="card received" type_id="17"/>
+	<message comment="GOAL! Pavel Pogrebnyak scores , Assisted by Alex Pearce (High to the centre, 18-yard box, Big Chance, Left footed, Set piece)" minute="89" period="2" second="21" time="91" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Adam Le Fondre scores  (Low to the right, 18-yard box, Penalty, Big Chance, Right footed)" minute="87" period="2" second="46" time="89" type="goal scored" type_id="16"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="83" period="2" second="44" time="85" type="save made" type_id="10"/>
+	<message comment="Danny Guthrie has attempt saved (Low to the centre, Out of box, Right footed, Set piece)" minute="83" period="2" second="44" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jimmy Kébé scores , Assisted by Garath McCleary (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="81" period="2" second="1" time="83" type="goal scored" type_id="16"/>
+	<message comment="Graham Dorrans is substituted off" minute="79" period="2" second="1" time="81" type="substitution off" type_id="18"/>
+	<message comment="Markus Rosenberg is substituted on" minute="79" period="2" second="1" time="81" type="substitution on" type_id="19"/>
+	<message comment="Graham Dorrans misses attempt (18-yard box, Left footed, From corner)" minute="78" period="2" second="26" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="78" period="2" second="14" time="80" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku has shot blocked (Out of box, Left footed, Open play)" minute="77" period="2" second="49" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Alex Pearce blocks a shot" minute="77" period="2" second="49" time="79" type="save made" type_id="10"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" minute="76" period="2" second="25" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster makes a save (Collected)" minute="74" period="2" second="16" time="76" type="save made" type_id="10"/>
+	<message comment="Danny Guthrie has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="74" period="2" second="16" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Jonas Olsson blocks a shot" minute="74" period="2" second="13" time="76" type="save made" type_id="10"/>
+	<message comment="Jimmy Kébé has shot blocked (18-yard box, Left footed, Open play)" minute="74" period="2" second="13" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by James Morrison (Low to the right, Out of box, Left footed, Fast break)" minute="68" period="2" second="42" time="70" type="goal scored" type_id="16"/>
+	<message comment="Romelu Lukaku hits the woodwork (High, 18-yard box, Left footed, Open play)" minute="67" period="2" second="57" time="69" type="woodwork hit" type_id="14"/>
+	<message comment="Ian Harte wins a corner (To the right)" minute="65" period="2" second="51" time="67" type="corner" type_id="6"/>
+	<message comment="Ian Harte wins a corner (To the right)" minute="65" period="2" second="26" time="67" type="corner" type_id="6"/>
+	<message comment="Jem Karacan is substituted off" minute="65" period="2" second="8" time="67" type="substitution off" type_id="18"/>
+	<message comment="Adam Le Fondre is substituted on" minute="65" period="2" second="8" time="67" type="substitution on" type_id="19"/>
+	<message comment="Jimmy Kébé wins a corner (To the right)" minute="64" period="2" second="38" time="66" type="corner" type_id="6"/>
+	<message comment="George Thorne misses attempt (To the right, Out of box, Left footed, Open play)" minute="61" period="2" second="58" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Romelu Lukaku hits the woodwork (To the right, 6-yard box, Big Chance, Head, Open play)" minute="56" period="2" second="32" time="58" type="woodwork hit" type_id="14"/>
+	<message comment="Garath McCleary wins a corner (To the left)" minute="54" period="2" second="19" time="56" type="corner" type_id="6"/>
+	<message comment="Billy Jones blocks a shot (Last line)" minute="54" period="2" second="16" time="56" type="save made" type_id="10"/>
+	<message comment="Garath McCleary has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="54" period="2" second="16" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Romelu Lukaku is caught offside" minute="47" period="2" time="49" type="offside" type_id="10000"/>
+	<message comment="Romelu Lukaku wins a corner (To the left)" minute="45" period="2" second="25" time="47" type="corner" type_id="6"/>
+	<message comment="Adrian Mariappa blocks a shot" minute="45" period="2" second="23" time="47" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" minute="45" period="2" second="23" time="47" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="Daniel Carriço is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Garath McCleary is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="46" period="1" second="19" time="46" type="end" type_id="30"/>
+	<message comment="Romelu Lukaku wins a corner (To the right)" minute="38" period="1" second="17" time="38" type="corner" type_id="6"/>
+	<message comment="Liam Ridgewell wins a corner (To the left)" minute="37" period="1" second="4" time="37" type="corner" type_id="6"/>
+	<message comment="Billy Jones recieves a yellow card" minute="36" period="1" second="6" time="36" type="card received" type_id="17"/>
+	<message comment="Ben Foster makes a save (Collected, Standing)" minute="30" period="1" second="41" time="30" type="save made" type_id="10"/>
+	<message comment="Jobi McAnuff has attempt saved (Low to the right, 18-yard box, Head, Open play)" minute="30" period="1" second="41" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Guthrie is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Jobi McAnuff wins a corner (To the left)" minute="25" period="1" second="16" time="25" type="corner" type_id="6"/>
+	<message comment="GOAL! Romelu Lukaku scores , Assisted by James Morrison (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="18" period="1" second="40" time="18" type="goal scored" type_id="16"/>
+	<message comment="Chris Brunt has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="17" period="1" second="6" time="17" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Federici makes a save (Diving, Parried into danger)" minute="17" period="1" second="6" time="17" type="save made" type_id="10"/>
+	<message comment="Danny Guthrie wins a corner (To the right)" minute="16" period="1" second="21" time="16" type="corner" type_id="6"/>
+	<message comment="Romelu Lukaku is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Jimmy Kébé wins a corner (To the left)" minute="12" period="1" second="5" time="12" type="corner" type_id="6"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="7" period="1" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Jimmy Kébé wins a corner (To the left)" minute="2" period="1" second="33" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

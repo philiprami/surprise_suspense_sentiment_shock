@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2012-03-17" home_team_name="Swansea" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="18" time="95" type="end" type_id="30"/>
+	<message comment="Danny Graham is substituted off" minute="92" period="2" second="37" time="94" type="substitution off" type_id="18"/>
+	<message comment="Luke Moore is substituted on" minute="92" period="2" second="37" time="94" type="substitution on" type_id="19"/>
+	<message comment="Gylfi Sigurdsson is substituted off" minute="92" period="2" second="26" time="94" type="substitution off" type_id="18"/>
+	<message comment="Mark Gower is substituted on" minute="92" period="2" second="26" time="94" type="substitution on" type_id="19"/>
+	<message comment="Neil Taylor is substituted off" minute="91" period="2" second="54" time="93" type="substitution off" type_id="18"/>
+	<message comment="Alan Tate is substituted on" minute="91" period="2" second="54" time="93" type="substitution on" type_id="19"/>
+	<message comment="Scott Sinclair misses attempt (High, 18-yard box, Right footed, Open play)" minute="89" period="2" second="43" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Pavel Pogrebnyak hits the woodwork (High, 18-yard box, Left footed, Open play)" minute="84" period="2" second="52" time="86" type="woodwork hit" type_id="14"/>
+	<message comment="Kerim Frei has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="84" period="2" second="25" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save" minute="84" period="2" second="25" time="86" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="83" period="2" second="17" time="85" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="83" period="2" second="14" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="83" period="2" second="14" time="85" type="save made" type_id="10"/>
+	<message comment="Pavel Pogrebnyak misses attempt (To the left, Out of box, Left footed, Throw-in)" minute="81" period="2" second="3" time="83" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Joe Allen scores , Assisted by Scott Sinclair (Low to the right, Out of box, Right footed, Open play)" minute="76" period="2" second="58" time="78" type="goal scored" type_id="16"/>
+	<message comment="Damien Duff misses attempt (18-yard box, Right footed, Open play)" minute="73" period="2" second="20" time="75" type="attempt missed" type_id="13"/>
+	<message comment="Mahamadou Diarra is substituted off" minute="71" period="2" second="37" time="73" type="substitution off" type_id="18"/>
+	<message comment="Danny Murphy is substituted on" minute="71" period="2" second="37" time="73" type="substitution on" type_id="19"/>
+	<message comment="Andrew Johnson is substituted off" minute="66" period="2" second="40" time="68" type="substitution off" type_id="18"/>
+	<message comment="Kerim Frei is substituted on" minute="66" period="2" second="40" time="68" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores , Assisted by Wayne Routledge (Low to the right, 18-yard box, Right footed, Open play)" minute="65" period="2" second="59" time="67" type="goal scored" type_id="16"/>
+	<message comment="John Arne Riise has shot blocked (Out of box, Left footed, Open play)" minute="63" period="2" second="0" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Gylfi Sigurdsson blocks a shot" minute="63" period="2" second="0" time="65" type="save made" type_id="10"/>
+	<message comment="Damien Duff has shot blocked (Out of box, Left footed, Open play)" minute="61" period="2" second="28" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Neil Taylor blocks a shot" minute="61" period="2" second="28" time="63" type="save made" type_id="10"/>
+	<message comment="Damien Duff misses attempt (High to the left, Out of box, Left footed, Open play)" minute="57" period="2" second="34" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Scott Sinclair misses attempt (To the left, Out of box, Right footed, Open play)" minute="55" period="2" second="4" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz is substituted off" minute="53" period="2" second="33" time="55" type="substitution off" type_id="18"/>
+	<message comment="Damien Duff is substituted on" minute="53" period="2" second="33" time="55" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="6" time="46" type="end" type_id="30"/>
+	<message comment="Clint Dempsey misses attempt (High to the left, 18-yard box, Head, From corner)" minute="44" period="1" second="55" time="44" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="44" period="1" second="31" time="44" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé wins a corner (To the right)" minute="37" period="1" second="54" time="37" type="corner" type_id="6"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Right footed, From corner)" minute="37" period="1" second="52" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Garry Monk blocks a shot" minute="37" period="1" second="52" time="37" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the left)" minute="37" period="1" second="27" time="37" type="corner" type_id="6"/>
+	<message comment="GOAL! Gylfi Sigurdsson scores , Assisted by Scott Sinclair (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="35" period="1" second="17" time="35" type="goal scored" type_id="16"/>
+	<message comment="Scott Sinclair wins a corner (To the left)" minute="30" period="1" second="37" time="30" type="corner" type_id="6"/>
+	<message comment="Scott Sinclair has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="30" period="1" second="35" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe)" minute="30" period="1" second="35" time="30" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="29" period="1" second="21" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Diving, Collected)" minute="29" period="1" second="21" time="29" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson misses attempt (18-yard box, Right footed, Open play)" minute="28" period="1" second="17" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Clint Dempsey is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey misses attempt (High to the left, Out of box, Left footed, Open play)" minute="26" period="1" second="0" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Danny Graham is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Pavel Pogrebnyak is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="John Arne Riise misses attempt (Out of box, Left footed, Set piece)" minute="12" period="1" second="36" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Johnson wins a corner (To the left)" minute="12" period="1" second="7" time="12" type="corner" type_id="6"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Right footed, Open play)" minute="11" period="1" second="0" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Routledge is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Scott Sinclair wins a corner (To the left)" minute="4" period="1" second="0" time="4" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" minute="3" period="1" second="59" time="3" type="save made" type_id="10"/>
+	<message comment="Scott Sinclair has shot blocked (18-yard box, Right footed, Open play)" minute="3" period="1" second="59" time="3" type="attempt blocked" type_id="15"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="2" period="1" second="43" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Collected, Diving)" minute="2" period="1" second="43" time="2" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Left footed, From corner)" minute="2" period="1" second="25" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Graham blocks a shot" minute="2" period="1" second="25" time="2" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey wins a corner (To the right)" minute="1" period="1" second="51" time="1" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="1" period="1" second="47" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="Michel Vorm makes a save (Standing)" minute="1" period="1" second="47" time="1" type="save made" type_id="10"/>
+	<message comment="Mark Schwarzer makes a save (Collected, Standing)" minute="0" period="1" second="28" time="0" type="save made" type_id="10"/>
+	<message comment="Danny Graham has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="0" period="1" second="28" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

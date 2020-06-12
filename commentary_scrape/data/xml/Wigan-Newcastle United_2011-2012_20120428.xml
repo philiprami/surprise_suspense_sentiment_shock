@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Wigan" competition="English Premier League" game_date="2012-04-28" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="10" time="98" type="end" type_id="30"/>
+	<message comment="Conor Sammon wins a corner (To the left)" minute="87" period="2" second="25" time="92" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye is substituted off" minute="82" period="2" second="57" time="87" type="substitution off" type_id="18"/>
+	<message comment="Shane Ferguson is substituted on" minute="82" period="2" second="57" time="87" type="substitution on" type_id="19"/>
+	<message comment="Victor Moses is substituted off" minute="82" period="2" second="38" time="87" type="substitution off" type_id="18"/>
+	<message comment="Jordi Gómez is substituted on" minute="82" period="2" second="38" time="87" type="substitution on" type_id="19"/>
+	<message comment="Danny Simpson is substituted off" minute="80" period="2" second="37" time="85" type="substitution off" type_id="18"/>
+	<message comment="James Perch is substituted on" minute="80" period="2" second="37" time="85" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="73" period="2" second="0" time="78" type="substitution off" type_id="18"/>
+	<message comment="Ryan Taylor is substituted on" minute="73" period="2" second="0" time="78" type="substitution on" type_id="19"/>
+	<message comment="Papiss Demba Cissé hits the woodwork (To the right, 6-yard box, Big Chance, Head, Open play)" minute="70" period="2" second="42" time="75" type="woodwork hit" type_id="14"/>
+	<message comment="Shaun Maloney misses attempt (High, Out of box, Right footed, Set piece)" minute="68" period="2" second="40" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Franco Di Santo is substituted off" minute="67" period="2" second="59" time="72" type="substitution off" type_id="18"/>
+	<message comment="Conor Sammon is substituted on" minute="67" period="2" second="59" time="72" type="substitution on" type_id="19"/>
+	<message comment="Hatem Ben Arfa misses attempt (18-yard box, Right footed, From corner)" minute="67" period="2" second="13" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, From corner)" minute="67" period="2" second="4" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy blocks a shot" minute="67" period="2" second="4" time="72" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé wins a corner (To the left)" minute="66" period="2" second="27" time="71" type="corner" type_id="6"/>
+	<message comment="Papiss Demba Cissé hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="63" period="2" second="53" time="68" type="woodwork hit" type_id="14"/>
+	<message comment="Papiss Demba Cissé has attempt saved (High to the right, 18-yard box, Left footed, Open play)" minute="62" period="2" second="31" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save (Parried into danger)" minute="62" period="2" second="31" time="67" type="save made" type_id="10"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="62" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye blocks a shot" minute="59" period="2" second="58" time="64" type="save made" type_id="10"/>
+	<message comment="James McCarthy has shot blocked (18-yard box, Right footed, Open play)" minute="59" period="2" second="58" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" minute="59" period="2" second="46" time="64" type="save made" type_id="10"/>
+	<message comment="Victor Moses has attempt saved (High to the left, 18-yard box, Left footed, Open play)" minute="59" period="2" second="46" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="58" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Victor Moses misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="56" period="2" second="51" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Victor Moses is caught offside" minute="52" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Maynor Figueroa wins a corner (To the left)" minute="51" period="2" second="52" time="56" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="47" time="49" type="end" type_id="30"/>
+	<message comment="GOAL! Franco Di Santo scores , Assisted by Shaun Maloney (High to the left, Out of box, Right footed, Open play)" minute="46" period="1" second="57" time="46" type="goal scored" type_id="16"/>
+	<message comment="Victor Moses is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Cheick Tioté misses attempt (High, Out of box, Right footed, Open play)" minute="44" period="1" second="50" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Free kick)" minute="42" period="1" second="7" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba misses attempt (18-yard box, Left footed, Open play)" minute="40" period="1" second="7" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Emmerson Boyce wins a corner (To the right)" minute="39" period="1" second="11" time="39" type="corner" type_id="6"/>
+	<message comment="Danny Simpson recieves a yellow card" minute="38" period="1" second="4" time="38" type="card received" type_id="17"/>
+	<message comment="James McCarthy recieves a yellow card" minute="37" period="1" second="50" time="37" type="card received" type_id="17"/>
+	<message comment="GOAL! Shaun Maloney scores , Assisted by Franco Di Santo (Low to the right, 18-yard box, Right footed, Open play)" minute="35" period="1" second="18" time="35" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="34" period="1" time="34" type="offside" type_id="10000"/>
+	<message comment="Papiss Demba Cissé has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="22" period="1" second="40" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Ali Al Habsi makes a save" minute="22" period="1" second="40" time="22" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa misses attempt (Out of box, Left footed, Free kick)" minute="19" period="1" second="32" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Antolín Alcaraz recieves a yellow card" minute="18" period="1" second="48" time="18" type="card received" type_id="17"/>
+	<message comment="GOAL! Victor Moses scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="14" period="1" second="29" time="14" type="goal scored" type_id="16"/>
+	<message comment="Papiss Demba Cissé is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="GOAL! Victor Moses scores , Assisted by Emmerson Boyce (High to the left, 18-yard box, Head, Open play)" minute="12" period="1" second="32" time="12" type="goal scored" type_id="16"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Papiss Demba Cissé misses attempt (High to the right, 6-yard box, Head, Set piece)" minute="7" period="1" second="28" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Tim Krul makes a save (Collected, Diving)" minute="5" period="1" second="57" time="5" type="save made" type_id="10"/>
+	<message comment="Victor Moses has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" minute="5" period="1" second="57" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Franco Di Santo has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="56" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="4" period="1" second="56" time="4" type="save made" type_id="10"/>
+	<message comment="Emmerson Boyce wins a corner (To the right)" minute="2" period="1" second="53" time="2" type="corner" type_id="6"/>
+	<message comment="Gary Caldwell is caught offside" minute="1" period="1" time="1" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

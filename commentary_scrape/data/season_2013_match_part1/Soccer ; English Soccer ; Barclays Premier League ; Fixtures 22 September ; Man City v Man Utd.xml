@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Man City" competition="English Premier League" game_date="2013-09-22 16:00" game_id_2="27066405" game_id_4="110992271" home_team_name="Man Utd" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-09-22 17:33:20" minute="93" period="2" second="6" team="Man Utd" time="95" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-22 17:33:01" minute="92" period="2" second="47" team="Man Utd" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Rooney misses attempt (To the right, Out of box, Right footed, Open play)" last_modified="2013-09-22 17:28:00" minute="87" period="2" second="46" team="Man City" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-09-22 17:27:45" minute="87" period="2" second="31" team="Man City" time="89" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Wayne Rooney scores  (High to the right, Out of box, Right footed, Free kick)" last_modified="2013-09-22 17:26:20" minute="86" period="2" second="6" team="Man City" time="88" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero is substituted off" last_modified="2013-09-22 17:26:07" minute="85" period="2" second="53" team="Man Utd" time="87" type="substitution off" type_id="18"/>
+	<message comment="Javi García is substituted on" last_modified="2013-09-22 17:26:07" minute="85" period="2" second="53" team="Man Utd" time="87" type="substitution on" type_id="19"/>
+	<message comment="Sergio Agüero is caught offside" last_modified="2013-09-22 17:20:14" minute="80" period="2" team="Man Utd" time="82" type="offside" type_id="10000"/>
+	<message comment="Joe Hart makes a save (Parried into danger)" last_modified="2013-09-22 17:20:08" minute="79" period="2" second="54" team="Man Utd" time="81" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 17:20:08" minute="79" period="2" second="54" team="Man City" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Nemanja Vidic misses attempt (High, 18-yard box, Head, Open play)" last_modified="2013-09-22 17:20:06" minute="79" period="2" second="52" team="Man City" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Patrice Evra hits the woodwork (To the right, 18-yard box, Head, From corner)" last_modified="2013-09-22 17:19:57" minute="79" period="2" second="43" team="Man City" time="81" type="woodwork hit" type_id="14"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" last_modified="2013-09-22 17:18:30" minute="78" period="2" second="16" team="Man City" time="80" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko has attempt saved (Low to the right, Out of box, Right footed, Fast break)" last_modified="2013-09-22 17:17:55" minute="77" period="2" second="41" team="Man Utd" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="David de Gea makes a save (Parried safe)" last_modified="2013-09-22 17:17:55" minute="77" period="2" second="41" team="Man City" time="79" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo is substituted off" last_modified="2013-09-22 17:15:07" minute="74" period="2" second="53" team="Man Utd" time="76" type="substitution off" type_id="18"/>
+	<message comment="Edin Dzeko is substituted on" last_modified="2013-09-22 17:15:07" minute="74" period="2" second="53" team="Man Utd" time="76" type="substitution on" type_id="19"/>
+	<message comment="Álvaro Negredo misses attempt (Out of box, Right footed, Open play)" last_modified="2013-09-22 17:11:21" minute="71" period="2" second="7" team="Man Utd" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Jesús Navas is substituted off" last_modified="2013-09-22 17:10:48" minute="70" period="2" second="34" team="Man Utd" time="72" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" last_modified="2013-09-22 17:10:48" minute="70" period="2" second="34" team="Man Utd" time="72" type="substitution on" type_id="19"/>
+	<message comment="Luis Antonio Valencia recieves a yellow card" last_modified="2013-09-22 17:10:04" minute="69" period="2" second="50" team="Man City" time="71" type="card received" type_id="17"/>
+	<message comment="Marouane Fellaini wins a corner (To the right)" last_modified="2013-09-22 17:07:29" minute="67" period="2" second="15" team="Man City" time="69" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Parried safe, Diving)" last_modified="2013-09-22 17:07:27" minute="67" period="2" second="13" team="Man Utd" time="69" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini has attempt saved (High to the right, 18-yard box, Left footed, Open play)" last_modified="2013-09-22 17:07:27" minute="67" period="2" second="13" team="Man City" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Welbeck misses attempt (High to the right, Out of box, Right footed, Open play)" last_modified="2013-09-22 17:06:12" minute="65" period="2" second="58" team="Man City" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré blocks a shot" last_modified="2013-09-22 17:03:04" minute="62" period="2" second="50" team="Man Utd" time="64" type="save made" type_id="10"/>
+	<message comment="Wayne Rooney has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-09-22 17:03:04" minute="62" period="2" second="50" team="Man City" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Chris Smalling is caught offside" last_modified="2013-09-22 17:00:14" minute="60" period="2" team="Man City" time="62" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta blocks a shot" last_modified="2013-09-22 16:59:54" minute="59" period="2" second="40" team="Man Utd" time="61" type="save made" type_id="10"/>
+	<message comment="Danny Welbeck has shot blocked (18-yard box, Right footed, Open play)" last_modified="2013-09-22 16:59:54" minute="59" period="2" second="40" team="Man City" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the right)" last_modified="2013-09-22 16:58:03" minute="57" period="2" second="49" team="Man Utd" time="59" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini is caught offside" last_modified="2013-09-22 16:55:14" minute="55" period="2" team="Man City" time="57" type="offside" type_id="10000"/>
+	<message comment="Wayne Rooney misses attempt (High, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 16:54:58" minute="54" period="2" second="44" team="Man City" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Luis Antonio Valencia wins a corner (To the right)" last_modified="2013-09-22 16:53:24" minute="53" period="2" second="10" team="Man City" time="55" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-09-22 16:52:49" minute="52" period="2" second="35" team="Man City" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Fellaini misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2013-09-22 16:52:12" minute="51" period="2" second="58" team="Man City" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Young is substituted off" last_modified="2013-09-22 16:50:39" minute="50" period="2" second="25" team="Man City" time="52" type="substitution off" type_id="18"/>
+	<message comment="Tom Cleverley is substituted on" last_modified="2013-09-22 16:50:39" minute="50" period="2" second="25" team="Man City" time="52" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Samir Nasri scores , Assisted by Jesús Navas (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2013-09-22 16:50:03" minute="49" period="2" second="49" team="Man Utd" time="51" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Álvaro Negredo (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2013-09-22 16:46:16" minute="46" period="2" second="2" team="Man Utd" time="48" type="goal scored" type_id="16"/>
+	<message comment="Second half begins!" last_modified="2013-09-22 16:45:14" minute="45" period="2" second="0" team="Man Utd" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-09-22 16:47:09" minute="46" period="1" second="55" team="Man Utd" time="46" type="end" type_id="30"/>
+	<message comment="GOAL! Yaya Touré scores , Assisted by Álvaro Negredo (Low to the left, 6-yard box, Big Chance, Left footed, From corner)" last_modified="2013-09-22 16:45:59" minute="45" period="1" second="45" team="Man Utd" time="45" type="goal scored" type_id="16"/>
+	<message comment="Álvaro Negredo misses attempt (18-yard box, Key pass, Head, From corner)" last_modified="2013-09-22 16:45:58" minute="45" period="1" second="44" team="Man Utd" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" last_modified="2013-09-22 16:45:36" minute="45" period="1" second="22" team="Man Utd" time="45" type="corner" type_id="6"/>
+	<message comment="Luis Antonio Valencia misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-09-22 16:41:56" minute="41" period="1" second="42" team="Man City" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri wins a corner (To the left)" last_modified="2013-09-22 16:39:05" minute="38" period="1" second="51" team="Man Utd" time="38" type="corner" type_id="6"/>
+	<message comment="Álvaro Negredo wins a corner (To the left)" last_modified="2013-09-22 16:38:35" minute="38" period="1" second="21" team="Man Utd" time="38" type="corner" type_id="6"/>
+	<message comment="Rio Ferdinand blocks a shot" last_modified="2013-09-22 16:38:30" minute="38" period="1" second="16" team="Man City" time="38" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-22 16:38:30" minute="38" period="1" second="16" team="Man Utd" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Wayne Rooney recieves a yellow card" last_modified="2013-09-22 16:29:21" minute="29" period="1" second="7" team="Man City" time="29" type="card received" type_id="17"/>
+	<message comment="Rio Ferdinand blocks a shot" last_modified="2013-09-22 16:29:02" minute="28" period="1" second="48" team="Man City" time="28" type="save made" type_id="10"/>
+	<message comment="Álvaro Negredo has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-22 16:29:02" minute="28" period="1" second="48" team="Man Utd" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" last_modified="2013-09-22 16:23:55" minute="23" period="1" second="41" team="Man Utd" time="23" type="corner" type_id="6"/>
+	<message comment="Wayne Rooney is caught offside" last_modified="2013-09-22 16:22:14" minute="22" period="1" team="Man City" time="22" type="offside" type_id="10000"/>
+	<message comment="Samir Nasri misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-09-22 16:19:07" minute="18" period="1" second="53" team="Man Utd" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Ashley Young wins a corner (To the right)" last_modified="2013-09-22 16:17:46" minute="17" period="1" second="32" team="Man City" time="17" type="corner" type_id="6"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Aleksandar Kolarov (Low to the right, 18-yard box, Left footed, Open play)" last_modified="2013-09-22 16:15:43" minute="15" period="1" second="29" team="Man Utd" time="15" type="goal scored" type_id="16"/>
+	<message comment="Álvaro Negredo has shot blocked (Out of box, Left footed, Set piece)" last_modified="2013-09-22 16:15:15" minute="15" period="1" second="1" team="Man Utd" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Young blocks a shot" last_modified="2013-09-22 16:15:15" minute="15" period="1" second="1" team="Man City" time="15" type="save made" type_id="10"/>
+	<message comment="Yaya Touré wins a corner (To the left)" last_modified="2013-09-22 16:14:02" minute="13" period="1" second="48" team="Man Utd" time="13" type="corner" type_id="6"/>
+	<message comment="Nemanja Vidic blocks a shot" last_modified="2013-09-22 16:14:01" minute="13" period="1" second="47" team="Man City" time="13" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-22 16:14:01" minute="13" period="1" second="47" team="Man Utd" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick blocks a shot" last_modified="2013-09-22 16:13:03" minute="12" period="1" second="49" team="Man City" time="12" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-22 16:13:03" minute="12" period="1" second="49" team="Man Utd" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Carrick blocks a shot" last_modified="2013-09-22 16:12:11" minute="11" period="1" second="57" team="Man City" time="11" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-09-22 16:12:11" minute="11" period="1" second="57" team="Man Utd" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Antonio Valencia blocks a shot" last_modified="2013-09-22 16:11:53" minute="11" period="1" second="39" team="Man City" time="11" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-09-22 16:11:53" minute="11" period="1" second="39" team="Man Utd" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Matija Nastasic misses attempt (To the right, 18-yard box, Head, From corner)" last_modified="2013-09-22 16:10:44" minute="10" period="1" second="30" team="Man Utd" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" last_modified="2013-09-22 16:09:50" minute="9" period="1" second="36" team="Man Utd" time="9" type="corner" type_id="6"/>
+	<message comment="Ashley Young is caught offside" last_modified="2013-09-22 16:06:14" minute="6" period="1" team="Man City" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-09-22 16:00:14" minute="0" period="14" second="0" team="Man Utd" time="5" type="end" type_id="30"/>
+	<message comment="Matija Nastasic recieves a yellow card" last_modified="2013-09-22 16:04:56" minute="4" period="1" second="42" team="Man Utd" time="4" type="card received" type_id="17"/>
+	<message comment="Jesús Navas misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-09-22 16:04:11" minute="3" period="1" second="57" team="Man Utd" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero wins a corner (To the right)" last_modified="2013-09-22 16:02:57" minute="2" period="1" second="43" team="Man Utd" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-09-22 16:00:14" minute="0" period="1" second="0" team="Man Utd" time="0" type="start" type_id="32"/>
+</Commentary>

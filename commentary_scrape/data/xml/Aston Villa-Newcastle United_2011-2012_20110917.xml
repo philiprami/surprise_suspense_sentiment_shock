@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Aston Villa" competition="English Premier League" game_date="2011-09-17" home_team_name="Newcastle United" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="26" time="96" type="end" type_id="30"/>
+	<message comment="Yohan Cabaye misses attempt (6-yard box, Big Chance, Right footed, From corner)" minute="90" period="2" second="36" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Sammy Ameobi wins a corner (To the left)" minute="89" period="2" second="59" time="92" type="corner" type_id="6"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="85" period="2" second="57" time="88" type="corner" type_id="6"/>
+	<message comment="Shay Given makes a save (Diving)" minute="85" period="2" second="43" time="88" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="85" period="2" second="43" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent is substituted off" minute="85" period="2" second="8" time="88" type="substitution off" type_id="18"/>
+	<message comment="Nathan Delfouneso is substituted on" minute="85" period="2" second="8" time="88" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez is substituted off" minute="84" period="2" second="46" time="87" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" minute="84" period="2" second="46" time="87" type="substitution on" type_id="19"/>
+	<message comment="Shay Given makes a save (Collected)" minute="84" period="2" second="7" time="87" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the left, 18-yard box, Left footed, Fast break)" minute="84" period="2" second="7" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Agbonlahor is caught offside" minute="84" period="2" time="87" type="offside" type_id="10000"/>
+	<message comment="Darren Bent wins a corner (To the right)" minute="80" period="2" second="24" time="83" type="corner" type_id="6"/>
+	<message comment="Demba Ba is substituted off" minute="80" period="2" second="1" time="83" type="substitution off" type_id="18"/>
+	<message comment="Sylvain Marveaux is substituted on" minute="80" period="2" second="1" time="83" type="substitution on" type_id="19"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Left footed, Open play)" minute="79" period="2" second="22" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="James Collins blocks a shot" minute="79" period="2" second="22" time="82" type="save made" type_id="10"/>
+	<message comment="Marc Albrighton misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="78" period="2" second="35" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Darren Bent wins a corner (To the left)" minute="71" period="2" second="7" time="74" type="corner" type_id="6"/>
+	<message comment="Darren Bent has shot blocked (Out of box, Left footed, Open play)" minute="71" period="2" second="2" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Taylor blocks a shot (Last line)" minute="71" period="2" second="2" time="74" type="save made" type_id="10"/>
+	<message comment="Leon Best is substituted off" minute="67" period="2" second="59" time="70" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="67" period="2" second="59" time="70" type="substitution on" type_id="19"/>
+	<message comment="Stiliyan Petrov is substituted off" minute="67" period="2" second="35" time="70" type="substitution off" type_id="18"/>
+	<message comment="Stephen Ireland is substituted on" minute="67" period="2" second="35" time="70" type="substitution on" type_id="19"/>
+	<message comment="Barry Bannan is substituted off" minute="67" period="2" second="17" time="70" type="substitution off" type_id="18"/>
+	<message comment="Marc Albrighton is substituted on" minute="67" period="2" second="17" time="70" type="substitution on" type_id="19"/>
+	<message comment="Shay Given makes a save (Standing)" minute="66" period="2" second="23" time="69" type="save made" type_id="10"/>
+	<message comment="Demba Ba has attempt saved (High to the centre, Out of box, Left footed, Open play)" minute="66" period="2" second="23" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor misses attempt (High, Out of box, Right footed, Free kick)" minute="63" period="2" second="44" time="66" type="attempt missed" type_id="13"/>
+	<message comment="James Collins recieves a yellow card" minute="62" period="2" second="52" time="65" type="card received" type_id="17"/>
+	<message comment="Barry Bannan misses attempt (High, 18-yard box, Left footed, Open play)" minute="58" period="2" second="6" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best recieves a yellow card" minute="57" period="2" second="38" time="60" type="card received" type_id="17"/>
+	<message comment="Shay Given makes a save (Feet, Diving, Parried into danger)" minute="56" period="2" second="42" time="59" type="save made" type_id="10"/>
+	<message comment="GOAL! Leon Best scores  (Low to the right, 6-yard box, Big Chance, Left footed, Open play)" minute="56" period="2" second="41" time="59" type="goal scored" type_id="16"/>
+	<message comment="Leon Best has attempt saved (Low to the right, 6-yard box, Big Chance, Head, Open play)" minute="56" period="2" second="40" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="James Collins blocks a shot" minute="56" period="2" second="21" time="59" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (18-yard box, Right footed, Open play)" minute="56" period="2" second="21" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye hits the woodwork (High, Out of box, Right footed, Open play)" minute="56" period="2" second="13" time="59" type="woodwork hit" type_id="14"/>
+	<message comment="Demba Ba wins a corner (To the left)" minute="50" period="2" second="20" time="53" type="corner" type_id="6"/>
+	<message comment="Darren Bent wins a corner (To the right)" minute="48" period="2" second="34" time="51" type="corner" type_id="6"/>
+	<message comment="Gabriel Agbonlahor misses attempt (18-yard box, Right footed, Open play)" minute="46" period="2" second="19" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="13" time="47" type="end" type_id="30"/>
+	<message comment="Stiliyan Petrov blocks a shot" minute="46" period="1" second="18" time="46" type="save made" type_id="10"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Open play)" minute="46" period="1" second="18" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Darren Bent is caught offside" minute="43" period="1" time="43" type="offside" type_id="10000"/>
+	<message comment="Danny Simpson wins a corner (To the right)" minute="40" period="1" second="0" time="40" type="corner" type_id="6"/>
+	<message comment="Charles N'Zogbia misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="36" period="1" second="1" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Gabriel Obertan misses attempt (To the left, 18-yard box, Left footed, From corner)" minute="34" period="1" second="23" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Ryan Taylor wins a corner (To the left)" minute="33" period="1" second="57" time="33" type="corner" type_id="6"/>
+	<message comment="Richard Dunne blocks a shot" minute="33" period="1" second="20" time="33" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (Out of box, Right footed, Open play)" minute="33" period="1" second="20" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba wins a corner (To the right)" minute="32" period="1" second="37" time="32" type="corner" type_id="6"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Fast break)" minute="32" period="1" second="22" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Richard Dunne blocks a shot" minute="32" period="1" second="22" time="32" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="30" period="1" second="58" time="30" type="attempt missed" type_id="13"/>
+	<message comment="Stiliyan Petrov misses attempt (Out of box, Right footed, Open play)" minute="29" period="1" second="43" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Leon Best is caught offside" minute="28" period="1" time="28" type="offside" type_id="10000"/>
+	<message comment="Steven Taylor misses attempt (High to the right, 18-yard box, Right footed, From corner)" minute="27" period="1" second="24" time="27" type="attempt missed" type_id="13"/>
+	<message comment="Shay Given makes a save (Diving, Parried safe)" minute="27" period="1" second="15" time="27" type="save made" type_id="10"/>
+	<message comment="Steven Taylor has attempt saved (Low to the right, 18-yard box, Right footed, From corner)" minute="27" period="1" second="15" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Obertan wins a corner (To the right)" minute="26" period="1" second="46" time="26" type="corner" type_id="6"/>
+	<message comment="Darren Bent misses attempt (18-yard box, Big Chance, Right footed, Fast break)" minute="24" period="1" second="55" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Demba Ba is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Stiliyan Petrov wins a corner (To the right)" minute="16" period="1" second="53" time="16" type="corner" type_id="6"/>
+	<message comment="Steven Taylor blocks a shot" minute="16" period="1" second="47" time="16" type="save made" type_id="10"/>
+	<message comment="Stiliyan Petrov has shot blocked (18-yard box, Right footed, Open play)" minute="16" period="1" second="47" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Barry Bannan misses attempt (Out of box, Left footed, Throw-in)" minute="15" period="1" second="38" time="15" type="attempt missed" type_id="13"/>
+	<message comment="James Collins blocks a shot" minute="13" period="1" second="16" time="13" type="save made" type_id="10"/>
+	<message comment="Demba Ba has shot blocked (18-yard box, Right footed, Open play)" minute="13" period="1" second="16" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Gabriel Agbonlahor scores  (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="12" period="1" second="16" time="12" type="goal scored" type_id="16"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="12" period="1" second="14" time="12" type="save made" type_id="10"/>
+	<message comment="Gabriel Agbonlahor has shot blocked (18-yard box, Left footed, Open play)" minute="12" period="1" second="14" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Stiliyan Petrov blocks a shot" minute="11" period="1" second="26" time="11" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has shot blocked (18-yard box, Right footed, Throw-in)" minute="11" period="1" second="26" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Gabriel Obertan wins a corner (To the right)" minute="10" period="1" second="12" time="10" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" minute="9" period="1" second="17" time="9" type="corner" type_id="6"/>
+	<message comment="Alan Hutton blocks a shot" minute="9" period="1" second="7" time="9" type="save made" type_id="10"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, Set piece)" minute="9" period="1" second="7" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Ryan Taylor has shot blocked (Out of box, Right footed, Free kick)" minute="9" period="1" second="5" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Fabian Delph blocks a shot" minute="9" period="1" second="5" time="9" type="save made" type_id="10"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, Out of box, Right footed, Fast break)" minute="5" period="1" second="49" time="5" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

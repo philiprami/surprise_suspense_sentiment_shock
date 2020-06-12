@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Chelsea" competition="English Premier League" game_date="2013-10-27" home_team_name="Manchester City" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="3" time="98" type="end" type_id="30"/>
+	<message comment="GOAL! Fernando Torres scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="89" period="2" second="47" time="92" type="goal scored" type_id="16"/>
+	<message comment="Sergio Agüero is substituted off" minute="86" period="2" second="13" time="89" type="substitution off" type_id="18"/>
+	<message comment="Álvaro Negredo is substituted on" minute="86" period="2" second="13" time="89" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" minute="83" period="2" second="12" time="86" type="substitution off" type_id="18"/>
+	<message comment="Samuel Eto'o is substituted on" minute="83" period="2" second="12" time="86" type="substitution on" type_id="19"/>
+	<message comment="Willian is caught offside" minute="82" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Ramires wins a corner (To the right)" minute="81" period="2" second="33" time="84" type="corner" type_id="6"/>
+	<message comment="Javi García is substituted off" minute="79" period="2" second="30" time="82" type="substitution off" type_id="18"/>
+	<message comment="Aleksandar Kolarov is substituted on" minute="79" period="2" second="30" time="82" type="substitution on" type_id="19"/>
+	<message comment="Ramires misses attempt (High, Out of box, Right footed, Open play)" minute="78" period="2" second="47" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero misses attempt (18-yard box, Right footed, Open play)" minute="73" period="2" second="52" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Gary Cahill blocks a shot" minute="72" period="2" second="11" time="75" type="save made" type_id="10"/>
+	<message comment="Jesús Navas has shot blocked (Out of box, Left footed, Fast break)" minute="72" period="2" second="11" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri is substituted off" minute="69" period="2" second="43" time="72" type="substitution off" type_id="18"/>
+	<message comment="Jesús Navas is substituted on" minute="69" period="2" second="43" time="72" type="substitution on" type_id="19"/>
+	<message comment="Oscar misses attempt (High, Out of box, Right footed, Free kick)" minute="69" period="2" second="7" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Frank Lampard is substituted off" minute="65" period="2" second="22" time="68" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="65" period="2" second="22" time="68" type="substitution on" type_id="19"/>
+	<message comment="André Schürrle is substituted off" minute="65" period="2" second="15" time="68" type="substitution off" type_id="18"/>
+	<message comment="Willian is substituted on" minute="65" period="2" second="15" time="68" type="substitution on" type_id="19"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="64" period="2" second="18" time="67" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="64" period="2" second="18" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva is caught offside" minute="64" period="2" time="67" type="offside" type_id="10000"/>
+	<message comment="Fernando Torres is caught offside" minute="61" period="2" time="64" type="offside" type_id="10000"/>
+	<message comment="John Terry misses attempt (High, 6-yard box, Left footed, Set piece)" minute="60" period="2" second="12" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Javi García recieves a yellow card" minute="59" period="2" second="14" time="62" type="card received" type_id="17"/>
+	<message comment="Fernando Torres has attempt saved (High to the centre, 18-yard box, Head, Set piece)" minute="57" period="2" second="22" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="57" period="2" second="22" time="60" type="save made" type_id="10"/>
+	<message comment="David Silva misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="56" period="2" second="11" time="59" type="attempt missed" type_id="13"/>
+	<message comment="Sergio Agüero is caught offside" minute="53" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="51" period="2" second="40" time="54" type="save made" type_id="10"/>
+	<message comment="Javi García has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="51" period="2" second="40" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Ramires recieves a yellow card" minute="50" period="2" second="54" time="53" type="card received" type_id="17"/>
+	<message comment="Fernandinho wins a corner (To the left)" minute="49" period="2" second="50" time="52" type="corner" type_id="6"/>
+	<message comment="Gary Cahill blocks a shot" minute="49" period="2" second="47" time="52" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has shot blocked (18-yard box, Right footed, Fast break)" minute="49" period="2" second="47" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Samir Nasri (High to the left, 18-yard box, Left footed, Open play)" minute="48" period="2" second="6" time="51" type="goal scored" type_id="16"/>
+	<message comment="Pablo Zabaleta misses attempt (High, Out of box, Left footed, Open play)" minute="47" period="2" second="16" time="50" type="attempt missed" type_id="13"/>
+	<message comment="David Silva has shot blocked (Out of box, Left footed, Set piece)" minute="46" period="2" second="48" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="André Schürrle blocks a shot" minute="46" period="2" second="48" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="3" time="47" type="end" type_id="30"/>
+	<message comment="Yaya Touré misses attempt (High, Out of box, Right footed, Open play)" minute="46" period="1" second="49" time="46" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré misses attempt (To the left, 18-yard box, Head, From corner)" minute="45" period="1" second="18" time="45" type="attempt missed" type_id="13"/>
+	<message comment="David Silva wins a corner (To the right)" minute="44" period="1" second="50" time="44" type="corner" type_id="6"/>
+	<message comment="John Terry misses attempt (To the left, 18-yard box, Head, From corner)" minute="43" period="1" second="2" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres wins a corner (To the right)" minute="42" period="1" second="36" time="42" type="corner" type_id="6"/>
+	<message comment="Fernandinho misses attempt (High to the right, Out of box, Right footed, Open play)" minute="41" period="1" second="38" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Petr Cech makes a save (Diving, Parried into danger)" minute="41" period="1" second="30" time="41" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="41" period="1" second="30" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="38" period="1" second="47" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Standing)" minute="38" period="1" second="47" time="38" type="save made" type_id="10"/>
+	<message comment="Fernando Torres hits the woodwork (To the right, 18-yard box, Right footed, Open play)" minute="36" period="1" second="27" time="36" type="woodwork hit" type_id="14"/>
+	<message comment="André Schürrle is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="GOAL! André Schürrle scores , Assisted by Fernando Torres (Low to the centre, 6-yard box, Big Chance, Left footed, Open play)" minute="32" period="1" second="27" time="32" type="goal scored" type_id="16"/>
+	<message comment="Matija Nastasic recieves a yellow card" minute="30" period="1" second="54" time="30" type="card received" type_id="17"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" minute="28" period="1" second="51" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic is caught offside" minute="27" period="1" time="27" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta recieves a yellow card" minute="26" period="1" second="15" time="26" type="card received" type_id="17"/>
+	<message comment="Frank Lampard recieves a yellow card" minute="21" period="1" second="27" time="21" type="card received" type_id="17"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="19" period="1" second="14" time="19" type="corner" type_id="6"/>
+	<message comment="Petr Cech makes a save (Diving)" minute="18" period="1" second="27" time="18" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="18" period="1" second="27" time="18" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva wins a corner (To the right)" minute="16" period="1" second="14" time="16" type="corner" type_id="6"/>
+	<message comment="Sergio Agüero wins a corner (To the left)" minute="14" period="1" second="25" time="14" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the left)" minute="13" period="1" second="29" time="13" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Joe Hart makes a save" minute="6" period="1" second="32" time="6" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has attempt saved (High to the centre, Out of box, Head, Open play)" minute="6" period="1" second="32" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta blocks a shot" minute="4" period="1" second="25" time="4" type="save made" type_id="10"/>
+	<message comment="André Schürrle has shot blocked (Out of box, Right footed, Open play)" minute="4" period="1" second="25" time="4" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill misses attempt (High, 18-yard box, Big Chance, Right footed, From corner)" minute="2" period="1" second="46" time="2" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" minute="2" period="1" second="15" time="2" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

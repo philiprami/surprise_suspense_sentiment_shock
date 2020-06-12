@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Newcastle United" competition="English Premier League" game_date="2010-09-26" home_team_name="Stoke" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="96" period="2" second="6" time="99" type="end" type_id="30"/>
+	<message comment="James Perch wins a corner (To the right)" minute="94" period="2" second="54" time="97" type="corner" type_id="6"/>
+	<message comment="James Perch misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="94" period="2" second="51" time="97" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones wins a corner (To the right)" minute="93" period="2" second="51" time="96" type="corner" type_id="6"/>
+	<message comment="Kevin Nolan misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="90" period="2" second="31" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones misses attempt (High to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="56" time="92" type="attempt missed" type_id="13"/>
+	<message comment="José Enrique misses attempt (High to the left, Out of box, Left footed, Open play)" minute="89" period="2" second="8" time="92" type="attempt missed" type_id="13"/>
+	<message comment="Dean Whitehead blocks a shot" minute="88" period="2" second="39" time="91" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (Out of box, Right footed, Open play)" minute="88" period="2" second="39" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="James Perch scores an OWN GOAL!  (High to the left, 6-yard box, Head, From corner)" minute="84" period="2" second="11" time="87" type="goal scored" type_id="16"/>
+	<message comment="Rory Delap wins a corner (To the left)" minute="83" period="2" second="46" time="86" type="corner" type_id="6"/>
+	<message comment="Andy Carroll wins a corner (To the left)" minute="77" period="2" second="16" time="80" type="corner" type_id="6"/>
+	<message comment="Thomas Sørensen makes a save (Diving)" minute="76" period="2" second="31" time="79" type="save made" type_id="10"/>
+	<message comment="James Perch has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="76" period="2" second="31" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté is substituted off" minute="73" period="2" second="35" time="76" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" minute="73" period="2" second="35" time="76" type="substitution on" type_id="19"/>
+	<message comment="Thomas Sørensen makes a save (Parried into danger)" minute="69" period="2" second="32" time="72" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="69" period="2" second="32" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Kenwyne Jones scores , Assisted by Robert Huth (High to the left, 6-yard box, Big Chance, Head, Set piece)" minute="66" period="2" second="49" time="69" type="goal scored" type_id="16"/>
+	<message comment="Ricardo Fuller is substituted off" minute="66" period="2" second="17" time="69" type="substitution off" type_id="18"/>
+	<message comment="Eidur Gudjohnsen is substituted on" minute="66" period="2" second="17" time="69" type="substitution on" type_id="19"/>
+	<message comment="Kenwyne Jones hits the woodwork (High, 18-yard box, Head, Set piece)" minute="63" period="2" second="1" time="66" type="woodwork hit" type_id="14"/>
+	<message comment="Hatem Ben Arfa is substituted off" minute="61" period="2" second="26" time="64" type="substitution off" type_id="18"/>
+	<message comment="Jonás Gutiérrez is substituted on" minute="61" period="2" second="26" time="64" type="substitution on" type_id="19"/>
+	<message comment="Ricardo Fuller is caught offside" minute="60" period="2" time="63" type="offside" type_id="10000"/>
+	<message comment="Ricardo Fuller misses attempt (18-yard box, Right footed, Open play)" minute="58" period="2" second="33" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones hits the woodwork (To the right, 18-yard box, Head, Open play)" minute="58" period="2" second="31" time="61" type="woodwork hit" type_id="14"/>
+	<message comment="Hatem Ben Arfa is caught offside" minute="57" period="2" time="60" type="offside" type_id="10000"/>
+	<message comment="Glenn Whelan is substituted off" minute="56" period="2" second="18" time="59" type="substitution off" type_id="18"/>
+	<message comment="Rory Delap is substituted on" minute="56" period="2" second="18" time="59" type="substitution on" type_id="19"/>
+	<message comment="Joey Barton wins a corner (To the left)" minute="54" period="2" second="45" time="57" type="corner" type_id="6"/>
+	<message comment="Ryan Shawcross misses attempt (6-yard box, Head, From corner)" minute="53" period="2" second="12" time="56" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters wins a corner (To the right)" minute="52" period="2" second="40" time="55" type="corner" type_id="6"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="50" period="2" second="29" time="53" type="corner" type_id="6"/>
+	<message comment="Salif Diao is substituted off" minute="49" period="2" second="12" time="52" type="substitution off" type_id="18"/>
+	<message comment="Ricardo Fuller is substituted on" minute="49" period="2" second="12" time="52" type="substitution on" type_id="19"/>
+	<message comment="Wayne Routledge is caught offside" minute="48" period="2" time="51" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="0" time="47" type="end" type_id="30"/>
+	<message comment="Glenn Whelan blocks a shot" minute="45" period="1" second="50" time="45" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (18-yard box, Right footed, Open play)" minute="45" period="1" second="50" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Kevin Nolan scores  (Low to the right, 18-yard box, Big Chance, Penalty, Right footed)" minute="42" period="1" second="6" time="42" type="goal scored" type_id="16"/>
+	<message comment="Andy Wilkinson blocks a shot" minute="38" period="1" second="27" time="38" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (18-yard box, Left footed, Open play)" minute="38" period="1" second="27" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Hatem Ben Arfa misses attempt (High, Out of box, Left footed, Free kick)" minute="35" period="1" second="46" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Kenwyne Jones blocks a shot" minute="32" period="1" second="59" time="32" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Free kick)" minute="32" period="1" second="59" time="32" type="attempt blocked" type_id="15"/>
+	<message comment="Kenwyne Jones misses attempt (Out of box, Right footed, Open play)" minute="24" period="1" second="9" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Salif Diao recieves a yellow card" minute="20" period="1" second="10" time="20" type="card received" type_id="17"/>
+	<message comment="Jonathan Walters has shot blocked (Out of box, Right footed, Open play)" minute="19" period="1" second="2" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Fabricio Coloccini blocks a shot" minute="19" period="1" second="2" time="19" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa misses attempt (Out of box, Left footed, Free kick)" minute="18" period="1" second="17" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Matthew Etherington wins a corner (To the left)" minute="14" period="1" second="50" time="14" type="corner" type_id="6"/>
+	<message comment="Andy Carroll misses attempt (To the right, 18-yard box, Head, Open play)" minute="13" period="1" second="35" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Dean Whitehead blocks a shot" minute="9" period="1" second="58" time="9" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Open play)" minute="9" period="1" second="58" time="9" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="9" type="end" type_id="30"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

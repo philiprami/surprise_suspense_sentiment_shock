@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2013-12-08" home_team_name="Everton" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="57" time="95" type="end" type_id="30"/>
+	<message comment="Olivier Giroud hits the woodwork (High, Out of box, Left footed, Open play)" minute="93" period="2" second="8" time="95" type="woodwork hit" type_id="14"/>
+	<message comment="Ross Barkley is substituted off" minute="92" period="2" second="12" time="94" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" minute="92" period="2" second="12" time="94" type="substitution on" type_id="19"/>
+	<message comment="Romelu Lukaku misses attempt (High, Out of box, Left footed, Open play)" minute="91" period="2" second="34" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Theo Walcott wins a corner (To the left)" minute="89" period="2" second="8" time="91" type="corner" type_id="6"/>
+	<message comment="Gerard Deulofeu recieves a yellow card" minute="88" period="2" second="17" time="90" type="card received" type_id="17"/>
+	<message comment="GOAL! Gerard Deulofeu scores , Assisted by Bryan Oviedo (High to the left, 18-yard box, Right footed, Open play)" minute="83" period="2" second="21" time="85" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Mesut Özil scores , Assisted by Theo Walcott (High to the left, 6-yard box, Big Chance, Right footed, Open play)" minute="79" period="2" second="18" time="81" type="goal scored" type_id="16"/>
+	<message comment="Kevin Mirallas is substituted off" minute="78" period="2" second="54" time="80" type="substitution off" type_id="18"/>
+	<message comment="Gerard Deulofeu is substituted on" minute="78" period="2" second="54" time="80" type="substitution on" type_id="19"/>
+	<message comment="Sylvain Distin misses attempt (High to the left, 18-yard box, Head, Open play)" minute="78" period="2" second="25" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas wins a corner (To the right)" minute="77" period="2" second="53" time="79" type="corner" type_id="6"/>
+	<message comment="Wojciech Szczesny makes a save (Diving)" minute="77" period="2" second="51" time="79" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="77" period="2" second="51" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard recieves a yellow card" minute="76" period="2" second="41" time="78" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas is caught offside" minute="75" period="2" time="77" type="offside" type_id="10000"/>
+	<message comment="Olivier Giroud has shot blocked (18-yard box, Left footed, Open play)" minute="72" period="2" second="18" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman blocks a shot" minute="72" period="2" second="18" time="74" type="save made" type_id="10"/>
+	<message comment="Mathieu Flamini misses attempt (18-yard box, Right footed, Open play)" minute="71" period="2" second="4" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Steven Pienaar is substituted off" minute="70" period="2" second="29" time="72" type="substitution off" type_id="18"/>
+	<message comment="Leon Osman is substituted on" minute="70" period="2" second="29" time="72" type="substitution on" type_id="19"/>
+	<message comment="Olivier Giroud misses attempt (High to the right, 18-yard box, Head, Open play)" minute="68" period="2" second="8" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Jack Wilshere is substituted off" minute="67" period="2" second="47" time="69" type="substitution off" type_id="18"/>
+	<message comment="Tomas Rosicky is substituted on" minute="67" period="2" second="47" time="69" type="substitution on" type_id="19"/>
+	<message comment="Aaron Ramsey is substituted off" minute="67" period="2" second="30" time="69" type="substitution off" type_id="18"/>
+	<message comment="Mathieu Flamini is substituted on" minute="67" period="2" second="30" time="69" type="substitution on" type_id="19"/>
+	<message comment="Santi Cazorla is substituted off" minute="67" period="2" second="20" time="69" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="67" period="2" second="20" time="69" type="substitution on" type_id="19"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Standing)" minute="66" period="2" second="35" time="68" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="66" period="2" second="35" time="68" type="attempt blocked" type_id="15"/>
+	<message comment="James McCarthy recieves a yellow card" minute="60" period="2" second="25" time="62" type="card received" type_id="17"/>
+	<message comment="Ross Barkley misses attempt (To the right, Out of box, Left footed, Open play)" minute="56" period="2" second="58" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Aaron Ramsey wins a corner (To the right)" minute="55" period="2" second="57" time="57" type="corner" type_id="6"/>
+	<message comment="Aaron Ramsey has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="55" period="2" second="55" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Parried safe, Diving)" minute="55" period="2" second="55" time="57" type="save made" type_id="10"/>
+	<message comment="Wojciech Szczesny makes a save (Parried safe, Diving)" minute="53" period="2" second="56" time="55" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="53" period="2" second="56" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Santi Cazorla has attempt saved (Low to the left, 18-yard box, Head, Open play)" minute="50" period="2" second="28" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving)" minute="50" period="2" second="28" time="52" type="save made" type_id="10"/>
+	<message comment="Kieran Gibbs misses attempt (To the left, Out of box, Left footed, Open play)" minute="47" period="2" second="58" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Santi Cazorla wins a corner (To the right)" minute="47" period="2" second="23" time="49" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Aaron Ramsey has attempt saved (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="44" period="1" second="25" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried into danger)" minute="44" period="1" second="25" time="44" type="save made" type_id="10"/>
+	<message comment="Gareth Barry recieves a yellow card" minute="42" period="1" second="32" time="42" type="card received" type_id="17"/>
+	<message comment="Olivier Giroud has attempt saved (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="42" period="1" second="19" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" minute="42" period="1" second="19" time="42" type="save made" type_id="10"/>
+	<message comment="Olivier Giroud is caught offside" minute="41" period="1" time="41" type="offside" type_id="10000"/>
+	<message comment="Santi Cazorla has shot blocked (18-yard box, Left footed, Open play)" minute="40" period="1" second="56" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Sylvain Distin blocks a shot" minute="40" period="1" second="56" time="40" type="save made" type_id="10"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="30" period="1" second="55" time="30" type="save made" type_id="10"/>
+	<message comment="Romelu Lukaku has shot blocked (18-yard box, Left footed, Open play)" minute="30" period="1" second="55" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Séamus Coleman misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="24" period="1" second="54" time="24" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="21" period="1" second="27" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Sylvain Distin misses attempt (To the right, 18-yard box, Left footed, From corner)" minute="11" period="1" second="17" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Ross Barkley wins a corner (To the right)" minute="10" period="1" second="49" time="10" type="corner" type_id="6"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="10" period="1" second="47" time="10" type="save made" type_id="10"/>
+	<message comment="Ross Barkley has shot blocked (Out of box, Right footed, Open play)" minute="10" period="1" second="47" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Mesut Özil is caught offside" minute="4" period="1" time="4" type="offside" type_id="10000"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

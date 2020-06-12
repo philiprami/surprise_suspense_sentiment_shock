@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2013-04-17" home_team_name="Chelsea" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="0" time="96" type="end" type_id="30"/>
+	<message comment="Hugo Rodallega has shot blocked (Out of box, Right footed, Free kick)" minute="91" period="2" second="31" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="Demba Ba misses attempt (High to the right, Out of box, Right footed, Open play)" minute="86" period="2" second="25" time="88" type="attempt missed" type_id="13"/>
+	<message comment="Oscar wins a corner (To the right)" minute="82" period="2" second="35" time="84" type="corner" type_id="6"/>
+	<message comment="Mladen Petric is substituted off" minute="81" period="2" second="20" time="83" type="substitution off" type_id="18"/>
+	<message comment="Kerim Frei is substituted on" minute="81" period="2" second="20" time="83" type="substitution on" type_id="19"/>
+	<message comment="Juan Mata is substituted off" minute="80" period="2" second="21" time="82" type="substitution off" type_id="18"/>
+	<message comment="Demba Ba is substituted on" minute="80" period="2" second="21" time="82" type="substitution on" type_id="19"/>
+	<message comment="Hugo Rodallega wins a corner (To the left)" minute="79" period="2" second="48" time="81" type="corner" type_id="6"/>
+	<message comment="Giorgos Karagounis is substituted off" minute="76" period="2" second="11" time="78" type="substitution off" type_id="18"/>
+	<message comment="Emmanuel Frimpong is substituted on" minute="76" period="2" second="11" time="78" type="substitution on" type_id="19"/>
+	<message comment="David Luiz wins a corner (To the right)" minute="75" period="2" second="15" time="77" type="corner" type_id="6"/>
+	<message comment="Ramires is substituted off" minute="75" period="2" second="1" time="77" type="substitution off" type_id="18"/>
+	<message comment="John Obi Mikel is substituted on" minute="75" period="2" second="1" time="77" type="substitution on" type_id="19"/>
+	<message comment="GOAL! John Terry scores , Assisted by Fernando Torres (High to the centre, 6-yard box, Big Chance, Head, From corner)" minute="70" period="2" second="51" time="72" type="goal scored" type_id="16"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Key pass, Head, From corner)" minute="70" period="2" second="50" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses wins a corner (To the right)" minute="70" period="2" second="28" time="72" type="corner" type_id="6"/>
+	<message comment="Victor Moses has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="70" period="2" second="24" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Diving)" minute="70" period="2" second="24" time="72" type="save made" type_id="10"/>
+	<message comment="Philippe Senderos has shot blocked (6-yard box, Head, From corner)" minute="69" period="2" second="12" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Mladen Petric is caught offside" minute="69" period="2" time="71" type="offside" type_id="10000"/>
+	<message comment="Giorgos Karagounis wins a corner (To the left)" minute="68" period="2" second="55" time="70" type="corner" type_id="6"/>
+	<message comment="Frank Lampard blocks a shot" minute="68" period="2" second="51" time="70" type="save made" type_id="10"/>
+	<message comment="Giorgos Karagounis has shot blocked (Out of box, Right footed, Free kick)" minute="68" period="2" second="51" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Oscar is substituted on" minute="68" period="2" second="27" time="70" type="substitution on" type_id="19"/>
+	<message comment="Eden Hazard is substituted off" minute="68" period="2" second="27" time="70" type="substitution off" type_id="18"/>
+	<message comment="John Arne Riise is substituted off" minute="66" period="2" second="37" time="68" type="substitution off" type_id="18"/>
+	<message comment="Hugo Rodallega is substituted on" minute="66" period="2" second="37" time="68" type="substitution on" type_id="19"/>
+	<message comment="Sascha Riether wins a corner (To the right)" minute="66" period="2" second="17" time="68" type="corner" type_id="6"/>
+	<message comment="Frank Lampard has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="64" period="2" second="34" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="64" period="2" second="34" time="66" type="save made" type_id="10"/>
+	<message comment="Fernando Torres has shot blocked (18-yard box, Right footed, Open play)" minute="64" period="2" second="33" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="64" period="2" second="33" time="66" type="save made" type_id="10"/>
+	<message comment="Frank Lampard misses attempt (To the left, Out of box, Right footed, Open play)" minute="64" period="2" second="31" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Mladen Petric misses attempt (To the right, Out of box, Right footed, Open play)" minute="63" period="2" second="10" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is caught offside" minute="56" period="2" time="58" type="offside" type_id="10000"/>
+	<message comment="Sascha Riether wins a corner (To the left)" minute="51" period="2" second="42" time="53" type="corner" type_id="6"/>
+	<message comment="Philippe Senderos recieves a yellow card" minute="46" period="2" second="24" time="48" type="card received" type_id="17"/>
+	<message comment="Mladen Petric is caught offside" minute="46" period="2" time="48" type="offside" type_id="10000"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="12" time="46" type="end" type_id="30"/>
+	<message comment="Bryan Ruiz recieves a yellow card" minute="43" period="1" second="42" time="43" type="card received" type_id="17"/>
+	<message comment="GOAL! John Terry scores , Assisted by Juan Mata (Low to the left, 18-yard box, Head, Open play)" minute="42" period="1" second="5" time="42" type="goal scored" type_id="16"/>
+	<message comment="Frank Lampard wins a corner (To the right)" minute="41" period="1" second="32" time="41" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Standing, Parried safe, Other body part)" minute="41" period="1" second="28" time="41" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has attempt saved (Low to the centre, Out of box, Right footed, Free kick)" minute="41" period="1" second="28" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Dimitar Berbatov misses attempt (Out of box, Right footed, Open play)" minute="40" period="1" second="26" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Torres misses attempt (High, 18-yard box, Right footed, Fast break)" minute="36" period="1" second="8" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Urby Emanuelson wins a corner (To the left)" minute="35" period="1" second="17" time="35" type="corner" type_id="6"/>
+	<message comment="Urby Emanuelson has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="35" period="1" second="15" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save (Parried safe, Diving)" minute="35" period="1" second="15" time="35" type="save made" type_id="10"/>
+	<message comment="Brede Hangeland blocks a shot" minute="33" period="1" second="24" time="33" type="save made" type_id="10"/>
+	<message comment="Ramires has shot blocked (Out of box, Right footed, Open play)" minute="33" period="1" second="24" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Moses misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="31" period="1" second="9" time="31" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! David Luiz scores , Assisted by Eden Hazard (High to the left, Out of box, Right footed, Open play)" minute="29" period="1" second="35" time="29" type="goal scored" type_id="16"/>
+	<message comment="John Arne Riise has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="28" period="1" second="1" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Petr Cech makes a save" minute="28" period="1" second="1" time="28" type="save made" type_id="10"/>
+	<message comment="Frank Lampard has shot blocked (Out of box, Right footed, Open play)" minute="24" period="1" second="28" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Bryan Ruiz blocks a shot" minute="24" period="1" second="28" time="24" type="save made" type_id="10"/>
+	<message comment="Giorgos Karagounis misses attempt (Out of box, Right footed, Open play)" minute="23" period="1" second="26" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov wins a corner (To the left)" minute="22" period="1" second="32" time="22" type="corner" type_id="6"/>
+	<message comment="Dimitar Berbatov has shot blocked (Out of box, Right footed, Open play)" minute="22" period="1" second="30" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="John Terry blocks a shot" minute="22" period="1" second="30" time="22" type="save made" type_id="10"/>
+	<message comment="Branislav Ivanovic recieves a yellow card" minute="17" period="1" second="46" time="17" type="card received" type_id="17"/>
+	<message comment="John Terry misses attempt (To the left, 18-yard box, Head, From corner)" minute="16" period="1" second="26" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Branislav Ivanovic wins a corner (To the right)" minute="16" period="1" second="6" time="16" type="corner" type_id="6"/>
+	<message comment="Frank Lampard has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="8" period="1" second="14" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save (Collected)" minute="8" period="1" second="14" time="8" type="save made" type_id="10"/>
+	<message comment="Ramires blocks a shot" minute="7" period="1" second="5" time="7" type="save made" type_id="10"/>
+	<message comment="Dimitar Berbatov has shot blocked (Out of box, Right footed, Throw-in)" minute="7" period="1" second="5" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="David Luiz has shot blocked (Out of box, Right footed, Open play)" minute="5" period="1" second="55" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="John Arne Riise blocks a shot" minute="5" period="1" second="55" time="5" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz misses attempt (High to the left, 6-yard box, Big Chance, Left footed, Open play)" minute="2" period="1" second="22" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

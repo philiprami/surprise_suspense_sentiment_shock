@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Everton" competition="English Premier League" game_date="2012-12-09" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="15" time="97" type="end" type_id="30"/>
+	<message comment="John Heitinga is substituted on" minute="93" period="2" second="42" time="95" type="substitution on" type_id="19"/>
+	<message comment="Nikica Jelavic is substituted off" minute="93" period="2" second="41" time="95" type="substitution off" type_id="18"/>
+	<message comment="Nikica Jelavic recieves a yellow card" minute="92" period="2" second="20" time="94" type="card received" type_id="17"/>
+	<message comment="GOAL! Nikica Jelavic scores , Assisted by Apostolos Vellios (Low to the left, 18-yard box, Big Chance, Right footed, Open play)" minute="91" period="2" second="24" time="93" type="goal scored" type_id="16"/>
+	<message comment="Apostolos Vellios misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" minute="91" period="2" second="22" time="93" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Steven Pienaar scores , Assisted by Séamus Coleman (Low to the right, 18-yard box, Head, Open play)" minute="89" period="2" second="54" time="91" type="goal scored" type_id="16"/>
+	<message comment="Jermain Defoe is substituted off" minute="84" period="2" second="46" time="86" type="substitution off" type_id="18"/>
+	<message comment="Iago Falque is substituted on" minute="84" period="2" second="46" time="86" type="substitution on" type_id="19"/>
+	<message comment="Gylfi Sigurdsson hits the woodwork (High, Out of box, Right footed, Open play)" minute="84" period="2" second="16" time="86" type="woodwork hit" type_id="14"/>
+	<message comment="Nikica Jelavic is caught offside" minute="83" period="2" time="85" type="offside" type_id="10000"/>
+	<message comment="Leon Osman is substituted off" minute="80" period="2" second="57" time="82" type="substitution off" type_id="18"/>
+	<message comment="Apostolos Vellios is substituted on" minute="80" period="2" second="57" time="82" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé is substituted off" minute="76" period="2" second="27" time="78" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="76" period="2" second="27" time="78" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Clint Dempsey scores , Assisted by Tom Huddlestone (Low to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="2" time="77" type="goal scored" type_id="16"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe)" minute="73" period="2" second="40" time="75" type="save made" type_id="10"/>
+	<message comment="Leon Osman has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="73" period="2" second="40" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini has shot blocked (Out of box, Right footed, Open play)" minute="72" period="2" second="29" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="72" period="2" second="29" time="74" type="save made" type_id="10"/>
+	<message comment="Aaron Lennon is substituted off" minute="71" period="2" second="8" time="73" type="substitution off" type_id="18"/>
+	<message comment="Tom Huddlestone is substituted on" minute="71" period="2" second="8" time="73" type="substitution on" type_id="19"/>
+	<message comment="Leon Osman recieves a yellow card" minute="69" period="2" second="23" time="71" type="card received" type_id="17"/>
+	<message comment="Leon Osman misses attempt (High, 18-yard box, Right footed, Open play)" minute="65" period="2" second="58" time="67" type="attempt missed" type_id="13"/>
+	<message comment="Phil Jagielka blocks a shot" minute="64" period="2" second="9" time="66" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has shot blocked (18-yard box, Left footed, Set piece)" minute="64" period="2" second="9" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Marouane Fellaini has attempt saved (Low to the centre, 18-yard box, Head, Set piece)" minute="61" period="2" second="51" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Hugo Lloris makes a save (Standing)" minute="61" period="2" second="51" time="63" type="save made" type_id="10"/>
+	<message comment="Tim Howard makes a save (Standing)" minute="56" period="2" second="22" time="58" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has attempt saved (Low to the centre, 18-yard box, Head, From corner)" minute="56" period="2" second="22" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon wins a corner (To the right)" minute="55" period="2" second="51" time="57" type="corner" type_id="6"/>
+	<message comment="Jan Vertonghen wins a corner (To the right)" minute="55" period="2" second="8" time="57" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Diving, Parried safe)" minute="55" period="2" second="7" time="57" type="save made" type_id="10"/>
+	<message comment="Jan Vertonghen has attempt saved (High to the centre, Out of box, Left footed, Free kick)" minute="55" period="2" second="7" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas wins a corner (To the left)" minute="51" period="2" second="48" time="53" type="corner" type_id="6"/>
+	<message comment="Steven Naismith blocks a shot" minute="51" period="2" second="45" time="53" type="save made" type_id="10"/>
+	<message comment="William Gallas has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="45" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Sandro wins a corner (To the left)" minute="51" period="2" second="5" time="53" type="corner" type_id="6"/>
+	<message comment="Sylvain Distin blocks a shot" minute="51" period="2" second="2" time="53" type="save made" type_id="10"/>
+	<message comment="Sandro has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="2" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Pienaar is caught offside" minute="48" period="2" time="50" type="offside" type_id="10000"/>
+	<message comment="Steven Naismith misses attempt (To the right, 18-yard box, Big Chance, Right footed, Set piece)" minute="47" period="2" second="16" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines misses attempt (To the right, Out of box, Key pass, Left footed, Open play)" minute="47" period="2" second="15" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Leighton Baines has shot blocked (Out of box, Left footed, Free kick)" minute="47" period="2" second="13" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Clint Dempsey blocks a shot" minute="47" period="2" second="13" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="Kevin Mirallas is substituted off" minute="45" period="2" second="0" time="47" type="substitution off" type_id="18"/>
+	<message comment="Steven Naismith is substituted on" minute="45" period="2" second="0" time="47" type="substitution on" type_id="19"/>
+	<message comment="First half ends" minute="46" period="1" second="0" time="46" type="end" type_id="30"/>
+	<message comment="Leon Osman wins a corner (To the left)" minute="44" period="1" second="57" time="44" type="corner" type_id="6"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Right footed, Open play)" minute="44" period="1" second="54" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Caulker blocks a shot" minute="44" period="1" second="54" time="44" type="save made" type_id="10"/>
+	<message comment="Kevin Mirallas has shot blocked (18-yard box, Left footed, Open play)" minute="44" period="1" second="23" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Kyle Walker blocks a shot" minute="44" period="1" second="23" time="44" type="save made" type_id="10"/>
+	<message comment="Steven Pienaar has shot blocked (18-yard box, Right footed, Open play)" minute="44" period="1" second="10" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="William Gallas blocks a shot" minute="44" period="1" second="10" time="44" type="save made" type_id="10"/>
+	<message comment="Leighton Baines recieves a yellow card" minute="41" period="1" second="37" time="41" type="card received" type_id="17"/>
+	<message comment="Leon Osman blocks a shot" minute="39" period="1" second="28" time="39" type="save made" type_id="10"/>
+	<message comment="Sandro has shot blocked (Out of box, Right footed, Open play)" minute="39" period="1" second="28" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="38" period="1" second="37" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Jan Vertonghen recieves a yellow card" minute="36" period="1" second="51" time="36" type="card received" type_id="17"/>
+	<message comment="Jermain Defoe recieves a yellow card" minute="34" period="1" second="17" time="34" type="card received" type_id="17"/>
+	<message comment="Kevin Mirallas has shot blocked (Out of box, Right footed, Open play)" minute="30" period="1" second="59" time="30" type="attempt blocked" type_id="15"/>
+	<message comment="Jan Vertonghen blocks a shot" minute="30" period="1" second="59" time="30" type="save made" type_id="10"/>
+	<message comment="Marouane Fellaini misses attempt (High to the right, 18-yard box, Head, From corner)" minute="28" period="1" second="50" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman wins a corner (To the right)" minute="28" period="1" second="27" time="28" type="corner" type_id="6"/>
+	<message comment="Steven Pienaar misses attempt (To the left, Out of box, Right footed, Open play)" minute="25" period="1" second="42" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Séamus Coleman misses attempt (18-yard box, Right footed, Open play)" minute="23" period="1" second="42" time="23" type="attempt missed" type_id="13"/>
+	<message comment="Sandro wins a corner (To the right)" minute="19" period="1" second="51" time="19" type="corner" type_id="6"/>
+	<message comment="Marouane Fellaini blocks a shot" minute="19" period="1" second="50" time="19" type="save made" type_id="10"/>
+	<message comment="Sandro has shot blocked (18-yard box, Right footed, Open play)" minute="19" period="1" second="50" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Leon Osman blocks a shot" minute="19" period="1" second="36" time="19" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Right footed, Open play)" minute="19" period="1" second="36" time="19" type="attempt blocked" type_id="15"/>
+	<message comment="Darron Gibson misses attempt (To the left, Out of box, Right footed, From corner)" minute="18" period="1" second="43" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Mirallas wins a corner (To the left)" minute="17" period="1" second="56" time="17" type="corner" type_id="6"/>
+	<message comment="Nikica Jelavic is caught offside" minute="17" period="1" time="17" type="offside" type_id="10000"/>
+	<message comment="Tim Howard makes a save (Collected, Standing)" minute="15" period="1" second="8" time="15" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey has attempt saved (High to the left, Out of box, Right footed, Free kick)" minute="15" period="1" second="8" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Kevin Mirallas is caught offside" minute="12" period="1" time="12" type="offside" type_id="10000"/>
+	<message comment="Steven Pienaar wins a corner (To the right)" minute="8" period="1" second="30" time="8" type="corner" type_id="6"/>
+	<message comment="Tim Howard makes a save (Collected)" minute="7" period="1" second="15" time="7" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="7" period="1" second="15" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Sandro blocks a shot" minute="1" period="1" second="11" time="1" type="save made" type_id="10"/>
+	<message comment="Leon Osman has shot blocked (18-yard box, Right footed, Open play)" minute="1" period="1" second="11" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

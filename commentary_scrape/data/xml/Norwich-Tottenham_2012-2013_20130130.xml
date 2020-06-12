@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Norwich" competition="English Premier League" game_date="2013-01-30" home_team_name="Tottenham" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="28" time="96" type="end" type_id="30"/>
+	<message comment="Robert Snodgrass is caught offside" minute="92" period="2" time="95" type="offside" type_id="10000"/>
+	<message comment="Bradley Johnson blocks a shot" minute="89" period="2" second="40" time="92" type="save made" type_id="10"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the left)" minute="89" period="2" second="38" time="92" type="corner" type_id="6"/>
+	<message comment="Benoit Assou-Ekotto has shot blocked (Out of box, Left footed, Open play)" minute="89" period="2" second="37" time="92" type="attempt blocked" type_id="15"/>
+	<message comment="Michael Turner blocks a shot" minute="88" period="2" second="54" time="91" type="save made" type_id="10"/>
+	<message comment="Kyle Walker has shot blocked (18-yard box, Right footed, From corner)" minute="88" period="2" second="52" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale has shot blocked (6-yard box, Head, From corner)" minute="88" period="2" second="44" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastien Bassong blocks a shot" minute="88" period="2" second="44" time="91" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson wins a corner (To the left)" minute="88" period="2" second="18" time="91" type="corner" type_id="6"/>
+	<message comment="Mark Bunn makes a save (Parried safe, Diving)" minute="88" period="2" second="17" time="91" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="88" period="2" second="17" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Aaron Lennon is substituted off" minute="86" period="2" second="37" time="89" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" minute="86" period="2" second="37" time="89" type="substitution on" type_id="19"/>
+	<message comment="Mousa Dembélé wins a corner (To the left)" minute="85" period="2" second="44" time="88" type="corner" type_id="6"/>
+	<message comment="Russell Martin blocks a shot" minute="85" period="2" second="26" time="88" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Right footed, Open play)" minute="85" period="2" second="24" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe misses attempt (18-yard box, Right footed, Open play)" minute="81" period="2" second="49" time="84" type="attempt missed" type_id="13"/>
+	<message comment="Wes Hoolahan is substituted off" minute="80" period="2" second="23" time="83" type="substitution off" type_id="18"/>
+	<message comment="Jonny Howson is substituted on" minute="80" period="2" second="23" time="83" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Gareth Bale scores , Assisted by Jermain Defoe (Low to the left, 18-yard box, Left footed, Fast break)" minute="79" period="2" second="23" time="82" type="goal scored" type_id="16"/>
+	<message comment="Lewis Holtby recieves a yellow card" minute="78" period="2" second="12" time="81" type="card received" type_id="17"/>
+	<message comment="Bradley Johnson blocks a shot" minute="76" period="2" second="4" time="79" type="save made" type_id="10"/>
+	<message comment="Mousa Dembélé has shot blocked (Out of box, Left footed, Open play)" minute="76" period="2" second="3" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Hoolahan recieves a yellow card" minute="74" period="2" second="59" time="77" type="card received" type_id="17"/>
+	<message comment="Grant Holt wins a corner (To the left)" minute="73" period="2" second="58" time="76" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey is substituted off" minute="70" period="2" second="50" time="73" type="substitution off" type_id="18"/>
+	<message comment="Lewis Holtby is substituted on" minute="70" period="2" second="50" time="73" type="substitution on" type_id="19"/>
+	<message comment="Robert Snodgrass recieves a yellow card" minute="70" period="2" second="35" time="73" type="card received" type_id="17"/>
+	<message comment="Kyle Walker wins a corner (To the left)" minute="69" period="2" second="28" time="72" type="corner" type_id="6"/>
+	<message comment="Kyle Walker wins a corner (To the left)" minute="68" period="2" second="50" time="71" type="corner" type_id="6"/>
+	<message comment="Anthony Pilkington misses attempt (Out of box, Right footed, Open play)" minute="65" period="2" second="23" time="68" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="62" period="2" second="16" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Grant Holt recieves a yellow card" minute="59" period="2" second="15" time="62" type="card received" type_id="17"/>
+	<message comment="Grant Holt is caught offside" minute="56" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="Jan Vertonghen blocks a shot" minute="54" period="2" second="7" time="57" type="save made" type_id="10"/>
+	<message comment="Anthony Pilkington has shot blocked (Out of box, Left footed, Open play)" minute="54" period="2" second="5" time="57" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Bunn makes a save (Diving)" minute="50" period="2" second="53" time="53" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="50" period="2" second="53" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Russell Martin misses attempt (Out of box, Right footed, Open play)" minute="46" period="2" second="49" time="49" type="attempt missed" type_id="13"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="8" time="47" type="end" type_id="30"/>
+	<message comment="Mark Bunn makes a save (Diving, Parried safe)" minute="41" period="1" second="33" time="41" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="41" period="1" second="33" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Wes Hoolahan misses attempt (High to the left, Out of box, Left footed, Open play)" minute="40" period="1" second="57" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Javier Garrido recieves a yellow card" minute="35" period="1" second="41" time="35" type="card received" type_id="17"/>
+	<message comment="GOAL! Wes Hoolahan scores , Assisted by Anthony Pilkington (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="31" period="1" second="55" time="31" type="goal scored" type_id="16"/>
+	<message comment="Grant Holt wins a corner (To the right)" minute="29" period="1" second="8" time="29" type="corner" type_id="6"/>
+	<message comment="Hugo Lloris makes a save (Diving, Parried safe, From shot off target)" minute="29" period="1" second="7" time="29" type="save made" type_id="10"/>
+	<message comment="Grant Holt misses attempt (18-yard box, Head, Open play)" minute="29" period="1" second="5" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Michael Turner blocks a shot" minute="28" period="1" second="8" time="28" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="28" period="1" second="8" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Snodgrass is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Grant Holt misses attempt (High to the right, Out of box, Right footed, Open play)" minute="19" period="1" second="51" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Alexander Tettey wins a corner (To the right)" minute="10" period="1" second="36" time="10" type="corner" type_id="6"/>
+	<message comment="Gareth Bale misses attempt (18-yard box, Head, From corner)" minute="7" period="1" second="54" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Benoit Assou-Ekotto wins a corner (To the right)" minute="7" period="1" second="26" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Hugo Lloris makes a save (Standing, From shot off target)" minute="3" period="1" second="29" time="3" type="save made" type_id="10"/>
+	<message comment="Robert Snodgrass misses attempt (Out of box, Left footed, Open play)" minute="3" period="1" second="27" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Wes Hoolahan misses attempt (To the right, Out of box, Left footed, Set piece)" minute="2" period="1" second="11" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

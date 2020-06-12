@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Swansea" competition="English Premier League" game_date="2014-01-19 13:30" game_id_2="27129702" game_id_4="112440182" home_team_name="Tottenham" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2014-01-19 15:05:12" minute="95" period="2" second="0" team="Tottenham" time="99" type="end" type_id="30"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2014-01-19 14:55:12" minute="85" period="2" team="Swansea" time="89" type="offside" type_id="10000"/>
+	<message comment="Christian Eriksen has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-19 14:54:39" minute="84" period="2" second="27" team="Swansea" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores blocks a shot" last_modified="2014-01-19 14:54:39" minute="84" period="2" second="27" team="Tottenham" time="88" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-19 14:54:16" minute="84" period="2" second="4" team="Swansea" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2014-01-19 14:54:16" minute="84" period="2" second="4" team="Tottenham" time="88" type="save made" type_id="10"/>
+	<message comment="Gylfi Sigurdsson has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-19 14:51:53" minute="81" period="2" second="41" team="Swansea" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Standing, Collected)" last_modified="2014-01-19 14:51:53" minute="81" period="2" second="41" team="Tottenham" time="85" type="save made" type_id="10"/>
+	<message comment="Danny Rose recieves a yellow card" last_modified="2014-01-19 14:49:50" minute="79" period="2" second="38" team="Swansea" time="83" type="card received" type_id="17"/>
+	<message comment="Aaron Lennon is substituted off" last_modified="2014-01-19 14:48:45" minute="78" period="2" second="33" team="Swansea" time="82" type="substitution off" type_id="18"/>
+	<message comment="Kyle Naughton is substituted on" last_modified="2014-01-19 14:48:45" minute="78" period="2" second="33" team="Swansea" time="82" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Wilfried Bony scores , Assisted by Roland Lamah (Low to the right, 18-yard box, Right footed, Open play)" last_modified="2014-01-19 14:47:47" minute="77" period="2" second="35" team="Tottenham" time="81" type="goal scored" type_id="16"/>
+	<message comment="Wilfried Bony misses attempt (To the left, 18-yard box, Head, Open play)" last_modified="2014-01-19 14:43:24" minute="73" period="2" second="12" team="Tottenham" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor is caught offside" last_modified="2014-01-19 14:42:12" minute="72" period="2" team="Swansea" time="76" type="offside" type_id="10000"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Danny Rose (Low to the right, 18-yard box, Big Chance, Right footed, Fast break)" last_modified="2014-01-19 14:40:33" minute="70" period="2" second="21" team="Swansea" time="74" type="goal scored" type_id="16"/>
+	<message comment="Mousa Dembélé misses attempt (18-yard box, Big Chance, Left footed, Open play)" last_modified="2014-01-19 14:39:26" minute="69" period="2" second="14" team="Swansea" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Wilfried Bony recieves a yellow card" last_modified="2014-01-19 14:37:34" minute="67" period="2" second="22" team="Tottenham" time="71" type="card received" type_id="17"/>
+	<message comment="Nacer Chadli is substituted off" last_modified="2014-01-19 14:36:41" minute="66" period="2" second="29" team="Swansea" time="70" type="substitution off" type_id="18"/>
+	<message comment="Gylfi Sigurdsson is substituted on" last_modified="2014-01-19 14:36:41" minute="66" period="2" second="29" team="Swansea" time="70" type="substitution on" type_id="19"/>
+	<message comment="Chico Flores misses attempt (18-yard box, Head, From corner)" last_modified="2014-01-19 14:36:07" minute="65" period="2" second="55" team="Tottenham" time="69" type="attempt missed" type_id="13"/>
+	<message comment="Roland Lamah wins a corner (To the left)" last_modified="2014-01-19 14:35:43" minute="65" period="2" second="31" team="Tottenham" time="69" type="corner" type_id="6"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" last_modified="2014-01-19 14:34:35" minute="64" period="2" second="23" team="Tottenham" time="68" type="corner" type_id="6"/>
+	<message comment="Ben Davies wins a corner (To the left)" last_modified="2014-01-19 14:33:33" minute="63" period="2" second="21" team="Tottenham" time="67" type="corner" type_id="6"/>
+	<message comment="Aaron Lennon has shot blocked (Out of box, Left footed, Open play)" last_modified="2014-01-19 14:31:32" minute="61" period="2" second="20" team="Swansea" time="65" type="attempt blocked" type_id="15"/>
+	<message comment="Ashley Williams blocks a shot" last_modified="2014-01-19 14:31:32" minute="61" period="2" second="20" team="Tottenham" time="65" type="save made" type_id="10"/>
+	<message comment="Wayne Routledge is caught offside" last_modified="2014-01-19 14:31:12" minute="61" period="2" team="Tottenham" time="65" type="offside" type_id="10000"/>
+	<message comment="Hugo Lloris makes a save (Standing, Parried into danger)" last_modified="2014-01-19 14:29:52" minute="59" period="2" second="40" team="Swansea" time="63" type="save made" type_id="10"/>
+	<message comment="Wilfried Bony has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2014-01-19 14:29:52" minute="59" period="2" second="40" team="Tottenham" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Chico Flores scores an OWN GOAL!  (Low to the centre, 6-yard box, Left footed, Open play)" last_modified="2014-01-19 14:23:08" minute="52" period="2" second="56" team="Tottenham" time="56" type="goal scored" type_id="16"/>
+	<message comment="Jonjo Shelvey is substituted off" last_modified="2014-01-19 14:20:27" minute="50" period="2" second="15" team="Tottenham" time="54" type="substitution off" type_id="18"/>
+	<message comment="Roland Lamah is substituted on" last_modified="2014-01-19 14:20:27" minute="50" period="2" second="15" team="Tottenham" time="54" type="substitution on" type_id="19"/>
+	<message comment="Jordi Amat recieves a yellow card" last_modified="2014-01-19 14:18:43" minute="48" period="2" second="31" team="Tottenham" time="52" type="card received" type_id="17"/>
+	<message comment="Emmanuel Adebayor wins a corner (To the right)" last_modified="2014-01-19 14:16:43" minute="46" period="2" second="31" team="Swansea" time="50" type="corner" type_id="6"/>
+	<message comment="Second half begins!" last_modified="2014-01-19 14:15:12" minute="45" period="2" second="0" team="Tottenham" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2014-01-19 14:18:14" minute="48" period="1" second="2" team="Tottenham" time="48" type="end" type_id="30"/>
+	<message comment="Angel Rangel wins a corner (To the left)" last_modified="2014-01-19 14:16:43" minute="46" period="1" second="31" team="Tottenham" time="46" type="corner" type_id="6"/>
+	<message comment="Christian Eriksen has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" last_modified="2014-01-19 14:15:51" minute="45" period="1" second="39" team="Swansea" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Collected)" last_modified="2014-01-19 14:15:51" minute="45" period="1" second="39" team="Tottenham" time="45" type="save made" type_id="10"/>
+	<message comment="Jordi Amat misses attempt (To the right, 18-yard box, Right footed, From corner)" last_modified="2014-01-19 14:13:05" minute="42" period="1" second="53" team="Tottenham" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge wins a corner (To the right)" last_modified="2014-01-19 14:12:46" minute="42" period="1" second="34" team="Tottenham" time="42" type="corner" type_id="6"/>
+	<message comment="Danny Rose misses attempt (High, Out of box, Left footed, Open play)" last_modified="2014-01-19 14:09:43" minute="39" period="1" second="31" team="Swansea" time="39" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" last_modified="2014-01-19 14:09:09" minute="38" period="1" second="57" team="Swansea" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Gerhard Tremmel makes a save (Diving, Parried into danger)" last_modified="2014-01-19 14:09:09" minute="38" period="1" second="57" team="Tottenham" time="38" type="save made" type_id="10"/>
+	<message comment="Danny Rose wins a corner (To the left)" last_modified="2014-01-19 14:08:19" minute="38" period="1" second="7" team="Swansea" time="38" type="corner" type_id="6"/>
+	<message comment="Nacer Chadli misses attempt (High, 18-yard box, Big Chance, Right footed, Open play)" last_modified="2014-01-19 14:06:06" minute="35" period="1" second="54" team="Swansea" time="35" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Christian Eriksen (Low to the left, 6-yard box, Big Chance, Head, Open play)" last_modified="2014-01-19 14:04:36" minute="34" period="1" second="24" team="Swansea" time="34" type="goal scored" type_id="16"/>
+	<message comment="Wilfried Bony is caught offside" last_modified="2014-01-19 14:02:12" minute="32" period="1" team="Tottenham" time="32" type="offside" type_id="10000"/>
+	<message comment="Wilfried Bony misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2014-01-19 14:02:02" minute="31" period="1" second="50" team="Tottenham" time="31" type="attempt missed" type_id="13"/>
+	<message comment="Alejandro Pozuelo wins a corner (To the right)" last_modified="2014-01-19 13:54:52" minute="24" period="1" second="40" team="Tottenham" time="24" type="corner" type_id="6"/>
+	<message comment="Kyle Walker blocks a shot" last_modified="2014-01-19 13:54:48" minute="24" period="1" second="36" team="Swansea" time="24" type="save made" type_id="10"/>
+	<message comment="Alejandro Pozuelo has shot blocked (18-yard box, Right footed, From corner)" last_modified="2014-01-19 13:54:48" minute="24" period="1" second="36" team="Tottenham" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Wilfried Bony wins a corner (To the right)" last_modified="2014-01-19 13:54:32" minute="24" period="1" second="20" team="Tottenham" time="24" type="corner" type_id="6"/>
+	<message comment="Wilfried Bony hits the woodwork (High, Out of box, Right footed, Open play)" last_modified="2014-01-19 13:54:24" minute="24" period="1" second="12" team="Tottenham" time="24" type="woodwork hit" type_id="14"/>
+	<message comment="Wilfried Bony misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-01-19 13:49:47" minute="19" period="1" second="35" team="Tottenham" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Leon Britton misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2014-01-19 13:43:25" minute="13" period="1" second="13" team="Tottenham" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Hugo Lloris makes a save (Parried into danger, Diving)" last_modified="2014-01-19 13:43:06" minute="12" period="1" second="54" team="Swansea" time="12" type="save made" type_id="10"/>
+	<message comment="Jonjo Shelvey has attempt saved (High to the right, Out of box, Right footed, Open play)" last_modified="2014-01-19 13:43:06" minute="12" period="1" second="54" team="Tottenham" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" last_modified="2014-01-19 13:30:12" minute="0" period="14" second="0" team="Tottenham" time="9" type="end" type_id="30"/>
+	<message comment="Jonjo Shelvey misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2014-01-19 13:36:02" minute="5" period="1" second="50" team="Tottenham" time="5" type="attempt missed" type_id="13"/>
+	<message comment="Jonjo Shelvey misses attempt (To the right, Out of box, Right footed, From corner)" last_modified="2014-01-19 13:34:38" minute="4" period="1" second="26" team="Tottenham" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Wayne Routledge wins a corner (To the left)" last_modified="2014-01-19 13:34:11" minute="3" period="1" second="59" team="Tottenham" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2014-01-19 13:30:12" minute="0" period="1" second="0" team="Tottenham" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Ham" competition="English Premier League" game_date="2010-10-23" home_team_name="Newcastle United" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="7" time="96" type="end" type_id="30"/>
+	<message comment="Andy Carroll misses attempt (Out of box, Right footed, Open play)" minute="88" period="2" second="33" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Manuel da Costa misses attempt (To the left, 18-yard box, Right footed, Set piece)" minute="86" period="2" second="56" time="89" type="attempt missed" type_id="13"/>
+	<message comment="Robert Green makes a save (Standing)" minute="84" period="2" second="39" time="87" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="84" period="2" second="39" time="87" type="attempt blocked" type_id="15"/>
+	<message comment="Shola Ameobi wins a corner (To the left)" minute="81" period="2" second="55" time="84" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="81" period="2" second="53" time="84" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has shot blocked (Out of box, Right footed, Open play)" minute="81" period="2" second="53" time="84" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique wins a corner (To the left)" minute="80" period="2" second="35" time="83" type="corner" type_id="6"/>
+	<message comment="Lars Jacobsen blocks a shot" minute="80" period="2" second="33" time="83" type="save made" type_id="10"/>
+	<message comment="José Enrique has shot blocked (18-yard box, Left footed, Open play)" minute="80" period="2" second="33" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Carlton Cole is caught offside" minute="79" period="2" time="82" type="offside" type_id="10000"/>
+	<message comment="Valon Behrami is substituted off" minute="75" period="2" second="24" time="78" type="substitution off" type_id="18"/>
+	<message comment="Pablo Barrera is substituted on" minute="75" period="2" second="24" time="78" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi misses attempt (High to the left, 18-yard box, Head, Open play)" minute="73" period="2" second="53" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="73" period="2" second="4" time="76" type="corner" type_id="6"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="73" period="2" second="2" time="76" type="save made" type_id="10"/>
+	<message comment="Joey Barton has shot blocked (Out of box, Right footed, Open play)" minute="73" period="2" second="2" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Andy Carroll scores , Assisted by Joey Barton (Low to the centre, 6-yard box, Big Chance, Head, Open play)" minute="68" period="2" second="19" time="71" type="goal scored" type_id="16"/>
+	<message comment="Joey Barton wins a corner (To the right)" minute="67" period="2" second="17" time="70" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne is substituted off" minute="67" period="2" second="2" time="70" type="substitution off" type_id="18"/>
+	<message comment="Benni McCarthy is substituted on" minute="67" period="2" second="2" time="70" type="substitution on" type_id="19"/>
+	<message comment="Danny Gabbidon blocks a shot" minute="59" period="2" second="5" time="62" type="save made" type_id="10"/>
+	<message comment="Andy Carroll has shot blocked (18-yard box, Left footed, Open play)" minute="59" period="2" second="5" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save" minute="56" period="2" second="18" time="59" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="56" period="2" second="18" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Matt Upson is substituted off" minute="52" period="2" second="36" time="55" type="substitution off" type_id="18"/>
+	<message comment="Hérita Ilunga is substituted on" minute="52" period="2" second="36" time="55" type="substitution on" type_id="19"/>
+	<message comment="Shola Ameobi misses attempt (To the left, Out of box, Left footed, Open play)" minute="48" period="2" second="19" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Andy Carroll has attempt saved (Low to the left, Out of box, Left footed, Open play)" minute="46" period="2" second="43" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save (Diving)" minute="46" period="2" second="43" time="49" type="save made" type_id="10"/>
+	<message comment="Mike Williamson blocks a shot" minute="45" period="2" second="36" time="48" type="save made" type_id="10"/>
+	<message comment="Frédéric Piquionne has shot blocked (18-yard box, Head, Open play)" minute="45" period="2" second="36" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="24" time="47" type="end" type_id="30"/>
+	<message comment="Andy Carroll wins a corner (To the right)" minute="46" period="1" second="49" time="46" type="corner" type_id="6"/>
+	<message comment="Joey Barton misses attempt (To the left, Out of box, Left footed, Open play)" minute="45" period="1" second="16" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Mark Noble has shot blocked (Out of box, Right footed, Open play)" minute="42" period="1" second="43" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Andy Carroll blocks a shot" minute="42" period="1" second="43" time="42" type="save made" type_id="10"/>
+	<message comment="Victor Obinna wins a corner (To the left)" minute="42" period="1" second="0" time="42" type="corner" type_id="6"/>
+	<message comment="Scott Parker misses attempt (High, Out of box, Right footed, Open play)" minute="37" period="1" second="53" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Lars Jacobsen blocks a shot" minute="33" period="1" second="59" time="33" type="save made" type_id="10"/>
+	<message comment="Jonás Gutiérrez has shot blocked (18-yard box, Right footed, Open play)" minute="33" period="1" second="59" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Victor Obinna wins a corner (To the left)" minute="31" period="1" second="44" time="31" type="corner" type_id="6"/>
+	<message comment="Frédéric Piquionne misses attempt (High to the left, 18-yard box, Head, Set piece)" minute="25" period="1" second="38" time="25" type="attempt missed" type_id="13"/>
+	<message comment="Victor Obinna misses attempt (High, Out of box, Left footed, Open play)" minute="23" period="1" second="39" time="23" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Kevin Nolan scores  (Low to the right, 18-yard box, Left footed, Open play)" minute="22" period="1" second="20" time="22" type="goal scored" type_id="16"/>
+	<message comment="Cheick Tioté wins a corner (To the right)" minute="16" period="1" second="56" time="16" type="corner" type_id="6"/>
+	<message comment="Cheick Tioté has shot blocked (Out of box, Right footed, Open play)" minute="16" period="1" second="53" time="16" type="attempt blocked" type_id="15"/>
+	<message comment="Scott Parker blocks a shot" minute="16" period="1" second="53" time="16" type="save made" type_id="10"/>
+	<message comment="Victor Obinna misses attempt (To the right, Out of box, Right footed, Open play)" minute="12" period="1" second="48" time="12" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Carlton Cole scores , Assisted by Frédéric Piquionne (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="11" period="1" second="17" time="11" type="goal scored" type_id="16"/>
+	<message comment="Frédéric Piquionne misses attempt (To the right, 18-yard box, Key pass, Left footed, Open play)" minute="11" period="1" second="16" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Frédéric Piquionne is caught offside" minute="6" period="1" time="6" type="offside" type_id="10000"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="Mike Williamson blocks a shot" minute="5" period="1" second="11" time="5" type="save made" type_id="10"/>
+	<message comment="Carlton Cole has shot blocked (18-yard box, Left footed, Open play)" minute="5" period="1" second="11" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté blocks a shot" minute="1" period="1" second="36" time="1" type="save made" type_id="10"/>
+	<message comment="Scott Parker has shot blocked (Out of box, Right footed, Open play)" minute="1" period="1" second="36" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2014-02-12" home_team_name="Liverpool" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="48" time="98" type="end" type_id="30"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Left footed, Open play)" minute="94" period="2" second="7" time="97" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson blocks a shot" minute="94" period="2" second="7" time="97" type="save made" type_id="10"/>
+	<message comment="João Teixeira misses attempt (High, 18-yard box, Right footed, Fast break)" minute="92" period="2" second="52" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho is substituted off" minute="91" period="2" second="53" time="94" type="substitution off" type_id="18"/>
+	<message comment="Daniel Agger is substituted on" minute="91" period="2" second="53" time="94" type="substitution on" type_id="19"/>
+	<message comment="Steven Gerrard recieves a yellow card" minute="91" period="2" second="19" time="94" type="card received" type_id="17"/>
+	<message comment="GOAL! Steven Gerrard scores  (High to the left, 18-yard box, Big Chance, Penalty, Right footed)" minute="90" period="2" second="32" time="93" type="goal scored" type_id="16"/>
+	<message comment="John Heitinga recieves a yellow card" minute="90" period="2" second="8" time="93" type="card received" type_id="17"/>
+	<message comment="João Teixeira misses attempt (High, Out of box, Right footed, Open play)" minute="84" period="2" second="59" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Lewis Holtby wins a corner (To the left)" minute="84" period="2" second="2" time="87" type="corner" type_id="6"/>
+	<message comment="Lewis Holtby has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="59" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Jordan Henderson blocks a shot" minute="83" period="2" second="59" time="86" type="save made" type_id="10"/>
+	<message comment="Philippe Coutinho misses attempt (18-yard box, Right footed, Open play)" minute="82" period="2" second="28" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Raheem Sterling is substituted off" minute="81" period="2" second="39" time="84" type="substitution off" type_id="18"/>
+	<message comment="João Teixeira is substituted on" minute="81" period="2" second="39" time="84" type="substitution on" type_id="19"/>
+	<message comment="Jordan Henderson recieves a yellow card" minute="76" period="2" second="25" time="79" type="card received" type_id="17"/>
+	<message comment="Maarten Stekelenburg is substituted off" minute="75" period="2" second="25" time="78" type="substitution off" type_id="18"/>
+	<message comment="David Stockdale is substituted on" minute="75" period="2" second="25" time="78" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Philippe Coutinho scores , Assisted by Daniel Sturridge (Low to the left, Out of box, Left footed, Open play)" minute="71" period="2" second="10" time="74" type="goal scored" type_id="16"/>
+	<message comment="Kieran Richardson is substituted off" minute="70" period="2" second="33" time="73" type="substitution off" type_id="18"/>
+	<message comment="Alexander Kacaniklic is substituted on" minute="70" period="2" second="33" time="73" type="substitution on" type_id="19"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="68" period="2" second="16" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Steve Sidwell blocks a shot" minute="68" period="2" second="16" time="71" type="save made" type_id="10"/>
+	<message comment="Kieran Richardson recieves a yellow card" minute="63" period="2" second="45" time="66" type="card received" type_id="17"/>
+	<message comment="GOAL! Kieran Richardson scores  (High to the right, 6-yard box, Big Chance, Right footed, Throw-in)" minute="62" period="2" second="53" time="65" type="goal scored" type_id="16"/>
+	<message comment="Luis Suárez hits the woodwork (To the right, 18-yard box, Right footed, Open play)" minute="60" period="2" second="45" time="63" type="woodwork hit" type_id="14"/>
+	<message comment="Daniel Sturridge wins a corner (To the left)" minute="59" period="2" second="23" time="62" type="corner" type_id="6"/>
+	<message comment="Dan Burn blocks a shot" minute="59" period="2" second="22" time="62" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has shot blocked (18-yard box, Left footed, Open play)" minute="59" period="2" second="22" time="62" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="58" period="2" second="55" time="61" type="save made" type_id="10"/>
+	<message comment="Steven Gerrard has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="58" period="2" second="55" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Philippe Coutinho recieves a yellow card" minute="55" period="2" second="39" time="58" type="card received" type_id="17"/>
+	<message comment="Luis Suárez misses attempt (18-yard box, Left footed, Open play)" minute="54" period="2" second="6" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell has attempt saved (High to the right, Out of box, Right footed, Open play)" minute="52" period="2" second="50" time="55" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Collected)" minute="52" period="2" second="50" time="55" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="51" period="2" second="38" time="54" type="corner" type_id="6"/>
+	<message comment="Luis Suárez misses attempt (Out of box, Right footed, Free kick)" minute="50" period="2" second="8" time="53" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether recieves a yellow card" minute="49" period="2" second="15" time="52" type="card received" type_id="17"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="10" time="47" type="end" type_id="30"/>
+	<message comment="Steven Gerrard wins a corner (To the right)" minute="46" period="1" second="22" time="46" type="corner" type_id="6"/>
+	<message comment="Steven Gerrard misses attempt (High to the left, Out of box, Right footed, Open play)" minute="44" period="1" second="22" time="44" type="attempt missed" type_id="13"/>
+	<message comment="Daniel Sturridge misses attempt (Out of box, Left footed, Open play)" minute="43" period="1" second="29" time="43" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Daniel Sturridge scores , Assisted by Steven Gerrard (Low to the left, 18-yard box, Big Chance, Left footed, Open play)" minute="40" period="1" second="34" time="40" type="goal scored" type_id="16"/>
+	<message comment="Daniel Sturridge misses attempt (To the left, 18-yard box, Head, Open play)" minute="38" period="1" second="55" time="38" type="attempt missed" type_id="13"/>
+	<message comment="John Heitinga blocks a shot" minute="37" period="1" second="53" time="37" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="37" period="1" second="53" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Lewis Holtby misses attempt (To the left, 18-yard box, Right footed, From corner)" minute="36" period="1" second="31" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell wins a corner (To the left)" minute="35" period="1" second="54" time="35" type="corner" type_id="6"/>
+	<message comment="William Kvist wins a corner (To the left)" minute="35" period="1" second="15" time="35" type="corner" type_id="6"/>
+	<message comment="William Kvist has shot blocked (Out of box, Right footed, Open play)" minute="35" period="1" second="9" time="35" type="attempt blocked" type_id="15"/>
+	<message comment="Kolo Touré blocks a shot" minute="35" period="1" second="9" time="35" type="save made" type_id="10"/>
+	<message comment="Darren Bent misses attempt (High, 6-yard box, Head, Open play)" minute="34" period="1" second="37" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Philippe Coutinho misses attempt (High to the right, Out of box, Right footed, Open play)" minute="29" period="1" second="24" time="29" type="attempt missed" type_id="13"/>
+	<message comment="John Arne Riise wins a corner (To the left)" minute="28" period="1" second="14" time="28" type="corner" type_id="6"/>
+	<message comment="John Arne Riise misses attempt (To the left, Out of box, Left footed, Open play)" minute="28" period="1" second="11" time="28" type="attempt missed" type_id="13"/>
+	<message comment="Maarten Stekelenburg makes a save (Collected)" minute="26" period="1" second="37" time="26" type="save made" type_id="10"/>
+	<message comment="Daniel Sturridge has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="26" period="1" second="37" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez misses attempt (High, 18-yard box, Right footed, Open play)" minute="16" period="1" second="34" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez has attempt saved (High to the centre, Out of box, Right footed, Open play)" minute="14" period="1" second="31" time="14" type="attempt blocked" type_id="15"/>
+	<message comment="Maarten Stekelenburg makes a save (Standing)" minute="14" period="1" second="31" time="14" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="12" period="1" second="44" time="12" type="corner" type_id="6"/>
+	<message comment="Maarten Stekelenburg makes a save (Parried safe, Diving)" minute="12" period="1" second="43" time="12" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Left footed, Open play)" minute="12" period="1" second="43" time="12" type="attempt blocked" type_id="15"/>
+	<message comment="Raheem Sterling wins a corner (To the right)" minute="11" period="1" second="36" time="11" type="corner" type_id="6"/>
+	<message comment="Lewis Holtby misses attempt (Out of box, Left footed, Open play)" minute="9" period="1" second="10" time="9" type="attempt missed" type_id="13"/>
+	<message comment="William Kvist recieves a yellow card" minute="8" period="1" second="51" time="8" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Kolo Touré scores an OWN GOAL!  (Low to the right, 6-yard box, Right footed, Open play)" minute="7" period="1" second="16" time="7" type="goal scored" type_id="16"/>
+	<message comment="Lewis Holtby wins a corner (To the right)" minute="3" period="1" second="29" time="3" type="corner" type_id="6"/>
+	<message comment="Lewis Holtby wins a corner (To the right)" minute="1" period="1" second="9" time="1" type="corner" type_id="6"/>
+	<message comment="Ryan Tunnicliffe wins a corner (To the right)" minute="0" period="1" second="43" time="0" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe, Diving)" minute="0" period="1" second="42" time="0" type="save made" type_id="10"/>
+	<message comment="Ryan Tunnicliffe has attempt saved (High to the right, 18-yard box, Right footed, Open play)" minute="0" period="1" second="42" time="0" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

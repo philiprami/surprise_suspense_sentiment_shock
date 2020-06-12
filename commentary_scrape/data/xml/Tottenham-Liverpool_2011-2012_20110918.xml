@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Tottenham" competition="English Premier League" game_date="2011-09-18" home_team_name="Liverpool2" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="37" time="98" type="end" type_id="30"/>
+	<message comment="GOAL! Emmanuel Adebayor scores , Assisted by Benoit Assou-Ekotto (High to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="92" period="2" second="45" time="97" type="goal scored" type_id="16"/>
+	<message comment="Luka Modric wins a corner (To the left)" minute="91" period="2" second="53" time="96" type="corner" type_id="6"/>
+	<message comment="Pepe Reina makes a save (Parried safe)" minute="90" period="2" second="8" time="95" type="save made" type_id="10"/>
+	<message comment="Rafael van der Vaart has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="90" period="2" second="8" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Bale misses attempt (High, Out of box, Left footed, Open play)" minute="88" period="2" second="8" time="93" type="attempt missed" type_id="13"/>
+	<message comment="Jay Spearing misses attempt (Out of box, Right footed, Open play)" minute="85" period="2" second="34" time="90" type="attempt missed" type_id="13"/>
+	<message comment="Ledley King is substituted off" minute="83" period="2" second="22" time="88" type="substitution off" type_id="18"/>
+	<message comment="Sebastien Bassong is substituted on" minute="83" period="2" second="22" time="88" type="substitution on" type_id="19"/>
+	<message comment="Jermain Defoe is substituted off" minute="83" period="2" second="15" time="88" type="substitution off" type_id="18"/>
+	<message comment="Giovani dos Santos is substituted on" minute="83" period="2" second="15" time="88" type="substitution on" type_id="19"/>
+	<message comment="Rafael van der Vaart has shot blocked (18-yard box, Left footed, Open play)" minute="81" period="2" second="34" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher blocks a shot" minute="81" period="2" second="34" time="86" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="79" period="2" time="84" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="78" period="2" second="6" time="83" type="attempt missed" type_id="13"/>
+	<message comment="Jay Spearing blocks a shot" minute="76" period="2" second="29" time="81" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Open play)" minute="76" period="2" second="29" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="José Enrique wins a corner (To the right)" minute="70" period="2" second="19" time="75" type="corner" type_id="6"/>
+	<message comment="Luis Suárez is substituted off" minute="69" period="2" second="40" time="74" type="substitution off" type_id="18"/>
+	<message comment="Jay Spearing is substituted on" minute="69" period="2" second="40" time="74" type="substitution on" type_id="19"/>
+	<message comment="Stewart Downing is substituted off" minute="69" period="2" second="35" time="74" type="substitution off" type_id="18"/>
+	<message comment="Craig Bellamy is substituted on" minute="69" period="2" second="35" time="74" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Emmanuel Adebayor scores  (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="67" period="2" second="38" time="72" type="goal scored" type_id="16"/>
+	<message comment="Pepe Reina makes a save (Parried into danger, Diving)" minute="67" period="2" second="35" time="72" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="67" period="2" second="35" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Jermain Defoe scores , Assisted by Rafael van der Vaart (Low to the right, 18-yard box, Right footed, Open play)" minute="65" period="2" second="14" time="70" type="goal scored" type_id="16"/>
+	<message comment="Brad Friedel makes a save (Standing)" minute="64" period="2" second="6" time="69" type="save made" type_id="10"/>
+	<message comment="Stewart Downing has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="64" period="2" second="6" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe is caught offside" minute="64" period="2" time="69" type="offside" type_id="10000"/>
+	<message comment="Martin Skrtel recieves a red card after receiving second yellow card" minute="62" period="2" second="6" time="67" type="card received" type_id="17"/>
+	<message comment="Luis Suárez misses attempt (High to the right, Out of box, Right footed, Free kick)" minute="61" period="2" second="19" time="66" type="attempt missed" type_id="13"/>
+	<message comment="Emmanuel Adebayor has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="58" period="2" second="14" time="63" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save" minute="58" period="2" second="14" time="63" type="save made" type_id="10"/>
+	<message comment="Pepe Reina makes a save (Diving)" minute="56" period="2" second="1" time="61" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="56" period="2" second="1" time="61" type="attempt blocked" type_id="15"/>
+	<message comment="Emmanuel Adebayor is caught offside" minute="56" period="2" time="61" type="offside" type_id="10000"/>
+	<message comment="Gareth Bale misses attempt (To the right, Out of box, Left footed, Open play)" minute="53" period="2" second="35" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez is caught offside" minute="52" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Jamie Carragher blocks a shot" minute="49" period="2" second="12" time="54" type="save made" type_id="10"/>
+	<message comment="Jermain Defoe has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="12" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Jermain Defoe misses attempt (18-yard box, Big Chance, Right footed, Fast break)" minute="45" period="2" second="30" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Niko Kranjcar is substituted off" minute="45" period="2" second="0" time="50" type="substitution off" type_id="18"/>
+	<message comment="Rafael van der Vaart is substituted on" minute="45" period="2" second="0" time="50" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="50" type="start" type_id="32"/>
+	<message comment="First half ends" minute="49" period="1" second="25" time="49" type="end" type_id="30"/>
+	<message comment="Luis Suárez recieves a yellow card" minute="49" period="1" second="12" time="49" type="card received" type_id="17"/>
+	<message comment="Kyle Walker wins a corner (To the right)" minute="46" period="1" second="20" time="46" type="corner" type_id="6"/>
+	<message comment="Younes Kaboul misses attempt (18-yard box, Head, From corner)" minute="42" period="1" second="0" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Jermain Defoe wins a corner (To the right)" minute="41" period="1" second="32" time="41" type="corner" type_id="6"/>
+	<message comment="Jermain Defoe misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="41" period="1" second="31" time="41" type="attempt missed" type_id="13"/>
+	<message comment="Luka Modric wins a corner (To the right)" minute="40" period="1" second="56" time="40" type="corner" type_id="6"/>
+	<message comment="Andy Carroll blocks a shot" minute="40" period="1" second="53" time="40" type="save made" type_id="10"/>
+	<message comment="Luka Modric has shot blocked (Out of box, Right footed, Free kick)" minute="40" period="1" second="53" time="40" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastián Coates recieves a yellow card" minute="39" period="1" second="23" time="39" type="card received" type_id="17"/>
+	<message comment="Niko Kranjcar misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="35" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Martin Skrtel recieves a yellow card" minute="35" period="1" second="43" time="35" type="card received" type_id="17"/>
+	<message comment="Gareth Bale misses attempt (High, Out of box, Left footed, Free kick)" minute="34" period="1" second="4" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Sebastián Coates blocks a shot" minute="29" period="1" second="13" time="29" type="save made" type_id="10"/>
+	<message comment="Gareth Bale has shot blocked (Out of box, Left footed, Free kick)" minute="29" period="1" second="13" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam recieves a red card after receiving second yellow card" minute="27" period="1" second="9" time="27" type="card received" type_id="17"/>
+	<message comment="Daniel Agger is substituted off" minute="26" period="1" second="36" time="26" type="substitution off" type_id="18"/>
+	<message comment="Sebastián Coates is substituted on" minute="26" period="1" second="36" time="26" type="substitution on" type_id="19"/>
+	<message comment="Emmanuel Adebayor recieves a yellow card" minute="23" period="1" second="29" time="23" type="card received" type_id="17"/>
+	<message comment="Martin Skrtel is caught offside" minute="22" period="1" time="22" type="offside" type_id="10000"/>
+	<message comment="Emmanuel Adebayor misses attempt (High to the right, Out of box, Left footed, Open play)" minute="21" period="1" second="2" time="21" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez is caught offside" minute="18" period="1" time="18" type="offside" type_id="10000"/>
+	<message comment="Luka Modric has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="13" period="1" second="5" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Diving, Parried into danger)" minute="13" period="1" second="5" time="13" type="save made" type_id="10"/>
+	<message comment="Niko Kranjcar has shot blocked (Out of box, Right footed, Open play)" minute="13" period="1" second="2" time="13" type="attempt blocked" type_id="15"/>
+	<message comment="Charlie Adam blocks a shot" minute="13" period="1" second="2" time="13" type="save made" type_id="10"/>
+	<message comment="Charlie Adam recieves a yellow card" minute="11" period="1" second="49" time="11" type="card received" type_id="17"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="GOAL! Luka Modric scores  (High to the right, Out of box, Right footed, Open play)" minute="6" period="1" second="22" time="6" type="goal scored" type_id="16"/>
+	<message comment="Andy Carroll is caught offside" minute="5" period="1" time="5" type="offside" type_id="10000"/>
+	<message comment="Jermain Defoe has shot blocked (18-yard box, Left footed, Open play)" minute="5" period="1" second="0" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Daniel Agger blocks a shot" minute="5" period="1" second="0" time="5" type="save made" type_id="10"/>
+	<message comment="Emmanuel Adebayor misses attempt (To the left, 18-yard box, Big Chance, Right footed, Fast break)" minute="2" period="1" second="23" time="2" type="attempt missed" type_id="13"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

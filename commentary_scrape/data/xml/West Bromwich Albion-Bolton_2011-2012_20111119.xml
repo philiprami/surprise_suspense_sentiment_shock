@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="West Bromwich Albion" competition="English Premier League" game_date="2011-11-19" home_team_name="Bolton" lang_id="en" season="Season 2011/2012" season_id="2011" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="50" time="95" type="end" type_id="30"/>
+	<message comment="Simon Cox wins a corner (To the left)" minute="93" period="2" second="12" time="95" type="corner" type_id="6"/>
+	<message comment="Youssouf Mulumbu is substituted off" minute="91" period="2" second="40" time="93" type="substitution off" type_id="18"/>
+	<message comment="Simon Cox is substituted on" minute="91" period="2" second="40" time="93" type="substitution on" type_id="19"/>
+	<message comment="Fabrice Muamba is substituted off" minute="81" period="2" second="0" time="83" type="substitution off" type_id="18"/>
+	<message comment="Gaël Kakuta is substituted on" minute="81" period="2" second="0" time="83" type="substitution on" type_id="19"/>
+	<message comment="Jerome Thomas is substituted off" minute="79" period="2" second="35" time="81" type="substitution off" type_id="18"/>
+	<message comment="Graham Dorrans is substituted on" minute="79" period="2" second="35" time="81" type="substitution on" type_id="19"/>
+	<message comment="Ivan Klasnic has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="76" period="2" second="52" time="78" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving)" minute="76" period="2" second="52" time="78" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera misses attempt (High, 18-yard box, Right footed, Open play)" minute="76" period="2" second="13" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Zoltán Gera misses attempt (High to the left, Out of box, Left footed, Open play)" minute="71" period="2" second="1" time="73" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies is substituted off" minute="69" period="2" second="28" time="71" type="substitution off" type_id="18"/>
+	<message comment="David N'Gog is substituted on" minute="69" period="2" second="28" time="71" type="substitution on" type_id="19"/>
+	<message comment="Chris Eagles is substituted off" minute="69" period="2" second="21" time="71" type="substitution off" type_id="18"/>
+	<message comment="Martin Petrov is substituted on" minute="69" period="2" second="21" time="71" type="substitution on" type_id="19"/>
+	<message comment="Gareth McAuley has attempt saved (Low to the right, 18-yard box, Head, From corner)" minute="64" period="2" second="46" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Collected)" minute="64" period="2" second="46" time="66" type="save made" type_id="10"/>
+	<message comment="Nicky Shorey wins a corner (To the left)" minute="64" period="2" second="4" time="66" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="62" period="2" second="13" time="64" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Standing)" minute="62" period="2" second="13" time="64" type="save made" type_id="10"/>
+	<message comment="Youssouf Mulumbu misses attempt (High, Out of box, Right footed, Open play)" minute="60" period="2" second="54" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Kevin Davies misses attempt (18-yard box, Right footed, Throw-in)" minute="59" period="2" second="33" time="61" type="attempt missed" type_id="13"/>
+	<message comment="Shane Long is caught offside" minute="57" period="2" time="59" type="offside" type_id="10000"/>
+	<message comment="GOAL! Shane Long scores , Assisted by Nicky Shorey (Low to the right, 18-yard box, Head, Open play)" minute="55" period="2" second="39" time="57" type="goal scored" type_id="16"/>
+	<message comment="Jonas Olsson wins a corner (To the left)" minute="54" period="2" second="42" time="56" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson has shot blocked (18-yard box, Head, From corner)" minute="54" period="2" second="41" time="56" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="54" period="2" second="41" time="56" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera wins a corner (To the left)" minute="54" period="2" second="13" time="56" type="corner" type_id="6"/>
+	<message comment="Jerome Thomas misses attempt (High to the left, 18-yard box, Left footed, Open play)" minute="53" period="2" second="15" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Mark Davies blocks a shot" minute="52" period="2" second="55" time="54" type="save made" type_id="10"/>
+	<message comment="Jerome Thomas has shot blocked (18-yard box, Right footed, Open play)" minute="52" period="2" second="54" time="54" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid wins a corner (To the right)" minute="51" period="2" second="44" time="53" type="corner" type_id="6"/>
+	<message comment="James Morrison has shot blocked (Out of box, Right footed, Open play)" minute="51" period="2" second="18" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Gary Cahill blocks a shot" minute="51" period="2" second="18" time="53" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="12" time="46" type="end" type_id="30"/>
+	<message comment="Chris Eagles has shot blocked (18-yard box, Left footed, Open play)" minute="46" period="1" second="9" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Reid blocks a shot" minute="46" period="1" second="9" time="46" type="save made" type_id="10"/>
+	<message comment="Zoltán Gera has attempt saved (Low to the centre, 18-yard box, Head, Open play)" minute="45" period="1" second="35" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Jussi Jääskeläinen makes a save (Collected)" minute="45" period="1" second="35" time="45" type="save made" type_id="10"/>
+	<message comment="Kevin Davies wins a corner (To the left)" minute="39" period="1" second="29" time="39" type="corner" type_id="6"/>
+	<message comment="Jonas Olsson blocks a shot" minute="39" period="1" second="27" time="39" type="save made" type_id="10"/>
+	<message comment="Kevin Davies has shot blocked (18-yard box, Head, From corner)" minute="39" period="1" second="27" time="39" type="attempt blocked" type_id="15"/>
+	<message comment="Ivan Klasnic wins a corner (To the left)" minute="38" period="1" second="54" time="38" type="corner" type_id="6"/>
+	<message comment="Mark Davies has attempt saved (Low to the centre, 18-yard box, Left footed, Open play)" minute="38" period="1" second="33" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Parried safe, Feet, Diving)" minute="38" period="1" second="33" time="38" type="save made" type_id="10"/>
+	<message comment="Ivan Klasnic misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="34" period="1" second="57" time="34" type="attempt missed" type_id="13"/>
+	<message comment="Zoltán Gera blocks a shot" minute="33" period="1" second="47" time="33" type="save made" type_id="10"/>
+	<message comment="Chris Eagles has shot blocked (Out of box, Right footed, Set piece)" minute="33" period="1" second="47" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Shane Long is caught offside" minute="30" period="1" time="30" type="offside" type_id="10000"/>
+	<message comment="Jerome Thomas recieves a yellow card" minute="27" period="1" second="4" time="27" type="card received" type_id="17"/>
+	<message comment="GOAL! Ivan Klasnic scores  (Low to the left, 18-yard box, Penalty, Big Chance, Left footed)" minute="20" period="1" second="45" time="20" type="goal scored" type_id="16"/>
+	<message comment="Chris Eagles wins a corner (To the left)" minute="19" period="1" second="32" time="19" type="corner" type_id="6"/>
+	<message comment="GOAL! Jerome Thomas scores , Assisted by Zoltán Gera (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="15" period="1" second="49" time="15" type="goal scored" type_id="16"/>
+	<message comment="Shane Long misses attempt (To the right, 18-yard box, Right footed, Open play)" minute="14" period="1" second="21" time="14" type="attempt missed" type_id="13"/>
+	<message comment="Zoltán Gera misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="6" period="1" second="38" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Youssouf Mulumbu blocks a shot (Last line)" minute="5" period="1" second="31" time="5" type="save made" type_id="10"/>
+	<message comment="Gary Cahill has shot blocked (18-yard box, Head, From corner)" minute="5" period="1" second="30" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Davies wins a corner (To the right)" minute="5" period="1" second="10" time="5" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="James Morrison misses attempt (To the left, Out of box, Right footed, Open play)" minute="4" period="1" second="23" time="4" type="attempt missed" type_id="13"/>
+	<message comment="Jonas Olsson wins a corner (To the right)" minute="2" period="1" second="59" time="2" type="corner" type_id="6"/>
+	<message comment="Jussi Jääskeläinen makes a save (Parried safe)" minute="2" period="1" second="55" time="2" type="save made" type_id="10"/>
+	<message comment="Jonas Olsson has attempt saved (High to the right, 18-yard box, Head, From corner)" minute="2" period="1" second="55" time="2" type="attempt blocked" type_id="15"/>
+	<message comment="Jerome Thomas wins a corner (To the left)" minute="2" period="1" second="27" time="2" type="corner" type_id="6"/>
+	<message comment="Chris Eagles misses attempt (Out of box, Right footed, Throw-in)" minute="1" period="1" second="33" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Joe Riley wins a corner (To the right)" minute="0" period="1" second="41" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

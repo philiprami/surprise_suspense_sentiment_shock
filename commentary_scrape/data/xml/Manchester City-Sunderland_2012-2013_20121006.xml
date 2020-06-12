@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-10-06" home_team_name="Sunderland" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="17" time="96" type="end" type_id="30"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="90" period="2" second="55" time="93" type="save made" type_id="10"/>
+	<message comment="Sergio Agüero has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="90" period="2" second="55" time="93" type="attempt blocked" type_id="15"/>
+	<message comment="David Silva is substituted off" minute="89" period="2" second="31" time="92" type="substitution off" type_id="18"/>
+	<message comment="Jack Rodwell is substituted on" minute="89" period="2" second="31" time="92" type="substitution on" type_id="19"/>
+	<message comment="GOAL! James Milner scores  (High to the centre, Out of box, Right footed, Free kick)" minute="88" period="2" second="38" time="91" type="goal scored" type_id="16"/>
+	<message comment="Craig Gardner recieves a yellow card" minute="87" period="2" second="52" time="90" type="card received" type_id="17"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="85" period="2" second="39" time="88" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher blocks a shot" minute="85" period="2" second="38" time="88" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (18-yard box, Left footed, From corner)" minute="85" period="2" second="38" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="85" period="2" second="36" time="88" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (18-yard box, Left footed, From corner)" minute="85" period="2" second="36" time="88" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez is substituted off" minute="85" period="2" second="21" time="88" type="substitution off" type_id="18"/>
+	<message comment="Gaël Clichy is substituted on" minute="85" period="2" second="21" time="88" type="substitution on" type_id="19"/>
+	<message comment="Yaya Touré wins a corner (To the left)" minute="84" period="2" second="47" time="87" type="corner" type_id="6"/>
+	<message comment="Craig Gardner wins a corner (To the right)" minute="83" period="2" second="55" time="86" type="corner" type_id="6"/>
+	<message comment="Craig Gardner has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="54" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="83" period="2" second="54" time="86" type="save made" type_id="10"/>
+	<message comment="Stéphane Sessegnon is substituted off" minute="82" period="2" second="42" time="85" type="substitution off" type_id="18"/>
+	<message comment="Fraizer Campbell is substituted on" minute="82" period="2" second="42" time="85" type="substitution on" type_id="19"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="82" period="2" second="14" time="85" type="corner" type_id="6"/>
+	<message comment="Jack Colback recieves a yellow card" minute="80" period="2" second="44" time="83" type="card received" type_id="17"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="78" period="2" second="59" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Collected)" minute="78" period="2" second="59" time="81" type="save made" type_id="10"/>
+	<message comment="Yaya Touré misses attempt (High to the right, Out of box, Right footed, Open play)" minute="75" period="2" second="41" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Micah Richards misses attempt (High, 18-yard box, Right footed, From corner)" minute="74" period="2" second="37" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="74" period="2" second="10" time="77" type="corner" type_id="6"/>
+	<message comment="David Silva wins a corner (To the right)" minute="73" period="2" second="4" time="76" type="corner" type_id="6"/>
+	<message comment="Jack Colback blocks a shot" minute="72" period="2" second="57" time="75" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Left footed, Open play)" minute="72" period="2" second="57" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="72" period="2" second="41" time="75" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (18-yard box, Right footed, Open play)" minute="72" period="2" second="41" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Diving)" minute="72" period="2" second="35" time="75" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (Low to the left, 18-yard box, Head, From corner)" minute="72" period="2" second="35" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Gareth Barry wins a corner (To the right)" minute="72" period="2" second="10" time="75" type="corner" type_id="6"/>
+	<message comment="Craig Gardner blocks a shot" minute="72" period="2" second="8" time="75" type="save made" type_id="10"/>
+	<message comment="Gareth Barry has shot blocked (18-yard box, Left footed, From corner)" minute="72" period="2" second="8" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="James Milner wins a corner (To the right)" minute="71" period="2" second="55" time="74" type="corner" type_id="6"/>
+	<message comment="James McClean has attempt saved (High to the left, 6-yard box, Head, From corner)" minute="71" period="2" second="0" time="74" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger)" minute="71" period="2" second="0" time="74" type="save made" type_id="10"/>
+	<message comment="James McClean wins a corner (To the right)" minute="70" period="2" second="33" time="73" type="corner" type_id="6"/>
+	<message comment="David Silva hits the woodwork (High, Out of box, Left footed, Open play)" minute="69" period="2" second="34" time="72" type="woodwork hit" type_id="14"/>
+	<message comment="Carlos Tevez misses attempt (18-yard box, Right footed, Open play)" minute="68" period="2" second="32" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson is substituted off" minute="67" period="2" second="56" time="70" type="substitution off" type_id="18"/>
+	<message comment="Louis Saha is substituted on" minute="67" period="2" second="56" time="70" type="substitution on" type_id="19"/>
+	<message comment="James Milner wins a corner (To the right)" minute="66" period="2" second="16" time="69" type="corner" type_id="6"/>
+	<message comment="Danny Rose is substituted off" minute="60" period="2" second="49" time="63" type="substitution off" type_id="18"/>
+	<message comment="David Vaughan is substituted on" minute="60" period="2" second="49" time="63" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Sergio Agüero scores , Assisted by Aleksandar Kolarov (High to the left, 18-yard box, Right footed, Open play)" minute="59" period="2" second="34" time="62" type="goal scored" type_id="16"/>
+	<message comment="Simon Mignolet makes a save (Diving)" minute="57" period="2" second="30" time="60" type="save made" type_id="10"/>
+	<message comment="Micah Richards has attempt saved (High to the left, 18-yard box, Head, From corner)" minute="57" period="2" second="30" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Pablo Zabaleta wins a corner (To the right)" minute="57" period="2" second="3" time="60" type="corner" type_id="6"/>
+	<message comment="Joleon Lescott wins a corner (To the right)" minute="56" period="2" second="10" time="59" type="corner" type_id="6"/>
+	<message comment="Mario Balotelli is substituted off" minute="55" period="2" second="42" time="58" type="substitution off" type_id="18"/>
+	<message comment="Sergio Agüero is substituted on" minute="55" period="2" second="42" time="58" type="substitution on" type_id="19"/>
+	<message comment="Steven Fletcher is caught offside" minute="52" period="2" time="55" type="offside" type_id="10000"/>
+	<message comment="Mario Balotelli misses attempt (High, Out of box, Right footed, From corner)" minute="49" period="2" second="47" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Danny Rose blocks a shot (Last line)" minute="49" period="2" second="43" time="52" type="save made" type_id="10"/>
+	<message comment="Micah Richards has shot blocked (18-yard box, Big Chance, Right footed, From corner)" minute="49" period="2" second="43" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards misses attempt (18-yard box, Head, From corner)" minute="49" period="2" second="41" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="49" period="2" second="11" time="52" type="corner" type_id="6"/>
+	<message comment="Simon Mignolet makes a save (Parried safe)" minute="49" period="2" second="9" time="52" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="49" period="2" second="9" time="52" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson misses attempt (To the left, Out of box, Left footed, Open play)" minute="48" period="2" second="16" time="51" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher has shot blocked (18-yard box, Left footed, Open play)" minute="48" period="2" second="15" time="51" type="attempt blocked" type_id="15"/>
+	<message comment="Micah Richards blocks a shot" minute="48" period="2" second="15" time="51" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" minute="47" period="1" second="9" time="47" type="end" type_id="30"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="46" period="1" second="10" time="46" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the left, 18-yard box, Left footed, Throw-in)" minute="46" period="1" second="10" time="46" type="attempt blocked" type_id="15"/>
+	<message comment="Stéphane Sessegnon is caught offside" minute="44" period="1" time="44" type="offside" type_id="10000"/>
+	<message comment="Mario Balotelli is caught offside" minute="42" period="1" time="42" type="offside" type_id="10000"/>
+	<message comment="Gareth Barry misses attempt (Out of box, Left footed, From corner)" minute="40" period="1" second="23" time="40" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="39" period="1" second="53" time="39" type="corner" type_id="6"/>
+	<message comment="Joe Hart makes a save (Collected)" minute="37" period="1" second="37" time="37" type="save made" type_id="10"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="37" period="1" second="37" time="37" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="36" period="1" second="24" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli misses attempt (To the right, Out of box, Right footed, From corner)" minute="35" period="1" second="33" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="35" period="1" second="2" time="35" type="corner" type_id="6"/>
+	<message comment="Carlos Cuellar blocks a shot" minute="34" period="1" second="57" time="34" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (Out of box, Right footed, Open play)" minute="34" period="1" second="57" time="34" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov misses attempt (High to the left, Out of box, Left footed, From corner)" minute="30" period="1" second="2" time="30" type="attempt missed" type_id="13"/>
+	<message comment="James Milner wins a corner (To the right)" minute="29" period="1" second="35" time="29" type="corner" type_id="6"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="24" period="1" second="9" time="24" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson blocks a shot" minute="24" period="1" second="6" time="24" type="save made" type_id="10"/>
+	<message comment="Aleksandar Kolarov has shot blocked (Out of box, Left footed, Free kick)" minute="24" period="1" second="6" time="24" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez misses attempt (18-yard box, Right footed, Open play)" minute="20" period="1" second="9" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Simon Mignolet makes a save (Parried into danger, Standing, Other body part)" minute="20" period="1" second="0" time="20" type="save made" type_id="10"/>
+	<message comment="Pablo Zabaleta has attempt saved (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="20" period="1" second="0" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Mario Balotelli misses attempt (High, Out of box, Right footed, Open play)" minute="16" period="1" second="31" time="16" type="attempt missed" type_id="13"/>
+	<message comment="Mario Balotelli is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Sebastian Larsson is caught offside" minute="13" period="1" time="13" type="offside" type_id="10000"/>
+	<message comment="Sebastian Larsson wins a corner (To the left)" minute="12" period="1" second="49" time="12" type="corner" type_id="6"/>
+	<message comment="Craig Gardner wins a corner (To the left)" minute="12" period="1" second="13" time="12" type="corner" type_id="6"/>
+	<message comment="Stéphane Sessegnon misses attempt (18-yard box, Right footed, Set piece)" minute="10" period="1" second="17" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="6" type="end" type_id="30"/>
+	<message comment="GOAL! Aleksandar Kolarov scores  (High to the left, Out of box, Left footed, Free kick)" minute="4" period="1" second="17" time="4" type="goal scored" type_id="16"/>
+	<message comment="Carlos Cuellar recieves a yellow card" minute="2" period="1" second="44" time="2" type="card received" type_id="17"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Manchester City" competition="English Premier League" game_date="2012-09-01" home_team_name="Queens Park Rangers" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="95" period="2" second="42" time="97" type="end" type_id="30"/>
+	<message comment="GOAL! Carlos Tevez scores , Assisted by Edin Dzeko (Low to the left, 18-yard box, Left footed, Open play)" minute="92" period="2" second="7" time="94" type="goal scored" type_id="16"/>
+	<message comment="Edin Dzeko misses attempt (To the left, 18-yard box, Key pass, Right footed, Open play)" minute="92" period="2" second="4" time="94" type="attempt missed" type_id="13"/>
+	<message comment="Samir Nasri is substituted off" minute="89" period="2" second="21" time="91" type="substitution off" type_id="18"/>
+	<message comment="Abdul Razak is substituted on" minute="89" period="2" second="21" time="91" type="substitution on" type_id="19"/>
+	<message comment="Esteban Granero is substituted off" minute="84" period="2" second="55" time="86" type="substitution off" type_id="18"/>
+	<message comment="Djibril Cissé is substituted on" minute="84" period="2" second="55" time="86" type="substitution on" type_id="19"/>
+	<message comment="Bobby Zamora recieves a yellow card" minute="84" period="2" second="29" time="86" type="card received" type_id="17"/>
+	<message comment="Kieron Dyer has shot blocked (Out of box, Right footed, Open play)" minute="83" period="2" second="11" time="85" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott blocks a shot" minute="83" period="2" second="11" time="85" type="save made" type_id="10"/>
+	<message comment="David Silva is substituted off" minute="81" period="2" second="34" time="83" type="substitution off" type_id="18"/>
+	<message comment="James Milner is substituted on" minute="81" period="2" second="34" time="83" type="substitution on" type_id="19"/>
+	<message comment="Ryan Nelsen misses attempt (To the right, 18-yard box, Right footed, From corner)" minute="75" period="2" second="32" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Nedum Onuoha misses attempt (High to the left, 6-yard box, Key pass, Head, From corner)" minute="75" period="2" second="30" time="77" type="attempt missed" type_id="13"/>
+	<message comment="Andrew Johnson wins a corner (To the left)" minute="75" period="2" second="0" time="77" type="corner" type_id="6"/>
+	<message comment="Pablo Zabaleta is substituted off" minute="74" period="2" second="5" time="76" type="substitution off" type_id="18"/>
+	<message comment="Kolo Touré is substituted on" minute="74" period="2" second="5" time="76" type="substitution on" type_id="19"/>
+	<message comment="Jack Rodwell recieves a yellow card" minute="73" period="2" second="37" time="75" type="card received" type_id="17"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="73" period="2" second="9" time="75" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (Out of box, Left footed, Open play)" minute="73" period="2" second="9" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Alejandro Faurlin is substituted off" minute="71" period="2" second="55" time="73" type="substitution off" type_id="18"/>
+	<message comment="Kieron Dyer is substituted on" minute="71" period="2" second="55" time="73" type="substitution on" type_id="19"/>
+	<message comment="Ryan Nelsen blocks a shot" minute="70" period="2" second="27" time="72" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Right footed, Open play)" minute="70" period="2" second="27" time="72" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko is caught offside" minute="68" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (18-yard box, Right footed, Open play)" minute="67" period="2" second="37" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Aleksandar Kolarov blocks a shot" minute="67" period="2" second="37" time="69" type="save made" type_id="10"/>
+	<message comment="Anton Ferdinand is substituted off" minute="67" period="2" second="16" time="69" type="substitution off" type_id="18"/>
+	<message comment="Nedum Onuoha is substituted on" minute="67" period="2" second="16" time="69" type="substitution on" type_id="19"/>
+	<message comment="José Bosingwa has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="65" period="2" second="21" time="67" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Standing)" minute="65" period="2" second="21" time="67" type="save made" type_id="10"/>
+	<message comment="GOAL! Edin Dzeko scores , Assisted by Carlos Tevez (Low to the left, 6-yard box, Big Chance, Head, Open play)" minute="60" period="2" second="45" time="62" type="goal scored" type_id="16"/>
+	<message comment="GOAL! Bobby Zamora scores  (Low to the right, 6-yard box, Big Chance, Head, Open play)" minute="58" period="2" second="18" time="60" type="goal scored" type_id="16"/>
+	<message comment="Andrew Johnson has attempt saved (High to the left, 18-yard box, Right footed, Open play)" minute="58" period="2" second="15" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Parried into danger)" minute="58" period="2" second="15" time="60" type="save made" type_id="10"/>
+	<message comment="Bobby Zamora misses attempt (High to the right, 18-yard box, Head, Open play)" minute="56" period="2" second="54" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Edin Dzeko is caught offside" minute="55" period="2" time="57" type="offside" type_id="10000"/>
+	<message comment="Pablo Zabaleta hits the woodwork (High, 18-yard box, Right footed, Open play)" minute="51" period="2" second="39" time="53" type="woodwork hit" type_id="14"/>
+	<message comment="Robert Green makes a save (Parried into danger)" minute="46" period="2" second="13" time="48" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="46" period="2" second="13" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="2" time="46" type="end" type_id="30"/>
+	<message comment="Esteban Granero misses attempt (High, Out of box, Right footed, Open play)" minute="45" period="1" second="41" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov recieves a yellow card" minute="44" period="1" second="48" time="44" type="card received" type_id="17"/>
+	<message comment="Shaun Wright-Phillips has shot blocked (Out of box, Right footed, From corner)" minute="42" period="1" second="25" time="42" type="attempt blocked" type_id="15"/>
+	<message comment="Edin Dzeko blocks a shot" minute="42" period="1" second="25" time="42" type="save made" type_id="10"/>
+	<message comment="Fabio wins a corner (To the left)" minute="41" period="1" second="51" time="41" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez misses attempt (High, Out of box, Right footed, Open play)" minute="38" period="1" second="43" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Fabio blocks a shot" minute="33" period="1" second="31" time="33" type="save made" type_id="10"/>
+	<message comment="David Silva has shot blocked (18-yard box, Right footed, Fast break)" minute="33" period="1" second="31" time="33" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the right)" minute="26" period="1" second="24" time="26" type="corner" type_id="6"/>
+	<message comment="Anton Ferdinand blocks a shot" minute="26" period="1" second="22" time="26" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (18-yard box, Right footed, Open play)" minute="26" period="1" second="22" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Robert Green makes a save (Diving, Parried into danger)" minute="26" period="1" second="20" time="26" type="save made" type_id="10"/>
+	<message comment="David Silva has attempt saved (High to the centre, 18-yard box, Right footed, Open play)" minute="26" period="1" second="20" time="26" type="attempt blocked" type_id="15"/>
+	<message comment="Joleon Lescott is caught offside" minute="26" period="1" time="26" type="offside" type_id="10000"/>
+	<message comment="Esteban Granero has attempt saved (Low to the right, Out of box, Left footed, Open play)" minute="23" period="1" second="55" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Joe Hart makes a save (Diving)" minute="23" period="1" second="55" time="23" type="save made" type_id="10"/>
+	<message comment="GOAL! Yaya Touré scores  (High to the right, 18-yard box, Left footed, From corner)" minute="15" period="1" second="17" time="15" type="goal scored" type_id="16"/>
+	<message comment="Bobby Zamora blocks a shot" minute="15" period="1" second="15" time="15" type="save made" type_id="10"/>
+	<message comment="Carlos Tevez has shot blocked (6-yard box, Right footed, From corner)" minute="15" period="1" second="15" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="14" period="1" second="51" time="14" type="corner" type_id="6"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="14" period="1" second="16" time="14" type="corner" type_id="6"/>
+	<message comment="Bobby Zamora wins a corner (To the left)" minute="12" period="1" second="5" time="12" type="corner" type_id="6"/>
+	<message comment="Vincent Kompany misses attempt (High, 6-yard box, Big Chance, Head, From corner)" minute="11" period="1" second="30" time="11" type="attempt missed" type_id="13"/>
+	<message comment="Yaya Touré wins a corner (To the right)" minute="11" period="1" second="5" time="11" type="corner" type_id="6"/>
+	<message comment="Anton Ferdinand blocks a shot" minute="11" period="1" second="3" time="11" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has shot blocked (18-yard box, Right footed, From corner)" minute="11" period="1" second="3" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Fabio blocks a shot (Last line)" minute="11" period="1" second="0" time="11" type="save made" type_id="10"/>
+	<message comment="Edin Dzeko has shot blocked (18-yard box, Head, From corner)" minute="11" period="1" second="0" time="11" type="attempt blocked" type_id="15"/>
+	<message comment="Samir Nasri wins a corner (To the left)" minute="10" period="1" second="43" time="10" type="corner" type_id="6"/>
+	<message comment="Robert Green makes a save" minute="8" period="1" second="3" time="8" type="save made" type_id="10"/>
+	<message comment="Yaya Touré has attempt saved (Low to the right, 18-yard box, Head, From corner)" minute="8" period="1" second="3" time="8" type="attempt blocked" type_id="15"/>
+	<message comment="Carlos Tevez wins a corner (To the right)" minute="7" period="1" second="43" time="7" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="Edin Dzeko misses attempt (To the right, 18-yard box, Head, From corner)" minute="3" period="1" second="54" time="3" type="attempt missed" type_id="13"/>
+	<message comment="Aleksandar Kolarov wins a corner (To the left)" minute="3" period="1" second="32" time="3" type="corner" type_id="6"/>
+	<message comment="Edin Dzeko wins a corner (To the left)" minute="1" period="1" second="9" time="1" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

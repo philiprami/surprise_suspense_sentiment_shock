@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Arsenal" competition="English Premier League" game_date="2010-12-04" home_team_name="Fulham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="94" period="2" second="10" time="98" type="end" type_id="30"/>
+	<message comment="Johan Djourou blocks a shot" minute="90" period="2" second="37" time="94" type="save made" type_id="10"/>
+	<message comment="Andrew Johnson has shot blocked (Out of box, Right footed, Open play)" minute="90" period="2" second="36" time="94" type="attempt blocked" type_id="15"/>
+	<message comment="Danny Murphy is substituted off" minute="88" period="2" second="17" time="92" type="substitution off" type_id="18"/>
+	<message comment="Eddie Johnson is substituted on" minute="88" period="2" second="17" time="92" type="substitution on" type_id="19"/>
+	<message comment="Zoltán Gera wins a corner (To the left)" minute="87" period="2" second="48" time="91" type="corner" type_id="6"/>
+	<message comment="Zoltán Gera has attempt saved (Low to the left, Out of box, Right footed, Open play)" minute="87" period="2" second="45" time="91" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Diving, Parried safe)" minute="87" period="2" second="45" time="91" type="save made" type_id="10"/>
+	<message comment="Theo Walcott is caught offside" minute="86" period="2" time="90" type="offside" type_id="10000"/>
+	<message comment="Zoltán Gera misses attempt (High, Out of box, Right footed, Open play)" minute="83" period="2" second="48" time="87" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Chamakh misses attempt (To the left, 18-yard box, Left footed, Open play)" minute="78" period="2" second="48" time="82" type="attempt missed" type_id="13"/>
+	<message comment="Dickson Etuhu misses attempt (18-yard box, Right footed, Open play)" minute="77" period="2" second="37" time="81" type="attempt missed" type_id="13"/>
+	<message comment="Danny Murphy wins a corner (To the left)" minute="77" period="2" second="4" time="81" type="corner" type_id="6"/>
+	<message comment="GOAL! Samir Nasri scores , Assisted by Robin van Persie (Low to the centre, 6-yard box, Right footed, Open play)" minute="74" period="2" second="59" time="78" type="goal scored" type_id="16"/>
+	<message comment="Jack Wilshere is substituted off" minute="73" period="2" second="15" time="77" type="substitution off" type_id="18"/>
+	<message comment="Theo Walcott is substituted on" minute="73" period="2" second="15" time="77" type="substitution on" type_id="19"/>
+	<message comment="Diomansy Kamara is substituted off" minute="73" period="2" second="13" time="77" type="substitution off" type_id="18"/>
+	<message comment="Andrew Johnson is substituted on" minute="73" period="2" second="13" time="77" type="substitution on" type_id="19"/>
+	<message comment="Zoltán Gera misses attempt (18-yard box, Right footed, From corner)" minute="72" period="2" second="25" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Bacary Sagna blocks a shot" minute="69" period="2" second="58" time="73" type="save made" type_id="10"/>
+	<message comment="Chris Baird has shot blocked (Out of box, Right footed, From corner)" minute="69" period="2" second="57" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Zoltán Gera has shot blocked (6-yard box, Head, From corner)" minute="69" period="2" second="55" time="73" type="attempt blocked" type_id="15"/>
+	<message comment="Robin van Persie blocks a shot (Last line)" minute="69" period="2" second="54" time="73" type="save made" type_id="10"/>
+	<message comment="Simon Davies wins a corner (To the right)" minute="69" period="2" second="30" time="73" type="corner" type_id="6"/>
+	<message comment="Alexandre Song misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="66" period="2" second="2" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Tomas Rosicky is substituted off" minute="62" period="2" second="30" time="66" type="substitution off" type_id="18"/>
+	<message comment="Robin van Persie is substituted on" minute="62" period="2" second="30" time="66" type="substitution on" type_id="19"/>
+	<message comment="Dickson Etuhu misses attempt (To the right, 18-yard box, Head, From corner)" minute="60" period="2" second="7" time="64" type="attempt missed" type_id="13"/>
+	<message comment="Simon Davies wins a corner (To the right)" minute="59" period="2" second="41" time="63" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Feet, Diving, Parried safe)" minute="56" period="2" second="27" time="60" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has attempt saved (Low to the right, 18-yard box, Left footed, Open play)" minute="56" period="2" second="27" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Brede Hangeland blocks a shot" minute="56" period="2" second="17" time="60" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has shot blocked (Out of box, Right footed, Open play)" minute="56" period="2" second="15" time="60" type="attempt blocked" type_id="15"/>
+	<message comment="Tomas Rosicky misses attempt (To the left, 18-yard box, Right footed, Open play)" minute="51" period="2" second="58" time="55" type="attempt missed" type_id="13"/>
+	<message comment="Simon Davies is caught offside" minute="50" period="2" time="54" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey wins a corner (To the left)" minute="49" period="2" second="38" time="53" type="corner" type_id="6"/>
+	<message comment="Clint Dempsey has shot blocked (Out of box, Right footed, Open play)" minute="49" period="2" second="36" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song blocks a shot" minute="49" period="2" second="36" time="53" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="2" time="48" type="end" type_id="30"/>
+	<message comment="Diomansy Kamara is caught offside" minute="47" period="1" time="47" type="offside" type_id="10000"/>
+	<message comment="Diomansy Kamara has attempt saved (Low to the right, 18-yard box, Big Chance, Left footed, Open play)" minute="45" period="1" second="4" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Lukasz Fabianski makes a save (Feet, Parried safe, Diving)" minute="45" period="1" second="4" time="45" type="save made" type_id="10"/>
+	<message comment="Clint Dempsey is caught offside" minute="45" period="1" time="45" type="offside" type_id="10000"/>
+	<message comment="Marouane Chamakh has attempt saved (High to the centre, 18-yard box, Head, Open play)" minute="44" period="1" second="37" time="44" type="attempt blocked" type_id="15"/>
+	<message comment="Mark Schwarzer makes a save" minute="44" period="1" second="37" time="44" type="save made" type_id="10"/>
+	<message comment="Marouane Chamakh misses attempt (High, 18-yard box, Head, Set piece)" minute="43" period="1" second="8" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Diomansy Kamara is caught offside" minute="40" period="1" time="40" type="offside" type_id="10000"/>
+	<message comment="Clint Dempsey wins a corner (To the left)" minute="38" period="1" second="14" time="38" type="corner" type_id="6"/>
+	<message comment="Simon Davies is caught offside" minute="35" period="1" time="35" type="offside" type_id="10000"/>
+	<message comment="Laurent Koscielny is substituted off" minute="32" period="1" second="50" time="32" type="substitution off" type_id="18"/>
+	<message comment="Johan Djourou is substituted on" minute="32" period="1" second="50" time="32" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Diomansy Kamara scores , Assisted by Clint Dempsey (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="29" period="1" second="41" time="29" type="goal scored" type_id="16"/>
+	<message comment="Mark Schwarzer makes a save" minute="28" period="1" second="24" time="28" type="save made" type_id="10"/>
+	<message comment="Sébastien Squillaci has attempt saved (High to the centre, 18-yard box, Head, From corner)" minute="28" period="1" second="24" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Matthew Briggs is substituted off" minute="28" period="1" second="16" time="28" type="substitution off" type_id="18"/>
+	<message comment="Chris Baird is substituted on" minute="28" period="1" second="16" time="28" type="substitution on" type_id="19"/>
+	<message comment="Marouane Chamakh wins a corner (To the right)" minute="27" period="1" second="49" time="27" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland blocks a shot" minute="27" period="1" second="48" time="27" type="save made" type_id="10"/>
+	<message comment="Marouane Chamakh has shot blocked (18-yard box, Big Chance, Right footed, Open play)" minute="27" period="1" second="48" time="27" type="attempt blocked" type_id="15"/>
+	<message comment="Alexandre Song misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="26" period="1" second="54" time="26" type="attempt missed" type_id="13"/>
+	<message comment="Diomansy Kamara is caught offside" minute="26" period="1" time="26" type="offside" type_id="10000"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" minute="25" period="1" second="58" time="25" type="save made" type_id="10"/>
+	<message comment="Diomansy Kamara is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Mark Schwarzer makes a save (Diving)" minute="23" period="1" second="19" time="23" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="23" period="1" second="19" time="23" type="attempt blocked" type_id="15"/>
+	<message comment="Diomansy Kamara wins a corner (To the left)" minute="19" period="1" second="10" time="19" type="corner" type_id="6"/>
+	<message comment="Diomansy Kamara misses attempt (To the right, 18-yard box, Left footed, Open play)" minute="19" period="1" second="7" time="19" type="attempt missed" type_id="13"/>
+	<message comment="Marouane Chamakh is caught offside" minute="16" period="1" time="16" type="offside" type_id="10000"/>
+	<message comment="Simon Davies has shot blocked (18-yard box, Right footed, Open play)" minute="15" period="1" second="40" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Laurent Koscielny blocks a shot" minute="15" period="1" second="40" time="15" type="save made" type_id="10"/>
+	<message comment="GOAL! Samir Nasri scores , Assisted by Andrey Arshavin (High to the right, 18-yard box, Left footed, Open play)" minute="13" period="1" second="6" time="13" type="goal scored" type_id="16"/>
+	<message comment="Samir Nasri misses attempt (To the right, 18-yard box, Big Chance, Right footed, Fast break)" minute="12" period="1" second="18" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Zoltán Gera misses attempt (Out of box, Right footed, Open play)" minute="10" period="1" second="44" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Dickson Etuhu blocks a shot" minute="10" period="1" second="4" time="10" type="save made" type_id="10"/>
+	<message comment="Samir Nasri has shot blocked (Out of box, Left footed, Open play)" minute="10" period="1" second="4" time="10" type="attempt blocked" type_id="15"/>
+	<message comment="Bacary Sagna wins a corner (To the right)" minute="9" period="1" second="22" time="9" type="corner" type_id="6"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="8" type="end" type_id="30"/>
+	<message comment="Alexandre Song wins a corner (To the right)" minute="6" period="1" second="39" time="6" type="corner" type_id="6"/>
+	<message comment="Mark Schwarzer makes a save (Parried safe, Diving, Other body part)" minute="5" period="1" second="40" time="5" type="save made" type_id="10"/>
+	<message comment="Andrey Arshavin has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Set piece)" minute="5" period="1" second="40" time="5" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Southampton" competition="English Premier League" game_date="2012-12-08" home_team_name="Reading" lang_id="en" season="Season 2012/2013" season_id="2012" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="0" time="95" type="end" type_id="30"/>
+	<message comment="Luke Shaw wins a corner (To the left)" minute="90" period="2" second="40" time="92" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Parried into danger, Diving)" minute="88" period="2" second="5" time="90" type="save made" type_id="10"/>
+	<message comment="Guly do Prado has attempt saved (Low to the centre, 18-yard box, Big Chance, Right footed, Open play)" minute="88" period="2" second="5" time="90" type="attempt blocked" type_id="15"/>
+	<message comment="Guly do Prado misses attempt (Out of box, Right footed, Open play)" minute="84" period="2" second="47" time="86" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon misses attempt (Out of box, Left footed, Open play)" minute="83" period="2" second="51" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Gastón Ramírez misses attempt (To the right, Out of box, Right footed, Open play)" minute="83" period="2" second="45" time="85" type="attempt missed" type_id="13"/>
+	<message comment="Guly do Prado is caught offside" minute="81" period="2" time="83" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is substituted off" minute="78" period="2" second="20" time="80" type="substitution off" type_id="18"/>
+	<message comment="Guly do Prado is substituted on" minute="78" period="2" second="20" time="80" type="substitution on" type_id="19"/>
+	<message comment="Hal Robson-Kanu is substituted off" minute="76" period="2" second="35" time="78" type="substitution off" type_id="18"/>
+	<message comment="Garath McCleary is substituted on" minute="76" period="2" second="35" time="78" type="substitution on" type_id="19"/>
+	<message comment="Adam Le Fondre misses attempt (To the right, 18-yard box, Head, Fast break)" minute="70" period="2" second="46" time="72" type="attempt missed" type_id="13"/>
+	<message comment="Hal Robson-Kanu has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="69" period="2" second="10" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save (Diving)" minute="69" period="2" second="10" time="71" type="save made" type_id="10"/>
+	<message comment="Jay Tabb is substituted off" minute="68" period="2" second="53" time="70" type="substitution off" type_id="18"/>
+	<message comment="Noel Hunt is substituted on" minute="68" period="2" second="53" time="70" type="substitution on" type_id="19"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the right)" minute="68" period="2" second="14" time="70" type="corner" type_id="6"/>
+	<message comment="Sean Morrison is substituted off" minute="64" period="2" second="50" time="66" type="substitution off" type_id="18"/>
+	<message comment="Alex Pearce is substituted on" minute="64" period="2" second="50" time="66" type="substitution on" type_id="19"/>
+	<message comment="Jobi McAnuff misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="64" period="2" second="20" time="66" type="attempt missed" type_id="13"/>
+	<message comment="GOAL! Jason Puncheon scores , Assisted by Nathaniel Clyne (Low to the left, 18-yard box, Right footed, Open play)" minute="60" period="2" second="3" time="62" type="goal scored" type_id="16"/>
+	<message comment="Jay Rodriguez misses attempt (Out of box, Right footed, Open play)" minute="55" period="2" second="45" time="57" type="attempt missed" type_id="13"/>
+	<message comment="Jack Cork misses attempt (To the right, 18-yard box, Head, From corner)" minute="52" period="2" second="9" time="54" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="51" period="2" second="47" time="53" type="corner" type_id="6"/>
+	<message comment="Adam Federici makes a save (Diving, Parried safe)" minute="51" period="2" second="40" time="53" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="51" period="2" second="40" time="53" type="attempt blocked" type_id="15"/>
+	<message comment="Shaun Cummings wins a corner (To the right)" minute="45" period="2" second="46" time="47" type="corner" type_id="6"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="47" type="start" type_id="32"/>
+	<message comment="First half ends" minute="46" period="1" second="58" time="46" type="end" type_id="30"/>
+	<message comment="Hal Robson-Kanu wins a corner (To the right)" minute="45" period="1" second="27" time="45" type="corner" type_id="6"/>
+	<message comment="Hal Robson-Kanu hits the woodwork (To the right, 18-yard box, Head, From corner)" minute="45" period="1" second="26" time="45" type="woodwork hit" type_id="14"/>
+	<message comment="Jason Roberts wins a corner (To the right)" minute="44" period="1" second="46" time="44" type="corner" type_id="6"/>
+	<message comment="Rickie Lambert misses attempt (High to the left, 18-yard box, Left footed, From corner)" minute="42" period="1" second="13" time="42" type="attempt missed" type_id="13"/>
+	<message comment="Jason Puncheon wins a corner (To the right)" minute="41" period="1" second="42" time="41" type="corner" type_id="6"/>
+	<message comment="Nicky Shorey blocks a shot" minute="41" period="1" second="37" time="41" type="save made" type_id="10"/>
+	<message comment="Jason Puncheon has shot blocked (18-yard box, Left footed, Open play)" minute="41" period="1" second="37" time="41" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Lallana is substituted off" minute="39" period="1" second="50" time="39" type="substitution off" type_id="18"/>
+	<message comment="Gastón Ramírez is substituted on" minute="39" period="1" second="50" time="39" type="substitution on" type_id="19"/>
+	<message comment="Jason Puncheon wins a corner (To the left)" minute="32" period="1" second="51" time="32" type="corner" type_id="6"/>
+	<message comment="Adam Lallana wins a corner (To the left)" minute="32" period="1" second="15" time="32" type="corner" type_id="6"/>
+	<message comment="Sean Morrison blocks a shot" minute="29" period="1" second="26" time="29" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has shot blocked (Out of box, Left footed, Open play)" minute="29" period="1" second="26" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Tabb has attempt saved (Low to the centre, 18-yard box, Right footed, Fast break)" minute="28" period="1" second="0" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Kelvin Davis makes a save (Diving, Parried into danger)" minute="28" period="1" second="0" time="28" type="save made" type_id="10"/>
+	<message comment="Jason Roberts is caught offside" minute="24" period="1" time="24" type="offside" type_id="10000"/>
+	<message comment="Adam Lallana misses attempt (High to the right, 18-yard box, Right footed, Open play)" minute="22" period="1" second="11" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Adam Le Fondre is caught offside" minute="21" period="1" time="21" type="offside" type_id="10000"/>
+	<message comment="Adam Federici makes a save (Diving, Parried safe)" minute="20" period="1" second="19" time="20" type="save made" type_id="10"/>
+	<message comment="Rickie Lambert has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="20" period="1" second="19" time="20" type="attempt blocked" type_id="15"/>
+	<message comment="Jay Tabb misses attempt (18-yard box, Right footed, Open play)" minute="18" period="1" second="8" time="18" type="attempt missed" type_id="13"/>
+	<message comment="Adam Federici makes a save (Collected, Diving)" minute="15" period="1" second="39" time="15" type="save made" type_id="10"/>
+	<message comment="Adam Lallana has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="15" period="1" second="39" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Adam Le Fondre is caught offside" minute="15" period="1" time="15" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez wins a corner (To the right)" minute="10" period="1" second="5" time="10" type="corner" type_id="6"/>
+	<message comment="Jobi McAnuff is caught offside" minute="10" period="1" time="10" type="offside" type_id="10000"/>
+	<message comment="Jay Rodriguez is caught offside" minute="8" period="1" time="8" type="offside" type_id="10000"/>
+	<message comment="Morgan Schneiderlin misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="7" period="1" second="40" time="7" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert misses attempt (Out of box, Right footed, Open play)" minute="6" period="1" second="22" time="6" type="attempt missed" type_id="13"/>
+	<message comment="Sean Morrison blocks a shot" minute="6" period="1" second="19" time="6" type="save made" type_id="10"/>
+	<message comment="Jay Rodriguez has shot blocked (Out of box, Right footed, Open play)" minute="6" period="1" second="19" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="5" type="end" type_id="30"/>
+	<message comment="Jay Rodriguez misses attempt (18-yard box, Big Chance, Right footed, Open play)" minute="1" period="1" second="28" time="1" type="attempt missed" type_id="13"/>
+	<message comment="Rickie Lambert wins a corner (To the right)" minute="0" period="1" second="47" time="0" type="corner" type_id="6"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>

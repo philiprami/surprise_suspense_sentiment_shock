@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Sunderland" competition="English Premier League" game_date="2013-10-27 13:30" game_id_2="27086438" game_id_4="111523123" home_team_name="Newcastle" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-10-27 16:35:10" minute="94" period="2" second="0" team="Newcastle" time="97" type="end" type_id="30"/>
+	<message comment="Keiren Westwood makes a save (Collected)" last_modified="2013-10-27 16:34:40" minute="93" period="2" second="30" team="Newcastle" time="96" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the centre, Out of box, Right footed, Open play)" last_modified="2013-10-27 16:34:40" minute="93" period="2" second="30" team="Sunderland" time="96" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Fletcher wins a corner (To the right)" last_modified="2013-10-27 16:33:19" minute="92" period="2" second="9" team="Newcastle" time="95" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher wins a corner (To the right)" last_modified="2013-10-27 16:32:51" minute="91" period="2" second="41" team="Newcastle" time="94" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson wins a corner (To the right)" last_modified="2013-10-27 16:32:17" minute="91" period="2" second="7" team="Newcastle" time="94" type="corner" type_id="6"/>
+	<message comment="Keiren Westwood makes a save (Diving)" last_modified="2013-10-27 16:29:10" minute="88" period="2" second="0" team="Newcastle" time="91" type="save made" type_id="10"/>
+	<message comment="Yoan Gouffran is substituted off" last_modified="2013-10-27 16:27:05" minute="85" period="2" second="55" team="Sunderland" time="88" type="substitution off" type_id="18"/>
+	<message comment="Sammy Ameobi is substituted on" last_modified="2013-10-27 16:27:05" minute="85" period="2" second="55" team="Sunderland" time="88" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Fabio Borini scores , Assisted by Jozy Altidore (High to the right, Out of box, Right footed, Open play)" last_modified="2013-10-27 16:25:05" minute="83" period="2" second="55" team="Newcastle" time="86" type="goal scored" type_id="16"/>
+	<message comment="Jack Colback blocks a shot" last_modified="2013-10-27 16:24:40" minute="83" period="2" second="30" team="Newcastle" time="86" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-10-27 16:24:40" minute="83" period="2" second="30" team="Sunderland" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Fletcher has shot blocked (Out of box, Left footed, Free kick)" last_modified="2013-10-27 16:21:37" minute="80" period="2" second="27" team="Newcastle" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Cheick Tioté blocks a shot" last_modified="2013-10-27 16:21:37" minute="80" period="2" second="27" team="Sunderland" time="83" type="save made" type_id="10"/>
+	<message comment="Shola Ameobi misses attempt (Out of box, Right footed, Open play)" last_modified="2013-10-27 16:18:22" minute="77" period="2" second="12" team="Sunderland" time="80" type="attempt missed" type_id="13"/>
+	<message comment="Phil Bardsley is substituted off" last_modified="2013-10-27 16:17:23" minute="76" period="2" second="13" team="Newcastle" time="79" type="substitution off" type_id="18"/>
+	<message comment="Ondrej Celustka is substituted on" last_modified="2013-10-27 16:17:23" minute="76" period="2" second="13" team="Newcastle" time="79" type="substitution on" type_id="19"/>
+	<message comment="Jozy Altidore is caught offside" last_modified="2013-10-27 16:17:10" minute="76" period="2" team="Newcastle" time="79" type="offside" type_id="10000"/>
+	<message comment="Davide Santon misses attempt (Out of box, Right footed, Open play)" last_modified="2013-10-27 16:16:45" minute="75" period="2" second="35" team="Sunderland" time="78" type="attempt missed" type_id="13"/>
+	<message comment="Steven Fletcher is caught offside" last_modified="2013-10-27 16:15:10" minute="74" period="2" team="Newcastle" time="77" type="offside" type_id="10000"/>
+	<message comment="Keiren Westwood makes a save (Collected)" last_modified="2013-10-27 16:13:44" minute="72" period="2" second="34" team="Newcastle" time="75" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-10-27 16:13:44" minute="72" period="2" second="34" team="Sunderland" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Lee Cattermole is substituted off" last_modified="2013-10-27 16:10:50" minute="69" period="2" second="40" team="Newcastle" time="72" type="substitution off" type_id="18"/>
+	<message comment="Ki Sung-Yueng is substituted on" last_modified="2013-10-27 16:10:50" minute="69" period="2" second="40" team="Newcastle" time="72" type="substitution on" type_id="19"/>
+	<message comment="Loïc Rémy is substituted off" last_modified="2013-10-27 16:10:35" minute="69" period="2" second="25" team="Sunderland" time="72" type="substitution off" type_id="18"/>
+	<message comment="Shola Ameobi is substituted on" last_modified="2013-10-27 16:10:35" minute="69" period="2" second="25" team="Sunderland" time="72" type="substitution on" type_id="19"/>
+	<message comment="Fabio Borini has attempt saved (Low to the left, 18-yard box, Right footed, Open play)" last_modified="2013-10-27 16:09:38" minute="68" period="2" second="28" team="Newcastle" time="71" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried safe, Diving)" last_modified="2013-10-27 16:09:38" minute="68" period="2" second="28" team="Sunderland" time="71" type="save made" type_id="10"/>
+	<message comment="Adam Johnson is substituted off" last_modified="2013-10-27 16:09:13" minute="68" period="2" second="3" team="Newcastle" time="71" type="substitution off" type_id="18"/>
+	<message comment="Fabio Borini is substituted on" last_modified="2013-10-27 16:09:13" minute="68" period="2" second="3" team="Newcastle" time="71" type="substitution on" type_id="19"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2013-10-27 16:09:10" minute="68" period="2" team="Sunderland" time="71" type="offside" type_id="10000"/>
+	<message comment="Carlos Cuellar blocks a shot" last_modified="2013-10-27 16:07:33" minute="66" period="2" second="23" team="Newcastle" time="69" type="save made" type_id="10"/>
+	<message comment="Davide Santon has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-27 16:07:33" minute="66" period="2" second="23" team="Sunderland" time="69" type="attempt blocked" type_id="15"/>
+	<message comment="Yohan Cabaye misses attempt (Out of box, Right footed, Open play)" last_modified="2013-10-27 16:03:49" minute="62" period="2" second="39" team="Sunderland" time="65" type="attempt missed" type_id="13"/>
+	<message comment="Sebastian Larsson misses attempt (High, Out of box, Right footed, From corner)" last_modified="2013-10-27 16:02:00" minute="60" period="2" second="50" team="Newcastle" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Adam Johnson wins a corner (To the left)" last_modified="2013-10-27 16:01:30" minute="60" period="2" second="20" team="Newcastle" time="63" type="corner" type_id="6"/>
+	<message comment="GOAL! Mathieu Debuchy scores , Assisted by Hatem Ben Arfa (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" last_modified="2013-10-27 15:58:08" minute="56" period="2" second="58" team="Sunderland" time="59" type="goal scored" type_id="16"/>
+	<message comment="Lee Cattermole blocks a shot" last_modified="2013-10-27 15:57:48" minute="56" period="2" second="38" team="Newcastle" time="59" type="save made" type_id="10"/>
+	<message comment="Hatem Ben Arfa has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-10-27 15:57:48" minute="56" period="2" second="38" team="Sunderland" time="59" type="attempt blocked" type_id="15"/>
+	<message comment="Andrea Dossena misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-10-27 15:49:06" minute="47" period="2" second="56" team="Newcastle" time="50" type="attempt missed" type_id="13"/>
+	<message comment="Moussa Sissoko is substituted off" last_modified="2013-10-27 15:46:10" minute="45" period="2" second="0" team="Sunderland" time="48" type="substitution off" type_id="18"/>
+	<message comment="Papiss Demba Cissé is substituted on" last_modified="2013-10-27 15:46:10" minute="45" period="2" second="0" team="Sunderland" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-10-27 15:46:10" minute="45" period="2" second="0" team="Newcastle" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-10-27 15:48:10" minute="47" period="1" second="0" team="Newcastle" time="47" type="end" type_id="30"/>
+	<message comment="Sebastian Larsson is caught offside" last_modified="2013-10-27 15:42:10" minute="41" period="1" team="Newcastle" time="41" type="offside" type_id="10000"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the right, Out of box, Left footed, Free kick)" last_modified="2013-10-27 15:38:33" minute="37" period="1" second="23" team="Sunderland" time="37" type="attempt missed" type_id="13"/>
+	<message comment="Yoan Gouffran wins a corner (To the right)" last_modified="2013-10-27 15:31:36" minute="30" period="1" second="26" team="Sunderland" time="30" type="corner" type_id="6"/>
+	<message comment="Mike Williamson misses attempt (18-yard box, Head, From corner)" last_modified="2013-10-27 15:31:06" minute="29" period="1" second="56" team="Sunderland" time="29" type="attempt missed" type_id="13"/>
+	<message comment="Loïc Rémy wins a corner (To the left)" last_modified="2013-10-27 15:30:33" minute="29" period="1" second="23" team="Sunderland" time="29" type="corner" type_id="6"/>
+	<message comment="Yohan Cabaye recieves a yellow card" last_modified="2013-10-27 15:29:05" minute="27" period="1" second="55" team="Sunderland" time="27" type="card received" type_id="17"/>
+	<message comment="Loïc Rémy is caught offside" last_modified="2013-10-27 15:28:10" minute="27" period="1" team="Sunderland" time="27" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-10-27 15:23:30" minute="22" period="1" second="20" team="Sunderland" time="22" type="attempt missed" type_id="13"/>
+	<message comment="Mathieu Debuchy misses attempt (To the left, Out of box, Right footed, From corner)" last_modified="2013-10-27 15:21:23" minute="20" period="1" second="13" team="Sunderland" time="20" type="attempt missed" type_id="13"/>
+	<message comment="Jack Colback is caught offside" last_modified="2013-10-27 15:21:10" minute="20" period="1" team="Newcastle" time="20" type="offside" type_id="10000"/>
+	<message comment="Yohan Cabaye wins a corner (To the left)" last_modified="2013-10-27 15:20:54" minute="19" period="1" second="44" team="Sunderland" time="19" type="corner" type_id="6"/>
+	<message comment="Steven Fletcher has attempt saved (Low to the left, Out of box, Left footed, Open play)" last_modified="2013-10-27 15:17:09" minute="15" period="1" second="59" team="Newcastle" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Tim Krul makes a save (Parried into danger, Diving)" last_modified="2013-10-27 15:17:09" minute="15" period="1" second="59" team="Sunderland" time="15" type="save made" type_id="10"/>
+	<message comment="Keiren Westwood makes a save (Parried safe)" last_modified="2013-10-27 15:16:40" minute="15" period="1" second="30" team="Newcastle" time="15" type="save made" type_id="10"/>
+	<message comment="Yohan Cabaye has attempt saved (Low to the right, Out of box, Right footed, Free kick)" last_modified="2013-10-27 15:16:40" minute="15" period="1" second="30" team="Sunderland" time="15" type="attempt blocked" type_id="15"/>
+	<message comment="Steven Fletcher misses attempt (To the right, 18-yard box, Head, Open play)" last_modified="2013-10-27 15:14:52" minute="13" period="1" second="42" team="Newcastle" time="13" type="attempt missed" type_id="13"/>
+	<message comment="Hatem Ben Arfa misses attempt (High to the left, Out of box, Left footed, Open play)" last_modified="2013-10-27 15:13:59" minute="12" period="1" second="49" team="Sunderland" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Yohan Cabaye misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-10-27 15:11:19" minute="10" period="1" second="9" team="Sunderland" time="10" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" last_modified="2013-10-27 15:01:10" minute="0" period="14" second="0" team="Newcastle" time="7" type="end" type_id="30"/>
+	<message comment="Steven Fletcher recieves a yellow card" last_modified="2013-10-27 15:06:09" minute="4" period="1" second="59" team="Newcastle" time="4" type="card received" type_id="17"/>
+	<message comment="GOAL! Steven Fletcher scores , Assisted by Adam Johnson (Low to the left, 6-yard box, Big Chance, Head, From corner)" last_modified="2013-10-27 15:05:36" minute="4" period="1" second="26" team="Newcastle" time="4" type="goal scored" type_id="16"/>
+	<message comment="Jozy Altidore wins a corner (To the right)" last_modified="2013-10-27 15:05:00" minute="3" period="1" second="50" team="Newcastle" time="3" type="corner" type_id="6"/>
+	<message comment="First half begins!" last_modified="2013-10-27 15:01:10" minute="0" period="1" second="0" team="Newcastle" time="0" type="start" type_id="32"/>
+</Commentary>

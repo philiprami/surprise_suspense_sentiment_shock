@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Fulham" competition="English Premier League" game_date="2013-10-05 15:00" game_id_2="27073275" game_id_4="111189539" home_team_name="Stoke" lang_id="en" season="Season 2013/2014" season_id="2013" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" last_modified="2013-10-05 16:35:32" minute="94" period="2" second="34" team="Stoke" time="97" type="end" type_id="30"/>
+	<message comment="Philippe Senderos recieves a yellow card" last_modified="2013-10-05 16:33:13" minute="92" period="2" second="15" team="Stoke" time="95" type="card received" type_id="17"/>
+	<message comment="Marko Arnautovic misses attempt (To the left, Out of box, Right footed, Open play)" last_modified="2013-10-05 16:32:58" minute="92" period="2" second="0" team="Fulham" time="95" type="attempt missed" type_id="13"/>
+	<message comment="Steve Sidwell wins a corner (To the right)" last_modified="2013-10-05 16:30:38" minute="89" period="2" second="40" team="Stoke" time="92" type="corner" type_id="6"/>
+	<message comment="Sascha Riether wins a corner (To the right)" last_modified="2013-10-05 16:30:03" minute="89" period="2" second="5" team="Stoke" time="92" type="corner" type_id="6"/>
+	<message comment="Erik Pieters misses attempt (To the right, Out of box, Left footed, Open play)" last_modified="2013-10-05 16:29:12" minute="88" period="2" second="14" team="Fulham" time="91" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters is substituted off" last_modified="2013-10-05 16:24:26" minute="83" period="2" second="28" team="Fulham" time="86" type="substitution off" type_id="18"/>
+	<message comment="Peter Crouch is substituted on" last_modified="2013-10-05 16:24:26" minute="83" period="2" second="28" team="Fulham" time="86" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Darren Bent scores  (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" last_modified="2013-10-05 16:22:59" minute="82" period="2" second="1" team="Stoke" time="85" type="goal scored" type_id="16"/>
+	<message comment="Sascha Riether wins a corner (To the right)" last_modified="2013-10-05 16:21:03" minute="80" period="2" second="5" team="Stoke" time="83" type="corner" type_id="6"/>
+	<message comment="Sascha Riether has attempt saved (Low to the right, 18-yard box, Right footed, Fast break)" last_modified="2013-10-05 16:21:02" minute="80" period="2" second="4" team="Stoke" time="83" type="attempt blocked" type_id="15"/>
+	<message comment="Asmir Begovic makes a save (Diving, Parried safe)" last_modified="2013-10-05 16:21:02" minute="80" period="2" second="4" team="Fulham" time="83" type="save made" type_id="10"/>
+	<message comment="Robert Huth has shot blocked (18-yard box, Head, From corner)" last_modified="2013-10-05 16:20:35" minute="79" period="2" second="37" team="Fulham" time="82" type="attempt blocked" type_id="15"/>
+	<message comment="Sascha Riether blocks a shot (Last line)" last_modified="2013-10-05 16:20:35" minute="79" period="2" second="37" team="Stoke" time="82" type="save made" type_id="10"/>
+	<message comment="Stephen Ireland wins a corner (To the right)" last_modified="2013-10-05 16:20:08" minute="79" period="2" second="10" team="Fulham" time="82" type="corner" type_id="6"/>
+	<message comment="Jonathan Walters wins a corner (To the right)" last_modified="2013-10-05 16:18:58" minute="78" period="2" second="0" team="Fulham" time="81" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell wins a corner (To the right)" last_modified="2013-10-05 16:17:23" minute="76" period="2" second="25" team="Stoke" time="79" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-05 16:17:22" minute="76" period="2" second="24" team="Stoke" time="79" type="attempt blocked" type_id="15"/>
+	<message comment="Glenn Whelan blocks a shot" last_modified="2013-10-05 16:17:22" minute="76" period="2" second="24" team="Fulham" time="79" type="save made" type_id="10"/>
+	<message comment="Fernando Amorebieta is caught offside" last_modified="2013-10-05 16:16:58" minute="76" period="2" team="Stoke" time="79" type="offside" type_id="10000"/>
+	<message comment="Jonathan Walters recieves a yellow card" last_modified="2013-10-05 16:14:48" minute="73" period="2" second="50" team="Fulham" time="76" type="card received" type_id="17"/>
+	<message comment="Kieran Richardson recieves a yellow card" last_modified="2013-10-05 16:14:47" minute="73" period="2" second="49" team="Stoke" time="76" type="card received" type_id="17"/>
+	<message comment="Philippe Senderos blocks a shot" last_modified="2013-10-05 16:13:31" minute="72" period="2" second="33" team="Stoke" time="75" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-10-05 16:13:31" minute="72" period="2" second="33" team="Fulham" time="75" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Ireland is caught offside" last_modified="2013-10-05 16:12:58" minute="72" period="2" team="Fulham" time="75" type="offside" type_id="10000"/>
+	<message comment="Stephen Ireland misses attempt (18-yard box, Left footed, Open play)" last_modified="2013-10-05 16:09:20" minute="68" period="2" second="22" team="Fulham" time="71" type="attempt missed" type_id="13"/>
+	<message comment="Robert Huth misses attempt (6-yard box, Big Chance, Head, From corner)" last_modified="2013-10-05 16:08:30" minute="67" period="2" second="32" team="Fulham" time="70" type="attempt missed" type_id="13"/>
+	<message comment="Geoff Cameron wins a corner (To the left)" last_modified="2013-10-05 16:08:02" minute="67" period="2" second="4" team="Fulham" time="70" type="corner" type_id="6"/>
+	<message comment="Steve Sidwell blocks a shot" last_modified="2013-10-05 16:08:01" minute="67" period="2" second="3" team="Stoke" time="70" type="save made" type_id="10"/>
+	<message comment="Geoff Cameron has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-05 16:08:01" minute="67" period="2" second="3" team="Fulham" time="70" type="attempt blocked" type_id="15"/>
+	<message comment="Dimitar Berbatov is substituted off" last_modified="2013-10-05 16:06:08" minute="65" period="2" second="10" team="Stoke" time="68" type="substitution off" type_id="18"/>
+	<message comment="Darren Bent is substituted on" last_modified="2013-10-05 16:06:08" minute="65" period="2" second="10" team="Stoke" time="68" type="substitution on" type_id="19"/>
+	<message comment="Marko Arnautovic is caught offside" last_modified="2013-10-05 16:04:58" minute="64" period="2" team="Fulham" time="67" type="offside" type_id="10000"/>
+	<message comment="David Stockdale makes a save (Diving)" last_modified="2013-10-05 16:04:43" minute="63" period="2" second="45" team="Stoke" time="66" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has attempt saved (Low to the left, Out of box, Right footed, Open play)" last_modified="2013-10-05 16:04:43" minute="63" period="2" second="45" team="Fulham" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-10-05 16:03:58" minute="63" period="2" team="Fulham" time="66" type="offside" type_id="10000"/>
+	<message comment="Matthew Etherington is substituted off" last_modified="2013-10-05 16:03:28" minute="62" period="2" second="30" team="Fulham" time="65" type="substitution off" type_id="18"/>
+	<message comment="Oussama Assaidi is substituted on" last_modified="2013-10-05 16:03:28" minute="62" period="2" second="30" team="Fulham" time="65" type="substitution on" type_id="19"/>
+	<message comment="Dimitar Berbatov is caught offside" last_modified="2013-10-05 16:01:58" minute="61" period="2" team="Stoke" time="64" type="offside" type_id="10000"/>
+	<message comment="Marko Arnautovic misses attempt (Out of box, Right footed, Open play)" last_modified="2013-10-05 16:01:48" minute="60" period="2" second="50" team="Fulham" time="63" type="attempt missed" type_id="13"/>
+	<message comment="Glenn Whelan recieves a yellow card" last_modified="2013-10-05 16:00:46" minute="59" period="2" second="48" team="Fulham" time="62" type="card received" type_id="17"/>
+	<message comment="Giorgos Karagounis is substituted off" last_modified="2013-10-05 16:00:22" minute="59" period="2" second="24" team="Stoke" time="62" type="substitution off" type_id="18"/>
+	<message comment="Derek Boateng is substituted on" last_modified="2013-10-05 16:00:22" minute="59" period="2" second="24" team="Stoke" time="62" type="substitution on" type_id="19"/>
+	<message comment="Marc Wilson is substituted off" last_modified="2013-10-05 15:59:23" minute="58" period="2" second="25" team="Fulham" time="61" type="substitution off" type_id="18"/>
+	<message comment="Glenn Whelan is substituted on" last_modified="2013-10-05 15:59:23" minute="58" period="2" second="25" team="Fulham" time="61" type="substitution on" type_id="19"/>
+	<message comment="Fernando Amorebieta blocks a shot" last_modified="2013-10-05 15:56:43" minute="55" period="2" second="45" team="Stoke" time="58" type="save made" type_id="10"/>
+	<message comment="Jonathan Walters has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-05 15:56:43" minute="55" period="2" second="45" team="Fulham" time="58" type="attempt blocked" type_id="15"/>
+	<message comment="Marko Arnautovic misses attempt (Out of box, Right footed, Open play)" last_modified="2013-10-05 15:56:28" minute="55" period="2" second="30" team="Fulham" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Bryan Ruiz is caught offside" last_modified="2013-10-05 15:52:58" minute="52" period="2" team="Stoke" time="55" type="offside" type_id="10000"/>
+	<message comment="Robert Huth misses attempt (18-yard box, Head, From corner)" last_modified="2013-10-05 15:50:02" minute="49" period="2" second="4" team="Fulham" time="52" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic wins a corner (To the left)" last_modified="2013-10-05 15:49:34" minute="48" period="2" second="36" team="Fulham" time="51" type="corner" type_id="6"/>
+	<message comment="Pajtim Kasami wins a corner (To the right)" last_modified="2013-10-05 15:46:39" minute="45" period="2" second="41" team="Stoke" time="48" type="corner" type_id="6"/>
+	<message comment="Brede Hangeland is substituted off" last_modified="2013-10-05 15:45:58" minute="45" period="2" second="0" team="Stoke" time="48" type="substitution off" type_id="18"/>
+	<message comment="Kieran Richardson is substituted on" last_modified="2013-10-05 15:45:58" minute="45" period="2" second="0" team="Stoke" time="48" type="substitution on" type_id="19"/>
+	<message comment="Second half begins!" last_modified="2013-10-05 15:45:58" minute="45" period="2" second="0" team="Stoke" time="48" type="start" type_id="32"/>
+	<message comment="First half ends" last_modified="2013-10-05 15:48:09" minute="47" period="1" second="11" team="Stoke" time="47" type="end" type_id="30"/>
+	<message comment="Giorgos Karagounis is caught offside" last_modified="2013-10-05 15:45:58" minute="45" period="1" team="Stoke" time="45" type="offside" type_id="10000"/>
+	<message comment="Bryan Ruiz wins a corner (To the left)" last_modified="2013-10-05 15:45:49" minute="44" period="1" second="51" team="Stoke" time="44" type="corner" type_id="6"/>
+	<message comment="Marko Arnautovic is caught offside" last_modified="2013-10-05 15:43:58" minute="43" period="1" team="Fulham" time="43" type="offside" type_id="10000"/>
+	<message comment="Jonathan Walters is caught offside" last_modified="2013-10-05 15:41:58" minute="41" period="1" team="Fulham" time="41" type="offside" type_id="10000"/>
+	<message comment="Damien Duff has shot blocked (Out of box, Right footed, Open play)" last_modified="2013-10-05 15:39:39" minute="38" period="1" second="41" team="Stoke" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2013-10-05 15:39:39" minute="38" period="1" second="41" team="Fulham" time="38" type="save made" type_id="10"/>
+	<message comment="Steve Sidwell misses attempt (18-yard box, Head, Open play)" last_modified="2013-10-05 15:37:08" minute="36" period="1" second="10" team="Stoke" time="36" type="attempt missed" type_id="13"/>
+	<message comment="Fernando Amorebieta misses attempt (High to the left, Out of box, Left footed, Set piece)" last_modified="2013-10-05 15:36:14" minute="35" period="1" second="16" team="Stoke" time="35" type="attempt missed" type_id="13"/>
+	<message comment="Dimitar Berbatov is caught offside" last_modified="2013-10-05 15:33:58" minute="33" period="1" team="Stoke" time="33" type="offside" type_id="10000"/>
+	<message comment="Steve Sidwell misses attempt (High, Out of box, Right footed, Open play)" last_modified="2013-10-05 15:33:26" minute="32" period="1" second="28" team="Stoke" time="32" type="attempt missed" type_id="13"/>
+	<message comment="Sascha Riether blocks a shot (Last line)" last_modified="2013-10-05 15:29:22" minute="28" period="1" second="24" team="Stoke" time="28" type="save made" type_id="10"/>
+	<message comment="Robert Huth has shot blocked (18-yard box, Head, From corner)" last_modified="2013-10-05 15:29:22" minute="28" period="1" second="24" team="Fulham" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Marko Arnautovic wins a corner (To the right)" last_modified="2013-10-05 15:29:00" minute="28" period="1" second="2" team="Fulham" time="28" type="corner" type_id="6"/>
+	<message comment="Pajtim Kasami blocks a shot" last_modified="2013-10-05 15:28:58" minute="28" period="1" second="0" team="Stoke" time="28" type="save made" type_id="10"/>
+	<message comment="Marko Arnautovic has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-10-05 15:28:58" minute="28" period="1" second="0" team="Fulham" time="28" type="attempt blocked" type_id="15"/>
+	<message comment="Fernando Amorebieta recieves a yellow card" last_modified="2013-10-05 15:28:07" minute="27" period="1" second="9" team="Stoke" time="27" type="card received" type_id="17"/>
+	<message comment="Bryan Ruiz wins a corner (To the left)" last_modified="2013-10-05 15:24:10" minute="23" period="1" second="12" team="Stoke" time="23" type="corner" type_id="6"/>
+	<message comment="Geoff Cameron misses attempt (To the right, 18-yard box, Head, Set piece)" last_modified="2013-10-05 15:18:42" minute="17" period="1" second="44" team="Fulham" time="17" type="attempt missed" type_id="13"/>
+	<message comment="Marko Arnautovic misses attempt (To the right, 18-yard box, Right footed, Set piece)" last_modified="2013-10-05 15:13:23" minute="12" period="1" second="25" team="Fulham" time="12" type="attempt missed" type_id="13"/>
+	<message comment="Jonathan Walters blocks a shot" last_modified="2013-10-05 15:08:04" minute="7" period="1" second="6" team="Fulham" time="7" type="save made" type_id="10"/>
+	<message comment="Giorgos Karagounis has shot blocked (Out of box, Right footed, Free kick)" last_modified="2013-10-05 15:08:04" minute="7" period="1" second="6" team="Stoke" time="7" type="attempt blocked" type_id="15"/>
+	<message comment="Pajtim Kasami is caught offside" last_modified="2013-10-05 15:07:58" minute="7" period="1" team="Stoke" time="7" type="offside" type_id="10000"/>
+	<message comment="Formation Set" last_modified="2013-10-05 15:00:58" minute="0" period="14" second="0" team="Stoke" time="7" type="end" type_id="30"/>
+	<message comment="Ryan Shawcross blocks a shot" last_modified="2013-10-05 15:02:51" minute="1" period="1" second="53" team="Fulham" time="1" type="save made" type_id="10"/>
+	<message comment="Bryan Ruiz has shot blocked (Out of box, Left footed, Open play)" last_modified="2013-10-05 15:02:51" minute="1" period="1" second="53" team="Stoke" time="1" type="attempt blocked" type_id="15"/>
+	<message comment="First half begins!" last_modified="2013-10-05 15:00:58" minute="0" period="1" second="0" team="Stoke" time="0" type="start" type_id="32"/>
+</Commentary>

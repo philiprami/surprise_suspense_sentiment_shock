@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Commentary away_team_name="Liverpool" competition="English Premier League" game_date="2011-04-23" home_team_name="Birmingham" lang_id="en" season="Season 2010/2011" season_id="2010" sport_id="1" sport_name="Football">
+	<message comment="Second half ends" minute="93" period="2" second="3" time="97" type="end" type_id="30"/>
+	<message comment="Dirk Kuyt has shot blocked (18-yard box, Right footed, Open play)" minute="91" period="2" second="3" time="95" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Jiranek blocks a shot" minute="91" period="2" second="3" time="95" type="save made" type_id="10"/>
+	<message comment="David N'Gog wins a corner (To the left)" minute="90" period="2" second="35" time="94" type="corner" type_id="6"/>
+	<message comment="Maxi Rodríguez is substituted off" minute="88" period="2" second="51" time="92" type="substitution off" type_id="18"/>
+	<message comment="David N'Gog is substituted on" minute="88" period="2" second="51" time="92" type="substitution on" type_id="19"/>
+	<message comment="GOAL! Joe Cole scores , Assisted by Dirk Kuyt (Low to the right, 18-yard box, Right footed, Open play)" minute="85" period="2" second="7" time="89" type="goal scored" type_id="16"/>
+	<message comment="Raul Meireles is substituted off" minute="84" period="2" second="2" time="88" type="substitution off" type_id="18"/>
+	<message comment="Joe Cole is substituted on" minute="84" period="2" second="2" time="88" type="substitution on" type_id="19"/>
+	<message comment="Kevin Phillips has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="82" period="2" second="51" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing, Parried safe)" minute="82" period="2" second="51" time="86" type="save made" type_id="10"/>
+	<message comment="Kevin Phillips has attempt saved (Low to the right, Out of box, Right footed, Open play)" minute="82" period="2" second="22" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="82" period="2" second="22" time="86" type="save made" type_id="10"/>
+	<message comment="Colin Doyle makes a save (Standing)" minute="82" period="2" second="0" time="86" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="82" period="2" second="0" time="86" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner is substituted off" minute="78" period="2" second="37" time="82" type="substitution off" type_id="18"/>
+	<message comment="Kevin Phillips is substituted on" minute="78" period="2" second="37" time="82" type="substitution on" type_id="19"/>
+	<message comment="Jack Robinson is substituted off" minute="78" period="2" second="17" time="82" type="substitution off" type_id="18"/>
+	<message comment="Jonjo Shelvey is substituted on" minute="78" period="2" second="17" time="82" type="substitution on" type_id="19"/>
+	<message comment="Cameron Jerome has shot blocked (18-yard box, Right footed, Open play)" minute="77" period="2" second="26" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Jon Flanagan blocks a shot" minute="77" period="2" second="26" time="81" type="save made" type_id="10"/>
+	<message comment="David Bentley has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="77" period="2" second="21" time="81" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Standing)" minute="77" period="2" second="21" time="81" type="save made" type_id="10"/>
+	<message comment="GOAL! Maxi Rodríguez scores  (Low to the right, 6-yard box, Big Chance, Right footed, Open play)" minute="72" period="2" second="53" time="76" type="goal scored" type_id="16"/>
+	<message comment="Colin Doyle makes a save (Parried into danger, Diving)" minute="72" period="2" second="51" time="76" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="72" period="2" second="51" time="76" type="attempt blocked" type_id="15"/>
+	<message comment="Stephen Carr misses attempt (High to the right, Out of box, Right footed, Open play)" minute="72" period="2" second="13" time="76" type="attempt missed" type_id="13"/>
+	<message comment="Aliaksandr Hleb is substituted off" minute="66" period="2" second="25" time="70" type="substitution off" type_id="18"/>
+	<message comment="David Bentley is substituted on" minute="66" period="2" second="25" time="70" type="substitution on" type_id="19"/>
+	<message comment="Maxi Rodríguez is caught offside" minute="66" period="2" time="70" type="offside" type_id="10000"/>
+	<message comment="GOAL! Maxi Rodríguez scores , Assisted by Luis Suárez (Low to the centre, 6-yard box, Big Chance, Right footed, Fast break)" minute="65" period="2" second="44" time="69" type="goal scored" type_id="16"/>
+	<message comment="Keith Fahey wins a corner (To the right)" minute="62" period="2" second="38" time="66" type="corner" type_id="6"/>
+	<message comment="Keith Fahey has shot blocked (Out of box, Right footed, Open play)" minute="62" period="2" second="36" time="66" type="attempt blocked" type_id="15"/>
+	<message comment="Martin Skrtel blocks a shot" minute="62" period="2" second="36" time="66" type="save made" type_id="10"/>
+	<message comment="Luis Suárez wins a corner (To the right)" minute="60" period="2" second="37" time="64" type="corner" type_id="6"/>
+	<message comment="Keith Fahey misses attempt (To the left, Out of box, Right footed, Open play)" minute="58" period="2" second="38" time="62" type="attempt missed" type_id="13"/>
+	<message comment="Luis Suárez misses attempt (High, Out of box, Right footed, Free kick)" minute="54" period="2" second="22" time="58" type="attempt missed" type_id="13"/>
+	<message comment="Liam Ridgewell is caught offside" minute="52" period="2" time="56" type="offside" type_id="10000"/>
+	<message comment="Raul Meireles wins a corner (To the right)" minute="51" period="2" second="10" time="55" type="corner" type_id="6"/>
+	<message comment="Jack Robinson recieves a yellow card" minute="48" period="2" second="6" time="52" type="card received" type_id="17"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the centre, Out of box, Left footed, Open play)" minute="45" period="2" second="9" time="49" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Standing)" minute="45" period="2" second="9" time="49" type="save made" type_id="10"/>
+	<message comment="Second half begins!" minute="45" period="2" second="0" time="49" type="start" type_id="32"/>
+	<message comment="First half ends" minute="48" period="1" second="51" time="48" type="end" type_id="30"/>
+	<message comment="Colin Doyle makes a save (Collected)" minute="48" period="1" second="15" time="48" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the left, 18-yard box, Left footed, Fast break)" minute="48" period="1" second="15" time="48" type="attempt blocked" type_id="15"/>
+	<message comment="Keith Fahey misses attempt (To the right, Out of box, Right footed, Open play)" minute="47" period="1" second="18" time="47" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner misses attempt (To the right, Out of box, Left footed, Open play)" minute="45" period="1" second="51" time="45" type="attempt missed" type_id="13"/>
+	<message comment="Craig Gardner has shot blocked (Out of box, Right footed, Open play)" minute="45" period="1" second="9" time="45" type="attempt blocked" type_id="15"/>
+	<message comment="Jamie Carragher blocks a shot" minute="45" period="1" second="9" time="45" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt misses attempt (To the right, 6-yard box, Big Chance, Head, Set piece)" minute="43" period="1" second="0" time="43" type="attempt missed" type_id="13"/>
+	<message comment="Ben Foster is substituted off" minute="40" period="1" second="10" time="40" type="substitution off" type_id="18"/>
+	<message comment="Colin Doyle is substituted on" minute="40" period="1" second="10" time="40" type="substitution on" type_id="19"/>
+	<message comment="Jack Robinson misses attempt (High to the left, Out of box, Left footed, Open play)" minute="38" period="1" second="28" time="38" type="attempt missed" type_id="13"/>
+	<message comment="Lucas Leiva has shot blocked (Out of box, Right footed, Open play)" minute="38" period="1" second="23" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Craig Gardner blocks a shot" minute="38" period="1" second="23" time="38" type="save made" type_id="10"/>
+	<message comment="Stephen Carr blocks a shot" minute="38" period="1" second="6" time="38" type="save made" type_id="10"/>
+	<message comment="Maxi Rodríguez has shot blocked (Out of box, Left footed, Open play)" minute="38" period="1" second="6" time="38" type="attempt blocked" type_id="15"/>
+	<message comment="Maxi Rodríguez wins a corner (To the left)" minute="37" period="1" second="11" time="37" type="corner" type_id="6"/>
+	<message comment="Luis Suárez wins a corner (To the left)" minute="35" period="1" second="37" time="35" type="corner" type_id="6"/>
+	<message comment="Sebastian Larsson has attempt saved (Low to the right, 18-yard box, Right footed, Open play)" minute="31" period="1" second="1" time="31" type="attempt blocked" type_id="15"/>
+	<message comment="Pepe Reina makes a save (Parried safe, Standing)" minute="31" period="1" second="1" time="31" type="save made" type_id="10"/>
+	<message comment="Raul Meireles has shot blocked (18-yard box, Right footed, Open play)" minute="29" period="1" second="31" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="Sebastian Larsson blocks a shot" minute="29" period="1" second="31" time="29" type="save made" type_id="10"/>
+	<message comment="Martin Jiranek blocks a shot" minute="29" period="1" second="7" time="29" type="save made" type_id="10"/>
+	<message comment="Jay Spearing has shot blocked (Out of box, Right footed, Open play)" minute="29" period="1" second="7" time="29" type="attempt blocked" type_id="15"/>
+	<message comment="GOAL! Dirk Kuyt scores  (Low to the right, 18-yard box, Big Chance, Right footed, Open play)" minute="22" period="1" second="56" time="22" type="goal scored" type_id="16"/>
+	<message comment="Ben Foster makes a save (Parried into danger, Diving)" minute="22" period="1" second="54" time="22" type="save made" type_id="10"/>
+	<message comment="Dirk Kuyt has attempt saved (Low to the centre, 18-yard box, Big Chance, Left footed, Open play)" minute="22" period="1" second="54" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Ben Foster makes a save (Diving, Parried into danger)" minute="22" period="1" second="52" time="22" type="save made" type_id="10"/>
+	<message comment="Luis Suárez has attempt saved (Low to the centre, 18-yard box, Right footed, Open play)" minute="22" period="1" second="52" time="22" type="attempt blocked" type_id="15"/>
+	<message comment="Cameron Jerome wins a corner (To the right)" minute="18" period="1" second="8" time="18" type="corner" type_id="6"/>
+	<message comment="Craig Gardner is caught offside" minute="14" period="1" time="14" type="offside" type_id="10000"/>
+	<message comment="Craig Gardner misses attempt (High, 18-yard box, Left footed, Open play)" minute="9" period="1" second="23" time="9" type="attempt missed" type_id="13"/>
+	<message comment="Formation Set" minute="0" period="14" second="0" time="7" type="end" type_id="30"/>
+	<message comment="GOAL! Maxi Rodríguez scores  (Low to the centre, 6-yard box, Big Chance, Right footed, Open play)" minute="6" period="1" second="29" time="6" type="goal scored" type_id="16"/>
+	<message comment="Ben Foster makes a save (Parried into danger)" minute="6" period="1" second="27" time="6" type="save made" type_id="10"/>
+	<message comment="Jay Spearing has attempt saved (Low to the centre, Out of box, Right footed, Open play)" minute="6" period="1" second="27" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Luis Suárez has shot blocked (18-yard box, Right footed, Open play)" minute="6" period="1" second="16" time="6" type="attempt blocked" type_id="15"/>
+	<message comment="Liam Ridgewell blocks a shot" minute="6" period="1" second="16" time="6" type="save made" type_id="10"/>
+	<message comment="First half begins!" minute="0" period="1" second="0" time="0" type="start" type_id="32"/>
+</Commentary>
