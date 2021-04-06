@@ -12,34 +12,46 @@ import xml.etree.ElementTree as et
 DATA_DIR = '/Volumes/My Passport/'
 MASTER_DIR = DATA_DIR + 'Box. Surprise, suspense and sentiment from twitter/Fracsoft betting data/'
 SENTIMENT_DIR = DATA_DIR + 'Suprise, suspense and sentiment from Twitter/Sentiment Scores/'
+DATA_DIR = 'data/'
+MASTER_DIR = DATA_DIR + 'merged/'
+SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 
 with open('sentiment_map.json', 'r') as json_file:
     file_map = json.load(json_file)
-
-with open('merged_files.txt', 'r') as txt_file:
-    merged_files = set()
-    for line in txt_file:
-        merged_files.add(line.strip())
 
 with open('missing_sentiment.txt', 'r') as txt_file:
     missing_sentiment = set()
     for line in txt_file:
         missing_sentiment.add(line.strip())
 
-master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*_merged.csv.gz'))
+with open('cols.json','r') as column_file:
+    cols = json.load(column_file)
+
+master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*_merged.csv'))
 for master_file in master_files:
     master_dir, master = ntpath.split(master_file)
     df = pd.read_csv(master_file)
-    df.columns = [str(x) for x in df.columns]
+    df.rename(columns=cols, inplace=True)
     if 'datetime' not in df.columns:
         df['datetime'] = pd.to_datetime(df['0'] + 'T' +df['6']).dt.round('s')
     else:
         df['datetime'] = pd.to_datetime(df['datetime'])
-    if 'sentiment' not in df.columns:
-        df['sentiment'] = None
 
-    gb = df.groupby('2')
+    # add cols to be
+    if 'sent_mean' not in df.columns:
+        df['sent_mean'] = None
+    if 'sent_med' not in df.columns:
+        df['sent_med'] = None
+    if 'num_tweets' not in df.columns:
+        df['num_tweets'] = None
+    if 'num_retweets' not in df.columns:
+        df['num_retweets'] = None
+
+    gb = df.groupby('Event ID')
     for match_id, match_df in gb:
+        for x, y in list(file_map.items()):
+            file_map[x.replace('.gz', '')] = file_map[x]
+
         if str(match_id) not in file_map[master]:
             missing_sentiment.add(str(match_id))
             continue
@@ -47,17 +59,18 @@ for master_file in master_files:
         match_files = file_map[master][str(match_id)]
         for match_file in match_files:
             # check if file already processed
-            if match_file in merged_files or match_file == 'epl-Crystal Palace-2013-08-18.csv':
+            if match_file == 'epl-Crystal Palace-2013-08-18.csv':
                 print('skipping: ' + match_file)
                 continue
 
             print('reading match file: ' + match_file)
             sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
-            sent_df['datetime'] = sent_df['time'].astype('datetime64[s]')
+            sent_df['datetime'] = sent_df['time'].astype('datetime64[m]') # change to s to agg by second
             sent_df.sort_values('datetime', inplace=True)
-            sent_df['time_key'] = np.where(sent_df['datetime'].isin(match_df['datetime']), sent_df['datetime'], None)
+            sent_df['time_key'] = np.where(sent_df['datetime'].isin(match_df['datetime'].astype('datetime64[m]')), \
+              sent_df['datetime'], None)
             if sent_df['time_key'].dtype == 'O': # np.where changes dtype of datetime for some reason
-                sent_df['time_key'] = sent_df['time_key'].astype('datetime64[s]')
+                sent_df['time_key'] = sent_df['time_key'].astype('datetime64[m]')
 
             sent_df['time_key'] = sent_df['time_key'].bfill()
             team_name = match_file.split('-')[1]
@@ -67,15 +80,22 @@ for master_file in master_files:
                 if row['datetime'] > max_time:
                     sent_df.loc[i, 'time_key'] = max_time
                     continue
-                    
+
                 time_diff = match_df[team_mask]['datetime'] - row['datetime']
                 sent_df.loc[i, 'time_key'] = match_df[team_mask][time_diff > pd.Timedelta(0)].iloc[0]['datetime']
 
+            # aggregate
             ag_sent = sent_df.groupby('time_key')['sentiment'].mean() # use mean for now
-            if 'sentiment' in match_df.columns: # avoid duplication of sentiment column
-                del match_df['sentiment']
+            ag_sent.name = 'sent_mean'
+            med_sent = sent_df.groupby('time_key')['sentiment'].median()
+            med_sent.name = 'sent_med'
 
-            merged = match_df[team_mask].merge(ag_sent, how='left', left_on='datetime', right_on='time_key')
+
+            merged = match_df[team_mask].merge(ag_sent, how='left', left_on='datetime',
+                                               right_on='time_key', suffixes=('_y', ''))
+            merged = merged.merge(med_sent, how='left', left_on='datetime', right_on='time_key',
+                                  suffixes=('_y', ''))
+            merged = merged[[col for col in df.columns if '_y' not in col]]
 
             # replace rows in master df with newly merged sentiment df
             replace_mask = (df['2'] == match_id) & (df['10'] == team_name)
