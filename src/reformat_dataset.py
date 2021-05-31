@@ -10,7 +10,7 @@ COMMENTARY_DIR = DATA_DIR + 'commentaries/'
 SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 same_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'agg_key', 'Inplay flag']
 
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_minute_metrics_0405.csv')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_event_twitter_0502.csv')
 OUTPUT = pd.DataFrame()
 gb = INPUT.groupby('Event ID')
 for gbi, (match_id, match_df) in enumerate(gb):
@@ -29,26 +29,19 @@ for gbi, (match_id, match_df) in enumerate(gb):
 
     home_df = match_df[match_df.selection == home]
     away_df = match_df[match_df.selection == away]
+    draw_df = match_df[match_df.selection == 'The Draw']
     merged = home_df.merge(away_df, on=same_cols, how='outer', suffixes=['_home', '_away'])
+    merged = merged.merge(draw_df, on=same_cols, how='outer')
+    merged.rename(columns={x:f'{x}_draw' for x in set(draw_df.columns) - set(same_cols)}, inplace=True)
     merged.sort_values('agg_key', inplace=True)
-    for col in ['selection_home', 'selection id_home', 'eff_price_match_home',
-               'mean_price_match_home', 'median_price_match_home', 'eff_prob_home',
-               'mean_prob_home', 'median_prob_home', 'median_prob-1_home',
-               'suspense_mean_prob_home', 'eff_prob-1_home', 'surprise_eff_prob_home',
-               'shock_mean_prob_home', 'surprise_mean_prob_home',
-               'suspense_median_prob_home', 'surprise_median_prob_home',
-               'suspense_eff_prob_home', 'shock_eff_prob_home', 'mean_prob-1_home',
-               'shock_median_prob_home', 'selection_away', 'selection id_away',
-               'eff_price_match_away', 'mean_price_match_away',
-               'median_price_match_away', 'eff_prob_away', 'mean_prob_away',
-               'median_prob_away', 'median_prob-1_away', 'suspense_mean_prob_away',
-               'eff_prob-1_away', 'surprise_eff_prob_away', 'shock_mean_prob_away',
-               'surprise_mean_prob_away', 'suspense_median_prob_away',
-               'surprise_median_prob_away', 'suspense_eff_prob_away',
-               'shock_eff_prob_away', 'mean_prob-1_away', 'shock_median_prob_away']:
-        merged[col] = merged[col].ffill()
+    for outcome_suffix in ['_home', '_away', '_draw']:
+        for col in ['selection', 'selection id', 'eff_price_match',
+                    'mean_price_match', 'median_price_match']:
+            merged[f'{col}{outcome_suffix}'] = merged[f'{col}{outcome_suffix}'].ffill()
 
     OUTPUT = OUTPUT.append(merged)
 
     if gbi % 100 == 0:
-        OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_final_0405.csv', index=False)
+        OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0502.csv', index=False)
+
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0502.csv', index=False)

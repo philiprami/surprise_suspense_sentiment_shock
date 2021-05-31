@@ -1,125 +1,56 @@
 import sys
+import pandas as pd
 from math import sqrt, pow
 from collections import defaultdict
-import pandas as pd
 
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
-COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 price_cols = ['eff_price_match', 'mean_price_match', 'median_price_match']
 prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
-results = pd.read_csv(OUT_DIR + 'season_2013_agg_event_twitter_3103.csv')
+outcomes = ['home', 'away', 'draw']
 
-# first iteration... scale prices to remove overround
-print('first iteration')
-first_done = set()
-for price_col, prob_col in zip(price_cols, prob_cols):
-    results[prob_col] = 1/results[price_col]
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_scaled_0502.csv')
+OUTPUT = pd.DataFrame()
 
-event_gb = results.groupby('Event ID')
+done = set()
+event_gb = INPUT.groupby('Event ID')
 for match_id, match_df in event_gb:
-    if match_id in first_done:
+    if match_id in done:
         continue
 
     print(match_id)
-    sel_frames = {x:y for x,y in match_df.groupby('selection')}
-    if len(sel_frames) != 3:
-        sys.exit('selection missing')
+    match_df.sort_values('agg_key', inplace=True)
+    pre_match = match_df[match_df['Inplay flag'] == 0]
+    pre_match_probs = {}
+    for prob_col in prob_cols:
+        cols = [f'{prob_col}_{outcome}' for outcome in outcomes]
+        for col in cols:
+            match_df[f'{col}-1'] = match_df[col].shift(1)
+            if pre_match.shape[0] > 0:
+                pre_match_probs[col] = pre_match.iloc[-1][col]
+            else:
+                pre_match_probs[col] = None
 
-    title = match_df['Course'].mode()[0]
-    matchup = title.split(':')[-2]
-    away, home = [x.strip() for x in matchup.split(' v ')]
-    draw = (set(sel_frames.keys()) - set([home, away])).pop()
+    for prob_col in prob_cols:
+        surprise = ((match_df[f'{prob_col}_home'] - match_df[f'{prob_col}_home-1']).apply(lambda x: pow(x, 2)) + \
+                    (match_df[f'{prob_col}_away'] - match_df[f'{prob_col}_away-1']).apply(lambda x: pow(x, 2)) + \
+                    (match_df[f'{prob_col}_draw'] - match_df[f'{prob_col}_draw-1']).apply(lambda x: pow(x, 2)))\
+                    .apply(lambda x: sqrt(x))
 
-    agg_keys = set([agg_key for frame in sel_frames.values() for agg_key in frame.agg_key.unique()])
-    for agg_key in sorted(list(agg_keys)):
-        away_mask = sel_frames[away]['agg_key'] == agg_key
-        home_mask = sel_frames[home]['agg_key'] == agg_key
-        draw_mask = sel_frames[draw]['agg_key'] == agg_key
-        if away_mask.sum() != 1 or home_mask.sum() != 1 or draw_mask.sum() != 1:
-            continue
+        if pre_match.shape[0] > 0:
+            shock = ((match_df[f'{prob_col}_home'] - pre_match_probs[f'{prob_col}_home']).apply(lambda x: pow(x, 2)) + \
+                     (match_df[f'{prob_col}_away'] - pre_match_probs[f'{prob_col}_away']).apply(lambda x: pow(x, 2)) + \
+                     (match_df[f'{prob_col}_draw'] - pre_match_probs[f'{prob_col}_draw']).apply(lambda x: pow(x, 2)))\
+                     .apply(lambda x: sqrt(x))
         else:
-            away_row = sel_frames[away][away_mask].iloc[0]
-            home_row = sel_frames[home][home_mask].iloc[0]
-            draw_row = sel_frames[draw][draw_mask].iloc[0]
-            for col in prob_cols:
-                away_prob = away_row[col]
-                home_prob = home_row[col]
-                draw_prob = draw_row[col]
-                total = away_prob + home_prob + draw_prob
-                away_prob = (away_prob/total)*1
-                home_prob = (home_prob/total)*1
-                draw_prob = (draw_prob/total)*1
-                away_row[col] = away_prob
-                home_row[col] = home_prob
-                draw_row[col] = draw_prob
+            shock = None
 
-            for row in [away_row, home_row, draw_row]:
-                results.loc[row.name] = row
+        suspense = None
+        match_df[f'surprise_{prob_col}'] = surprise
+        match_df[f'shock_{prob_col}'] = shock
+        match_df[f'suspense_{prob_col}'] = suspense
 
-    first_done.add(match_id)
+    OUTPUT = OUTPUT.append(match_df, ignore_index=True)
+    done.add(match_id)
 
-# second iteration... calculate metrics
-second_done = set()
-event_gb = results.groupby('Event ID')
-for match_id, match_df in event_gb:
-    if match_id in second_done:
-        continue
-
-    print(match_id)
-    sel_frames = {x:y for x,y in match_df.groupby('selection')}
-    if len(sel_frames) != 3:
-        sys.exit('selection missing')
-
-    title = match_df['Course'].mode()[0]
-    matchup = title.split(':')[-2]
-    away, home = [x.strip() for x in matchup.split(' v ')]
-    draw = (set(sel_frames.keys()) - set([home, away])).pop()
-
-    try:
-        pre_match_probs = defaultdict(dict)
-        for key in sel_frames:
-            for col in prob_cols:
-                sel_frames[key] = sel_frames[key].sort_values('agg_key')
-                sel_frames[key][f'{col}-1'] = sel_frames[key][col].shift(1)
-                pre_match_probs[key][col] = sel_frames[key][sel_frames[key]['Inplay flag'] == 0].iloc[-1][col]
-    except:
-        continue
-
-    agg_keys = set([agg_key for frame in sel_frames.values() for agg_key in frame.agg_key.unique()])
-    for agg_key in sorted(list(agg_keys)):
-        away_mask = sel_frames[away]['agg_key'] == agg_key
-        home_mask = sel_frames[home]['agg_key'] == agg_key
-        draw_mask = sel_frames[draw]['agg_key'] == agg_key
-        if away_mask.sum() != 1 or home_mask.sum() != 1 or draw_mask.sum() != 1:
-            continue
-        else:
-            away_row = sel_frames[away][away_mask].iloc[0]
-            home_row = sel_frames[home][home_mask].iloc[0]
-            draw_row = sel_frames[draw][draw_mask].iloc[0]
-            for col in prob_cols:
-                surprise = sqrt(pow((home_row[col] - home_row[f'{col}-1']), 2) + \
-                  pow((draw_row[col] - draw_row[f'{col}-1']), 2) + \
-                    pow((away_row[col] - away_row[f'{col}-1']), 2))
-                shock = sqrt(pow((home_row[col] - pre_match_probs[home][col]), 2) + \
-                  pow((draw_row[col] - pre_match_probs[draw][col]), 2) + \
-                    pow((away_row[col] - pre_match_probs[away][col]), 2))
-                suspense = None
-
-                for row in [away_row, home_row, draw_row]:
-                    row[f'surprise_{col}'] = surprise
-                    row[f'shock_{col}'] = shock
-                    row[f'suspense_{col}'] = suspense
-
-            for row in [away_row, home_row, draw_row]:
-                cols_left = set(row.index) - set(results.columns)
-                if len(cols_left):
-                    for col in cols_left:
-                        results.loc[row.name, col] = row[col]
-                else:
-                    results.loc[row.name] = row
-
-    second_done.add(match_id)
-
-results.to_csv(OUT_DIR + 'season_2013_agg_minute_metrics_0405.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_metrics_0504.csv', index=False)

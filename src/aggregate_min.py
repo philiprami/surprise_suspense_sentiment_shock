@@ -33,6 +33,7 @@ new_cols = ['event', 'weighted_sent_mean', 'tweet_sent_mean']
 agg_results = pd.DataFrame(columns=keep_cols+new_cols)
 master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
 matches_done = set()
+all_matches = set()
 for master_file in master_files:
     master_dir, master = ntpath.split(master_file)
     df = pd.read_csv(master_file, header=None)
@@ -48,12 +49,12 @@ for master_file in master_files:
     df = df[df['selection'] != 'Draw'].reset_index(drop=True)
     gb = df.groupby(['Event ID', 'selection'])
     for (match_id, selection), match_df in gb:
-        matches_done.add(match_id)
-        print(match_id)
+        all_matches.add(match_id)
         if ((agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)).sum() > 0:
             print('skipping: ', match_id)
             continue
 
+        print(match_id)
         match_df.sort_values('datetime', inplace=True)
         match_df['agg_key'] = match_df['datetime'].astype('datetime64[m]')
         min_gb = match_df.groupby('agg_key')
@@ -79,7 +80,12 @@ for master_file in master_files:
 
         # merge in event
         match_df.sort_values('datetime', inplace=True)
-        game_start = match_df[match_df['Inplay flag'] == 1].sort_values('datetime').iloc[0]['datetime']
+        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+        game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['agg_key'] >= game_start)
+        if game_start_mask.sum() < 1:
+            continue
+
+        actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
         game_end = match_df[match_df['Inplay flag'] == 1].sort_values('datetime').iloc[-1]['datetime']
         xml_name = ';'.join(match_df['Course'].iloc[0].split(':')[:-1]).strip() + '.xml'
         xml_file = COMMENTARY_DIR + master.replace('.csv.gz', '/').replace('.csv', '/') + xml_name
@@ -99,7 +105,7 @@ for master_file in master_files:
           apply(lambda x: game_end - timedelta(seconds=(game_end_seconds - (int(x[1]) + int(x[0]) * 60))), axis=1)
         first_half = comment_df[comment_df.index > second_half_index]
         first_half['last_modified'] = first_half[['minute', 'second']].\
-          apply(lambda x: game_start + timedelta(minutes=int(x[0]), seconds=int(x[1])), axis=1)
+          apply(lambda x: actual_start + timedelta(minutes=int(x[0]), seconds=int(x[1])), axis=1)
         comment_df = pd.concat([second_half, first_half])
         comment_df = comment_df[comment_df['team'] == selection]
         comment_df['agg_key'] = comment_df['last_modified'].astype('datetime64[m]')
@@ -114,23 +120,6 @@ for master_file in master_files:
         agg_results.loc[mask] = merged
 
         # merge in twitter numbers
-        # if ((agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection) & agg_results['tweets'].notnull()).sum() > 0:
-        #     print('skipping: ', match_id)
-        #     continue
-
-    #################### DELETE THIS
-    # done = set()
-    # agg_results = pd.read_csv(OUT_DIR + 'season_2013_agg_minute_metrics.csv')
-    # # agg_results['tweet_sent_mean'] = None
-    # # agg_results['weighted_sent_mean'] = None
-    # gb = agg_results.groupby(['Event ID', 'selection'])
-    # for (match_id, selection), match_df in gb:
-    #     print(match_id)
-    #     if ((agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection) & agg_results['tweet_sent_mean'].notnull()).sum() > 0:
-    #         print('skipping: ', match_id)
-    #         continue
-    ####################
-
         if str(match_id) not in file_map:#[master]:
             print('missing match twitter data: ', match_df.iloc[0]['Course'])
             continue
@@ -173,15 +162,10 @@ for master_file in master_files:
             merged.rename(columns={'weighted_sent_mean_y' : 'weighted_sent_mean', 'tweet_sent_mean_y' : 'tweet_sent_mean'}, inplace=True)
         merged.set_index(agg_results[mask].index, inplace=True)
         agg_results.loc[mask] = merged
-        # done.add(f'{match_id}-{selection}')
 
         # write out progress
+        matches_done.add(match_id)
         if len(matches_done) % 50 == 0:
-            agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_3103.csv', index=False)
+            agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0502.csv', index=False)
 
-agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_3103.csv', index=False)
-
-# CHECKS
-# 3 selections
-# tweets and rewtweets for both teams in each match
-# events for both teams of each match
+agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0502.csv', index=False)
