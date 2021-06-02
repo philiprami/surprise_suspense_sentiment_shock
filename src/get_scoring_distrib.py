@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 from glob import glob
 from datetime import timedelta
+from collections import Counter
 import xml.etree.ElementTree as et
 
 DATA_DIR = '../data/'
@@ -23,7 +24,6 @@ with open(DATA_DIR + 'cols.json','r') as column_file:
     cols = json.load(column_file)
 
 minute_goals = Counter()
-num_matches = 0
 master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
 for master_file in master_files:
     master_dir, master = ntpath.split(master_file)
@@ -80,7 +80,7 @@ for master_file in master_files:
 distribution = {}
 min_goals_df = pd.DataFrame(minute_goals, index=['goals']).T
 min_goals_df.sort_index(inplace=True)
-for i in range(94):
+for i in range(93):
     if i < 14:
         distribution[i] = np.nan
         continue
@@ -92,12 +92,7 @@ for i in range(94):
     slice_df = min_goals_df.loc[i_minus_1+1:i]
     distribution[i] = slice_df['goals'].mean()
 
-# density, write to file
+# interpolate, get density, write to file
 distrb_intpltd = pd.DataFrame(distribution, index=[0]).T[0].interpolate(limit_direction='backward').to_frame(name='goals')
 distrb_intpltd['density'] = distrb_intpltd['goals'] / distrb_intpltd['goals'].sum()
 distrb_intpltd.to_csv(DATA_DIR + 'scoring_distribution.csv')
-
-with open(DATA_DIR + 'cols.csv','r') as column_file:
-    cols = json.load(column_file)
-
-distrb_intpltd['expctd_goals'] = distrb_intpltd['density'] * scoring_rate
