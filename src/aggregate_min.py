@@ -96,6 +96,13 @@ for master_file in master_files:
         xtree = et.parse(xml_file)
         xroot = xtree.getroot()
         comment_df = pd.DataFrame([node.attrib for node in xroot])
+        card_mask = comment_df['type_id'] == '17'
+        red_cards = card_mask & comment_df['comment'].str.contains('red', case=False)
+        yellow_cards = card_mask & comment_df['comment'].str.contains('yellow', case=False)
+        comment_df.loc[yellow_cards, 'type'] = 'yellow card'
+        comment_df.loc[yellow_cards, 'type_id'] = '20'
+        comment_df.loc[red_cards, 'type'] = 'red card'
+        comment_df.loc[red_cards, 'type_id'] = '21'
         comment_df.second = comment_df.second.fillna(0)
         second_half_index = comment_df[comment_df['comment'] == 'Second half begins!'].iloc[0].name
         second_half = comment_df[comment_df.index <= second_half_index]
@@ -166,6 +173,6 @@ for master_file in master_files:
         # write out progress
         matches_done.add(match_id)
         if len(matches_done) % 50 == 0:
-            agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0502.csv', index=False)
+            agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0706.csv', index=False)
 
-agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0502.csv', index=False)
+agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0706.csv', index=False)

@@ -4,7 +4,7 @@ from datetime import timedelta
 
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_0504.csv', encoding='utf8')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_0706.csv', encoding='utf8')
 OUTPUT = pd.DataFrame()
 
 done = set()
@@ -68,4 +68,4 @@ for match_id, match_df in event_gb:
     OUTPUT = OUTPUT.append(match_df, ignore_index=True)
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_final_0504.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_final_0706.csv', index=False)

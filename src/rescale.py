@@ -9,7 +9,7 @@ price_cols = ['eff_price_match', 'mean_price_match', 'median_price_match']
 prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
 outcomes = ['home', 'away', 'draw']
 
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_reformatted_0502.csv')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_reformatted_0706.csv')
 OUTPUT = pd.DataFrame()
 
 # calculate implicit prob first
@@ -36,4 +36,4 @@ for match_id, match_df in event_gb:
 
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_scaled_0502.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_scaled_0706.csv', index=False)

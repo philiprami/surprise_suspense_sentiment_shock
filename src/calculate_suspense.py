@@ -28,220 +28,101 @@
 -   Sum up score line and record result, repeat 100,000 times per min => 9 Mio times per match
 4) Calculate hypothetical probabilities
 -   what are the probabilities for H-win, draw, A-win if either H or A do score in the next min
+-   to calculate suspense
+    - iterate through each minute
+        - get the probabilities for H-win, draw and A-win given a home score (use simulation values added to current home score)
+            - square the difference between these and the given probabilities for H-win, draw and A-win for the minute
+            - multiply that squared differene by the probability of scoring in the next minute
+            - sum all of these values
+        - get the probabilities for H-win, draw and A-win given an away score (use simulation values added to current away score)
+            - square the difference between these and the given probabilities for H-win, draw and A-win for the minute
+            - multiply that squared differene by the probability of scoring in the next minute
+            - sum all of these values
+        - sum the sum of values
 -   Account for red cards by modifying scoring rates
 
 '''
 
 import os
+import gc
+import re
+import math
 import pandas as pd
-import xml.etree.ElementTree as et
-
-from glob import glob
-from scipy.stats import poisson
 
 DATA_DIR = '../data/'
-OUT_DIR = DATA_DIR + 'aggregated/'
-COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-price_cols = ['eff_price_match', 'mean_price_match', 'median_price_match']
-prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
-outcomes = ['home', 'away', 'draw']
+OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
+SIM_DIR = os.path.join(DATA_DIR, 'simulations')
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0706.csv'))
 
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_scaled_0502.csv')
-OUTPUT = pd.DataFrame()
-
-all_score_line_probs = {}
-event_gb = INPUT.groupby('Event ID')
-minute_goals = {}
-num_matches = 0
-for match_id, match_df in event_gb:
-    print(match_id)
-    # get event file
-    xml_name = ';'.join(match_df['Course'].iloc[0].split(':')[:-1]).strip() + '.xml'
-    xml_file = None
-    for folder in os.listdir(COMMENTARY_DIR):
-        if os.path.isdir(os.path.join(COMMENTARY_DIR, folder)):
-            for filename in os.listdir(os.path.join(COMMENTARY_DIR, folder)):
-                if filename == xml_name:
-                    xml_file = os.path.join(COMMENTARY_DIR, folder, filename)
-                    break
-
-    if not os.path.isfile(xml_file):
-        print('missing ', xml_name)
+done = set()
+for match_id, match_df in DATA_DF.groupby('Event ID'):
+    match_id = str(int(match_id))
+    if match_id in done:
+        print(f'{match_id} already done. skipping.')
         continue
 
+    sim_file_h = os.path.join(SIM_DIR, f'{match_id}_home.csv')
+    sim_file_a = os.path.join(SIM_DIR, f'{match_id}_away.csv')
+    if not os.path.isfile(sim_file_h) or not os.path.isfile(sim_file_a):
+        print(f'no file exists for {match_id}')
+        continue
 
-    xtree = et.parse(xml_file)
-    xroot = xtree.getroot()
-    comment_df = pd.DataFrame([node.attrib for node in xroot])
-
-    comment_df.second = comment_df.second.fillna(0)
-    second_half_index = comment_df[comment_df['comment'] == 'Second half begins!'].iloc[0].name
-    second_half = comment_df[comment_df.index <= second_half_index]
-    second_half.iloc[0]['last_modified'] = game_end
-    game_end_seconds = int(second_half.iloc[0]['second']) + int(second_half.iloc[0]['minute']) * 60
-    second_half['last_modified'] = second_half[['minute', 'second']].\
-      apply(lambda x: game_end - timedelta(seconds=(game_end_seconds - (int(x[1]) + int(x[0]) * 60))), axis=1)
-    first_half = comment_df[comment_df.index > second_half_index]
-    first_half['last_modified'] = first_half[['minute', 'second']].\
-      apply(lambda x: actual_start + timedelta(minutes=int(x[0]), seconds=int(x[1])), axis=1)
-    comment_df = pd.concat([second_half, first_half])
-
-    comment_df.sort_values(['minute', 'second'], inplace=True)
-    home_goal = (comment_df.team == match_df.selection_home.all()) & (comment_df.type == 'goal scored')
-    away_goal = (comment_df.team == match_df.selection_away.all()) & (comment_df.type == 'goal scored')
-    comment_df.loc[home_goal, 'home_goal'] = 1
-    comment_df.loc[away_goal, 'away_goal'] = 1
-    comment_df.fillna(0, inplace=True)
-    comment_df['home_score'] = comment_df['home_goal'].cumsum()
-    comment_df['away_score'] = comment_df['away_goal'].cumsum()
-
-    comment_df['minute'] = comment_df['minute'].astype(int) + 1
-    comment_df.loc[comment_df['minute'] > 90, 'minute'] = 90
-
-
-    end_home_score = comment_df.iloc[-1]['home_score']
-    end_away_score = comment_df.iloc[-1]['away_score']
-    poisson_home = poisson(end_home_score)
-    poisson_away = poisson(end_away_score)
-    # outcome_prob = poisson_home.pmf(end_home_score) + poisson_away.pmf(end_away_score)
-    # scoring_rate_home = # minimize squared diff
-    comment_df['score_line'] = comment_df[['home_score', 'away_score']].apply(lambda x: f'{int(x[0])}-{int(x[1])}', axis=1)
-    score_lines = comment_df.score_line.unique()
-    score_line_probs = {}
-    for score_line in score_lines:
-        home_score, away_score = score_line.split('-')
-        prob = poisson_home.pdf(int(home_score)) + poisson_away.pdf(int(away_score))
-        score_line_probs[score_line] = prob
-
-    match_df.sort_values('agg_key', inplace=True)
-    closing_line = match_df[match_df['Inplay flag'] == 0].iloc[-1]
-
-
-
-    def estimate_lambda(score, lmbda):
-        poi_dis = poisson(lmbda)
-        return poi_dis.pmf(score)
-
-    # part 2... given scoring rates
-
-
-
-
-
-
-
-    comment_df['score_line'] = comment_df[['home_score', 'away_score']].apply(lambda x: f'{int(x[0])}-{int(x[1])}', axis=1)
-    score_lines = comment_df.score_line.unique()
-
-    comment_df['home_prob'] = comment_df['home_score'].apply(lambda x: poisson_home.pmf(x))
-    comment_df['away_prob'] = comment_df['away_score'].apply(lambda x: poisson_away.pmf(x))
-    comment_df['score_line_prob'] = comment_df['home_prob'] * comment_df['away_prob']
-    score_line_probs = {}
-    for score_line in score_lines:
-        home_score, away_score = score_line.split('-')
-        prob = poisson_home.pdf(int(home_score)) + poisson_away.pdf(int(away_score))
-        score_line_probs[score_line] = prob
-
-
-
-    # join comment df and agg event_df
-    comment_df.rename(columns={'last_modified' : 'agg_key'}, inplace=True)
-    merged = match_df.merge(comment_df, on='agg_key', how='left')
-
-
-
-    score_line_probs = {}
-    for away_score in range(int(end_away_score)+1):
-        away_prob = poisson_away.pmf(away_score)
-        for home_score in range(int(end_home_score)+1):
-            home_prob = poisson_home.pmf(home_score)
-            score_line = f'{home_score}-{away_score}'
-            score_line_probs[score_line] = home_prob + away_prob
-
-    all_score_line_probs[str(int(match_id))] = score_line_probs
-
-
-
-    goal_counts = comment_df[comment_df.type == 'goal scored'].groupby('team').agg('count').type
-    home_goals = goal_counts[match_df.selection_home.all()]
-    away_goals = goal_counts[match_df.selection_away.all()]
-    comment_df.sort_values('last_modified')
-
-################# attempt 2
-
-import os
-import gc
-import sys
-import json
-import time
-import ntpath
-import numpy as np
-import pandas as pd
-from glob import glob
-from datetime import timedelta
-from collections import defaultdict
-import xml.etree.ElementTree as et
-
-DATA_DIR = '../data/'
-MASTER_DIR = DATA_DIR + 'Fracsoft/'
-
-with open(DATA_DIR + 'cols.json','r') as column_file:
-    cols = json.load(column_file)
-
-scoring_rates = defaultdict(dict)
-master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
-for master_file in master_files:
-    master_dir, master = ntpath.split(master_file)
-    df = pd.read_csv(master_file, header=None)
-    df.columns = [str(x) for x in df.columns]
-    df.rename(columns=cols, inplace=True)
-    if 'datetime' not in df.columns:
-        df['datetime'] = pd.to_datetime(df['Date'] + 'T' + df['Time stamp']).dt.round('s')
-    else:
-        df['datetime'] = pd.to_datetime(df['datetime'])
-
-    df = df[df['selection'] != 'Draw'].reset_index(drop=True)
-    gb = df.groupby('Event ID')
-    for match_id, match_df in gb:
-        if match_id in scoring_rates:
+    print(f'running for {match_id}')
+    sims_h = pd.read_csv(sim_file_h, index_col=0).drop(index=['score'])
+    sims_a = pd.read_csv(sim_file_a, index_col=0).drop(index=['score'])
+    sims_h.index = sims_h.index.astype(int)
+    sims_a.index = sims_a.index.astype(int)
+    home_scores = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+    away_scores = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+    minute = 0
+    for index, row in match_df.iterrows():
+        if minute > 92:
+            break
+        if row['Inplay flag'] == 0:
             continue
 
-        match_df.sort_values('datetime', inplace=True)
-        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
-        game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['datetime'] >= game_start)
-        if game_start_mask.sum() < 1:
-            continue
+        home_score = home_scores.loc[index]
+        away_score = away_scores.loc[index]
+        for col in ['eff', 'mean', 'median']:
+            # simulations given a simulated home score and current scores
+            minute_score_home = sims_h.T[sims_h.T[minute] > 0].index
+            home_simulations = sims_h.iloc[minute:][minute_score_home].sum() + home_score
+            away_simulations = sims_a.iloc[minute:][minute_score_home].sum() + away_score
+            home_w_prob = (home_simulations > away_simulations).sum() / minute_score_home.shape[0]
+            away_w_prob = (home_simulations < away_simulations).sum() / minute_score_home.shape[0]
+            draw_prob = (home_simulations == away_simulations).sum() / minute_score_home.shape[0]
+            home_sq_diff = (home_w_prob-row[f'{col}_prob_home'])*(home_w_prob-row[f'{col}_prob_home'])
+            away_sq_diff = (away_w_prob-row[f'{col}_prob_away'])*(away_w_prob-row[f'{col}_prob_away'])
+            draw_sq_diff = (draw_prob-row[f'{col}_prob_draw'])*(draw_prob-row[f'{col}_prob_draw'])
+            home_score_sum = home_sq_diff+away_sq_diff+draw_sq_diff
 
-        team_mask = ~match_df['selection'].str.contains('/')
-        teams = list(filter(lambda x: x != 'The Draw', match_df[team_mask]['selection'].unique()))
-        actual_start_index = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
-        pre_match = match_df.datetime < actual_start_index
-        closing_odds = {}
-        for selection, selection_df in match_df[pre_match].groupby('selection'):
-            selection_df.sort_values('datetime', inplace=True)
-            closing_row = selection_df.iloc[-1]
-            closing_odds[selection] = 1/closing_row['last price matched']
-            team_mask = ~match_df['selection'].str.contains('/')
-            match_df[team_mask]['selection'].unique()
+            # simulations given a simulated away score and current scores
+            minute_score_away = sims_a.T[sims_a.T[minute] > 0].index
+            home_simulations = sims_h.iloc[minute:][minute_score_away].sum() + home_score
+            away_simulations = sims_a.iloc[minute:][minute_score_away].sum() + away_score
+            home_w_prob = (home_simulations > away_simulations).sum() / minute_score_away.shape[0]
+            away_w_prob = (home_simulations < away_simulations).sum() / minute_score_away.shape[0]
+            draw_prob = (home_simulations == away_simulations).sum() / minute_score_away.shape[0]
+            home_sq_diff = (home_w_prob-row[f'{col}_prob_home'])*(home_w_prob-row[f'{col}_prob_home'])
+            away_sq_diff = (away_w_prob-row[f'{col}_prob_away'])*(away_w_prob-row[f'{col}_prob_away'])
+            draw_sq_diff = (draw_prob-row[f'{col}_prob_draw'])*(draw_prob-row[f'{col}_prob_draw'])
+            away_score_sum = home_sq_diff+away_sq_diff+draw_sq_diff
 
-        # minimize scoring rate
-        def min_scoring_rate(num_goals, market_odds, lmbda):
-            poi_dis = poisson(lmbda)
-            prediciton = 1 - poi_dis.cdf(num_goals)
-            diff = prediciton - market_odds
-            return diff*diff
+            # sum the sums, raise to the power 1/2
+            suspense = math.sqrt(home_score_sum+away_score_sum)
+            DATA_DF.loc[index, f'suspense_{col}_prob'] = suspense #change
 
-        for team in teams:
-            key = f'{team}/Over 2.5 Goals'
-            over_prob = closing_odds[key]
-            objective = {}
-            for lmbda in np.arange(0, 20, 0.01):
-                diff = min_scoring_rate(3, over_prob, lmbda)
-                objective[lmbda] = diff
+        minute += 1
+        del minute_score_home
+        del minute_score_away
+        del home_simulations
+        del away_simulations
+        gc.collect()
 
-            scoring_rate = sorted(objective.items(), key=lambda x: x[1])[0][0]
-            scoring_rates[match_id][team] = scoring_rate
+    done.add(match_id)
+    del match_df
+    del sims_h
+    del sims_a
+    gc.collect()
 
-# write scoring rates to json
-with open(os.path.join(DATA_DIR, 'scoring_rates.json'), 'w') as json_file:
-    json.dump(scoring_rates, json_file)
+DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_0706.csv'), index=False)

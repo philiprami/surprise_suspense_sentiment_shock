@@ -3,6 +3,11 @@
 ## PRE STEP 1
 
 add sentiment scores with nlp.py
+run map_data.py
+
+## PRE STEP 2
+
+commentary scrape
 
 ## STEP 1
 
@@ -26,10 +31,11 @@ run cleanup_data.py
 
 ## STEP 6
 
-run estimate_scoring_rates.py
-run get_scoring_distrib.py
-run simulate_goals.py
-  runs simulate_goals_solo.py
+run estimate_scoring_rates.py (RUN ONCE)
+run get_scoring_distrib.py (RUN ONCE)
+run simulate_goals.py (RUN ONCE)
+run calculate_suspense.py
+
 
 ## TO DO
 * calculate suspense
