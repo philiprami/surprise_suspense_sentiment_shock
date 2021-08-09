@@ -35,23 +35,15 @@ run estimate_scoring_rates.py (RUN ONCE)
 run get_scoring_distrib.py (RUN ONCE)
 run simulate_goals.py (RUN ONCE)
 run calculate_suspense.py
+run recalculate_redcards.py
 
 
 ## TO DO
-* calculate suspense
-* event takes place after end
-* first half wrong in lots of games. random active flags are messing it up
-  remove active flags before game start
+* see if the simulations converge to the empirical goal distribution
+* see if the suspense are comparable to the buraimo paper
+
+* rescale variations for robustness checks... what we're doing is proportional correction
+  * https://www.researchgate.net/publication/326510904_Adjusting_Bookmaker%27s_Odds_to_Allow_for_Overround
+
+## Wish List
 * redo sentiment model
-
-# suspense
-* join in red card events
-* scorelines are recorded of each of the simulation
-* iterate through every minute
-  * at each minute given the current score
-    each minute uses a little bit of real time data (current score) and the rest is simulated
-    given current score, in the given minute... simulate the rest of the match 100,000 times
-  * also record whether there's a goal in the next minute
-  * will be a subset in the simulations where this is the case
-
-* use
