@@ -27,9 +27,19 @@ with open(DATA_DIR + 'sentiment_map.json', 'r') as json_file:
         for event_num in file_map[key]:
              file_map[event_num] = file_map[key][event_num]
 
+team_names = \
+{'Crystal Palace': 'C Palace',
+ 'Manchester City': 'Man City',
+ 'Manchester United': 'Man Utd',
+ 'Newcastle United': 'Newcastle',
+ 'Newcastle':'Newcastle United',
+ 'Queens Park Rangers': 'QPR',
+ 'West Bromwich Albion': 'West Brom',
+ 'Wolverhampton Wanderers': 'Wolves'}
+
 keep_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'selection',
              'selection id', 'agg_key']
-new_cols = ['event', 'weighted_sent_mean', 'tweet_sent_mean']
+new_cols = ['event', 'weighted_sent_mean', 'tweet_sent_mean', 'num_tweets']
 agg_results = pd.DataFrame(columns=keep_cols+new_cols)
 master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
 matches_done = set()
@@ -56,7 +66,7 @@ for master_file in master_files:
 
         print(match_id)
         match_df.sort_values('datetime', inplace=True)
-        match_df['agg_key'] = match_df['datetime'].astype('datetime64[m]')
+        match_df['agg_key'] = match_df['datetime'].astype('datetime64[s]')
         min_gb = match_df.groupby('agg_key')
         for agg_key, min_df in min_gb:
             min_df['eff_price_match'] = min_df['total matched'] * min_df['last price matched']
@@ -96,6 +106,10 @@ for master_file in master_files:
         xtree = et.parse(xml_file)
         xroot = xtree.getroot()
         comment_df = pd.DataFrame([node.attrib for node in xroot])
+        # I fucked up. Home and away are reversed
+        reverse_dict = {xroot.attrib['home_team_name'].replace('2', '') : xroot.attrib['away_team_name'].replace('2', ''),
+                        xroot.attrib['away_team_name'].replace('2', '') : xroot.attrib['home_team_name'].replace('2', ''),
+                        'The Draw' : 'The Draw'}
         card_mask = comment_df['type_id'] == '17'
         red_cards = card_mask & comment_df['comment'].str.contains('red', case=False)
         yellow_cards = card_mask & comment_df['comment'].str.contains('yellow', case=False)
@@ -114,24 +128,31 @@ for master_file in master_files:
         first_half['last_modified'] = first_half[['minute', 'second']].\
           apply(lambda x: actual_start + timedelta(minutes=int(x[0]), seconds=int(x[1])), axis=1)
         comment_df = pd.concat([second_half, first_half])
-        comment_df = comment_df[comment_df['team'] == selection]
-        comment_df['agg_key'] = comment_df['last_modified'].astype('datetime64[m]')
+        comment_df['team'] = comment_df['team'].str.replace('2', '')
+        try:
+            comment_df = comment_df[comment_df['team'] == reverse_dict[selection]]
+        except KeyError:
+            comment_df = comment_df[comment_df['team'] == reverse_dict[team_names[selection]]]
+        comment_df['agg_key'] = comment_df['last_modified'].astype('datetime64[s]')
         event_ag = comment_df.sort_values('last_modified').groupby('agg_key')['type'].unique()
         mask = (agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)
-        merged = agg_results[mask].merge(event_ag, on='agg_key', how='left')
+        merged = event_ag.reset_index().merge(agg_results[mask], on='agg_key', how='outer')
+        merged.sort_values('agg_key', inplace=True)
         merged.loc[merged.type.notnull(), 'type'] = merged[merged.type.notnull()]['type'].apply(lambda x: ','.join(x))
         if 'event' in merged.columns:
             merged.drop(columns=['event'], inplace=True)
         merged.rename(columns={'type' : 'event'}, inplace=True)
-        merged.set_index(agg_results[mask].index, inplace=True)
-        agg_results.loc[mask] = merged
+        for col in merged.columns:
+            if col != 'event':
+                merged[col] = merged[col].ffill()
+        agg_results = agg_results[~mask]
+        agg_results = agg_results.append(merged, ignore_index=True)
 
         # merge in twitter numbers
-        if str(match_id) not in file_map:#[master]:
+        if str(match_id) not in file_map:
             print('missing match twitter data: ', match_df.iloc[0]['Course'])
             continue
 
-        # match_files = file_map[master][str(match_id)]
         match_files = file_map[str(match_id)]
         selection_files = [x for x in match_files if selection in x]
         if selection == 'The Draw':
@@ -147,9 +168,12 @@ for master_file in master_files:
             continue
 
         sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
-        sent_df['agg_key'] = sent_df['time'].astype('datetime64[m]')#.astype(str)
+        sent_df['agg_key'] = sent_df['time'].astype('datetime64[s]')#.astype(str)
         tweet_sent_mean = sent_df.groupby('agg_key')['predictions'].mean()
         tweet_sent_mean.name = 'tweet_sent_mean'
+        num_tweets = sent_df.agg_key.value_counts()
+        num_tweets.name = 'num_tweets'
+        tweet_df = pd.concat([tweet_sent_mean, num_tweets], axis=1)
 
         # weighted by retweets
         weighted_sent_mean = pd.DataFrame()
@@ -162,17 +186,17 @@ for master_file in master_files:
 
         # merge in both tweet cols
         mask = (agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)
-        merged = agg_results[mask].merge(tweet_sent_mean, on='agg_key', how='left')
+        merged = agg_results[mask].merge(tweet_df.reset_index().rename(columns={'index':'agg_key'}), on='agg_key', how='left')
         merged = merged.merge(weighted_sent_mean, on='agg_key', how='left')
         if 'weighted_sent_mean_x' in merged.columns:
-            merged.drop(columns=['weighted_sent_mean_x', 'tweet_sent_mean_x'], inplace=True)
-            merged.rename(columns={'weighted_sent_mean_y' : 'weighted_sent_mean', 'tweet_sent_mean_y' : 'tweet_sent_mean'}, inplace=True)
+            merged.drop(columns=['weighted_sent_mean_x', 'tweet_sent_mean_x', 'num_tweets_x'], inplace=True)
+            merged.rename(columns={'weighted_sent_mean_y' : 'weighted_sent_mean', 'tweet_sent_mean_y' : 'tweet_sent_mean', 'num_tweets_y': 'num_tweets'}, inplace=True)
         merged.set_index(agg_results[mask].index, inplace=True)
         agg_results.loc[mask] = merged
 
         # write out progress
         matches_done.add(match_id)
-        if len(matches_done) % 50 == 0:
-            agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0706.csv', index=False)
+        if len(matches_done) % 50 == 0: # change back to 50
+            agg_results.to_csv(OUT_DIR + 'season_2013_agg_sec_event_twitter_0811.csv', index=False)
 
-agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0706.csv', index=False)
+agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0810.csv', index=False)

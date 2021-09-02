@@ -10,11 +10,13 @@ COMMENTARY_DIR = DATA_DIR + 'commentaries/'
 SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 same_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'agg_key', 'Inplay flag']
 
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_event_twitter_0706.csv')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_sec_event_twitter_0811.csv')
 OUTPUT = pd.DataFrame()
 gb = INPUT.groupby('Event ID')
 for gbi, (match_id, match_df) in enumerate(gb):
     selections = [x for x in match_df.selection.unique() if x != 'The Draw']
+    if len(selections) != 2:
+        continue
     event = match_df['Course'].all()
     selection_i = [event.index(x) for x in selections]
     for selection, index in zip(selections, selection_i):
@@ -42,6 +44,6 @@ for gbi, (match_id, match_df) in enumerate(gb):
     OUTPUT = OUTPUT.append(merged)
 
     if gbi % 100 == 0:
-        OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0706.csv', index=False)
+        OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0810.csv', index=False)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0706.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_sec_reformatted_0811.csv', index=False)

@@ -9,7 +9,7 @@ from scipy.stats import bernoulli
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_0804.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_0810.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 TRIALS = 100000
@@ -70,16 +70,17 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
         # re-calculate suspense
         home_scores = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
         away_scores = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
-        minute = 0
-        for index, row in match_df.iterrows():
-            if minute > 91:
-                break
-            if row['Inplay flag'] == 0:
-                continue
+        for col in ['eff', 'mean', 'median']:
+            first_half = True
+            minute = 0
+            for index, row in match_df.iterrows():
+                if index < start_index:
+                    continue
+                if index >= half_index:
+                    first_half = False
 
-            home_score = home_scores.loc[index]
-            away_score = away_scores.loc[index]
-            for col in ['eff', 'mean', 'median']:
+                home_score = home_scores.loc[index]
+                away_score = away_scores.loc[index]
                 # simulations given a simulated home score and current scores
                 next_minute_score_home = sims_h.T[sims_h.T[minute+1] > 0].index
                 prob_next_min_home_score = next_minute_score_home.shape[0] / sims_h.T.shape[0]
@@ -114,8 +115,11 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
                 suspense = math.sqrt(home_score_sums+away_score_sums)
                 DATA_DF.loc[index, f'suspense_{col}_prob'] = suspense
 
-            minute += 1
+                if first_half and minute < 45:
+                    minute += 1
+                if not first_half and minute < 91:
+                    minute += 1
 
     done.add(match_id)
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0804.csv'), index=False)
+DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0810.csv'), index=False)
