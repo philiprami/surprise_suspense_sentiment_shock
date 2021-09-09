@@ -28,7 +28,7 @@ for t_file in TEXT_FILES:
     season_str = 'Season {}'.format(season.replace('-', '/'))
     game_date = game_date.replace('.txt', '')
     date_str = datetime.strptime(game_date, '%Y%m%d').strftime('%Y-%m-%d')
-    away_team, home_team = [x.replace('1', '').replace('2', '') for x in matchup.split('-')]
+    away_team, home_team = [x.replace('1', '').replace('2', '') for x in matchup.split('-')] # change this to correct
     comm_attrs = {'away_team_name' : away_team,
                   'home_team_name' :home_team,
                   'season' : season_str,
