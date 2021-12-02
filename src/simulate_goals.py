@@ -16,7 +16,7 @@ TRIALS = 100000
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0504.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0909.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 # get teams per match
@@ -47,6 +47,7 @@ def simulate(match_id):
     return
 
 # multithread simulations
+error_matches = set()
 print('queueing matches')
 q = Queue()
 for match_id in scoring_rates:
@@ -60,9 +61,14 @@ def worker():
         match_id = q.get()
         print(f'performing simulations for match {match_id}')
         if match_id is None:
-          return
+            print('done')
+            return
 
-        simulate(match_id)
+        try:
+            simulate(match_id)
+        except:
+            print(f'error for match: {match_id}')
+            error_matches.add(match_id)
 
 print('done queing, starting workers...')
 num_workers = 5

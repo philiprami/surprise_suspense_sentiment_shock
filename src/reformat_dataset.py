@@ -2,6 +2,7 @@ import os
 import sys
 import numpy as np
 import pandas as pd
+from datetime import datetime
 
 DATA_DIR = '../data/'
 MASTER_DIR = DATA_DIR + 'Fracsoft/'
@@ -9,8 +10,9 @@ OUT_DIR = DATA_DIR + 'aggregated/'
 COMMENTARY_DIR = DATA_DIR + 'commentaries/'
 SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 same_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'agg_key', 'Inplay flag']
+date_str = datetime.today().strftime('%Y-%m-%d')
 
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_sec_event_twitter_0811.csv')
+INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_event_twitter_{date_str}.csv')
 OUTPUT = pd.DataFrame()
 gb = INPUT.groupby('Event ID')
 for gbi, (match_id, match_df) in enumerate(gb):
@@ -44,6 +46,6 @@ for gbi, (match_id, match_df) in enumerate(gb):
     OUTPUT = OUTPUT.append(merged)
 
     if gbi % 100 == 0:
-        OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_reformatted_0810.csv', index=False)
+        OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_reformatted_{date_str}.csv', index=False)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_sec_reformatted_0811.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_reformatted_{date_str}.csv', index=False)

@@ -9,7 +9,7 @@ from scipy.stats import bernoulli
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_0810.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_0909.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 TRIALS = 100000
@@ -68,6 +68,8 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
         sims_a = match_distrib['expctd_goals_away'].apply(lambda x:bernoulli.rvs(x, size=TRIALS)).transform({f'{i}': itemgetter(i) for i in range(TRIALS)})
 
         # re-calculate suspense
+        start_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[0].name
+        half_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[1].name
         home_scores = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
         away_scores = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
         for col in ['eff', 'mean', 'median']:
@@ -122,4 +124,4 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
 
     done.add(match_id)
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0810.csv'), index=False)
+DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0909.csv'), index=False)

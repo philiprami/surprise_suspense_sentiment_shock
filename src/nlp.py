@@ -15,14 +15,13 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
 DATA_DIR = '../data/'
 SENT_DIR = os.path.join(DATA_DIR, 'Sentiment Scores')
 SENT_FILES = glob(os.path.join(SENT_DIR, '*'))
+SENT_OUT_DIR = SENT_DIR + ' 11_20'
 MASTER_DIR = os.path.join(DATA_DIR, 'stanfordSentimentTreebankRaw')
 SCORES_FILE = os.path.join(MASTER_DIR, 'rawscores_exp12.txt')
 SENT_FILE = os.path.join(MASTER_DIR, 'sentlex_exp12.txt')
-
 
 def remove_noise(tweet_tokens, stop_words=()):
     cleaned_tokens = []
@@ -45,7 +44,6 @@ def remove_noise(tweet_tokens, stop_words=()):
 
     return ' '.join(cleaned_tokens)
 
-
 def evaluate(model, test_features, test_labels):
     predictions = model.predict(test_features)
     errors = abs(predictions - test_labels)
@@ -63,10 +61,20 @@ if __name__ == '__main__':
     sent_df = pd.read_csv(SENT_FILE, names=['index', 'sentence'])
     data_df = scores_df.join(sent_df)
     data_df = data_df[['sentence', 'sent_mean', 'sent_med']]
+    data_df['training'] = 1
+
+    # add twitter sentences to include in vectorizer
+    for filename in SENT_FILES:
+        df = pd.read_csv(filename)
+        df['training'] = 0
+        df = df[['tweet', 'training']].rename(columns={'tweet':'sentence'})
+        df['sent_mean'] = None
+        df['sent_med'] = None
+        data_df = data_df.append(df)
 
     # process data
-    stop_words = stopwords.words('english')
     data_df['processed'] = data_df['sentence']
+    stop_words = stopwords.words('english')
     conjugations = ["are n't", "wo n't", "do n't", "is n't", "you 're'", "ca n't"]
     subs = ['are not', 'will not', 'do not', 'is not', 'you are', 'can not']
     for substr, sbstitute in zip(conjugations, subs):
@@ -78,40 +86,32 @@ if __name__ == '__main__':
     # drop nulls
     isnull = (data_df['processed'] == '') | data_df['processed'].isnull()
     data_df = data_df[~isnull].reset_index(drop=True)
-    # drop dups
-    while True:
-        dup_mask = data_df['processed'].duplicated()
-        dups = dup_mask.sum()
-        if dups == 0:
-            break
-        data_df = data_df[~dup_mask].reset_index(drop=True)
-    data_df.to_csv(os.path.join(MASTER_DIR, 'processed_data.csv'), index=False, quoting=csv.QUOTE_ALL)
+    data_df.to_csv(os.path.join(MASTER_DIR, 'processed_data.txt'), sep='\t', index=False, quoting=3)
+    data_df2 = pd.read_csv(os.path.join(MASTER_DIR, 'processed_data.txt'), sep='\t')
 
-    wordnet = WordNetLemmatizer()
     def tokenize(doc):
-        return [wordnet.lemmatize(word) for word in word_tokenize(doc.lower())]
+        return [word for word in word_tokenize(doc.lower())]
     tdif_vectorizer = TfidfVectorizer(stop_words='english',
-                                      tokenizer=tokenize,
-                                      ngram_range=(1, 3),
-                                      use_idf=True)
+                                      tokenizer=tokenize)
+    training_mask = data_df['training'] == 1
     X = tdif_vectorizer.fit_transform(data_df.processed)
-    y = data_df['sent_med']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+    x = tdif_vectorizer.transform(data_df[training_mask].processed)
+    y = data_df[training_mask]['sent_med']
+    X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
 
     ######## grid search
     param_grid = {
-        'bootstrap': [True],
-        'max_depth': [90],
-        'max_features': ['auto'],
+        'max_depth': [2000, 2500, 3000],
+        'max_features': ['sqrt'],
         'min_samples_leaf': [2],
-        'min_samples_split': [9, 11],
-        'n_estimators': [550, 650]
+        'min_samples_split': [7],
+        'n_estimators': [550]
     }
     # Create a based model
     rf = RandomForestRegressor()
     # Instantiate the grid search model
     grid_search = GridSearchCV(estimator=rf, param_grid=param_grid,
-                               cv=3, n_jobs=-1, verbose=2)
+                               cv=4, verbose=2, n_jobs=4)
 
     grid_search.fit(X_train, y_train)
     rf_model = grid_search.best_estimator_
@@ -126,7 +126,31 @@ if __name__ == '__main__':
         params = grid_search.get_params()
         del params['estimator']
         params['best_params'] = grid_search.best_params_
+        params['accuracy'] = grid_accuracy
         json.dump(params, text)
 
     with open(os.path.join(MASTER_DIR, f'vectorizer_{now}.p'), 'wb') as fin:
         pickle.dump(tdif_vectorizer, fin)
+
+    # apply model predictions to data
+    os.makedirs(SENT_OUT_DIR, exist_ok=True)
+    processed_files = set()
+    for filename in SENT_FILES:
+        if filename in processed_files:
+            continue
+
+        df = pd.read_csv(filename)
+        df['processed'] = df['tweet']
+        for substr, sbstitute in zip(conjugations, subs):
+            df['processed'] = df['processed'].str.replace(substr, sbstitute, regex=False)
+        for substr in noise:
+            df['processed'] = df['processed'].str.replace(substr,'',regex=False)
+        df['processed'] = [remove_noise(word_tokenize(tokens), stop_words) for tokens in df.processed]
+        if df['processed'].shape[0] == 0:
+            continue
+        vectors = tdif_vectorizer.transform(df.processed)
+        df['predictions'] = rf_model.predict(vectors)
+        df.to_csv(os.path.join(SENT_OUT_DIR, os.path.split(filename)[1]), index=False, quoting=csv.QUOTE_ALL)
+        processed_files.add(filename)
+        del df
+        del vectors

@@ -52,7 +52,7 @@ import pandas as pd
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0810.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0909.csv'))
 
 done = set()
 for match_id, match_df in DATA_DF.groupby('Event ID'):
@@ -143,4 +143,4 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
     # del sims_a
     # gc.collect()
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_0810.csv'), index=False)
+DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_0909.csv'), index=False)

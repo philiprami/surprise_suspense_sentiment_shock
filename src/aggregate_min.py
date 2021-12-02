@@ -7,14 +7,14 @@ import ntpath
 import numpy as np
 import pandas as pd
 from glob import glob
-from datetime import timedelta
+from datetime import timedelta, datetime
 import xml.etree.ElementTree as et
 
 DATA_DIR = '../data/'
 MASTER_DIR = DATA_DIR + 'Fracsoft/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
+SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores 11_20/'
 
 with open(DATA_DIR + 'cols.json','r') as column_file:
     cols = json.load(column_file)
@@ -26,6 +26,8 @@ with open(DATA_DIR + 'sentiment_map.json', 'r') as json_file:
     for key in list(file_map.keys()):
         for event_num in file_map[key]:
              file_map[event_num] = file_map[key][event_num]
+
+date_str = datetime.today().strftime('%Y-%m-%d')
 
 team_names = \
 {'Crystal Palace': 'C Palace',
@@ -66,7 +68,7 @@ for master_file in master_files:
 
         print(match_id)
         match_df.sort_values('datetime', inplace=True)
-        match_df['agg_key'] = match_df['datetime'].astype('datetime64[s]')
+        match_df['agg_key'] = match_df['datetime'].astype('datetime64[m]')
         min_gb = match_df.groupby('agg_key')
         for agg_key, min_df in min_gb:
             min_df['eff_price_match'] = min_df['total matched'] * min_df['last price matched']
@@ -133,7 +135,7 @@ for master_file in master_files:
             comment_df = comment_df[comment_df['team'] == reverse_dict[selection]]
         except KeyError:
             comment_df = comment_df[comment_df['team'] == reverse_dict[team_names[selection]]]
-        comment_df['agg_key'] = comment_df['last_modified'].astype('datetime64[s]')
+        comment_df['agg_key'] = comment_df['last_modified'].astype('datetime64[m]')
         event_ag = comment_df.sort_values('last_modified').groupby('agg_key')['type'].unique()
         mask = (agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)
         merged = event_ag.reset_index().merge(agg_results[mask], on='agg_key', how='outer')
@@ -168,35 +170,87 @@ for master_file in master_files:
             continue
 
         sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
-        sent_df['agg_key'] = sent_df['time'].astype('datetime64[s]')#.astype(str)
+        sent_df['agg_key'] = sent_df['time'].astype('datetime64[m]')#.astype(str)
+        # collect users that use both hashtags
+        other_match = next(filter(lambda x: x!= match_file, match_files))
+        opp_sent_df = pd.read_csv(SENTIMENT_DIR + other_match)
+        obscure_mask = sent_df['tweeter_name'].isin(opp_sent_df['tweeter_name'])
+        obscure_names = sent_df[obscure_mask]['tweeter_name'].unique()
+        # for obscure users, find how they commented on the first goal
+        # if they commented with teams # first, then keep,
+        # if they comment with the oppotition # first,  then remove them from the dataset
+        # if no goals scored, remove them from the dataset
+        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+        twitter_actual_start = game_start - timedelta(hours=1)
+        offset = twitter_actual_start - min(sent_df.agg_key)
+        sent_df_ = sent_df.copy()
+        sent_df_['time'] = pd.to_datetime(sent_df_['time'])
+        opp_sent_df['time'] = pd.to_datetime(opp_sent_df['time'])
+        sent_df_.time = sent_df_.time + offset
+        opp_sent_df.time = opp_sent_df.time + offset
+        sent_df_['time'] = sent_df_['time'].apply(lambda x: x.replace(tzinfo=None))
+        opp_sent_df['time'] = opp_sent_df['time'].apply(lambda x: x.replace(tzinfo=None))
+        sent_df_.sort_values('time', inplace=True)
+        opp_sent_df.sort_values('time', inplace=True)
+        comment_df_ = pd.DataFrame([node.attrib for node in xroot])
+        comment_df_['last_modified'] = pd.to_datetime(comment_df_['last_modified'])
+        for col in ['period', 'minute', 'second']:
+            comment_df_[col] = comment_df_[col].astype(float)
+        comment_df_.sort_values(['period', 'minute', 'second'], inplace=True)
+        goals = (comment_df_.type_id == '16') | (comment_df_.type_id == 16)
+        first_goal_time = comment_df_[goals].iloc[0]['last_modified']
+        after_goal_mask = (sent_df_['time']>first_goal_time) & sent_df_['tweeter_name'].isin(obscure_names)
+        first_comment = sent_df_[after_goal_mask].groupby('tweeter_name')['time'].min()
+        first_comment.name = 'team_tweet'
+        opp_after_goal_mask = (opp_sent_df['time']>first_goal_time) & opp_sent_df['tweeter_name'].isin(obscure_names)
+        first_comment_opp = opp_sent_df[opp_after_goal_mask].groupby('tweeter_name')['time'].min()
+        first_comment_opp.name = 'opposition_tweet'
+        tweet_times = pd.concat([first_comment, first_comment_opp], axis=1)
+        opp_first_mask = (tweet_times['team_tweet'] > tweet_times['opposition_tweet']) | tweet_times['team_tweet'].isnull()
+        drop_names = tweet_times[opp_first_mask].index
+        drop_mask = sent_df['tweeter_name'].isin(drop_names)
+
+        sent_df = sent_df[~drop_mask].reset_index(drop=True)
         tweet_sent_mean = sent_df.groupby('agg_key')['predictions'].mean()
         tweet_sent_mean.name = 'tweet_sent_mean'
         num_tweets = sent_df.agg_key.value_counts()
         num_tweets.name = 'num_tweets'
-        tweet_df = pd.concat([tweet_sent_mean, num_tweets], axis=1)
+        num_retweets = sent_df.groupby('agg_key')['retweets'].sum()
+        num_retweets.name = 'num_retweets'
+        tweet_df = pd.concat([tweet_sent_mean, num_tweets, num_retweets], axis=1)
 
         # weighted by retweets
+        sent_df.sort_values('agg_key', inplace=True)
         weighted_sent_mean = pd.DataFrame()
         for agg_key in sent_df.agg_key.unique():
             agg_mask = sent_df.agg_key == agg_key
             total_tweets = sent_df[agg_mask].retweets.sum() + agg_mask.sum()
             proportions = (sent_df[agg_mask].retweets + 1) / total_tweets
             weighted = proportions * sent_df[agg_mask].predictions
-            weighted_sent_mean = weighted_sent_mean.append({'agg_key' : agg_key, 'weighted_sent_mean' : weighted.sum()}, ignore_index=True)
+            weighted_sent_mean = weighted_sent_mean.append({'agg_key' : agg_key,
+                                                            'weighted_sent_mean' : weighted.sum()}, ignore_index=True)
 
         # merge in both tweet cols
         mask = (agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)
-        merged = agg_results[mask].merge(tweet_df.reset_index().rename(columns={'index':'agg_key'}), on='agg_key', how='left')
+        merged = agg_results[mask].merge(tweet_df.reset_index().rename(columns={'index':'agg_key'}), on='agg_key', how='outer')
         merged = merged.merge(weighted_sent_mean, on='agg_key', how='left')
         if 'weighted_sent_mean_x' in merged.columns:
-            merged.drop(columns=['weighted_sent_mean_x', 'tweet_sent_mean_x', 'num_tweets_x'], inplace=True)
-            merged.rename(columns={'weighted_sent_mean_y' : 'weighted_sent_mean', 'tweet_sent_mean_y' : 'tweet_sent_mean', 'num_tweets_y': 'num_tweets'}, inplace=True)
-        merged.set_index(agg_results[mask].index, inplace=True)
-        agg_results.loc[mask] = merged
+            merged.drop(columns=['weighted_sent_mean_x', 'tweet_sent_mean_x', 'num_tweets_x', 'num_retweets_x'], inplace=True)
+            merged.rename(columns={'weighted_sent_mean_y' : 'weighted_sent_mean',
+                                   'tweet_sent_mean_y' : 'tweet_sent_mean',
+                                   'num_tweets_y': 'num_tweets',
+                                   'num_retweets_y' : 'num_retweets'}, inplace=True)
+        merged.sort_values('agg_key', inplace=True)
+        for col in merged.columns:
+            if col not in ['tweet_sent_mean', 'num_tweets', 'weighted_sent_mean', 'event']:
+                merged[col] = merged[col].ffill()
+
+        agg_results = agg_results[~mask].reset_index(drop=True)
+        agg_results = agg_results.append(merged)
 
         # write out progress
         matches_done.add(match_id)
         if len(matches_done) % 50 == 0: # change back to 50
-            agg_results.to_csv(OUT_DIR + 'season_2013_agg_sec_event_twitter_0811.csv', index=False)
+            agg_results.to_csv(OUT_DIR + f'season_2013_agg_event_twitter_{date_str}.csv', index=False)
 
-agg_results.to_csv(OUT_DIR + 'season_2013_agg_event_twitter_0810.csv', index=False)
+agg_results.to_csv(OUT_DIR + f'season_2013_agg_event_twitter_{date_str}.csv', index=False)

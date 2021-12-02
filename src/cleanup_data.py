@@ -4,7 +4,7 @@ from datetime import timedelta
 
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_sec_metrics_0811.csv', encoding='utf8')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_0909.csv', encoding='utf8')
 OUTPUT = pd.DataFrame()
 
 done = set()
@@ -54,7 +54,8 @@ for match_id, match_df in event_gb:
                    match_df.num_tweets_home.notnull()
     for col in ['tweet_sent_mean_away', 'tweet_sent_mean_home',
                 'weighted_sent_mean_away', 'weighted_sent_mean_home',
-                'num_tweets_away', 'num_tweets_home']:
+                'num_tweets_away', 'num_tweets_home',
+                'num_retweets_away', 'num_retweets_home']:
         values = np.array(match_df[twitter_mask][col])
         rows_left = match_df.loc[twitter_start_index:].shape[0]
         if values.shape[0] > rows_left:
@@ -71,4 +72,4 @@ for match_id, match_df in event_gb:
     OUTPUT = OUTPUT.append(match_df, ignore_index=True)
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_sec_final_0811.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_final_0909.csv', index=False)

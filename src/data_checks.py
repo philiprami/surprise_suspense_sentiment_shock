@@ -14,7 +14,7 @@ plt.rcParams.update({
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0810.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0909.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 # check if summary stats match table 1
@@ -27,8 +27,10 @@ for col in emoti_cols:
 print(mask.sum()) # note: 33475 observations is far less than 47,520 in the paper
 DATA_DF[mask][emoti_cols].describe().T[sum_stats]
 
-# plot aggregated cues
+# assign minute and plot distribution
+minute_goals = Counter()
 DATA_DF['minute'] = None
+DATA_DF['is_first_half'] = 1
 for match_id, match_df in DATA_DF.groupby('Event ID'):
     starts = match_df[match_df.event_home.fillna('').str.contains('start')] # change to home
     if starts.shape[0] != 2:
@@ -49,24 +51,27 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
             minute += 1
 
         DATA_DF.loc[index, 'minute'] = minute
+        if not first_half:
+            DATA_DF.loc[index, 'is_first_half'] = 0
 
+# plot aggregated cues
 gb_surprse = DATA_DF[mask].groupby('minute')['surprise_eff_prob'].agg('mean')
 gb_shock = DATA_DF[mask].groupby('minute')['shock_eff_prob'].agg('mean')
 gb_suspense = DATA_DF[mask].groupby('minute')['suspense_eff_prob'].agg('mean')
 gb_sent_away = DATA_DF[mask].groupby('minute')['weighted_sent_mean_away'].agg('mean')
 gb_sent_home = DATA_DF[mask].groupby('minute')['weighted_sent_mean_home'].agg('mean')
 fig, axes = plt.subplots(2, 2, figsize=(12, 10))
-axes[0, 0].plot(gb_surprse.index, gb_surprse, label='surprise')
-axes[0, 1].plot(gb_shock.index, gb_shock, label='shock')
-axes[1, 0].plot(gb_suspense.index, gb_suspense, label='suspense')
-axes[1, 1].plot(gb_sent_away.index, gb_sent_away, label='away')
-axes[1, 1].plot(gb_sent_home.index, gb_sent_home, label='home')
+axes[0, 0].step(gb_surprse.index, gb_surprse, label='surprise')
+axes[0, 1].step(gb_shock.index, gb_shock, label='shock')
+axes[1, 0].step(gb_suspense.index, gb_suspense, label='suspense')
+axes[1, 1].step(gb_sent_away.index, gb_sent_away, label='away')
+axes[1, 1].step(gb_sent_home.index, gb_sent_home, label='home')
 axes[0, 0].set_title('surprise')
 axes[0, 1].set_title('shock')
 axes[1, 0].set_title('suspense')
 axes[1, 1].set_title('sentiment')
 axes[1, 1].legend(fontsize=11)
-fig.savefig('../fig/agg_cues.png', bbox_inches='tight')
+fig.savefig('../fig/agg_cues_step.png', bbox_inches='tight')
 plt.show()
 
 # plot num_tweets and tweet sentiment for sample game
@@ -79,10 +84,10 @@ away_scores = in_game_sample[in_game_sample.event_away.fillna('').str.contains('
 red_cards = in_game_sample[in_game_sample.event_away.fillna('').str.contains('red card') | in_game_sample.event_home.fillna('').str.contains('red card')].minute
 fig, ax = plt.subplots(1, figsize=(12, 6))
 tweet_num = in_game_sample.num_tweets_away + in_game_sample.num_tweets_home
-ax.plot(in_game_sample.minute, in_game_sample['weighted_sent_mean_away'], label='sentiment away', color='b')
-ax.plot(in_game_sample.minute, in_game_sample['weighted_sent_mean_home'], label='sentiment home', color='g')
+ax.step(in_game_sample.minute, in_game_sample['weighted_sent_mean_away'], label='sentiment away', color='b')
+ax.step(in_game_sample.minute, in_game_sample['weighted_sent_mean_home'], label='sentiment home', color='g')
 ax2 = ax.twinx()  # instantiate a second axes that shares the same x-axis
-ax2.plot(in_game_sample.minute, tweet_num, label='tweet amount', color='k')
+ax2.step(in_game_sample.minute, tweet_num, label='tweet amount', color='k')
 for minute in home_scores:
     plt.axvline(minute, linestyle='--', label='home score', color='g')
 for minute in away_scores:
@@ -98,7 +103,7 @@ plt.legend(by_label.values(), by_label.keys(), bbox_to_anchor=(1.05, 1), loc='up
 print(in_game_sample.Course.all())
 plt.show()
 
-fig.savefig('../fig/26 December - Cardiff v Southampton twitter.png', bbox_inches='tight')
+fig.savefig(f'../fig/Sentiment - {sample_df.Course.all()}.png', bbox_inches='tight')
 
 
 # plot suspense and goals and red cards for sample game
@@ -111,7 +116,7 @@ in_game_sample = sample_df[sample_df['minute'].notnull()]
 home_scores = in_game_sample[in_game_sample.event_home.fillna('').str.contains('goal scored')].minute
 away_scores = in_game_sample[in_game_sample.event_away.fillna('').str.contains('goal scored')].minute
 fig, ax = plt.subplots(1, figsize=(10, 5))
-ax.plot(in_game_sample.minute, in_game_sample['suspense_eff_prob'], label='suspense', color='b')
+ax.step(in_game_sample.minute, in_game_sample['suspense_eff_prob'], label='suspense', color='b')
 for minute in home_scores:
     plt.axvline(minute, linestyle='--', label='home score', color='g')
 for minute in away_scores:
@@ -124,13 +129,26 @@ plt.legend(by_label.values(), by_label.keys(), fontsize=11)
 print(in_game_sample.Course.all())
 plt.show()
 
-fig.savefig('../fig/Suspense - 26 October - Liverpool v West Brom.png', bbox_inches='tight')
+fig.savefig(f'../fig/Suspense - {sample_df.Course.all()}.png', bbox_inches='tight')
 
 # plot scoring distribution
+in_game_df = DATA_DF[DATA_DF['minute'].notnull()]
+def get_goals(x):
+    if pd.isnull(x):
+        return 0
+    count = len(re.findall('goal', x))
+    return count
+
+in_game_df['goals_home'] = in_game_df['event_home'].apply(get_goals)
+in_game_df['goals_away'] = in_game_df['event_away'].apply(get_goals)
+in_game_df['goals_scored'] = in_game_df['goals_home']+in_game_df['goals_away']
+goal_distrib = in_game_df.groupby('minute')['goals_scored'].sum()/in_game_df['goals_scored'].sum()
+goal_distrib = goal_distrib.reset_index()
+
 fig, ax = plt.subplots(1, figsize=(10, 5))
-ax.bar(DISTRIBUTION['density'].index, DISTRIBUTION['density'], color='w', edgecolor='k')
-ax.set_ylim(0, 0.025)
-ax.set_xlim(0, 92)
+ax.bar(goal_distrib['minute'].index, goal_distrib['goals_scored'], color='w', edgecolor='k')
+ax.set_ylim(0, 0.05)
+ax.set_xlim(0, 90)
 plt.xlabel('minute')
 plt.ylabel('density')
 fig.savefig('../fig/denisty_plot.png', bbox_inches='tight')
