@@ -161,8 +161,17 @@ sent_polarized.columns = [x.split('-')[1] for x in sent_polarized.columns]
 results = []
 for tweeter, row in sent_polarized.iterrows():
     sorted_row = row.sort_values(ascending=False)
-    # fav_team = statistics.mode(sorted_row[:3].index)
-    results.append([tweeter, sorted_row.index[0]])
+    max_score_team = sorted_row.index[0]
+    try:
+        top_team = statistics.mode(sorted_row.dropna()[:5].index)
+    except:
+        results.append([tweeter, None])
+        continue
+
+    if max_score_team != top_team:
+        results.append([tweeter, None])
+    else:
+        results.append([tweeter, sorted_row.index[0]])
 
 final = pd.DataFrame(results, columns=['twitter_name', 'fav_team'])
 final.to_csv(DATA_DIR + 'favorite_teams.csv', index=False)

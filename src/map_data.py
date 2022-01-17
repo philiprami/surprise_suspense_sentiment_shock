@@ -1,21 +1,3 @@
-'''
-Questions:
-- Consider merging sentiment scores into one file per game?
-- Should retweets be counted? Should they be counted but weighted less?
-- Aggregating by millisecond? By second?
-- Are we also merging in commentary?
-- sentiment and commentary should be merged in at the timestamp exact match or tick directly following
-- the more recent sentiment replaces
-- if there are multiple matches, puts sentiment in both
-- commentary is not by team .. I've gone digging in the text files I scraped to generate the xml commentary contains team-ids..
-I would just have to cross-reference this with the website to get the team data
-- epl-Crystal Palace-2013-08-18.csv is blank
-- neutral commentary counts - and is merged to - for the home team... should they instead be merged to both?
-- yellow and red card are the same
-- replace match commentary with correct time
-- full in sentiment nulls
-'''
-
 import os
 import json
 import ntpath

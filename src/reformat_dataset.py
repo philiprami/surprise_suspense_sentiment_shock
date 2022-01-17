@@ -12,7 +12,7 @@ SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 same_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'agg_key', 'Inplay flag']
 date_str = datetime.today().strftime('%Y-%m-%d')
 
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_event_twitter_{date_str}.csv')
+INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_min_{date_str}.csv')
 OUTPUT = pd.DataFrame()
 gb = INPUT.groupby('Event ID')
 for gbi, (match_id, match_df) in enumerate(gb):

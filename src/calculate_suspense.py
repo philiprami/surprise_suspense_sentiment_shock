@@ -48,11 +48,13 @@ import gc
 import re
 import math
 import pandas as pd
+from datetime import datetime
 
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_agg_final_0909.csv'))
+date_str = datetime.today().strftime('%Y-%m-%d')
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_metrics_{date_str}.csv'))
 
 done = set()
 for match_id, match_df in DATA_DF.groupby('Event ID'):

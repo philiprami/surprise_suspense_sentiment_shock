@@ -1,13 +1,15 @@
 # surprise_suspense_sentiment
 
-## PRE STEP 1
-
-add sentiment scores with nlp.py
-run map_data.py
-
-## PRE STEP 2
+## PRE STEPS
 
 commentary scrape
+- output: commentary files with events
+run nlp.py
+- output: sentiment scores
+run map_data.py
+- output: json with map of sentiment files
+get_fav_team.py
+- output: data set with all twitter users and their favorite teams 
 
 ## STEP 1
 
