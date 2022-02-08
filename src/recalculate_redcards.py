@@ -3,13 +3,15 @@ import re
 import json
 import math
 import pandas as pd
+from datetime import datetime
 from operator import itemgetter
 from scipy.stats import bernoulli
 
 DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, 'season_2013_complete_0909.csv'))
+date_str = datetime.today().strftime('%Y-%m-%d')
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_2022-01-31.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 TRIALS = 100000
@@ -124,4 +126,4 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
 
     done.add(match_id)
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, 'season_2013_complete_redcard_0909.csv'), index=False)
+DATA_DF.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_final_{date_str}.csv'), index=False)

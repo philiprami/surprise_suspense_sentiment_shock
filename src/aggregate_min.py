@@ -210,6 +210,6 @@ for master_file in master_files:
         # write out progress
         matches_done.add(match_id)
         if len(matches_done) % 50 == 0: # change back to 50
-            agg_results.to_csv(OUT_DIR + f'season_2013_agg_event_twitter_{date_str}.csv', index=False)
+            agg_results.to_csv(OUT_DIR + f'season_2013_agg_min_{date_str}.csv', index=False)
 
 agg_results.to_csv(OUT_DIR + f'season_2013_agg_min_{date_str}.csv', index=False)

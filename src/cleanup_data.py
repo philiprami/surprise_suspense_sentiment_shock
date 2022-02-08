@@ -1,11 +1,12 @@
 import numpy as np
 import pandas as pd
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_0909.csv', encoding='utf8')
+INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_2022-01-12.csv', encoding='utf8')
 OUTPUT = pd.DataFrame()
+date_str = datetime.today().strftime('%Y-%m-%d')
 
 done = set()
 event_gb = INPUT.groupby('Event ID')
@@ -32,7 +33,9 @@ for match_id, match_df in event_gb:
         match_df = match_df[~after_start_out_of_play]
 
     # remove twitter draw cols
-    match_df.drop(columns=['tweet_sent_mean_draw', 'weighted_sent_mean_draw', 'num_tweets_draw'],
+    match_df.drop(columns=['tweet_sent_mean_draw', 'num_tweets_draw',
+                           'fan_tweets_draw', 'num_retweets_draw',
+                           'fan_retweets_draw'],
                   inplace=True)
 
     # fix twitter times
@@ -48,14 +51,19 @@ for match_id, match_df in event_gb:
     twitter_start_index = pre_match.index[0]
     twitter_mask = match_df.tweet_sent_mean_away.notnull() | \
                    match_df.tweet_sent_mean_home.notnull() | \
-                   match_df.weighted_sent_mean_away.notnull() | \
-                   match_df.weighted_sent_mean_home.notnull() | \
                    match_df.num_tweets_away.notnull() | \
-                   match_df.num_tweets_home.notnull()
+                   match_df.num_tweets_home.notnull() | \
+                   match_df.fan_tweets_away.notnull() | \
+                   match_df.fan_tweets_home.notnull() | \
+                   match_df.num_retweets_away.notnull() | \
+                   match_df.num_retweets_home.notnull() | \
+                   match_df.fan_retweets_away.notnull() | \
+                   match_df.fan_retweets_home.notnull()
     for col in ['tweet_sent_mean_away', 'tweet_sent_mean_home',
-                'weighted_sent_mean_away', 'weighted_sent_mean_home',
                 'num_tweets_away', 'num_tweets_home',
-                'num_retweets_away', 'num_retweets_home']:
+                'fan_tweets_away', 'fan_tweets_home',
+                'num_retweets_away', 'num_retweets_home',
+                'fan_retweets_away', 'fan_retweets_home']:
         values = np.array(match_df[twitter_mask][col])
         rows_left = match_df.loc[twitter_start_index:].shape[0]
         if values.shape[0] > rows_left:
@@ -72,4 +80,4 @@ for match_id, match_df in event_gb:
     OUTPUT = OUTPUT.append(match_df, ignore_index=True)
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + 'season_2013_agg_final_0909.csv', index=False)
+OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_cleaned_{date_str}.csv', index=False)
