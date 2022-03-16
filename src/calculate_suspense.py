@@ -132,6 +132,7 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
                 minute += 1
 
             DATA_DF.loc[index, f'suspense_{col}_prob'] = suspense # change
+            DATA_DF.loc[index, 'minute'] = minute
 
     done.add(match_id)
 

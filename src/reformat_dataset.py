@@ -41,7 +41,7 @@ for gbi, (match_id, match_df) in enumerate(gb):
     for outcome_suffix in ['_home', '_away', '_draw']:
         for col in ['selection', 'selection id', 'eff_price_match',
                     'mean_price_match', 'median_price_match']:
-            merged[f'{col}{outcome_suffix}'] = merged[f'{col}{outcome_suffix}'].ffill()
+            merged[f'{col}{outcome_suffix}'] = merged[f'{col}{outcome_suffix}'].bfill()
 
     OUTPUT = OUTPUT.append(merged)
 

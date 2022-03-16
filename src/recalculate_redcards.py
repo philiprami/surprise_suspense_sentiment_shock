@@ -11,13 +11,13 @@ DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
 date_str = datetime.today().strftime('%Y-%m-%d')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_2022-01-31.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_{date_str}.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 TRIALS = 100000
 
 # get teams per match
-team_df = DATA_DF[['Event ID', 'selection_home', 'selection_away']].drop_duplicates()
+team_df = DATA_DF[['Event ID', 'selection_home', 'selection_away']].dropna().drop_duplicates()
 team_df['Event ID'] = team_df['Event ID'].astype(int).astype(str)
 teams = team_df.set_index('Event ID').T.to_dict()
 

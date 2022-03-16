@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
-INPUT = pd.read_csv(OUT_DIR + 'season_2013_agg_metrics_2022-01-12.csv', encoding='utf8')
-OUTPUT = pd.DataFrame()
 date_str = datetime.today().strftime('%Y-%m-%d')
+INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_metrics_{date_str}.csv', encoding='utf8')
+OUTPUT = pd.DataFrame()
 
 done = set()
 event_gb = INPUT.groupby('Event ID')
@@ -35,7 +35,7 @@ for match_id, match_df in event_gb:
     # remove twitter draw cols
     match_df.drop(columns=['tweet_sent_mean_draw', 'num_tweets_draw',
                            'fan_tweets_draw', 'num_retweets_draw',
-                           'fan_retweets_draw'],
+                           'fan_retweets_draw', 'fan_tweet_sent_mean_draw'],
                   inplace=True)
 
     # fix twitter times
@@ -58,12 +58,16 @@ for match_id, match_df in event_gb:
                    match_df.num_retweets_away.notnull() | \
                    match_df.num_retweets_home.notnull() | \
                    match_df.fan_retweets_away.notnull() | \
-                   match_df.fan_retweets_home.notnull()
+                   match_df.fan_retweets_home.notnull() | \
+                   match_df.fan_tweet_sent_mean_away.notnull() | \
+                   match_df.fan_tweet_sent_mean_home.notnull()
+
     for col in ['tweet_sent_mean_away', 'tweet_sent_mean_home',
                 'num_tweets_away', 'num_tweets_home',
                 'fan_tweets_away', 'fan_tweets_home',
                 'num_retweets_away', 'num_retweets_home',
-                'fan_retweets_away', 'fan_retweets_home']:
+                'fan_retweets_away', 'fan_retweets_home',
+                'fan_tweet_sent_mean_away', 'fan_tweet_sent_mean_home']:
         values = np.array(match_df[twitter_mask][col])
         rows_left = match_df.loc[twitter_start_index:].shape[0]
         if values.shape[0] > rows_left:

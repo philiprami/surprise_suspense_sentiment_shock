@@ -44,7 +44,7 @@ team_names = \
 keep_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'selection',
              'selection id', 'agg_key']
 new_cols = ['event', 'tweet_sent_mean', 'num_tweets',
-            'num_retweets', 'fan_tweets', 'fan_retweets']
+            'num_retweets', 'fan_tweets', 'fan_retweets', 'fan_tweet_sent_mean']
 agg_results = pd.DataFrame(columns=keep_cols+new_cols)
 master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
 matches_done = set()
@@ -148,8 +148,9 @@ for master_file in master_files:
             merged.drop(columns=['event'], inplace=True)
         merged.rename(columns={'type' : 'event'}, inplace=True)
         for col in merged.columns:
-            if col != 'event':
-                merged[col] = merged[col].ffill()
+            if col != 'event' and 'tweet' not in col:
+                merged[col] = merged[col].bfill()
+
         agg_results = agg_results[~mask]
         agg_results = agg_results.append(merged, ignore_index=True)
 
@@ -181,28 +182,32 @@ for master_file in master_files:
         num_retweets = sent_df.groupby('agg_key')['retweets'].sum()
         num_retweets.name = 'num_retweets'
         fan_df = sent_df.merge(fan_data, left_on='tweeter_name', right_on='twitter_name', how='left')
-        fan_tweets = fan_df[fan_df['fav_team'] == selection].agg_key.value_counts()
+        fan_mask = fan_df['fav_team'] == selection
+        fan_tweets = fan_df[fan_mask].agg_key.value_counts()
         fan_tweets.name = 'fan_tweets'
-        fan_retweets = fan_df[fan_df['fav_team'] == selection].groupby('agg_key')['retweets'].sum()
+        fan_retweets = fan_df[fan_mask].groupby('agg_key')['retweets'].sum()
         fan_retweets.name = 'fan_retweets'
-        tweet_df = pd.concat([tweet_sent_mean, num_tweets, num_retweets, fan_tweets, fan_retweets], axis=1)
+        fan_tweet_sent_mean = fan_df[fan_mask].groupby('agg_key')['predictions'].mean()
+        fan_tweet_sent_mean.name = 'fan_tweet_sent_mean'
+        tweet_df = pd.concat([tweet_sent_mean, num_tweets, num_retweets, fan_tweets, fan_retweets, fan_tweet_sent_mean], axis=1)
 
         # merge in both tweet cols
         mask = (agg_results['Event ID'] == match_id) & (agg_results['selection'] == selection)
         merged = agg_results[mask].merge(tweet_df.reset_index().rename(columns={'index':'agg_key'}), on='agg_key', how='outer')
         if 'tweet_sent_mean_x' in merged.columns:
             merged.drop(columns=['tweet_sent_mean_x', 'num_tweets_x', 'num_retweets_x',
-                                 'fan_tweets_x', 'fan_retweets_x'], inplace=True)
+                                 'fan_tweets_x', 'fan_retweets_x', 'fan_tweet_sent_mean_x'], inplace=True)
             merged.rename(columns={'tweet_sent_mean_y' : 'tweet_sent_mean',
                                    'num_tweets_y': 'num_tweets',
                                    'num_retweets_y' : 'num_retweets',
                                    'fan_tweets_y' : 'fan_tweets',
-                                   'fan_retweets_y' : 'fan_retweets'}, inplace=True)
+                                   'fan_retweets_y' : 'fan_retweets',
+                                   'fan_tweet_sent_mean_y' : 'fan_tweet_sent_mean'}, inplace=True)
         merged.sort_values('agg_key', inplace=True)
         for col in merged.columns:
             if col not in ['tweet_sent_mean', 'num_tweets', 'num_retweets',
-                            'event', 'fan_tweets', 'fan_retweets']:
-                merged[col] = merged[col].ffill()
+                            'event', 'fan_tweets', 'fan_retweets', 'fan_tweet_sent_mean']:
+                merged[col] = merged[col].bfill()
 
         agg_results = agg_results[~mask].reset_index(drop=True)
         agg_results = agg_results.append(merged)
