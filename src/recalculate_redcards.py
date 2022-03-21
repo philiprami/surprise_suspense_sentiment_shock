@@ -72,8 +72,12 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
         # re-calculate suspense
         start_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[0].name
         half_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[1].name
-        home_scores = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
-        away_scores = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+        home_goals = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+        away_goals = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+        home_own_goals = match_df.event_home.fillna('').apply(lambda x: len(re.findall('own goal', x))).cumsum()
+        away_own_goals = match_df.event_away.fillna('').apply(lambda x: len(re.findall('own goal', x))).cumsum()
+        home_scores = home_goals - home_own_goals + away_own_goals
+        away_scores = away_goals - away_own_goals + home_own_goals
         for col in ['eff', 'mean', 'median']:
             first_half = True
             minute = 0

@@ -55,6 +55,8 @@ OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
 date_str = datetime.today().strftime('%Y-%m-%d')
 DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_cleaned_{date_str}.csv'))
+for score_col in ['home_goal', 'away_goal', 'home_score', 'away_score']:
+    DATA_DF[score_col] = None
 
 done = set()
 for match_id, match_df in DATA_DF.groupby('Event ID'):
@@ -76,8 +78,16 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
     sims_a.index = sims_a.index.astype(int)
 
     match_df.sort_values('agg_key', inplace=True)
-    home_scores = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
-    away_scores = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x))).cumsum()
+    home_goals = match_df.event_home.fillna('').apply(lambda x: len(re.findall('goal', x)))
+    away_goals = match_df.event_away.fillna('').apply(lambda x: len(re.findall('goal', x)))
+    DATA_DF.loc[match_df.index, 'home_goal'] = home_goals
+    DATA_DF.loc[match_df.index, 'away_goal'] = away_goals
+    home_own_goals = match_df.event_home.fillna('').apply(lambda x: len(re.findall('own goal', x))).cumsum()
+    away_own_goals = match_df.event_away.fillna('').apply(lambda x: len(re.findall('own goal', x))).cumsum()
+    home_scores = home_goals.cumsum() - home_own_goals + away_own_goals
+    away_scores = away_goals.cumsum() - away_own_goals + home_own_goals
+    DATA_DF.loc[match_df.index, 'home_score'] = home_scores
+    DATA_DF.loc[match_df.index, 'away_score'] = away_scores
     start_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[0].name
     half_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[1].name
     # CHANGE. HAS to BACKTRACK

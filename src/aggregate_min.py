@@ -122,6 +122,9 @@ for master_file in master_files:
         comment_df.loc[yellow_cards, 'type_id'] = '20'
         comment_df.loc[red_cards, 'type'] = 'red card'
         comment_df.loc[red_cards, 'type_id'] = '21'
+        goal_mask = comment_df['type_id'] == '16'
+        own_goal = goal_mask & comment_df['comment'].str.contains('own goal', case=False)
+        comment_df.loc[own_goal, 'type'] = 'own goal'
         comment_df.second = comment_df.second.fillna(0)
         second_half_index = comment_df[comment_df['comment'] == 'Second half begins!'].iloc[0].name
         second_half = comment_df[comment_df.index <= second_half_index]
