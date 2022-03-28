@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 date_str = datetime.today().strftime('%Y-%m-%d')
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_metrics_{date_str}.csv', encoding='utf8')
+INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_reformatted_2022-03-24.csv', encoding='utf8')
 OUTPUT = pd.DataFrame()
 
 done = set()

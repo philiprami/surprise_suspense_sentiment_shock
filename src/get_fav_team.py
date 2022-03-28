@@ -15,7 +15,7 @@ DATA_DIR = '../data/'
 MASTER_DIR = DATA_DIR + 'Fracsoft/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores 11_20/'
+SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 
 with open(DATA_DIR + 'cols.json','r') as column_file:
     cols = json.load(column_file)
@@ -163,7 +163,7 @@ for tweeter, row in sent_polarized.iterrows():
     sorted_row = row.sort_values(ascending=False)
     max_score_team = sorted_row.index[0]
     try:
-        top_team = statistics.mode(sorted_row.dropna()[:5].index)
+        top_team = statistics.mode(sorted_row[sorted_row > 0].dropna()[:5].index)
     except:
         results.append([tweeter, None])
         continue
