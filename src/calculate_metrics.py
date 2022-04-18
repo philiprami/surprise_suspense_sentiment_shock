@@ -11,7 +11,7 @@ prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
 outcomes = ['home', 'away', 'draw']
 
 date_str = datetime.today().strftime('%Y-%m-%d')
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_scaled_{date_str}.csv')
+INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_scaled_2022-04-14.csv')
 OUTPUT = pd.DataFrame()
 
 done = set()

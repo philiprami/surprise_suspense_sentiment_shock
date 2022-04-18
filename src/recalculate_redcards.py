@@ -11,7 +11,7 @@ DATA_DIR = '../data/'
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
 date_str = datetime.today().strftime('%Y-%m-%d')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_{date_str}.csv'))
+DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_2022-04-15.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
 TRIALS = 100000

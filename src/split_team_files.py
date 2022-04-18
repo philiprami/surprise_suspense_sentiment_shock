@@ -35,6 +35,18 @@ for team_name in all_teams:
         team_df['fan_tweet_sent_mean'].fillna(0, inplace=True)
         team_df['ln_fan_tweet'] = np.log(team_df['fan_tweet'])
         team_df['ln_fan_retweet_tweet'] = np.log(team_df['fan_retweet_tweet'])
+        team_df['ln_fan_tweet_sent_mean'] = np.log(team_df['fan_tweet_sent_mean'])
+
+        team_df['hater_tweet'] = np.where(team_df.selection_home == team_name, team_df['hater_tweets_home'], team_df['hater_tweets_away'])
+        team_df['hater_retweet_tweet'] = np.where(team_df.selection_home == team_name, (team_df['hater_tweets_home']+team_df['hater_retweets_home']), (team_df['hater_tweets_away']+team_df['hater_retweets_away']))
+        team_df['hater_tweet_sent_mean'] = np.where(team_df.selection_home == team_name, team_df['hater_tweet_sent_mean_home'], team_df['hater_tweet_sent_mean_away'])
+        team_df['hater_tweet'].fillna(0, inplace=True)
+        team_df['hater_retweet_tweet'].fillna(0, inplace=True)
+        team_df['hater_tweet_sent_mean'].fillna(0, inplace=True)
+        team_df['ln_hater_tweet'] = np.log(team_df['hater_tweet'])
+        team_df['ln_hater_retweet_tweet'] = np.log(team_df['hater_retweet_tweet'])
+        team_df['ln_hater_tweet_sent_mean'] = np.log(team_df['hater_tweet_sent_mean'])
+
         deficit = np.where(team_df.selection_home == team_name, (team_df['home_score']-team_df['away_score']), (team_df['away_score']-team_df['home_score']))
         team_df['multiplier'] = np.where(deficit >= 0 , deficit+1, deficit)
         for cue in emotional_cues:

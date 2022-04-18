@@ -158,23 +158,70 @@ for col in sentiment_frame.columns:
 
 sent_polarized = sentiment_frame * mult_df
 sent_polarized.columns = [x.split('-')[1] for x in sent_polarized.columns]
-results = []
+fan_results = []
+hater_results = []
 for tweeter, row in sent_polarized.iterrows():
-    sorted_row = row.sort_values(ascending=False)
-    max_score_team = sorted_row.index[0]
-    try:
-        top_team = statistics.mode(sorted_row[sorted_row > 0].dropna()[:5].index)
-    except:
-        results.append([tweeter, None])
+    sorted_row = row.dropna().sort_values(ascending=False)
+    if row.notnull().sum() < 3:
         continue
 
-    if max_score_team != top_team:
-        results.append([tweeter, None])
+    fav_team = None
+    max_score_team = sorted_row.index[0]
+    wins = sorted_row > 0
+    if wins.sum() >= 2:
+        try: top_team = statistics.mode(sorted_row[wins][:5].index)
+        except: top_team = None
+        if max_score_team == top_team:
+            fav_team = top_team
+
+    hater_team = None
+    min_score_team = sorted_row.index[-1]
+    losses = sorted_row < 0
+    if losses.sum() >= 2:
+        try: bottom_team = statistics.mode(sorted_row[losses][:5].index)
+        except: bottom_team = None
+        if min_score_team == bottom_team:
+            hater_team = bottom_team
+
+    if fav_team:
+        if fav_team == hater_team:
+            team_loc = sorted_row.loc[fav_team]
+            average_sent_win = team_loc[team_loc > 0].mean()
+            average_sent_loss = team_loc[team_loc < 0].mean()
+            if average_sent_win > abs(average_sent_loss):
+                fan_results.append([tweeter, fav_team])
+            else:
+                fan_results.append([tweeter, None])
+        else:
+            biggest_win = sorted_row.loc[fav_team].iloc[0]
+            biggest_loss = sorted_row.loc[fav_team].iloc[-1]
+            if biggest_win < abs(biggest_loss):
+                fan_results.append([tweeter, None])
+            else:
+                fan_results.append([tweeter, fav_team])
     else:
-        results.append([tweeter, sorted_row.index[0]])
+        fan_results.append([tweeter, None])
 
-final = pd.DataFrame(results, columns=['twitter_name', 'fav_team'])
+    if hater_team:
+        if fav_team == hater_team:
+            team_loc = sorted_row.loc[hater_team]
+            average_sent_win = team_loc[team_loc > 0].mean()
+            average_sent_loss = team_loc[team_loc < 0].mean()
+            if average_sent_win < abs(average_sent_loss):
+                hater_results.append([tweeter, hater_team])
+            else:
+                hater_results.append([tweeter, None])
+        else:
+            biggest_win = sorted_row.loc[hater_team].iloc[0]
+            biggest_loss = sorted_row.loc[hater_team].iloc[-1]
+            if biggest_win > abs(biggest_loss):
+                hater_results.append([tweeter, None])
+            else:
+                hater_results.append([tweeter, hater_team])
+    else:
+        hater_results.append([tweeter, None])
+
+final = pd.DataFrame(fan_results, columns=['twitter_name', 'fav_team'])
 final.to_csv(DATA_DIR + 'favorite_teams.csv', index=False)
-
-# minimum amount of tweets?
-# instead of taking the top answer, consider taking the mode of the top 3 or top 5
+haters = pd.DataFrame(hater_results, columns=['twitter_name', 'hater_team'])
+haters.to_csv(DATA_DIR + 'hater_teams.csv', index=False)
