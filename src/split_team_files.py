@@ -1,20 +1,26 @@
 import os
 import re
 import sys
+import argparse
 import numpy as np
 import pandas as pd
 from datetime import datetime
 
-DATA_DIR = '../data/'
-DATASET_DIR = os.path.join(DATA_DIR, 'aggregated')
-OUT_DIR = os.path.join(DATASET_DIR, 'team_data')
-date_str = datetime.today().strftime('%Y-%m-%d')
-os.makedirs(OUT_DIR, exist_ok=True)
-
 prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
-emotional_cues = ['surprise' , 'shock']
+emotional_cues = ['surprise', 'shock']
 
-df = pd.read_csv(os.path.join(DATASET_DIR, f'season_2013_agg_final_{date_str}.csv'))
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        type='str',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+os.makedirs(args.output, exists_ok=True)
+df = pd.read_csv(args.input)
 all_teams = set(df.selection_home.unique()).union(set(df.selection_away.unique()))
 out_frames = {}
 for team_name in all_teams:
@@ -79,5 +85,5 @@ for team_name in all_teams:
 out_frames['C Palace'] = out_frames['C Palace'].append(out_frames['Crystal Palace'])
 del out_frames['Crystal Palace']
 for team_name, team_df in out_frames.items():
-    outfile = os.path.join(OUT_DIR, f'season_2013_agg_final_{date_str}_{team_name}.csv')
+    outfile = os.path.join(args.output, f'season_2013_agg_final_{team_name}.csv')
     team_df.to_csv(outfile, index=False)

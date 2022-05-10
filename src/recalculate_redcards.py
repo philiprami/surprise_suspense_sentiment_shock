@@ -2,19 +2,29 @@ import os
 import re
 import json
 import math
+import argparse
 import pandas as pd
 from datetime import datetime
 from operator import itemgetter
 from scipy.stats import bernoulli
 
-DATA_DIR = '../data/'
+TRIALS = 100000
+DIR = os.path.dirname(os.path.realpath(__file__))
+DATA_DIR = os.path.join(DIR, '../data')
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-date_str = datetime.today().strftime('%Y-%m-%d')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_2022-04-15.csv'))
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, 'scoring_distribution.csv'), index_col=0)
 
-TRIALS = 100000
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+DATA_DF = pd.read_csv(args.input)
 
 # get teams per match
 team_df = DATA_DF[['Event ID', 'selection_home', 'selection_away']].dropna().drop_duplicates()
@@ -89,6 +99,17 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
 
                 home_score = home_scores.loc[index]
                 away_score = away_scores.loc[index]
+
+                # simulations given current scores
+                home_simulations = sims_h.iloc[minute+1:].sum() + home_score
+                away_simulations = sims_a.iloc[minute+1:].sum() + away_score
+                home_w_prob = (home_simulations > away_simulations).sum() / home_simulations.shape[0]
+                away_w_prob = (home_simulations < away_simulations).sum() / home_simulations.shape[0]
+                draw_prob = (home_simulations == away_simulations).sum() / home_simulations.shape[0]
+                DATA_DF.loc[index, f'simulated_{col}_home_win_prob'] = home_w_prob
+                DATA_DF.loc[index, f'simulated_{col}_away_win_prob'] = away_w_prob
+                DATA_DF.loc[index, f'simulated_{col}_draw_prob'] = draw_prob
+                
                 # simulations given a simulated home score and current scores
                 next_minute_score_home = sims_h.T[sims_h.T[minute+1] > 0].index
                 prob_next_min_home_score = next_minute_score_home.shape[0] / sims_h.T.shape[0]
@@ -130,4 +151,4 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
 
     done.add(match_id)
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_final_{date_str}.csv'), index=False)
+DATA_DF.to_csv(args.output, index=False)

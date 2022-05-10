@@ -46,32 +46,52 @@
 import os
 import gc
 import re
+import sys
 import math
+import logging
+import argparse
 import pandas as pd
 from datetime import datetime
 
 DATA_DIR = '../data/'
-OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
+DIR = os.path.dirname(os.path.realpath(__file__))
+DATA_DIR = os.path.join(DIR, '../data')
 SIM_DIR = os.path.join(DATA_DIR, 'simulations')
-date_str = datetime.today().strftime('%Y-%m-%d')
-DATA_DF = pd.read_csv(os.path.join(OUT_DIR, f'season_2013_agg_cleaned_{date_str}.csv'))
-for score_col in ['home_goal', 'away_goal', 'home_score', 'away_score']:
-    DATA_DF[score_col] = None
+
+logging.basicConfig(level=logging.INFO,
+                    handlers=[logging.StreamHandler(sys.stdout)],
+                    format='%(asctime)s %(levelname)s - %(message)s',
+                    datefmt='%m-%d-%y %H:%M:%S')
+
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+DATA_DF = pd.read_csv(args.input)
+
+for new_col in ['home_goal', 'away_goal', 'home_score', 'away_score',
+                'sim_home_prob', 'sim_away_prob', 'sim_draw_prob', 'sim_suspense']:
+    DATA_DF[new_col] = None
 
 done = set()
 for match_id, match_df in DATA_DF.groupby('Event ID'):
     match_id = str(int(match_id))
     if match_id in done:
-        print(f'{match_id} already done. skipping.')
+        logging.info(f'{match_id} already done. skipping.')
         continue
 
     sim_file_h = os.path.join(SIM_DIR, f'{match_id}_home.csv')
     sim_file_a = os.path.join(SIM_DIR, f'{match_id}_away.csv')
     if not os.path.isfile(sim_file_h) or not os.path.isfile(sim_file_a):
-        print(f'no file exists for {match_id}')
+        logging.info(f'no file exists for {match_id}')
         continue
 
-    print(f'running for {match_id}')
+    logging.info(f'running for {match_id}')
     sims_h = pd.read_csv(sim_file_h, index_col=0).drop(index=['score'])
     sims_a = pd.read_csv(sim_file_a, index_col=0).drop(index=['score'])
     sims_h.index = sims_h.index.astype(int)
@@ -90,9 +110,8 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
     DATA_DF.loc[match_df.index, 'away_score'] = away_scores
     start_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[0].name
     half_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[1].name
-    # CHANGE. HAS to BACKTRACK
 
-    for col in ['eff', 'mean', 'median']:
+    for col in ['eff']:
         first_half = True
         minute = 0
         for index, row in match_df.iterrows():
@@ -103,47 +122,80 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
 
             home_score = home_scores.loc[index]
             away_score = away_scores.loc[index]
+
+            # simulations given current scores
+            home_simulations = sims_h.iloc[minute+1:].sum() + home_score
+            away_simulations = sims_a.iloc[minute+1:].sum() + away_score
+            sim_home_w_prob = (home_simulations > away_simulations).sum() / home_simulations.shape[0]
+            sim_away_w_prob = (home_simulations < away_simulations).sum() / home_simulations.shape[0]
+            sim_draw_prob = (home_simulations == away_simulations).sum() / home_simulations.shape[0]
+            DATA_DF.loc[index, 'sim_home_prob'] = sim_home_w_prob
+            DATA_DF.loc[index, 'sim_away_prob'] = sim_away_w_prob
+            DATA_DF.loc[index, 'sim_draw_prob'] = sim_draw_prob
+
             # simulations given a simulated home score and current scores
             next_minute_score_home = sims_h.T[sims_h.T[minute+1] > 0].index
             prob_next_min_home_score = next_minute_score_home.shape[0] / sims_h.T.shape[0]
-            home_simulations = sims_h.iloc[minute+1:][next_minute_score_home].sum() + home_score
-            away_simulations = sims_a.iloc[minute+1:][next_minute_score_home].sum() + away_score
-            home_w_prob = (home_simulations > away_simulations).sum() / next_minute_score_home.shape[0]
-            away_w_prob = (home_simulations < away_simulations).sum() / next_minute_score_home.shape[0]
-            draw_prob = (home_simulations == away_simulations).sum() / next_minute_score_home.shape[0]
-            home_sq_diff = math.pow((home_w_prob-row[f'{col}_prob_home']), 2)
-            away_sq_diff = math.pow((away_w_prob-row[f'{col}_prob_away']), 2)
-            draw_sq_diff = math.pow((draw_prob-row[f'{col}_prob_draw']), 2)
-            home_score_sums = (prob_next_min_home_score*home_sq_diff)+\
-              (prob_next_min_home_score*away_sq_diff)+\
-                (prob_next_min_home_score*draw_sq_diff)
+            home_score_home_simulations = sims_h.iloc[minute+1:][next_minute_score_home].sum() + home_score
+            home_score_away_simulations = sims_a.iloc[minute+1:][next_minute_score_home].sum() + away_score
+            home_score_home_prob = (home_score_home_simulations > home_score_away_simulations).sum() / next_minute_score_home.shape[0]
+            home_score_away_prob = (home_score_home_simulations < home_score_away_simulations).sum() / next_minute_score_home.shape[0]
+            home_score_draw_prob = (home_score_home_simulations == home_score_away_simulations).sum() / next_minute_score_home.shape[0]
+
+            sim_home_score_home_sq_diff = math.pow((home_score_home_prob-sim_home_w_prob), 2)
+            sim_home_score_away_sq_diff = math.pow((home_score_away_prob-sim_away_w_prob), 2)
+            sim_home_score_draw_sq_diff = math.pow((home_score_draw_prob-sim_draw_prob), 2)
+            sim_home_score_sums = (prob_next_min_home_score*sim_home_score_home_sq_diff)+\
+              (prob_next_min_home_score*sim_home_score_away_sq_diff)+\
+                (prob_next_min_home_score*sim_home_score_draw_sq_diff)
+
+            # simulations w/ real odds given a simulated home score and current scores
+            home_score_home_sq_diff = math.pow((home_score_home_prob-row[f'{col}_prob_home']), 2)
+            home_score_away_sq_diff = math.pow((home_score_away_prob-row[f'{col}_prob_away']), 2)
+            home_score_draw_sq_diff = math.pow((home_score_draw_prob-row[f'{col}_prob_draw']), 2)
+            home_score_sums = (prob_next_min_home_score*home_score_home_sq_diff)+\
+              (prob_next_min_home_score*home_score_away_sq_diff)+\
+                (prob_next_min_home_score*home_score_draw_sq_diff)
 
             # simulations given a simulated away score and current scores
             next_minute_score_away = sims_a.T[sims_a.T[minute+1] > 0].index
             prob_next_min_away_score = next_minute_score_away.shape[0] / sims_a.T.shape[0]
-            home_simulations = sims_h.iloc[minute+1:][next_minute_score_away].sum() + home_score
-            away_simulations = sims_a.iloc[minute+1:][next_minute_score_away].sum() + away_score
-            home_w_prob = (home_simulations > away_simulations).sum() / next_minute_score_away.shape[0]
-            away_w_prob = (home_simulations < away_simulations).sum() / next_minute_score_away.shape[0]
-            draw_prob = (home_simulations == away_simulations).sum() / next_minute_score_away.shape[0]
-            home_sq_diff = math.pow((home_w_prob-row[f'{col}_prob_home']), 2)
-            away_sq_diff = math.pow((away_w_prob-row[f'{col}_prob_away']), 2)
-            draw_sq_diff = math.pow((draw_prob-row[f'{col}_prob_draw']), 2)
-            away_score_sums = (prob_next_min_away_score*home_sq_diff)+\
-              (prob_next_min_away_score*away_sq_diff)+\
-                (prob_next_min_away_score*draw_sq_diff)
+            away_score_home_simulations = sims_h.iloc[minute+1:][next_minute_score_away].sum() + home_score
+            away_score_away_simulations = sims_a.iloc[minute+1:][next_minute_score_away].sum() + away_score
+            away_score_home_prob = (away_score_home_simulations > away_score_away_simulations).sum() / next_minute_score_away.shape[0]
+            away_score_away_prob = (away_score_home_simulations < away_score_away_simulations).sum() / next_minute_score_away.shape[0]
+            away_score_draw_prob = (away_score_home_simulations == away_score_away_simulations).sum() / next_minute_score_away.shape[0]
+
+            sim_away_score_home_sq_diff = math.pow((away_score_home_prob-sim_home_w_prob), 2)
+            sim_away_score_away_sq_diff = math.pow((away_score_away_prob-sim_away_w_prob), 2)
+            sim_away_score_draw_sq_diff = math.pow((away_score_draw_prob-sim_draw_prob), 2)
+            sim_away_score_sums = (prob_next_min_away_score*sim_away_score_home_sq_diff)+\
+              (prob_next_min_away_score*sim_away_score_away_sq_diff)+\
+                (prob_next_min_away_score*sim_away_score_draw_sq_diff)
+
+            # simulations w/ real odds given a simulated away score and current scores
+            away_score_home_sq_diff = math.pow((away_score_home_prob-row[f'{col}_prob_home']), 2)
+            away_score_away_sq_diff = math.pow((away_score_away_prob-row[f'{col}_prob_away']), 2)
+            away_score_draw_sq_diff = math.pow((away_score_draw_prob-row[f'{col}_prob_draw']), 2)
+            away_score_sums = (prob_next_min_away_score*away_score_home_sq_diff)+\
+              (prob_next_min_away_score*away_score_away_sq_diff)+\
+                (prob_next_min_away_score*away_score_draw_sq_diff)
 
             # sum the sums, raise to the power 1/2
             suspense = math.sqrt(home_score_sums+away_score_sums)
-            print(f'agg key {row.agg_key}. minute: {minute}. suspense: {suspense}')
+            sim_suspense = math.sqrt(sim_home_score_sums+sim_away_score_sums)
+            logging.info(f'agg key {row.agg_key}. minute: {minute}. suspense: {round(suspense, 3)}. simulated suspense: {round(sim_suspense, 3)}')
             if first_half and minute < 45:
                 minute += 1
             if not first_half and minute < 91:
                 minute += 1
 
-            DATA_DF.loc[index, f'suspense_{col}_prob'] = suspense # change
+            DATA_DF.loc[index, f'suspense_{col}_prob'] = suspense
+            DATA_DF.loc[index, f'sim_suspense'] = sim_suspense
             DATA_DF.loc[index, 'minute'] = minute
 
     done.add(match_id)
+    if len(done) % 50 == 0: # change back to 50
+        DATA_DF.to_csv(args.output, index=False)
 
-DATA_DF.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_suspense_{date_str}.csv'), index=False)
+DATA_DF.to_csv(args.output, index=False)
