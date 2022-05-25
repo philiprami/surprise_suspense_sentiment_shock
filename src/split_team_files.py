@@ -6,20 +6,18 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 
-prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
 emotional_cues = ['surprise', 'shock']
 
 def _parse_and_validate_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--input', '-i',
-                        type='str',
                         required=True)
     parser.add_argument('--output', '-o',
                         required=True)
     return parser.parse_args()
 
 args = _parse_and_validate_arguments()
-os.makedirs(args.output, exists_ok=True)
+os.makedirs(args.output, exist_ok=True)
 df = pd.read_csv(args.input)
 all_teams = set(df.selection_home.unique()).union(set(df.selection_away.unique()))
 out_frames = {}
@@ -32,33 +30,73 @@ for team_name in all_teams:
         team_df = df[(is_home | is_away) & in_play].reset_index(drop=True)
         team_df.agg_key = pd.to_datetime(team_df.agg_key)
         team_df.sort_values(['Event ID', 'agg_key'], inplace=True)
-        team_df['is_home'] = np.where(team_df.selection_home == team_name, 1, 0)
-        team_df['fan_tweet'] = np.where(team_df.selection_home == team_name, team_df['fan_tweets_home'], team_df['fan_tweets_away'])
-        team_df['fan_retweet_tweet'] = np.where(team_df.selection_home == team_name, (team_df['fan_tweets_home']+team_df['fan_retweets_home']), (team_df['fan_tweets_away']+team_df['fan_retweets_away']))
-        team_df['fan_tweet_sent_mean'] = np.where(team_df.selection_home == team_name, team_df['fan_tweet_sent_mean_home'], team_df['fan_tweet_sent_mean_away'])
-        team_df['fan_tweet'].fillna(0, inplace=True)
-        team_df['fan_retweet_tweet'].fillna(0, inplace=True)
-        team_df['fan_tweet_sent_mean'].fillna(0, inplace=True)
-        team_df['ln_fan_tweet'] = np.log(team_df['fan_tweet'])
-        team_df['ln_fan_retweet_tweet'] = np.log(team_df['fan_retweet_tweet'])
-        team_df['ln_fan_tweet_sent_mean'] = np.log(team_df['fan_tweet_sent_mean'])
+        home_cols = [x for x in team_df.columns if 'home' in x]
+        away_cols = [x for x in team_df.columns if 'away' in x]
+        for home_col, away_col in zip(home_cols, away_cols):
+            col = home_col.replace('_home', '').replace('home_', '')
+            team_df[col] = np.where(team_df.selection_home == team_name, team_df[home_col], team_df[away_col])
+            team_df[f'opp_{col}'] = np.where(team_df.selection_home == team_name, team_df[away_col], team_df[home_col])
 
-        team_df['hater_tweet'] = np.where(team_df.selection_home == team_name, team_df['hater_tweets_home'], team_df['hater_tweets_away'])
-        team_df['hater_retweet_tweet'] = np.where(team_df.selection_home == team_name, (team_df['hater_tweets_home']+team_df['hater_retweets_home']), (team_df['hater_tweets_away']+team_df['hater_retweets_away']))
-        team_df['hater_tweet_sent_mean'] = np.where(team_df.selection_home == team_name, team_df['hater_tweet_sent_mean_home'], team_df['hater_tweet_sent_mean_away'])
-        team_df['hater_tweet'].fillna(0, inplace=True)
-        team_df['hater_retweet_tweet'].fillna(0, inplace=True)
-        team_df['hater_tweet_sent_mean'].fillna(0, inplace=True)
-        team_df['ln_hater_tweet'] = np.log(team_df['hater_tweet'])
-        team_df['ln_hater_retweet_tweet'] = np.log(team_df['hater_retweet_tweet'])
-        team_df['ln_hater_tweet_sent_mean'] = np.log(team_df['hater_tweet_sent_mean'])
+        team_df['is_home'] = np.where(team_df.selection_home == team_name, 1, 0)
+
+        # REPLACE HOME AND AWAY WITH TEAM AND OPPONENT
+        team_df['num_tweets'].fillna(0, inplace=True)
+        team_df['num_retweets'].fillna(0, inplace=True)
+        team_df['sentiment'].fillna(0, inplace=True)
+        team_df['opp_num_tweets'].fillna(0, inplace=True)
+        team_df['opp_num_retweets'].fillna(0, inplace=True)
+        team_df['opp_sentiment'].fillna(0, inplace=True)
+        team_df['num_tweets_retweets'] = team_df['num_tweets'] + team_df['num_retweets']
+        team_df['opp_num_tweets_retweets'] = team_df['opp_num_tweets'] + team_df['opp_num_retweets']
+        team_df['num_tweets_retweets'].fillna(0, inplace=True)
+        team_df['opp_num_tweets_retweets'].fillna(0, inplace=True)
+
+        team_df['fan_tweets'].fillna(0, inplace=True)
+        team_df['fan_retweets'].fillna(0, inplace=True)
+        team_df['fan_sentiment'].fillna(0, inplace=True)
+        team_df['opp_fan_tweets'].fillna(0, inplace=True)
+        team_df['opp_fan_retweets'].fillna(0, inplace=True)
+        team_df['opp_fan_sentiment'].fillna(0, inplace=True)
+        team_df['fan_tweets_retweets'] = team_df['fan_tweets'] + team_df['fan_retweets']
+        team_df['opp_fan_tweets_retweets'] = team_df['opp_fan_tweets'] + team_df['opp_fan_retweets']
+        team_df['fan_tweets_retweets'].fillna(0, inplace=True)
+        team_df['opp_fan_tweets_retweets'].fillna(0, inplace=True)
+
+        team_df['hater_tweets'].fillna(0, inplace=True)
+        team_df['hater_retweets'].fillna(0, inplace=True)
+        team_df['hater_sentiment'].fillna(0, inplace=True)
+        team_df['opp_hater_tweets'].fillna(0, inplace=True)
+        team_df['opp_hater_retweets'].fillna(0, inplace=True)
+        team_df['opp_hater_sentiment'].fillna(0, inplace=True)
+        team_df['hater_tweets_retweets'] = team_df['hater_tweets'] + team_df['hater_retweets']
+        team_df['opp_hater_tweets_retweets'] = team_df['opp_hater_tweets'] + team_df['opp_hater_retweets']
+        team_df['hater_tweets_retweets'].fillna(0, inplace=True)
+        team_df['opp_hater_tweets_retweets'].fillna(0, inplace=True)
 
         deficit = np.where(team_df.selection_home == team_name, (team_df['home_score']-team_df['away_score']), (team_df['away_score']-team_df['home_score']))
         team_df['multiplier'] = np.where(deficit >= 0 , deficit+1, deficit)
-        for cue in emotional_cues:
-            for prob in prob_cols:
-                team_df[f'own_{cue}_{prob}'] = team_df[f'{cue}_{prob}'] * team_df['multiplier']
+        for cue in ['shock', 'surprise', 'sim_shock', 'sim_surprise']:
+            team_df[f'own_{cue}'] = team_df[cue] * team_df['multiplier']
 
+        # remove cols, re-order
+        columns = ['Course', 'Date', 'time', 'Event ID', 'Inplay flag', 'Market status'] \
+                + ['selection', 'opp_selection', 'is_home'] \
+                + ['agg_key', 'minute', 'event', 'opp_event', 'event_home'] \
+                + ['goal',	'opp_goal', 'score', 'opp_score'] \
+                + ['num_tweets', 'num_retweets', 'num_tweets_retweets', 'opp_num_tweets', 'opp_num_retweets', 'opp_num_tweets_retweets'] \
+                + ['fan_tweets', 'fan_retweets', 'fan_tweets_retweets', 'opp_fan_tweets', 'opp_fan_retweets', 'opp_fan_tweets_retweets'] \
+                + ['hater_tweets', 'hater_retweets', 'hater_tweets_retweets', 'opp_hater_tweets', 'opp_hater_retweets', 'opp_hater_tweets_retweets'] \
+                + ['shock', 'surprise', 'suspense'] \
+                + ['sim_shock', 'sim_surprise', 'sim_suspense'] \
+                + ['multiplier', 'own_shock', 'own_surprise', 'own_sim_shock', 'own_sim_surprise'] \
+                + ['sentiment', 'opp_sentiment'] \
+                + ['fan_sentiment', 'opp_fan_sentiment'] \
+                + ['hater_sentiment', 'opp_hater_sentiment'] \
+                + ['price_match', 'opp_price_match', 'price_match_draw'] \
+                + ['prob', 'opp_prob', 'prob_draw'] \
+                + ['sim_prob', 'opp_sim_prob', 'sim_prob_draw']
+
+        team_df = team_df[columns]
         uniq_team_df = pd.DataFrame()
         for i, frame in team_df.groupby('Event ID'):
             last_minute = frame.minute == 45
