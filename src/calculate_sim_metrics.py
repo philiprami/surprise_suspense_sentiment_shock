@@ -36,12 +36,15 @@ for match_id, match_df in event_gb:
 
     print(match_id)
     match_df.sort_values('agg_key', inplace=True)
-    pre_match = match_df['Inplay flag'] == 0
     pre_match_probs = {}
+    try:
+        start_index = match_df[match_df.event_home.fillna('').str.contains('start')].iloc[0].name
+    except IndexError:
+        continue
     sim_cols = ['sim_home_prob', 'sim_away_prob', 'sim_draw_prob']
     for col in sim_cols:
         match_df[f'{col}-1'] = match_df[col].shift(1)
-        pre_match_probs[col] = match_df[~pre_match].iloc[0][col]
+        pre_match_probs[col] = match_df.loc[start_index-1][col]
 
     surprise = ((match_df['sim_home_prob'] - match_df['sim_home_prob-1']).apply(lambda x: pow(x, 2)) + \
                 (match_df['sim_away_prob'] - match_df['sim_away_prob-1']).apply(lambda x: pow(x, 2)) + \

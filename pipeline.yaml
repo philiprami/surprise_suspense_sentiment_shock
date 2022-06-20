@@ -1,30 +1,30 @@
 scripts:
-    aggregate_min.py:
-        output: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
-    reformat_dataset.py:
-        input: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
-    rescale.py:
-        input: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
-    calculate_metrics.py:
-        input: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
-    cleanup_data.py:
-        input: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_cleaned_{{ get_date() }}.csv
-    calculate_suspense.py:
-        input: data/aggregated/season_2013_agg_cleaned_2022-04-15.csv
-        output: data/aggregated/season_2013_agg_suspense_{{ get_date() }}.csv
-    calculate_sim_metrics.py:
-        input: data/aggregated/season_2013_agg_suspense_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
-    recalculate_redcards.py:
-        input: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
-        output: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
-    remove_and_reorder.py:
-        input: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
-        ouptut: data/aggregated/season_2013_agg_final_processed_{{ get_date() }}.csv
+    # aggregate_min.py:
+    #     output: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
+    # reformat_dataset.py:
+    #     input: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
+    # rescale.py:
+    #     input: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
+    # calculate_metrics.py:
+    #     input: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
+    # cleanup_data.py:
+    #     input: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_cleaned_{{ get_date() }}.csv
+    # calculate_suspense.py:
+    #     input: data/aggregated/season_2013_agg_cleaned_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_suspense_{{ get_date() }}.csv
+    # calculate_sim_metrics.py:
+    #     input: data/aggregated/season_2013_agg_suspense_2022-05-25.csv
+    #     output: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
+    # recalculate_redcards.py:
+    #     input: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
+    #     output: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
+    # remove_and_reorder.py:
+    #     input: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
+    #     ouptut: data/aggregated/season_2013_agg_final_processed_{{ get_date() }}.csv
     split_team_files.py:
-        input: data/aggregated/season_2013_agg_final_processed_{{ get_date() }}.csv
+        input: data/aggregated/season_2013_agg_final_processed_2022-05-26.csv
         output: data/aggregated/team_data/{{ get_date() }}

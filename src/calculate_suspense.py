@@ -115,6 +115,16 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
         first_half = True
         minute = 0
         for index, row in match_df.iterrows():
+            if index == start_index-1:
+                home_simulations = sims_h.sum()
+                away_simulations = sims_a.sum()
+                sim_home_w_prob = (home_simulations > away_simulations).sum() / home_simulations.shape[0]
+                sim_away_w_prob = (home_simulations < away_simulations).sum() / home_simulations.shape[0]
+                sim_draw_prob = (home_simulations == away_simulations).sum() / home_simulations.shape[0]
+                DATA_DF.loc[index, 'sim_home_prob'] = sim_home_w_prob
+                DATA_DF.loc[index, 'sim_away_prob'] = sim_away_w_prob
+                DATA_DF.loc[index, 'sim_draw_prob'] = sim_draw_prob
+                continue
             if index < start_index:
                 continue
             if index >= half_index:
@@ -185,6 +195,7 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
             suspense = math.sqrt(home_score_sums+away_score_sums)
             sim_suspense = math.sqrt(sim_home_score_sums+sim_away_score_sums)
             logging.info(f'agg key {row.agg_key}. minute: {minute}. suspense: {round(suspense, 3)}. simulated suspense: {round(sim_suspense, 3)}')
+
             if first_half and minute < 45:
                 minute += 1
             if not first_half and minute < 91:

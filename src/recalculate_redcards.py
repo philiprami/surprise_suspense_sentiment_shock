@@ -99,6 +99,16 @@ for match_id, match_df in DATA_DF.groupby('Event ID'):
             first_half = True
             minute = 0
             for index, row in match_df.iterrows():
+                if index == start_index-1:
+                    home_simulations = sims_h.sum()
+                    away_simulations = sims_a.sum()
+                    sim_home_w_prob = (home_simulations > away_simulations).sum() / home_simulations.shape[0]
+                    sim_away_w_prob = (home_simulations < away_simulations).sum() / home_simulations.shape[0]
+                    sim_draw_prob = (home_simulations == away_simulations).sum() / home_simulations.shape[0]
+                    DATA_DF.loc[index, 'sim_home_prob'] = sim_home_w_prob
+                    DATA_DF.loc[index, 'sim_away_prob'] = sim_away_w_prob
+                    DATA_DF.loc[index, 'sim_draw_prob'] = sim_draw_prob
+                    continue
                 if index < start_index:
                     continue
                 if index >= half_index:
