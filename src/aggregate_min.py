@@ -4,6 +4,7 @@ import sys
 import json
 import time
 import ntpath
+import statistics
 import numpy as np
 import pandas as pd
 from glob import glob
@@ -98,7 +99,7 @@ for master_file in master_files:
 
         # merge in event
         match_df.sort_values('datetime', inplace=True)
-        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+        game_start = pd.to_datetime(f'{statistics.mode(match_df.Date)} {statistics.mode(match_df.time)}')
         game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['agg_key'] >= game_start)
         if game_start_mask.sum() < 1:
             continue
