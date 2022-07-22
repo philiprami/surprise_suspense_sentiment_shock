@@ -120,10 +120,10 @@ for team_name in all_teams:
 
         out_frames[team_name] = uniq_team_df
 
-out_frames['Crystal Palace'].selection = 'C Palace'
-out_frames['C Palace'] = out_frames['C Palace'].append(out_frames['Crystal Palace'])
-del out_frames['Crystal Palace']
+# out_frames['Crystal Palace'].selection = 'C Palace'
+# out_frames['C Palace'] = out_frames['C Palace'].append(out_frames['Crystal Palace'])
+# del out_frames['Crystal Palace']
 for team_name, team_df in out_frames.items():
-    # outfile = os.path.join(args.output, f'season_2013_agg_final_{team_name}.csv')
-    # team_df.to_csv(outfile, index=False)
+    outfile = os.path.join(args.output, f'season_2013_agg_final_{team_name}.csv')
+    team_df.to_csv(outfile, index=False)
     print(team_name, team_df[['Event ID', 'selection', 'opp_selection']].drop_duplicates().dropna().shape[0])

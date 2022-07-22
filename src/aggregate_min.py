@@ -11,16 +11,17 @@ from glob import glob
 from datetime import timedelta, datetime
 import xml.etree.ElementTree as et
 
-DATA_DIR = '../data/'
-MASTER_DIR = DATA_DIR + 'Fracsoft/'
-OUT_DIR = DATA_DIR + 'aggregated/'
-COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
+CWD = os.path.dirname(__file__)
+DATA_DIR = os.path.join(CWD, '..', 'data')
+MASTER_DIR = os.path.join(DATA_DIR, 'Fracsoft')
+OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
+COMMENTARY_DIR = os.path.join(DATA_DIR, 'commentaries')
+SENTIMENT_DIR = os.path.join(DATA_DIR, 'Sentiment Scores')
 
-with open(DATA_DIR + 'cols.json','r') as column_file:
+with open(os.path.join(DATA_DIR, 'cols.json'),'r') as column_file:
     cols = json.load(column_file)
 
-with open(DATA_DIR + 'sentiment_map.json', 'r') as json_file:
+with open(os.path.join(DATA_DIR, 'sentiment_map.json'), 'r') as json_file:
     file_map = json.load(json_file)
     for x, y in list(file_map.items()):
         file_map[x.replace('_merged', '')] = file_map[x]
@@ -50,7 +51,7 @@ new_cols = ['event', 'tweet_sent_mean', 'num_tweets', 'num_retweets',
             'hater_tweets', 'hater_retweets', 'hater_tweet_sent_mean']
 
 agg_results = pd.DataFrame(columns=keep_cols+new_cols)
-master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
+master_files = sorted(glob(os.path.join(MASTER_DIR, '*season_2013_match_part*.csv*')))
 matches_done = set()
 all_matches = set()
 for master_file in master_files:
@@ -73,7 +74,12 @@ for master_file in master_files:
             print('skipping: ', match_id)
             continue
 
-        print(match_id)
+        courses = match_df.Course.unique()
+        if len(courses) > 1:
+            course = next(filter(lambda x: 'Second Half Match Odds' not in x, courses))
+            match_df['Course'] = course
+
+        print(match_df['Course'].unique())
         match_df.sort_values('datetime', inplace=True)
         match_df['agg_key'] = match_df['datetime'].astype('datetime64[m]')
         min_gb = match_df.groupby('agg_key')
@@ -241,6 +247,6 @@ for master_file in master_files:
         # write out progress
         matches_done.add(match_id)
         if len(matches_done) % 50 == 0: # change back to 50
-            agg_results.to_csv(OUT_DIR + f'season_2013_agg_min_{date_str}.csv', index=False)
+            agg_results.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_min_{date_str}.csv'), index=False)
 
-agg_results.to_csv(OUT_DIR + f'season_2013_agg_min_{date_str}.csv', index=False)
+agg_results.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_min_{date_str}.csv'), index=False)

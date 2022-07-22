@@ -21,12 +21,28 @@ with open(os.path.join(DATA_DIR, '../scoring_rates.json'), 'r') as json_file:
 DISTRIBUTION = pd.read_csv(os.path.join(DATA_DIR, '../scoring_distribution.csv'), index_col=0)
 TRIALS = 100000
 
-df = pd.read_csv(os.path.join(DATA_DIR, 'season_2013_agg_final_processed_2022-05-26.csv'))
+df = pd.read_csv(os.path.join(DATA_DIR, 'season_2013_agg_final_processed_2022-07-21.csv'))
 missing_courses = [
-    'Soccer : English Soccer : Barclays Premier League : Fixtures 06 October   : Norwich v Chelsea : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 01 February  : Hull v Tottenham : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 08 February  : Aston Villa v West Ham : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 15 March     : Everton v Cardiff : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 15 March     : Southampton v Norwich : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 15 March     : Stoke v West Ham : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 22 March : Hull v West Brom : Match Odds',
+    'Soccer : English Soccer : Barclays Premier League : Fixtures 22 March : Norwich v Sunderland : Match Odds',
     'Soccer : English Soccer : Barclays Premier League : Fixtures 29 March     : Swansea v Norwich : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 29 March     : West Brom v Cardiff : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 05 April     : Cardiff v C Palace : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 12 April : C Palace v Aston Villa : Match Odds',
+    'Soccer : English Soccer : Barclays Premier League : Fixtures 12 April : Fulham v Norwich : Match Odds',
+    'Soccer : English Soccer : Barclays Premier League : Fixtures 11 May : Cardiff v Chelsea : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 11 May : Liverpool v Newcastle : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 11 May : Man City v West Ham : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 11 May : Sunderland v Swansea : Match Odds',
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 17 August : West Ham v Cardiff : Match Odds',
+    'Soccer : English Soccer : Barclays Premier League : Fixtures 24 August    : Newcastle v West Ham : Match Odds',
     'Soccer : English Soccer : Barclays Premier League : Fixtures 15 September : Southampton v West Ham : Match Odds',
-    'Soccer : English Soccer : Barclays Premier League : Fixtures 24 August    : Newcastle v West Ham : Match Odds'
+    # 'Soccer : English Soccer : Barclays Premier League : Fixtures 06 October   : Norwich v Chelsea : Match Odds',
 ]
 missing_ids = df[df.Course.isin(missing_courses)]['Event ID'].unique()
 
@@ -38,14 +54,17 @@ for match_id, match_df in df[df['Event ID'].isin(missing_ids)].groupby('Event ID
     match_id = str(int(match_id))
     sim_file_h = os.path.join(SIM_DIR, f'{match_id}_home.csv')
     sim_file_a = os.path.join(SIM_DIR, f'{match_id}_away.csv')
-    if not os.path.isfile(sim_file_h) or not os.path.isfile(sim_file_a):
+    rates = scoring_rates.get(match_id, {'foo':0}).values()
+    if not os.path.isfile(sim_file_h) or not os.path.isfile(sim_file_a) or not all(rates):
         logging.info(f'no file exists for {match_id}')
         if match_id in scoring_rates:
             home_team = teams[match_id]['selection_home']
             away_team = teams[match_id]['selection_away']
             match_rates = scoring_rates[match_id]
-            scoring_rate_home = match_rates[home_team] if home_team in match_rates else np.mean([x[home_team] for x in list(scoring_rates.values()) if home_team in x])
-            scoring_rate_away = match_rates[away_team] if away_team in match_rates else np.mean([x[away_team] for x in list(scoring_rates.values()) if away_team in x])
+            scoring_rate_home = match_rates.get(home_team, 0)
+            scoring_rate_home = scoring_rate_home if scoring_rate_home > 0 else np.mean([x[home_team] for x in list(scoring_rates.values()) if home_team in x])
+            scoring_rate_away = match_rates.get(away_team, 0)
+            scoring_rate_away = scoring_rate_away if scoring_rate_away > 0 else np.mean([x[away_team] for x in list(scoring_rates.values()) if away_team in x])
         else:
             scoring_rate_home = np.mean([x[home_team] for x in list(scoring_rates.values()) if home_team in x])
             scoring_rate_away = np.mean([x[away_team] for x in list(scoring_rates.values()) if away_team in x])
@@ -174,26 +193,68 @@ for match_id, match_df in df[df['Event ID'].isin(missing_ids)].groupby('Event ID
         df.loc[index, f'sim_suspense'] = sim_suspense
         df.loc[index, 'minute'] = minute
 
-        pre_match_probs = {}
-        sim_cols = ['sim_prob_home', 'sim_prob_away', 'sim_prob_draw']
-        for col in sim_cols:
-            match_df[f'{col}-1'] = match_df[col].shift(1)
-            pre_match_probs[col] = match_df.loc[start_index-1][col]
+    new_match_df = df.loc[match_df.index]
+    pre_match_probs = {}
+    sim_cols = ['sim_prob_home', 'sim_prob_away', 'sim_prob_draw']
+    for col in sim_cols:
+        new_match_df[f'{col}-1'] = new_match_df[col].shift(1)
+        pre_match_probs[col] = new_match_df.loc[start_index-1][col]
 
-        surprise = ((match_df['sim_prob_home'] - match_df['sim_prob_home-1']).apply(lambda x: pow(x, 2)) + \
-                    (match_df['sim_prob_away'] - match_df['sim_prob_away-1']).apply(lambda x: pow(x, 2)) + \
-                    (match_df['sim_prob_draw'] - match_df['sim_prob_draw-1']).apply(lambda x: pow(x, 2)))\
-                    .apply(lambda x: math.sqrt(x))
+    sim_surprise = ((new_match_df['sim_prob_home'] - new_match_df['sim_prob_home-1']).apply(lambda x: pow(x, 2)) + \
+                (new_match_df['sim_prob_away'] - new_match_df['sim_prob_away-1']).apply(lambda x: pow(x, 2)) + \
+                (new_match_df['sim_prob_draw'] - new_match_df['sim_prob_draw-1']).apply(lambda x: pow(x, 2)))\
+                .apply(lambda x: math.sqrt(x))
 
-        shock = ((match_df['sim_prob_home'] - pre_match_probs['sim_prob_home']).apply(lambda x: pow(x, 2)) + \
-                 (match_df['sim_prob_away'] - pre_match_probs['sim_prob_away']).apply(lambda x: pow(x, 2)) + \
-                 (match_df['sim_prob_draw'] - pre_match_probs['sim_prob_draw']).apply(lambda x: pow(x, 2)))\
-                 .apply(lambda x: math.sqrt(x))
+    sim_shock = ((new_match_df['sim_prob_home'] - pre_match_probs['sim_prob_home']).apply(lambda x: pow(x, 2)) + \
+             (new_match_df['sim_prob_away'] - pre_match_probs['sim_prob_away']).apply(lambda x: pow(x, 2)) + \
+             (new_match_df['sim_prob_draw'] - pre_match_probs['sim_prob_draw']).apply(lambda x: pow(x, 2)))\
+             .apply(lambda x: math.sqrt(x))
 
-        df.loc[match_df.index, 'sim_surprise'] = surprise
-        df.loc[match_df.index, 'sim_shock'] = shock
+    df.loc[match_df.index, 'sim_surprise'] = sim_surprise
+    df.loc[match_df.index, 'sim_shock'] = sim_shock
 
-for x, y in df.groupby('Event ID').minute.count().iteritems():
-    print(x,y)
+df.loc[df.selection_home == 'Crystal Palace', 'selection_home'] = 'C Palace'
+df.loc[df.selection_away == 'Crystal Palace', 'selection_away'] = 'C Palace'
+df.loc[df['Event ID'] == 27136720, 'selection_home'] = 'Fulham'
 
-df.to_csv(os.path.join(DATA_DIR, 'season_2013_agg_final_processed_2022-07-06.csv'), index=False)
+minute = df.minute.notnull()
+no_price = df.price_match_home.isnull() | df.price_match_away.isnull() | df.price_match_draw.isnull()
+high_min = df.minute > 75
+under_91 = df.minute < 91
+mask = minute & no_price & high_min & under_91
+missing_price_matches = df[mask]['Event ID'].unique() # 21 matches
+for event_id, frame in df[df['Event ID'].isin(missing_price_matches)].groupby('Event ID'):
+    cols = ['shock', 'surprise', 'suspense', 'price_match_home', 'price_match_away', 'price_match_draw', 'prob_draw', 'prob_away', 'prob_home']
+    for col in cols:
+        frame[col].ffill(inplace=True)
+
+    df.loc[frame.index] = frame
+
+trimmed_df = pd.DataFrame()
+for event_id, frame in df.groupby('Event ID'):
+    course = next(filter(lambda x: 'Second Half Match Odds' not in x, frame.Course.unique()))
+    minute = frame.minute.count()
+    shock = frame.shock.count()
+    surprise = frame.surprise.count()
+    suspense = frame.suspense.count()
+    sim_shock = frame.sim_shock.count()
+    sim_surprise = frame.sim_surprise.count()
+    sim_suspense = frame.sim_suspense.count()
+    if not all([minute, shock, surprise, suspense, sim_shock, sim_surprise, sim_suspense]):
+        print(f'{course}\n{minute=} {shock=} {surprise=} {suspense=} {sim_shock=} {sim_surprise=} {sim_suspense=}\n')
+
+    minute_df = frame.drop_duplicates('minute', keep='first')[['minute', 'shock', 'surprise', 'suspense', 'sim_shock', 'sim_surprise', 'sim_suspense', 'Course', 'selection_home']]
+    minute_df = minute_df[minute_df.minute.notnull()]
+    trimmed_df = pd.concat([minute_df.head(90), trimmed_df])
+
+trimmed_df.groupby('selection_home').count()
+(trimmed_df.groupby('selection_home').count() < 1710).any(axis=1)
+
+# team_df = trimmed_df[trimmed_df.selection_home == 'Fulham']
+# for x, y in team_df.groupby(['Course']):
+#     if (y.count() < 90).any():
+#         print(x)
+#         print(y.isnull().sum())
+#         break
+
+df.to_csv(os.path.join(DATA_DIR, 'season_2013_agg_final_processed_2022-07-21.csv'), index=False)
