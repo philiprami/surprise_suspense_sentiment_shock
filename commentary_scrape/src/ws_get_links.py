@@ -23,8 +23,8 @@ driver.wait = WebDriverWait(driver, timeout=15, poll_frequency=1.5)
 df = utils.get_links_data(LINK_FILE)
 for season in SEASON_CODES:
     code = SEASON_CODES[season]
-    # link = 'https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/{}/England-Premier-League'.format(code)
-    link = 'https://www.whoscored.com/Regions/233/Tournaments/85/Seasons/7172/Stages/15823/Show/USA-Major-League-Soccer-2018'
+    link = 'https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/{}/England-Premier-League'.format(code)
+    # link = 'https://www.whoscored.com/Regions/233/Tournaments/85/Seasons/7172/Stages/15823/Show/USA-Major-League-Soccer-2018'
     driver.get(link)
     utils.sleep(3, 5)
 
@@ -68,5 +68,5 @@ for season in SEASON_CODES:
 
         week_bttn = utils.find_css_element(driver, 'a[class*="date button"]')
         week = week_bttn.text
-        
+
 # df.to_csv(LINK_FILE, index=False)
