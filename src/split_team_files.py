@@ -73,9 +73,10 @@ for team_name in all_teams:
         team_df['hater_tweets_retweets'].fillna(0, inplace=True)
         team_df['opp_hater_tweets_retweets'].fillna(0, inplace=True)
 
-        deficit = np.where(team_df.selection_home == team_name, (team_df['home_score']-team_df['away_score']), (team_df['away_score']-team_df['home_score']))
-        team_df['multiplier'] = np.where(deficit >= 0 , deficit+1, deficit)
-        for cue in ['shock', 'surprise', 'sim_shock', 'sim_surprise']:
+        goal_diff = np.where(team_df.selection_home == team_name, (team_df['home_score']-team_df['away_score']), (team_df['away_score']-team_df['home_score']))
+        # team_df['multiplier'] = np.where(goal_diff >= 0 , goal_diff+1, goal_diff)
+        team_df['multiplier'] = np.where(goal_diff < 0 , -1, 1) # change to non-scaled multiplier
+        for cue in ['shock', 'surprise', 'sim_shock', 'sim_surprise', 'suspense', 'sim_suspense']:
             team_df[f'own_{cue}'] = team_df[cue] * team_df['multiplier']
 
         # remove cols, re-order
@@ -88,7 +89,7 @@ for team_name in all_teams:
                 + ['hater_tweets', 'hater_retweets', 'hater_tweets_retweets', 'opp_hater_tweets', 'opp_hater_retweets', 'opp_hater_tweets_retweets'] \
                 + ['shock', 'surprise', 'suspense'] \
                 + ['sim_shock', 'sim_surprise', 'sim_suspense'] \
-                + ['multiplier', 'own_shock', 'own_surprise', 'own_sim_shock', 'own_sim_surprise'] \
+                + ['multiplier', 'own_shock', 'own_surprise', 'own_sim_shock', 'own_sim_surprise', 'own_suspense', 'own_sim_suspense'] \
                 + ['sentiment', 'opp_sentiment'] \
                 + ['fan_sentiment', 'opp_fan_sentiment'] \
                 + ['hater_sentiment', 'opp_hater_sentiment'] \
