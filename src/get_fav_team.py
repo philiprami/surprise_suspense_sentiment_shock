@@ -41,6 +41,9 @@ team_names = \
 sentiment_frame = pd.DataFrame()
 scores_frame = pd.DataFrame()
 master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
+all_sent_scores = np.array([])
+post_match_sent = np.array([])
+lfc_lol_set = set()
 for master_file in master_files:
     master_dir, master = ntpath.split(master_file)
     df = pd.read_csv(master_file, header=None)
@@ -78,16 +81,21 @@ for master_file in master_files:
             print('crystal palce. continue')
             continue
 
-        match_df.sort_values('datetime', inplace=True)
-        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
-        game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['datetime'] >= game_start)
-        if game_start_mask.sum() < 1:
-            print(match_df.iloc[0].Course)
-            continue
-
-        actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
-        game_end = match_df.iloc[-1].datetime
+        # match_df.sort_values('datetime', inplace=True)
+        # game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+        # game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['datetime'] >= game_start)
+        # if game_start_mask.sum() < 1:
+        #     print(match_df.iloc[0].Course)
+        #     continue
+        #
+        # actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
+        # game_end = match_df.iloc[-1].datetime
         sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
+        lfc_lol = sent_df.tweet.str.lower().str.contains('lfc lol')
+        lfc_lol_set = lfc_lol_set.union(set(sent_df[lfc_lol].tweeter_name.values))
+
+
+        all_sent_scores = np.concatenate([all_sent_scores, sent_df.predictions.to_numpy()])
         sent_df['time'] = pd.to_datetime(sent_df['time'])
         sent_df['time'] = sent_df['time'].apply(lambda x: x.replace(tzinfo=None))
         sent_df.sort_values('time', inplace=True)
@@ -96,6 +104,7 @@ for master_file in master_files:
         offset = twitter_actual_start - min(sent_df.time)
         sent_df['time'] = sent_df['time'] + offset
         after_game = sent_df['time'] >= game_end
+        post_match_sent = np.concatenate([post_match_sent, sent_df[after_game].predictions.to_numpy()])
         av_pred = sent_df[after_game].groupby('tweeter_name')['predictions'].mean()
         av_pred.name = f'{match_id}-{selection}'
         sentiment_frame = sentiment_frame.join(av_pred, how='outer')
@@ -160,28 +169,52 @@ sent_polarized = sentiment_frame * mult_df
 sent_polarized.columns = [x.split('-')[1] for x in sent_polarized.columns]
 fan_results = []
 hater_results = []
+num_tweets = []
+num_teams = []
+same_team_count = 0
+fav_team_tie = 0
+hater_team_tie = 0
+post_win = []
+post_loss = []
+num_wins_tweeted = 0
+num_losses_tweeted = 0
 for tweeter, row in sent_polarized.iterrows():
     sorted_row = row.dropna().sort_values(ascending=False)
+    num_tweets.append(sorted_row.shape[0])
+    num_teams.append(len(set(sorted_row.index)))
     if row.notnull().sum() < 3:
         continue
 
     fav_team = None
     max_score_team = sorted_row.index[0]
     wins = sorted_row > 0
-    if wins.sum() >= 2:
-        try: top_team = statistics.mode(sorted_row[wins][:5].index)
-        except: top_team = None
-        if max_score_team == top_team:
-            fav_team = top_team
+    if wins.sum():
+        post_win.append(sorted_row[wins][0])
+        num_wins_tweeted += sorted_row[wins].shape[0]
+    # if wins.sum() >= 2:
+    #     try: top_team = statistics.mode(sorted_row[wins][:5].index)
+    #     except: top_team = None
+    #     if max_score_team == top_team:
+    #         fav_team = top_team
 
     hater_team = None
     min_score_team = sorted_row.index[-1]
     losses = sorted_row < 0
+    if losses.sum():
+        post_loss.append(sorted_row[losses][-1])
+        num_losses_tweeted += sorted_row[losses].shape[0]
+
+    continue
     if losses.sum() >= 2:
         try: bottom_team = statistics.mode(sorted_row[losses][:5].index)
         except: bottom_team = None
         if min_score_team == bottom_team:
             hater_team = bottom_team
+
+    if fav_team == hater_team:
+        if fav_team:
+            if
+        same_team_count += 1
 
     if fav_team:
         if fav_team == hater_team:
@@ -190,6 +223,7 @@ for tweeter, row in sent_polarized.iterrows():
             average_sent_loss = team_loc[team_loc < 0].mean()
             if average_sent_win > abs(average_sent_loss):
                 fan_results.append([tweeter, fav_team])
+                fav_team_tie += 1
             else:
                 fan_results.append([tweeter, None])
         else:
@@ -209,6 +243,7 @@ for tweeter, row in sent_polarized.iterrows():
             average_sent_loss = team_loc[team_loc < 0].mean()
             if average_sent_win < abs(average_sent_loss):
                 hater_results.append([tweeter, hater_team])
+                hater_team_tie += 1
             else:
                 hater_results.append([tweeter, None])
         else:
@@ -217,7 +252,7 @@ for tweeter, row in sent_polarized.iterrows():
             if biggest_win > abs(biggest_loss):
                 hater_results.append([tweeter, None])
             else:
-                hater_results.append([tweeter, hater_team])
+        #         hater_results.append([tweeter, hater_team])
     else:
         hater_results.append([tweeter, None])
 
