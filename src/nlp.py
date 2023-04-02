@@ -49,6 +49,15 @@ def evaluate(model, test_features, test_labels):
     errors = abs(predictions - test_labels)
     mape = 100 * np.mean(errors / test_labels)
     accuracy = 100 - mape
+
+    from sklearn import metrics
+    print('Mean Absolute Error (MAE):', metrics.mean_absolute_error(test_labels, predictions))
+    print('Mean Squared Error (MSE):', metrics.mean_squared_error(test_labels, predictions))
+    print('Root Mean Squared Error (RMSE):', np.sqrt(metrics.mean_squared_error(test_labels, predictions)))
+    mape = np.mean(np.abs((test_labels - predictions) / np.abs(test_labels)))
+    print('Mean Absolute Percentage Error (MAPE):', round(mape * 100, 2))
+    print('Accuracy:', round(100*(1 - mape), 2))
+
     print('Model Performance')
     print('Average Error: {:0.4f} degrees.'.format(np.mean(errors)))
     print('Accuracy = {:0.2f}%.'.format(accuracy))
@@ -86,8 +95,7 @@ if __name__ == '__main__':
     # drop nulls
     isnull = (data_df['processed'] == '') | data_df['processed'].isnull()
     data_df = data_df[~isnull].reset_index(drop=True)
-    data_df.to_csv(os.path.join(MASTER_DIR, 'processed_data.txt'), sep='\t', index=False, quoting=3)
-    data_df2 = pd.read_csv(os.path.join(MASTER_DIR, 'processed_data.txt'), sep='\t')
+    # data_df.to_csv(os.path.join(MASTER_DIR, 'processed_data.txt'), sep='\t', index=False, quoting=3)
 
     def tokenize(doc):
         return [word for word in word_tokenize(doc.lower())]
@@ -107,10 +115,7 @@ if __name__ == '__main__':
         'min_samples_split': [7],
         'n_estimators': [550]
     }
-    # Create a based model
-    rf = RandomForestRegressor()
-    # Instantiate the grid search model
-    grid_search = GridSearchCV(estimator=rf, param_grid=param_grid,
+    grid_search = GridSearchCV(estimator=RandomForestRegressor(), param_grid=param_grid,
                                cv=4, verbose=2, n_jobs=4)
 
     grid_search.fit(X_train, y_train)
@@ -154,3 +159,29 @@ if __name__ == '__main__':
         processed_files.add(filename)
         del df
         del vectors
+
+    # feature importance
+    # after grid search is done
+    best_params = {"bootstrap": True, "max_depth": 90, "max_features": "auto", "min_samples_leaf": 2, "min_samples_split": 9, "n_estimators": 550}
+    rf = RandomForestRegressor(**best_params, verbose=2, n_jobs=3)
+    rf.fit(X_train, y_train)
+
+    accuracy = evaluate(rf, X_test, y_test)
+    feature_importances = rf.feature_importances_
+    tdif_features = tdif_vectorizer.get_feature_names()
+    sorted_features = sorted(zip(tdif_features, feature_importances), key=itemgetter(-1), reverse=True)
+    feature_df = pd.DataFrame.from_records(sorted_features, columns =['token', 'importance'])
+
+    fn=data.feature_names
+    cn=data.target_names
+    import matplotlib.pyplot as plt
+    from sklearn import tree
+    fig, axes = plt.subplots(nrows = 1,ncols = 1,figsize = (4,4), dpi=800)
+    tree.plot_tree(rf.estimators_[0],
+                   feature_names=tdif_features,
+                   filled = True);
+    fig.savefig('rf_individualtree.png')
+
+    # https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+    # https://www.projectpro.io/recipes/use-tf-df-vectorizer
+    # https://stackoverflow.com/questions/40155128/plot-trees-for-a-random-forest-in-python-with-scikit-learn
