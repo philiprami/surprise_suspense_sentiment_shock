@@ -33,7 +33,7 @@ All python scripts were used exclusively for model training, data compilation, p
 **RECOMMENDED:** running all steps is highly compute and time intensive. To skip to analysis and modeling (last step), simply download the final dataset and run the final do file.
 
 ### To Run
-PREQUISITE: Before any aggregations can be processed, two one time processes must be completed: 
+PREQUISITE: Before any aggregations can be processed, a few one time processes must be completed: 
 
 **1) Commentary Scrape**
 ```
@@ -44,12 +44,28 @@ PREQUISITE: Before any aggregations can be processed, two one time processes mus
 python commentary_scrape/src/ws_get_links.py
 python commentary_scrape/src/ws_scrape_links.py
 python commentary_scrape/src/ws_process_xml.py
+python src/find_card_types.py
 ```
 
-**2) Random Forest Sentiment Analysis**
+**2) Map Data**
+```
+# To run
+python src/map_data.py
+```
+
+**3) Random Forest Sentiment Analysis & Fans/Haters**
 ```
 # To run 
 python src/nlp.py
+python src/get_fav_teamp.py
+```
+
+**4) Scoring Rates/Distribution & Match Simulations**
+```
+# To run
+python src/get_scoring_distrib.py
+python src/estimate_scoring_rates.py
+python src/simulate_goals.py
 ```
 
 ---
@@ -92,3 +108,6 @@ To run simply run the run.py python script. It will read pipeline.yaml as a conf
 # To run 
 python run.py
 ```
+---
+#### Analysis
+The R scripts described are use for regression analysis and analysis by team. To run, execute the scripts "modeling.R" and "modeling_by_team.R" in an R compatible IDE such as RStudio.
