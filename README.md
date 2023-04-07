@@ -28,15 +28,17 @@ The data sources used in this project include historical **betfair** data source
 1. **Final** - File name: **season_2013_agg_final_processed.csv**. Dataset compiled using the acquired odds, commentaries, simulations, and twitter data. Complete with all derived emotional cues - surprise, suspense, shock, and sentiment - for each match.
 
 ## Code
-All python scripts were used exclusively for model training, data compilation, processing, and merging. Regression analysis is contained within the Stata .do files. All data input files for the scripts can be found in the Google Drive link listed in the data section.
+All python scripts were used exclusively for model training, data compilation, processing, and merging. Regression analysis is contained within the R scripts. All data input files for the scripts can be found in the Google Drive link listed in the data section. In order to run, download all data files and place them in this project in the folder named "data" (do not change any folder named). All scripts will point to this folder for data ingestion and delivery.
 
-RECOMMENDED: running all steps is highly compute and time intensive. To skip to analysis and modeling (last step), simply download the final dataset and run the final do file.
+**RECOMMENDED:** running all steps is highly compute and time intensive. To skip to analysis and modeling (last step), simply download the final dataset and run the final do file.
 
-**commentary_scrape**
-<br />
-Before any aggregations can be processed, commentaries must be scraped. Since this data only needs to be acquired once, it's kept in its own standalone project named "commentary_scrape".
+### To Run
+PREQUISITE: Before any aggregations can be processed, two one time processes must be completed: 
+
+**1) Commentary Scrape**
 ```
-# Note: project leverages selenium (a software QA package). In order to enable the package, first download the latest gecko driver. Store the path to the downloaded driver in your environment variables as "GECKO_DRIVER_PATH".
+# Note: project leverages selenium (a software QA package). In order to enable the package, first download the latest gecko driver (https://github.com/mozilla/geckodriver/releases). 
+# Store the path to the downloaded driver in your environment variables as "GECKO_DRIVER_PATH". 
 
 # To run
 python commentary_scrape/src/ws_get_links.py
@@ -44,42 +46,49 @@ python commentary_scrape/src/ws_scrape_links.py
 python commentary_scrape/src/ws_process_xml.py
 ```
 
-**timezones.py**
-<br />
-python script to find timezones and corresponding utc offsets for each date/location pair found in the odds dataset
+**2) Random Forest Sentiment Analysis**
 ```
-# To run
-python timezones.py -i '/path/to/odds.dta' -o 'path/to/timezones.dta'
+# To run 
+python src/nlp.py
 ```
 
-**wiki_views.py**
-<br />
-python script to get Wikipedia article views for every player in the manually compiled list of tennis players
+---
+#### Execute pipeline
+The pipeline described in pipeline.yaml is a step wise approach to process our final dataset. Each step is executed synchronously with dependency on the previous step. The scripts, inputs, and outputs are detailed below. 
 ```
-# To run
-python wiki_views.py -i '/path/to/players.csv' -o 'path/to/wikipedia.csv'
+scripts:
+  aggregate_min.py:
+      output: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
+  reformat_dataset.py:
+      input: data/aggregated/season_2013_agg_min_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
+  rescale.py:
+      input: data/aggregated/season_2013_agg_reformatted_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
+  calculate_metrics.py:
+      input: data/aggregated/season_2013_agg_scaled_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
+  cleanup_data.py:
+      input: data/aggregated/season_2013_agg_metrics_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_cleaned_{{ get_date() }}.csv
+  calculate_suspense.py:
+      input: data/aggregated/season_2013_agg_cleaned_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_suspense_{{ get_date() }}.csv
+  calculate_sim_metrics.py:
+      input: data/aggregated/season_2013_agg_suspense_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
+  recalculate_redcards.py:
+      input: data/aggregated/season_2013_agg_sim_results_{{ get_date() }}.csv
+      output: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
+  remove_and_reorder.py:
+      input: data/aggregated/season_2013_agg_final_{{ get_date() }}.csv
+      ouptut: data/aggregated/season_2013_agg_final_processed_{{ get_date() }}.csv
+  split_team_files.py:
+      input: data/aggregated/season_2013_agg_final_processed_{{ get_date() }}.csv
+      output: data/aggregated/team_data/{{ get_date() }}
 ```
-
-**elo.R**
-<br />
-R script to provide elo and welo ratings for every player and match time in the dataset with ranking information. Ouput is elo.dta and welo.dta
+To run simply run the run.py python script. It will read pipeline.yaml as a config file.
 ```
-# To run
-Rscript elo.R
-```
-
-**merge_all.do**
-<br />
-merges the wikipedia article views data into the odds.dta file for winners and losers. Additionally, timezones and elo/welo are merged in. The output file (final.dta) will be used for estimation and demonstration of the betting strategy.
-```
-# To run
-do merge_all.do
-```
-
-**final.do**
-<br />
-stata .do file to reproduce estimations/figures found in our paper. File also includes light data manipulation/feature engineering
-```
-# To run
-do final.do
+# To run 
+python run.py
 ```
