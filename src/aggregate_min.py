@@ -1,3 +1,4 @@
+import argparse
 import os
 import gc
 import sys
@@ -18,6 +19,14 @@ OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 COMMENTARY_DIR = os.path.join(DATA_DIR, 'commentaries')
 SENTIMENT_DIR = os.path.join(DATA_DIR, 'Sentiment Scores')
 
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+
 with open(os.path.join(DATA_DIR, 'cols.json'),'r') as column_file:
     cols = json.load(column_file)
 
@@ -29,10 +38,10 @@ with open(os.path.join(DATA_DIR, 'sentiment_map.json'), 'r') as json_file:
         for event_num in file_map[key]:
              file_map[event_num] = file_map[key][event_num]
 
-fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams.csv'))
-hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams.csv'))
-
-date_str = datetime.today().strftime('%Y-%m-%d')
+# fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams.csv'))
+# hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams.csv'))
+fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams_transformer.csv'))
+hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams_transformer.csv'))
 
 team_names = \
 {'Crystal Palace': 'C Palace',
@@ -113,7 +122,7 @@ for master_file in master_files:
         actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
         game_end = match_df[match_df['Inplay flag'] == 1].sort_values('datetime').iloc[-1]['datetime']
         xml_name = ';'.join(match_df['Course'].iloc[0].split(':')[:-1]).strip() + '.xml'
-        xml_file = COMMENTARY_DIR + master.replace('.csv.gz', '/').replace('.csv', '/') + xml_name
+        xml_file = os.path.join(COMMENTARY_DIR, master.replace('.csv.gz', '/').replace('.csv', '/'), xml_name)
         if not os.path.isfile(xml_file):
             print('missing ', xml_name)
             continue
@@ -186,7 +195,7 @@ for master_file in master_files:
         if match_file == 'epl-Crystal Palace-2013-08-18.csv':
             continue
 
-        sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
+        sent_df = pd.read_csv(os.path.join(SENTIMENT_DIR, match_file))
         sent_df['agg_key'] = sent_df['time'].astype('datetime64[m]')#.astype(str)
         tweet_sent_mean = sent_df.groupby('agg_key')['predictions'].mean()
         tweet_sent_mean.name = 'tweet_sent_mean'
@@ -195,11 +204,19 @@ for master_file in master_files:
         num_retweets = sent_df.groupby('agg_key')['retweets'].sum()
         num_retweets.name = 'num_retweets'
 
+        other_file = next(filter(lambda x: selection not in x, match_files))
+        other_sent_df = pd.read_csv(os.path.join(SENTIMENT_DIR, other_file))
+        other_sent_df['agg_key'] = other_sent_df['time'].astype('datetime64[m]')#.astype(str)
+        other_fan_df = other_sent_df.merge(fan_data, left_on='tweeter_name', right_on='twitter_name', how='left')
+        other_fan_mask = other_fan_df['fav_team'] == selection
+        other_fan_tweets = other_fan_df[other_fan_mask].agg_key.value_counts()
+        other_fan_retweets = other_fan_df[other_fan_mask].groupby('agg_key')['retweets'].sum()
+
         fan_df = sent_df.merge(fan_data, left_on='tweeter_name', right_on='twitter_name', how='left')
         fan_mask = fan_df['fav_team'] == selection
-        fan_tweets = fan_df[fan_mask].agg_key.value_counts()
+        fan_tweets = fan_df[fan_mask].agg_key.value_counts() + other_fan_tweets
         fan_tweets.name = 'fan_tweets'
-        fan_retweets = fan_df[fan_mask].groupby('agg_key')['retweets'].sum()
+        fan_retweets = fan_df[fan_mask].groupby('agg_key')['retweets'].sum() + other_fan_retweets
         fan_retweets.name = 'fan_retweets'
         fan_tweet_sent_mean = fan_df[fan_mask].groupby('agg_key')['predictions'].mean()
         fan_tweet_sent_mean.name = 'fan_tweet_sent_mean'
@@ -247,6 +264,6 @@ for master_file in master_files:
         # write out progress
         matches_done.add(match_id)
         if len(matches_done) % 50 == 0: # change back to 50
-            agg_results.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_min_{date_str}.csv'), index=False)
+            agg_results.to_csv(args.output, index=False)
 
-agg_results.to_csv(os.path.join(OUT_DIR, f'season_2013_agg_min_{date_str}.csv'), index=False)
+agg_results.to_csv(args.output, index=False)

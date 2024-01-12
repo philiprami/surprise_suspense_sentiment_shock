@@ -1,3 +1,4 @@
+import argparse
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
@@ -5,7 +6,18 @@ from datetime import datetime, timedelta
 DATA_DIR = '../data/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 date_str = datetime.today().strftime('%Y-%m-%d')
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_metrics_{date_str}.csv', encoding='utf8')
+
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+
+INPUT = pd.read_csv(args.input, encoding='utf8')
 OUTPUT = pd.DataFrame()
 
 done = set()
@@ -95,4 +107,4 @@ for match_id, match_df in event_gb:
     OUTPUT = OUTPUT.append(match_df, ignore_index=True)
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_cleaned_{date_str}.csv', index=False)
+OUTPUT.to_csv(args.output, index=False)

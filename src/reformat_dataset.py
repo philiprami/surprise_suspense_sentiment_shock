@@ -1,3 +1,4 @@
+import argparse
 import os
 import sys
 import numpy as np
@@ -12,7 +13,17 @@ SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 same_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'agg_key', 'Inplay flag']
 date_str = datetime.today().strftime('%Y-%m-%d')
 
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_min_2022-04-12.csv')
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+
+INPUT = pd.read_csv(args.input)
 OUTPUT = pd.DataFrame()
 gb = INPUT.groupby('Event ID')
 for gbi, (match_id, match_df) in enumerate(gb):
@@ -46,6 +57,6 @@ for gbi, (match_id, match_df) in enumerate(gb):
     OUTPUT = OUTPUT.append(merged)
 
     if gbi % 100 == 0:
-        OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_reformatted_{date_str}.csv', index=False)
+        OUTPUT.to_csv(args.output, index=False)
 
-OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_reformatted_{date_str}.csv', index=False)
+OUTPUT.to_csv(args.output, index=False)

@@ -3,6 +3,7 @@ import gc
 import pandas as pd
 from glob import glob
 import matplotlib.pyplot as plt
+import scienceplots
 # pip install git+https://github.com/garrettj403/SciencePlots.git
 # install latex: https://www.tug.org/mactex/mactex-download.html
 plt.style.use(['science','no-latex'])

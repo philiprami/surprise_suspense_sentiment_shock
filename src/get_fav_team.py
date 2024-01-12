@@ -15,7 +15,7 @@ DATA_DIR = '../data/'
 MASTER_DIR = DATA_DIR + 'Fracsoft/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
+SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/2023-12-14/'
 
 with open(DATA_DIR + 'cols.json','r') as column_file:
     cols = json.load(column_file)
@@ -44,6 +44,8 @@ master_files = sorted(glob(MASTER_DIR + '*season_2013_match_part*.csv*'))
 all_sent_scores = np.array([])
 post_match_sent = np.array([])
 lfc_lol_set = set()
+unique_users = set() # len == 2916399
+unique_considered_users = set() # len == 1320034
 for master_file in master_files:
     master_dir, master = ntpath.split(master_file)
     df = pd.read_csv(master_file, header=None)
@@ -81,19 +83,23 @@ for master_file in master_files:
             print('crystal palce. continue')
             continue
 
-        # match_df.sort_values('datetime', inplace=True)
-        # game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
-        # game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['datetime'] >= game_start)
-        # if game_start_mask.sum() < 1:
-        #     print(match_df.iloc[0].Course)
-        #     continue
-        #
-        # actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
-        # game_end = match_df.iloc[-1].datetime
-        sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
-        lfc_lol = sent_df.tweet.str.lower().str.contains('lfc lol')
-        lfc_lol_set = lfc_lol_set.union(set(sent_df[lfc_lol].tweeter_name.values))
+        if f'{match_id}-{selection}' in sentiment_frame.columns:
+            continue
 
+        match_df.sort_values('datetime', inplace=True)
+        game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+        game_start_mask = (match_df['Inplay flag'] == 1) & (match_df['datetime'] >= game_start)
+        if game_start_mask.sum() < 1:
+            print(match_df.iloc[0].Course)
+            continue
+
+        actual_start = match_df[game_start_mask].sort_values('datetime').iloc[0]['datetime']
+        game_end = match_df.iloc[-1].datetime
+        sent_df = pd.read_csv(SENTIMENT_DIR + match_file)
+        unique_users = unique_users.union(set(sent_df.tweeter_name.unique()))
+
+        # lfc_lol = sent_df.tweet.str.lower().str.contains('lfc lol')
+        # lfc_lol_set = lfc_lol_set.union(set(sent_df[lfc_lol].tweeter_name.values))
 
         all_sent_scores = np.concatenate([all_sent_scores, sent_df.predictions.to_numpy()])
         sent_df['time'] = pd.to_datetime(sent_df['time'])
@@ -105,9 +111,11 @@ for master_file in master_files:
         sent_df['time'] = sent_df['time'] + offset
         after_game = sent_df['time'] >= game_end
         post_match_sent = np.concatenate([post_match_sent, sent_df[after_game].predictions.to_numpy()])
-        av_pred = sent_df[after_game].groupby('tweeter_name')['predictions'].mean()
+        # av_pred = sent_df[after_game].groupby('tweeter_name')['predictions'].mean() # v1
+        av_pred = sent_df[after_game & (sent_df["label"] == "POS")].groupby('tweeter_name')['score'].mean()
         av_pred.name = f'{match_id}-{selection}'
         sentiment_frame = sentiment_frame.join(av_pred, how='outer')
+        unique_considered_users = unique_considered_users.union(set(av_pred.index))
 
         xml_name = ';'.join(match_df['Course'].iloc[0].split(':')[:-1]).strip() + '.xml'
         xml_file = COMMENTARY_DIR + master.replace('.csv.gz', '/').replace('.csv', '/') + xml_name
@@ -161,6 +169,7 @@ for master_file in master_files:
 
         scores_frame.loc[0, f'{match_id}-{selection}'] = score_line
 
+# sentiment_frame.to_csv(DATA_DIR + 'sent_frame_tranformer.csv', index=False)
 mult_df = sentiment_frame.copy()
 for col in sentiment_frame.columns:
     mult_df[col] = scores_frame[col].iloc[0]
@@ -191,11 +200,11 @@ for tweeter, row in sent_polarized.iterrows():
     if wins.sum():
         post_win.append(sorted_row[wins][0])
         num_wins_tweeted += sorted_row[wins].shape[0]
-    # if wins.sum() >= 2:
-    #     try: top_team = statistics.mode(sorted_row[wins][:5].index)
-    #     except: top_team = None
-    #     if max_score_team == top_team:
-    #         fav_team = top_team
+    if wins.sum() >= 2:
+        try: top_team = statistics.mode(sorted_row[wins][:5].index)
+        except: top_team = None
+        if max_score_team == top_team:
+            fav_team = top_team
 
     hater_team = None
     min_score_team = sorted_row.index[-1]
@@ -204,17 +213,11 @@ for tweeter, row in sent_polarized.iterrows():
         post_loss.append(sorted_row[losses][-1])
         num_losses_tweeted += sorted_row[losses].shape[0]
 
-    continue
     if losses.sum() >= 2:
         try: bottom_team = statistics.mode(sorted_row[losses][:5].index)
         except: bottom_team = None
         if min_score_team == bottom_team:
             hater_team = bottom_team
-
-    if fav_team == hater_team:
-        if fav_team:
-            if
-        same_team_count += 1
 
     if fav_team:
         if fav_team == hater_team:
@@ -227,8 +230,18 @@ for tweeter, row in sent_polarized.iterrows():
             else:
                 fan_results.append([tweeter, None])
         else:
-            biggest_win = sorted_row.loc[fav_team].iloc[0]
-            biggest_loss = sorted_row.loc[fav_team].iloc[-1]
+            biggest_wins = sorted_row.loc[fav_team]
+            if type(biggest_wins) == pd.Series:
+                biggest_win = biggest_wins.iloc[0]
+            else:
+                biggest_win = biggest_wins
+
+            biggest_losses = sorted_row.loc[fav_team]
+            if type(biggest_losses) == pd.Series:
+                biggest_loss = biggest_losses.iloc[-1]
+            else:
+                biggest_loss = biggest_losses
+
             if biggest_win < abs(biggest_loss):
                 fan_results.append([tweeter, None])
             else:
@@ -247,16 +260,27 @@ for tweeter, row in sent_polarized.iterrows():
             else:
                 hater_results.append([tweeter, None])
         else:
-            biggest_win = sorted_row.loc[hater_team].iloc[0]
-            biggest_loss = sorted_row.loc[hater_team].iloc[-1]
+            biggest_wins = sorted_row.loc[hater_team]
+            if type(biggest_wins) == pd.Series:
+                biggest_win = biggest_wins.iloc[0]
+            else:
+                biggest_win = biggest_wins
+
+            biggest_losses = sorted_row.loc[hater_team]
+            if type(biggest_losses) == pd.Series:
+                biggest_loss = biggest_losses.iloc[-1]
+            else:
+                biggest_loss = biggest_losses
+
             if biggest_win > abs(biggest_loss):
                 hater_results.append([tweeter, None])
-            else:
-        #         hater_results.append([tweeter, hater_team])
+            # this else statement was commented out
+            # else:
+            #     hater_results.append([tweeter, hater_team])
     else:
         hater_results.append([tweeter, None])
 
-final = pd.DataFrame(fan_results, columns=['twitter_name', 'fav_team'])
-final.to_csv(DATA_DIR + 'favorite_teams.csv', index=False)
+# final = pd.DataFrame(fan_results, columns=['twitter_name', 'fav_team'])
+# final.to_csv(DATA_DIR + 'favorite_teams_tranformer.csv', index=False)
 haters = pd.DataFrame(hater_results, columns=['twitter_name', 'hater_team'])
-haters.to_csv(DATA_DIR + 'hater_teams.csv', index=False)
+haters.to_csv(DATA_DIR + 'hater_teams_tranformer2.csv', index=False)

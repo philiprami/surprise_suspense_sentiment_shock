@@ -1,3 +1,4 @@
+import argparse
 import sys
 import pandas as pd
 from math import sqrt, pow
@@ -11,7 +12,16 @@ prob_cols = ['eff_prob', 'mean_prob', 'median_prob']
 outcomes = ['home', 'away', 'draw']
 date_str = datetime.today().strftime('%Y-%m-%d')
 
-INPUT = pd.read_csv(OUT_DIR + f'season_2013_agg_reformatted_{date_str}.csv')
+def _parse_and_validate_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input', '-i',
+                        required=True)
+    parser.add_argument('--output', '-o',
+                        required=True)
+    return parser.parse_args()
+
+args = _parse_and_validate_arguments()
+INPUT = pd.read_csv(args.input)
 OUTPUT = pd.DataFrame()
 
 # calculate implicit prob first
@@ -38,4 +48,4 @@ for match_id, match_df in event_gb:
 
     done.add(match_id)
 
-OUTPUT.to_csv(OUT_DIR + f'season_2013_agg_scaled_{date_str}.csv', index=False)
+OUTPUT.to_csv(args.output, index=False)
