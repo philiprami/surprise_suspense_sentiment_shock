@@ -18,6 +18,7 @@ MASTER_DIR = os.path.join(DATA_DIR, 'Fracsoft')
 OUT_DIR = os.path.join(DATA_DIR, 'aggregated')
 COMMENTARY_DIR = os.path.join(DATA_DIR, 'commentaries')
 SENTIMENT_DIR = os.path.join(DATA_DIR, 'Sentiment Scores')
+SENTIMENT_DIR = os.path.join(DATA_DIR, 'Sentiment Scores/2023-12-14')
 
 def _parse_and_validate_arguments():
     parser = argparse.ArgumentParser()
@@ -38,20 +39,29 @@ with open(os.path.join(DATA_DIR, 'sentiment_map.json'), 'r') as json_file:
         for event_num in file_map[key]:
              file_map[event_num] = file_map[key][event_num]
 
+sent_outliers = pd.read_csv(os.path.join(DATA_DIR, 'sentiment_outliers.csv'))
+### original fans
 # fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams.csv'))
 # hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams.csv'))
+
+### transformer fans
 fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams_transformer.csv'))
 hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams_transformer.csv'))
 
-team_names = \
-{'Crystal Palace': 'C Palace',
- 'Manchester City': 'Man City',
- 'Manchester United': 'Man Utd',
- 'Newcastle United': 'Newcastle',
- 'Newcastle':'Newcastle United',
- 'Queens Park Rangers': 'QPR',
- 'West Bromwich Albion': 'West Brom',
- 'Wolverhampton Wanderers': 'Wolves'}
+### overlap of both models
+# fan_data = pd.read_csv(os.path.join(DATA_DIR, 'favorite_teams_overlap.csv'))
+# hater_data = pd.read_csv(os.path.join(DATA_DIR, 'hater_teams_overlap.csv'))
+
+team_names = {
+    'Crystal Palace': 'C Palace',
+    'Manchester City': 'Man City',
+    'Manchester United': 'Man Utd',
+    'Newcastle United': 'Newcastle',
+    'Newcastle':'Newcastle United',
+    'Queens Park Rangers': 'QPR',
+    'West Bromwich Albion': 'West Brom',
+    'Wolverhampton Wanderers': 'Wolves'
+}
 
 keep_cols = ['Date', 'time', 'Event ID', 'Course', 'Market status', 'selection',
              'selection id', 'agg_key']
@@ -196,8 +206,13 @@ for master_file in master_files:
             continue
 
         sent_df = pd.read_csv(os.path.join(SENTIMENT_DIR, match_file))
-        sent_df['agg_key'] = sent_df['time'].astype('datetime64[m]')#.astype(str)
-        tweet_sent_mean = sent_df.groupby('agg_key')['predictions'].mean()
+        ### remove outliers
+        # sent_df = sent_df.join(sent_outliers[sent_outliers['file_name'] == match_file].reset_index()['outlier'])
+        # sent_df = sent_df[sent_df['outlier'] == 0].reset_index(drop=True)
+        ###################
+        sent_df['agg_key'] = sent_df['time'].astype('datetime64[m]') #.astype(str)
+        # tweet_sent_mean = sent_df.groupby('agg_key')['predictions'].mean()
+        tweet_sent_mean = sent_df.groupby('agg_key')['score'].mean()
         tweet_sent_mean.name = 'tweet_sent_mean'
         num_tweets = sent_df.agg_key.value_counts()
         num_tweets.name = 'num_tweets'
@@ -206,7 +221,11 @@ for master_file in master_files:
 
         other_file = next(filter(lambda x: selection not in x, match_files))
         other_sent_df = pd.read_csv(os.path.join(SENTIMENT_DIR, other_file))
-        other_sent_df['agg_key'] = other_sent_df['time'].astype('datetime64[m]')#.astype(str)
+        ### remove outliers
+        # other_sent_df = other_sent_df.join(sent_outliers[sent_outliers['file_name'] == other_file].reset_index()['outlier'])
+        # other_sent_df = other_sent_df[other_sent_df['outlier'] == 0].reset_index(drop=True)
+        ###################
+        other_sent_df['agg_key'] = other_sent_df['time'].astype('datetime64[m]') #.astype(str)
         other_fan_df = other_sent_df.merge(fan_data, left_on='tweeter_name', right_on='twitter_name', how='left')
         other_fan_mask = other_fan_df['fav_team'] == selection
         other_fan_tweets = other_fan_df[other_fan_mask].agg_key.value_counts()
@@ -218,7 +237,8 @@ for master_file in master_files:
         fan_tweets.name = 'fan_tweets'
         fan_retweets = fan_df[fan_mask].groupby('agg_key')['retweets'].sum() + other_fan_retweets
         fan_retweets.name = 'fan_retweets'
-        fan_tweet_sent_mean = fan_df[fan_mask].groupby('agg_key')['predictions'].mean()
+        # fan_tweet_sent_mean = fan_df[fan_mask].groupby('agg_key')['predictions'].mean()
+        fan_tweet_sent_mean = fan_df[fan_mask].groupby('agg_key')['score'].mean()
         fan_tweet_sent_mean.name = 'fan_tweet_sent_mean'
 
         hater_df = sent_df.merge(hater_data, left_on='tweeter_name', right_on='twitter_name', how='left')
@@ -227,7 +247,8 @@ for master_file in master_files:
         hater_tweets.name = 'hater_tweets'
         hater_retweets = hater_df[hater_mask].groupby('agg_key')['retweets'].sum()
         hater_retweets.name = 'hater_retweets'
-        hater_tweet_sent_mean = hater_df[hater_mask].groupby('agg_key')['predictions'].mean()
+        # hater_tweet_sent_mean = hater_df[hater_mask].groupby('agg_key')['predictions'].mean()
+        hater_tweet_sent_mean = hater_df[hater_mask].groupby('agg_key')['score'].mean()
         hater_tweet_sent_mean.name = 'hater_tweet_sent_mean'
 
         tweet_df = pd.concat([tweet_sent_mean, num_tweets, num_retweets,

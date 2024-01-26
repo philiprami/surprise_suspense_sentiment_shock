@@ -15,7 +15,7 @@ DATA_DIR = '../data/'
 MASTER_DIR = DATA_DIR + 'Fracsoft/'
 OUT_DIR = DATA_DIR + 'aggregated/'
 COMMENTARY_DIR = DATA_DIR + 'commentaries/'
-SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/2023-12-14/'
+SENTIMENT_DIR = DATA_DIR + 'Sentiment Scores/'
 
 with open(DATA_DIR + 'cols.json','r') as column_file:
     cols = json.load(column_file)
@@ -111,8 +111,8 @@ for master_file in master_files:
         sent_df['time'] = sent_df['time'] + offset
         after_game = sent_df['time'] >= game_end
         post_match_sent = np.concatenate([post_match_sent, sent_df[after_game].predictions.to_numpy()])
-        # av_pred = sent_df[after_game].groupby('tweeter_name')['predictions'].mean() # v1
-        av_pred = sent_df[after_game & (sent_df["label"] == "POS")].groupby('tweeter_name')['score'].mean()
+        av_pred = sent_df[after_game].groupby('tweeter_name')['predictions'].mean() # v1
+        # av_pred = sent_df[after_game & (sent_df["label"] == "POS")].groupby('tweeter_name')['score'].mean() # v2 transformer
         av_pred.name = f'{match_id}-{selection}'
         sentiment_frame = sentiment_frame.join(av_pred, how='outer')
         unique_considered_users = unique_considered_users.union(set(av_pred.index))
@@ -169,7 +169,6 @@ for master_file in master_files:
 
         scores_frame.loc[0, f'{match_id}-{selection}'] = score_line
 
-# sentiment_frame.to_csv(DATA_DIR + 'sent_frame_tranformer.csv', index=False)
 mult_df = sentiment_frame.copy()
 for col in sentiment_frame.columns:
     mult_df[col] = scores_frame[col].iloc[0]
@@ -187,8 +186,12 @@ post_win = []
 post_loss = []
 num_wins_tweeted = 0
 num_losses_tweeted = 0
+tie_break_num = 10
+from collections import Counter
+num_teams_tweated = Counter()
 for tweeter, row in sent_polarized.iterrows():
     sorted_row = row.dropna().sort_values(ascending=False)
+    num_teams_tweated[sorted_row.index.unique().size] += 1
     num_tweets.append(sorted_row.shape[0])
     num_teams.append(len(set(sorted_row.index)))
     if row.notnull().sum() < 3:
@@ -201,7 +204,7 @@ for tweeter, row in sent_polarized.iterrows():
         post_win.append(sorted_row[wins][0])
         num_wins_tweeted += sorted_row[wins].shape[0]
     if wins.sum() >= 2:
-        try: top_team = statistics.mode(sorted_row[wins][:5].index)
+        try: top_team = statistics.mode(sorted_row[wins][:tie_break_num].index)
         except: top_team = None
         if max_score_team == top_team:
             fav_team = top_team
@@ -214,7 +217,7 @@ for tweeter, row in sent_polarized.iterrows():
         num_losses_tweeted += sorted_row[losses].shape[0]
 
     if losses.sum() >= 2:
-        try: bottom_team = statistics.mode(sorted_row[losses][:5].index)
+        try: bottom_team = statistics.mode(sorted_row[losses][:tie_break_num].index)
         except: bottom_team = None
         if min_score_team == bottom_team:
             hater_team = bottom_team
@@ -275,12 +278,12 @@ for tweeter, row in sent_polarized.iterrows():
             if biggest_win > abs(biggest_loss):
                 hater_results.append([tweeter, None])
             # this else statement was commented out
-            # else:
-            #     hater_results.append([tweeter, hater_team])
+            else:
+                hater_results.append([tweeter, hater_team])
     else:
         hater_results.append([tweeter, None])
 
-# final = pd.DataFrame(fan_results, columns=['twitter_name', 'fav_team'])
-# final.to_csv(DATA_DIR + 'favorite_teams_tranformer.csv', index=False)
+final = pd.DataFrame(fan_results, columns=['twitter_name', 'fav_team'])
+final.to_csv(DATA_DIR + 'favorite_teams_10.csv', index=False)
 haters = pd.DataFrame(hater_results, columns=['twitter_name', 'hater_team'])
-haters.to_csv(DATA_DIR + 'hater_teams_tranformer2.csv', index=False)
+haters.to_csv(DATA_DIR + 'hater_teams_10.csv', index=False)
