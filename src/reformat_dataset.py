@@ -30,7 +30,8 @@ for gbi, (match_id, match_df) in enumerate(gb):
     selections = [x for x in match_df.selection.unique() if x != 'The Draw']
     if len(selections) != 2:
         continue
-    event = match_df['Course'].all()
+    # event = match_df['Course'].all()
+    event = match_df['Course'].mode()[0]
     selection_i = [event.index(x) for x in selections]
     for selection, index in zip(selections, selection_i):
         other_index = [i for i in selection_i if i != index][0]

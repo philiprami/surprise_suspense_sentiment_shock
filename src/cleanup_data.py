@@ -54,7 +54,8 @@ for match_id, match_df in event_gb:
 
     # fix twitter times
     match_df.reset_index(drop=True, inplace=True)
-    game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+    # game_start = pd.to_datetime(f'{match_df.Date.all()} {match_df.time.all()}')
+    game_start = pd.to_datetime(f'{match_df.Date.mode()[0]} {match_df.time.mode()[0]}')
     twitter_actual_start = game_start - timedelta(hours=1)
     pre_match = match_df[match_df.agg_key == str(twitter_actual_start)]
     if pre_match.shape[0] < 1:

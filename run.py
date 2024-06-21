@@ -3,8 +3,8 @@ import yaml
 import time
 import shlex
 import logging
-import datetime
 import subprocess
+from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO,
 
 # render pipeline template
 def get_date():
-    return str(datetime.datetime.today().replace(microsecond=0).isoformat())
+    return datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 
 func_dict = {
     "get_date": get_date

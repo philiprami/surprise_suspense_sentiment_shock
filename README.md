@@ -30,10 +30,10 @@ The data sources used in this project include historical **betfair** data source
 ## Code
 All python scripts were used exclusively for model training, data compilation, processing, and merging. Regression analysis is contained within the R scripts. All data input files for the scripts can be found in the Google Drive link listed in the data section. In order to run, download ALL data files and place them in this project in the folder named "data" (do not change any folder names). All scripts will point to this folder for data ingestion and delivery.
 
-**RECOMMENDED:** running all steps is highly compute and time intensive. To skip to analysis and modeling (last step), simply download the final datasets in the folder named "aggregated" and run the analysis R script: src/code_jr.R
+**RECOMMENDED:** running all steps is highly compute and time intensive (up to 5+ days of processing time). To skip to analysis and modeling (last step), simply download the final datasets in the folder named "aggregated" and run the analysis R script: src/code_jr.R
 
-### To Run
-PREQUISITE: Before any aggregations can be processed, a few one time processes must be completed: 
+### To Run (ALL)
+PREQUISITE: Please ensure pandas version 1.3.0 is installed prior to your python environment. Before any aggregations can be processed, a few one time processes must be completed: 
 
 **1) Commentary Scrape**
 ```
