@@ -28,7 +28,7 @@ The data sources used in this project include historical **betfair** data source
 1. **Final** - File name: **season_2013_agg_final_processed.csv**. Dataset compiled using the acquired odds, commentaries, simulations, and twitter data. Complete with all derived emotional cues - surprise, suspense, shock, and sentiment - for each match.
 
 ## Code
-All python scripts were used exclusively for model training, data compilation, processing, and merging. Regression analysis is contained within the R scripts. All data input files for the scripts can be found in the Google Drive link listed in the data section. In order to run, download all data files and place them in this project in the folder named "data" (do not change any folder named). All scripts will point to this folder for data ingestion and delivery.
+All python scripts were used exclusively for model training, data compilation, processing, and merging. Regression analysis is contained within the R scripts. All data input files for the scripts can be found in the Google Drive link listed in the data section. In order to run, download ALL data files and place them in this project in the folder named "data" (do not change any folder names). All scripts will point to this folder for data ingestion and delivery.
 
 **RECOMMENDED:** running all steps is highly compute and time intensive. To skip to analysis and modeling (last step), simply download the final datasets in the folder named "aggregated" and run the analysis R script: src/code_jr.R
 
@@ -58,6 +58,7 @@ python src/map_data.py
 # To run 
 python src/nlp.py
 python src/get_fav_teamp.py
+python src/get_outliers.py
 ```
 
 **4) Scoring Rates/Distribution & Match Simulations**
