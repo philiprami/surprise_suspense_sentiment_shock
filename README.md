@@ -111,4 +111,4 @@ python run.py
 ```
 ---
 #### Analysis
-The R scripts described are use for regression analysis and analysis by team. To run, execute the scripts "modeling.R" and "modeling_by_team.R" in an R compatible IDE such as RStudio.
+The R scripts described are use for regression analysis and analysis by team. To run, execute the scripts "code_jr.R" and "modeling_by_team.R" in an R compatible IDE such as RStudio.
